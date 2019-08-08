@@ -1,0 +1,13 @@
+bm_african_century = {
+	name = "BM_AFRICAN_CENTURY"
+	desc = "BM_AFRICAN_CENTURY_DESC"
+	date = 2666.1.1
+	
+	era = yes
+	picture = GFX_pick_era_image_5
+	custom_start = yes
+	
+	selectable_character = {
+		id = 1 # 
+	}
+}
