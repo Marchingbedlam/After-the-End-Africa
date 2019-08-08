@@ -1,0 +1,17 @@
+# c_grand_bassa
+
+# County Title
+title = c_grand_bassa
+
+# Settlements
+max_settlements = 3
+
+b_river_cess = castle
+b_timbo = city
+b_gonglee = temple
+
+# Misc
+culture = kru
+religion = catholic
+
+#History

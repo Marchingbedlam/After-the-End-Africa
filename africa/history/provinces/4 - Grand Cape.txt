@@ -1,0 +1,17 @@
+# c_grand_cape
+
+# County Title
+title = c_grand_cape
+
+# Settlements
+max_settlements = 3
+
+b_bo = castle
+b_robertsport = city
+b_bendaja = temple
+
+# Misc
+culture = mande
+religion = sunni
+
+#History

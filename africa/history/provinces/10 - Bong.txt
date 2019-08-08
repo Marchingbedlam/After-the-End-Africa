@@ -1,0 +1,17 @@
+# c_bong
+
+# County Title
+title = c_bong
+
+# Settlements
+max_settlements = 3
+
+b_gbarnga = castle
+b_belefuanai = city
+b_suakoko = temple
+
+# Misc
+culture = kru
+religion = catholic
+
+#History

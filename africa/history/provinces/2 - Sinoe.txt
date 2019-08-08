@@ -1,0 +1,17 @@
+# c_sinoe
+
+# County Title
+title = c_sinoe
+
+# Settlements
+max_settlements = 3
+
+b_greenville = castle
+b_kopo = city
+b_juazohn = temple
+
+# Misc
+culture = kru
+religion = catholic
+
+#History

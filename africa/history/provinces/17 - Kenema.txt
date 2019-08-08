@@ -1,0 +1,17 @@
+# c_kenema
+
+# County Title
+title = c_kenema
+
+# Settlements
+max_settlements = 3
+
+b_kenema = castle
+b_tongo = city
+b_blama = temple
+
+# Misc
+culture = mande
+religion = sunni
+
+#History

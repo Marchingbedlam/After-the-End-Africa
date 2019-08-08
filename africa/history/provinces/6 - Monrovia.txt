@@ -1,0 +1,17 @@
+# c_monrovia
+
+# County Title
+title = c_monrovia
+
+# Settlements
+max_settlements = 3
+
+b_monrovia = castle
+b_careysburg = city
+b_brewerville = temple
+
+# Misc
+culture = kru
+religion = catholic
+
+#History
