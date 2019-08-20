@@ -1,0 +1,17 @@
+# c_nara
+
+# County Title
+title = c_nara
+
+# Settlements
+max_settlements = 3
+
+b_nara = castle
+b_nara_2 = city
+b_nara_3 = temple
+
+# Misc
+culture = fula
+religion = sunni
+
+#History

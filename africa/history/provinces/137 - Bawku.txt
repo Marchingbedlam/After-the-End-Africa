@@ -1,0 +1,17 @@
+# c_bawku
+
+# County Title
+title = c_bawku
+
+# Settlements
+max_settlements = 3
+
+b_bawku = castle
+b_bawku_2 = city
+b_bawku_3 = temple
+
+# Misc
+culture = gur
+religion = sunni
+
+#History

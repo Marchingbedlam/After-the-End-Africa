@@ -1,0 +1,17 @@
+# c_quinara
+
+# County Title
+title = c_quinara
+
+# Settlements
+max_settlements = 3
+
+b_quinara = castle
+b_quinara_2 = city
+b_quinara_3 = temple
+
+# Misc
+culture = senegambian
+religion = catholic
+
+#History

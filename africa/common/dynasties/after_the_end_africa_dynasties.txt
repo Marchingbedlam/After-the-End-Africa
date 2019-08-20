@@ -1,0 +1,51 @@
+###ÄNSI
+
+1001 = { name ="King" culture = liberian } #Mix of Americo-Liberians and Kru
+1002 = { name="Eastman" culture = liberian }
+1003 = { name="Tubman" culture = liberian }
+1004 = { name="Grey" culture = liberian }
+1005 = { name="Roberts" culture = liberian }
+1006 = { name="Benson" culture=liberian }
+1007 = { name="Warner" culture=liberian }
+1008 = { name="Spriggs-Payne" culture=liberian }
+1009 = { name="Roye" culture=liberian }
+1010 = { name="Smith" culture=liberian }
+1011 = { name="Gardiner" culture=liberian }
+1012 = { name="Russell" culture=liberian }
+1013 = { name="Coleman" culture=liberian }
+1014 = { name="Gibson" culture=liberian }
+1015 = { name="Barclay" culture=liberian }
+1016 = { name="Johnson" culture=liberian }
+1017 = { name="Jackson" culture=liberian }
+1018 = { name="Twe" culture=liberian }
+1019 = { name="Doe" culture=liberian }
+1020 = { name="Taylor" culture=liberian }
+1021 = { name="Roye" culture=liberian }
+1022 = { name="McGill" culture=liberian }
+1023 = { name="Russwurm" culture=liberian }
+1024 = { name="Drayton" culture=liberian }
+
+1101 = { name="Broh" culture=kru } #
+1102 = { name="Twe" culture=kru }
+1103 = { name="Weah" culture=kru }
+1104 = {name ="Jebor" culture=kru }
+1107 = {name ="Amoussou" culture=kru }
+
+1201 = {name ="Ganda" culture=kpelle } #Sierra leone used as main source due to lack of records found
+1202 = {name ="Kondewa" culture=kpelle }
+1203 = {name ="Lansana" culture=kpelle }
+1204 = {name ="Minah" culture=kpelle }
+1206 = {name ="Musa" culture=kpelle }
+1207 = {name ="Kaikai" culture=kpelle }
+1208 = {name ="Berewa" culture=kpelle }
+1209 = {name ="Pemagbi" culture=kpelle }
+1210 = {name ="Wobay" culture=kpelle }
+
+1301 = {name ="Margai" culture=mende }
+1201 = {name ="Ganda" culture=mende }
+1202 = {name ="Kondewa" culture=mende }
+1203 = {name ="Lansana" culture=mende }
+1204 = {name ="Minah" culture=mende }
+1205 = {name ="Dauda" culture=mende }
+1211 = {name ="Trye" culture=mende }
+1212 = {name ="Norman" culture=mende }

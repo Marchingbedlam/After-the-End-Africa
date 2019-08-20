@@ -11,7 +11,7 @@ b_wieusa = city
 b_gbange = temple
 
 # Misc
-culture = mande
-religion = sunni
+culture = kpelle
+religion = libertarian
 
 #History

@@ -6,12 +6,12 @@ title = c_river_cess
 # Settlements
 max_settlements = 3
 
-b_bokoa = castle
+b_river_cess = castle
 b_sehnkwehn = city
 #b_abraham = temple
 
 # Misc
-culture = kru
-religion = catholic
+culture = liberian
+religion = libertarian
 
 #History

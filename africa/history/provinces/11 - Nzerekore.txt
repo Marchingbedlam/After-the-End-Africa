@@ -12,7 +12,7 @@ b_kobela = temple
 b_pale = castle
 
 # Misc
-culture = mande
+culture = kpelle
 religion = sunni
 
 #History

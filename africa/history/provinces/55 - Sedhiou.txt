@@ -1,0 +1,17 @@
+# c_sedhiou
+
+# County Title
+title = c_sedhiou
+
+# Settlements
+max_settlements = 3
+
+b_sedhiou = castle
+b_sedhiou_2 = city
+b_sedhiou_3 = temple
+
+# Misc
+culture = senegambian
+religion = sunni
+
+#History

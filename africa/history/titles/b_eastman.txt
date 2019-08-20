@@ -1,0 +1,7 @@
+2641.1.5={
+holding_dynasty = 1002
+
+liege="d_monrovia"
+
+holder=2
+}

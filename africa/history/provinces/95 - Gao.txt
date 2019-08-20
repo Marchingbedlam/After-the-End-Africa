@@ -1,0 +1,17 @@
+# c_gao
+
+# County Title
+title = c_gao
+
+# Settlements
+max_settlements = 3
+
+b_gao = castle
+b_gao_2 = city
+b_gao_3 = temple
+
+# Misc
+culture = tuareg
+religion = sunni
+
+#History

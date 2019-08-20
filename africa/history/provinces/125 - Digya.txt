@@ -1,0 +1,17 @@
+# c_digya
+
+# County Title
+title = c_digya
+
+# Settlements
+max_settlements = 3
+
+b_digya = castle
+b_digya_2 = city
+b_digya_3 = temple
+
+# Misc
+culture = akan
+religion = catholic
+
+#History

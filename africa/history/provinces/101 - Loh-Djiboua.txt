@@ -1,0 +1,17 @@
+# c_loh_djiboua
+
+# County Title
+title = c_loh_djiboua
+
+# Settlements
+max_settlements = 3
+
+b_loh_djiboua = castle
+b_loh_djiboua_2 = city
+b_loh_djiboua_3 = temple
+
+# Misc
+culture = akan
+religion = catholic
+
+#History

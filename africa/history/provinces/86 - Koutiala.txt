@@ -1,0 +1,17 @@
+# c_koutiala
+
+# County Title
+title = c_koutiala
+
+# Settlements
+max_settlements = 3
+
+b_koutiala = castle
+b_koutiala_2 = city
+b_koutiala_3 = temple
+
+# Misc
+culture = malinke
+religion = sunni
+
+#History

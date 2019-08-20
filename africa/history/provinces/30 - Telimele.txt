@@ -1,0 +1,17 @@
+# c_telimele
+
+# County Title
+title = c_telimele
+
+# Settlements
+max_settlements = 3
+
+b_telimele = castle
+b_telimele_2 = city
+b_telimele_3 = temple
+
+# Misc
+culture = susu
+religion = sunni
+
+#History

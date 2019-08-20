@@ -1,0 +1,17 @@
+# c_dabola
+
+# County Title
+title = c_dabola
+
+# Settlements
+max_settlements = 3
+
+b_dabola = castle
+b_dabola_2 = city
+b_dabola_3 = temple
+
+# Misc
+culture = malinke
+religion = sunni
+
+#History

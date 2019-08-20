@@ -1,0 +1,17 @@
+# c_tanene
+
+# County Title
+title = c_tanene
+
+# Settlements
+max_settlements = 3
+
+b_tanene_2 = castle
+b_tanene_3 = city
+b_tanene_4 = temple
+
+# Misc
+culture = susu
+religion = sunni
+
+#History

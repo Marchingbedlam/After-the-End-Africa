@@ -11,7 +11,7 @@ b_kahnple = city
 b_ganata = temple
 
 # Misc
-culture = kru
-religion = catholic
+culture = kpelle
+religion = libertarian
 
 #History

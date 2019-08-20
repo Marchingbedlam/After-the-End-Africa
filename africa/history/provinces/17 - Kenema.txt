@@ -11,7 +11,7 @@ b_tongo = city
 b_blama = temple
 
 # Misc
-culture = mande
+culture = mende
 religion = sunni
 
 #History

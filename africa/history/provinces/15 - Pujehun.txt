@@ -11,7 +11,7 @@ b_gandorhun = city
 b_zimmi = temple
 
 # Misc
-culture = mande
+culture = kpelle
 religion = sunni
 
 #History

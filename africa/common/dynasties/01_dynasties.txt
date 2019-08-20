@@ -1,0 +1,7 @@
+###ÄNSI
+# Dynasties should go in the appropriate culture
+
+# List of prefixes (add new ones you create here):
+# 1001 Liberian
+
+# 9001 Special Dynasties (for event-generated characters)

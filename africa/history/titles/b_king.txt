@@ -1,0 +1,6 @@
+# e_guinea
+ 2630.9.15={
+ holding_dynasty = 1001
+ liege="d_monrovia"
+ holder=1
+ }

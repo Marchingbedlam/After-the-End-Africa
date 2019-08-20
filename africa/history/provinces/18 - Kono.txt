@@ -11,7 +11,7 @@ b_motema = city
 b_yengema = temple
 
 # Misc
-culture = mande
+culture = mende
 religion = sunni
 
 #History

@@ -1,0 +1,31 @@
+#COASTS
+technology = {
+	titles = {
+		d_abidjan
+		d_ankobra
+		d_bas_sassandra
+		d_denguele
+		d_gambaga
+		d_gaoua
+		d_gourma
+		d_lacs
+		d_marahoue
+		d_montagnes
+		d_mouhoun
+		d_niger
+		d_oti
+		d_sahel
+		d_volta
+		d_zanzan
+	}
+	2555 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	3200 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

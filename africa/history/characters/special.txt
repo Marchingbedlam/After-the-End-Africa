@@ -1,0 +1,22 @@
+171822={
+	name="James Monroe" #
+	culture="liberian"
+	occluded=yes
+	religion=libertarian
+	1758.5.28={
+		birth="1758.5.28"
+	}
+	1831.7.4={
+		death="1831.7.4"
+	}
+	trait=grey_eminence
+	trait=chaste
+	trait=temperate
+	trait=charitable
+	trait=diligent
+	trait=patient
+	trait=kind
+	trait=humble
+	trait=brave
+	trait=scholar
+}

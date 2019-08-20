@@ -6,3 +6,6 @@
 2300.1.1={
 	liege=k_pepper_coast
 }
+2652.1.5={
+	holder = 13
+}

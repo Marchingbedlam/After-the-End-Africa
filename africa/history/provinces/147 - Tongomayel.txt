@@ -1,0 +1,17 @@
+# c_tongomayel
+
+# County Title
+title = c_tongomayel
+
+# Settlements
+max_settlements = 3
+
+b_tongomayel = castle
+b_tongomayel_2 = city
+b_tongomayel_3 = temple
+
+# Misc
+culture = gur
+religion = sunni
+
+#History

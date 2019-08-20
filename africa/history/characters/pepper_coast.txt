@@ -1,0 +1,238 @@
+1={
+	name="Edwin" #Monrovia patricians
+	dynasty=1001
+	culture=liberian
+	religion=libertarian
+	martial=3
+	diplomacy=3
+	stewardship=4
+	intrigue=5
+	learning=5
+	trait=indulgent_wastrel
+	trait=scholar
+	trait=brave
+	trait=content
+	2600.1.1={birth=yes}
+	2678.1.1={death=yes}
+}
+2={
+	name=Taylor #Monrovia patricians
+	dynasty=1002
+	culture=liberian
+	religion=libertarian
+	martial=7
+	diplomacy=4
+	stewardship=9
+	intrigue=8
+	learning=0
+	trait=skilled_tactician
+	trait=legit_bastard
+	trait=lustful
+	trait=proud
+	trait=brave
+	trait=stubborn
+	
+	2620.4.10={birth=yes}
+	2669.1.5={death=yes}
+}
+3={
+	name="David" #Monrovia patricians
+	dynasty=1003
+	culture=liberian
+	religion=libertarian
+	martial=3
+	diplomacy=3
+	stewardship=3
+	intrigue=3
+	learning=3
+	trait=midas_touched
+	trait=kind
+	trait=chaste
+	trait=paranoid
+	trait=zealous
+	
+	2620.4.10={birth=yes}
+	2669.1.5={death=yes}
+}
+4={
+	name="Havelock" #Monrovia patricians
+	dynasty=1004
+	culture=liberian
+	religion=libertarian
+	martial=3
+	diplomacy=6
+	stewardship=4
+	intrigue=6
+	learning=5
+	trait=intricate_webweaver
+	trait=quick
+	trait=physician
+	trait=scholar
+	trait=shrewd
+	trait=gamer
+	trait=ambitious
+	trait=cynical
+	trait=just
+	trait=chaste
+	trait=patient
+	trait=one_legged
+	
+	2634.6.21={birth=yes}
+	2660.11.28={effect = {add_artifact = prosthetic_leg_artifact} }
+	3000.3.1={death=yes}
+}
+5={
+	name=Arthur #Monrovia patricians
+	dynasty=1005
+	culture=liberian
+	religion=libertarian
+	martial=7
+	diplomacy=2
+	stewardship=5
+	intrigue=8
+	learning=3
+	trait=fortune_builder
+	trait=brave
+	trait=chaste
+	trait=trusting
+	
+	2640.4.10={birth=yes}
+	2679.1.5={death=yes}
+}
+10={
+	name="August" #Maryland
+	dynasty=9000
+	culture=liberian
+	religion=libertarian
+	martial=4
+	diplomacy=5
+	stewardship=4
+	intrigue=4
+	learning=5
+	trait=brilliant_strategist
+	trait=quick 
+	trait=mystic
+	trait=shrewd
+	trait=brave
+	trait=ambitious
+	trait=cynical
+	trait=proud
+	trait=paranoid
+	
+	2618.4.11={birth=yes}
+	2700.3.1={death=yes}
+}
+11={
+	name="Momolu"
+	dynasty=9000
+	culture=kru
+	religion=libertarian
+	martial=3
+	diplomacy=3
+	stewardship=4
+	intrigue=5
+	learning=5
+	trait=brilliant_strategist
+	trait=scarred
+	trait=one_eyed
+	trait=brave
+	trait=humble
+	trait=wroth
+	trait=zealous
+	2630.1.1={birth=yes}
+	2678.1.1={death=yes}
+}
+12={
+	name="Kabayo"
+	dynasty=9000
+	culture=kpelle
+	religion=libertarian
+	martial=6
+	diplomacy=7
+	stewardship=4
+	intrigue=4
+	learning=5
+	trait=charismatic_negotiator
+	trait=mystic
+	trait=charitable
+	trait=patient
+	trait=slothful
+	2640.5.20={birth=yes}
+	2688.1.1={death=yes}
+}
+13={
+	name="Harun"
+	dynasty=9000
+	culture=kpelle
+	religion=sunni
+	martial=4
+	diplomacy=3
+	stewardship=4
+	intrigue=4
+	learning=4
+	trait=martial_cleric 
+	trait=blinded
+	trait=heresiarch
+	trait=holy_warrior
+	trait=zealous
+	trait=honest
+	trait=chaste
+	trait=humble
+	2610.10.20={birth=yes}
+	2670.1.10={death=yes}
+}
+14={
+	name="Birama"
+	dynasty=9000
+	culture=kpelle
+	religion=sunni
+	martial=5
+	diplomacy=4
+	stewardship=1
+	intrigue=3
+	learning=4
+	trait=flamboyant_schemer
+	trait=content
+	trait=shy
+	trait=honest
+	trait=slothful
+	2645.11.20={birth=yes}
+	2670.1.14={death=yes}
+}
+15={
+	name="Ouali"
+	dynasty=9000
+	culture=kpelle
+	religion=sunni
+	diplomacy=7
+	martial=1
+	stewardship=4
+	intrigue=8
+	learning=7
+	trait=grey_eminence
+	trait=stubborn
+	trait=proud
+	trait=ambitious
+	trait=cynical
+	2626.8.12={birth=yes}
+	2672.3.9={death=yes}
+}
+16={
+	name="Fodi"
+	dynasty=9000
+	culture=mende
+	religion=libertarian
+	diplomacy=5
+	martial=4
+	stewardship=6
+	intrigue=6
+	learning=5
+	trait=fortune_builder
+	trait=schemer
+	trait=kind
+	trait=lustful
+	trait=just
+	trait=temperate
+	2629.9.9={birth=yes}
+	2671.2.10={death=yes}
+}

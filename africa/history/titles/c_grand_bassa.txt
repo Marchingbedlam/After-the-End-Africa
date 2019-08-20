@@ -6,3 +6,9 @@
 2300.1.1={
 	liege=k_pepper_coast
 }
+2600.1.3 = {
+	liege = d_monrovia
+}
+2601.6.2 = {
+	holder = 5
+}

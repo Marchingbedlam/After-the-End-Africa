@@ -1,0 +1,17 @@
+# c_bamako
+
+# County Title
+title = c_bamako
+
+# Settlements
+max_settlements = 3
+
+b_bamako = castle
+b_bamako_2 = city
+b_bamako_3 = temple
+
+# Misc
+culture = malinke
+religion = catholic
+
+#History

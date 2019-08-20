@@ -6,3 +6,9 @@
 2300.1.1={
 	liege=k_pepper_coast
 }
+2640.5.25={
+	liege=d_monrovia
+}
+2640.5.25 = {
+	holder = 2
+}

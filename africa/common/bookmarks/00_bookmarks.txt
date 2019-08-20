@@ -1,7 +1,7 @@
-bm_african_century = {
-	name = "BM_AFRICAN_CENTURY"
-	desc = "BM_AFRICAN_CENTURY_DESC"
-	date = 2666.1.1
+bm_terra_nullius = {
+	name = "BM_TERRA_NULLIUS"
+	desc = "BM_TERRA_NULLIUS_DESC"
+	date = 2663.5.25
 	
 	era = yes
 	picture = GFX_pick_era_image_5

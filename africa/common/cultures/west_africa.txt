@@ -1,0 +1,126 @@
+west_african = {
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { muslimgfx }
+
+	kru = {
+		color = { 0.6 0.8 0.6 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Nyennoh Borforh Monon-Konmlan Soe-Tehpoe Konmlan Tehpoe Pennon Togba Te Jlakon Forkay Nimene Boryee Yenseloh Odeleia Gbwe
+		}
+		
+		female_names = {
+			Arway Donyen Teenesee Jayplo Japlo Sorntee Bloh Wloh Nyonweh Tarloh
+		}
+	}
+	temne = {
+		color = { 0.6 0.7 0.7 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Nyennoh Borforh Monon-Konmlan Soe-Tehpoe Konmlan Tehpoe Pennon Togba Te Jlakon Forkay Nimene Boryee Yenseloh Odeleia Gbwe
+		}
+		
+		female_names = {
+			Arway Donyen Teenesee Jayplo Japlo Sorntee Bloh Wloh Nyonweh Tarloh
+		}
+	}
+	senegambian = {
+		color = { 0.5 0.35 0.10 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Nyennoh Borforh Monon-Konmlan Soe-Tehpoe Konmlan Tehpoe Pennon Togba Te Jlakon Forkay Nimene Boryee Yenseloh Odeleia Gbwe
+		}
+		
+		female_names = {
+			Arway Donyen Teenesee Jayplo Japlo Sorntee Bloh Wloh Nyonweh Tarloh
+		}
+	}
+	gur = {
+		color = { 0 0.4 0 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Nyennoh Borforh Monon-Konmlan Soe-Tehpoe Konmlan Tehpoe Pennon Togba Te Jlakon Forkay Nimene Boryee Yenseloh Odeleia Gbwe
+		}
+		
+		female_names = {
+			Arway Donyen Teenesee Jayplo Japlo Sorntee Bloh Wloh Nyonweh Tarloh
+		}
+	}
+	akan = {
+		color = { 0.9 0.7 0.2 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Nyennoh Borforh Monon-Konmlan Soe-Tehpoe Konmlan Tehpoe Pennon Togba Te Jlakon Forkay Nimene Boryee Yenseloh Odeleia Gbwe
+		}
+		
+		female_names = {
+			Arway Donyen Teenesee Jayplo Japlo Sorntee Bloh Wloh Nyonweh Tarloh
+		}
+	}
+    senufo = {
+		color = { 1 0.6 0.5 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Nyennoh Borforh Monon-Konmlan Soe-Tehpoe Konmlan Tehpoe Pennon Togba Te Jlakon Forkay Nimene Boryee Yenseloh Odeleia Gbwe
+		}
+		
+		female_names = {
+			Arway Donyen Teenesee Jayplo Japlo Sorntee Bloh Wloh Nyonweh Tarloh
+		}
+	}
+	liberian = {
+		graphical_cultures = { westafricangfx africangfx }
+		unit_graphical_cultures = { westafricangfx africangfx }
+
+		#secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.5 0.6 1 }
+		
+		male_names = {
+			Alfred Ansa Anthony_Anthony Arthur_Arthur Baimba Benjamin Benoni Bonokai Buyamah Charles_Charles Ciata
+			Daniel_Daniel Didwho Edward_Edward Elijah_Elijah Filibuster Garretson Gbessi Gbotoe George_George Hilary
+			Jallah James_James John_John Joseph_Joseph Kaijaah Kanneh Karmo Kayme Kemokai Kengbe Konowa Kpanna
+			Lamie Louis_Louis Luma Martin_Martin Momolu Monroe Payne Pese Samuel_Samuel Seh Sekou Solomon_Solomon Stephen_Stephen
+			Tarweh Thomas_Thomas Varney William Wilmot Winston Zolu			
+		}
+		
+		female_names = {
+			Bendu Betsy_Elizabeth Carolina Catharine_Katherine Cianna Ciata Cyvette Dido Ellen Emancipata
+			Fatu Fatumatta Gbessay Gloriana Hawa Helene Jabateh Jandi Jartu Jebbeh Jenneh Julia Jumah Justice
+			Kemah Kula Kpanna Libertas Lorpu Mabasi Maima Martha Mary Miata Miranda Musu Nullabona Nyanae
+			Respublia Rhoda Siah Somah Somo Tatu Tenneh Virginia Weyatta Yassa Zoe
+		}
+
+		from_dynasty_prefix = ""
+		
+		used_for_random = no
+
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 20
+
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 20
+		mother_name_chance = 10
+
+		modifier = default_culture_modifier
+	}
+}

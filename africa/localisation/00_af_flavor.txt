@@ -1,0 +1,19 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+
+job_spiritual_libertarian;Attorney General;;;;;;;;;;;;;x
+temple_barony_of_libertarian;Court of;;;;;;;;;;;;;x
+temple_baron_libertarian;Judge;;;;;;;;;;;;;x
+temple_baron_female_libertarian;Judge;;;;;;;;;;;;;x
+temple_baron_libertarians;Judges;;;;;;;;;;;;;x
+temple_county_of_libertarian;County Court of;;;;;;;;;;;;;x
+temple_count_libertarian;County Judge;;;;;;;;;;;;;x
+temple_count_female_libertarian;County Judge;;;;;;;;;;;;;x
+temple_duchy_of_libertarian;High Court of;;;;;;;;;;;;;x
+temple_duke_libertarian;High Judge;;;;;;;;;;;;;x
+temple_duke_female_libertarian;High Judge;;;;;;;;;;;;;x
+temple_kingdom_of_libertarian;General Court of;;;;;;;;;;;;;x
+temple_king_libertarian;General Judge;;;;;;;;;;;;;x
+temple_king_female_libertarian;General Judge;;;;;;;;;;;;;x
+temple_empire_of_libertarian;Supreme Court of;;;;;;;;;;;;;x
+temple_emperor_libertarian;Supreme Judge;;;;;;;;;;;;;x
+temple_emperor_female_libertarian;Supreme Judge;;;;;;;;;;;;;x

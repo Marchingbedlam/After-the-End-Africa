@@ -11,7 +11,7 @@ b_bonthe = city
 #b_imperri = temple
 
 # Misc
-culture = mande
-religion = sunni
+culture = mende
+religion = libertarian
 
 #History

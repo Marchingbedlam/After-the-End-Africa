@@ -1,0 +1,17 @@
+# c_todzie
+
+# County Title
+title = c_todzie
+
+# Settlements
+max_settlements = 3
+
+b_todzie = castle
+b_todzie_2 = city
+b_todzie_3 = temple
+
+# Misc
+culture = akan
+religion = catholic
+
+#History

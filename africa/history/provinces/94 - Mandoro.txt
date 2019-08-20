@@ -1,0 +1,17 @@
+# c_mandoro
+
+# County Title
+title = c_mandoro
+
+# Settlements
+max_settlements = 3
+
+b_mandoro = castle
+b_mandoro_2 = city
+b_mandoro_3 = temple
+
+# Misc
+culture = fula
+religion = sunni
+
+#History

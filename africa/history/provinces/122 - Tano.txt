@@ -1,0 +1,17 @@
+# c_tano
+
+# County Title
+title = c_tano
+
+# Settlements
+max_settlements = 3
+
+b_tano = castle
+b_tano_2 = city
+b_tano_3 = temple
+
+# Misc
+culture = akan
+religion = catholic
+
+#History

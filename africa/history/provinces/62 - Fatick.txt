@@ -1,0 +1,17 @@
+# c_fatick
+
+# County Title
+title = c_fatick
+
+# Settlements
+max_settlements = 3
+
+b_fatick = castle
+b_fatick_2 = city
+b_fatick_3 = temple
+
+# Misc
+culture = senegambian
+religion = catholic
+
+#History

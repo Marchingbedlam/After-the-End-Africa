@@ -4,14 +4,19 @@
 title = c_monrovia
 
 # Settlements
-max_settlements = 3
+max_settlements = 7
 
-b_monrovia = castle
-b_careysburg = city
-b_brewerville = temple
+b_monrovia = city
+b_capitol_hill = temple
+b_brewerville = castle
+b_caldwell = city
+#b_careysburg = temple
+#b_clay_ashland = city
+#b_arthington = temple
 
 # Misc
-culture = kru
-religion = catholic
+culture = liberian
+religion = libertarian
 
 #History
+2576.9.15 = { capital = b_monrovia }

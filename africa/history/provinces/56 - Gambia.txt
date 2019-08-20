@@ -1,0 +1,17 @@
+# c_gambia
+
+# County Title
+title = c_gambia
+
+# Settlements
+max_settlements = 3
+
+b_gambia = castle
+b_gambia_2 = city
+b_gambia_3 = temple
+
+# Misc
+culture = senegambian
+religion = catholic
+
+#History

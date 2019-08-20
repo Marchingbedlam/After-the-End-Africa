@@ -1,0 +1,17 @@
+# c_yendi
+
+# County Title
+title = c_yendi
+
+# Settlements
+max_settlements = 3
+
+b_yendi = castle
+b_yendi_2 = city
+b_yendi_3 = temple
+
+# Misc
+culture = akan
+religion = catholic
+
+#History

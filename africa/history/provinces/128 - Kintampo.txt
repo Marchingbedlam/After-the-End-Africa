@@ -1,0 +1,17 @@
+# c_kintampo
+
+# County Title
+title = c_kintampo
+
+# Settlements
+max_settlements = 3
+
+b_kintampo = castle
+b_kintampo_2 = city
+b_kintampo_3 = temple
+
+# Misc
+culture = akan
+religion = catholic
+
+#History

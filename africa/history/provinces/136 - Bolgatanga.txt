@@ -1,0 +1,17 @@
+# c_bolgatanga
+
+# County Title
+title = c_bolgatanga
+
+# Settlements
+max_settlements = 3
+
+b_bolgatanga = castle
+b_bolgatanga_2 = city
+b_bolgatanga_3 = temple
+
+# Misc
+culture = gur
+religion = sunni
+
+#History

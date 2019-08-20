@@ -11,7 +11,7 @@ b_kopo = city
 b_juazohn = temple
 
 # Misc
-culture = kru
-religion = catholic
+culture = liberian
+religion = libertarian
 
 #History

@@ -1,0 +1,17 @@
+# c_abidjan
+
+# County Title
+title = c_abidjan
+
+# Settlements
+max_settlements = 3
+
+b_abidjan = castle
+b_abidjan_2 = city
+b_abidjan_3 = temple
+
+# Misc
+culture = akan
+religion = catholic
+
+#History

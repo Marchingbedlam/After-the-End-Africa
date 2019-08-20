@@ -11,7 +11,7 @@ b_baoma = city
 b_bumpeh = temple
 
 # Misc
-culture = mande
+culture = mende
 religion = sunni
 
 #History

@@ -12,6 +12,6 @@ b_debli = temple
 
 # Misc
 culture = kru
-religion = catholic
+religion = libertarian
 
 #History

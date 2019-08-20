@@ -1,0 +1,17 @@
+# c_atakampe
+
+# County Title
+title = c_atakampe
+
+# Settlements
+max_settlements = 3
+
+b_atakampe = castle
+b_atakampe_2 = city
+b_atakampe_3 = temple
+
+# Misc
+culture = akan
+religion = catholic
+
+#History

@@ -11,7 +11,13 @@ b_robertsport = city
 b_bendaja = temple
 
 # Misc
-culture = mande
-religion = sunni
+culture = kpelle
+religion = libertarian
 
 #History
+2650‬.4.5={
+	holder=1
+}
+2650.4.5 ={
+	capital = b_robertsport
+}

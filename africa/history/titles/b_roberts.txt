@@ -1,0 +1,7 @@
+2661.6.2={
+holding_dynasty = 1005
+
+liege="d_monrovia"
+
+holder=5
+}

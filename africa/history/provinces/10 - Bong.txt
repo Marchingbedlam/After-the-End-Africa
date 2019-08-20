@@ -11,7 +11,7 @@ b_belefuanai = city
 b_suakoko = temple
 
 # Misc
-culture = kru
-religion = catholic
+culture = kpelle
+religion = libertarian
 
 #History

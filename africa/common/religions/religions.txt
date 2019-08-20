@@ -1,0 +1,106 @@
+pan_african = {
+	has_coa_on_barony_only = yes
+	graphical_culture = westerngfx
+	playable = yes
+	
+	ai_convert_same_group = 1
+	ai_convert_other_group = 2
+	
+	color = { 0.5 0.4 0.3 }
+	
+	ubuntu = {
+		graphical_culture = westernfx
+
+		icon = 1
+		heresy_icon = 6
+		
+		color = { 0.7 0.8 0.6 }
+		
+		
+		crusade_name = CRUSADE
+		scripture_name = THE_BIBLE
+		priest_title = PRIEST
+
+		high_god_name = GOD_JEHOVAH
+		
+		god_names = {
+			GOD_HOLY_SPIRIT GOD_THE_FATHER GOD_JESUS
+		}
+		
+		evil_god_names = {
+			LIGHTBRINGER
+		}
+		
+		pacifist = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = no
+		allow_rivermovement = yes
+		priests_can_inherit = yes
+		priests_can_marry = yes
+		female_temple_holders = yes
+		short_reign_opinion_year_mult = 3
+		has_heir_designation = yes
+		peace_piety_gain = 1.0
+		aggression = 0.5 # AI aggression factor
+		raised_vassal_opinion_loss = yes
+		attacking_same_religion_piety_loss = yes
+		women_can_take_consorts = yes
+		max_consorts = 3
+		
+		can_retire_to_monastery = yes
+		can_demand_religious_conversion = yes
+        character_modifier = { culture_flex = 1.00 }
+		religious_clothing_head = 2
+		religious_clothing_priest = 2
+		
+		
+	}
+	
+		libertarian = {
+		graphical_culture = muslimgfx
+		
+		icon = 49
+		heresy_icon = 50
+		
+		color = { 0.3 0.3 0.8 }
+		
+		crusade_name = LIBERATION_WAR
+		scripture_name = THE_MONROE_DOCTRINE
+		priest_title = JUDGE
+		piety_name = PATRIOTISM
+		
+		high_god_name = GOD_LIBERTY
+		
+		god_names = {
+			GOD_INDEPENDENCE GOD_PROSPERITY GOD_JUSTICE GOD_OUR_LADY GOD_MONROE THE_FOUNDERS
+		}
+		evil_god_names = {
+			THE_FIRESTONE THE_NESTLED THE_TRAITORS FASCISM COLONIALISM
+		}
+		
+		#investiture = yes
+		can_excommunicate = yes
+		can_call_crusade = no
+		can_grant_claim = yes
+		can_grant_divorce = yes
+		allow_viking_invasion = yes
+		can_grant_invasion_cb = invasion
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		attacking_same_religion_piety_loss = yes
+		feminist = yes
+		
+		priests_can_marry = yes
+		priests_can_inherit = no
+		psc_marriage = no # Disallow uncle-neice and aunt-nephew marriages
+		
+		aggression = 1.5 # MANIFEST DESTINY
+		
+		religious_clothing_head = 2
+		religious_clothing_priest = 2
+	}
+	
+}

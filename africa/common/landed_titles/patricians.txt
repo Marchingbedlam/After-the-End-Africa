@@ -1,0 +1,29 @@
+
+### MERCHANT REPUBLIC PATRICIAN FAMILIES
+
+## Monrovia
+
+b_king= {
+	culture = liberian
+	religion = libertarian
+}
+
+b_eastman = {
+	culture = liberian
+	religion = libertarian
+}
+
+b_tubman = {
+	culture = liberian
+	religion = libertarian
+}
+
+b_grey = {
+	culture = liberian
+	religion = libertarian
+}
+
+b_roberts = {
+	culture = liberian
+	religion = libertarian
+}

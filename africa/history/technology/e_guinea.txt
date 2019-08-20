@@ -1,7 +1,20 @@
 #GUINEA
 technology = {
 	titles = {
-		d_libya
+		d_boke
+		d_dabola
+		d_faranah
+		d_gola
+		d_grand_gedeh
+		d_kerouane
+		d_kindia
+		d_kouroussa
+		d_labe
+		d_lofa
+		d_makeni
+		d_maryland
+		d_monrovia
+		d_sewa
 	}
 	2555 = {
 		military = 2.0

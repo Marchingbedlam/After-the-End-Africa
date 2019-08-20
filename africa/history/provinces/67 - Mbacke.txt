@@ -1,0 +1,17 @@
+# c_mbacke
+
+# County Title
+title = c_mbacke
+
+# Settlements
+max_settlements = 3
+
+b_mbacke = castle
+b_mbacke_2 = city
+b_mbacke_3 = temple
+
+# Misc
+culture = senegambian
+religion = sunni
+
+#History

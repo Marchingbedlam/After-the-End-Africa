@@ -1,0 +1,17 @@
+# c_diema
+
+# County Title
+title = c_diema
+
+# Settlements
+max_settlements = 3
+
+b_diema = castle
+b_diema_2 = city
+b_diema_3 = temple
+
+# Misc
+culture = soninke
+religion = sunni
+
+#History
