@@ -1,3 +1,4 @@
+###ÄNSI
 pan_african = {
 	has_coa_on_barony_only = yes
 	graphical_culture = westerngfx

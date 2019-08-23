@@ -6,7 +6,7 @@ title = c_grand_cape
 # Settlements
 max_settlements = 3
 
-b_bo = castle
+b_bo_waterside = castle
 b_robertsport = city
 b_bendaja = temple
 

@@ -1,19 +1,18 @@
-###### AUTO GENERATED CONTENT (c) CKTools v19 ######
-
+###ÄNSI
 
 
 e_guinea = {
 	color={ 200 34 94 }
 	color2={ 255 255 20 }
 	
-	capital = 1 # c_maryland
+	capital = 6 # c_Monrovia
 	culture = kru
 	
 	k_pepper_coast = {
 		color={ 190 44 89 }
 		color2={ 255 255 255 }
 		
-		capital = 1 # c_maryland
+		capital = 6 # c_Monrovia
 		culture = kru
 		
 		d_maryland = {
@@ -222,7 +221,7 @@ e_guinea = {
 				color={ 142 52 52 }
 				color2={ 255 255 255 }
 				
-				b_bo = {
+				b_bo_waterside = {
 				}
 				b_robertsport = {
 				}
@@ -256,8 +255,8 @@ e_guinea = {
 				}
 				b_brewerville = {
 				}
-				b_arthington = (
-				)
+				b_arthington = {
+				}
 			}
 		}
 		d_sewa = {
@@ -1454,6 +1453,7 @@ e_guinea = {
 		}
 	}
 }
+
 e_sahel = {
 	color={ 173 67 58 }
 	color2={ 255 255 20 }

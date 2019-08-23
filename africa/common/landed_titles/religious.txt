@@ -1,3 +1,4 @@
+###ÄNSI
 d_ubuntu = {
     color={ 90 50 90 }
 	color2={ 220 220 0 }

@@ -1,5 +1,5 @@
-start_date = 2555.1.1
-last_start_date = 2555.1.1
+start_date = 2663.5.25
+last_start_date = 2663.5.25
 end_date = 3000.1.1
 
 character = {
