@@ -1,0 +1,17 @@
+# c_kono
+
+# County Title
+title = c_kono
+
+# Settlements
+max_settlements = 3
+
+b_koidu_town = castle
+b_motema = city
+b_yengema = temple
+
+# Misc
+culture = mende
+religion = sunni
+
+#History

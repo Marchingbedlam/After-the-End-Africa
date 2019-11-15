@@ -1,0 +1,17 @@
+# c_goh
+
+# County Title
+title = c_goh
+
+# Settlements
+max_settlements = 3
+
+b_goh = castle
+b_goh_2 = city
+b_goh_3 = temple
+
+# Misc
+culture = kru
+religion = catholic
+
+#History

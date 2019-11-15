@@ -1,0 +1,17 @@
+# c_kebemer
+
+# County Title
+title = c_kebemer
+
+# Settlements
+max_settlements = 3
+
+b_kebemer = castle
+b_kebemer_2 = city
+b_kebemer_3 = temple
+
+# Misc
+culture = senegambian
+religion = sunni
+
+#History

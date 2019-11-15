@@ -1,0 +1,17 @@
+# c_faranah
+
+# County Title
+title = c_faranah
+
+# Settlements
+max_settlements = 3
+
+b_faranah = castle
+b_faranah_2 = city
+b_faranah_3 = temple
+
+# Misc
+culture = malinke
+religion = sunni
+
+#History

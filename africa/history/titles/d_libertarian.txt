@@ -1,0 +1,5 @@
+###ÄNSI
+2650.1.1={
+	holder = 18
+	law = enatic_succession
+}

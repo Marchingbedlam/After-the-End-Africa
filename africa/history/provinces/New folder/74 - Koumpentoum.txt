@@ -1,0 +1,17 @@
+# c_koumpentoum
+
+# County Title
+title = c_koumpentoum
+
+# Settlements
+max_settlements = 3
+
+b_koumpentoum = castle
+b_koumpentoum_2 = city
+b_koumpentoum_3 = temple
+
+# Misc
+culture = fula
+religion = sunni
+
+#History

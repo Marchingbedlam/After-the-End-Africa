@@ -203,7 +203,7 @@
 	name="Ouali"
 	dynasty=9000
 	culture=kpelle
-	religion=sunni
+	religion=libertarian
 	diplomacy=7
 	martial=1
 	stewardship=4
@@ -235,4 +235,47 @@
 	trait=temperate
 	2629.9.9={birth=yes}
 	2671.2.10={death=yes}
+}
+17={
+	name=Mary
+	dynasty=9000
+	female=yes
+	dna="hnnicjapplk"
+	culture=kpelle
+	religion=libertarian
+	martial=7
+	diplomacy=6
+	stewardship=8
+	intrigue=5
+	learning=4
+	add_trait=tough_soldier
+	add_trait=gardener
+	add_trait=slothful
+	add_trait=temperate
+	add_trait=lustful 
+	add_trait=zealous
+	add_trait=stressed 
+	2624.7.14={ birth=yes }
+	2676.5.2={ death=yes }
+}
+18={
+	name=Henry
+	dynasty=9000
+	dna="hdchhagbhim"
+	culture=liberian
+	religion=libertarian
+	martial=8
+	diplomacy=4
+	stewardship=6
+	intrigue=5
+	learning=7
+	add_trait=charismatic_negotiator
+	add_trait=celibate
+	add_trait=just
+	add_trait=envious
+	add_trait=shy 
+	add_trait=honest 
+
+	2612.4.10={ birth=yes }
+	2677.4.1={ death=yes }
 }

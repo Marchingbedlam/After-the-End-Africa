@@ -1,0 +1,17 @@
+# c_bafoulabe
+
+# County Title
+title = c_bafoulabe
+
+# Settlements
+max_settlements = 3
+
+b_bafoulabe = castle
+b_bafoulabe_2 = city
+b_bafoulabe_3 = temple
+
+# Misc
+culture = soninke
+religion = sunni
+
+#History

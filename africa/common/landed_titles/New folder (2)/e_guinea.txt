@@ -1,0 +1,1457 @@
+###ÄNSI
+
+e_guinea = {
+	color={ 200 34 94 }
+	color2={ 255 255 20 }
+	
+	capital = 6 # c_Monrovia
+	culture = kru
+	
+	k_pepper_coast = {
+		color={ 190 44 89 }
+		color2={ 255 255 255 }
+		
+		capital = 6 # c_Monrovia
+		culture = kru
+		
+		d_maryland = {
+			color={ 170 64 79 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 1 province_id = 2 province_id = 3 } }
+				}
+			}
+			capital = 1 # c_maryland
+			
+			c_maryland = { # 1
+				color={ 160 74 74 }
+				color2={ 255 255 255 }
+				holy_site = libertarian
+				
+				b_harper = {
+				}
+				b_barclayville = {
+				}
+				b_pilbo = {
+				}
+				b_kakata = {
+				}
+				b_harbel = {
+				}
+			}
+			c_river_cess = { # 3
+				color={ 167 93 93 }
+				color2={ 255 255 255 }
+				
+				b_river_cess = {
+				}
+				b_sehnkwehn = {
+				}
+				b_abraham = {
+				}
+			}
+			c_sinoe = { # 2
+				color={ 128 47 47 }
+				color2={ 255 255 255 }
+				
+				b_greenville = {
+				}
+				b_kopo = {
+				}
+				b_juazohn = {
+				}
+			}
+		}
+		d_gola = {
+			color={ 126 41 56 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 17 province_id = 18 } }
+				}
+			}
+			capital = 17 # c_kenema
+			
+			c_kenema = { # 17
+				color={ 116 51 51 }
+				color2={ 255 255 255 }
+				
+				b_kenema = {
+				}
+				b_tongo = {
+				}
+				b_blama = {
+				}
+			}
+			c_kono = { # 18
+				color={ 82 34 34 }
+				color2={ 255 255 255 }
+				
+				b_koidu_town = {
+				}
+				b_motema = {
+				}
+				b_yengema = {
+				}
+			}
+		}
+		d_grand_gedeh = {
+			color={ 179 70 85 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 7 province_id = 8 province_id = 9 } }
+				}
+			}
+			capital = 7 # c_gedeh
+			
+			c_nimba = { # 7
+				color={ 169 80 80 }
+				color2={ 255 255 255 }
+				
+				b_saniquelle = {
+				}
+				b_kahnple = {
+				}
+				b_ganata = {
+				}
+			}
+			c_gedeh = { # 8
+				color={ 209 104 104 }
+				color2={ 255 255 255 }
+				
+				b_gboyi = {
+				}
+				b_poabli = {
+				}
+				b_debli = {
+				}
+			}
+			c_gee = { # 9
+				color={ 142 50 50 }
+				color2={ 255 255 255 }
+				
+				b_zwedru = {
+				}
+				b_fish_town = {
+				}
+				b_dubwe = {
+				}
+			}
+		}
+		d_lofa = {
+			color={ 172 49 64 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 10 province_id = 11 province_id = 12 province_id = 13 } }
+				}
+			}
+			capital = 10 # c_bong
+			
+			c_bong = { # 10
+				color={ 162 59 59 }
+				color2={ 255 255 255 }
+				
+				b_gbarnga = {
+				}
+				b_belefuanai = {
+				}
+				b_suakoko = {
+				}
+			}
+			c_gbarpolu = { # 12
+				color={ 143 82 82 }
+				color2={ 255 255 255 }
+				
+				b_bopolu = {
+				}
+				b_wieusa = {
+				}
+				b_gbange = {
+				}
+			}
+			c_lofa = { # 13
+				color={ 255 0 0 }
+				color2={ 255 255 255 }
+				
+				b_voinjama = {
+				}
+				b_vahun = {
+				}
+				b_kolahun = {
+				}
+			}
+			c_nzerekore = { # 11
+				color={ 111 38 38 }
+				color2={ 255 255 255 }
+				
+				b_nzerekore = {
+				}
+				b_irie = {
+				}
+				b_kobela = {
+				}
+				b_pale = {
+				}
+			}
+		}
+		d_monrovia = {
+			color={ 152 42 57 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 4 province_id = 5 province_id = 6 } }
+				}
+			}
+			capital = 4 # c_grand_cape
+			
+			c_grand_cape = { # 4
+				color={ 142 52 52 }
+				color2={ 255 255 255 }
+				
+				b_bo_waterside = {
+				}
+				b_robertsport = {
+				}
+				b_bendaja = {
+				}
+			}
+			c_grand_bassa = { # 5
+				color={ 165 46 46 }
+				color2={ 255 255 255 }
+				
+				b_buchanan = {
+				}
+				b_edina = {
+				}
+				b_gonglee = {
+				}
+			}
+			c_monrovia = { # 6
+				color={ 121 52 52 }
+				color2={ 255 255 255 }
+				holy_site = libertarian
+				
+				b_monrovia = {
+				}
+				b_capitol_hill = {
+				}
+				b_caldwell = {
+				}
+				b_clay_ashland = {
+				}
+				b_careysburg = {
+				}
+				b_brewerville = {
+				}
+				b_arthington = {
+				}
+			}
+		}
+		d_sewa = {
+			color={ 179 14 29 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 14 province_id = 15 province_id = 16 } }
+				}
+			}
+			capital = 14 # c_bonthe
+			
+			c_bonthe = { # 14
+				color={ 169 24 24 }
+				color2={ 255 255 255 }
+				
+				b_mattru_jong = {
+				}
+				b_bonthe = {
+				}
+				b_imperri = {
+				}
+			}
+			c_bo = { # 16
+				color={ 157 71 71 }
+				color2={ 255 255 255 }
+				
+				b_bo_2 = {
+				}
+				b_baoma = {
+				}
+				b_bumpeh = {
+				}
+			}
+			c_pujehun = { # 15
+				color={ 102 33 33 }
+				color2={ 255 255 255 }
+				
+				b_pujehun = {
+				}
+				b_gandorhun = {
+				}
+				b_zimmi = {
+				}
+			}
+		}
+	}
+	k_fouta_djallon = {
+		color={ 84 79 100 }
+		color2={ 255 255 255 }
+		
+		capital = 35 # c_siguiri
+		culture = malinke
+		
+		d_kouroussa = {
+			color={ 64 99 90 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 35 province_id = 36 province_id = 37 province_id = 38 } }
+				}
+			}
+			capital = 35 # c_siguiri
+			
+			c_siguiri = { # 35
+				color={ 54 109 85 }
+				color2={ 255 255 255 }
+				
+				b_siguiri = {
+				}
+				b_siguiri_2 = {
+				}
+				b_siguiri_3 = {
+				}
+			}
+			c_dinguiraye = { # 37
+				color={ 5 56 34 }
+				color2={ 255 255 255 }
+				
+				b_dinguiraye = {
+				}
+				b_dinguiraye_2 = {
+				}
+				b_dinguiraye_3 = {
+				}
+			}
+			c_kouroussa = { # 38
+				color={ 38 143 97 }
+				color2={ 255 255 255 }
+				
+				b_kouroussa = {
+				}
+				b_kouroussa_2 = {
+				}
+				b_kouroussa_3 = {
+				}
+			}
+			c_mandiana = { # 36
+				color={ 23 101 67 }
+				color2={ 255 255 255 }
+				
+				b_mandiana = {
+				}
+				b_mandiana_2 = {
+				}
+				b_mandiana_3 = {
+				}
+			}
+		}
+		d_dabola = {
+			color={ 63 96 87 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 39 province_id = 40 province_id = 41 } }
+				}
+			}
+			capital = 39 # c_pita
+			
+			c_pita = { # 39
+				color={ 53 106 82 }
+				color2={ 255 255 255 }
+				
+				b_pita = {
+				}
+				b_pita_2 = {
+				}
+				b_pita_3 = {
+				}
+			}
+			c_dabola = { # 41
+				color={ 62 180 128 }
+				color2={ 255 255 255 }
+				
+				b_dabola = {
+				}
+				b_dabola_2 = {
+				}
+				b_dabola_3 = {
+				}
+			}
+			c_mali_dabola = { # 40
+				color={ 27 103 70 }
+				color2={ 255 255 255 }
+				
+				b_mali_dabola = {
+				}
+				b_mali_dabola_2 = {
+				}
+				b_mali_dabola_3 = {
+				}
+			}
+		}
+		d_faranah = {
+			color={ 41 130 96 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 42 province_id = 43 province_id = 44 } }
+				}
+			}
+			capital = 42 # c_faranah
+			
+			c_faranah = { # 42
+				color={ 31 140 91 }
+				color2={ 255 255 255 }
+				
+				b_faranah = {
+				}
+				b_faranah_2 = {
+				}
+				b_faranah_3 = {
+				}
+			}
+			c_banfele = { # 44
+				color={ 56 147 107 }
+				color2={ 255 255 255 }
+				
+				b_banfele = {
+				}
+				b_banfele_2 = {
+				}
+				b_banfele_3 = {
+				}
+			}
+			c_kissidougou = { # 43
+				color={ 62 173 125 }
+				color2={ 255 255 255 }
+				
+				b_kissidougou = {
+				}
+				b_kissidougou_2 = {
+				}
+				b_kissidougou_3 = {
+				}
+			}
+		}
+		d_kerouane = {
+			color={ 43 80 70 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 45 province_id = 46 province_id = 47 province_id = 48 } }
+				}
+			}
+			capital = 45 # c_kerouane
+			
+			c_kerouane = { # 45
+				color={ 33 90 65 }
+				color2={ 255 255 255 }
+				
+				b_kerouane = {
+				}
+				b_kerouane_2 = {
+				}
+				b_kerouane_3 = {
+				}
+			}
+			c_beyla = { # 48
+				color={ 48 118 87 }
+				color2={ 255 255 255 }
+				
+				b_beyla = {
+				}
+				b_beyla_2 = {
+				}
+				b_beyla_3 = {
+				}
+			}
+			c_kankan = { # 46
+				color={ 22 164 101 }
+				color2={ 255 255 255 }
+				
+				b_kankan = {
+				}
+				b_kankan_2 = {
+				}
+				b_kankan_3 = {
+				}
+			}
+			c_macenta = { # 47
+				color={ 38 147 98 }
+				color2={ 255 255 255 }
+				
+				b_macenta = {
+				}
+				b_macenta_2 = {
+				}
+				b_macenta_3 = {
+				}
+			}
+		}
+	}
+	k_guinea = {
+		color={ 159 125 98 }
+		color2={ 255 255 255 }
+		
+		capital = 19 # c_loko
+		culture = mende
+		
+		d_makeni = {
+			color={ 139 145 88 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 19 province_id = 20 province_id = 21 province_id = 22 } }
+				}
+			}
+			capital = 19 # c_loko
+			
+			c_loko = { # 19
+				color={ 129 155 83 }
+				color2={ 255 255 255 }
+				
+				b_lunsar = {
+				}
+				b_port_loko = {
+				}
+				b_loko = {
+				}
+			}
+			c_bombali = { # 20
+				color={ 83 109 37 }
+				color2={ 255 255 255 }
+				
+				b_makeni = {
+				}
+				b_bombali = {
+				}
+				b_bombali_2 = {
+				}
+			}
+			c_freetown = { # 22
+				color={ 155 185 101 }
+				color2={ 255 255 255 }
+				holy_site = libertarian
+				
+				b_magburaka = {
+				}
+				b_freetown = {
+				}
+				b_freetown_2 = {
+				}
+			}
+			c_koinadugu = { # 21
+				color={ 107 131 65 }
+				color2={ 255 255 255 }
+				
+				b_kabala = {
+				}
+				b_koinadugu = {
+				}
+				b_koinadugu_2 = {
+				}
+			}
+		}
+		d_boke = {
+			color={ 129 130 59 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 27 province_id = 28 province_id = 29 province_id = 30 } }
+				}
+			}
+			capital = 27 # c_tanene
+			
+			c_tanene = { # 27
+				color={ 119 140 54 }
+				color2={ 255 255 255 }
+				
+				b_tanene_2 = {
+				}
+				b_tanene_3 = {
+				}
+				b_tanene_4 = {
+				}
+			}
+			c_boffa = { # 29
+				color={ 81 95 38 }
+				color2={ 255 255 255 }
+				
+				b_boffa = {
+				}
+				b_boffa_2 = {
+				}
+				b_boffa_3 = {
+				}
+			}
+			c_boke = { # 28
+				color={ 147 167 85 }
+				color2={ 255 255 255 }
+				
+				b_boke = {
+				}
+				b_boke_2 = {
+				}
+				b_boke_3 = {
+				}
+			}
+			c_telimele = { # 30
+				color={ 121 146 46 }
+				color2={ 255 255 255 }
+				
+				b_telimele = {
+				}
+				b_telimele_2 = {
+				}
+				b_telimele_3 = {
+				}
+			}
+		}
+		d_kindia = {
+			color={ 132 138 84 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 23 province_id = 24 province_id = 25 province_id = 26 } }
+				}
+			}
+			capital = 23 # c_forecariah
+			
+			c_forecariah = { # 23
+				color={ 122 148 79 }
+				color2={ 255 255 255 }
+				
+				b_forecariah = {
+				}
+				b_forecariah_2 = {
+				}
+				b_forecariah_3 = {
+				}
+			}
+			c_dubreka = { # 25
+				color={ 84 99 57 }
+				color2={ 255 255 255 }
+				
+				b_dubreka = {
+				}
+				b_badi = {
+				}
+				b_falessade = {
+				}
+				b_khorira = {
+				}
+				b_ouassou = {
+				}
+				b_tanene = {
+				}
+				b_tondon = {
+				}
+			}
+			c_kindia = { # 26
+				color={ 93 117 51 }
+				color2={ 255 255 255 }
+				
+				b_kindia = {
+				}
+				b_bouliwel = {
+				}
+				b_dounet = {
+				}
+				b_gongoret = {
+				}
+				b_kegneko = {
+				}
+				b_konkoure = {
+				}
+				b_oure_kaba = {
+				}
+			}
+			c_mamou = { # 24
+				color={ 77 103 33 }
+				color2={ 255 255 255 }
+				
+				b_mamou = {
+				}
+				b_mamou_2 = {
+				}
+				b_mamou_3 = {
+				}
+			}
+		}
+		d_labe = {
+			color={ 92 88 40 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 31 province_id = 32 province_id = 33 province_id = 34 } }
+				}
+			}
+			capital = 31 # c_gaoual
+			
+			c_gaoual = { # 31
+				color={ 82 98 35 }
+				color2={ 255 255 255 }
+				
+				b_gaoual = {
+				}
+				b_gaoual_2 = {
+				}
+				b_gaoual_3 = {
+				}
+			}
+			c_koundara = { # 33
+				color={ 104 129 61 }
+				color2={ 255 255 255 }
+				
+				b_koundara = {
+				}
+				b_koundara_2 = {
+				}
+				b_koundara_3 = {
+				}
+			}
+			c_labe = { # 34
+				color={ 152 170 95 }
+				color2={ 255 255 255 }
+				
+				b_labe = {
+				}
+				b_tougue = {
+				}
+				b_labe_2 = {
+				}
+			}
+			c_mali_labe = { # 32
+				color={ 129 148 69 }
+				color2={ 255 255 255 }
+				
+				b_mali_labe = {
+				}
+				b_mali_labe_2 = {
+				}
+				b_mali_labe_3 = {
+				}
+			}
+		}
+	}
+	k_ivory_coast = {
+		color={ 142 135 34 }
+		color2={ 255 255 255 }
+		
+		capital = 98 # c_nawa
+		culture = kru
+		
+		d_bas_sassandra = {
+			color={ 122 155 24 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 98 province_id = 99 province_id = 100 } }
+				}
+			}
+			capital = 98 # c_nawa
+			
+			c_nawa = { # 98
+				color={ 112 165 19 }
+				color2={ 255 255 255 }
+				
+				b_nawa = {
+				}
+				b_nawa_2 = {
+				}
+				b_nawa_3 = {
+				}
+			}
+			c_gbokle = { # 100
+				color={ 125 180 26 }
+				color2={ 255 255 255 }
+				
+				b_gbokle = {
+				}
+				b_gbokle_2 = {
+				}
+				b_gbokle_3 = {
+				}
+			}
+			c_san_pedro = { # 99
+				color={ 98 150 4 }
+				color2={ 255 255 255 }
+				
+				b_san_pedro = {
+				}
+				b_san_pedro_2 = {
+				}
+				b_san_pedro_3 = {
+				}
+			}
+		}
+		d_abidjan = {
+			color={ 98 109 34 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 101 province_id = 102 province_id = 103 province_id = 104 } }
+				}
+			}
+			capital = 101 # c_loh_djiboua
+			
+			c_loh_djiboua = { # 101
+				color={ 88 119 29 }
+				color2={ 255 255 255 }
+				
+				b_loh_djiboua = {
+				}
+				b_loh_djiboua_2 = {
+				}
+				b_loh_djiboua_3 = {
+				}
+			}
+			c_abidjan = { # 102
+				color={ 91 141 0 }
+				color2={ 255 255 255 }
+				
+				b_abidjan = {
+				}
+				b_abidjan_2 = {
+				}
+				b_abidjan_3 = {
+				}
+			}
+			c_agneby_tiassa = { # 103
+				color={ 113 139 60 }
+				color2={ 255 255 255 }
+				
+				b_agneby_tiassa = {
+				}
+				b_agneby_tiassa_2 = {
+				}
+				b_agneby_tiassa_3 = {
+				}
+			}
+			c_sud_comoe = { # 104
+				color={ 99 135 29 }
+				color2={ 255 255 255 }
+				
+				b_sud_comoe = {
+				}
+				b_sud_comoe_2 = {
+				}
+				b_sud_comoe_3 = {
+				}
+			}
+		}
+		d_denguele = {
+			color={ 138 161 27 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 116 province_id = 117 province_id = 118 } }
+				}
+			}
+			capital = 116 # c_poro
+			
+			c_poro = { # 116
+				color={ 128 171 22 }
+				color2={ 255 255 255 }
+				
+				b_poro = {
+				}
+				b_poro_2 = {
+				}
+				b_poro_3 = {
+				}
+			}
+			c_kabadougou = { # 117
+				color={ 106 136 34 }
+				color2={ 255 255 255 }
+				
+				b_kabadougou = {
+				}
+				b_kabadougou_2 = {
+				}
+				b_kabadougou_3 = {
+				}
+			}
+			c_worodougou = { # 118
+				color={ 66 84 24 }
+				color2={ 255 255 255 }
+				
+				b_worodougou = {
+				}
+				b_worodougou_2 = {
+				}
+				b_worodougou_3 = {
+				}
+			}
+		}
+		d_lacs = {
+			color={ 124 147 40 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 105 province_id = 106 province_id = 107 } }
+				}
+			}
+			capital = 105 # c_iffou
+			
+			c_iffou = { # 105
+				color={ 114 157 35 }
+				color2={ 255 255 255 }
+				
+				b_iffou = {
+				}
+				b_iffou_2 = {
+				}
+				b_iffou_3 = {
+				}
+			}
+			c_indenie_djuablin = { # 106
+				color={ 89 128 15 }
+				color2={ 255 255 255 }
+				
+				b_indenie_djuablin = {
+				}
+				b_indenie_djuablin_2 = {
+				}
+				b_indenie_djuablin_3 = {
+				}
+			}
+			c_nzi = { # 107
+				color={ 103 124 41 }
+				color2={ 255 255 255 }
+				
+				b_nzi = {
+				}
+				b_nzi_2 = {
+				}
+				b_nzi_3 = {
+				}
+			}
+		}
+		d_marahoue = {
+			color={ 112 147 8 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 111 province_id = 112 province_id = 113 } }
+				}
+			}
+			capital = 111 # c_goh
+			
+			c_goh = { # 111
+				color={ 102 157 3 }
+				color2={ 255 255 255 }
+				
+				b_goh = {
+				}
+				b_goh_2 = {
+				}
+				b_goh_3 = {
+				}
+			}
+			c_gbeke = { # 113
+				color={ 70 95 26 }
+				color2={ 255 255 255 }
+				
+				b_gbeke = {
+				}
+				b_gbeke_2 = {
+				}
+				b_gbeke_3 = {
+				}
+			}
+			c_haut_sassandra = { # 112
+				color={ 88 127 17 }
+				color2={ 255 255 255 }
+				
+				b_haut_sassandra = {
+				}
+				b_haut_sassandra_2 = {
+				}
+				b_haut_sassandra_3 = {
+				}
+			}
+		}
+		d_montagnes = {
+			color={ 137 159 30 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 114 province_id = 115 } }
+				}
+			}
+			capital = 114 # c_bafing
+			
+			c_bafing = { # 114
+				color={ 127 169 25 }
+				color2={ 255 255 255 }
+				
+				b_bafing = {
+				}
+				b_bafing_2 = {
+				}
+				b_bafing_3 = {
+				}
+			}
+			c_cavally = { # 115
+				color={ 108 142 49 }
+				color2={ 255 255 255 }
+				
+				b_cavally = {
+				}
+				b_cavally_2 = {
+				}
+				b_cavally_3 = {
+				}
+			}
+		}
+		d_zanzan = {
+			color={ 118 126 44 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 108 province_id = 109 province_id = 110 } }
+				}
+			}
+			capital = 108 # c_hambol
+			
+			c_hambol = { # 108
+				color={ 108 136 39 }
+				color2={ 255 255 255 }
+				
+				b_hambol = {
+				}
+				b_hambol_2 = {
+				}
+				b_hambol_3 = {
+				}
+			}
+			c_ferkessedougou = { # 110
+				color={ 123 141 69 }
+				color2={ 255 255 255 }
+				
+				b_ferkessedougou = {
+				}
+				b_ferkessedougou_2 = {
+				}
+				b_ferkessedougou_3 = {
+				}
+			}
+			c_kong = { # 109
+				color={ 114 151 25 }
+				color2={ 255 255 255 }
+				
+				b_kong = {
+				}
+				b_kong_2 = {
+				}
+				b_kong_3 = {
+				}
+			}
+		}
+	}
+	k_volta = {
+		color={ 181 94 54 }
+		color2={ 255 255 255 }
+		
+		capital = 119 # c_elmini
+		culture = akan
+		
+		d_ankobra = {
+			color={ 161 114 44 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 119 province_id = 120 province_id = 121 province_id = 122 province_id = 123 } }
+				}
+			}
+			capital = 119 # c_elmini
+			
+			c_elmini = { # 119
+				color={ 151 124 39 }
+				color2={ 255 255 255 }
+				
+				b_elmini = {
+				}
+				b_elmini_2 = {
+				}
+				b_elmini_3 = {
+				}
+			}
+			c_kumasi = { # 123
+				color={ 167 141 57 }
+				color2={ 255 255 255 }
+				
+				b_kumasi = {
+				}
+				b_kumasi_2 = {
+				}
+				b_kumasi_3 = {
+				}
+			}
+			c_nzulezo = { # 121
+				color={ 122 105 51 }
+				color2={ 255 255 255 }
+				
+				b_nzulezo = {
+				}
+				b_nzulezo_2 = {
+				}
+				b_nzulezo_3 = {
+				}
+			}
+			c_sunyani = { # 120
+				color={ 194 160 52 }
+				color2={ 255 255 255 }
+				
+				b_sunyani = {
+				}
+				b_sunyani_2 = {
+				}
+				b_sunyani_3 = {
+				}
+			}
+			c_tano = { # 122
+				color={ 220 190 96 }
+				color2={ 255 255 255 }
+				
+				b_tano = {
+				}
+				b_tano_2 = {
+				}
+				b_tano_3 = {
+				}
+			}
+		}
+		d_gambaga = {
+			color={ 179 131 56 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 135 province_id = 136 province_id = 137 } }
+				}
+			}
+			capital = 135 # c_tamale
+			
+			c_tamale = { # 135
+				color={ 169 141 51 }
+				color2={ 255 255 255 }
+				
+				b_tamale = {
+				}
+				b_tamale_2 = {
+				}
+				b_tamale_3 = {
+				}
+			}
+			c_bawku = { # 137
+				color={ 138 122 71 }
+				color2={ 255 255 255 }
+				
+				b_bawku = {
+				}
+				b_bawku_2 = {
+				}
+				b_bawku_3 = {
+				}
+			}
+			c_bolgatanga = { # 136
+				color={ 197 173 94 }
+				color2={ 255 255 255 }
+				
+				b_bolgatanga = {
+				}
+				b_bolgatanga_2 = {
+				}
+				b_bolgatanga_3 = {
+				}
+			}
+		}
+		d_gaoua = {
+			color={ 227 199 35 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 138 province_id = 139 province_id = 140 } }
+				}
+			}
+			capital = 138 # c_bontioli
+			
+			c_bontioli = { # 138
+				color={ 237 189 40 }
+				color2={ 255 255 255 }
+				
+				b_bontioli = {
+				}
+				b_bontioli_2 = {
+				}
+				b_bontioli_3 = {
+				}
+			}
+			c_ouagadougou = { # 139
+				color={ 207 186 116 }
+				color2={ 255 255 255 }
+				
+				b_ouagadougou = {
+				}
+				b_ouagadougou_2 = {
+				}
+				b_ouagadougou_3 = {
+				}
+			}
+			c_tumu = { # 140
+				color={ 255 201 0 }
+				color2={ 255 255 255 }
+				
+				b_tumu = {
+				}
+				b_tumu_2 = {
+				}
+				b_tumu_3 = {
+				}
+			}
+		}
+		d_mouhoun = {
+			color={ 121 81 32 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 128 province_id = 129 province_id = 130 province_id = 131 province_id = 141 province_id = 142 } }
+				}
+			}
+			capital = 128 # c_kintampo
+			
+			c_kintampo = { # 128
+				color={ 111 91 27 }
+				color2={ 255 255 255 }
+				
+				b_kintampo = {
+				}
+				b_kintampo_2 = {
+				}
+				b_kintampo_3 = {
+				}
+			}
+			c_bui = { # 130
+				color={ 198 173 91 }
+				color2={ 255 255 255 }
+				
+				b_bui = {
+				}
+				b_bui_2 = {
+				}
+				b_bui_3 = {
+				}
+			}
+			c_koudoungou = { # 141
+				color={ 169 145 72 }
+				color2={ 255 255 255 }
+				
+				b_koudoungou = {
+				}
+				b_koudoungou_2 = {
+				}
+				b_koudoungou_3 = {
+				}
+			}
+			c_mpaha = { # 131
+				color={ 214 178 59 }
+				color2={ 255 255 255 }
+				
+				b_mpaha = {
+				}
+				b_mpaha_2 = {
+				}
+				b_mpaha_3 = {
+				}
+			}
+			c_ouahigouya = { # 142
+				color={ 131 113 54 }
+				color2={ 255 255 255 }
+				
+				b_ouahigouya = {
+				}
+				b_ouahigouya_2 = {
+				}
+				b_ouahigouya_3 = {
+				}
+			}
+			c_sampa = { # 129
+				color={ 160 135 55 }
+				color2={ 255 255 255 }
+				
+				b_sampa = {
+				}
+				b_sampa_2 = {
+				}
+				b_sampa_3 = {
+				}
+			}
+		}
+		d_oti = {
+			color={ 159 157 71 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 132 province_id = 133 province_id = 134 } }
+				}
+			}
+			capital = 132 # c_salaga
+			
+			c_salaga = { # 132
+				color={ 169 147 76 }
+				color2={ 255 255 255 }
+				
+				b_salaga = {
+				}
+				b_salaga_2 = {
+				}
+				b_salaga_3 = {
+				}
+			}
+			c_oti = { # 133
+				color={ 149 126 51 }
+				color2={ 255 255 255 }
+				
+				b_oti = {
+				}
+				b_oti_2 = {
+				}
+				b_oti_3 = {
+				}
+			}
+			c_yendi = { # 134
+				color={ 146 116 25 }
+				color2={ 255 255 255 }
+				
+				b_yendi = {
+				}
+				b_yendi_2 = {
+				}
+				b_yendi_3 = {
+				}
+			}
+		}
+		d_volta = {
+			color={ 195 141 50 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 124 province_id = 125 province_id = 126 province_id = 127 } }
+				}
+			}
+			capital = 124 # c_atakampe
+			
+			c_atakampe = { # 124
+				color={ 185 151 45 }
+				color2={ 255 255 255 }
+				
+				b_atakampe = {
+				}
+				b_atakampe_2 = {
+				}
+				b_atakampe_3 = {
+				}
+			}
+			c_accra = { # 127
+				color={ 143 128 80 }
+				color2={ 255 255 255 }
+				
+				b_accra = {
+				}
+				b_accra_2 = {
+				}
+				b_accra_3 = {
+				}
+			}
+			c_digya = { # 125
+				color={ 122 104 45 }
+				color2={ 255 255 255 }
+				
+				b_digya = {
+				}
+				b_digya_2 = {
+				}
+				b_digya_3 = {
+				}
+			}
+			c_todzie = { # 126
+				color={ 131 107 29 }
+				color2={ 255 255 255 }
+				
+				b_todzie = {
+				}
+				b_todzie_2 = {
+				}
+				b_todzie_3 = {
+				}
+			}
+		}
+	}
+}

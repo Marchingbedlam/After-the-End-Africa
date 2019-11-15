@@ -1,0 +1,17 @@
+# c_gbeke
+
+# County Title
+title = c_gbeke
+
+# Settlements
+max_settlements = 3
+
+b_gbeke = castle
+b_gbeke_2 = city
+b_gbeke_3 = temple
+
+# Misc
+culture = akan
+religion = catholic
+
+#History

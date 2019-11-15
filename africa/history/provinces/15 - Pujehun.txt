@@ -12,6 +12,6 @@ b_zimmi = temple
 
 # Misc
 culture = kpelle
-religion = sunni
+religion = libertarian
 
 #History

@@ -1,0 +1,17 @@
+# c_manaka
+
+# County Title
+title = c_manaka
+
+# Settlements
+max_settlements = 3
+
+b_manaka = castle
+b_manaka_2 = city
+b_manaka_3 = temple
+
+# Misc
+culture = songhai
+religion = sunni
+
+#History

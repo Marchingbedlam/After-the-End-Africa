@@ -1,0 +1,17 @@
+# c_tamale
+
+# County Title
+title = c_tamale
+
+# Settlements
+max_settlements = 3
+
+b_tamale = castle
+b_tamale_2 = city
+b_tamale_3 = temple
+
+# Misc
+culture = gur
+religion = sunni
+
+#History

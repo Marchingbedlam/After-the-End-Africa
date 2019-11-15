@@ -1,0 +1,17 @@
+# c_segou
+
+# County Title
+title = c_segou
+
+# Settlements
+max_settlements = 3
+
+b_segou = castle
+b_segou_2 = city
+b_segou_3 = temple
+
+# Misc
+culture = fula
+religion = sunni
+
+#History

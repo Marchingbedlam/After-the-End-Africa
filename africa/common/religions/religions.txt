@@ -1,4 +1,27 @@
 ###ÄNSI
+christian = {
+	has_coa_on_barony_only = yes
+	graphical_culture = westerngfx
+	crusade_cb = crusade
+	playable = yes
+	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
+	
+	ai_convert_same_group = 2 # always try to convert
+	ai_convert_other_group = 2 # always try to convert
+	
+	color = { 0.8 0.8 0.6 }
+	
+	# Names given only to Christian characters (base names)
+	male_names = {
+		Abraham Christian Christopher Constantine Israel Joseph Judah Moses Paul Noah Peter Simon   
+	}
+	female_names = {
+		Mary Benedicta Magdalena Ursula Angela Virginia Sarah
+	}
+	
+	#default interface
+}
+
 pan_african = {
 	has_coa_on_barony_only = yes
 	graphical_culture = westerngfx
@@ -82,7 +105,7 @@ pan_african = {
 			THE_FIRESTONE THE_NESTLED THE_TRAITORS FASCISM COLONIALISM
 		}
 		
-		#investiture = yes
+		autocephaly = yes
 		can_excommunicate = yes
 		can_call_crusade = no
 		can_grant_claim = yes

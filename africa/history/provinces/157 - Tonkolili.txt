@@ -1,0 +1,22 @@
+# c_tonkolili
+
+# County Title
+title = c_tonkolili
+
+# Settlements
+max_settlements = 4
+
+b_magburaka = castle
+b_bendugu = city
+b_yonibana = temple
+#b_mabang - castle
+#b_rochin = city
+#b_matotoka = castle
+#b_bumbuna = city
+#b_cruzinha = castle
+
+# Misc
+culture = mende
+religion = sunni
+
+#History

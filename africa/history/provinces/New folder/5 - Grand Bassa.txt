@@ -1,0 +1,17 @@
+# c_grand_bassa
+
+# County Title
+title = c_grand_bassa
+
+# Settlements
+max_settlements = 3
+
+b_buchanan = city
+b_edina = castle
+b_gonglee = temple
+
+# Misc
+culture = liberian
+religion = libertarian
+
+#History

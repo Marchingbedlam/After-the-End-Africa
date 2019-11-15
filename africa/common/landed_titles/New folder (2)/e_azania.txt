@@ -1,0 +1,58 @@
+###ÄNSI
+
+e_azania = {
+	color={ 111 63 36 }
+	color2={ 255 255 255 }
+
+	k_namibia = {
+		color={ 155 88 33 }
+		color2={ 255 255 255 }
+
+		capital = 201
+		culture = namibier
+
+		d_erongo = {
+			color={ 144 66 88 }
+			color2={ 255 255 255 }
+
+			c_ezorongondo = {
+				color={ 72 42 12 }
+				color2={ 255 255 255 }
+
+				b_walvis_bay = {}
+				b_langstrand = {}
+				b_rooibank = {}
+				b_dolfynstrand = {}
+				b_sandvishawe = {}
+				b_gobabeb = {}
+				b_kuisebmond = {}
+			}
+
+			c_swakopmund = {
+				color={ 80 41 22 }
+				color2={ 255 255 255 }
+
+				b_swakopmund = {}
+				b_henties_bay = {}
+				b_arandis = {}
+				b_mondesa = {}
+				b_tamariskia = {}
+				b_vineta = {}
+				b_goanikontes = {}
+			}
+			
+			c_karibib = {
+				color={ 91 51 38 }
+				color2={ 255 255 255 }
+
+				b_karibib = {}
+				b_omaruru = {}
+				b_otjimbingwe = {}
+				b_usakos = {}
+				b_wilhelmstal = {}
+				b_gross_barmen = {}
+				b_trekkopje = {}
+			}
+		}
+	}
+}

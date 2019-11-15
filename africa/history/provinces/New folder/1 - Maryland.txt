@@ -1,0 +1,19 @@
+# c_maryland
+
+# County Title
+title = c_maryland
+
+# Settlements
+max_settlements = 5
+
+b_harper = castle
+b_barclayville = city
+b_pilbo = temple
+b_kakata = castle
+#b_harbel = city
+
+# Misc
+culture = liberian
+religion = libertarian
+
+#History

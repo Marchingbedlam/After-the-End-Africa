@@ -1,0 +1,17 @@
+# c_cacheu
+
+# County Title
+title = c_cacheu
+
+# Settlements
+max_settlements = 3
+
+b_cacheu = castle
+b_cacheu_2 = city
+b_cacheu_3 = temple
+
+# Misc
+culture = senegambian
+religion = catholic
+
+#History

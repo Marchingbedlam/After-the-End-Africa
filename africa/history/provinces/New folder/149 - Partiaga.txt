@@ -1,0 +1,17 @@
+# c_partiaga
+
+# County Title
+title = c_partiaga
+
+# Settlements
+max_settlements = 3
+
+b_partiaga = castle
+b_partiaga_2 = city
+b_partiaga_3 = temple
+
+# Misc
+culture = gur
+religion = sunni
+
+#History

@@ -1,0 +1,23 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_trait_mason"
+		texturefile = "gfx/traits/mason.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_ifa_mo"
+		texturefile = "gfx/traits/ifa_mo.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_garveyite"
+		texturefile = "gfx/traits/garveyite.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+}

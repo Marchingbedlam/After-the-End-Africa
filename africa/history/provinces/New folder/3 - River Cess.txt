@@ -1,0 +1,17 @@
+# c_river_cess
+
+# County Title
+title = c_river_cess
+
+# Settlements
+max_settlements = 3
+
+b_river_cess = castle
+b_sehnkwehn = city
+#b_abraham = temple
+
+# Misc
+culture = liberian
+religion = libertarian
+
+#History

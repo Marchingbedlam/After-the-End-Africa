@@ -1,0 +1,17 @@
+# c_worodougou
+
+# County Title
+title = c_worodougou
+
+# Settlements
+max_settlements = 3
+
+b_worodougou = castle
+b_worodougou_2 = city
+b_worodougou_3 = temple
+
+# Misc
+culture = malinke
+religion = sunni
+
+#History

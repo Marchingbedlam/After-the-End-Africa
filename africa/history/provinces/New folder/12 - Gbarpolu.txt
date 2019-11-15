@@ -1,0 +1,17 @@
+# c_gbarpolu
+
+# County Title
+title = c_gbarpolu
+
+# Settlements
+max_settlements = 3
+
+b_bopolu = castle
+b_wieusa = city
+b_gbange = temple
+
+# Misc
+culture = kpelle
+religion = libertarian
+
+#History

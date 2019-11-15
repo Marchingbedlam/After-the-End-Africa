@@ -1,0 +1,17 @@
+# c_gedeh
+
+# County Title
+title = c_gedeh
+
+# Settlements
+max_settlements = 3
+
+b_gboyi = castle
+b_poabli = city
+b_debli = temple
+
+# Misc
+culture = kru
+religion = libertarian
+
+#History

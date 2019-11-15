@@ -1,0 +1,17 @@
+# c_koinadugu
+
+# County Title
+title = c_koinadugu
+
+# Settlements
+max_settlements = 3
+
+b_kabala = castle
+b_koinadugu = city
+b_koinadugu_2 = temple
+
+# Misc
+culture = fula
+religion = sunni
+
+#History

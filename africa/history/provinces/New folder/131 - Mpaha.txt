@@ -1,0 +1,17 @@
+# c_mpaha
+
+# County Title
+title = c_mpaha
+
+# Settlements
+max_settlements = 3
+
+b_mpaha = castle
+b_mpaha_2 = city
+b_mpaha_3 = temple
+
+# Misc
+culture = akan
+religion = catholic
+
+#History

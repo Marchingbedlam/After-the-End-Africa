@@ -1,0 +1,21 @@
+# c_fogo
+
+# County Title
+title = c_fogo
+
+# Settlements
+max_settlements = 3
+
+b_sao_filipe = castle
+b_mosteiros = city
+#b_nova_sintra = temple
+#b_cova_figueira = temple
+#b_ponta_verde = castle
+#b_faja_de_agua = castle
+#b_brava = castle
+
+# Misc
+culture = verdean
+religion = catholic
+
+#History

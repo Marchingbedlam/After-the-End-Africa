@@ -1,0 +1,23 @@
+# c_grand_cape
+
+# County Title
+title = c_grand_cape
+
+# Settlements
+max_settlements = 3
+
+b_bo_waterside = castle
+b_robertsport = city
+b_bendaja = temple
+
+# Misc
+culture = kpelle
+religion = libertarian
+
+#History
+2650‬.4.5={
+	holder=1
+}
+2650.4.5 ={
+	capital = b_robertsport
+}

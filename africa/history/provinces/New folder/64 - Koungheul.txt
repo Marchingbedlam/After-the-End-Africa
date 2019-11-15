@@ -1,0 +1,17 @@
+# c_koungheul
+
+# County Title
+title = c_koungheul
+
+# Settlements
+max_settlements = 3
+
+b_koungheul = castle
+b_koungheul_2 = city
+b_koungheul_3 = temple
+
+# Misc
+culture = senegambian
+religion = sunni
+
+#History

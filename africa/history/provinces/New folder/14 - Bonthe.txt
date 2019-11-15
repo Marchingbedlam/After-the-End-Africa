@@ -1,0 +1,17 @@
+# c_bonthe
+
+# County Title
+title = c_bonthe
+
+# Settlements
+max_settlements = 3
+
+b_mattru_jong = castle
+b_bonthe = city
+#b_imperri = temple
+
+# Misc
+culture = mende
+religion = libertarian
+
+#History

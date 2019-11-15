@@ -1,0 +1,17 @@
+# c_nawa
+
+# County Title
+title = c_nawa
+
+# Settlements
+max_settlements = 3
+
+b_nawa = castle
+b_nawa_2 = city
+b_nawa_3 = temple
+
+# Misc
+culture = kru
+religion = libertarian
+
+#History

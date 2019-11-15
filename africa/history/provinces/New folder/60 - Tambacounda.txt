@@ -1,0 +1,17 @@
+# c_tambacounda
+
+# County Title
+title = c_tambacounda
+
+# Settlements
+max_settlements = 3
+
+b_tambacounda = castle
+b_tambacounda_2 = city
+b_tambacounda_3 = temple
+
+# Misc
+culture = malinke
+religion = sunni
+
+#History

@@ -1,0 +1,17 @@
+# c_banfele
+
+# County Title
+title = c_banfele
+
+# Settlements
+max_settlements = 3
+
+b_banfele = castle
+b_banfele_2 = city
+b_banfele_3 = temple
+
+# Misc
+culture = malinke
+religion = sunni
+
+#History

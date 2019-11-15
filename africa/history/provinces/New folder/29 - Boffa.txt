@@ -1,0 +1,17 @@
+# c_boffa
+
+# County Title
+title = c_boffa
+
+# Settlements
+max_settlements = 3
+
+b_boffa = castle
+b_boffa_2 = city
+b_boffa_3 = temple
+
+# Misc
+culture = temne
+religion = sunni
+
+#History

@@ -1,0 +1,17 @@
+# c_elmini
+
+# County Title
+title = c_elmini
+
+# Settlements
+max_settlements = 3
+
+b_elmini = castle
+b_elmini_2 = city
+b_elmini_3 = temple
+
+# Misc
+culture = akan
+religion = catholic
+
+#History

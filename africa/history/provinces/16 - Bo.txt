@@ -12,6 +12,6 @@ b_bumpeh = temple
 
 # Misc
 culture = mende
-religion = sunni
+religion = libertarian
 
 #History

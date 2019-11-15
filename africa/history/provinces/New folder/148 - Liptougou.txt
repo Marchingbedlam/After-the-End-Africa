@@ -1,0 +1,17 @@
+# c_liptougou
+
+# County Title
+title = c_liptougou
+
+# Settlements
+max_settlements = 3
+
+b_liptougou = castle
+b_liptougou_2 = city
+b_liptougou_3 = temple
+
+# Misc
+culture = gur
+religion = sunni
+
+#History

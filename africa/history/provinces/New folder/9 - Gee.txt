@@ -1,0 +1,17 @@
+# c_gee
+
+# County Title
+title = c_gee
+
+# Settlements
+max_settlements = 3
+
+b_zwedru = castle
+b_fish_town = city
+b_dubwe = temple
+
+# Misc
+culture = kru
+religion = libertarian
+
+#History

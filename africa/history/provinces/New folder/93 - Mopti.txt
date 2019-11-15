@@ -1,0 +1,17 @@
+# c_mopti
+
+# County Title
+title = c_mopti
+
+# Settlements
+max_settlements = 3
+
+b_mopti = castle
+b_mopti_2 = city
+b_mopti_3 = temple
+
+# Misc
+culture = fula
+religion = sunni
+
+#History

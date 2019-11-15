@@ -1,0 +1,17 @@
+# c_mandiana
+
+# County Title
+title = c_mandiana
+
+# Settlements
+max_settlements = 3
+
+b_mandiana = castle
+b_mandiana_2 = city
+b_mandiana_3 = temple
+
+# Misc
+culture = malinke
+religion = sunni
+
+#History

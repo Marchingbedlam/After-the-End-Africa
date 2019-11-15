@@ -1,0 +1,17 @@
+# c_kumasi
+
+# County Title
+title = c_kumasi
+
+# Settlements
+max_settlements = 3
+
+b_kumasi = castle
+b_kumasi_2 = city
+b_kumasi_3 = temple
+
+# Misc
+culture = akan
+religion = catholic
+
+#History

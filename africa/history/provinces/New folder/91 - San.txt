@@ -1,0 +1,17 @@
+# c_san
+
+# County Title
+title = c_san
+
+# Settlements
+max_settlements = 3
+
+b_san = castle
+b_san_2 = city
+b_san_3 = temple
+
+# Misc
+culture = malinke
+religion = sunni
+
+#History

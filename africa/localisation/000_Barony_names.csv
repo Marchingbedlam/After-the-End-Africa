@@ -1,6 +1,4 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-b_arthington;Arthington;Arthington;Arthington;;Arthington;;;;;;;;;x
-b_abidjan_adj;Arthingtonian;;Arthingtoner;;;;;;;;;;;x
 b_abidjan;Abidjan;Abidjan;Abidjan;;Abidjan;;;;;;;;;x
 b_abidjan_adj;Abidjanian;;abidjaner;;;;;;;;;;;x
 b_abidjan_2;Abidjan;Abidjan;Abidjan;;Abidjan;;;;;;;;;x
@@ -117,12 +115,6 @@ b_boke_3;Boké;Boké;Boké;;Boké;;;;;;;;;x
 b_boke_3_adj;Bokéian;;bokéer;;;;;;;;;;;x
 b_bokoa;Bokoa;Bokoa;Bokoa;;Bokoa;;;;;;;;;x
 b_bokoa_adj;Bokoan;;boker;;;;;;;;;;;x
-b_bolama;Bolama;Bolama;Bolama;;Bolama;;;;;;;;;x
-b_bolama_adj;Bolaman;;bolamer;;;;;;;;;;;x
-b_bolama_2;Bolama;Bolama;Bolama;;Bolama;;;;;;;;;x
-b_bolama_2_adj;Bolaman;;bolamer;;;;;;;;;;;x
-b_bolama_3;Bolama;Bolama;Bolama;;Bolama;;;;;;;;;x
-b_bolama_3_adj;Bolaman;;bolamer;;;;;;;;;;;x
 b_bolgatanga;Bolgatanga;Bolgatanga;Bolgatanga;;Bolgatanga;;;;;;;;;x
 b_bolgatanga_adj;Bolgatangan;;bolgatanger;;;;;;;;;;;x
 b_bolgatanga_2;Bolgatanga;Bolgatanga;Bolgatanga;;Bolgatanga;;;;;;;;;x
@@ -159,8 +151,6 @@ b_bui_2;Bui;Bui;Bui;;Bui;;;;;;;;;x
 b_bui_2_adj;Bian;;ber;;;;;;;;;;;x
 b_bui_3;Bui;Bui;Bui;;Bui;;;;;;;;;x
 b_bui_3_adj;Bian;;ber;;;;;;;;;;;x
-b_buchanan;Buchanan;Buchanan;Buchanan;;Buchanan;;;;;;;;;x
-b_buchanan_adj;Buchananian;;Buchananer;;;;;;;;;;;x
 b_bumpeh;Bumpeh;Bumpeh;Bumpeh;;Bumpeh;;;;;;;;;x
 b_bumpeh_adj;Bumpehian;;bumpeher;;;;;;;;;;;x
 b_cacheu;Cacheu;Cacheu;Cacheu;;Cacheu;;;;;;;;;x
@@ -177,12 +167,6 @@ b_cavally_2;Cavally;Cavally;Cavally;;Cavally;;;;;;;;;x
 b_cavally_2_adj;Cavallian;;cavaller;;;;;;;;;;;x
 b_cavally_3;Cavally;Cavally;Cavally;;Cavally;;;;;;;;;x
 b_cavally_3_adj;Cavallian;;cavaller;;;;;;;;;;;x
-b_capitol_hill;Capitol Hill;Capitol Hill;Capitol Hill;;Capitol Hill;;;;;;;;;x
-b_capitol_hill_adj;Capitol Hillian;;Capitol Hiller;;;;;;;;;;;x
-b_caldwell;Caldwell;Caldwell;Caldwell;;Caldwell;;;;;;;;;x
-b_caldwell_adj;Caldwellian;;Caldweller;;;;;;;;;;;x
-b_clay_ashland;Clay-Ashland;Clay-Ashland;Clay-Ashland;;Clay-Ashland;;;;;;;;;x
-b_clay_ashland_adj;Clay-Ashlandian;;Clay-Ashlander;;;;;;;;;;;x
 b_dabola;Dabola;Dabola;Dabola;;Dabola;;;;;;;;;x
 b_dabola_adj;Dabolan;;daboler;;;;;;;;;;;x
 b_dabola_2;Dabola;Dabola;Dabola;;Dabola;;;;;;;;;x
@@ -239,8 +223,6 @@ b_elmini_2;Elmini;Elmini;Elmini;;Elmini;;;;;;;;;x
 b_elmini_2_adj;Elminian;;elminer;;;;;;;;;;;x
 b_elmini_3;Elmini;Elmini;Elmini;;Elmini;;;;;;;;;x
 b_elmini_3_adj;Elminian;;elminer;;;;;;;;;;;x
-b_edina;Edina;Edina;Edina;;Edina;;;;;;;;;x
-b_edina_adj;Edinaian;;Edinaer;;;;;;;;;;;x
 b_falessade;Falessade;Falessade;Falessade;;Falessade;;;;;;;;;x
 b_falessade_adj;Falessadean;;falessader;;;;;;;;;;;x
 b_faranah;Faranah;Faranah;Faranah;;Faranah;;;;;;;;;x
@@ -787,10 +769,10 @@ b_ranerou_ferlo_2;Ranérou Ferlo;Ranérou Ferlo;Ranérou Ferlo;;Ranérou Ferlo;;;;;;
 b_ranerou_ferlo_2_adj;Ranérou Ferlian;;Ranérou Ferler;;;;;;;;;;;x
 b_ranerou_ferlo_3;Ranérou Ferlo;Ranérou Ferlo;Ranérou Ferlo;;Ranérou Ferlo;;;;;;;;;x
 b_ranerou_ferlo_3_adj;Ranérou Ferlian;;Ranérou Ferler;;;;;;;;;;;x
-b_robertsport;Robertsport;Robertsport;Robertsport;;Robertsport;;;;;;;;;x
-b_robertsport_adj;Robertsportian;;robertsporter;;;;;;;;;;;x
 b_river_cess;River Cess;River Cess;River Cess;;River Cess;;;;;;;;;x
 b_river_cess_adj;River Cessian;;River Cesser;;;;;;;;;;;x
+b_robertsport;Robertsport;Robertsport;Robertsport;;Robertsport;;;;;;;;;x
+b_robertsport_adj;Robertsportian;;robertsporter;;;;;;;;;;;x
 b_salaga;Salaga;Salaga;Salaga;;Salaga;;;;;;;;;x
 b_salaga_adj;Salagan;;salager;;;;;;;;;;;x
 b_salaga_2;Salaga;Salaga;Salaga;;Salaga;;;;;;;;;x
@@ -907,6 +889,8 @@ b_thies_2;Thiès;Thiès;Thiès;;Thiès;;;;;;;;;x
 b_thies_2_adj;Thièsian;;thièser;;;;;;;;;;;x
 b_thies_3;Thiès;Thiès;Thiès;;Thiès;;;;;;;;;x
 b_thies_3_adj;Thièsian;;thièser;;;;;;;;;;;x
+b_timbo;Timbo;Timbo;Timbo;;Timbo;;;;;;;;;x
+b_timbo_adj;Timbian;;timber;;;;;;;;;;;x
 b_timbuktu;Timbuktu;Timbuktu;Timbuktu;;Timbuktu;;;;;;;;;x
 b_timbuktu_adj;Timbuktian;;timbukter;;;;;;;;;;;x
 b_timbuktu_2;Timbuktu;Timbuktu;Timbuktu;;Timbuktu;;;;;;;;;x

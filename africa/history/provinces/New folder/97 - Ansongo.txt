@@ -1,0 +1,17 @@
+# c_ansongo
+
+# County Title
+title = c_ansongo
+
+# Settlements
+max_settlements = 3
+
+b_ansongo = castle
+b_ansongo_2 = city
+b_ansongo_3 = temple
+
+# Misc
+culture = tuareg
+religion = sunni
+
+#History

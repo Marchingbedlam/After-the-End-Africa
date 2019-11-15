@@ -1,0 +1,14 @@
+# e_guinea
+1822‬.1.7={
+	holder=171822
+}
+2300.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+2300.1.1={
+	liege=k_pepper_coast
+}
+2643‬.1.1={
+	holder=1
+}

@@ -1,0 +1,17 @@
+# c_podor
+
+# County Title
+title = c_podor
+
+# Settlements
+max_settlements = 3
+
+b_podor = castle
+b_podor_2 = city
+b_podor_3 = temple
+
+# Misc
+culture = fula
+religion = sunni
+
+#History
