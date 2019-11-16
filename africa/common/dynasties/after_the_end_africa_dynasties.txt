@@ -1,6 +1,6 @@
 ###ÄNSI
 
-1001 = { name ="King" culture = liberian } #Mix of Americo-Liberians and Kru
+1001 = { name="King" culture = liberian } #Mix of Americo-Liberians and Kru
 1002 = { name="Eastman" culture = liberian }
 1003 = { name="Tubman" culture = liberian }
 1004 = { name="Grey" culture = liberian }
@@ -17,19 +17,51 @@
 1015 = { name="Barclay" culture=liberian }
 1016 = { name="Johnson" culture=liberian }
 1017 = { name="Jackson" culture=liberian }
-1018 = { name="Twe" culture=liberian }
+1018 = { name="Greene" culture=liberian }
 1019 = { name="Doe" culture=liberian }
 1020 = { name="Taylor" culture=liberian }
 1021 = { name="Roye" culture=liberian }
 1022 = { name="McGill" culture=liberian }
 1023 = { name="Russwurm" culture=liberian }
 1024 = { name="Drayton" culture=liberian }
+1025 = { name="Cheeseman" culture=liberian }
+1026 = { name="Tolbert" culture=liberian }
+1027 = { name="Sawyer" culture=liberian }
+1028 = { name="Simpson" culture=liberian }
+1029 = { name="Harmon" culture=liberian }
+1030 = { name="Brander" culture=liberian }
+1031 = { name="Wiles" culture=liberian }
+1032 = { name="MacFarland" culture=liberian }
+1033 = { name="Henries" culture=liberian }
+1034 = { name="Dossen" culture=liberian }
+1035 = { name="Grimes" culture=liberian }
+1036 = { name="Yancy" culture=liberian }
+1037 = { name="Faulkner" culture=liberian }
+1038 = { name="Carter-Fuller" culture=liberian }
+1039 = { name="Weeks" culture=liberian }
+1040 = { name="Blyden" culture=liberian }
+1041 = { name="Brown-Sherman" culture=liberian }
+1042 = { name="Cornish" culture=liberian }
+1043 = { name="Brumskine" culture=liberian }
+1044 = { name="Crummell" culture=liberian }
+1045 = { name="Newport" culture=liberian }
+1046 = { name="Urey" culture=liberian }
+1047 = { name="Boyce" culture=liberian }
+1048 = { name="Mechlin" culture=liberian }
+1049 = { name="Skinner" culture=liberian }
+1050 = { name="Anderson" culture=liberian }
 
 1101 = { name="Broh" culture=kru } #
 1102 = { name="Twe" culture=kru }
 1103 = { name="Weah" culture=kru }
 1104 = {name ="Jebor" culture=kru }
 1107 = {name ="Amoussou" culture=kru }
+1108 = {name ="Too" culture=kru }
+1109 = {name ="Musu" culture=kru }
+1110 = {name ="Blahye" culture=kru }
+1111 = {name ="Tipoteh" culture=kru }
+1112 = {name ="Kaboo" culture=kru }
+1113 = {name ="Welleh" culture=kru }
 
 1201 = {name ="Ganda" culture=kpelle } #Sierra leone used as main source due to lack of records found
 1202 = {name ="Kondewa" culture=kpelle }
@@ -40,12 +72,57 @@
 1208 = {name ="Berewa" culture=kpelle }
 1209 = {name ="Pemagbi" culture=kpelle }
 1210 = {name ="Wobay" culture=kpelle }
+1211 = {name ="Camara" culture=kpelle }
+1212 = {name ="Sulunteh" culture=kpelle }
+1213 = {name ="Suakoko" culture=kpelle }
+1214 = {name ="Pogba" culture=kpelle }
+1214 = {name ="Tokpa" culture=kpelle }
+
 
 1301 = {name ="Margai" culture=mende }
-1201 = {name ="Ganda" culture=mende }
-1202 = {name ="Kondewa" culture=mende }
-1203 = {name ="Lansana" culture=mende }
-1204 = {name ="Minah" culture=mende }
-1205 = {name ="Dauda" culture=mende }
-1211 = {name ="Trye" culture=mende }
-1212 = {name ="Norman" culture=mende }
+1302 = {name ="Ganda" culture=mende }
+1303 = {name ="Kondewa" culture=mende }
+1304 = {name ="Lansana" culture=mende }
+1305 = {name ="Minah" culture=mende }
+1306 = {name ="Dauda" culture=mende }
+1307 = {name ="Trye" culture=mende }
+1308 = {name ="Norman" culture=mende }
+
+1401 = {name ="Traoré" culture=malinke }
+1402 = {name ="Diawara" culture=malinke }
+1403 = {name ="Cissé" culture=malinke }
+1404 = {name ="Coulibaly" culture=malinke }
+1405 = {name ="Keïta " culture=malinke }
+1406 = {name ="Traoré" culture=malinke }
+1407 = {name ="Sissoko" culture=malinke }
+1408 = {name ="Jawara" culture=malinke }
+1409 = {name ="Jobarteh" culture=malinke }
+1410 = {name ="Dukuly" culture=malinke }
+1411 = {name ="Kromah" culture=malinke }
+1412 = {name ="Kanté" culture=malinke }
+1413 = {name ="Kouyate" culture=malinke }
+1414 = {name ="Condé" culture=malinke }
+1415 = {name ="Mansaré" culture=malinke }
+1416 = {name ="Baryoh" culture=malinke }
+1417 = {name ="Fadika" culture=malinke }
+1418 = {name ="Tarawalie" culture=malinke }
+1419 = {name ="Konneh" culture=malinke }
+1420 = {name ="Yekerson" culture=malinke }
+1421 = {name ="Sanneh" culture=malinke }
+1422 = {name ="Fakoly" culture=malinke }
+1423 = {name ="Sidibé" culture=malinke }
+1424 = {name ="Ouattara" culture=malinke }
+1425 = {name ="Bakaba" culture=malinke }
+1426 = {name ="Kourouma" culture=malinke }
+1427 = {name ="Gassama" culture=malinke }
+1428 = {name ="Daffeh" culture=malinke }
+1429 = {name ="Zerbo" culture=malinke }
+1430 = {name ="Darboe" culture=malinke }
+1431 = {name ="Fofana" culture=malinke }
+1432 = {name ="Mansaray" culture=malinke }
+1433 = {name ="Soumaré" culture=malinke }
+1434 = {name ="Diakite" culture=malinke }
+1435 = {name ="Sangaré" culture=malinke }
+1436 = {name ="Douala" culture=malinke }
+1437 = {name ="Diabaté" culture=malinke }
+1438 = {name ="Maïga" culture=malinke }
