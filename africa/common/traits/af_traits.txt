@@ -8,8 +8,6 @@ mason = {
 	opposite_opinion = -5
 	intrigue = 1
 	stewardship = 1
-	agnatic = yes
-	cognatic = yes
 	diplomacy = -1
 	potential = { religion = libertarian }
 	random = no
@@ -28,10 +26,8 @@ ifa_mo = {
 	opposite_opinion = -5
 	intrigue = 1
 	stewardship = -1
-	agnatic = yes
-	cognatic = yes
 	combat_rating = 10
-	tolerates_african_religions = yes
+	tolerates_pagan_religions = yes
 	potential = { religion = libertarian }
 	random = no
 
@@ -49,8 +45,6 @@ garveyite = {
 	opposite_opinion = -5
 	learning = 1
 	martial = 1
-	agnatic = yes
-	cognatic = yes
 	stewardship = -1
 	intrigue = -1
 	monthly_character_piety = 0.25
