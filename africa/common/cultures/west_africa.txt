@@ -96,18 +96,49 @@ west_african = {
 		color = { 0.5 0.6 1 }
 		
 		male_names = {
-			Alfred Ansa Anthony_Anthony Arthur_Arthur Baimba Benjamin Benoni Bonokai Buyamah Charles_Charles Ciata
-			Daniel_Daniel Didwho Edward_Edward Elijah_Elijah Filibuster Garretson Gbessi Gbotoe George_George Hilary
-			Jallah James_James John_John Joseph_Joseph Kaijaah Kanneh Karmo Kayme Kemokai Kengbe Konowa Kpanna
-			Lamie Louis_Louis Luma Martin_Martin Momolu Monroe Payne Pese Samuel_Samuel Seh Sekou Solomon_Solomon Stephen_Stephen
-			Tarweh Thomas_Thomas Varney William Wilmot Winston Zolu			
+			Advertus Alfred Allen Amos Ansa Anthony_Anthony Arthur_Arthur Ashbury Augustus
+			Baimba Bashiel Benjamin Benoni Beverly Bhofal Bismarck Bonokai Boston Burgess Buyamah 
+			Cecil Charles_Charles Ciata Clarence 
+			Daniel_Daniel Dash Didwho Dunbar 
+			Edward_Edward Edwin Elijah_Elijah Emmanuel 
+			Filibuster Ford Fulton 
+			Gabriel Garretson Gbessi Gbotoe George_George Ghankay Gyude 
+			Hilary
+			Jallah James_James Jenkins John_John Joseph_Joseph 
+			Kaijaah Kanneh Karmo Kayme Kemokai Kengbe Kermit Konowa Kpanna
+			Lamie Lorenzo_Lawrence Louis_Louis Luma 
+			Martin_Martin McArthur McKinley Melvin Momolu Monroe Moses 
+			Nathaniel 
+			Payne Pese 
+			Reginald Richard
+			Samuel_Samuel Seh Sekou Shadrach Skirving Solomon_Solomon Stephen_Stephen
+			Tarweh Thomas_Thomas 
+			Vacanarat Varney 
+			Wesley William Wilmot Winston 
+			Zacharia Zeh Zolu		
 		}
 		
 		female_names = {
-			Bendu Betsy_Elizabeth Carolina Catharine_Katherine Cianna Ciata Cyvette Dido Ellen Emancipata
-			Fatu Fatumatta Gbessay Gloriana Hawa Helene Jabateh Jandi Jartu Jebbeh Jenneh Julia Jumah Justice
-			Kemah Kula Kpanna Libertas Lorpu Mabasi Maima Martha Mary Miata Miranda Musu Nullabona Nyanae
-			Respublia Rhoda Siah Somah Somo Tatu Tenneh Virginia Weyatta Yassa Zoe
+			Antoinette 
+			Bendu Betsy_Elizabeth 
+			Carolina Catharine_Katherine Cianna Ciata Cyvette 
+			Dido 
+			Ellen Emily Emancipata
+			Fatu Fatumatta 
+			Gbessay Gloriana 
+			Hawa Helene 
+			Jabateh Jandi Jartu Jebbeh Jenneh Jewel Julia Jumah Justice
+			Kemah Kimmie Kula Kpanna 
+			Libertas Lorpu 
+			Mabasi Maima Martha Mary Miata Miranda Musu 
+			Nullabona Nyanae
+			Rebecca Respublia Rhoda Ruth 
+			Sando Siah Somah Somo 
+			Tatu Tenneh 
+			Virginia 
+			Weyatta 
+			Yassa 
+			Zoe
 		}
 
 		from_dynasty_prefix = ""
