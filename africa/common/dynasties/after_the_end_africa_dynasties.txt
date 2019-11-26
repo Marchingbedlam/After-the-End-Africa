@@ -50,6 +50,26 @@
 1048 = { name="Mechlin" culture=liberian }
 1049 = { name="Skinner" culture=liberian }
 1050 = { name="Anderson" culture=liberian }
+1051 = { name="Townsend" culture=liberian }
+1052 = { name="Davies-Bright" culture=liberian }
+1053 = { name="Stubblefield" culture=liberian }
+1054 = { name="Greene" culture=liberian }
+1055 = { name="Reed-Cooper" culture=liberian }
+1056 = { name="Snowe" culture=liberian }
+1057 = { name="Findley" culture=liberian }
+1058 = { name="Day" culture=liberian }
+1059 = { name="Minor" culture=liberian }
+1060 = { name="Shannon" culture=liberian }
+1061 = { name="Bull" culture=liberian }
+1062 = { name="Parsons" culture=liberian }
+1063 = { name="M'Cormack" culture=liberian }
+1064 = { name="Thorpe" culture=liberian }
+1065 = { name="Hyde-Forster" culture=liberian }
+1066 = { name="Ransome" culture=liberian }
+1067 = { name="Harding" culture=liberian }
+1068 = { name="Decker" culture=liberian }
+1069 = { name="Stronge" culture=liberian }
+1070 = { name="Jarrett" culture=liberian }
 
 1101 = { name="Broh" culture=kru } #
 1102 = { name="Twe" culture=kru }
