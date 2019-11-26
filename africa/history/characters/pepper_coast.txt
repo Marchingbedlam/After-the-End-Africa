@@ -100,8 +100,9 @@
 	2679.1.5={death=yes}
 }
 10={
-	name="August" #Maryland
-	dynasty=9000
+	name="Augustus" #Maryland
+	dynasty=1035
+	father=21
 	culture=liberian
 	religion=libertarian
 	martial=4
@@ -278,4 +279,68 @@
 
 	2612.4.10={ birth=yes }
 	2677.4.1={ death=yes }
+}
+
+19={
+	name="Philadelphius" #Maryland
+	dynasty=1035
+	father=10
+	culture=liberian
+	religion=libertarian
+	martial=8
+	diplomacy=8
+	stewardship=8
+	intrigue=8
+	learning=8
+	trait=brilliant_strategist
+	trait=chariable
+	trait=brave
+	trait=trusting
+	trait=gregarious	
+	trait=kind
+	
+	2639.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+
+20={
+	name="Washington" #Maryland
+	dynasty=1035
+	father=10
+	culture=liberian
+	religion=libertarian
+	trait=quick
+	trait=cynical
+	trait=skilled_negotiator
+	trait=deceitful
+	
+	2644.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+21={
+	name="Cicero" #Maryland
+	dynasty=1035
+	culture=liberian
+	religion=libertarian
+	
+	2590.1.1={birth=yes}
+	2630.1.1={death=yes}
+}
+22={
+	name="Dredd" #Maryland
+	dynasty=1035
+	father=21
+	culture=liberian
+	religion=libertarian
+
+	trait=bastard
+	trait=tough_soldier
+	trait=scarred
+	trait=strong
+	trait=brave
+	trait=cruel
+	trait=greedy 
+	
+	2628.1.1={birth=yes}
+	2700.1.1={death=yes}
 }
