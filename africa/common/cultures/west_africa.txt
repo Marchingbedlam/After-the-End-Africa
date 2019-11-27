@@ -87,7 +87,7 @@ west_african = {
 			Arway Donyen Teenesee Jayplo Japlo Sorntee Bloh Wloh Nyonweh Tarloh
 		}
 	}
-	liberian = {
+	kwi = {
 		graphical_cultures = { westafricangfx africangfx }
 		unit_graphical_cultures = { westafricangfx africangfx }
 
