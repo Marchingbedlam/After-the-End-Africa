@@ -11,7 +11,7 @@ b_edina = castle
 b_gonglee = temple
 
 # Misc
-culture = liberian
+culture = kwi
 religion = libertarian
 
 #History

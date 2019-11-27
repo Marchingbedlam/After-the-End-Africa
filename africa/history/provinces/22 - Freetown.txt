@@ -15,7 +15,7 @@ b_hastings = city
 #b_tumbu = castle
 
 # Misc
-culture = liberian
+culture = kwi
 religion = libertarian
 
 #History

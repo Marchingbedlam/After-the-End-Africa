@@ -11,7 +11,7 @@ b_sehnkwehn = city
 #b_abraham = temple
 
 # Misc
-culture = liberian
+culture = kwi
 religion = libertarian
 
 #History

@@ -16,7 +16,7 @@ b_yonibana = temple
 #b_cruzinha = castle
 
 # Misc
-culture = mende
+culture = temne
 religion = sunni
 
 #History

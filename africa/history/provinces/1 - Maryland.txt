@@ -13,7 +13,7 @@ b_kakata = castle
 #b_harbel = city
 
 # Misc
-culture = liberian
+culture = kwi
 religion = libertarian
 
 #History

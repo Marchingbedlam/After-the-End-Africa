@@ -1,7 +1,7 @@
 1={
 	name="Edwin" #Monrovia patricians
 	dynasty=1001
-	culture=liberian
+	culture=kwi
 	religion=libertarian
 	martial=3
 	diplomacy=3
@@ -18,7 +18,7 @@
 2={
 	name=Taylor #Monrovia patricians
 	dynasty=1002
-	culture=liberian
+	culture=kwi
 	religion=libertarian
 	martial=7
 	diplomacy=4
@@ -38,7 +38,7 @@
 3={
 	name="David" #Monrovia patricians
 	dynasty=1003
-	culture=liberian
+	culture=kwi
 	religion=libertarian
 	martial=3
 	diplomacy=3
@@ -55,9 +55,9 @@
 	2669.1.5={death=yes}
 }
 4={
-	name="Havelock" #Monrovia patricians
+	name="Blake" #Monrovia patricians
 	dynasty=1004
-	culture=liberian
+	culture=kwi
 	religion=libertarian
 	martial=3
 	diplomacy=6
@@ -66,25 +66,22 @@
 	learning=5
 	trait=intricate_webweaver
 	trait=quick
-	trait=physician
 	trait=scholar
 	trait=shrewd
 	trait=gamer
 	trait=ambitious
-	trait=cynical
 	trait=just
 	trait=chaste
+	trait=humble
 	trait=patient
-	trait=one_legged
 	
 	2634.6.21={birth=yes}
-	2660.11.28={effect = {add_artifact = prosthetic_leg_artifact} }
 	3000.3.1={death=yes}
 }
 5={
 	name=Arthur #Monrovia patricians
 	dynasty=1005
-	culture=liberian
+	culture=kwi
 	religion=libertarian
 	martial=7
 	diplomacy=2
@@ -103,7 +100,7 @@
 	name="Augustus" #Maryland
 	dynasty=1035
 	father=21
-	culture=liberian
+	culture=kwi
 	religion=libertarian
 	martial=4
 	diplomacy=5
@@ -164,7 +161,7 @@
 13={
 	name="Harun"
 	dynasty=9000
-	culture=kpelle
+	culture=mende
 	religion=sunni
 	martial=4
 	diplomacy=3
@@ -263,7 +260,7 @@
 	name=Henry
 	dynasty=9000
 	dna="hdchhagbhim"
-	culture=liberian
+	culture=kwi
 	religion=libertarian
 	martial=8
 	diplomacy=4
@@ -285,7 +282,7 @@
 	name="Philadelphius" #Maryland
 	dynasty=1035
 	father=10
-	culture=liberian
+	culture=kwi
 	religion=libertarian
 	martial=8
 	diplomacy=8
@@ -307,7 +304,7 @@
 	name="Washington" #Maryland
 	dynasty=1035
 	father=10
-	culture=liberian
+	culture=kwi
 	religion=libertarian
 	trait=quick
 	trait=cynical
@@ -320,7 +317,7 @@
 21={
 	name="Cicero" #Maryland
 	dynasty=1035
-	culture=liberian
+	culture=kwi
 	religion=libertarian
 	
 	2590.1.1={birth=yes}
@@ -330,7 +327,7 @@
 	name="Dredd" #Maryland
 	dynasty=1035
 	father=21
-	culture=liberian
+	culture=kwi
 	religion=libertarian
 
 	trait=bastard

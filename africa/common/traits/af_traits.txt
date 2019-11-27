@@ -11,7 +11,7 @@ mason = {
 	diplomacy = -1
 	potential = { religion = libertarian }
 	random = no
-
+	religious_branch = libertarian
 	religious = yes
 	ruler_designer_cost = 0
 	ai_honor = 10
@@ -30,7 +30,7 @@ ifa_mo = {
 	tolerates_pagan_religions = yes
 	potential = { religion = libertarian }
 	random = no
-
+	religious_branch = libertarian
 	religious = yes
 	ruler_designer_cost = 0
 	ai_honor = 10
@@ -50,7 +50,7 @@ garveyite = {
 	monthly_character_piety = 0.25
 	potential = { religion = libertarian }
 	random = no
-
+	religious_branch = libertarian
 	religious = yes
 	ruler_designer_cost = 0
 	ai_honor = 10
