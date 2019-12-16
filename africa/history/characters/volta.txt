@@ -1,0 +1,155 @@
+1500200={
+	name="Oyoko" #Volta King
+	dynasty=1501062
+	culture=ashanti
+	religion=catholic
+	
+	2560.1.1={birth=yes}
+	2636.1.1={death=yes}
+}
+1500201={
+	name="Krobo" #Volta King
+	dynasty=1501062
+	culture=ashanti
+	religion=catholic
+	father=1500200
+	
+	2584.1.1={birth=yes}
+	2640.1.1={death=yes}
+}
+1500202={
+	name="Osei" #Volta King
+	dynasty=1501062
+	culture=ashanti
+	religion=catholic
+	father=1500201
+	
+	2600.1.1={birth=yes}
+	2655.1.1={death=yes}
+}
+1500203={
+	name="Oyoko" #Volta King
+	dynasty=1501062
+	culture=ashanti
+	religion=catholic
+	father=1500202
+
+	trait=hunter
+	trait=wroth
+	trait=arbitrary
+	trait=robust
+	
+	2628.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1500204={
+	name="Krobo" #Volta King
+	dynasty=1501062
+	culture=ashanti
+	religion=catholic
+	father=1500203
+
+	trait=erudite
+	trait=gregarious
+	trait=diligent
+	
+	2649.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+
+1500210={
+	name="Quobna" #Accra Patrician
+	dynasty=1504018 #Short
+	culture=fante
+	religion=catholic
+
+	2620.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1500211={
+	name="Jabesh" #Accra Patrician
+	dynasty=1504037 #Beretuo
+	culture=fante
+	religion=catholic
+
+	2620.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1500212={
+	name="Abakrampa" #Accra Patrician
+	dynasty=1504028  #Hawkson
+	culture=fante
+	religion=catholic
+
+	2620.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1500213={
+	name="Emman" #Accra Patrician
+	dynasty=1504036   #Abohyen
+	culture=fante
+	religion=catholic
+
+	2620.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1500214={
+	name="John Joseph" #Accra Patrician
+	dynasty=1501064   #Agyemang 
+	culture=ashanti
+	religion=catholic
+
+	2620.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+
+1500220={
+	name="Ekow" 
+	dynasty=1504042 
+	culture=fante
+	religion=catholic
+
+	trait=gamer
+	trait=skilled_tactician
+	trait=patient
+
+	2641.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+
+1500225={
+	name="Opoku Ware" 
+	dynasty=1501023
+	culture=ashanti
+	religion=catholic
+
+	trait=zealous
+
+	2613.3.8={birth=yes}
+	2700.1.1={death=yes}
+}
+1500227={
+	name="Joseph" 
+	dynasty=1504025
+	culture=fante
+	religion=catholic
+
+	trait=greedy
+	trait=deceitful
+	trait=ambitious
+	trait=craven	
+	trait=gregarious
+	trait=intricate_webweaver
+
+	2623.5.15={birth=yes}
+	2700.1.1={death=yes}
+}
+1500228={
+	name="Boachi" 
+	dynasty=1501037
+	culture=ashanti
+	religion=catholic
+
+	2627.5.15={birth=yes}
+	2700.1.1={death=yes}
+}

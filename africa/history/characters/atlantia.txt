@@ -1,4 +1,4 @@
-20={
+200={
 	name=Henry
 	dynasty=9000
 	dna="hdchaabbhim"

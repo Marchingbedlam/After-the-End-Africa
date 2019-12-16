@@ -10,11 +10,35 @@ west_african = {
 		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
-			Nyennoh Borforh Monon-Konmlan Soe-Tehpoe Konmlan Tehpoe Pennon Togba Te Jlakon Forkay Nimene Boryee Yenseloh Odeleia Gbwe
+			Boakai Beyan Borforh Boryee
+			Charles
+			Didwho Dorley Dwe 
+			Forkay 
+			Garmuyu Gbwe George Gyude
+			Jlakon 
+			Kaboo Kanyon 
+			Manneh Monon-Konmlan 
+			Nimene Nyennoh 
+			Oppong 
+			Pennon 
+			Saigbe Soeh-Tehpoe 
+			Teh Togar Togba
+			Wadé 
+			Yenseloh 
 		}
 		
 		female_names = {
-			Arway Donyen Teenesee Jayplo Japlo Sorntee Bloh Wloh Nyonweh Tarloh
+			Arway
+			Donyen 
+			Ellen 
+			Gloria
+			Janjay Jayplo 
+			Mardea Mary Maya Monji
+			Nyonweh 
+			Poady 
+			Sorntee
+			Tanyonoh Tarloh Tomah 
+			Wleji Wloh 
 		}
 	}
 	temne = {
@@ -73,7 +97,113 @@ west_african = {
 			Arway Donyen Teenesee Jayplo Japlo Sorntee Bloh Wloh Nyonweh Tarloh
 		}
 	}
-    senufo = {
+	ashanti = {
+		color = { 0.95 0.75 0.25 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Adofo "Afua Kobi" Afuom Ahenkro Akwasi Antwi Asiba
+			Bafuor Boachi Bonsu
+			Dankwa 
+			Karikari Kofi Krobo Kusi Kwabena Kwadwo Kwaku Kwame Kwasi Kweku
+			Obiri "Ofori Atta" Okomfo Okwan Opanyin "Opoku Ware" Osei "Osei Tutu" Owusu
+			Prempeh Preprah 
+			"Sei Ababio"
+			Twum
+			Wusu 
+			"Yaw Akoto" Yeboah Yiakosan 
+		}
+		
+		female_names = {
+			Abenaa Adwoa Afua Akosua Akua Ama 
+			Dayan 
+			Yaa "Yaa Akyaa"
+		}
+	}
+	fante = {
+		color = { 0.9 0.65 0.1 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Abakrampa Amonu Amfo-Oto Atta 
+			Bekoe Bohhen
+			Ebenezer Ebo Edu Ekow Ekra-Agiman Emman 
+			Ghartey Godfred
+			Jabesh James John Joseph 
+			Kodwo Kofi Komfo-Amona Ko-Yanfu Kwamena Kweku Kwesi 
+			Lovelace
+			Odapagya Ottobah
+			Paul Peter 
+			Quobna 
+			Samuel 
+			Zuarko
+		}
+		
+		female_names = {
+			Abadua Agnes Effie Marian Peggielene Yvonne
+		}
+	}
+	baoule = {
+		color = { 0.9 0.6 0.2 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Abo Adje Adrien_Adrian Agpatou Aimé Albert Amédée_Amadeus Ange Arnaud Augustin 
+			Benjamin Bernard Bertin Boniface
+			César_Caesar Charles Clémence_Clement Cyraïque 
+			Dia Didier Dieudonné Diezou 
+			Edgard_Edgar Elysée Euloge Euphraïm_Ephraim Evariste Eyiou
+			Fabrice Félix_Felix Fidel Florent Frédéric_Frederick Fréjus
+			Gauz Gbro Gilbert Gnanvou Guillaume_William 
+			Henri_Henry Hervé
+			Innocent Ismaël_Ishmael 
+			Jean_John Jeremie_Jeremy Joël_Joel Josué_Joshua
+			Kacou Kago Koffi_Kofi Konan Kouadio Kouakou Kouamé Kouassi Kragbé
+			Landry Laurent_Laurence Lazare_Lazarus Léonard_Leonard Loukou 
+			Martiale Mathurin Michel_Michael Moïse_Moses
+			Narcisse N'Doli N'goran N'guessan Noël 
+			Olivier_Oliver O'Plérou 
+			Pacome Pascal Pharace
+			Richard Rodrigue_Roderick Romaric
+			Salarier Seraphin Séverin Sylvestre_Sylvester
+			Thierry Tuo 
+			Venceslasse_Wenceslaus
+			Yann Yao_Yaw Yoman Yves
+
+			Kouassi Kouassi Kouadio Kouadio Konan Konan Kouakou Kouakou Yao Yao Koffi Koffi Kouamé Kouamé
+		}
+		
+		female_names = {
+			Abla Adjoua Affoué Akissi Akwa Ahou Amenan Amoin Amlan Annick Aya
+			Béatrice_Beatrice Bienvenue 
+			Claudine
+			D'Arc Débora_Deborah
+			Edwige_Hedwig Elaudie_Elody Elisabeth Epiphanie
+			Faitai Flaure
+			Gaelle
+			Helene_Helen 
+			Immaculée 
+			Jeanne Jocelyne Josette
+			Kimou 
+			Laeticia 
+			Magloire Marie_Marie Moya
+			Nicole
+			Pokou
+			Régina_Regina Roseline Ruth 
+			Sarah Simone Stéphanie_Stephanie Sylvie 
+			Victorine_Victoria
+			Yamousso 
+			
+			Akissi Akissi Adjoua Adjoua Amenan Amenan Ahou Ahou Aya Aya Affoué Affoué Amoin Amoin 
+		} 
+	}
+    	senufo = {
 		color = { 1 0.6 0.5 }
 		
 		graphical_cultures = { westafricangfx africangfx }
@@ -109,7 +239,9 @@ west_african = {
 			Lamie Lorenzo_Lawrence Louis_Louis Luma 
 			Martin_Martin McArthur McKinley Melvin Momolu Monroe Moses 
 			Nathaniel 
+			Othello 
 			Payne Pese 
+			Quincy 
 			Reginald Richard
 			Samuel_Samuel Seh Sekou Shadrach Skirving Solomon_Solomon Stephen_Stephen
 			Tarweh Thomas_Thomas 

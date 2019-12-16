@@ -11,7 +11,7 @@ b_gbeke_2 = city
 b_gbeke_3 = temple
 
 # Misc
-culture = akan
+culture = baoule
 religion = catholic
 
 #History

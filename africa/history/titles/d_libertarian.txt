@@ -1,5 +1,5 @@
 ###ÄNSI
 2650.1.1={
-	holder = 18
+	holder = 1000118
 	law = enatic_succession
 }

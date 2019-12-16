@@ -11,7 +11,7 @@ b_agneby_tiassa_2 = city
 b_agneby_tiassa_3 = temple
 
 # Misc
-culture = akan
+culture = baoule
 religion = catholic
 
 #History

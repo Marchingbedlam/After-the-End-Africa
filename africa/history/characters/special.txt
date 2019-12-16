@@ -1,3 +1,18 @@
+171800={
+	name="Emerick"
+	culture=british
+	religion=catholic
+	trait=scholar
+	trait=erudite
+	trait=quick
+	trait=homosexual
+	trait=shy
+	trait=temperate
+	trait=patient
+	trait=scholarly_theologian
+	2644.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
 171822={
 	name="James Monroe" #
 	culture="liberian"

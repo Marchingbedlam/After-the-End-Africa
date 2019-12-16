@@ -6,12 +6,12 @@ title = c_accra
 # Settlements
 max_settlements = 3
 
-b_accra = castle
+b_accra = city
 b_accra_2 = city
 b_accra_3 = temple
 
 # Misc
-culture = akan
+culture = fante
 religion = catholic
 
 #History

@@ -27,3 +27,25 @@ b_roberts = {
 	culture = liberian
 	religion = libertarian
 }
+
+## Accra
+b_short = {
+	culture = fante
+	religion = catholic
+}
+b_beretuo = {
+	culture = fante
+	religion = catholic
+}
+b_hawkson = {
+	culture = fante
+	religion = catholic
+}
+b_abohyen = {
+	culture = fante
+	religion = catholic
+}
+b_agyemang = {
+	culture = ashanti
+	religion = catholic
+}

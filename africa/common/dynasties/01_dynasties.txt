@@ -2,6 +2,13 @@
 # Dynasties should go in the appropriate culture
 
 # List of prefixes (add new ones you create here):
-# 1001 Liberian
+# 1001 Kwi
+# 1101 Kru
+# 1201 Kpelle
+# 1301 Mende
+# 1401 Malinke
+# 1500 Ashanti
+# 1700 Fante
+# 1800 Baoule
 
 # 9001 Special Dynasties (for event-generated characters)

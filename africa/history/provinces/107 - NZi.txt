@@ -11,7 +11,7 @@ b_nzi_2 = city
 b_nzi_3 = temple
 
 # Misc
-culture = akan
+culture = baoule
 religion = catholic
 
 #History

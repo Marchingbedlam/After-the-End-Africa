@@ -22,6 +22,32 @@ christian = {
 	#default interface
 }
 
+muslim = {
+	has_coa_on_barony_only = yes
+	graphical_culture = muslimgfx
+	crusade_cb = crusade
+	playable = yes
+	hostile_within_group = yes
+	
+	ai_convert_same_group = 2 # always try to convert
+	ai_convert_other_group = 1 # try to convert if ai_zeal is high
+	ai_fabricate_claims = no
+	
+	color = { 0 0.6 0 }
+	
+	interface_skin = { muslim_interface }
+	
+	# Names given only to Muslim characters (base names)
+	male_names = {
+		Abbas Abdul Abdullah Abolhassan Abu-Bakr Ahmad Akbar Allahyar Ali Ali-Fay Ali-Kolon Ali-Zalil Hasan Hossein Hussayn Ismail Mahmud Mohammed Muammar Muhammad
+	}
+	
+	# Names given only to Muslim characters (base names)
+	female_names = {
+		Ayesha Abrar Afifah Anabia Hijrah Hind Hareem Iqra Judi Karida Khadijah Khalidah Khawlah Madeeha Maryam Mariyah Maymunah Mariam Mina Nuwwarrah Qismah Ruqayyah Saba Safaa Safiyyah Salma Shahrazad Sirin Sumaiyah Thuwaibah Umamah Zainab Zubaidah Zainab 
+	}
+}
+
 pan_african = {
 	has_coa_on_barony_only = yes
 	graphical_culture = westerngfx
@@ -99,10 +125,10 @@ pan_african = {
 		high_god_name = GOD_LIBERTY
 		
 		god_names = {
-			GOD_INDEPENDENCE GOD_PROSPERITY GOD_JUSTICE GOD_OUR_LADY GOD_MONROE THE_FOUNDERS
+			GOD_INDEPENDENCE GOD_PROSPERITY GOD_JUSTICE GOD_OUR_LADY GOD_MONROE THE_FOUNDERS GOD_JOHN_BROWN
 		}
 		evil_god_names = {
-			THE_FIRESTONE THE_NESTLED THE_TRAITORS FASCISM COLONIALISM
+			THE_FIRESTONE THE_TRAITORS COLONIALISM THE_ENSLAVERS
 		}
 		
 		autocephaly = yes

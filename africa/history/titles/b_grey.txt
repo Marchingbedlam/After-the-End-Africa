@@ -1,7 +1,7 @@
 2663.1.15={
-holding_dynasty = 1004
+holding_dynasty = 1001004
 
 liege="d_monrovia"
 
-holder=4
+holder=1000104
 }

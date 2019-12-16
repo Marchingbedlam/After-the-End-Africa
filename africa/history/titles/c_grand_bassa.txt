@@ -10,5 +10,5 @@
 	liege = d_monrovia
 }
 2601.6.2 = {
-	holder = 5
+	holder = 1000105
 }

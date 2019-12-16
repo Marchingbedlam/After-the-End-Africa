@@ -11,7 +11,7 @@ b_indenie_djuablin_2 = city
 b_indenie_djuablin_3 = temple
 
 # Misc
-culture = akan
+culture = baoule
 religion = catholic
 
 #History

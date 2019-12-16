@@ -10,4 +10,4 @@
 	liege = d_monrovia
 }
 2661.6.2 = {
-	holder = 3
+	holder = 1000103

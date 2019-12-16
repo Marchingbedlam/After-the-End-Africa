@@ -5,7 +5,10 @@
 }
 2300.1.1={
 	liege=k_pepper_coast
+	
+2615.10.3={
+	holder=1000121
 }
 2647‬.4.1={
-	holder=10
+	holder=1000110
 }

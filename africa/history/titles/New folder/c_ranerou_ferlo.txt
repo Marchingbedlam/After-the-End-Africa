@@ -1,8 +1,0 @@
-# e_mali
-2300.1.1={
-	law = agnatic_succession
-	law = succ_gavelkind
-}
-2300.1.1={
-	liege=k_senegambia
-}

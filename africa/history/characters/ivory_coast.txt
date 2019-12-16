@@ -1,0 +1,142 @@
+1800001={
+	name="Konan" #Cotedivoire
+	dynasty=1505008
+	culture=baoule
+	religion=catholic
+
+	trait=strong
+	trait=slothful
+	trait=gluttonous
+	trait=is_fat
+	trait=content
+	trait=gregarious 
+	trait=tough_soldier
+	
+	2617.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+
+1800002={
+	name="Yao" #Cotedivoire
+	dynasty=1505016
+	culture=baoule
+	religion=catholic
+	father=1800003
+
+	trait=ambitious
+	trait=diligent
+	trait=intricate_webweaver
+	trait=paranoid
+	
+	2641.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1800003={
+	name="Tuo" #Cotedivoire
+	dynasty=1505016
+	culture=baoule
+	religion=catholic
+	
+	2601.1.1={birth=yes}
+	2659.1.1={death=yes}
+}
+1800006={
+	name="Kouassi" #Cotedivoire
+	dynasty=1505001
+	culture=baoule
+	religion=catholic
+	father=1800008
+
+	trait=genius
+	trait=midas_touched
+	trait=gregarious
+	trait=patient
+	trait=erudite
+	trait=chaste
+	trait=deceitful	
+	trait=infirm
+	
+	2580.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1800007={
+	name="Venance" #Cotedivoire
+	dynasty=1505001
+	culture=baoule
+	religion=catholic
+	father=1800006
+
+	trait=arbitrary
+	trait=bastard
+	
+	2641.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1800008={
+	name="Kouassi" #Cotedivoire
+	dynasty=1505001
+	culture=baoule
+	religion=catholic
+	
+	2560.1.1={birth=yes}
+	2610.1.1={death=yes}
+}
+1800009={
+	name="Pharace" #Cotedivoire
+	dynasty=1505054
+	culture=baoule
+	religion=catholic
+
+	trait=just
+	trait=brave
+	trait=content
+	trait=honest
+	trait=tough_soldier
+	
+	2629.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1800010={
+	name="Diezou" #Cotedivoire
+	dynasty=1505054
+	culture=baoule
+	religion=catholic
+	father=1800009
+
+	trait=just
+	trait=brave
+	trait=weak
+	
+	2652.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+
+1800012={
+	name="Kago" # the literary man
+	dynasty=1505058
+	culture=baoule
+	religion=catholic
+
+	trait=erudite
+	trait=poet
+	trait=proud
+	trait=diligent
+	trait=shrewd
+	trait=scholarly_theologian
+	
+	2636.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1800013={
+	name="Wadé" # Cotedivoire
+	dynasty=1101013
+	culture=kru
+	religion=catholic
+
+	trait=cruel
+	trait=ambitious
+	trait=zealous
+	
+	2632.1.1={birth=yes}
+	2700.1.1={death=yes}
+}

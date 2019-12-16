@@ -1,0 +1,46 @@
+###ÄNSI
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+
+job_spiritual_libertarian;Attorney General;;;;;;;;;;;;;x
+temple_barony_of_libertarian;Court of;;;;;;;;;;;;;x
+temple_baron_libertarian;Judge;;;;;;;;;;;;;x
+temple_baron_female_libertarian;Judge;;;;;;;;;;;;;x
+temple_baron_libertarians;Judges;;;;;;;;;;;;;x
+temple_county_of_libertarian;County Court of;;;;;;;;;;;;;x
+temple_count_libertarian;County Judge;;;;;;;;;;;;;x
+temple_count_female_libertarian;County Judge;;;;;;;;;;;;;x
+temple_duchy_of_libertarian;High Court of;;;;;;;;;;;;;x
+temple_duke_libertarian;High Judge;;;;;;;;;;;;;x
+temple_duke_female_libertarian;High Judge;;;;;;;;;;;;;x
+temple_kingdom_of_libertarian;General Court of;;;;;;;;;;;;;x
+temple_king_libertarian;General Judge;;;;;;;;;;;;;x
+temple_king_female_libertarian;General Judge;;;;;;;;;;;;;x
+temple_empire_of_libertarian;Supreme Court of;;;;;;;;;;;;;x
+temple_emperor_libertarian;Supreme Judge;;;;;;;;;;;;;x
+temple_emperor_female_libertarian;Supreme Judge;;;;;;;;;;;;;x
+
+city_count_libertarian;Representative;;;;;;;;;;;;;x
+city_count_female_libertarian;Representative;;;;;;;;;;;;;x
+city_duke_libertarian;Speaker;;;;;;;;;;;;;x
+city_duke_female_libertarian;Speaker;;;;;;;;;;;;;x
+city_king_libertarian;Senator;;;;;;;;;;;;;x
+city_king_female_libertarian;Senator;;;;;;;;;;;;;x
+city_emperor_libertarian;President;;;;;;;;;;;;;x
+city_emperor_female_libertarian;President;;;;;;;;;;;;;x
+
+baron_libertarian;Sergeant;;;;;;;;;;;;;x
+baron_female_libertarian;Sergeant;;;;;;;;;;;;;x
+barony_of_libertarian;Municipality of;;;;;;;;;;;;;x
+barony_libertarian;Municipality;;;;;;;;;;;;;x
+count_libertarian;Major;;;;;;;;;;;;;x
+count_female_libertarian;Major;;;;;;;;;;;;;x
+duke_libertarian;Colonel;;;;;;;;;;;;;x
+duke_female_libertarian;Colonel;;;;;;;;;;;;;x
+duchy_of_libertarian;District of;;;;;;;;;;;;;x
+duchy_libertarian;District;;;;;;;;;;;;;x
+king_libertarian;General;;;;;;;;;;;;;x
+king_female_libertarian;General;;;;;;;;;;;;;x
+kingdom_of_libertarian;Commonwealth of;;;;;;;;;;;;;x
+kingdom_libertarian;Commonwealth;;;;;;;;;;;;;x
+emperor_libertarian;Commander-in-Chief;;;;;;;;;;;;;x
+emperor_female_libertarian;Commander-in-Chief;;;;;;;;;;;;;x

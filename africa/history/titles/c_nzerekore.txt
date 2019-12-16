@@ -7,5 +7,5 @@
 	liege=k_pepper_coast
 }
 2652.12.4={
-	holder = 14
+	holder = 1000114
 }
