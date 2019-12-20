@@ -6,12 +6,10 @@ title = c_bui
 # Settlements
 max_settlements = 3
 
-b_bui = castle
-b_bui_2 = city
-b_bui_3 = temple
+b_bui = tribal
 
 # Misc
-culture = gur
-religion = catholic
+culture = senufo
+religion = sunni
 
 #History

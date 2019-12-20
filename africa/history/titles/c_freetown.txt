@@ -7,8 +7,5 @@
 	liege=k_guinea
 }
 2652.1.3 = {
-	liege = d_monrovia
-}
-2652.1.3 = {
-	holder = 1000101
+	holder = 1000126
 }

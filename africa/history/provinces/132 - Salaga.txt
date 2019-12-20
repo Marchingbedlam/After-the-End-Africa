@@ -6,12 +6,10 @@ title = c_salaga
 # Settlements
 max_settlements = 3
 
-b_salaga = castle
-b_salaga_2 = city
-b_salaga_3 = temple
+b_salaga = tribal
 
 # Misc
-culture = gur
-religion = catholic
+culture = dagomba
+religion = sunni
 
 #History

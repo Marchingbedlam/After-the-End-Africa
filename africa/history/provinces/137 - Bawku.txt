@@ -6,12 +6,10 @@ title = c_bawku
 # Settlements
 max_settlements = 3
 
-b_bawku = castle
-b_bawku_2 = city
-b_bawku_3 = temple
+b_bawku = tribal
 
 # Misc
-culture = gur
+culture = dagomba
 religion = sunni
 
 #History

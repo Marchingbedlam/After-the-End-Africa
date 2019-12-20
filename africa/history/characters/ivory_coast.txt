@@ -83,7 +83,7 @@
 }
 1800009={
 	name="Pharace" #Cotedivoire
-	dynasty=1505054
+	dynasty=1505032
 	culture=baoule
 	religion=catholic
 
@@ -98,7 +98,7 @@
 }
 1800010={
 	name="Diezou" #Cotedivoire
-	dynasty=1505054
+	dynasty=1505032
 	culture=baoule
 	religion=catholic
 	father=1800009
@@ -113,7 +113,7 @@
 
 1800012={
 	name="Kago" # the literary man
-	dynasty=1505058
+	dynasty=1505057
 	culture=baoule
 	religion=catholic
 
@@ -129,7 +129,7 @@
 }
 1800013={
 	name="Wadé" # Cotedivoire
-	dynasty=1101013
+	dynasty=1101010
 	culture=kru
 	religion=catholic
 

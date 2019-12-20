@@ -122,7 +122,7 @@
 }
 1000111={
 	name="Borforh"
-	dynasty=1101004
+	dynasty=1101003
 	culture=kru
 	religion=libertarian
 	martial=3
@@ -142,7 +142,7 @@
 }
 1000112={
 	name="Kabayo"
-	dynasty=9000
+	dynasty=1201000
 	culture=kpelle
 	religion=libertarian
 	martial=6
@@ -159,8 +159,8 @@
 	2688.1.1={death=yes}
 }
 1000113={
-	name="Harun"
-	dynasty=9000
+	name="Arouna"
+	dynasty=1841016
 	culture=mende
 	religion=sunni
 	martial=4
@@ -181,7 +181,7 @@
 }
 1000114={
 	name="Birama"
-	dynasty=9000
+	dynasty=1201002
 	culture=kpelle
 	religion=sunni
 	martial=5
@@ -199,7 +199,7 @@
 }
 1000115={
 	name="Momolu"
-	dynasty=9000
+	dynasty=1201004
 	culture=kpelle
 	religion=libertarian
 	diplomacy=7
@@ -216,8 +216,8 @@
 	2672.3.9={death=yes}
 }
 1000116={
-	name="Fodi"
-	dynasty=9000
+	name="Septimus"
+	dynasty=1841009
 	culture=mende
 	religion=libertarian
 	diplomacy=5
@@ -397,6 +397,134 @@
 	trait=paranoid
 	trait=ambitious
 	
+	2640.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+
+1000126={
+	name="Daggley" #Freetown patricians
+	dynasty=1001017
+	culture=kwi
+	religion=libertarian
+	trait=midas_touched
+	trait=ambitious
+	
+	2620.4.11={birth=yes}
+	2700.1.1={death=yes}
+}
+1000127={
+	name="Probyn" #Freetown patricians
+	dynasty=1001033
+	culture=kwi
+	religion=libertarian
+	
+	2620.4.11={birth=yes}
+	2700.1.1={death=yes}
+}
+1000128={
+	name="Melvine" #Freetown patricians
+	dynasty=1001014
+	culture=kwi
+	religion=libertarian
+	
+	2620.4.11={birth=yes}
+	2700.1.1={death=yes}
+}
+1000129={
+	name="Ernest" #Freetown patricians
+	dynasty=1001027
+	culture=kwi
+	religion=libertarian
+	
+	2620.4.11={birth=yes}
+	2700.1.1={death=yes}
+}
+1000130={
+	name="Winstanley" #Freetown patricians
+	dynasty=1001025
+	culture=kwi
+	religion=libertarian
+	trait=lunatic
+	trait=proud
+	
+	2620.4.11={birth=yes}
+	2700.1.1={death=yes}
+}
+1000131={
+	name="Foday" 
+	dynasty=1301007
+	culture=temne
+	religion=sunni
+	
+	2620.4.11={birth=yes}
+	2700.1.1={death=yes}
+}
+1000132={
+	name="Mohamed"
+	dynasty=1841016
+	culture=mende
+	religion=sunni
+	father=1000113
+	trait=martial_cleric 
+	trait=cynical
+	trait=slothful
+	trait=erudite
+	trait=deceitful
+	2629.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1000133={
+	name="Joseph"
+	dynasty=1841016
+	culture=mende
+	religion=sunni
+	father=1000113
+	trait=tough_soldier
+	trait=zealous	
+	trait=brave
+	2633.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1000134={
+	name="Islam"
+	dynasty=1841016
+	culture=mende
+	religion=sunni
+	father=1000113
+	trait=tough_soldier 
+	trait=strong
+	trait=cruel
+	trait=brave
+	trait=envious
+	trait=ambitious
+	trait=cynical
+	2635.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1000135={
+	name="Solomon"
+	dynasty=1841016
+	culture=mende
+	religion=sunni
+	father=1000113
+	trait=martial_cleric 
+	trait=kind
+	trait=humble
+	trait=charitable
+	trait=shy
+	2638.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1000136={
+	name="Muzaffar"
+	dynasty=1841016
+	culture=mende
+	religion=sunni
+	father=1000113
+	trait=misguided_warrior 
+	trait=slow
+	trait=weak
+	trait=content
 	2640.1.1={birth=yes}
 	2700.1.1={death=yes}
 }

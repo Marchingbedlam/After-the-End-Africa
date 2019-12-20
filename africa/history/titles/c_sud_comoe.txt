@@ -4,6 +4,6 @@
 	law = succ_gavelkind
 }
 2600.1.1={
-	liege=k_volta
+	liege=k_asanteman
 	holder=1500220
 }

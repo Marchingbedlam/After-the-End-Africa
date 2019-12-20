@@ -4,27 +4,27 @@
 ## Monrovia
 
 b_king= {
-	culture = liberian
+	culture = kwi
 	religion = libertarian
 }
 
 b_eastman = {
-	culture = liberian
+	culture = kwi
 	religion = libertarian
 }
 
 b_tubman = {
-	culture = liberian
+	culture = kwi
 	religion = libertarian
 }
 
 b_grey = {
-	culture = liberian
+	culture = kwi
 	religion = libertarian
 }
 
 b_roberts = {
-	culture = liberian
+	culture = kwi
 	religion = libertarian
 }
 
@@ -48,4 +48,30 @@ b_abohyen = {
 b_agyemang = {
 	culture = ashanti
 	religion = catholic
+}
+
+##Freetown
+b_jackson= {
+	culture = kwi
+	religion = libertarian
+}
+
+b_henries = {
+	culture = kwi
+	religion = libertarian
+}
+
+b_gibson = {
+	culture = kwi
+	religion = libertarian
+}
+
+b_sawyer = {
+	culture = kwi
+	religion = libertarian
+}
+
+b_cheeseman = {
+	culture = kwi
+	religion = libertarian
 }

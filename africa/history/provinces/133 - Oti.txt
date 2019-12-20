@@ -6,12 +6,10 @@ title = c_oti
 # Settlements
 max_settlements = 3
 
-b_oti = castle
-b_oti_2 = city
-b_oti_3 = temple
+b_oti = tribal
 
 # Misc
-culture = gur
-religion = catholic
+culture = dagomba
+religion = sunni
 
 #History

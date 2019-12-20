@@ -6,12 +6,10 @@ title = c_mpaha
 # Settlements
 max_settlements = 3
 
-b_mpaha = castle
-b_mpaha_2 = city
-b_mpaha_3 = temple
+b_mpaha = tribal
 
 # Misc
-culture = gur
-religion = catholic
+culture = dagomba
+religion = sunni
 
 #History

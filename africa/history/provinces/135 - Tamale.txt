@@ -6,12 +6,10 @@ title = c_tamale
 # Settlements
 max_settlements = 3
 
-b_tamale = castle
-b_tamale_2 = city
-b_tamale_3 = temple
+b_tamale = tribal
 
 # Misc
-culture = gur
+culture = dagomba
 religion = sunni
 
 #History

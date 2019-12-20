@@ -3,5 +3,5 @@ holding_dynasty = 1504037
 
 liege="d_volta"
 
-holder=1500212
+holder=1500211
 }

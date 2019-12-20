@@ -6,12 +6,11 @@ title = c_yendi
 # Settlements
 max_settlements = 3
 
-b_yendi = castle
-b_yendi_2 = city
-b_yendi_3 = temple
+b_yendi = tribal
+b_yendi_2 = temple
 
 # Misc
-culture = gur
-religion = catholic
+culture = dagomba
+religion = sunni
 
 #History

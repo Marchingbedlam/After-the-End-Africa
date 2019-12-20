@@ -1,35 +1,450 @@
-1500200={
-	name="Oyoko" #Volta King
-	dynasty=1501062
+###ÃNSI
+
+##Asante line
+1500000={
+	name="Osei Tutu" #Osei Tutu I, founder of Ashanti Empire
+	dynasty=1501143
+	culture=ashanti
+	religion=catholic
+	father=1500006
+
+	trait=legendary
+	trait=occluded
+	trait=quick
+	trait=brave
+	trait=zealous
+	trait=ambitious
+	
+	1660.1.1={birth=yes}
+	1717.1.1={death=yes}
+}
+1500001={
+	name="Opoku Ware" #Opoku Ware I
+	dynasty=1501143
+	culture=ashanti
+	religion=catholic
+	mother=1500009
+
+	trait=legendary
+	trait=occluded
+	
+	1700.1.1={birth=yes}
+	1750.1.1={death=yes}
+}
+1500002={
+	name="Kusi Obodom" #Kusi Obodom I
+	dynasty=1501143
+	culture=ashanti
+	religion=catholic
+	mother=1500010
+
+	trait=legendary
+	trait=occluded
+	
+	1720.1.1={birth=yes}
+	1764.1.1={death=yes}
+}
+1500003={
+	name="Osei Kwadwo" #Osei Kwadwo I
+	dynasty=1501143
+	culture=ashanti
+	religion=catholic
+	father=1500012
+	mother=1500011
+
+	trait=legendary
+	trait=occluded
+	
+	1745.1.1={birth=yes}
+	1777.1.1={death=yes}
+}
+1500004={
+	name="Safo Kantanka" #prince of Mampong
+	culture=ashanti
+	religion=catholic
+
+	trait=legendary
+	trait=occluded
+	
+	1748.1.1={birth=yes}
+	1790.1.1={death=yes}
+}
+1500005={
+	name="Osei Kwame" #Osei Kwame I
+	dynasty=1501143
+	culture=ashanti
+	religion=catholic
+	mother=1500013
+	father=1500004
+
+	trait=legendary
+	trait=occluded
+	
+	1762.1.1={birth=yes}
+	1803.1.1={death=yes}
+}
+1500006={
+	name="Obiri Frefre" #fictional father of Osei Tutu I
+	dynasty=1501143
 	culture=ashanti
 	religion=catholic
 	
-	2560.1.1={birth=yes}
-	2636.1.1={death=yes}
+	1630.1.1={birth=yes}
+	1700.1.1={death=yes}
 }
-1500201={
-	name="Krobo" #Volta King
-	dynasty=1501062
+1500007={
+	name="Osei Dako" #fictional brother of Osei Tutu I
+	dynasty=1501143
 	culture=ashanti
 	religion=catholic
-	father=1500200
+	father=1500006
 	
-	2584.1.1={birth=yes}
-	2640.1.1={death=yes}
+	1662.1.1={birth=yes}
+	1720.1.1={death=yes}
 }
-1500202={
-	name="Osei" #Volta King
-	dynasty=1501062
+1500008={
+	name="Kyirama" #sister of Osei Tutu I
+	female=yes
+	dynasty=1501143
 	culture=ashanti
 	religion=catholic
-	father=1500201
+	father=1500006
 	
-	2600.1.1={birth=yes}
-	2655.1.1={death=yes}
+	1675.1.1={birth=yes}
+	1730.1.1={death=yes}
 }
-1500203={
-	name="Oyoko" #Volta King
-	dynasty=1501062
+1500009={
+	name="Nyaako" #niece of Osei Tutu I
+	dynasty=1501143
+	culture=ashanti
+	religion=catholic
+	father=1500007
+	female=yes
+	
+	1680.1.1={birth=yes}
+	1740.1.1={death=yes}
+}
+1500010={
+	name="Nkaatia" #niece of Osei Tutu I
+	female=yes
+	dynasty=1501143
+	culture=ashanti
+	religion=catholic
+	mother=1500008
+	
+	1700.1.1={birth=yes}
+	1750.1.1={death=yes}
+}
+1500011={
+	name="Akua Afriyie" #sister of Kusi Obodom I
+	female=yes
+	dynasty=1501143
+	culture=ashanti
+	religion=catholic
+	mother=1500010
+	
+	1724.1.1={birth=yes}
+	1780.1.1={death=yes}
+}
+1500012={
+	name="Owusu Afriyie" #son of Osei Tutu I
+	dynasty=1501143
+	culture=ashanti
+	religion=catholic
+	father=1500000
+	
+	1690.1.1={birth=yes}
+	1760.1.1={death=yes}
+}
+1500013={
+	name="Kwaadu Yiadom" #sister of Osei Kwadwo I
+	female=yes
+	dynasty=1501143
+	culture=ashanti
+	religion=catholic
+	father=1500012
+	mother=1500011
+
+	trait=legendary
+	trait=occluded
+	
+	1760.1.1={birth=yes}
+	1820.1.1={death=yes}
+}
+1500014={
+	name="Opoku Fofie" #Opoku Fofie I
+	dynasty=1501143
+	culture=ashanti
+	religion=catholic
+	mother=1500013
+	father=1500004
+
+	trait=legendary
+	trait=occluded
+	
+	1765.1.1={birth=yes}
+	1804.1.1={death=yes}
+}
+1500015={
+	name="Osei Bonsu" #Osei Bonsu I
+	dynasty=1501143
+	culture=ashanti
+	religion=catholic
+	mother=1500013
+	father=1500004
+
+	trait=legendary
+	trait=occluded
+	
+	1779.1.1={birth=yes}
+	1824.1.1={death=yes}
+}
+1500016={
+	name="Yaw Akoto" #Yaw Akoto I
+	dynasty=1501143
+	culture=ashanti
+	religion=catholic
+	mother=1500013
+	father=1500004
+
+	trait=legendary
+	trait=occluded
+	
+	1800.1.1={birth=yes}
+	1834.1.1={death=yes}
+}
+1500017={
+	name="Nana Sewaa" #daughter of Kwaadu Yiadom
+	dynasty=1501143
+	culture=ashanti
+	religion=catholic
+	mother=1500013
+	father=1500004
+	female=yes
+
+	trait=legendary
+	trait=occluded
+	
+	1780.1.1={birth=yes}
+	1830.1.1={death=yes}
+}
+1500018={
+	name="Kwaku Dua" #Kwaku Dua I
+	dynasty=1501143
+	culture=ashanti
+	religion=catholic
+	mother=1500017
+
+	trait=legendary
+	trait=occluded
+	
+	1797.1.1={birth=yes}
+	1867.1.1={death=yes}
+}
+1500019={
+	name="Afua Sarpong" #grandmother of later kings
+	dynasty=1501143
+	culture=ashanti
+	religion=catholic
+	mother=1500017
+	female=yes
+
+	trait=legendary
+	trait=occluded
+	
+	1800.1.1={birth=yes}
+	1860.1.1={death=yes}
+}
+1500020={
+	name="Osei Kwadwo" #son of Afua Sarpong
+	dynasty=1501143
+	culture=ashanti
+	religion=catholic
+	mother=1500019
+
+	trait=legendary
+	trait=occluded
+	
+	1820.1.1={birth=yes}
+	1860.1.1={death=yes}
+}
+1500021={
+	name="Afua Kobi" #daughter of Afua Sarpong
+	dynasty=1501143
+	culture=ashanti
+	religion=catholic
+	mother=1500019
+	female=yes
+
+	trait=legendary
+	trait=occluded
+	
+	1825.1.1={birth=yes}
+	1890.1.1={death=yes}
+}
+1500022={
+	name="Kwabena Anin" #brother of Karikari and Mensa
+	dynasty=1501143
+	culture=ashanti
+	religion=catholic
+	mother=1500021
+
+	trait=legendary
+	trait=occluded
+	
+	1848.1.1={birth=yes}
+	1865.1.1={death=yes}
+}
+1500023={
+	name="Kofi Karikari" #Kofi Karikari I
+	dynasty=1501143
+	culture=ashanti
+	religion=catholic
+	mother=1500021
+
+	trait=legendary
+	trait=occluded
+	
+	1850.1.1={birth=yes}
+	1874.1.1={death=yes}
+}
+1500024={
+	name="Mensa Bonsu" #Mensa Bonsu I
+	dynasty=1501143
+	culture=ashanti
+	religion=catholic
+	mother=1500021
+
+	trait=legendary
+	trait=occluded
+	
+	1852.1.1={birth=yes}
+	1883.1.1={death=yes}
+}
+1500025={
+	name="Yaa Akyaa" #mother of Kwaku Dua II, Prempeh I
+	dynasty=1501143
+	culture=ashanti
+	religion=catholic
+	mother=1500021
+	female=yes
+
+	trait=legendary
+	trait=occluded
+	
+	1847.1.1={birth=yes}
+	1900.1.1={death=yes}
+}
+1500026={
+	name="Kwaku Dua" #Kwaku Dua II
+	dynasty=1501143
+	culture=ashanti
+	religion=catholic
+	mother=1500025
+
+	trait=legendary
+	trait=occluded
+	
+	1866.1.1={birth=yes}
+	1884.1.1={death=yes}
+}
+1500027={
+	name="Prempeh" #Prempeh I
+	dynasty=1501143
+	culture=ashanti
+	religion=catholic
+	mother=1500025
+
+	trait=legendary
+	trait=occluded
+	
+	1870.1.1={birth=yes}
+	1931.1.1={death=yes}
+}
+1500028={
+	name="Agyeman Badu" #father of Prempeh II
+	dynasty=1501143
+	culture=ashanti
+	religion=catholic
+	mother=1500025
+
+	trait=legendary
+	trait=occluded
+	
+	1872.1.1={birth=yes}
+	1920.1.1={death=yes}
+}
+1500029={
+	name="Prempeh" #Prempeh II
+	dynasty=1501143
+	culture=ashanti
+	religion=catholic
+	father=1500028
+
+	trait=legendary
+	trait=occluded
+	
+	1892.1.1={birth=yes}
+	1970.1.1={death=yes}
+}
+1500030={
+	name="Amma Nyarko" #fictional mother of Opoku Ware II
+	dynasty=1501143
+	culture=ashanti
+	religion=catholic
+	father=1500028
+	female=yes
+
+	trait=legendary
+	trait=occluded
+	
+	1900.1.1={birth=yes}
+	1980.1.1={death=yes}
+}
+1500031={
+	name="Opoku Ware" #Opoku Ware II
+	dynasty=1501143
+	culture=ashanti
+	religion=catholic
+	mother=1500030
+
+	trait=legendary
+	trait=occluded
+	
+	1919.1.1={birth=yes}
+	1999.1.1={death=yes}
+}
+1500032={
+	name="Serwa Ampem" #mother of Osei Tutu II
+	dynasty=1501143
+	culture=ashanti
+	religion=catholic
+	mother=1500030
+	female=yes
+
+	trait=legendary
+	trait=occluded
+	
+	1925.1.1={birth=yes}
+	2016.1.1={death=yes}
+}
+1500033={
+	name="Osei Tutu" #Osei Tutu II
+	dynasty=1501143
+	culture=ashanti
+	religion=catholic
+	mother=1500032
+
+	trait=legendary
+	trait=occluded
+	
+	1950.1.1={birth=yes}
+	2030.1.1={death=yes}
+}
+
+1500090={
+	name="Kwame Okomfo" #Kwame Okomfo I, current king
+	dynasty=1501142 #placeholder dynasty
 	culture=ashanti
 	religion=catholic
 	father=1500202
@@ -42,12 +457,12 @@
 	2628.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
-1500204={
-	name="Krobo" #Volta King
-	dynasty=1501062
+1500091={
+	name="Osei Tutu" #current Prince
+	dynasty=1501142 #placeholder dynasty
 	culture=ashanti
 	religion=catholic
-	father=1500203
+	father=1500090
 
 	trait=erudite
 	trait=gregarious
@@ -56,6 +471,8 @@
 	2649.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
+
+##regular characters
 
 1500210={
 	name="Quobna" #Accra Patrician
@@ -94,7 +511,7 @@
 	2700.1.1={death=yes}
 }
 1500214={
-	name="John Joseph" #Accra Patrician
+	name="John-Joseph" #Accra Patrician
 	dynasty=1501064   #Agyemang 
 	culture=ashanti
 	religion=catholic
@@ -118,7 +535,7 @@
 }
 
 1500225={
-	name="Opoku Ware" 
+	name="Opoku-Ware" 
 	dynasty=1501023
 	culture=ashanti
 	religion=catholic
@@ -151,5 +568,956 @@
 	religion=catholic
 
 	2627.5.15={birth=yes}
+	2700.1.1={death=yes}
+}
+
+1500230={
+	name="Issahaku" 
+	dynasty=1866009
+	culture=dagomba
+	religion=sunni
+
+	2630.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1500231={
+	name="Burzambo" 
+	dynasty=1866002
+	culture=dagomba
+	religion=sunni
+
+	2630.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1500232={
+	name="Sulemana" 
+	dynasty=1866036
+	culture=dagomba
+	religion=sunni
+
+	2630.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+
+
+#Dagbon Royals
+1500300={
+	name="Gbewa" #Legendary founder of Dagbon
+	dynasty=9000
+	culture=dagomba
+	religion=sunni
+
+	trait=legendary
+	trait=occluded
+
+	1300.1.1={birth=yes}
+	1365.1.1={death=yes}
+}
+1500301={
+	name="Mahamadu" #Mahama I Korgu, so numbers work out right
+	dynasty=1866029
+	culture=dagomba
+	religion=sunni
+
+	trait=legendary
+	trait=occluded
+
+	1680.1.1={birth=yes}
+	1740.1.1={death=yes}
+}
+1500302={
+	name="Andani" #Andani I Jangbariga, so numbers work out right
+	dynasty=1866028
+	culture=dagomba
+	religion=sunni
+
+	trait=legendary
+	trait=occluded
+
+	1720.1.1={birth=yes}
+	1778.1.1={death=yes}
+}
+1500303={
+	name="Yakubu" #Yakubu I Abudu (had to be one of them)
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+
+	trait=legendary
+	trait=occluded
+	trait=lunatic
+	trait=deceitful
+
+	1770.1.1={birth=yes}
+	1839.1.1={death=yes}
+}
+1500304={
+	name="Abdulai" #Abdulai I Abudu 
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500303
+
+	trait=legendary
+	trait=occluded
+
+	1800.1.1={birth=yes}
+	1858.1.1={death=yes}
+}
+1500305={
+	name="Andani" #Andani I Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500303
+
+	trait=legendary
+	trait=occluded
+
+	1815.1.1={birth=yes}
+	1896.1.1={death=yes}
+}
+1500306={
+	name="Darimani" #Andani II Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500303
+
+	trait=legendary
+	trait=occluded
+
+	1815.1.1={birth=yes}
+	1899.1.1={death=yes}
+}
+1500307={
+	name="Alasani" #Alasani I Abudu 
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500304
+
+	trait=legendary
+	trait=occluded
+
+	1850.1.1={birth=yes}
+	1917.1.1={death=yes}
+}
+1500308={
+	name="Abukari" #Abukari I Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500305
+
+	trait=legendary
+	trait=occluded
+
+	1860.1.1={birth=yes}
+	1920.1.1={death=yes}
+}
+1500309={
+	name="Abdulai" #Abdulai II Abudu 
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500307
+
+	trait=legendary
+	trait=occluded
+
+	1875.1.1={birth=yes}
+	1938.1.1={death=yes}
+}
+1500310={
+	name="Mahamadu" #Mahama II Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500305
+
+	trait=legendary
+	trait=occluded
+
+	1885.1.1={birth=yes}
+	1948.1.1={death=yes}
+}
+1500311={
+	name="Mahamadu" #Mahama III Abudu 
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500309
+
+	trait=legendary
+	trait=occluded
+
+	1900.1.1={birth=yes}
+	1953.1.1={death=yes}
+}
+1500312={
+	name="Abdulai" #Abdulai III Abudu 
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500311
+
+	trait=legendary
+	trait=occluded
+	trait=clubfooted
+
+	1930.1.1={birth=yes}
+	1967.1.1={death=yes}
+}
+1500313={
+	name="Andani" #Andani III Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500310
+
+	trait=legendary
+	trait=occluded
+
+	1910.1.1={birth=yes}
+	1969.1.1={death=yes}
+}
+1500314={
+	name="Mahamadu" #Mahama IV Abudu 
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500312
+
+	trait=legendary
+	trait=occluded
+
+	1949.1.1={birth=yes}
+	1988.1.1={death=yes}
+}
+1500315={
+	name="Yakubu" #Yakubu II Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500313
+
+	trait=legendary
+	trait=occluded
+
+	1945.1.1={birth=yes}
+	2002.1.1={death=yes}
+}
+1500316={
+	name="Abukari" #Abukari II Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500310
+
+	trait=legendary
+	trait=occluded
+
+	1939.1.1={birth=yes}
+	2020.1.1={death=yes}
+}
+1500317={
+	name="Abdulai" #Abdulai IV Abudu, FIRST POST EVENT FAKE PERSON
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500314
+
+	trait=legendary
+	trait=occluded
+
+	1970.1.1={birth=yes}
+	2038.1.1={death=yes}
+}
+1500318={
+	name="Yakubu" #Yakubu III Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500316
+
+	trait=legendary
+	trait=occluded
+
+	1964.1.1={birth=yes}
+	2045.1.1={death=yes}
+}
+1500319={
+	name="Alasani" #Alasani II Abudu 
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500317
+
+	trait=legendary
+	trait=occluded
+
+	1999.1.1={birth=yes}
+	2060.1.1={death=yes}
+}
+1500320={
+	name="Mahamadu" #Mahamadu V Abudu 
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500319
+
+	trait=legendary
+	trait=occluded
+
+	2020.1.1={birth=yes}
+	2080.1.1={death=yes}
+}
+1500321={
+	name="Mahamadu" #Mahamadu VI Abudu
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500320
+
+	trait=legendary
+	trait=occluded
+
+	2044.1.1={birth=yes}
+	2087.1.1={death=yes}
+}
+1500322={
+	name="Umaru" #Umaru I Abudu 
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500320
+
+	trait=legendary
+	trait=occluded
+
+	2046.1.1={birth=yes}
+	2097.1.1={death=yes}
+}
+1500323={
+	name="Andani" #Andani IV Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500318
+
+	trait=legendary
+	trait=occluded
+
+	2033.1.1={birth=yes}
+	2111.1.1={death=yes}
+}
+1500324={
+	name="Yakubu" #Yakubu IV Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500323
+
+	trait=legendary
+	trait=occluded
+
+	2055.1.1={birth=yes}
+	2116.1.1={death=yes}
+}
+1500325={
+	name="Mahamadu" #Mahamadu VII Abudu
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500322
+
+	trait=legendary
+	trait=occluded
+
+	2070.1.1={birth=yes}
+	2130.1.1={death=yes}
+}
+1500326={
+	name="Abukari" #Abukari III Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500324
+
+	trait=legendary
+	trait=occluded
+
+	2076.1.1={birth=yes}
+	2139.1.1={death=yes}
+}
+1500327={
+	name="Abdulai" #Abdulai V Abudu
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500325
+
+	trait=legendary
+	trait=occluded
+
+	2089.1.1={birth=yes}
+	2150.1.1={death=yes}
+}
+1500328={
+	name="Sidiku" #Sidiku I Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500326
+
+	trait=legendary
+	trait=occluded
+
+	2100.1.1={birth=yes}
+	2170.1.1={death=yes}
+}
+1500329={
+	name="Mahamadu" #Mahamadu VIII Abudu
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500327
+
+	trait=legendary
+	trait=occluded
+
+	2115.1.1={birth=yes}
+	2179.1.1={death=yes}
+}
+1500330={
+	name="Yakubu" #Yakubu V Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500328
+
+	trait=legendary
+	trait=occluded
+
+	2130.1.1={birth=yes}
+	2200.1.1={death=yes}
+}
+1500331={
+	name="Abdulai" #Abdulai VI Abudu
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500329
+
+	trait=legendary
+	trait=occluded
+
+	2140.1.1={birth=yes}
+	2206.1.1={death=yes}
+}
+1500332={
+	name="Yakubu" #Yakubu VI Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500330
+
+	trait=legendary
+	trait=occluded
+
+	2160.1.1={birth=yes}
+	2220.1.1={death=yes}
+}
+1500333={
+	name="Inusah" #Inusah I Abudu
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500331
+
+	trait=legendary
+	trait=occluded
+
+	2165.1.1={birth=yes}
+	2230.1.1={death=yes}
+}
+1500334={
+	name="Mahamadu" #Mahama IX Abudu
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500333
+
+	trait=legendary
+	trait=occluded
+
+	2170.1.1={birth=yes}
+	2250.1.1={death=yes}
+}
+1500335={
+	name="Abukari" #Abukari IV Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500332
+
+	trait=legendary
+	trait=occluded
+
+	2180.1.1={birth=yes}
+	2260.1.1={death=yes}
+}
+1500336={
+	name="Inusah" #Inusah II Abudu
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500333
+
+	trait=legendary
+	trait=occluded
+
+	2190.1.1={birth=yes}
+	2268.1.1={death=yes}
+}
+1500337={
+	name="Andani" #Andani V Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500332
+
+	trait=legendary
+	trait=occluded
+
+	2205.1.1={birth=yes}
+	2280.1.1={death=yes}
+}
+1500338={
+	name="Abdulai" #Abdulai VII Abudu
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500336
+
+	trait=legendary
+	trait=occluded
+
+	2212.1.1={birth=yes}
+	2290.1.1={death=yes}
+}
+1500339={
+	name="Yakubu" #Yakubu VII Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500337
+
+	trait=legendary
+	trait=occluded
+
+	2230.1.1={birth=yes}
+	2305.1.1={death=yes}
+}
+1500340={
+	name="Abdulai" #Abdulai VIII Abudu
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500338
+
+	trait=legendary
+	trait=occluded
+
+	2240.1.1={birth=yes}
+	2330.1.1={death=yes}
+}
+1500341={
+	name="Yakubu" #Yakubu VIII Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500339
+
+	trait=legendary
+	trait=occluded
+
+	2270.1.1={birth=yes}
+	2340.1.1={death=yes}
+}
+1500342={
+	name="Fusheni" #Fusheni I Abudu, End of legendary rulers?
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500340
+
+	2300.1.1={birth=yes}
+	2349.1.1={death=yes}
+}
+1500343={
+	name="Yakubu" #Yakubu IX Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500341
+
+	2290.1.1={birth=yes}
+	2355.1.1={death=yes}
+}
+1500344={
+	name="Alasani" #Alasani III Abudu
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500342
+
+	2324.1.1={birth=yes}
+	2370.1.1={death=yes}
+}
+1500345={
+	name="Yakubu" #Yakubu X Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500343
+
+	2333.1.1={birth=yes}
+	2380.1.1={death=yes}
+}
+1500346={
+	name="Zongma" #Zongma I Abudu
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500344
+
+	2348.1.1={birth=yes}
+	2386.1.1={death=yes}
+}
+1500347={
+	name="Yakubu" #Yakubu XI Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500345
+
+	2350.1.1={birth=yes}
+	2400.1.1={death=yes}
+}
+1500348={
+	name="Mahamadu" #Mahamadu X Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500347
+
+	2375.1.1={birth=yes}
+	2402.1.1={death=yes}
+}
+1500349={
+	name="Abdulai" #Abdulai IX Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500347
+
+	2378.1.1={birth=yes}
+	2420.1.1={death=yes}
+}
+1500350={
+	name="Yakubu" #Yakubu XII Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500349
+
+	2400.1.1={birth=yes}
+	2430.1.1={death=yes}
+}
+1500351={
+	name="Saeed" #Saeed I Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500347
+
+	2380.1.1={birth=yes}
+	2445.1.1={death=yes}
+}
+1500352={
+	name="Andani" #Andani VI Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500351
+
+	2416.1.1={birth=yes}
+	2471.1.1={death=yes}
+}
+1500353={
+	name="Inusah" #Inusah Abudu, never king
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500344
+
+	2352.1.1={birth=yes}
+	2412.1.1={death=yes}
+}
+1500354={
+	name="Abdulai" #Abdulai Abudu, never king
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500353
+
+	2370.1.1={birth=yes}
+	2430.1.1={death=yes}
+}
+1500355={
+	name="Fusheni" #Fusheni II Abudu
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500354
+
+	2394.1.1={birth=yes}
+	2490.1.1={death=yes}
+}
+1500356={
+	name="Yakubu" #Yakubu XIII Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500352
+
+	2440.1.1={birth=yes}
+	2500.1.1={death=yes}
+}
+1500357={
+	name="Abukari" #Abukari V Abudu
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500355
+
+	2450.1.1={birth=yes}
+	2518.1.1={death=yes}
+}
+1500358={
+	name="Yakubu" #Yakubu XIV Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500356
+
+	2465.1.1={birth=yes}
+	2530.1.1={death=yes}
+}
+1500359={
+	name="Fusheni" #Fusheni III Abudu
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500357
+
+	2470.1.1={birth=yes}
+	2535.1.1={death=yes}
+}
+1500360={
+	name="Andani" #Andani VII Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500358
+
+	2490.1.1={birth=yes}
+	2550.1.1={death=yes}
+}
+1500361={
+	name="Zongma" #Zongma II Abudu
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500359
+
+	2489.1.1={birth=yes}
+	2560.1.1={death=yes}
+}
+1500362={
+	name="Andani" #Andani VIII Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500360
+
+	2528.1.1={birth=yes}
+	2575.1.1={death=yes}
+}
+1500363={
+	name="Abdulai" #Abdulai X Abudu
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500361
+
+	2520.1.1={birth=yes}
+	2599.1.1={death=yes}
+}
+1500364={
+	name="Yakubu" #Yakubu XV Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500362
+
+	2548.1.1={birth=yes}
+	2610.1.1={death=yes}
+}
+1500365={
+	name="Fusheni" #Fusheni IV Abudu
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500363
+
+	2555.1.1={birth=yes}
+	2630.1.1={death=yes}
+}
+1500366={
+	name="Fusheni" #Fusheni V Abudu
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500363
+
+	2580.1.1={birth=yes}
+	2640.1.1={death=yes}
+}
+1500367={
+	name="Yakubu" #Yakubu XVI Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500364
+
+	2572.1.1={birth=yes}
+	2644.1.1={death=yes}
+}
+1500368={
+	name="Abukari" #Abukari VI Abudu
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500366
+
+	2600.1.1={birth=yes}
+	2656.1.1={death=yes}
+}
+1500369={
+	name="Yakubu" #Yakubu XVII Andani 
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500367
+
+	2600.1.1={birth=yes}
+	2660.1.1={death=yes}
+}
+1500370={
+	name="Mahamadu" #Mahama XI Andani , current king
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500369
+
+	trait=strong
+	trait=content
+	trait=diligent
+	trait=gregarious
+	trait=chaste
+	trait=wroth
+	trait=midas_touched
+
+	2638.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1500371={
+	name="Andani" #Andani prince
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500369
+
+	trait=content
+	trait=charitable
+	trait=gregarious
+	trait=indulgent_wastrel
+
+	2640.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1500372={
+	name="Yakubu" #Andani prince
+	dynasty=1866021
+	culture=dagomba
+	religion=sunni
+	father=1500369
+
+	trait=quick
+	trait=content
+
+	2642.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1500373={
+	name="Abukari" #Abudu prince
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500368
+
+	trait=slothful
+	trait=proud
+	trait=envious
+	trait=ambitious
+	trait=flamboyant_schemer
+
+	2629.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1500374={
+	name="Zongma Mahama" #Abudu prince
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500373
+
+	2652.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1500374={
+	name="Yiri Yusuf" #Abudu prince
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500373
+
+	2655.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1500375={
+	name="Zongma" #Abudu prince
+	dynasty=1866016
+	culture=dagomba
+	religion=sunni
+	father=1500368
+
+	trait=cruel
+	trait=diligent
+
+	2635.1.1={birth=yes}
 	2700.1.1={death=yes}
 }

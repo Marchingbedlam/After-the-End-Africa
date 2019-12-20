@@ -11,7 +11,7 @@ b_liptougou_2 = city
 b_liptougou_3 = temple
 
 # Misc
-culture = gur
+culture = mossi
 religion = sunni
 
 #History

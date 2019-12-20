@@ -156,6 +156,11 @@ province;red;green;blue;x;x
 155;135;90;78;Maradi;x
 156;182;118;118;Manaka;x
 157;135;62;62;Tonkolili;x
-158;0;174;239;Monrovian Coast;x
-159;31;162;212;Cape Palmas;x
-160;17;145;194;Freetown Coast;x
+158;0;53;148;Santiago;;;;;;;;;x
+159;15;50;112;Fogo;;;;;;;;;x
+160;31;65;127;Boavista e Sal;;;;;;;;;x
+161;43;69;115;Sao Vicente;;;;;;;;;x
+162;56;97;169;Santo Antao;;;;;;;;;x
+1000;0;174;239;Monrovian Coast;x
+1001;31;162;212;Cape Palmas;x
+1002;17;145;194;Freetown Coast;x

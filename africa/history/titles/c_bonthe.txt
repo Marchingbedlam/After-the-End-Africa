@@ -7,5 +7,6 @@
 	liege=k_pepper_coast
 }
 2660.1.4={
+	liege=d_freetown
 	holder = 1000116
 }

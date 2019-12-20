@@ -1302,6 +1302,28 @@ e_guinea = {
 				b_tumu_3 = {
 				}
 			}
+			c_koudoungou = { # 141
+				color={ 169 145 72 }
+				color2={ 255 255 255 }
+				
+				b_koudoungou = {
+				}
+				b_koudoungou_2 = {
+				}
+				b_koudoungou_3 = {
+				}
+			}
+			c_ouahigouya = { # 142
+				color={ 131 113 54 }
+				color2={ 255 255 255 }
+				
+				b_ouahigouya = {
+				}
+				b_ouahigouya_2 = {
+				}
+				b_ouahigouya_3 = {
+				}
+			}
 		}
 		d_mouhoun = {
 			color={ 121 81 32 }
@@ -1337,17 +1359,6 @@ e_guinea = {
 				b_bui_3 = {
 				}
 			}
-			c_koudoungou = { # 141
-				color={ 169 145 72 }
-				color2={ 255 255 255 }
-				
-				b_koudoungou = {
-				}
-				b_koudoungou_2 = {
-				}
-				b_koudoungou_3 = {
-				}
-			}
 			c_mpaha = { # 131
 				color={ 214 178 59 }
 				color2={ 255 255 255 }
@@ -1357,17 +1368,6 @@ e_guinea = {
 				b_mpaha_2 = {
 				}
 				b_mpaha_3 = {
-				}
-			}
-			c_ouahigouya = { # 142
-				color={ 131 113 54 }
-				color2={ 255 255 255 }
-				
-				b_ouahigouya = {
-				}
-				b_ouahigouya_2 = {
-				}
-				b_ouahigouya_3 = {
 				}
 			}
 			c_sampa = { # 129
