@@ -12,6 +12,6 @@ b_elmini_3 = temple
 
 # Misc
 culture = fante
-religion = catholic
+religion = anglican
 
 #History

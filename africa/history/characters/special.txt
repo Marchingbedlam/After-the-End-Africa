@@ -13,6 +13,26 @@
 	2644.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
+171801={
+	name="Martin"
+	culture=british
+	religion=anglican
+	trait=theologian
+	trait=zealous
+	trait=scholarly_theologian
+	2610.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+171802={
+	name="Simplicius"
+	culture=verdean
+	religion=catholic
+	trait=erudite
+	trait=kind
+	trait=scholarly_theologian
+	2610.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
 171822={
 	name="James Monroe" #
 	culture="liberian"

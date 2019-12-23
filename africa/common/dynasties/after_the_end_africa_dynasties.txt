@@ -541,3 +541,45 @@
 1877023 = {name ="Tougouma" culture=mossi }
 1877024 = {name ="Sérémé" culture=mossi }
 1877025 = {name ="Diendéré" culture=mossi }
+
+1901000 = {name ="Évora" culture=verdean }
+1901001 = {name ="Barbosa" culture=verdean }
+1901002 = {name ="Silva" culture=verdean }
+1901003 = {name ="Correia" culture=verdean }
+1901004 = {name ="Fernandes" culture=verdean }
+1901005 = {name ="Benrós" culture=verdean }
+1901006 = {name ="Fonseca" culture=verdean }
+1901007 = {name ="Andrade" culture=verdean }
+1901008 = {name ="Neves" culture=verdean }
+1901009 = {name ="do Rosário" culture=verdean }
+1901010 = {name ="Carvalho" culture=verdean }
+1901011 = {name ="da Luz" culture=verdean }
+1901012 = {name ="Soares" culture=verdean }
+1901013 = {name ="de Novas" culture=verdean }
+1901014 = {name ="Tavares" culture=verdean }
+1901015 = {name ="Almeida" culture=verdean }
+1901016 = {name ="Lopes" culture=verdean }
+1901017 = {name ="do Frederico" culture=verdean }
+1901018 = {name ="Embalo" culture=verdean }
+1901019 = {name ="Pereira" culture=verdean }
+1901020 = {name ="Martins" culture=verdean }
+1901021 = {name ="Furtado" culture=verdean }
+1901022 = {name ="Macedo" culture=verdean }
+1901023 = {name ="Lubrano" culture=verdean }
+1901024 = {name ="Alhinho" culture=verdean }
+1901025 = {name ="Fortes" culture=verdean }
+1901026 = {name ="Figueira" culture=verdean }
+1901027 = {name ="Monteiro" culture=verdean }
+1901028 = {name ="Semedo" culture=verdean }
+1901029 = {name ="Rodrigues" culture=verdean }
+1901030 = {name ="Firmino" culture=verdean }
+1901031 = {name ="Vieira" culture=verdean }
+1901032 = {name ="Pires" culture=verdean }
+1901033 = {name ="Lobo" culture=verdean }
+1901034 = {name ="Varela" culture=verdean }
+1901035 = {name ="de Barros" culture=verdean }
+1901036 = {name ="Chantre" culture=verdean }
+1901037 = {name ="Duarte" culture=verdean }
+1901038 = {name ="Veiga" culture=verdean }
+1901039 = {name ="Sança" culture=verdean }
+1901040 = {name ="Gonçalves" culture=verdean }

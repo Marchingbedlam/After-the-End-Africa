@@ -25,6 +25,7 @@ b_ansongo_2;Ansongo;Ansongo;Ansongo;;Ansongo;;;;;;;;;x
 b_ansongo_2_adj;Ansongian;;ansonger;;;;;;;;;;;x
 b_ansongo_3;Ansongo;Ansongo;Ansongo;;Ansongo;;;;;;;;;x
 b_ansongo_3_adj;Ansongian;;ansonger;;;;;;;;;;;x
+b_assomada_CV;Assomada;;;;;;;;;x
 b_atakampe;Atakampe;Atakampe;Atakampe;;Atakampe;;;;;;;;;x
 b_atakampe_adj;Atakampean;;atakamper;;;;;;;;;;;x
 b_atakampe_2;Atakampe;Atakampe;Atakampe;;Atakampe;;;;;;;;;x
@@ -143,6 +144,7 @@ b_bougouni_3;Bougouni;Bougouni;Bougouni;;Bougouni;;;;;;;;;x
 b_bougouni_3_adj;Bougounian;;bougouner;;;;;;;;;;;x
 b_bouliwel;Bouliwel;Bouliwel;Bouliwel;;Bouliwel;;;;;;;;;x
 b_bouliwel_adj;Bouliwelian;;bouliweler;;;;;;;;;;;x
+b_brava_CV;Brava;;;;;;;;;x
 b_brewerville;Brewerville;Brewerville;Brewerville;;Brewerville;;;;;;;;;x
 b_brewerville_adj;Brewervillean;;brewerviller;;;;;;;;;;;x
 b_bui;Bui;Bui;Bui;;Bui;;;;;;;;;x
@@ -159,6 +161,7 @@ b_cacheu_2;Cacheu;Cacheu;Cacheu;;Cacheu;;;;;;;;;x
 b_cacheu_2_adj;Cachian;;cacher;;;;;;;;;;;x
 b_cacheu_3;Cacheu;Cacheu;Cacheu;;Cacheu;;;;;;;;;x
 b_cacheu_3_adj;Cachian;;cacher;;;;;;;;;;;x
+b_calheta_CV;Calheta;;;;;;;;;x
 b_careysburg;Careysburg;Careysburg;Careysburg;;Careysburg;;;;;;;;;x
 b_careysburg_adj;Careysburgian;;careysburger;;;;;;;;;;;x
 b_cavally;Cavally;Cavally;Cavally;;Cavally;;;;;;;;;x
@@ -167,6 +170,9 @@ b_cavally_2;Cavally;Cavally;Cavally;;Cavally;;;;;;;;;x
 b_cavally_2_adj;Cavallian;;cavaller;;;;;;;;;;;x
 b_cavally_3;Cavally;Cavally;Cavally;;Cavally;;;;;;;;;x
 b_cavally_3_adj;Cavallian;;cavaller;;;;;;;;;;;x
+b_cidade_velha_CV;Cidade Velha;;;;;;;;;x
+b_cova_figueira_CV;Cova Figueira;;;;;;;;;x
+b_cruzinha_CV;Cruzinha;;;;;;;;;x
 b_dabola;Dabola;Dabola;Dabola;;Dabola;;;;;;;;;x
 b_dabola_adj;Dabolan;;daboler;;;;;;;;;;;x
 b_dabola_2;Dabola;Dabola;Dabola;;Dabola;;;;;;;;;x
@@ -223,6 +229,8 @@ b_elmini_2;Elmini;Elmini;Elmini;;Elmini;;;;;;;;;x
 b_elmini_2_adj;Elminian;;elminer;;;;;;;;;;;x
 b_elmini_3;Elmini;Elmini;Elmini;;Elmini;;;;;;;;;x
 b_elmini_3_adj;Elminian;;elminer;;;;;;;;;;;x
+b_espargos_CV;Espargos;;;;;;;;;x
+b_faja_de_agua_CV;Fajã de Água;;;;;;;;;x
 b_falessade;Falessade;Falessade;Falessade;;Falessade;;;;;;;;;x
 b_falessade_adj;Falessadean;;falessader;;;;;;;;;;;x
 b_faranah;Faranah;Faranah;Faranah;;Faranah;;;;;;;;;x
@@ -363,6 +371,7 @@ b_indenie_djuablin_3;Indénié-Djuablin;Indénié-Djuablin;Indénié-Djuablin;;Indénié
 b_indenie_djuablin_3_adj;Indénié-Djuablinian;;indénié-djuabliner;;;;;;;;;;;x
 b_irie;Irié;Irié;Irié;;Irié;;;;;;;;;x
 b_irie_adj;Iriéian;;iriéer;;;;;;;;;;;x
+b_janela_CV;Janela;;;;;;;;;x
 b_janjanbureh;Janjanbureh;Janjanbureh;Janjanbureh;;Janjanbureh;;;;;;;;;x
 b_janjanbureh_adj;Janjanburehian;;janjanbureher;;;;;;;;;;;x
 b_janjanbureh_2;Janjanbureh;Janjanbureh;Janjanbureh;;Janjanbureh;;;;;;;;;x
@@ -371,6 +380,7 @@ b_janjanbureh_3;Janjanbureh;Janjanbureh;Janjanbureh;;Janjanbureh;;;;;;;;;x
 b_janjanbureh_3_adj;Janjanburehian;;janjanbureher;;;;;;;;;;;x
 b_juazohn;Juazohn;Juazohn;Juazohn;;Juazohn;;;;;;;;;x
 b_juazohn_adj;Juazohnian;;juazohner;;;;;;;;;;;x
+b_juncalinho_CV;Juncalinho;;;;;;;;;x
 b_kabadougou;Kabadougou;Kabadougou;Kabadougou;;Kabadougou;;;;;;;;;x
 b_kabadougou_adj;Kabadougian;;kabadouger;;;;;;;;;;;x
 b_kabadougou_2;Kabadougou;Kabadougou;Kabadougou;;Kabadougou;;;;;;;;;x
@@ -575,6 +585,7 @@ b_macina_2;Macina;Macina;Macina;;Macina;;;;;;;;;x
 b_macina_2_adj;Macinan;;maciner;;;;;;;;;;;x
 b_macina_3;Macina;Macina;Macina;;Macina;;;;;;;;;x
 b_macina_3_adj;Macinan;;maciner;;;;;;;;;;;x
+b_madeiral_CV;Madeiral;;;;;;;;;x
 b_magburaka;Magburaka;Magburaka;Magburaka;;Magburaka;;;;;;;;;x
 b_magburaka_adj;Magburakan;;magburaker;;;;;;;;;;;x
 b_makeni;Makeni;Makeni;Makeni;;Makeni;;;;;;;;;x
@@ -647,6 +658,7 @@ b_mbour_2;M'bour;M'bour;M'bour;;M'bour;;;;;;;;;x
 b_mbour_2_adj;M'bourian;;m'bourer;;;;;;;;;;;x
 b_mbour_3;M'bour;M'bour;M'bour;;M'bour;;;;;;;;;x
 b_mbour_3_adj;M'bourian;;m'bourer;;;;;;;;;;;x
+b_mindelo_CV;Mindelo;;;;;;;;;x
 b_monrovia;Monrovia;Monrovia;Monrovia;;Monrovia;;;;;;;;;x
 b_monrovia_adj;Monrovian;;monrover;;;;;;;;;;;x
 b_mopti;Mopti;Mopti;Mopti;;Mopti;;;;;;;;;x
@@ -655,6 +667,7 @@ b_mopti_2;Mopti;Mopti;Mopti;;Mopti;;;;;;;;;x
 b_mopti_2_adj;Moptian;;mopter;;;;;;;;;;;x
 b_mopti_3;Mopti;Mopti;Mopti;;Mopti;;;;;;;;;x
 b_mopti_3_adj;Moptian;;mopter;;;;;;;;;;;x
+b_mosteiros_CV;Mosteiros;;;;;;;;;x
 b_motema;Motema;Motema;Motema;;Motema;;;;;;;;;x
 b_motema_adj;Moteman;;motemer;;;;;;;;;;;x
 b_mpaha;Mpaha;Mpaha;Mpaha;;Mpaha;;;;;;;;;x
@@ -663,6 +676,7 @@ b_mpaha_2;Mpaha;Mpaha;Mpaha;;Mpaha;;;;;;;;;x
 b_mpaha_2_adj;Mpahan;;mpaher;;;;;;;;;;;x
 b_mpaha_3;Mpaha;Mpaha;Mpaha;;Mpaha;;;;;;;;;x
 b_mpaha_3_adj;Mpahan;;mpaher;;;;;;;;;;;x
+b_murdeira_CV;Murdeira;;;;;;;;;x
 b_nara;Nara;Nara;Nara;;Nara;;;;;;;;;x
 b_nara_adj;Naran;;narer;;;;;;;;;;;x
 b_nara_2;Nara;Nara;Nara;;Nara;;;;;;;;;x
@@ -681,6 +695,7 @@ b_niamey_2;Niamey;Niamey;Niamey;;Niamey;;;;;;;;;x
 b_niamey_2_adj;Niameian;;niameer;;;;;;;;;;;x
 b_niamey_3;Niamey;Niamey;Niamey;;Niamey;;;;;;;;;x
 b_niamey_3_adj;Niameian;;niameer;;;;;;;;;;;x
+b_nova_sintra_CV;Nova Sintra;;;;;;;;;x
 b_nzerekore;Nzérékoré;Nzérékoré;Nzérékoré;;Nzérékoré;;;;;;;;;x
 b_nzerekore_adj;Nzérékoréian;;nzérékoréer;;;;;;;;;;;x
 b_nzi;N'Zi;N'Zi;N'Zi;;N'Zi;;;;;;;;;x
@@ -725,12 +740,15 @@ b_oure_kaba;Ouré-Kaba;Ouré-Kaba;Ouré-Kaba;;Ouré-Kaba;;;;;;;;;x
 b_oure_kaba_adj;Ouré-Kaban;;ouré-kaber;;;;;;;;;;;x
 b_pale;Palé;Palé;Palé;;Palé;;;;;;;;;x
 b_pale_adj;Paléian;;paléer;;;;;;;;;;;x
+b_palmeira_CV;Palmeira;;;;;;;;;x
 b_partiaga;Partiaga;Partiaga;Partiaga;;Partiaga;;;;;;;;;x
 b_partiaga_adj;Partiagan;;partiager;;;;;;;;;;;x
 b_partiaga_2;Partiaga;Partiaga;Partiaga;;Partiaga;;;;;;;;;x
 b_partiaga_2_adj;Partiagan;;partiager;;;;;;;;;;;x
 b_partiaga_3;Partiaga;Partiaga;Partiaga;;Partiaga;;;;;;;;;x
 b_partiaga_3_adj;Partiagan;;partiager;;;;;;;;;;;x
+b_pedra_badejo_CV;Pedra Badejo;;;;;;;;;x
+b_pedra_da_lume_CV;Pedra da Lume;;;;;;;;;x
 b_pilbo;Pilbo;Pilbo;Pilbo;;Pilbo;;;;;;;;;x
 b_pilbo_adj;Pilbian;;pilber;;;;;;;;;;;x
 b_pita;Pita;Pita;Pita;;Pita;;;;;;;;;x
@@ -747,6 +765,8 @@ b_podor_2;Podor;Podor;Podor;;Podor;;;;;;;;;x
 b_podor_2_adj;Podorian;;podorer;;;;;;;;;;;x
 b_podor_3;Podor;Podor;Podor;;Podor;;;;;;;;;x
 b_podor_3_adj;Podorian;;podorer;;;;;;;;;;;x
+b_ponta_do_sol_CV;Ponta do Sol;;;;;;;;;x
+b_ponta_verde_CV;Ponta Verde;;;;;;;;;x
 b_poro;Poro;Poro;Poro;;Poro;;;;;;;;;x
 b_poro_adj;Porian;;porer;;;;;;;;;;;x
 b_poro_2;Poro;Poro;Poro;;Poro;;;;;;;;;x
@@ -755,6 +775,10 @@ b_poro_3;Poro;Poro;Poro;;Poro;;;;;;;;;x
 b_poro_3_adj;Porian;;porer;;;;;;;;;;;x
 b_port_loko;Port Loko;Port Loko;Port Loko;;Port Loko;;;;;;;;;x
 b_port_loko_adj;Port Lokian;;Port Loker;;;;;;;;;;;x
+b_porto_ingles_CV;Porto Inglês;;;;;;;;;x
+b_porto_novo_CV;Porto Novo;;;;;;;;;x
+b_praia_CV;Praia;;;;;;;;;x
+b_praia_branca_CV;Praia Branca;;;;;;;;;x
 b_pujehun;Pujehun;Pujehun;Pujehun;;Pujehun;;;;;;;;;x
 b_pujehun_adj;Pujehunian;;pujehuner;;;;;;;;;;;x
 b_quinara;Quinara;Quinara;Quinara;;Quinara;;;;;;;;;x
@@ -763,12 +787,16 @@ b_quinara_2;Quinara;Quinara;Quinara;;Quinara;;;;;;;;;x
 b_quinara_2_adj;Quinaran;;quinarer;;;;;;;;;;;x
 b_quinara_3;Quinara;Quinara;Quinara;;Quinara;;;;;;;;;x
 b_quinara_3_adj;Quinaran;;quinarer;;;;;;;;;;;x
+b_rabil_CV;Rabil;;;;;;;;;x
 b_ranerou_ferlo;Ranérou Ferlo;Ranérou Ferlo;Ranérou Ferlo;;Ranérou Ferlo;;;;;;;;;x
 b_ranerou_ferlo_adj;Ranérou Ferlian;;Ranérou Ferler;;;;;;;;;;;x
 b_ranerou_ferlo_2;Ranérou Ferlo;Ranérou Ferlo;Ranérou Ferlo;;Ranérou Ferlo;;;;;;;;;x
 b_ranerou_ferlo_2_adj;Ranérou Ferlian;;Ranérou Ferler;;;;;;;;;;;x
 b_ranerou_ferlo_3;Ranérou Ferlo;Ranérou Ferlo;Ranérou Ferlo;;Ranérou Ferlo;;;;;;;;;x
 b_ranerou_ferlo_3_adj;Ranérou Ferlian;;Ranérou Ferler;;;;;;;;;;;x
+b_ribeira_brava_CV;Ribeira Brava;;;;;;;;;x
+b_ribeira_da_cruz_CV;Ribeira da Cruz;;;;;;;;;x
+b_ribeira_de_calhau_CV;Ribeira de Calhau;;;;;;;;;x
 b_river_cess;River Cess;River Cess;River Cess;;River Cess;;;;;;;;;x
 b_river_cess_adj;River Cessian;;River Cesser;;;;;;;;;;;x
 b_robertsport;Robertsport;Robertsport;Robertsport;;Robertsport;;;;;;;;;x
@@ -779,6 +807,7 @@ b_salaga_2;Salaga;Salaga;Salaga;;Salaga;;;;;;;;;x
 b_salaga_2_adj;Salagan;;salager;;;;;;;;;;;x
 b_salaga_3;Salaga;Salaga;Salaga;;Salaga;;;;;;;;;x
 b_salaga_3_adj;Salagan;;salager;;;;;;;;;;;x
+b_sal_rei_CV;Sal Rei;;;;;;;;;x
 b_sampa;Sampa;Sampa;Sampa;;Sampa;;;;;;;;;x
 b_sampa_adj;Sampan;;samper;;;;;;;;;;;x
 b_sampa_2;Sampa;Sampa;Sampa;;Sampa;;;;;;;;;x
@@ -805,6 +834,8 @@ b_sanmatenga_2;Sanmatenga;Sanmatenga;Sanmatenga;;Sanmatenga;;;;;;;;;x
 b_sanmatenga_2_adj;Sanmatengan;;sanmatenger;;;;;;;;;;;x
 b_sanmatenga_3;Sanmatenga;Sanmatenga;Sanmatenga;;Sanmatenga;;;;;;;;;x
 b_sanmatenga_3_adj;Sanmatengan;;sanmatenger;;;;;;;;;;;x
+b_santa_maria_CV;Santa Maria;;;;;;;;;x
+b_sao_filipe_CV;São Filipe;;;;;;;;;x
 b_sedhiou;Sédhiou;Sédhiou;Sédhiou;;Sédhiou;;;;;;;;;x
 b_sedhiou_adj;Sédhian;;sédher;;;;;;;;;;;x
 b_sedhiou_2;Sédhiou;Sédhiou;Sédhiou;;Sédhiou;;;;;;;;;x
@@ -831,6 +862,7 @@ b_sikasso_2;Sikasso;Sikasso;Sikasso;;Sikasso;;;;;;;;;x
 b_sikasso_2_adj;Sikassian;;sikasser;;;;;;;;;;;x
 b_sikasso_3;Sikasso;Sikasso;Sikasso;;Sikasso;;;;;;;;;x
 b_sikasso_3_adj;Sikassian;;sikasser;;;;;;;;;;;x
+b_sinagoga_CV;Sinagoga;;;;;;;;;x
 b_suakoko;Suakoko;Suakoko;Suakoko;;Suakoko;;;;;;;;;x
 b_suakoko_adj;Suakokian;;suakoker;;;;;;;;;;;x
 b_sud_comoe;Sud-Comoé;Sud-Comoé;Sud-Comoé;;Sud-Comoé;;;;;;;;;x
@@ -877,6 +909,9 @@ b_tano_2;Tano;Tano;Tano;;Tano;;;;;;;;;x
 b_tano_2_adj;Tanian;;taner;;;;;;;;;;;x
 b_tano_3;Tano;Tano;Tano;;Tano;;;;;;;;;x
 b_tano_3_adj;Tanian;;taner;;;;;;;;;;;x
+b_tarrafal_CV;Tarrafal;;;;;;;;;x
+b_tarrafal_de_monte_trigo_CV;Tarrafal de Monte Trigo;;;;;;;;;x
+b_tarrafal_de_sao_nicolau_CV;Tarrafal de São Nicolau;;;;;;;;;x
 b_telimele;Télimélé;Télimélé;Télimélé;;Télimélé;;;;;;;;;x
 b_telimele_adj;Téliméléian;;téliméléer;;;;;;;;;;;x
 b_telimele_2;Télimélé;Télimélé;Télimélé;;Télimélé;;;;;;;;;x

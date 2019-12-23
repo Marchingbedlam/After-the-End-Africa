@@ -43,28 +43,30 @@ portuguese = {
 			Abílio Afonso_Alphonse Aguinaldo Aires Alexandre_Alexander Albertino_Albert Alfredo_Alfred Álvaro_Oliver Amilcar_Hamilcar André_Andrew António_Anthony Aristides Arménio_Herman Augusto_Augustus
 			Baltasar_Balthazar Bartolomeu_Bartholomew Basílio_Basil Bermudo
 			Caetano_Gaetan Carlos_Carl César_Caesar Cleófas_Cleophas Corsino
-			Damião_Damian Dinis Diogo_Diego Donaldo_Donald Duarte
+			Damião_Damian Dinis Diogo_Diego Domingos Donaldo_Donald Duarte
 			Eduardo_Edward Egas Estêvão_Stephen Euclides_Euclid Eugénio_Eugene Evandro_Evander
 			Fernão_Ferdinand Filipe_Philip Flávio_Flavius Francisco_Francis
 			Gabriel Garcia Gaspar_Casper Germano_Germanus Gil_Egidius Gomes_Gomez Gonçalo_Gonzalo Gualberto Guilherme_William Guterre_Walter
-			Helespóntico Henrique_Henry Hermígio Honório_Honorius
-			Inácio_Ignatius
+			Hélder Helespóntico Henrique_Henry Hermígio Honório_Honorius
+			Ilídio Inácio_Ignatius
 			Jaime_James João_John Joaquim_Joachim José_Joseph Jorge_George
 			Lopo_Lupo Lourenço_Laurence Luís_Louis
 			Manuel_Emmanuel Marco_Marcus Martim_Martin Maurício_Maurice Mendo Miguel_Michael Monio_Munio
 			Nélson_Nelson Nicolau_Nicholas Nuno
-			Octávio_Octavian Ovídio_Ovid
+			Octávio_Octavian Odaïr Óscar Osvaldo_Oswald Ovídio_Ovid
 			Paio_Pelagius Paulo_Paul Pedro_Peter Pôncio_Pons
-			Rafael_Raphael Raimundo_Raymond Renato Rogério_Roger Ruben Rui_Roderick
+			Rafael_Raphael Raimundo_Raymond Renato Ricardo_Richard Rogério_Roger Ruben Rui_Roderick
 			Sancho Soeiro_Suero Sebastião_Sebastian Silvino Simão_Simon
 			Teodósio_Theodosius Theodorico_Theodoric Tito_Titus
 			Ulisses_Ulysses Uriel
 			Vasco Vicente_Vincent Viriato
+			Wahnon Wuilito
 			Xavier
 		}
 		
 		female_names = {
 			Aldara_Alduara Aldonça_Aldonza Beatriz_Beatrice Berengária_Berengaria Branca_Blanche Constança_Constance Dórdia Elvira_Elvira Estevainha_Stephania Fruilhe_Fronilde
+			Carlina Crispina
 			Gontinha Gontroda_Gotruda Guiomar Inês_Agnes Joana_Joan Leonor_Eleanor Mafalda_Matilda Margarida_Margaret Maria_Maria Marinha_Marine
 			Mor_Mayor Ouroana Sancha_Sancha Teresa_Teresa Urraca_Urraca
 			Amélia Ana_Anna Andréa Antía Antónia Assunção 
@@ -73,20 +75,21 @@ portuguese = {
 			Débora Desidéria Diamantina Domitila Dores Dorotéia_Dorothea Dulce
 			Edite Efigênia Elisabete_Elizabeth Eufémia Eugênia Eulália 
 			Fatimá Feliciana Felicidade Flávia Francisca Frederica 
-			Gabriela Gertrudes Glaucia Glória Graça 
+			Gabriela Gardénia Gertrudes Glaucia Glória_Gloria Graça_Grace
 			Henriqueta Hermínia 
 			Imaculada Inês Isabel_Elizabeth
 			Jacinta Joana Joaquima Josefa Januária Judite_Judith
-			Leocádia Leonor Leticia Lía Lídia Lígia Lílian Lúcia Luisa Lurdes Leopoldina Lygia 
+			Leocádia Leonor Leticia Lía Lídia Lígia Lílian Lúcia Luisa Lurdes Leopoldina Lygia Louisa_Louise
 			Madalena Márcia Margarida María_Mary Matilde_Matilda Micaela Mônica_Monica
 			Nathália Neves Noela
 			Ofélia Olalla Olívia 
 			Priscila Paula
-			Rafaela Raquel_Rachel Rebeca_Rebecca Renata Roberta Rute 
+			Rafaela Raquel_Rachel Rebeca_Rebecca Renata Roberta Rosângela Rute 
 			Sabela Sara_Sarah Sofia_Sofia Sonia Susana_Susan 
 			Tatiana Telma Teresa
 			Úrsula Uxía 
 			Verônica Vitória 
+			Yara Yolanda
 		}
 		
 		from_dynasty_prefix = "de "
@@ -110,34 +113,35 @@ portuguese = {
 		color = { 0.4 0.6 0.1 }
 		
 		male_names = {
-			Abel Achiles Afonso_Alphonse Agostinho_Augustine Aires Albano Alberto_Albert Aleixo_Alexius Alexandre_Alexander Álvaro Amade_Amadeus Amâncio André_Andrew Aníbal_Hannibal Aquino
+			Abel Achiles Afonso_Alphonse Agostinho_Augustine Aires Albano Alberto_Albert Aleixo_Alexius Alexandre_Alexander Alfredo_Alfred Álvaro Amade_Amadeus Amâncio André_Andrew Aníbal_Hannibal Aquino
 			Bento_Benedict Bernardo_Bernard Bruno
-			Carlos_Carl Castro César_Caesar Clésio Creve Cristóvão_Cristopher
+			Caetano_Gaetan Carlos_Carl Castro César_Caesar Clésio Creve Cristóvão_Cristopher
 			Dário_Darius Daúto Daviz Dimitri_Demetrius Diogo_Diego
-			Edson Eduardo_Edward Emílio Esaú_Esau Estevão_Stephen Eusébio_Eusebius
+			Edson Eduardo_Edward Emílio Esaú_Esau Estevão_Stephen Eusébio_Eusebius Everton
 			Fernão_Ferdinand Filipe_Philip Froilano
-			Gonçalo_Gonzalo Guilherme_William 
-			Hélder
+			Geofredo Gonçalo_Gonzalo Guilherme_William 
+			Hélder Hoçem_Hussayn 
 			Ibraimo_Abraham Iko Imran Inácio_Ignatius Ivan 
-			Jeremias João_John Joaquim_Joachim Jorge_George José_Joseph
+			Jácome Jeremias João_John Joaquim_Joachim Jorge_George José_Joseph
 			Kaúlza
-			Leonel_Lionel Lourenço_Laurence Luís_Louis
-			Mário_Marius Messias Miguel_Michael Milton Moisés_Moses Moreira Murade_Murad
+			Leander Leonel_Lionel Lourenço_Laurence Luís_Louis
+			Mário_Marius Melique_Malik Messias Miguel_Michael Milton Moisés_Moses Moreira Mortó Murade_Murad
 			Nélio Nelson
-			Oldemiro Orlando Ossufo Otelo_Othello 
+			Oldemiro Orlando Ossufo Oswald Otelo_Othello 
 			Pancho Pascoal_Pascal Paulo_Paul Pedro_Peter
-			Reinildo_Raynold Ricardo_Richard Roldão_Roland Romão_Roman Ruy_Roderick
+			Reinildo_Raynold Ricardo_Richard Rodolfo_Rudolf  Roldão_Roland Romão_Roman Ruy_Roderick
 			Salvador Samora Santana Sarmento Sebastião_Sebastian Sérgio_Sergius Shéu 
 			Teodomiro Tiedtke Tomaz_Thomas
 			Ubaldo Uria_Uriah
 			Valente_Valentine Vicente_Vincent Vítor_Victor
-			Xadreque_Shadrach Xico Ximene
+			Wallis_Wallace Wilfred Wolfgango_Wolfgang
+			Xadreque_Shadrach Xico Ximene 
 			Zeca Zefanias
 		}
 		
 		female_names = {
-			Carolina_Caroline Cátia
-			Esperança
+			Carolina_Caroline Catarina_Catharine Cátia
+			Eliza Esperança Eunice
 			Gigé Glória_Gloria Graça_Grace
 			Iolanda_Yolanda Ivone
 			Leia

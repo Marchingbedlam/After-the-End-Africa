@@ -12,6 +12,6 @@ b_kintampo_3 = temple
 
 # Misc
 culture = ashanti
-religion = catholic
+religion = anglican
 
 #History
