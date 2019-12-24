@@ -1,0 +1,404 @@
+###ÄNSI
+
+namibian = {
+	graphical_cultures = { westerngfx }
+
+	sudwester = {
+		graphical_cultures = { germangfx }
+
+		color = { 0.4 0.4 0.3 }
+
+		male_names = {
+			Abel Abraham Adolf Albert Alexei_Alexis Alfred Anton_Anthony Arnold August Axel
+			Barnim Benedikt_Benedict Bernard Björn Bogislaw Borwin Burkhard 
+			Calle_Carl Casimir Casper Chlodwig Clemens Cornelius 
+			Dawid_David Detlef Dieter Dirk Dorian 
+			Ebenezer Eberhard Eckbert Eduard_Edward Egon Ehrenfried Emil Enno Ephraim Erastus Erwin Ehrik_Eric Ernst_Ernest Ewald Ewilastus_Evilastus
+			Fabarius Fedor_Theodore Ferdinand Filalethes Filippus_Philip Fillemon_Philemon Franziskus_Francis Friedhelm Friedrich_Frederick Fritz_Frederick
+			Gerhard Gerson Gideon Giserich Goswin Gotthelf Gottlob_Gottlieb Günther Gustaf_Gustav 
+			Hanjorge Hanno Harald_Harold Hartmann Hellmut Hendrik_Henry Henning Henk_Henry Hermann_Herman Horst Hubertus_Hubert 
+			Isaak_Isaac Isenbard Ishmael
+			Jakobus_Jacob Jesko Joachim Johannes_John Jörg_George Josef_Joseph  
+			Kamil_Camille Kayetan Klaus_Nicholas Kolmann Konrad_Conrad Kristof_Christopher Kurt
+			Lamprecht Leberecht Leonhard_Leonard Liborius Llewellinus_Llewellyn Lorenz_Lawrence Lothar Ludovik_Louis Lukas_Lucas 
+			Magnus Manfred Marius Martinus_Martin Matthäus_Matthew Maximilian Moritz 
+			Nikanor  
+			Olbricht Oliwer_Oliver Oltwig Onufry Ortwinus Oskar_Oscar Otto 
+			Paulus_Paul Pieter_Peter Pribislaw 
+			Raimar Raoul Reinhardt Richard Rochus Roman Rüdiger_Roger Rudolf 
+			Sigfried Slabbert Sobeslaus Stanislaus Stanley Stefanus_Stephen Sylwester_Sylvester 
+			Tertius Theofelus Theopoldt Thimoteus_Timothey Thomas Torsten Tycho 
+			Veicht_Vitus Viktor_Victor
+			Ulrich
+			Walther_Walter Wartislaus Wendelinus_Wendel Wenzeslaus Werner Wilbard Wilhelm_William Wilko Winrich Woldemar_Valdemar Wolfgang Wolfram
+			Yorck
+			Zisse Zygmund_Sigmund 
+		}
+		
+		female_names = {
+			Alexandrine Angelika_Angelica Anja Anoeschka Augusta 
+			Brumhilda 
+			Charlotte Christine Cordula 
+			Elisabeth Elretha Emma 
+			Donata Dorothea 
+			Franja 
+			Gaby Gharde Gwen 
+			Henriette_Henrietta Hermine 
+			Ingeborg Irene 
+			Johanna 
+			Kerstin 
+			Luise_Louisa 
+			Marelize Margaret Marlice Michelle Monica
+			Nora 
+			Sophie_Sophia 
+			Ulrike
+			Viktoria_Victoria  
+			Wilhelmina 
+		}
+
+		from_dynasty_prefix = "von "
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 30
+		father_name_chance = 10
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 50
+		mother_name_chance = 10
+
+		modifier = default_culture_modifier
+	}
+	
+	ovambo = {
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+
+		color = { 0.6 0.55 0.45 }
+
+		dukes_called_kings = yes
+
+		male_names = {
+			Abraham Aktofer Alekraus Andimba Andolofa_Adolf Arbertus_Albert Armas 
+			Bonifazius_Boniface Broteus_Brutus Brunnar 
+			Charles Cornelius
+			Darius Dimbulukeni Drauhot 
+			Eero Elago Elifas Epafras Ephraim Erkki Evilastus 
+			Fanuel Festus Filippus_Philip Frans_Francis Fredinad_Ferdinand 
+			Hafeni Heiko Henock_Enoch Hidipo Hifikepunye Homateni Hosea_Joseph 
+			Iipinge Iiyambo Immanuel_Emmanuel 
+			Jafet_Japeth Jairus Januarie Jariretundu Jesaya John Julius Juuso_Joseph 
+			Kai Kambonde Kauko Kiljana Kondjeni Kotokeni Kristof_Christopher Kulaumone
+			Leevi Lobard Lyomukunda 
+			Malakia_Malachi Manasseh Mandume Matheus_Matthew Megameno Mekondjo Melkisedek Mikko_Michael Mwaala Mweukefina
+			Nahas Nangolo Natangwe Ndeshipanda Ndilimani Nehale Nico_Nicholas Nghilifa  
+			Panduleni Passa_Pascal Phillemon Polis Pondo 
+			Sadrak_Shadrach Sakaria_Zachary Shaanika Shilongo Simaneka Sondaha Suikanen  
+			Tangeni Tauno Teemus_Nicodemus Tegelela Thikameni Tobias Toivo Tuhafeni Tutaleni 
+			Uko Urho Uushona 
+			Vaino Vilhelm_William Vulikeni 
+		}
+
+		female_names = {
+			Adelheid Ageshe Amalia 
+			Benita Bience 
+			Clara
+			Deimunde Dhiginina Dorodea 
+			Eevi_Eva Elisa Emma Etuhole 
+			Fiina_Josephine Fredrika 
+			Galotte Gandjomuenjo 
+			Hambeleleni Hariana Hedvig Hertta 
+			Inekela Inge 
+			Josephina_Josephina 
+			Kandali Karolina_Caroline Kaunapawa Koskima 
+			Laina Loini Lusia_Lucia 
+			Magano Martha Melila Mestilde Mpingana Monika_Monica Mutaleni 
+			Nakashwa Natalia Ndakulilwa Ndapewa Ndasilwo Ndeyapo Ndilimeke Ndinelago Njanjukweni Nelago Nuusiku Nyanyukweni 
+			Omagano Ottilia 
+			Penehafo 
+			Rauha Ruusa_Rosa 
+			Saarti Saio Sesilia_Cecilia Sofia_Sophia Sondag_Sunday 
+			Terttu Tonakeni Tulonga Tuwilika 
+			Viktorina_Victoria
+		}
+
+		from_dynasty_prefix = ""
+
+
+		baron_titles_hidden = yes
+		count_titles_hidden = yes
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+
+
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+
+	nama = {
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.55 0.5 0.3 }
+
+		male_names = {
+			!Aubib !Gomxab !Habib !Hanamub !Hoa!arab !Hoëb !Huisib !Khanabib !Khauab !Nanib 
+			Abraham Amraal Andreas_Andrew 
+			Cornelius Cupido 
+			Dawid_David 
+			Fritz_Frederick
+			Hendrik_Henry
+			Isaak_Isaac Ismael_Ishmael 
+			Jacobus_Jacob Jan_John Josef_Joseph 
+			Klaas_Nicholas 
+			Lazarus 
+			Manasse_Manases Markus_Marcus Moses 
+			Oasib 
+			Piet_Peter 
+			Salomon_Solomon Seth Stephanus_Stephen 
+			Tsamkau Tsaugab Tsauxab
+			Willem_William 
+		}
+		
+		female_names = {
+			Gaudentia 
+			Lucia
+			Paulina
+			Sarah 
+		}
+
+		from_dynasty_prefix = ""
+
+		baron_titles_hidden = yes
+		count_titles_hidden = yes
+
+		modifier = default_culture_modifier
+
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+
+		allow_looting = yes
+		seafarer = yes
+	}
+	herero = {
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.4 0.35 0.1 }
+
+		male_names = {
+			Arnold Athiel 
+			Clemens_Clemence
+			Enzian Erastus 
+			Fredrick_Frederick
+			Gerson Gottlob_Gottlieb 
+			Hitjitevi 
+			Jackson Jacobus_Jacob 
+			Kahimemua Kaihepozandu Kaire Kanangati Katando Keharanjo Kuaimo
+			Mbuipaha Mburumba Munjuku Mureti Musupi 
+			Ncoruru Nakokure Nikanor 
+			Obeth Otto 
+			Parmenus Peter
+			Reinhard Rudolph_Rudolf
+			Samuel Stephanus_Stephen 
+			Thimoteus_Timothy Tjerimo 
+			Vekuii Vipuakuje 
+		}
+		
+		female_names = {
+			Angelika_Angelica Anna Asnath 
+			Bertha 
+			Charlotte
+			Elsie Emilia 
+			Johanna
+			Kaipkire
+			Nora 
+			Magord Muenda 
+			Thelina 
+			Uapiona Uerieta
+			Vitura
+		}
+		from_dynasty_prefix = ""
+
+		baron_titles_hidden = yes
+		count_titles_hidden = yes
+
+		modifier = default_culture_modifier
+
+		allow_looting = yes
+		seafarer = yes
+	}
+
+	damara = {
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.4 0.35 0.1 }
+
+		male_names = {
+			Abner Albert Aobeb Ananias Augustinus Axel 
+			Baseth Bernardo_Bernard
+			Christian 
+			Daedelus Dendu Desmond 
+			Eliazer Eric Erwin
+			Frans_Francis
+			Gersom_Gerson 
+			Hage Henog_Enoch Heroldt_Harold Hosea
+			Jacko Johannes_John Judas Justus
+			Khaireb Khotat Kornelius_Cornelius  
+			Mateus_Matthew Migub Moses 
+			Niklaas_Nicholas Nobel
+			Simson 
+			Rheinhardt_Reinhardt Ruben 
+			Tamme Theo-Ben Tiakodle Titus Tsudao Tsukhoe 
+			Ubeb Usiel
+			Victus 
+			Wilson 
+		}
+		
+		female_names = {
+			Alma 
+			Bianca 
+			Christolene Cisillia Consetta
+			Dartji 
+			Elphride Elizabeth 
+			Fistolene Flora
+			Gisella Gustaphine
+			Hannah Hegwig Hillaria
+			Ida 
+			Lena Libertina Linda Lotte Lucia Lydia 
+			Magdalena Martha Massie Mibagu
+			Oboti 
+			Rebecca Rosa Roxette 
+			Salinde Salonica Sylvia
+			Tamaties Tekla Trypohasa 
+			Ursulla_Ursula
+			Willemina
+			Zodidi  
+		}
+		from_dynasty_prefix = ""
+
+		baron_titles_hidden = yes
+		count_titles_hidden = yes
+
+		modifier = default_culture_modifier
+
+		allow_looting = yes
+		seafarer = yes
+	}
+
+	afrikaner = {
+		graphical_cultures = { germangfx }
+
+		color = { 0.4 0.4 0.3 }
+
+		male_names = {
+			Adriaan_Hadrian Alwyn Andries_Andrew Arno 
+			Barend Bertus_Albert 
+			Christiaan_Christian Christoffel Coenraad_Conrad Constand_Constantine Cornelius 
+			Etienne_Stephen Eugene 
+			Daniël_Daniel Dewaldt Dirk 
+			Francois_Francis 
+			Gabriël_Gabriel Gérard_Gerard Gerrit Gideon Guy Gysbert 
+			Karel_Carl Kobus_Jacob
+			Hendrik_Henry Herculaas_Hercules 
+			Izak_Isaac 
+			Jacques Jan_John Jandré
+			Laurens_Lawrence Leon_Leo Louis 
+			Marcel Marius Marthinus_Martin Morné
+			Nicolaas_Nicholas 
+			Ockert Oscar
+			Philip Piet_Peter
+			Quartus 
+			Rabian Renaud Riaan_Ryan Roelof Rynhardt_Reinhard
+			Schalk Skipper Stephanus_Stephen Sybrand 
+			Theuns Troyden 
+			Wessel Wicus Willem_William Wynand 
+			Zhivago 
+		}
+		
+		female_names = {
+			Adele Anika Anneline Antjie Antoinette
+			Behati 
+			Charlize Cornelia 
+			Danila 
+			Elizabeth Elsa Esther 
+			Grazjyna 
+			Inez Ingrid Isabel 
+			Johanna 
+			Liezel 
+			Magdalena Marie_Maria Marike Marissa Miemsie 
+			Natalie
+			Rozelle 
+			Sandra_Alexandra Sarie Simoné_Simone Sonja
+			Wilna 
+			Yvonne 
+			Zelda 
+		}
+
+		from_dynasty_prefix = "van "
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 30
+		father_name_chance = 10
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 50
+		mother_name_chance = 10
+
+		modifier = default_culture_modifier
+	}
+		
+	griqua = {
+		graphical_cultures = { germangfx }
+
+		color = { 0.4 0.4 0.3 }
+
+		male_names = {
+			Adam Albert Allan Athol 
+			Clyde Cornelius
+			Edward Errol
+			Hans Hermanus_Hermann 
+			Ian Ignatius
+			James John
+			Kurt 
+			Leroy Lionel
+			Marcus 
+			Neville Nikolaus_Nicholas 
+			Omar 
+			Percy Petrus_Peter Pius
+			Reginald Richard 
+			Stanton 
+			Trevor
+			Vernon 
+			Wayde Wilfred Willem_William 
+		}
+		
+		female_names = {
+			Lucie_Lucia
+			Nora
+			Ottilé
+		}
+
+		from_dynasty_prefix = "van "
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 30
+		father_name_chance = 10
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 50
+		mother_name_chance = 10
+
+		modifier = default_culture_modifier
+	}
+}
