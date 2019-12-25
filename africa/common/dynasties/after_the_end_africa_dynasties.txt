@@ -1076,9 +1076,9 @@
 2501014 = { name="Shah" culture=mestico }
 2501015 = { name="Borges-Coelho" culture=mestico }
 2501016 = { name="Paixão" culture=mestico }
-2501017 = { name="Chissano" culture=mestico }
+2501017 = { name="Sing Sang" culture=mestico }
 2501018 = { name="Queiroz" culture=mestico }
-2501019 = { name="de Abdul" culture=mestico }
+2501019 = { name="de Abdala" culture=mestico }
 2501020 = { name="Faife" culture=mestico }
 2501021 = { name="Carqueijeiro" culture=mestico }
 2501022 = { name="Tudela" culture=mestico }
@@ -1086,17 +1086,47 @@
 2501024 = { name="Marques" culture=mestico }
 2501025 = { name="de Huérgano" culture=mestico }
 2501026 = { name="d'Alpoim" culture=mestico }
-2501027 = { name="Guedes" culture=mestico }
-2501028 = { name="Han" culture=mestico }
+2501027 = { name="Petersburgo" culture=mestico }
+2501028 = { name="de Albuquerque" culture=mestico }
 2501029 = { name="Saraiva" culture=mestico }
 2501030 = { name="Rogado" culture=mestico }
 2501031 = { name="de Deus" culture=mestico }
 2501032 = { name="Abranches" culture=mestico }
 2501033 = { name="Ferraz" culture=mestico }
 2501034 = { name="de Bettencourt" culture=mestico }
-2501035 = { name="Yasuque" culture=mestico }
+2501035 = { name="Yasuques" culture=mestico }
 2501036 = { name="de Araújo" culture=mestico }
 2501037 = { name="Mendonça" culture=mestico }
 2501038 = { name="Patraquim" culture=mestico }
 2501039 = { name="Thierstein" culture=mestico }
 2501040 = { name="Simões-Meliqueaz" culture=mestico }
+2501041 = { name="Siufay" culture=mestico }
+2501042 = { name="Khida" culture=mestico }
+2501043 = { name="Lucas-Carimo" culture=mestico }
+2501044 = { name="Loforte" culture=mestico }
+2501045 = { name="Irache" culture=mestico }
+2501046 = { name="Gorjão" culture=mestico }
+2501047 = { name="Ubisse" culture=mestico }
+2501048 = { name="Cazimoto" culture=mestico }
+2501049 = { name="Bernarbé" culture=mestico }
+2501050 = { name="Sadiques" culture=mestico }
+2501051 = { name="Remane" culture=mestico }
+2501052 = { name="Alfandega" culture=mestico }
+2501053 = { name="Algueq" culture=mestico }
+2501054 = { name="da Pátria" culture=mestico }
+2501055 = { name="Noormahomed" culture=mestico }
+2501056 = { name="Picardo" culture=mestico }
+2501057 = { name="Kassim" culture=mestico }
+2501058 = { name="de Guitombe" culture=mestico }
+2501059 = { name="Rassul" culture=mestico }
+2501060 = { name="Alcides" culture=mestico }
+2501061 = { name="Trapesse" culture=mestico }
+2501062 = { name="Reis-Bacar" culture=mestico }
+2501063 = { name="Guzmão" culture=mestico }
+2501064 = { name="Cara-Alegre" culture=mestico }
+2501065 = { name="Xarifo-Vassanegy" culture=mestico }
+2501066 = { name="Abdulcadre" culture=mestico }
+2501067 = { name="de Bom Sucesso" culture=mestico }
+2501068 = { name="Mota e Cunha" culture=mestico }
+2501069 = { name="de Vasconcelos" culture=mestico }
+2501070 = { name="Novela" culture=mestico }
