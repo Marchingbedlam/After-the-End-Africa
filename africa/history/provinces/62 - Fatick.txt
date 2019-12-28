@@ -11,7 +11,7 @@ b_fatick_2 = city
 b_fatick_3 = temple
 
 # Misc
-culture = senegambian
+culture = wolof
 religion = catholic
 
 #History

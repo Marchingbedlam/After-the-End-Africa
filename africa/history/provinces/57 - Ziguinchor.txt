@@ -11,7 +11,7 @@ b_ziguinchor_2 = city
 b_ziguinchor_3 = temple
 
 # Misc
-culture = senegambian
+culture = jola
 religion = catholic
 
 #History

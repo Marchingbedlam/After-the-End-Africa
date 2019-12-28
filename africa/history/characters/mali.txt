@@ -1,0 +1,140 @@
+1401000={
+	name="Ibrahim"
+	dynasty=1401013
+	culture=malinke
+	religion=sunni
+	father=1401004
+	martial=6
+	diplomacy=6
+	stewardship=6
+	intrigue=6
+	learning=6
+	add_trait=briliant_strategist
+	add_trait=ambitious
+	add_trait=brave
+	add_trait=diligent
+	add_trait=quick
+
+	2622.1.1={ birth=yes }
+	2662.11.22={ death=yes }
+}
+1401001={
+	name="Ahmed"
+	dynasty=1401013
+	culture=malinke
+	religion=sunni
+	father=1401000
+	martial=6
+	diplomacy=6
+	stewardship=6
+	intrigue=6
+	learning=6
+	add_trait=weak
+	trait=ambitious
+
+	2647.9.19={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1401002={
+	name="Ouali"
+	dynasty=1401013
+	culture=malinke
+	religion=sunni
+	father=1401000
+
+	2650.8.19={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1401003={
+	name="Bory"
+	dynasty=1401013
+	culture=malinke
+	religion=sunni
+	father=1401000
+
+	2653.9.19={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1401004={
+	name="Ouali"
+	dynasty=1401013
+	culture=malinke
+	religion=sunni
+	father=1401005
+
+	2590.1.1={ birth=yes }
+	2640.1.1={ death=yes }
+}
+1401005={
+	name="Ahmed"
+	dynasty=1401013
+	culture=malinke
+	religion=sunni
+
+	2570.1.1={ birth=yes }
+	2630.1.1={ death=yes }
+}
+1401006={
+	name="Daouda"
+	dynasty=1401013
+	culture=malinke
+	religion=sunni
+	father=1401004
+
+	2626.1.1={ birth=yes }
+	2700.11.22={ death=yes }
+}
+1401007={
+	name="Oueld"
+	dynasty=1444035
+	culture=tuareg
+	religion=sunni
+
+	2625.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1401010={
+	name="Ouezzin"
+	dynasty=1401005
+	culture=malinke
+	religion=sunni
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1401011={
+	name="Sakoura"
+	dynasty=1401011
+	culture=malinke
+	religion=sunni
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1401012={
+	name="Ballaké"
+	dynasty=1401010
+	culture=malinke
+	religion=sunni
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1401013={
+	name="Mamadou"
+	dynasty=1401018
+	culture=malinke
+	religion=sunni
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1401014={
+	name="Modibo"
+	dynasty=1401002
+	culture=malinke
+	religion=sunni
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}

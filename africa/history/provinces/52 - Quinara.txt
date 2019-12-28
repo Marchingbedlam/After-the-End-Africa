@@ -11,7 +11,7 @@ b_quinara_2 = city
 b_quinara_3 = temple
 
 # Misc
-culture = senegambian
+culture = guinensi
 religion = catholic
 
 #History

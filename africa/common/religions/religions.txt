@@ -86,6 +86,42 @@ muslim = {
 	female_names = {
 		Ayesha Abrar Afifah Anabia Hijrah Hind Hareem Iqra Judi Karida Khadijah Khalidah Khawlah Madeeha Maryam Mariyah Maymunah Mariam Mina Nuwwarrah Qismah Ruqayyah Saba Safaa Safiyyah Salma Shahrazad Sirin Sumaiyah Thuwaibah Umamah Zainab Zubaidah Zainab 
 	}
+
+	sunni = {
+		graphical_culture = muslimgfx
+
+		icon = 3
+		heresy_icon = 8
+		
+		color = { 0 0.6 0 }
+		
+		crusade_name = JIHAD
+		scripture_name = THE_KORAN
+		priest_title = IMAM_PRIEST
+		
+		high_god_name = GOD_ALLAH
+		
+		god_names = {
+			GOD_ALLAH GOD_THE_GREATEST
+		}
+		
+		evil_god_names = {
+			IBLIS SHAYTAN
+		}
+		
+		can_call_crusade = yes
+		priests_can_marry = yes
+		psc_marriage = no # Disallow uncle-nice and aunt-nephew marriages
+		max_wives = 4
+		matrilineal_marriages = no
+		
+		landed_kin_prestige_bonus = yes
+		attacking_same_religion_piety_loss = yes
+		uses_decadence = no
+		uses_jizya_tax = yes
+
+		#intermarry = sunni
+	}
 }
 
 pan_african = {
@@ -168,7 +204,7 @@ pan_african = {
 			GOD_INDEPENDENCE GOD_PROSPERITY GOD_JUSTICE GOD_OUR_LADY GOD_MONROE THE_FOUNDERS GOD_JOHN_BROWN
 		}
 		evil_god_names = {
-			THE_FIRESTONE THE_TRAITORS COLONIALISM THE_ENSLAVERS
+			THE_FIRESTONE THE_TRAITORS THE_ENSLAVERS
 		}
 		
 		autocephaly = yes

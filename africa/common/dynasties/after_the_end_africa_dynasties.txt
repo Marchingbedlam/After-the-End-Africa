@@ -120,6 +120,17 @@
 1201003 = {name ="Pogba" culture=kpelle }
 1201004 = {name ="Tokpa" culture=kpelle }
 
+1202000 = {name ="Dumbuya" culture=susu } 
+1202001 = {name ="Yumkella" culture=susu }
+1202002 = {name ="Suma" culture=susu }
+1202003 = {name ="Yillah" culture=susu }
+1202004 = {name ="Bangoura" culture=susu }
+1202005 = {name ="Youla" culture=susu }
+1202006 = {name ="Yansane" culture=susu }
+1202007 = {name ="Modupe" culture=susu }
+1202008 = {name ="Sillah" culture=susu }
+1202009 = {name ="Yeliba" culture=susu }
+
 1301000 = {name ="Bangura" culture=temne }
 1301001 = {name ="Karim" culture=temne }
 1301002 = {name ="Koroma" culture=temne }
@@ -144,27 +155,35 @@
 1301021 = {name ="Samura" culture=temne }
 1301022 = {name ="Serry" culture=temne }
 
+1302000 = {name ="Tandja" culture=soninke }
+1302001 = {name ="Kébé" culture=soninke }
+1302002 = {name ="Suwari" culture=soninke }
+1302003 = {name ="Wankori" culture=soninke }
+1302004 = {name ="Bagayogo" culture=soninke }
+1302005 = {name ="Kenaté" culture=soninke }
+1302000 = {name ="Fodiké" culture=soninke }
+
 1401000 = {name ="Traoré" culture=malinke }
 1401001 = {name ="Diawara" culture=malinke }
 1401002 = {name ="Cissé" culture=malinke }
 1401003 = {name ="Coulibaly" culture=malinke }
 1401004 = {name ="Keïta " culture=malinke }
-1401005 = {name ="Traoré" culture=malinke }
-1401006 = {name ="Sissoko" culture=malinke }
-1401007 = {name ="Jawara" culture=malinke }
-1401008 = {name ="Jobarteh" culture=malinke }
-1401009 = {name ="Dukuly" culture=malinke }
+1401005 = {name ="Touré" culture=malinke }
+1401006 = {name ="Diabaté" culture=malinke }
+1401007 = {name ="Kamara" culture=malinke }
+1401008 = {name ="Diarra" culture=malinke }
+1401009 = {name ="Doukouli" culture=malinke }
 1401010 = {name ="Kromah" culture=malinke }
 1401011 = {name ="Kanté" culture=malinke }
-1401012 = {name ="Kouyate" culture=malinke }
+1401012 = {name ="Kouyaté" culture=malinke }
 1401013 = {name ="Condé" culture=malinke }
 1401014 = {name ="Mansaré" culture=malinke }
 1401015 = {name ="Baryoh" culture=malinke }
 1401016 = {name ="Fadika" culture=malinke }
-1401017 = {name ="Tarawalie" culture=malinke }
-1401018 = {name ="Konneh" culture=malinke }
-1401019 = {name ="Yekerson" culture=malinke }
-1401020 = {name ="Sanneh" culture=malinke }
+1401017 = {name ="Tarouali" culture=malinke }
+1401018 = {name ="Suntu" culture=malinke }
+1401019 = {name ="Jabi" culture=malinke }
+1401020 = {name ="Sanné" culture=malinke }
 1401021 = {name ="Fakoly" culture=malinke }
 1401022 = {name ="Sidibé" culture=malinke }
 1401023 = {name ="Ouattara" culture=malinke }
@@ -175,14 +194,135 @@
 1401028 = {name ="Zerbo" culture=malinke }
 1401029 = {name ="Darboe" culture=malinke }
 1401030 = {name ="Fofana" culture=malinke }
-1401031 = {name ="Mansaray" culture=malinke }
+1401031 = {name ="Koné" culture=malinke }
 1401032 = {name ="Soumaré" culture=malinke }
-1401033 = {name ="Diakite" culture=malinke }
+1401033 = {name ="Diakité" culture=malinke }
 1401034 = {name ="Sangaré" culture=malinke }
 1401035 = {name ="Douala" culture=malinke }
-1401036 = {name ="Diabaté" culture=malinke }
+1401036 = {name ="Bakaba" culture=malinke }
 1401037 = {name ="Maïga" culture=malinke }
+1401038 = {name ="Bérété" culture=malinke }
+1401039 = {name ="Mané" culture=malinke }
+1401040 = {name ="Susso" culture=malinke }
+1401041 = {name ="Kaba" culture=malinke }
+1401042 = {name ="Diamé" culture=malinke }
+1401043 = {name ="Konaré" culture=malinke }
+1401044 = {name ="Dembelé" culture=malinke }
+1401045 = {name ="Daramy" culture=malinke }
+1401046 = {name ="Diarassouba" culture=malinke }
+1401047 = {name ="Sanogo" culture=malinke }
+1401048 = {name ="Dagnogo" culture=malinke }
 
+1405000 = {name ="Oumarou" culture=songhai }
+1405001 = {name ="Idé" culture=songhai }
+1405002 = {name ="Diori" culture=songhai }
+1405003 = {name ="Kountché" culture=songhai }
+1405004 = {name ="Djibo" culture=songhai }
+1405005 = {name ="Saibou" culture=songhai }
+1405006 = {name ="Souley" culture=songhai }
+1405007 = {name ="Issoufou" culture=songhai }
+1405008 = {name ="Hamza" culture=songhai }
+1405009 = {name ="Bakary" culture=songhai }
+1405010 = {name ="Takoubakoyé" culture=songhai }
+1405011 = {name ="Ramatou" culture=songhai }
+1405012 = {name ="Djondang" culture=songhai }
+1405013 = {name ="Zaki" culture=songhai }
+1405014 = {name ="Gabdé" culture=songhai }
+1405015 = {name ="Bacharou" culture=songhai }
+
+1406000 = {name ="Diallo" culture=fula }
+1406001 = {name ="Buhari" culture=fula }
+1406002 = {name ="Ba" culture=fula }
+1406003 = {name ="Tejan" culture=fula }
+1406004 = {name ="Hamdullahi" culture=fula }
+1406005 = {name ="Barry" culture=fula }
+1406006 = {name ="Sy" culture=fula }
+1406007 = {name ="Tall" culture=fula }
+1406008 = {name ="Ly" culture=fula }
+1406009 = {name ="Sou" culture=fula }
+1406010 = {name ="Baldé" culture=fula }
+1406011 = {name ="Sall" culture=fula }
+1406012 = {name ="Shagari" culture=fula }
+1406013 = {name ="Gambari" culture=fula }
+1406014 = {name ="Abubakar" culture=fula }
+1406015 = {name ="Yar'Adua" culture=fula }
+1406016 = {name ="Sory" culture=fula }
+1406017 = {name ="Ribadu" culture=fula }
+1406018 = {name ="Ma'al" culture=fula }
+1406019 = {name ="Kané" culture=fula }
+1406020 = {name ="Ahidio" culture=fula }
+1406021 = {name ="Fadil" culture=fula }
+1406022 = {name ="Adama" culture=fula }
+1406023 = {name ="Tayib" culture=fula }
+1406024 = {name ="Bundu" culture=fula }
+1406025 = {name ="Sallah" culture=fula }
+1406026 = {name ="Darassa" culture=fula }
+1406027 = {name ="Bi'Aliou" culture=fula }
+1406028 = {name ="Rassin" culture=fula }
+1406029 = {name ="Hayatou" culture=fula }
+1406030 = {name ="Barké" culture=fula }
+1406031 = {name ="Gadio" culture=fula }
+1406032 = {name ="Ka" culture=fula }
+1406033 = {name ="Diawadu" culture=fula }
+1406034 = {name ="Aminu" culture=fula }
+1406035 = {name ="Teli" culture=fula }
+1406036 = {name ="Gandujé" culture=fula }
+1406037 = {name ="Bello" culture=fula }
+1406038 = {name ="Denianké" culture=fula }
+1406039 = {name ="Teghéla" culture=fula }
+1406040 = {name ="Rella" culture=fula }
+1406041 = {name ="Dianga" culture=fula }
+1406042 = {name ="Soulé" culture=fula }
+1406043 = {name ="Diyé" culture=fula }
+1406044 = {name ="Waranka" culture=fula }
+1406045 = {name ="Sanghé" culture=fula }
+1406046 = {name ="Lobaly" culture=fula }
+1406047 = {name ="Waly" culture=fula }
+1406048 = {name ="Sambeghu" culture=fula }
+1406049 = {name ="Pouré" culture=fula }
+1406050 = {name ="Tourodi" culture=fula }
+
+1444000 = {name ="Ag Ghaly" culture=tuareg }
+1444001 = {name ="Ag Acherif" culture=tuareg }
+1444002 = {name ="Ikhia" culture=tuareg }
+1444003 = {name ="Ag Geda" culture=tuareg }
+1444004 = {name ="Algabid" culture=tuareg }
+1444005 = {name ="Ag Acharatoumane" culture=tuareg }
+1444006 = {name ="Ag Najem" culture=tuareg }
+1444007 = {name ="Rafini" culture=tuareg }
+1444008 = {name ="Ag Hamani" culture=tuareg }
+1444009 = {name ="Intalou" culture=tuareg }
+1444010 = {name ="Ag Amastam" culture=tuareg }
+1444011 = {name ="Ag Maha" culture=tuareg }
+1444012 = {name ="Ag Boula" culture=tuareg }
+1444013 = {name ="Dayak" culture=tuareg }
+1444014 = {name ="Ag Mohamed Assaleh" culture=tuareg }
+1444015 = {name ="Ag Intalla" culture=tuareg }
+1444016 = {name ="Mokeddem" culture=tuareg }
+1444017 = {name ="Ag Bahanga" culture=tuareg }
+1444018 = {name ="Kuni" culture=tuareg }
+1444019 = {name ="Hamaha" culture=tuareg }
+1444020 = {name ="Ag Ahmadou" culture=tuareg }
+1444021 = {name ="Ag Gamou" culture=tuareg }
+1444022 = {name ="Ag Almahmoud" culture=tuareg }
+1444023 = {name ="Feltou" culture=tuareg }
+1444024 = {name ="Teguidda" culture=tuareg }
+1444025 = {name ="Ouelimaden" culture=tuareg }
+1444026 = {name ="Ag Alambo" culture=tuareg }
+1444027 = {name ="Fagaga" culture=tuareg }
+1444028 = {name ="Akoli Akoli" culture=tuareg }
+1444029 = {name ="Tchiwerin" culture=tuareg }
+1444030 = {name ="Ag Sidahmed" culture=tuareg }
+1444031 = {name ="Kalakouawa" culture=tuareg }
+1444032 = {name ="Awtchiki" culture=tuareg }
+1444033 = {name ="Ag Hamate" culture=tuareg }
+1444034 = {name ="Midou" culture=tuareg }
+1444035 = {name ="Ag Oussouf" culture=tuareg }
+1444036 = {name ="Houma" culture=tuareg }
+1444037 = {name ="Imola" culture=tuareg }
+1444038 = {name ="Zada" culture=tuareg }
+1444039 = {name ="Sidi Sidi" culture=tuareg }
+1444040 = {name ="Ag Djeri" culture=tuareg }
 
 1501000 = {name ="Jantuah" culture=ashanti }
 1501001 = {name ="Frefre" culture=ashanti }
@@ -473,6 +613,88 @@
 1505079 = {name ="N'Réhy" culture=baoule }
 1505080 = {name ="Zougoula" culture=baoule }
 
+1511000 = {name ="Dieng" culture=wolof }
+1511001 = {name ="Thiam" culture=wolof }
+1511002 = {name ="Wade" culture=wolof }
+1511003 = {name ="Diop" culture=wolof }
+1511004 = {name ="Niasse" culture=wolof }
+1511005 = {name ="Mambéty" culture=wolof }
+1511006 = {name ="Dyao" culture=wolof }
+1511007 = {name ="Mbodj" culture=wolof }
+1511008 = {name ="Logar" culture=wolof }
+1511009 = {name ="Tedyek" culture=wolof }
+1511010 = {name ="Ndiaye" culture=wolof }
+1511010 = {name ="Sembène" culture=wolof }
+
+1512000 = {name ="Njie" culture=serer }
+1512001 = {name ="Joof" culture=serer }
+1512002 = {name ="Faye" culture=serer }
+1512003 = {name ="Ngom" culture=serer }
+1512004 = {name ="Sène" culture=serer }
+1512005 = {name ="Dione" culture=serer }
+1512006 = {name ="Tine" culture=serer }
+1512007 = {name ="Loum" culture=serer }
+1512008 = {name ="Ndaw" culture=serer }
+1512009 = {name ="Diène" culture=serer }
+1512010 = {name ="Thiaw" culture=serer }
+1512011 = {name ="Senghor" culture=serer }
+1512012 = {name ="Ndour" culture=serer }
+1512013 = {name ="Gadio" culture=serer }
+1512014 = {name ="Sarr" culture=serer }
+1512015 = {name ="Kama" culture=serer }
+1512016 = {name ="Thior" culture=serer }
+1512017 = {name ="Chareh" culture=serer }
+1512018 = {name ="Dièye" culture=serer }
+1512019 = {name ="Guelowar" culture=serer }
+
+1513000 = {name ="Diedhiou" culture=jola }
+1513001 = {name ="Atepa" culture=jola }
+1513002 = {name ="Jammeh" culture=jola }
+1513003 = {name ="Coly" culture=jola }
+1513004 = {name ="Bocandeh" culture=jola }
+1513005 = {name ="Sagna" culture=jola }
+1513006 = {name ="Tamba" culture=jola }
+1513007 = {name ="Gomis" culture=jola }
+1513008 = {name ="Mendy" culture=jola }
+1513009 = {name ="Lopy" culture=jola }
+
+1514000 = {name ="Ialá" culture=guinensi }
+1514001 = {name ="Na Waie" culture=guinensi }
+1514002 = {name ="Temudo" culture=guinensi }
+1514003 = {name ="Tagme" culture=guinensi }
+1514004 = {name ="Sillá" culture=guinensi }
+1514005 = {name ="Bacai" culture=guinensi }
+1514006 = {name ="Vaz" culture=guinensi }
+1514007 = {name ="Saúde" culture=guinensi }
+1514008 = {name ="Fadul" culture=guinensi }
+1514009 = {name ="Intchama" culture=guinensi }
+1514010 = {name ="Fudut" culture=guinensi }
+1514011 = {name ="Imbali" culture=guinensi }
+1514012 = {name ="Nhassé" culture=guinensi }
+1514013 = {name ="Sissoco" culture=guinensi }
+1514014 = {name ="Ndafa" culture=guinensi }
+1514015 = {name ="Sanhá" culture=guinensi }
+1514016 = {name ="Seabra" culture=guinensi }
+1514017 = {name ="Kuruma" culture=guinensi }
+1514018 = {name ="Nhamadjo" culture=guinensi }
+1514019 = {name ="Serifo" culture=guinensi }
+1514020 = {name ="Katar" culture=guinensi }
+1514021 = {name ="Schwarz" culture=guinensi }
+1514022 = {name ="Bancessi" culture=guinensi }
+1514023 = {name ="Sambú" culture=guinensi }
+1514024 = {name ="Donigio" culture=guinensi }
+1514025 = {name ="Djú" culture=guinensi }
+1514026 = {name ="Ocante" culture=guinensi }
+1514027 = {name ="Jaquité" culture=guinensi }
+1514028 = {name ="Ié" culture=guinensi }
+1514029 = {name ="Na Bangna" culture=guinensi }
+1514030 = {name ="Cassamá" culture=guinensi }
+1514031 = {name ="Soriano" culture=guinensi }
+1514032 = {name ="Jabula" culture=guinensi }
+1514033 = {name ="Bafodé" culture=guinensi }
+1514034 = {name ="Quina" culture=guinensi }
+1514035 = {name ="Indjai" culture=guinensi }
+
 1841000 = {name ="Pieh" culture=mende }
 1841001 = {name ="Demby" culture=mende }
 1841002 = {name ="Margai" culture=mende }
@@ -511,6 +733,28 @@
 1841035 = {name ="Coomber" culture=mende }
 1841036 = {name ="Sheriff" culture=mende }
 1841037 = {name ="Kaingbanja" culture=mende }
+
+1844000 = {name ="Soro" culture=senufo }
+1844001 = {name ="Tondosama" culture=senufo }
+1844002 = {name ="Kangote" culture=senufo }
+1844003 = {name ="Samagassi" culture=senufo }
+1844004 = {name ="Sékongo" culture=senufo }
+1844005 = {name ="Silué" culture=senufo }
+1844006 = {name ="Yéo" culture=senufo }
+1844007 = {name ="Tuho" culture=senufo }
+1844008 = {name ="Ziao" culture=senufo }
+1844009 = {name ="Dona-Fologo" culture=senufo }
+1844010 = {name ="Yédiéti" culture=senufo }
+1844011 = {name ="Yadé" culture=senufo }
+1844012 = {name ="Yardjouma" culture=senufo }
+1844013 = {name ="Djandaga" culture=senufo }
+1844014 = {name ="Yaroyouma" culture=senufo }
+1844015 = {name ="Founzéye" culture=senufo }
+1844016 = {name ="Katiéni" culture=senufo }
+1844017 = {name ="Foohna" culture=senufo }
+1844018 = {name ="Katana" culture=senufo }
+1844019 = {name ="Tiembogo" culture=senufo }
+1844020 = {name ="Pélifor" culture=senufo }
 
 1866000 = {name ="Waris" culture=dagomba }
 1866001 = {name ="Mahama" culture=dagomba }

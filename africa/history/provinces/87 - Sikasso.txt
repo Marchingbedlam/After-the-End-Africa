@@ -12,6 +12,6 @@ b_sikasso_3 = temple
 
 # Misc
 culture = senufo
-religion = catholic
+religion = sunni
 
 #History

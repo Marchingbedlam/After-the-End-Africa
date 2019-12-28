@@ -70,20 +70,6 @@ west_african = {
 		}
 
 	}
-	senegambian = {
-		color = { 0.5 0.35 0.10 }
-		
-		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
-			
-		male_names = {
-			Nyennoh Borforh Monon-Konmlan Soe-Tehpoe Konmlan Tehpoe Pennon Togba Te Jlakon Forkay Nimene Boryee Yenseloh Odeleia Gbwe
-		}
-		
-		female_names = {
-			Arway Donyen Teenesee Jayplo Japlo Sorntee Bloh Wloh Nyonweh Tarloh
-		}
-	}
 	dagomba = {
 		color = { 0 0.4 0 }
 		
@@ -129,7 +115,7 @@ west_african = {
 		}
 	}
 	mossi = {
-		color = { 0 0.4 0 }
+		color = { 0.1 0.4 0.2 }
 		
 		graphical_cultures = { westafricangfx africangfx }
 		secondary_event_pictures = bedouin_arabic
@@ -172,11 +158,25 @@ west_african = {
 		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
-			Nyennoh Borforh Monon-Konmlan Soe-Tehpoe Konmlan Tehpoe Pennon Togba Te Jlakon Forkay Nimene Boryee Yenseloh Odeleia Gbwe
+			Ali
+			Beh 
+			Denan Doh
+			Gonan
+			Kolo Kpoh
+			M'baha Mikanidjo
+			Nagnon N'golo_Ngolo Nongotiala
+			Sidiky Sinan 
+			Tando Tchima Tennina
+			Yalmassa
+			Zana Zié
 		}
 		
 		female_names = {
-			Arway Donyen Teenesee Jayplo Japlo Sorntee Bloh Wloh Nyonweh Tarloh
+			Bara
+			Ghiré Gnaman Gneré Gnon
+			Sibiri
+			Tennindioh
+			Yelé
 		}
 	}
 	kwi = {

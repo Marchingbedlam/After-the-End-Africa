@@ -11,7 +11,7 @@ b_mbour_2 = city
 b_mbour_3 = temple
 
 # Misc
-culture = senegambian
+culture = serer
 religion = catholic
 
 #History
