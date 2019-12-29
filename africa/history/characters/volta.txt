@@ -475,18 +475,18 @@
 ##regular characters
 
 1500210={
-	name="Quobna" #Accra Patrician
-	dynasty=1504018 #Short
-	culture=fante
+	name="Otanka" #Accra Patrician
+	dynasty=1888011 #Quartey
+	culture=ga
 	religion=anglican
 
 	2620.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
 1500211={
-	name="Jabesh" #Accra Patrician
-	dynasty=1504037 #Beretuo
-	culture=fante
+	name="Huldryck" #Accra Patrician
+	dynasty=1888024 #Tagoe
+	culture=ga
 	religion=anglican
 
 	2620.1.1={birth=yes}

@@ -29,25 +29,25 @@ b_roberts = {
 }
 
 ## Accra
-b_short = {
-	culture = fante
-	religion = catholic
+b_quartey = {
+	culture = ga
+	religion = anglican
 }
-b_beretuo = {
-	culture = fante
-	religion = catholic
+b_tagoe = {
+	culture = ga
+	religion = anglican
 }
 b_hawkson = {
 	culture = fante
-	religion = catholic
+	religion = anglican
 }
 b_abohyen = {
 	culture = fante
-	religion = catholic
+	religion = anglican
 }
 b_agyemang = {
 	culture = ashanti
-	religion = catholic
+	religion = anglican
 }
 
 ##Freetown

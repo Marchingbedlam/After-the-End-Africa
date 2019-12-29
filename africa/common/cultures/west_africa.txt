@@ -179,6 +179,48 @@ west_african = {
 			Yelé
 		}
 	}
+	ga = {
+		color = { 1.5 1.5 1.5 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Alfred Amon Arthur Azumah
+			Boris
+			Carl Cecil Charles Christian Clifford Cyril
+			Ebenezer Edwin Emmanuel
+			Frederic_Frederick
+			George Gottlieb Guy
+			Herman_Hermann
+			Isaac Isufu
+			John Joseph
+			Kingsley
+			Lantei Lebrecht
+			Marcel Mlekubo
+			Neville
+			Obo Odarkwei Odonkor Otanka
+			Raphael
+			Saka Seth
+			Theodore Torgbor Tsui
+			William
+			Yacub_Jacob
+		}
+		
+		female_names = {
+			Ashong-Fio
+			Berla
+			Claudia
+			Elizabeth Ernestina
+			Grace
+			Lydia
+			Matilda
+			Pauline
+			Regina
+			Virginia
+			Yvonne
+		}
+	}
 	kwi = {
 		graphical_cultures = { westafricangfx africangfx }
 		unit_graphical_cultures = { westafricangfx africangfx }

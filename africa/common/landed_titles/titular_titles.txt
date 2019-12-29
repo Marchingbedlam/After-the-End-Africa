@@ -1,5 +1,16 @@
+d_accra = {
+	color = { 155 55 155 }
+	color2= { 255 255 255 }
+	capital = 127 #Accra
+
+	culture = ga
+
+	allow = {
+		always = no
+	}
+}
 k_asanteman = {
-	color = { 146 62 176 }
+	color = { 204 106 22 }
 	color2= { 255 255 255 }
 	capital = 123 #Kumasi
 

@@ -323,6 +323,36 @@
 1444038 = {name ="Zada" culture=tuareg }
 1444039 = {name ="Sidi Sidi" culture=tuareg }
 1444040 = {name ="Ag Djeri" culture=tuareg }
+1444041 = {name ="Ag Khebbi" culture=tuareg }
+1444042 = {name ="Taituq" culture=tuareg }
+1444043 = {name ="Idnan" culture=tuareg }
+1444044 = {name ="Ag Bayy" culture=tuareg }
+1444045 = {name ="Hawad" culture=tuareg }
+1444046 = {name ="Ag Alkebir" culture=tuareg }
+1444047 = {name ="Bukemetin" culture=tuareg }
+1444048 = {name ="Ag Alkhazan" culture=tuareg }
+1444049 = {name ="Idwal" culture=tuareg }
+1444050 = {name ="Ag Alhousseyni" culture=tuareg }
+1444051 = {name ="Ag Touhami" culture=tuareg }
+1444052 = {name ="Ag Ayad" culture=tuareg }
+1444053 = {name ="Ag Lamida" culture=tuareg }
+1444054 = {name ="Ag Tahada" culture=tuareg }
+1444055 = {name ="Ag Itlale" culture=tuareg }
+1444056 = {name ="Ag Ossad" culture=tuareg }
+1444057 = {name ="Ahmadelher" culture=tuareg }
+1444058 = {name ="Ag Mossa" culture=tuareg }
+1444059 = {name ="Ag Mohamedine" culture=tuareg }
+1444060 = {name ="Ag Tiglia" culture=tuareg }
+1444061 = {name ="Sidaty" culture=tuareg }
+1444062 = {name ="Ag Ahmed Salam" culture=tuareg }
+1444063 = {name ="Ag Ahmouden" culture=tuareg }
+1444064 = {name ="Ag Borreiba" culture=tuareg }
+1444065 = {name ="Abdamou" culture=tuareg }
+1444066 = {name ="Zeinabou" culture=tuareg }
+1444067 = {name ="Ag Alhabib" culture=tuareg }
+1444068 = {name ="Ag Abil" culture=tuareg }
+1444069 = {name ="Akirwini" culture=tuareg }
+1444070 = {name ="Madassane" culture=tuareg }
 
 1501000 = {name ="Jantuah" culture=ashanti }
 1501001 = {name ="Frefre" culture=ashanti }
@@ -825,7 +855,67 @@
 1877024 = {name ="Sérémé" culture=mossi }
 1877025 = {name ="Diendéré" culture=mossi }
 
-##reserved for Ga
+1888000 = {name ="Lartey" culture=ga }
+1888001 = {name ="Nortey" culture=ga }
+1888002 = {name ="Aryee" culture=ga }
+1888003 = {name ="Poku" culture=ga }
+1888004 = {name ="Lamptey" culture=ga }
+1888005 = {name ="Tetteh" culture=ga }
+1888006 = {name ="Ankrah" culture=ga }
+1888007 = {name ="Odmatten" culture=ga }
+1888008 = {name ="Laryeah" culture=ga }
+1888009 = {name ="Ayitey" culture=ga }
+1888010 = {name ="Okine" culture=ga }
+1888011 = {name ="Quartey" culture=ga }
+1888012 = {name ="Bortey" culture=ga }
+1888013 = {name ="Quaynor" culture=ga }
+1888014 = {name ="Ashong" culture=ga }
+1888015 = {name ="Kotei" culture=ga }
+1888016 = {name ="Hansen" culture=ga }
+1888017 = {name ="Addy" culture=ga }
+1888018 = {name ="Ollennu" culture=ga }
+1888019 = {name ="Griffiths-Randolph" culture=ga }
+1888020 = {name ="Botchway" culture=ga }
+1888021 = {name ="Acquay" culture=ga }
+1888022 = {name ="Hackenburg" culture=ga }
+1888023 = {name ="Armah" culture=ga }
+1888024 = {name ="Tagoe" culture=ga }
+1888025 = {name ="Parkes" culture=ga }
+1888026 = {name ="Hammond" culture=ga }
+1888027 = {name ="Ako-Adjei" culture=ga }
+1888028 = {name ="Doku" culture=ga }
+1888029 = {name ="Tay-Natey" culture=ga }
+1888030 = {name ="Tackie" culture=ga }
+1888031 = {name ="Ofuatey-Kodjoe" culture=ga }
+1888032 = {name ="Clottey" culture=ga }
+1888033 = {name ="Commey" culture=ga }
+1888034 = {name ="Odartey-Wellington" culture=ga }
+1888035 = {name ="Nii-Owoo" culture=ga }
+1888036 = {name ="Torto" culture=ga }
+1888037 = {name ="McKorley" culture=ga }
+1888038 = {name ="Norle" culture=ga }
+1888039 = {name ="Bruce" culture=ga }
+1888040 = {name ="Easmon" culture=ga }
+1888041 = {name ="Osekre" culture=ga }
+1888042 = {name ="Vanderpuye" culture=ga }
+1888043 = {name ="Evans-Anfom" culture=ga }
+1888044 = {name ="Obetsebi" culture=ga }
+1888045 = {name ="Crabbe" culture=ga }
+1888046 = {name ="Trebi" culture=ga }
+1888047 = {name ="Kole" culture=ga }
+1888048 = {name ="Clerk" culture=ga }
+1888049 = {name ="Alabi" culture=ga }
+1888050 = {name ="Akarobettoe" culture=ga }
+1888051 = {name ="Neenyann" culture=ga }
+1888052 = {name ="Carstensen" culture=ga }
+1888053 = {name ="Meyer" culture=ga }
+1888054 = {name ="Reindorf" culture=ga }
+1888055 = {name ="Namoale" culture=ga }
+1888056 = {name ="Warren" culture=ga }
+1888057 = {name ="Quist-Papafio" culture=ga }
+1888058 = {name ="Abossey" culture=ga }
+1888059 = {name ="Konuah" culture=ga }
+1888060 = {name ="Protten" culture=ga }
 
 ##reserved for Ewe
 
@@ -1000,6 +1090,7 @@
 2222125 = { name="Humboldt" culture=sudwester }
 2222126 = { name="Brocherhoff" culture=sudwester }
 2222127 = { name="Vedder" culture=sudwester }
+2222128 = { name="Zwölfaxing" culture=sudwester }
 
 2223000 = { name="Hamutenya" culture=ovambo }
 2223001 = { name="Egumbo" culture=ovambo }

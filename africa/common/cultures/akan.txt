@@ -1,4 +1,4 @@
-###Ã„NSI
+###ÄNSI
 akan = {
 	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
 	graphical_cultures = { muslimgfx }
@@ -11,26 +11,26 @@ akan = {
 			
 		male_names = {
 			Adofo Afuom Agyeman Ahenkro Akwasi Antwi Apraku Asiba
-			"BaduÂ Bonsu" Bafuor Boakye Bonsu
+			"Badu Bonsu" Bafuor Boakye Bonsu
 			Dako Dankwa 
 			Fredua Frefre
 			Gorkeh 
-			Kantanka Karikari Kofi "KofiÂ Nti" Koranteng Krobo Kusi "KusiÂ Obodom" Kwabena Kwadwo Kwaku "KwakuÂ Dua" Kwame Kwasi "KwasiÂ Boachi" "KwesiÂ Kwaa"
-			Mensa "MensaÂ Bonsu"
-			Obeng Obiri "OforiÂ Atta" Oheneba Okomfo Okwan Opanyin "OpokuÂ Ware" Osei "OseiÂ Bonsu" "OseiÂ Kwadwo" "OseiÂ Tutu" Owusu
+			Kantanka Karikari Kofi "Kofi Nti" Koranteng Krobo Kusi "Kusi Obodom" Kwabena Kwadwo Kwaku "Kwaku Dua" Kwame Kwasi "Kwasi Boachi" "Kwesi Kwaa"
+			Mensa "Mensa Bonsu"
+			Obeng Obiri "Ofori Atta" Oheneba Okomfo Okwan Opanyin "Opoku Ware" Osei "Osei Bonsu" "Osei Kwadwo" "Osei Tutu" Owusu
 			Prempeh Preprah 
-			"SeiÂ Ababio"
+			"Sei Ababio"
 			Takyi Twum
 			Wusu 
-			"YawÂ Akoto" Yeboah Yiakosan 
+			"Yaw Akoto" Yeboah Yiakosan 
 		}
 		
 		female_names = {
-			Abenaa Adwoa Afua "AfuaÂ Kobi" Akosua Akua Ama 
+			Abenaa Adwoa Afua "Afua Kobi" Akosua Akua Ama 
 			Dayan 
 			Kyirama
 			Sewaa
-			Yaa "YaaÂ Akyaa"
+			Yaa "Yaa Akyaa"
 		}
 
 	}
@@ -47,8 +47,8 @@ akan = {
 			George Ghartey Godfred Gyearbuor 
 			Hendrick Horace
 			Isaac Ivan
-			Jabesh Jacob James "JamesÂ Kwesi" John Jones Joseph 
-			Kodwo_Kwadwo Kofi Komfo-Amona Ko-Yanfu Kurt Kwamena "KwakuÂ Peter" "KwawÂ Wilson" Kweku_Kwaku "KwekuÂ Atta" Kwesi_Kwasi
+			Jabesh Jacob James "James Kwesi" John Jones Joseph 
+			Kodwo_Kwadwo Kofi Komfo-Amona Ko-Yanfu Kurt Kwamena "Kwaku Peter" "Kwaw Wilson" Kweku_Kwaku "Kweku Atta" Kwesi_Kwasi
 			Linford Lovelace
 			Maanan Manfred Mensa
 			Odapagya Ottobah Owusu
@@ -85,53 +85,53 @@ akan = {
 		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
-			Abo Adje Adrien_Adrian Agpatou AimÃ© Albert AmÃ©dÃ©e_Amadeus Ange Arnaud Augustin 
+			Abo Adje Adrien_Adrian Agpatou Aimé Albert Amédée_Amadeus Ange Arnaud Augustin 
 			Benjamin Bernard Bertin Bonaventure Boniface
-			CÃ©sar_Caesar Charles ClÃ©mence_Clement CyraÃ¯que 
-			DÃ©sirÃ© Dia Didier DieudonnÃ© Diezou 
-			Edgard_Edgar ElysÃ©e Euloge EuphraÃ¯m_Ephraim Evariste Eyiou
-			Fabrice FÃ©lix_Felix Fidel Florent Franck_Francis FrÃ©dÃ©ric_Frederick FrÃ©jus
+			César_Caesar Charles Clémence_Clement Cyraïque 
+			Désiré Dia Didier Dieudonné Diezou 
+			Edgard_Edgar Elysée Euloge Euphraïm_Ephraim Evariste Eyiou
+			Fabrice Félix_Felix Fidel Florent Franck_Francis Frédéric_Frederick Fréjus
 			Gauz Gbro Gilbert Gnanvou Guillaume_William 
-			Henri_Henry HervÃ©
-			Innocent IsmaÃ«l_Ishmael 
-			Jean_John Jeremie_Jeremy JoÃ«l_Joel JosuÃ©_Joshua
-			Kacou Kago KÃ©vin_Kevin Koelly Koffi_Kofi Konan Kouadio Kouakou KouamÃ©_Kwame Kouassi KragbÃ©
-			Landry Laurent_Laurence Lazare_Lazarus LÃ©onard_Leonard Loukou 
-			Martiale Mathurin Michel_Michael MoÃ¯se_Moses
-			Narcisse N'Cho N'Doli N'Goran N'Guessan NoÃ«l 
-			Olivier_Oliver O'PlÃ©rou 
+			Henri_Henry Hervé
+			Innocent Ismaël_Ishmael 
+			Jean_John Jeremie_Jeremy Joël_Joel Josué_Joshua
+			Kacou Kago Kévin_Kevin Koelly Koffi_Kofi Konan Kouadio Kouakou Kouamé_Kwame Kouassi Kragbé
+			Landry Laurent_Laurence Lazare_Lazarus Léonard_Leonard Loukou 
+			Martiale Mathurin Michel_Michael Moïse_Moses
+			Narcisse N'Cho N'Doli N'Goran N'Guessan Noël 
+			Olivier_Oliver O'Plérou 
 			Pacome Pascal Pharace
 			Richard Rodrigue_Roderick Romaric
-			Salarier Seraphin SÃ©verin Sylvestre_Sylvester
+			Salarier Seraphin Séverin Sylvestre_Sylvester
 			Thierry Tuo 
-			VencÃ©slasse_Wenceslaus Verges
+			Vencéslasse_Wenceslaus Verges
 			Yann Yao_Yaw Yoman Yves
 
-			Kouassi Kouassi Kouadio Kouadio Konan Konan Kouakou Kouakou Yao Yao Koffi Koffi KouamÃ© KouamÃ©
+			Kouassi Kouassi Kouadio Kouadio Konan Konan Kouakou Kouakou Yao Yao Koffi Koffi Kouamé Kouamé
 		}
 		
 		female_names = {
-			Abla Adjoua AffouÃ© Akissi Akwa Ahou Amenan Amoin Amlan Annick Aya
-			BÃ©atrice_Beatrice Bienvenue 
+			Abla Adjoua Affoué Akissi Akwa Ahou Amenan Amoin Amlan Annick Aya
+			Béatrice_Beatrice Bienvenue 
 			Claudine
-			D'Arc DÃ©bora_Deborah
+			D'Arc Débora_Deborah
 			Edwige_Hedwig Elaudie_Elody Elisabeth Epiphanie
 			Faitai Flaure
 			Gaelle
 			Helene_Helen 
-			ImmaculÃ©e 
+			Immaculée 
 			Jeanne Jocelyne Josette
 			Kimou 
 			Laeticia 
 			Magloire Marie_Marie Moya
 			Nicole
 			Pokou
-			RÃ©gina_Regina Roseline Ruth 
-			Sarah Simone StÃ©phanie_Stephanie Sylvie 
+			Régina_Regina Roseline Ruth 
+			Sarah Simone Stéphanie_Stephanie Sylvie 
 			Victorine_Victoria
 			Yamousso 
 			
-			Akissi Akissi Adjoua Adjoua Amenan Amenan Ahou Ahou Aya Aya AffouÃ© AffouÃ© Amoin Amoin 
+			Akissi Akissi Adjoua Adjoua Amenan Amenan Ahou Ahou Aya Aya Affoué Affoué Amoin Amoin 
 		} 
 
 	}

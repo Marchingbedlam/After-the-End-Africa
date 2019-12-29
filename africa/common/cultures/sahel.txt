@@ -50,25 +50,37 @@ sahel = {
 		color = { 0.9 0.8 0 }
 		
 		male_names = {
-			Acharif Aghaly Aklou Alghabass Amoumene
+			Abdallah_Abdullah Acharif Aghaly Ahmoudou_Ahmed Akhamuk Aklou Alghabass Alhassane_Alhassan Amellal Amoumene Attici Aytarel
 			Bilal Boutali Brigi
-			Chehna
+			Chehna Cheick_Sheikh
+			Eyadou
+			Farhat
 			Hamid Hassane_Hasan
-			Ibrahim_Abraham Issouf Iyad_Jyad
-			Kaocen
-			Mahmoud_Mahmud Mano Mdou Mohamed_Mohammed Mokhtar_Mukhtar Moussa_Musa
-			Oueld
+			Ibrahim_Abraham Inteyeden Issouf Iyad_Jyad
+			Kaocen Keddou Khalid
+			Liya
+			Mabruk_Mubarak Mahmoud_Mahmud Mano Mdou Meslar Mohamed_Mohammed Mokhtar_Mukhtar Mossa_Musa
 			Rhissa
-			Seydou Sidi
+			Salah Seydou Sidi
+			Waffa
+			Yunus_Jonas
 			Zodi
 		}
 		female_names = {
-			Fatimana_Fatima
+			Aichouch_Aisha
+			Bassa
+			Fatimana_Fatima Fatou Fidan
 			Malika Mariama_Mary
 			Nina
 			Tin-Hinan
+			Wonou
+			Zemfira
 		}
 		
 		founder_named_dynasties = yes
+
+		male_patronym = "Ag "
+		female_patronym = "Walet "
+		prefix = yes 
 	}
 }

@@ -4,8 +4,8 @@
 	law = succ_gavelkind
 }
 2300.1.1={
-	liege=k_asanteman
+	liege=d_accra
 }
 2660.1.1={
-	holder=1500228
+	holder=1500210
 }
