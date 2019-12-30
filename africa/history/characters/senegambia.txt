@@ -1,0 +1,36 @@
+1522000={
+	name="Chérif"
+	dynasty=1511007
+	culture=wolof
+	religion=sunni
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1522001={
+	name="Njekeh"
+	dynasty=1512016
+	culture=serer
+	religion=sunni
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1522002={
+	name="Robert"
+	dynasty=1513003
+	culture=jola
+	religion=sunni
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1522003={
+	name="Cellou"
+	dynasty=1406030
+	culture=fula
+	religion=sunni
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}

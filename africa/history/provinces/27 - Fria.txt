@@ -1,7 +1,7 @@
 # c_tanene
 
 # County Title
-title = c_tanene
+title = c_fria
 
 # Settlements
 max_settlements = 3

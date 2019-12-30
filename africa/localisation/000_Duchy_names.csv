@@ -39,6 +39,8 @@ d_grand_gedeh;Grand Gedeh;Grand Gedeh;Grand Gedeh;;Grand Gedeh;;;;;;;;;x
 d_grand_gedeh_adj;Grand Gedehian;;Grand Gedeher;;;;;;;;;;;x
 d_kaffrine;Kaffrine;Kaffrine;Kaffrine;;Kaffrine;;;;;;;;;x
 d_kaffrine_adj;Kaffrinean;;kaffriner;;;;;;;;;;;x
+d_kankan;Kankan;Kankan;Kankan;;Kankan;;;;;;;;;x
+d_kankan_adj;Kankan;;kankaner;;;;;;;;;;;x
 d_kayes;Kayes;Kayes;Kayes;;Kayes;;;;;;;;;x
 d_kayes_adj;Kayesian;;kayeser;;;;;;;;;;;x
 d_kerouane;Kérouané;Kérouané;Kérouané;;Kérouané;;;;;;;;;x
@@ -73,6 +75,8 @@ d_mouhoun;Mouhoun;Mouhoun;Mouhoun;;Mouhoun;;;;;;;;;x
 d_mouhoun_adj;Mouhounian;;mouhouner;;;;;;;;;;;x
 d_niger;Niger;Niger;Niger;;Niger;;;;;;;;;x
 d_niger_adj;Nigerian;;nigerer;;;;;;;;;;;x
+d_nzerekore;Nzérékoré;Nzérékoré;Nzérékoré;;Nzérékoré;;;;;;;;;x
+d_nzerekore_adj;Nzérékoréian;;nzérékoréer;;;;;;;;;;;x
 d_oti;Oti;Oti;Oti;;Oti;;;;;;;;;x
 d_oti_adj;Otian;;oter;;;;;;;;;;;x
 d_sahel;Sahel;Sahel;Sahel;;Sahel;;;;;;;;;x

@@ -6,9 +6,7 @@ title = c_ouahigouya
 # Settlements
 max_settlements = 3
 
-b_ouahigouya = castle
-b_ouahigouya_2 = city
-b_ouahigouya_3 = temple
+b_ouahigouya = tribal
 
 # Misc
 culture = mossi

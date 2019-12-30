@@ -6,9 +6,7 @@ title = c_tongomayel
 # Settlements
 max_settlements = 3
 
-b_tongomayel = castle
-b_tongomayel_2 = city
-b_tongomayel_3 = temple
+b_tongomayel = tribal
 
 # Misc
 culture = mossi

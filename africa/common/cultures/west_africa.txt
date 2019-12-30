@@ -130,7 +130,7 @@ west_african = {
 			Ibrahim_Abraham Ismaël_Ishmael Issiaka_Isaac Issoufou 
 			Jean_John Jonathan 
 			Kango Karfo Kimba Kom Korongo Kouda Kougri Kourita Koutou
-			Louckmane
+			Louckmane_Lukman
 			Mamadou_Mohammed Maurice Michel_Michael Motiba Moussa_Moses Moustapha_Mustafa
 			Nakien-Zanga Nakim Namégué Nasbiré Naskiémde Niandfo Nyambre
 			Ouali_Ali Oubri Ouezzin Ousmane_Osman

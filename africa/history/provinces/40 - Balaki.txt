@@ -1,7 +1,7 @@
 # c_mali_dabola
 
 # County Title
-title = c_mali_dabola
+title = c_balaki
 
 # Settlements
 max_settlements = 3

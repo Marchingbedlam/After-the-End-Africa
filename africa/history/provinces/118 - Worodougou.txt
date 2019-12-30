@@ -6,9 +6,7 @@ title = c_worodougou
 # Settlements
 max_settlements = 3
 
-b_worodougou = castle
-b_worodougou_2 = city
-b_worodougou_3 = temple
+b_worodougou = tribal
 
 # Misc
 culture = malinke

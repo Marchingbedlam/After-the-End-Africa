@@ -85,6 +85,8 @@ c_forecariah;Forécariah;Forécariah;Forécariah;;Forécariah;;;;;;;;;x
 c_forecariah_adj;Forécariahian;;forécariaher;;;;;;;;;;;x
 c_freetown;Freetown;Freetown;Freetown;;Freetown;;;;;;;;;x
 c_freetown_adj;Freetownian;;freetowner;;;;;;;;;;;x
+c_fria;Fria;Fria;Fria;;Fria;;;;;;;;;x
+c_fria_adj;Frian;;frier;;;;;;;;;;;x
 c_gambia;Gambia;Gambia;Gambia;;Gambia;;;;;;;;;x
 c_gambia_adj;Gambian;;gamber;;;;;;;;;;;x
 c_gao;Gao;Gao;Gao;;Gao;;;;;;;;;x
@@ -111,6 +113,8 @@ c_grand_bassa;Grand Bassa;Grand Bassa;Grand Bassa;;Grand Bassa;;;;;;;;;x
 c_grand_bassa_adj;Grand Bassan;;Grand Basser;;;;;;;;;;;x
 c_grand_cape;Grand Cape;Grand Cape;Grand Cape;;Grand Cape;;;;;;;;;x
 c_grand_cape_adj;Grand Capean;;Grand Caper;;;;;;;;;;;x
+c_guekedou;Guékédou;Guékédou;Guékédou;;Guékédou;;;;;;;;;x
+c_guekedou_adj;Guékédien;;guékéder;;;;;;;;;;;x
 c_hambol;Hambol;Hambol;Hambol;;Hambol;;;;;;;;;x
 c_hambol_adj;Hambolian;;hamboler;;;;;;;;;;;x
 c_haut_sassandra;Haut-Sassandra;Haut-Sassandra;Haut-Sassandra;;Haut-Sassandra;;;;;;;;;x
@@ -187,14 +191,14 @@ c_loh_djiboua;Loh-Djiboua;Loh-Djiboua;Loh-Djiboua;;Loh-Djiboua;;;;;;;;;x
 c_loh_djiboua_adj;Loh-Djibouan;;loh-djiber;;;;;;;;;;;x
 c_loko;Loko;Loko;Loko;;Loko;;;;;;;;;x
 c_loko_adj;Lokian;;loker;;;;;;;;;;;x
+c_lola;Lola;Lola;Lola;;Lola;;;;;;;;;x
+c_lola_adj;Lolian;;loler;;;;;;;;;;;x
 c_macenta;Macenta;Macenta;Macenta;;Macenta;;;;;;;;;x
 c_macenta_adj;Macentan;;macenter;;;;;;;;;;;x
 c_macina;Macina;Macina;Macina;;Macina;;;;;;;;;x
 c_macina_adj;Macinan;;maciner;;;;;;;;;;;x
-c_mali_dabola;Mali-Dabola;Mali-Dabola;Mali-Dabola;;Mali-Dabola;;;;;;;;;x
-c_mali_dabola_adj;Mali-Dabolan;;mali-daboler;;;;;;;;;;;x
-c_mali_labe;Mali-Labé;Mali-Labé;Mali-Labé;;Mali-Labé;;;;;;;;;x
-c_mali_labe_adj;Mali-Labéian;;mali-labéer;;;;;;;;;;;x
+c_mali;Mali;Mali;Mali;;Mali;;;;;;;;;x
+c_mali_adj;Malian;;malier;;;;;;;;;;;x
 c_mamou;Mamou;Mamou;Mamou;;Mamou;;;;;;;;;x
 c_mamou_adj;Mamian;;mamer;;;;;;;;;;;x
 c_manaka;Manaka;Manaka;Manaka;;Manaka;;;;;;;;;x
@@ -305,6 +309,8 @@ c_tongomayel;Tongomayel;Tongomayel;Tongomayel;;Tongomayel;;;;;;;;;x
 c_tongomayel_adj;Tongomayelian;;tongomayeler;;;;;;;;;;;x
 c_tonkolili;Tonkolili;Tonkolili;Tonkolili;;Tonkolili;;;;;;;;;x
 c_tonkolili_adj;Tonkolilian;;tonkolilier;;;;;;;;;;;x
+c_tougue;Tougué;Tougué;Tougué;;Tougué;;;;;;;;;x
+c_tougue_adj;Touguér;;touguér;;;;;;;;;;;x
 c_tumu;Tumu;Tumu;Tumu;;Tumu;;;;;;;;;x
 c_tumu_adj;Tumian;;tumer;;;;;;;;;;;x
 c_worodougou;Worodougou;Worodougou;Worodougou;;Worodougou;;;;;;;;;x

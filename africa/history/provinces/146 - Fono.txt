@@ -6,9 +6,7 @@ title = c_fono
 # Settlements
 max_settlements = 3
 
-b_fono = castle
-b_fono_2 = city
-b_fono_3 = temple
+b_fono = tribal
 
 # Misc
 culture = mossi

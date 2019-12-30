@@ -40,7 +40,7 @@ portuguese = {
 		color = { 0.4 0.6 0.1 }
 		
 		male_names = {
-			Abílio Afonso_Alphonse Aguinaldo Aires Alexandre_Alexander Albertino_Albert Alfredo_Alfred Álvaro_Oliver Amilcar_Hamilcar André_Andrew António_Anthony Aristides Arménio_Herman Augusto_Augustus
+			Abílio Afonso_Alphonse Aguinaldo Aires Alexandre_Alexander Albertino_Albert Alfredo_Alfred Álvaro_Oliver Amílcar_Hamilcar André_Andrew António_Anthony Aristides Arménio_Herman Augusto_Augustus
 			Baltasar_Balthazar Bartolomeu_Bartholomew Basílio_Basil Bermudo
 			Caetano_Gaetan Carlos_Carl César_Caesar Cleófas_Cleophas Corsino
 			Damião_Damian Dinis Diogo_Diego Domingos Donaldo_Donald Duarte
@@ -56,7 +56,7 @@ portuguese = {
 			Octávio_Octavian Odaïr Óscar Osvaldo_Oswald Ovídio_Ovid
 			Paio_Pelagius Paulo_Paul Pedro_Peter Pôncio_Pons
 			Rafael_Raphael Raimundo_Raymond Renato Ricardo_Richard Rogério_Roger Ruben Rui_Roderick
-			Sancho Soeiro_Suero Sebastião_Sebastian Silvino Simão_Simon
+			Sancho Sérgio_Sergius Soeiro_Suero Sebastião_Sebastian Silvino Simão_Simon
 			Teodósio_Theodosius Theodorico_Theodoric Tito_Titus
 			Ulisses_Ulysses Uriel
 			Vasco Vicente_Vincent Viriato
@@ -107,7 +107,57 @@ portuguese = {
 		mat_grm_name_chance = 15
 		mother_name_chance = 15
 	}
+	guinensi = {
+		color = { 0.2 0.2 0.2 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Adolfo_Adolf Adul Aliu_Ali Ansumane António_Anthony
+			Baciro_Bakr Benjamin Batista Braíma Bruno Buomesca
+			Caetano_Gaetan Carlos_Carl Cedate Constantino_Constantine
+			Desejado Dionísio_Dionysus Domingos_Dominic
+			Edivaldo Esmaël_Ishmael
+			Fernando_Ferdinand Francisco_Francis Fretïmio
+			Geremias_Jeremiah
+			Henrique_Henry
+			Ibraima_Abraham Idrisa Inocêncio_Innocent Inzaghi
+			Jorge_George José_Joseph Juvenal
+			Kumba
+			Luís_Louis
+			Malam Manconi Manuel_Emmanuel Mário_Marius Martino_Martin Mésaque Moreto Mutaro
+			Nino
+			Odiquir
+			Romário
+			Saido_Said Samori_Samory Sufrim
+			Tijane
+			Umaro_Omar
+			Vasco Vlamecir
+			Yalany Yaya_John
+			Zamora
+		}
+		
+		female_names = {
+			Antonieta
+			Cadi Carla Carmen
+			Eneida
+			Fátima_Fatima Filomena Flora Francisca
+			Henriqueta
+			Iva
+			Jacira Joacine
+			Maria_Mary
+			Odete
+			Pampa
+			Rosa
+			Titina
+		}
 
+		from_dynasty_prefix = "de "
+		male_patronym = "es"
+		female_patronym = "es"
+		grammar_transform = spanish
+	}
 	mestico = {
 		graphical_cultures = { southerngfx andalusiangfx muslimgfx }
 		color = { 0.4 0.6 0.1 }

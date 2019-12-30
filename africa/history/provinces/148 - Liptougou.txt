@@ -6,9 +6,7 @@ title = c_liptougou
 # Settlements
 max_settlements = 3
 
-b_liptougou = castle
-b_liptougou_2 = city
-b_liptougou_3 = temple
+b_liptougou = tribal
 
 # Misc
 culture = mossi

@@ -1,7 +1,7 @@
 # c_kissidougou
 
 # County Title
-title = c_kissidougou
+title = c_guekedou
 
 # Settlements
 max_settlements = 3

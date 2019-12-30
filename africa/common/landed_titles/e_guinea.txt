@@ -388,9 +388,182 @@ e_guinea = {
 		color={ 159 125 98 }
 		color2={ 255 255 255 }
 		
-		capital = 19 # c_loko
-		culture = mende
+		capital = 35 # c_siguiri
+		culture = malinke
 		
+		d_kankan = {
+			color={ 64 99 90 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 35 province_id = 36 province_id = 37 province_id = 38 } }
+				}
+			}
+			capital = 35 # c_siguiri
+			
+			c_siguiri = { # 35
+				color={ 54 109 85 }
+				color2={ 255 255 255 }
+				
+				b_siguiri = {
+				}
+				b_siguiri_2 = {
+				}
+				b_siguiri_3 = {
+				}
+			}
+			c_dinguiraye = { # 37
+				color={ 5 56 34 }
+				color2={ 255 255 255 }
+				
+				b_dinguiraye = {
+				}
+				b_dinguiraye_2 = {
+				}
+				b_dinguiraye_3 = {
+				}
+			}
+			c_kouroussa = { # 38
+				color={ 38 143 97 }
+				color2={ 255 255 255 }
+				
+				b_kouroussa = {
+				}
+				b_kouroussa_2 = {
+				}
+				b_kouroussa_3 = {
+				}
+			}
+			c_mandiana = { # 36
+				color={ 23 101 67 }
+				color2={ 255 255 255 }
+				
+				b_mandiana = {
+				}
+				b_mandiana_2 = {
+				}
+				b_mandiana_3 = {
+				}
+			}
+		}
+		d_faranah = {
+			color={ 41 130 96 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 42 province_id = 43 province_id = 44 } }
+				}
+			}
+			capital = 42 # c_faranah
+			
+			c_faranah = { # 42
+				color={ 31 140 91 }
+				color2={ 255 255 255 }
+				
+				b_faranah = {
+				}
+				b_faranah_2 = {
+				}
+				b_faranah_3 = {
+				}
+			}
+			c_banfele = { # 44
+				color={ 56 147 107 }
+				color2={ 255 255 255 }
+				
+				b_banfele = {
+				}
+				b_banfele_2 = {
+				}
+				b_banfele_3 = {
+				}
+			}
+			c_guekedou = { # 43
+				color={ 62 173 125 }
+				color2={ 255 255 255 }
+				
+				b_kissidougou = {
+				}
+				b_kissidougou_2 = {
+				}
+				b_kissidougou_3 = {
+				}
+			}
+		}
+		d_nzerekore = {
+			color={ 43 80 70 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 45 province_id = 46 province_id = 47 province_id = 48 } }
+				}
+			}
+			capital = 45 # c_kerouane
+			
+			c_lola = { # 45
+				color={ 33 90 65 }
+				color2={ 255 255 255 }
+				
+				b_kerouane = {
+				}
+				b_kerouane_2 = {
+				}
+				b_kerouane_3 = {
+				}
+			}
+			c_beyla = { # 48
+				color={ 48 118 87 }
+				color2={ 255 255 255 }
+				
+				b_beyla = {
+				}
+				b_beyla_2 = {
+				}
+				b_beyla_3 = {
+				}
+			}
+			c_kankan = { # 46
+				color={ 22 164 101 }
+				color2={ 255 255 255 }
+				
+				b_kankan = {
+				}
+				b_kankan_2 = {
+				}
+				b_kankan_3 = {
+				}
+			}
+			c_macenta = { # 47
+				color={ 38 147 98 }
+				color2={ 255 255 255 }
+				
+				b_macenta = {
+				}
+				b_macenta_2 = {
+				}
+				b_macenta_3 = {
+				}
+			}
+			c_nzerekore = { # 11
+				color={ 111 38 38 }
+				color2={ 255 255 255 }
+				
+				b_nzerekore = {
+				}
+				b_irie = {
+				}
+				b_kobela = {
+				}
+				b_pale = {
+				}
+			}
+		}
 		d_boke = {
 			color={ 129 130 59 }
 			color2={ 255 255 255 }
@@ -403,7 +576,7 @@ e_guinea = {
 			}
 			capital = 27 # c_tanene
 			
-			c_tanene = { # 27
+			c_fria = { # 27
 				color={ 119 140 54 }
 				color2={ 255 255 255 }
 				
@@ -566,7 +739,7 @@ e_guinea = {
 				b_labe_2 = {
 				}
 			}
-			c_mali_labe = { # 32
+			c_mali = { # 32
 				color={ 129 148 69 }
 				color2={ 255 255 255 }
 				
@@ -590,7 +763,7 @@ e_guinea = {
 			}
 			capital = 39 # c_pita
 			
-			c_pita = { # 39
+			c_tougue = { # 39
 				color={ 53 106 82 }
 				color2={ 255 255 255 }
 				
@@ -612,7 +785,7 @@ e_guinea = {
 				b_dabola_3 = {
 				}
 			}
-			c_mali_dabola = { # 40
+			c_balaki = { # 40
 				color={ 27 103 70 }
 				color2={ 255 255 255 }
 				
@@ -621,187 +794,6 @@ e_guinea = {
 				b_mali_dabola_2 = {
 				}
 				b_mali_dabola_3 = {
-				}
-			}
-		}
-	}
-	k_fouta_djallon = {
-		color={ 84 79 100 }
-		color2={ 255 255 255 }
-		
-		capital = 35 # c_siguiri
-		culture = malinke
-		
-		d_kouroussa = {
-			color={ 64 99 90 }
-			color2={ 255 255 255 }
-			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 35 province_id = 36 province_id = 37 province_id = 38 } }
-				}
-			}
-			capital = 35 # c_siguiri
-			
-			c_siguiri = { # 35
-				color={ 54 109 85 }
-				color2={ 255 255 255 }
-				
-				b_siguiri = {
-				}
-				b_siguiri_2 = {
-				}
-				b_siguiri_3 = {
-				}
-			}
-			c_dinguiraye = { # 37
-				color={ 5 56 34 }
-				color2={ 255 255 255 }
-				
-				b_dinguiraye = {
-				}
-				b_dinguiraye_2 = {
-				}
-				b_dinguiraye_3 = {
-				}
-			}
-			c_kouroussa = { # 38
-				color={ 38 143 97 }
-				color2={ 255 255 255 }
-				
-				b_kouroussa = {
-				}
-				b_kouroussa_2 = {
-				}
-				b_kouroussa_3 = {
-				}
-			}
-			c_mandiana = { # 36
-				color={ 23 101 67 }
-				color2={ 255 255 255 }
-				
-				b_mandiana = {
-				}
-				b_mandiana_2 = {
-				}
-				b_mandiana_3 = {
-				}
-			}
-		}
-		d_faranah = {
-			color={ 41 130 96 }
-			color2={ 255 255 255 }
-			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 42 province_id = 43 province_id = 44 } }
-				}
-			}
-			capital = 42 # c_faranah
-			
-			c_faranah = { # 42
-				color={ 31 140 91 }
-				color2={ 255 255 255 }
-				
-				b_faranah = {
-				}
-				b_faranah_2 = {
-				}
-				b_faranah_3 = {
-				}
-			}
-			c_banfele = { # 44
-				color={ 56 147 107 }
-				color2={ 255 255 255 }
-				
-				b_banfele = {
-				}
-				b_banfele_2 = {
-				}
-				b_banfele_3 = {
-				}
-			}
-			c_kissidougou = { # 43
-				color={ 62 173 125 }
-				color2={ 255 255 255 }
-				
-				b_kissidougou = {
-				}
-				b_kissidougou_2 = {
-				}
-				b_kissidougou_3 = {
-				}
-			}
-		}
-		d_kerouane = {
-			color={ 43 80 70 }
-			color2={ 255 255 255 }
-			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 45 province_id = 46 province_id = 47 province_id = 48 } }
-				}
-			}
-			capital = 45 # c_kerouane
-			
-			c_kerouane = { # 45
-				color={ 33 90 65 }
-				color2={ 255 255 255 }
-				
-				b_kerouane = {
-				}
-				b_kerouane_2 = {
-				}
-				b_kerouane_3 = {
-				}
-			}
-			c_beyla = { # 48
-				color={ 48 118 87 }
-				color2={ 255 255 255 }
-				
-				b_beyla = {
-				}
-				b_beyla_2 = {
-				}
-				b_beyla_3 = {
-				}
-			}
-			c_kankan = { # 46
-				color={ 22 164 101 }
-				color2={ 255 255 255 }
-				
-				b_kankan = {
-				}
-				b_kankan_2 = {
-				}
-				b_kankan_3 = {
-				}
-			}
-			c_macenta = { # 47
-				color={ 38 147 98 }
-				color2={ 255 255 255 }
-				
-				b_macenta = {
-				}
-				b_macenta_2 = {
-				}
-				b_macenta_3 = {
-				}
-			}
-			c_nzerekore = { # 11
-				color={ 111 38 38 }
-				color2={ 255 255 255 }
-				
-				b_nzerekore = {
-				}
-				b_irie = {
-				}
-				b_kobela = {
-				}
-				b_pale = {
 				}
 			}
 		}

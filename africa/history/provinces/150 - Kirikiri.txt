@@ -6,9 +6,7 @@ title = c_kirikiri
 # Settlements
 max_settlements = 3
 
-b_kirikiri = castle
-b_kirikiri_2 = city
-b_kirikiri_3 = temple
+b_kirikiri = tribal
 
 # Misc
 culture = mossi

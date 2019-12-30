@@ -1,0 +1,55 @@
+1453000={
+	name="Bénéwendé"
+	dynasty=1877004
+	culture=mossi
+	religion=sunni
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1453001={
+	name="Louckmane"
+	dynasty=1877016
+	culture=mossi
+	religion=sunni
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1453002={
+	name="Saïdou"
+	dynasty=1405001
+	culture=songhai
+	religion=sunni
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1453003={
+	name="Kourita"
+	dynasty=1877015
+	culture=mossi
+	religion=sunni
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1453004={
+	name="Souleymane"
+	dynasty=1877021
+	culture=mossi
+	religion=sunni
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1453005={
+	name="Kasém"
+	dynasty=1877016
+	culture=mossi
+	religion=sunni
+	father=1453001
+
+	2650.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}

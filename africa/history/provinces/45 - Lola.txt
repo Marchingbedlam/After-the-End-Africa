@@ -1,14 +1,14 @@
-# c_pita
+# c_kerouane
 
 # County Title
-title = c_pita
+title = c_lola
 
 # Settlements
 max_settlements = 3
 
-b_pita = castle
-b_pita_2 = city
-b_pita_3 = temple
+b_kerouane = castle
+b_kerouane_2 = city
+b_kerouane_3 = temple
 
 # Misc
 culture = malinke

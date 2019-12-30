@@ -12,7 +12,7 @@ senegambian = {
 		male_names = {
 			Abdoulaye_Abdullah Ahmad_Ahmed Alboury Ali "Aram Bakar" Assane_Hassan
 			Bakan-Tam Birayam Borso Bukaar_Abu-Bakr Buri-Nyabu
-			Cheick_Sheikh
+			Cheick_Sheikh Chérif_Sheriff
 			Détié-Fou Djibril_Gabriel Dyakher Dyelen
 			Eter
 			"Fara Penda"
@@ -94,44 +94,6 @@ senegambian = {
 		
 		female_names = {
 			Hortense
-		}
-	}
-
-	guinensi = {
-		color = { 0.2 0.2 0.2 }
-		
-		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
-			
-		male_names = {
-			Adul Aliu_Ali Ansumane António_Anthony
-			Baciro_Bakr Braíma Batista Buomesca
-			Caetano_Gaetan Carlos_Carl Constantino_Constantine
-			Dionísio_Dionysus Domingos_Dominic
-			Esmaël_Ishmael
-			Francisco_Francis
-			Geremias_Jeremiah
-			Henrique_Henry
-			Ibraima_Abraham Idrisa Inzaghi
-			Jorge_George José_Joseph
-			Kumba
-			Luís_Louis
-			Malam Manconi Manuel_Emmanuel Mário_Marius Martino_Martin Mésaque Moreto Mutaro
-			Nino
-			Odiquir
-			Romário
-			Saido_Said Samori_Samory Sufrim
-			Umaro_Omar
-			Vlamecir
-			Yalany
-		}
-		
-		female_names = {
-			Carmen
-			Fátima_Fatima
-			Joacine
-			Maria_Mary
-			Odete
 		}
 	}
 }

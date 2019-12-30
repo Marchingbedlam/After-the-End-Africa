@@ -6,9 +6,7 @@ title = c_niamey
 # Settlements
 max_settlements = 3
 
-b_niamey = castle
-b_niamey_2 = city
-b_niamey_3 = temple
+b_niamey = tribal
 
 # Misc
 culture = songhai

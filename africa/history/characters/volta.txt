@@ -572,9 +572,9 @@
 }
 
 1500230={
-	name="Issahaku" 
-	dynasty=1866009
-	culture=dagomba
+	name="Kpoh" 
+	dynasty=1844017
+	culture=senufo
 	religion=sunni
 
 	2630.1.1={birth=yes}
@@ -590,8 +590,8 @@
 	2700.1.1={death=yes}
 }
 1500232={
-	name="Sulemana" 
-	dynasty=1866036
+	name="Issahaku" 
+	dynasty=1866009
 	culture=dagomba
 	religion=sunni
 

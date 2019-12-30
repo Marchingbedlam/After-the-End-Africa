@@ -1,8 +1,75 @@
-200={
+1914000={
+	name="Alfredo"
+	dynasty=1901019 #Pereira
+	culture=verdean
+	religion=catholic
+	trait=tough_soldier
+	trait=ambitious
+	trait=paranoid
+
+	2627.7.24={ birth=yes }
+	2700.0.0={ death=yes }
+}
+1914001={
+	name="Abel"
+	dynasty=1901041 #Cabral
+	culture=guinensi
+	religion=catholic
+	martial=8
+	learning=8
+	trait=skilled_administrator
+	trait=ambitious
+	trait=gardener
+	trait=shrewd
+	trait=gregarious
+	trait=trusting 
+
+	2633.9.12={ birth=yes }
+	2700.0.0={ death=yes }
+}
+1914002={
+	name="Sérgio"
+	dynasty=1901021 #Furtado
+	culture=verdean
+	religion=catholic
+	trait=skilled_administrator
+	trait=poet
+	trait=diligent
+
+	2630.7.16={ birth=yes }
+	2700.0.0={ death=yes }
+}
+1914003={
+	name="Corsino"
+	dynasty=1901025 #Fortes
+	culture=verdean
+	religion=catholic
+	trait=skilled_negotiator
+	trait=cynical
+	trait=erudite
+
+	2622.2.14={ birth=yes }
+	2700.0.0={ death=yes }
+}
+1914004={
+	name="Germano"
+	dynasty=1901002 #Silva
+	culture=verdean
+	religion=catholic
+	trait=indulgent_wastrel
+	trait=lustful
+	trait=charitable
+	trait=shrewd
+	trait=arbitrary
+
+	2640.2.14={ birth=yes }
+	2700.0.0={ death=yes }
+}
+1914200={
 	name=Henry
 	dynasty=9000
 	dna="hdchaabbhim"
-	culture=british`
+	culture=british
 	religion=libertarian
 	martial=5
 	diplomacy=5

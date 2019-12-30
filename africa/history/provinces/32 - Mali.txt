@@ -1,7 +1,7 @@
 # c_mali_labe
 
 # County Title
-title = c_mali_labe
+title = c_mali
 
 # Settlements
 max_settlements = 3

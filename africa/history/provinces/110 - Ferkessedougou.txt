@@ -6,9 +6,7 @@ title = c_ferkessedougou
 # Settlements
 max_settlements = 3
 
-b_ferkessedougou = castle
-b_ferkessedougou_2 = city
-b_ferkessedougou_3 = temple
+b_ferkessedougou = tribal
 
 # Misc
 culture = senufo

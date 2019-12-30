@@ -159,3 +159,21 @@
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
 }
+1401015={
+	name="Abou-Bekr"
+	dynasty=1302006
+	culture=soninke
+	religion=sunni
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1401016={
+	name="Denan"
+	dynasty=1844003
+	culture=senufo
+	religion=sunni
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}

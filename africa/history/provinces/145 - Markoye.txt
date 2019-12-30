@@ -6,9 +6,7 @@ title = c_markoye
 # Settlements
 max_settlements = 3
 
-b_markoye = castle
-b_markoye_2 = city
-b_markoye_3 = temple
+b_markoye = tribal
 
 # Misc
 culture = mossi

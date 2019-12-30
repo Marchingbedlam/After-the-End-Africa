@@ -6,9 +6,7 @@ title = c_poro
 # Settlements
 max_settlements = 3
 
-b_poro = castle
-b_poro_2 = city
-b_poro_3 = temple
+b_poro = tribal
 
 # Misc
 culture = senufo

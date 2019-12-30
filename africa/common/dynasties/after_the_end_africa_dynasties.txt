@@ -161,7 +161,7 @@
 1302003 = {name ="Wankori" culture=soninke }
 1302004 = {name ="Bagayogo" culture=soninke }
 1302005 = {name ="Kenaté" culture=soninke }
-1302000 = {name ="Fodiké" culture=soninke }
+1302006 = {name ="Fodiké" culture=soninke }
 
 1401000 = {name ="Traoré" culture=malinke }
 1401001 = {name ="Diawara" culture=malinke }
@@ -709,7 +709,7 @@
 1514018 = {name ="Nhamadjo" culture=guinensi }
 1514019 = {name ="Serifo" culture=guinensi }
 1514020 = {name ="Katar" culture=guinensi }
-1514021 = {name ="Schwarz" culture=guinensi }
+1514021 = {name ="Xuartz" culture=guinensi }
 1514022 = {name ="Bancessi" culture=guinensi }
 1514023 = {name ="Sambú" culture=guinensi }
 1514024 = {name ="Donigio" culture=guinensi }
@@ -724,6 +724,21 @@
 1514033 = {name ="Bafodé" culture=guinensi }
 1514034 = {name ="Quina" culture=guinensi }
 1514035 = {name ="Indjai" culture=guinensi }
+1514036 = {name ="da Gama" culture=guinensi }
+1514037 = {name ="Eanes" culture=guinensi }
+1514038 = {name ="di Planka" culture=guinensi }
+1514039 = {name ="Assocão" culture=guinensi }
+1514040 = {name ="Godinho" culture=guinensi }
+1514041 = {name ="Proenza" culture=guinensi }
+1514042 = {name ="Menezes" culture=guinensi }
+1514043 = {name ="do Céu" culture=guinensi }
+1514044 = {name ="Ricciuli" culture=guinensi }
+1514045 = {name ="Na Tchuto" culture=guinensi }
+1514046 = {name ="Embana" culture=guinensi }
+1514047 = {name ="Togna" culture=guinensi }
+1514048 = {name ="Quetá" culture=guinensi }
+1514049 = {name ="Câmnate" culture=guinensi }
+1514050 = {name ="Na N'Hada" culture=guinensi }
 
 1841000 = {name ="Pieh" culture=mende }
 1841001 = {name ="Demby" culture=mende }
@@ -960,6 +975,11 @@
 1901038 = {name ="Veiga" culture=verdean }
 1901039 = {name ="Sança" culture=verdean }
 1901040 = {name ="Gonçalves" culture=verdean }
+1901041 = {name ="Cabral" culture=verdean }
+1901042 = {name ="Mosso" culture=verdean }
+1901043 = {name ="de Jon" culture=verdean }
+1901044 = {name ="Xalino" culture=verdean }
+1901045 = {name ="da Chaxiraxi" culture=verdean }
 
 
 2222000 = { name="Lubowski" culture=sudwester }
