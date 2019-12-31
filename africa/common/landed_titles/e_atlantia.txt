@@ -118,7 +118,7 @@ e_atlantia = {
 				}
 				b_tarrafal_de_monte_trigo_CV = {
 				}
-				b_ribeira_da_cruz_CV
+				b_ribeira_da_cruz_CV = {
 				}
 				b_sinagoga_CV = {
 				}

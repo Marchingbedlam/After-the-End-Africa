@@ -401,7 +401,7 @@ e_guinea = {
 					any_demesne_province = { OR = { province_id = 35 province_id = 36 province_id = 37 province_id = 38 } }
 				}
 			}
-			capital = 35 # c_siguiri
+			capital = 46 # c_kankan
 			
 			c_siguiri = { # 35
 				color={ 54 109 85 }
@@ -412,17 +412,6 @@ e_guinea = {
 				b_siguiri_2 = {
 				}
 				b_siguiri_3 = {
-				}
-			}
-			c_dinguiraye = { # 37
-				color={ 5 56 34 }
-				color2={ 255 255 255 }
-				
-				b_dinguiraye = {
-				}
-				b_dinguiraye_2 = {
-				}
-				b_dinguiraye_3 = {
 				}
 			}
 			c_kouroussa = { # 38
@@ -445,6 +434,17 @@ e_guinea = {
 				b_mandiana_2 = {
 				}
 				b_mandiana_3 = {
+				}
+			}
+			c_kankan = { # 46
+				color={ 22 164 101 }
+				color2={ 255 255 255 }
+				
+				b_kankan = {
+				}
+				b_kankan_2 = {
+				}
+				b_kankan_3 = {
 				}
 			}
 		}
@@ -526,17 +526,6 @@ e_guinea = {
 				b_beyla_2 = {
 				}
 				b_beyla_3 = {
-				}
-			}
-			c_kankan = { # 46
-				color={ 22 164 101 }
-				color2={ 255 255 255 }
-				
-				b_kankan = {
-				}
-				b_kankan_2 = {
-				}
-				b_kankan_3 = {
 				}
 			}
 			c_macenta = { # 47
@@ -682,17 +671,6 @@ e_guinea = {
 				b_oure_kaba = {
 				}
 			}
-			c_mamou = { # 24
-				color={ 77 103 33 }
-				color2={ 255 255 255 }
-				
-				b_mamou = {
-				}
-				b_mamou_2 = {
-				}
-				b_mamou_3 = {
-				}
-			}
 		}
 		d_labe = {
 			color={ 92 88 40 }
@@ -751,7 +729,7 @@ e_guinea = {
 				}
 			}
 		}
-		d_dabola = {
+		d_fouta_djallon = {
 			color={ 63 96 87 }
 			color2={ 255 255 255 }
 			
@@ -762,7 +740,29 @@ e_guinea = {
 				}
 			}
 			capital = 39 # c_pita
-			
+
+			c_mamou = { # 24
+				color={ 77 103 33 }
+				color2={ 255 255 255 }
+				
+				b_mamou = {
+				}
+				b_mamou_2 = {
+				}
+				b_mamou_3 = {
+				}
+			}
+			c_dinguiraye = { # 37
+				color={ 5 56 34 }
+				color2={ 255 255 255 }
+				
+				b_dinguiraye = {
+				}
+				b_dinguiraye_2 = {
+				}
+				b_dinguiraye_3 = {
+				}
+			}
 			c_tougue = { # 39
 				color={ 53 106 82 }
 				color2={ 255 255 255 }

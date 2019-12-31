@@ -6,9 +6,7 @@ title = c_gaoual
 # Settlements
 max_settlements = 3
 
-b_gaoual = castle
-b_gaoual_2 = city
-b_gaoual_3 = temple
+b_gaoual = tribal
 
 # Misc
 culture = fula

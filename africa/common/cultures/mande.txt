@@ -31,19 +31,22 @@ mande = {
 		color = { 0.8 1 0.7 }
 		
 		male_names = {
-			Ahmed Arafan
-			Birama
-			"Dala Modu" Dugu
+			Ahmed Arafan Awilo
+			"Bai Shebora" Birama
+			"Dala Modu" Dantili Domin Dugu
 			Gane
 			Ibrahima_Abraham
-			Kaifala Kandeh
+			Kaifala Kandeh Kassory Kombeh Kumbasa
 			Lansana
 			Mohamed_Mohammed Mouke
 			Ramadan
-			Sheka_Sheikh Sewa Souleymane_Solomon Sumanguru
+			"Sa Yere" Sheka_Sheikh Sewa Solimanga Souleymane_Solomon Sumanguru
+			Tagesa
+			"Yeri Fateh" Yirisa
 		}
 		female_names = {
 			Aminata
+			Binta
 		}
 		
 		founder_named_dynasties = yes
@@ -60,7 +63,7 @@ mande = {
 			Ballaké Benkano_Benkan Bitòn Boubacar_Abu-Bakr Boureima Bréhima
 			Cheick_Sheikh Choguel
 			Dankaran Daouda_David Dinkoro Dioncounda Djelimady Djibril_Gabriel Doula Dramane
-			Falaba Fodé_Foday
+			Falaba Faséké Fodé_Foday
 			Garan
 			Hamadoun Haroun_Aaron Housseïni_Hussayn
 			Ibrahim_Abraham Idrissa Ismaïla_Ishmael

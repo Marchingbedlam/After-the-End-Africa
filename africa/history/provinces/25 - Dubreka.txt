@@ -15,7 +15,7 @@ b_falessade = temple
 #b_tondon = castle
 
 # Misc
-culture = temne
-religion = catholic
+culture = susu
+religion = sunni
 
 #History

@@ -6,9 +6,7 @@ title = c_koundara
 # Settlements
 max_settlements = 3
 
-b_koundara = castle
-b_koundara_2 = city
-b_koundara_3 = temple
+b_koundara = tribal
 
 # Misc
 culture = fula

@@ -1,8 +1,13 @@
 1453000={
-	name="Bénéwendé"
-	dynasty=1877004
+	name="Amadou"
+	dynasty=1877005
 	culture=mossi
 	religion=sunni
+
+	trait=proud
+	trait=brave
+	trait=tough_soldier
+	trait=duelist
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }

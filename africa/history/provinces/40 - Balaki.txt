@@ -6,12 +6,10 @@ title = c_balaki
 # Settlements
 max_settlements = 3
 
-b_mali_dabola = castle
-b_mali_dabola_2 = city
-b_mali_dabola_3 = temple
+b_mali_dabola = tribal
 
 # Misc
-culture = malinke
+culture = fula
 religion = sunni
 
 #History

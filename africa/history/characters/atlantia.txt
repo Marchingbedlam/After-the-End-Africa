@@ -3,12 +3,13 @@
 	dynasty=1901019 #Pereira
 	culture=verdean
 	religion=catholic
+	father=1914007
 	trait=tough_soldier
 	trait=ambitious
 	trait=paranoid
 
 	2627.7.24={ birth=yes }
-	2700.0.0={ death=yes }
+	2700.1.1={ death=yes }
 }
 1914001={
 	name="Abel"
@@ -17,53 +18,230 @@
 	religion=catholic
 	martial=8
 	learning=8
-	trait=skilled_administrator
+	trait=fortune_builder
 	trait=ambitious
 	trait=gardener
 	trait=shrewd
 	trait=gregarious
 	trait=trusting 
+	trait=erudite
 
 	2633.9.12={ birth=yes }
-	2700.0.0={ death=yes }
+	2700.1.1={ death=yes }
 }
 1914002={
 	name="Sérgio"
 	dynasty=1901021 #Furtado
 	culture=verdean
 	religion=catholic
-	trait=skilled_administrator
+	father=1914018
+	trait=fortune_builder
 	trait=poet
 	trait=diligent
 
 	2630.7.16={ birth=yes }
-	2700.0.0={ death=yes }
+	2700.1.1={ death=yes }
 }
 1914003={
 	name="Corsino"
 	dynasty=1901025 #Fortes
 	culture=verdean
 	religion=catholic
-	trait=skilled_negotiator
+	trait=charismatic_negotiator
 	trait=cynical
 	trait=erudite
 
 	2622.2.14={ birth=yes }
-	2700.0.0={ death=yes }
+	2700.1.1={ death=yes }
 }
 1914004={
 	name="Germano"
 	dynasty=1901002 #Silva
 	culture=verdean
 	religion=catholic
-	trait=indulgent_wastrel
+	trait=thrifty_clerk
 	trait=lustful
 	trait=charitable
 	trait=shrewd
 	trait=arbitrary
 
 	2640.2.14={ birth=yes }
-	2700.0.0={ death=yes }
+	2700.1.1={ death=yes }
+}
+1914005={
+	name="Ivan"
+	dynasty=1901041 #Cabral
+	culture=guinensi
+	religion=catholic
+	father=1914001
+
+	trait=twin
+
+	2654.1.20={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1914006={
+	name="Juvenal"
+	dynasty=1901041 #Cabral
+	culture=guinensi
+	religion=catholic
+	father=1914001
+
+	trait=twin
+
+	2654.1.20={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1914007={
+	name="Pedro"
+	dynasty=1901019 #Pereira
+	culture=verdean
+	religion=catholic
+
+	2600.1.1={ birth=yes }
+	2660.1.1={ death=yes }
+}
+1914008={
+	name="Luís"
+	dynasty=1901019 #Pereira
+	culture=verdean
+	religion=catholic
+	father=1914007
+
+	2631.3.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1914009={
+	name="António"
+	dynasty=1901019 #Pereira
+	culture=verdean
+	religion=catholic
+	father=1914008
+
+	2651.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1914010={
+	name="Pedro"
+	dynasty=1901019 #Pereira
+	culture=verdean
+	religion=catholic
+	father=1914000
+
+	2645.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1914011={
+	name="José"
+	dynasty=1901019 #Pereira
+	culture=verdean
+	religion=catholic
+	father=1914000
+
+	2647.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1914012={
+	name="Evandro"
+	dynasty=1901025 #Fortes
+	culture=verdean
+	religion=catholic
+	father=1914003
+
+	2644.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1914013={
+	name="Silvino"
+	dynasty=1901025 #Fortes
+	culture=verdean
+	religion=catholic
+	father=1914003
+
+	2646.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1914014={
+	name="Manuel"
+	dynasty=1901025 #Fortes
+	culture=verdean
+	religion=catholic
+	father=1914003
+
+	2650.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1914015={
+	name="Viriato"
+	dynasty=1901025 #Fortes
+	culture=verdean
+	religion=catholic
+	father=1914003
+
+	2652.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1914016={
+	name="Ismenia"
+	female=yes
+	dynasty=1901002 #Silva
+	culture=verdean
+	religion=catholic
+	father=1914004
+	trait=bastard
+	trait=quick
+
+	2656.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1914017={
+	name="Sérgio"
+	dynasty=1901021 #Furtado
+	culture=verdean
+	religion=catholic
+	father=1914002
+
+	2650.7.16={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1914018={
+	name="Sérgio"
+	dynasty=1901021 #Furtado
+	culture=verdean
+	religion=catholic
+	father=1914019
+
+	2610.7.16={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1914019={
+	name="Sérgio"
+	dynasty=1901021 #Furtado
+	culture=verdean
+	religion=catholic
+
+	2580.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1914020={
+	name="Vicente"
+	dynasty=1901021 #Furtado
+	culture=verdean
+	religion=catholic
+	father=1914019
+
+	2615.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1914021={
+	name="Álvaro"
+	dynasty=1901021 #Furtado
+	culture=verdean
+	religion=catholic
+	father=1914018
+
+	2634.1.1={ birth=yes }
+	2700.1.1={ death=yes }
 }
 1914200={
 	name=Henry

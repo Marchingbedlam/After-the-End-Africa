@@ -12,6 +12,6 @@ b_thies_3 = temple
 
 # Misc
 culture = wolof
-religion = catholic
+religion = sunni
 
 #History

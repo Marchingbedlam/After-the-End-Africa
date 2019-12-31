@@ -11,7 +11,7 @@ b_boffa_2 = city
 b_boffa_3 = temple
 
 # Misc
-culture = temne
+culture = susu
 religion = sunni
 
 #History

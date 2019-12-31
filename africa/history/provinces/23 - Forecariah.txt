@@ -12,6 +12,6 @@ b_forecariah_3 = temple
 
 # Misc
 culture = temne
-religion = catholic
+religion = sunni
 
 #History

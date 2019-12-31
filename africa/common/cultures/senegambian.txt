@@ -81,18 +81,22 @@ senegambian = {
 		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
-			Augustin
+			Abdul-Aziz Augustin
+			Farimang
 			Goudiaby
-			Junkung
+			James Junkung
+			Lang
 			Maixent Malang
 			Pierre_Peter
 			Robert
-			Sibilumbaï
+			Sibilumbai Sihang-Ebil
 			Tombong
 			Yahya_John
 		}
 		
 		female_names = {
+			Aja Aline Ashombi
+			Fatou
 			Hortense
 		}
 	}

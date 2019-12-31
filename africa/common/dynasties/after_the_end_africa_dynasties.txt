@@ -130,6 +130,11 @@
 1202007 = {name ="Modupe" culture=susu }
 1202008 = {name ="Sillah" culture=susu }
 1202009 = {name ="Yeliba" culture=susu }
+1202010 = {name ="Kolleh" culture=susu }
+1202011 = {name ="Samura" culture=susu }
+1202012 = {name ="Balla" culture=susu }
+1202013 = {name ="Konkoreh" culture=susu }
+1202014 = {name ="Conteh" culture=susu }
 
 1301000 = {name ="Bangura" culture=temne }
 1301001 = {name ="Karim" culture=temne }
@@ -152,8 +157,7 @@
 1301018 = {name ="Fornah" culture=temne }
 1301019 = {name ="Nabay" culture=temne }
 1301020 = {name ="Kargbo" culture=temne }
-1301021 = {name ="Samura" culture=temne }
-1301022 = {name ="Serry" culture=temne }
+1301021 = {name ="Serry" culture=temne }
 
 1302000 = {name ="Tandja" culture=soninke }
 1302001 = {name ="Kébé" culture=soninke }
@@ -687,6 +691,10 @@
 1513007 = {name ="Gomis" culture=jola }
 1513008 = {name ="Mendy" culture=jola }
 1513009 = {name ="Lopy" culture=jola }
+1513010 = {name ="Bojang" culture=jola }
+1513011 = {name ="Badiatte" culture=jola }
+1513012 = {name ="Tendeng" culture=jola }
+1513013 = {name ="Jatta" culture=jola }
 
 1514000 = {name ="Ialá" culture=guinensi }
 1514001 = {name ="Na Waie" culture=guinensi }
@@ -869,6 +877,8 @@
 1877023 = {name ="Tougouma" culture=mossi }
 1877024 = {name ="Sérémé" culture=mossi }
 1877025 = {name ="Diendéré" culture=mossi }
+1877026 = {name ="Pacéré" culture=mossi }
+1877027 = {name ="Lompo" culture=mossi }
 
 1888000 = {name ="Lartey" culture=ga }
 1888001 = {name ="Nortey" culture=ga }

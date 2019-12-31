@@ -10,6 +10,6 @@ b_kong = tribal
 
 # Misc
 culture = senufo
-religion = catholic
+religion = sunni
 
 #History

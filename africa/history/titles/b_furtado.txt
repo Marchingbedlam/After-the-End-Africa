@@ -1,5 +1,5 @@
 2660.1.1={
 	holding_dynasty = 1901021
-	liege="d_sotavento_islands"
+	liege="k_cabo_verde"
 	holder=1914002
 }

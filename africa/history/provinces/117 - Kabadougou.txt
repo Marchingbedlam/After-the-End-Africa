@@ -6,10 +6,7 @@ title = c_kabadougou
 # Settlements
 max_settlements = 3
 
-b_kabadougou = castle
-b_kabadougou_2 = city
-b_kabadougou_3 = temple
-
+b_kabadougou = tribal
 # Misc
 culture = malinke
 religion = sunni

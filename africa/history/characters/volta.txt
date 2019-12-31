@@ -1377,7 +1377,7 @@
 	2610.1.1={death=yes}
 }
 1500365={
-	name="Fusheni" #Fusheni IV Abudu
+	name="Fusheni Abdulai" #Fusheni IV Abudu
 	dynasty=1866016
 	culture=dagomba
 	religion=sunni
@@ -1387,7 +1387,7 @@
 	2630.1.1={death=yes}
 }
 1500366={
-	name="Fusheni" #Fusheni V Abudu
+	name="Fusheni Abukari" #Fusheni V Abudu
 	dynasty=1866016
 	culture=dagomba
 	religion=sunni
@@ -1498,7 +1498,7 @@
 	2652.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
-1500374={
+1500375={
 	name="Yiri Yusuf" #Abudu prince
 	dynasty=1866016
 	culture=dagomba
@@ -1508,7 +1508,7 @@
 	2655.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
-1500375={
+1500376={
 	name="Zongma" #Abudu prince
 	dynasty=1866016
 	culture=dagomba

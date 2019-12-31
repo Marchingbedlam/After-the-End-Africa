@@ -6,9 +6,7 @@ title = c_siguiri
 # Settlements
 max_settlements = 3
 
-b_siguiri = castle
-b_siguiri_2 = city
-b_siguiri_3 = temple
+b_siguiri = tribal
 
 # Misc
 culture = malinke

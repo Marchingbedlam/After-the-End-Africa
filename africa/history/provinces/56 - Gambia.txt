@@ -12,6 +12,6 @@ b_gambia_3 = temple
 
 # Misc
 culture = jola
-religion = catholic
+religion = sunni
 
 #History

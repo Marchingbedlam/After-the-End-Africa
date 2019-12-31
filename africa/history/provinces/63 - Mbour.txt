@@ -12,6 +12,6 @@ b_mbour_3 = temple
 
 # Misc
 culture = serer
-religion = catholic
+religion = sunni
 
 #History

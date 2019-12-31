@@ -12,6 +12,6 @@ b_bolama_3 = temple
 
 # Misc
 culture = guinensi
-religion = sunni
+religion = catholic
 
 #History

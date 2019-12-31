@@ -6,9 +6,7 @@ title = c_labe
 # Settlements
 max_settlements = 3
 
-b_labe = castle
-b_tougue = city
-b_labe_2 = temple
+b_labe = tribal
 
 # Misc
 culture = susu
