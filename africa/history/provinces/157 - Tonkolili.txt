@@ -6,14 +6,9 @@ title = c_tonkolili
 # Settlements
 max_settlements = 4
 
-b_magburaka = castle
-b_bendugu = city
-b_yonibana = temple
-#b_mabang - castle
-#b_rochin = city
-#b_matotoka = castle
-#b_bumbuna = city
-#b_cruzinha = castle
+b_magburaka_SL = castle
+b_tonkolili_SL = city
+b_yonibana_SL = temple
 
 # Misc
 culture = temne

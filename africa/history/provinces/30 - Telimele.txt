@@ -6,7 +6,7 @@ title = c_telimele
 # Settlements
 max_settlements = 3
 
-b_telimele = tribal
+b_telimele_GN = tribal
 
 # Misc
 culture = susu

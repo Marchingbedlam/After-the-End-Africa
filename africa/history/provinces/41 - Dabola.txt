@@ -6,7 +6,7 @@ title = c_dabola
 # Settlements
 max_settlements = 3
 
-b_dabola = tribal
+b_dabola_GN = tribal
 
 # Misc
 culture = malinke

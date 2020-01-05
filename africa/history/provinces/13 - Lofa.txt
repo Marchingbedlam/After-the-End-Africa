@@ -6,9 +6,9 @@ title = c_lofa
 # Settlements
 max_settlements = 3
 
-b_voinjama = castle
-b_vahun = city
-b_kolahun = temple
+b_voinjama_LR = castle
+b_vahun_LR = city
+b_kolahun_LR = temple
 
 # Misc
 culture = kpelle

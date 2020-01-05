@@ -1,0 +1,90 @@
+1235.1.1={
+	holder=1401100 #Soundiata I Keita
+}
+1255.1.1={
+	holder=1401101 #Ouli I Keita
+}
+1270.1.1={
+	holder=1401102 #Ouati I Keita
+}
+1274.1.1={
+	holder=1401103 #Khalifa I Keita
+}
+1275.1.1={
+	holder=1401104 #Abubakari I Keita
+}
+1285.1.1={
+	holder=1401105 #Sakoura
+}
+1300.1.1={
+	holder=1401108 #Gao I Keita
+}
+1305.1.1={
+	holder=1401109 #Mohammed ibn Gao / Mari-Djata I Keita
+}
+1310.1.1={
+	holder=1401110 #Abubakari II Keita
+}
+1312.1.1={
+	holder=1401112 #Mansa Musa / Moussa I Keita
+}
+1337.1.1={
+	holder=1401113 #Maghan I Keita
+}
+1341.1.1={
+	holder=1401114 #Souleymane I Keita
+}
+1360.1.1={
+	holder=1401115 #Camba I Keita
+}
+1360.10.10={
+	holder=1401116 #Mari-Djata II Keita
+}
+1374.1.1={
+	holder=1401117 #Moussa II Keita
+}
+1387.1.1={
+	holder=1401118 #Maghan II Keita
+}
+1389.1.1={
+	holder=1401119 #Sandaki I
+}
+1390.1.1={
+	holder=1401120 #Mamadou I Keita
+}
+1404.1.1={
+	holder=1401121 #Moussa III Keita
+}
+1440.1.1={
+	holder=1401122 #Ouli II Keita
+}
+1481.1.1={
+	holder=1401123 #Mamadou II Keita
+}
+1496.1.1={
+	holder=1401124 #Mamadou III Keita
+}
+1559.1.1={
+	holder=0 #civil war
+}
+1590.1.1={
+	holder=1401126 #Mamadou IV Keita
+}
+1610.1.1={
+	holder=0
+}
+2400.1.1={ 
+	holder=1401030 #Boucader Bakari Toure
+}
+2435.1.1={ 
+	holder=1401029 #Hamadoun Toure
+}
+2450.1.1={
+	holder=1401028 #Oumar Toure
+}
+2470.1.1={
+	holder=1401027 #Boucader II Toure
+}
+2490.1.1={
+	holder=0
+}

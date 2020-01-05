@@ -6,7 +6,7 @@ title = c_mamou
 # Settlements
 max_settlements = 3
 
-b_mamou = tribal
+b_mamou_GN = tribal
 
 # Misc
 culture = susu

@@ -6,9 +6,9 @@ title = c_nimba
 # Settlements
 max_settlements = 3
 
-b_saniquelle = castle
-b_kahnple = city
-b_ganata = temple
+b_saniquelle_LR = castle
+b_kahnple_LR = city
+b_ganta_LR = temple
 
 # Misc
 culture = kpelle

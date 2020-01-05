@@ -6,7 +6,7 @@ title = c_guekedou
 # Settlements
 max_settlements = 3
 
-b_kissidougou = tribal
+b_guekedou_GN = tribal
 
 # Misc
 culture = malinke

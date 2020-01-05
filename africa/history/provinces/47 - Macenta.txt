@@ -6,7 +6,7 @@ title = c_macenta
 # Settlements
 max_settlements = 3
 
-b_macenta = tribal
+b_macenta_GN = tribal
 
 # Misc
 culture = malinke

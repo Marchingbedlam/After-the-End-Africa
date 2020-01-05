@@ -43,6 +43,26 @@ sahel = {
 		
 		founder_named_dynasties = yes
 	}
+	dogon = {
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.9 1 1.1 }
+		
+		male_names = {
+			Gouno
+			Moulaye_Mulay
+			Ogotemmêli
+			Yambo Youssouf_Joseph
+		}
+		female_names = {
+			Aisha
+		}
+		
+
+		
+		founder_named_dynasties = yes
+	}
 	tuareg = {
 		graphical_cultures = { berbergfx arabicgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
@@ -50,19 +70,19 @@ sahel = {
 		color = { 0.9 0.8 0 }
 		
 		male_names = {
-			Abdallah_Abdullah Acharif Aghaly Ahmoudou_Ahmed Akhamuk Aklou Alghabass Alhassane_Alhassan Amellal Amoumene Attici Aytarel
-			Bilal Boutali Brigi
+			Abdallah_Abdullah Acharif Aghaly Ahmoudou_Ahmed Akhamuk Aklou Alghabass Alhassane_Alhassan Amellal Amoumene Assalat Attici Aytarel
+			Baye Bilal Boutali Brigi
 			Chehna Cheick_Sheikh
 			Eyadou
 			Farhat
 			Hamid Hassane_Hasan
-			Ibrahim_Abraham Inteyeden Issouf Iyad_Jyad
+			Ibah Ibrahim_Abraham Inteyeden Issouf Iyad_Jyad
 			Kaocen Keddou Khalid
 			Liya
-			Mabruk_Mubarak Mahmoud_Mahmud Mano Mdou Meslar Mohamed_Mohammed Mokhtar_Mukhtar Mossa_Musa
+			Mabruk_Mubarak Machkanani Mahmoud_Mahmud Mano Mdou Meslar Mohamed_Mohammed Mokhtar_Mukhtar Mossa_Musa
 			Rhissa
 			Salah Seydou Sidi
-			Waffa
+			Waffa Wari
 			Yunus_Jonas
 			Zodi
 		}
@@ -70,6 +90,7 @@ sahel = {
 			Aichouch_Aisha
 			Bassa
 			Fatimana_Fatima Fatou Fidan
+			Khaira
 			Malika Mariama_Mary
 			Nina
 			Tin-Hinan

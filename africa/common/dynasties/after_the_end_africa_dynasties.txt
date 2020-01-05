@@ -113,6 +113,16 @@
 1101008 = {name ="Tipoteh" culture=kru }
 1101009 = {name ="Kaboo" culture=kru }
 1101010 = {name ="Welleh" culture=kru }
+1101011 = {name ="Nyepan" culture=kru }
+1101012 = {name ="Taryonoh" culture=kru }
+1101013 = {name ="Dueh" culture=kru }
+1101014 = {name ="Boye" culture=kru }
+1101015 = {name ="Wisseh" culture=kru }
+1101016 = {name ="Goe" culture=kru }
+1101017 = {name ="Carngbe" culture=kru }
+1101018 = {name ="Nagbe" culture=kru }
+1101019 = {name ="Sorwleh" culture=kru }
+1101020 = {name ="Geefie" culture=kru }
 
 1201000 = {name ="Sulunteh" culture=kpelle } 
 1201001 = {name ="Camara" culture=kpelle }
@@ -216,6 +226,15 @@
 1401046 = {name ="Diarassouba" culture=malinke }
 1401047 = {name ="Sanogo" culture=malinke }
 1401048 = {name ="Dagnogo" culture=malinke }
+1401049 = {name ="Somko" culture=malinke }
+1401050 = {name ="Dondé" culture=malinke }
+1401051 = {name ="Sakoura" culture=malinke used_for_random=no}
+1401052 = {name ="Kasama" culture=malinke }
+1401053 = {name ="Damba" culture=malinke }
+1401054 = {name ="Togola" culture=malinke }
+1401055 = {name ="Tounkara" culture=malinke }
+1401056 = {name ="Kamissoko" culture=malinke }
+1401057 = {name ="Maridiata" culture=malinke }
 
 1405000 = {name ="Oumarou" culture=songhai }
 1405001 = {name ="Idé" culture=songhai }
@@ -233,6 +252,7 @@
 1405013 = {name ="Zaki" culture=songhai }
 1405014 = {name ="Gabdé" culture=songhai }
 1405015 = {name ="Bacharou" culture=songhai }
+1405016 = {name ="Dembélé" culture=songhai }
 
 1406000 = {name ="Diallo" culture=fula }
 1406001 = {name ="Buhari" culture=fula }
@@ -285,6 +305,14 @@
 1406048 = {name ="Sambeghu" culture=fula }
 1406049 = {name ="Pouré" culture=fula }
 1406050 = {name ="Tourodi" culture=fula }
+1406051 = {name ="Tambajang" culture=fula }
+1406052 = {name ="Chefou" culture=fula }
+
+1407000 = {name ="Toloba" culture=dogon }
+1407001 = {name ="Guindo" culture=dogon }
+1407002 = {name ="Dara" culture=dogon }
+1407003 = {name ="Fonghoro" culture=dogon }
+1407004 = {name ="Ouologuem" culture=dogon }
 
 1444000 = {name ="Ag Ghaly" culture=tuareg }
 1444001 = {name ="Ag Acherif" culture=tuareg }
@@ -357,6 +385,14 @@
 1444068 = {name ="Ag Abil" culture=tuareg }
 1444069 = {name ="Akirwini" culture=tuareg }
 1444070 = {name ="Madassane" culture=tuareg }
+1444071 = {name ="Ag Abilel" culture=tuareg }
+1444072 = {name ="Ag Akly" culture=tuareg }
+1444073 = {name ="Ag Bougara" culture=tuareg }
+1444074 = {name ="Kojak" culture=tuareg }
+1444075 = {name ="Ag Attiyoub" culture=tuareg }
+1444076 = {name ="Ag Tahib" culture=tuareg }
+1444077 = {name ="Ag Hita" culture=tuareg }
+1444078 = {name ="Ag Akawkaw" culture=tuareg }
 
 1501000 = {name ="Jantuah" culture=ashanti }
 1501001 = {name ="Frefre" culture=ashanti }
@@ -658,7 +694,10 @@
 1511008 = {name ="Logar" culture=wolof }
 1511009 = {name ="Tedyek" culture=wolof }
 1511010 = {name ="Ndiaye" culture=wolof }
-1511010 = {name ="Sembène" culture=wolof }
+1511011 = {name ="Sembène" culture=wolof }
+1511012 = {name ="Baayo" culture=wolof }
+1511013 = {name ="Sosse" culture=wolof }
+1511014 = {name ="Fande" culture=wolof }
 
 1512000 = {name ="Njie" culture=serer }
 1512001 = {name ="Joof" culture=serer }
@@ -688,13 +727,25 @@
 1513004 = {name ="Bocandeh" culture=jola }
 1513005 = {name ="Sagna" culture=jola }
 1513006 = {name ="Tamba" culture=jola }
-1513007 = {name ="Gomis" culture=jola }
-1513008 = {name ="Mendy" culture=jola }
+1513007 = {name ="Sambou" culture=jola }
+1513008 = {name ="Djikune" culture=jola }
 1513009 = {name ="Lopy" culture=jola }
 1513010 = {name ="Bojang" culture=jola }
 1513011 = {name ="Badiatte" culture=jola }
 1513012 = {name ="Tendeng" culture=jola }
 1513013 = {name ="Jatta" culture=jola }
+1513014 = {name ="Assin" culture=jola }
+1513015 = {name ="Diabone" culture=jola }
+1513016 = {name ="Sihang" culture=jola }
+1513017 = {name ="Sadio" culture=jola }
+1513018 = {name ="Tombong" culture=jola }
+1513019 = {name ="Goudiaby" culture=jola }
+1513020 = {name ="Kujabi" culture=jola }
+1513021 = {name ="Niantang" culture=jola }
+1513022 = {name ="Landiany" culture=jola }
+1513023 = {name ="Ebil" culture=jola }
+1513024 = {name ="Diamacoune" culture=jola }
+1513025 = {name ="Lalo" culture=jola }
 
 1514000 = {name ="Ialá" culture=guinensi }
 1514001 = {name ="Na Waie" culture=guinensi }

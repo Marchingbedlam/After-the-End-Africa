@@ -10,20 +10,21 @@ west_african = {
 		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
+			Allen
 			Boakai Beyan Borforh Boryee
-			Charles
+			Cadmael Charles
 			Didwho Dorley Dwe 
 			Forkay 
-			Garmuyu Gbwe George Gyude
-			Jlakon 
+			Garmuyu Gblayee Gbwe George Gesue Gyude
+			Jlakon Joshua
 			Kaboo Kanyon 
 			Manneh Monon-Konmlan 
 			Nimene Nyennoh 
 			Oppong 
 			Pennon 
 			Saigbe Soeh-Tehpoe 
-			Teh Togar Togba
-			Wadé 
+			Tagbedi Teh Togar Togba
+			Wadé Wlateh
 			Yenseloh 
 		}
 		
@@ -33,12 +34,13 @@ west_african = {
 			Ellen 
 			Gloria
 			Janjay Jayplo 
+			Krayonor
 			Mardea Mary Maya Monji
 			Nyonweh 
 			Poady 
 			Sorntee
 			Tanyonoh Tarloh Tomah 
-			Wleji Wloh 
+			Wleji Wloh Wreh
 		}
 
 	}

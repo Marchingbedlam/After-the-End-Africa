@@ -6,7 +6,7 @@ title = c_kouroussa
 # Settlements
 max_settlements = 3
 
-b_kouroussa = tribal
+b_kouroussa_GN = tribal
 
 # Misc
 culture = malinke

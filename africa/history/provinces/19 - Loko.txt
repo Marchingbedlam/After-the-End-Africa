@@ -6,9 +6,9 @@ title = c_loko
 # Settlements
 max_settlements = 3
 
-b_lunsar = castle
-b_port_loko = city
-b_loko = temple
+b_lunsar_SL = castle
+b_port_loko_SL = city
+b_lungi_SL = temple
 
 # Misc
 culture = temne

@@ -217,7 +217,7 @@
 }
 1000116={
 	name="Septimus"
-	dynasty=1841009
+	dynasty=1841008
 	culture=mende
 	religion=libertarian
 	diplomacy=5

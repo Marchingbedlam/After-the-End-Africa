@@ -243,12 +243,29 @@
 	2634.1.1={ birth=yes }
 	2700.1.1={ death=yes }
 }
+1914022={
+	name="Hélder"
+	dynasty=1901001
+	culture=verdean
+	religion=brethren
+
+	trait=one_eyed
+	trait=one_legged
+	trait=one_handed
+	trait=greedy
+	trait=cruel
+	trait=ambitious
+	trait=tough_soldier
+
+	2625.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
 1914200={
 	name=Henry
 	dynasty=9000
 	dna="hdchaabbhim"
 	culture=british
-	religion=libertarian
+	religion=brethren
 	martial=5
 	diplomacy=5
 	stewardship=7

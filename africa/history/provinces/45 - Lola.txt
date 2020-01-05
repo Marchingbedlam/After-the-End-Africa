@@ -6,9 +6,9 @@ title = c_lola
 # Settlements
 max_settlements = 3
 
-b_kerouane = castle
-b_kerouane_2 = city
-b_kerouane_3 = temple
+b_tounkarata_GN = castle
+b_lola_GN = city
+b_lain_GN = temple
 
 # Misc
 culture = malinke

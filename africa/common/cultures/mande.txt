@@ -58,31 +58,32 @@ mande = {
 		color = { 0.8 0.8 0.2 }
 		
 		male_names = {
-			Abdou_Abdul Abdoulaye_Abdullah Abdou-Razack Ahmed Alassane_Al-Hassan
+			Abdichi-Moké Abdou_Abdul Abdoulaye_Abdullah Abdou-Razack Ahmed Alamouta Alassane_Al-Hassan Ali_Ali
 			Abubakari_Abu-Bakr
-			Ballaké Benkano_Benkan Bitòn Boubacar_Abu-Bakr Boureima Bréhima
-			Cheick_Sheikh Choguel
-			Dankaran Daouda_David Dinkoro Dioncounda Djelimady Djibril_Gabriel Doula Dramane
-			Falaba Faséké Fodé_Foday
-			Garan
+			Ballaké Benkano_Benkan Boubacar_Abu-Bakr Boucader Boureima Bréhima
+			Camba Cheick_Sheikh Choguel
+			Dankaran Daouda_David Dinkoro Dioncounda Django Djelimady Djibril_Gabriel Doula Doumbia Dramane
+			Falaba Famoudou Faséké Fodé_Foday
+			Gabou Gaoussou Garan
 			Hamadoun Haroun_Aaron Housseïni_Hussayn
 			Ibrahim_Abraham Idrissa Ismaïla_Ishmael
-			Kafougouna Kalabi Kaladian Kassa Kélétigui
-			Lahilatoul Lamine Lassana
-			Maghan Malick_Malik Mamadou_Mohammed Mansong Mari-Djata Moctar_Mukhtar Modibo Mountaga Moussa_Moses
-			Ngolo Nianta 
-			Ouali_Ali Ouati Ouezzin Oumar_Omar Ousmane_Osman
-			Sadio Saifou Sakoura Sambou Samory Sandaki Sékou Sérébandjougou Sidiki Souleymane_Solomon Soumaïla Soumana Soundiata Soungalo
-			Tiemoko Toumani
+			Kabiné Kafougouna Kalabi Kaladian Kassa Kélétigui
+			Lafiya Lahilatoul Lamine Lassana
+			Maghan Malick_Malik Mamadou_Mohammed Mamari Mansong Mari-Djata Moctar_Mukhtar Modibo Mory Mountaga Moussa_Moses Moustapha_Mustafa
+			Nfamara Ngolo Nianta 
+			Ouli_Wali Ouati Ouezzin Oumar_Omar Ousmane_Osman
+			Sadio Saifou Saikou Sakoura Sambou Samory Sandaki Sékou Sekouba Sérébandjougou Sidiki Sidi-Yaya Souleymane_Solomon Soumaïla Soumana Soundiata Soungalo
+			Téréba Tiemoko Toumani
 			Yaya_John Yoro Younoussi_Jonah Youssouf_Joseph
 		}
 		female_names = {
 			Aïda Aissata Aminata Aoua
+			Bako Bintou Biran
 			Coulouba Coumba
 			Diané Diatigui Djeneba
 			Fatoumata Foune
 			Hamchétou
-			Kadidia Kaïdama Kamissa Kassi Koite
+			Kadidia Kaïdama Kamissa Kassi Koite Kolonkan
 			Macoucou Madina Maimouna Mariam_Mary
 			Nakounte Nassira
 			Oumou
@@ -156,7 +157,7 @@ mande = {
 			David Dennis
 			Edward Ekuma Emerson Emmanuel
 			Frederick
-			Gbenjei Gibrilla
+			Gbenjei Gibrilla_Gabriel
 			Henry Hindolo
 			John Joseph Julius
 			Kahjay Kemokai 
@@ -198,7 +199,7 @@ mande = {
 			Kabayo Kader Kalabi Kambiné Kanafa Karbachi Kassaly Kaya Kayna Kinkin Kisha Kodama Koïzé Kukuray Kusoy 
 			Maammarou Mahmud_Mahmud Majan Malla Mar-Arkana Mari-Djata Maÿroumfa Missi-Izé Morobani Muhammad Musa_Moses
 			Niandou Nintasanay Nuh 
-			Ouali Ouankoÿ Ouati 
+			Ouankoÿ Ouati 
 			Reidja 
 			Saïdou_Said Sakoura Salou Samsou-Béri Samsou-Keïna Sandaki Seyni Sorko-Ijé Soumaba Sulayman_Solomon 
 			Takoi Tib Tomo_Thomas Tunka 

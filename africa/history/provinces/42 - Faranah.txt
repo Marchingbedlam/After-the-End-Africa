@@ -6,7 +6,7 @@ title = c_faranah
 # Settlements
 max_settlements = 3
 
-b_faranah = tribal
+b_faranah_GN = tribal
 
 # Misc
 culture = malinke

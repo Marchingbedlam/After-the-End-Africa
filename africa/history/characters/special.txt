@@ -1,7 +1,8 @@
 171800={
-	name="Emerick"
-	culture=british
+	name="Emmerich"
+	culture=sudwester
 	religion=catholic
+	dynasty=2222128
 	trait=scholar
 	trait=erudite
 	trait=quick
@@ -9,6 +10,7 @@
 	trait=shy
 	trait=temperate
 	trait=patient
+	trait=adventurer
 	trait=scholarly_theologian
 	2644.1.1={birth=yes}
 	2700.1.1={death=yes}

@@ -18,7 +18,7 @@
 	2700.1.1={ death=yes }
 }
 1522002={
-	name="Huchard"
+	name="Louis-Ali"
 	dynasty=1513003
 	culture=jola
 	religion=sunni

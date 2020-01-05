@@ -6,13 +6,10 @@ title = c_dubreka
 # Settlements
 max_settlements = 3
 
-b_dubreka = castle
-b_badi = city
-b_falessade = temple
-#b_khorira = castle
-#b_ouassou = city
-#b_tanene = temple
-#b_tondon = castle
+b_ratoma_GN = castle
+b_conakry_GN = city
+b_dixinn_GN = temple
+b_dubreka_GN = city
 
 # Misc
 culture = susu

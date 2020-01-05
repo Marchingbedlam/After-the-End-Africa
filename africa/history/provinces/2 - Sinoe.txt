@@ -6,9 +6,9 @@ title = c_sinoe
 # Settlements
 max_settlements = 3
 
-b_greenville = castle
-b_kopo = city
-b_juazohn = temple
+b_greenville_LR = castle
+b_pyneston_LR = city
+b_chebioh_LR = temple
 
 # Misc
 culture = kwi

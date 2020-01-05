@@ -6,7 +6,7 @@ title = c_kankan
 # Settlements
 max_settlements = 3
 
-b_kankan = tribal
+b_kankan_GN = tribal
 
 # Misc
 culture = malinke

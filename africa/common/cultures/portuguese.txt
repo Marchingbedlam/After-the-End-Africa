@@ -45,7 +45,7 @@ portuguese = {
 			Caetano_Gaetan Carlos_Carl César_Caesar Cleófas_Cleophas Corsino
 			Damião_Damian Dinis Diogo_Diego Domingos Donaldo_Donald Duarte
 			Eduardo_Edward Egas Estêvão_Stephen Euclides_Euclid Eugénio_Eugene Evandro_Evander
-			Fernão_Ferdinand Filipe_Philip Flávio_Flavius Francisco_Francis
+			Fernão_Ferdinand Filipe_Philip Flávio_Flavius Françisco_Francis
 			Gabriel Garcia Gaspar_Casper Germano_Germanus Gil_Egidius Gomes_Gomez Gonçalo_Gonzalo Gualberto Guilherme_William Guterre_Walter
 			Hélder Helespóntico Henrique_Henry Hermígio Honório_Honorius
 			Ilídio Inácio_Ignatius

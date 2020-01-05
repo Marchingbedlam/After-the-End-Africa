@@ -6,7 +6,7 @@ title = c_dinguiraye
 # Settlements
 max_settlements = 3
 
-b_dinguiraye = tribal
+b_dinguiraye_GN = tribal
 
 # Misc
 culture = malinke

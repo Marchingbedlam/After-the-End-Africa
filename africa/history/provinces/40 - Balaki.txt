@@ -6,7 +6,7 @@ title = c_balaki
 # Settlements
 max_settlements = 3
 
-b_mali_dabola = tribal
+b_balaki_GN = tribal
 
 # Misc
 culture = fula

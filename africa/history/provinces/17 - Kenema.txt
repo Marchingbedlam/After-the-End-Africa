@@ -6,9 +6,9 @@ title = c_kenema
 # Settlements
 max_settlements = 3
 
-b_kenema = castle
-b_tongo = city
-b_blama = temple
+b_kenema_SL = castle
+b_tongo_SL = city
+b_blama_SL = temple
 
 # Misc
 culture = mende
