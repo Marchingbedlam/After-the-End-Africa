@@ -1,5 +1,19 @@
+##Duchies
+d_accra = {
+	color = { 155 55 155 }
+	color2= { 255 255 255 }
+	capital = 127 #Accra
+
+	culture = ga
+
+	allow = {
+		always = no
+	}
+}
+
+##Kingdoms
 k_asanteman = {
-	color = { 146 62 176 }
+	color = { 204 106 22 }
 	color2= { 255 255 255 }
 	capital = 123 #Kumasi
 
@@ -22,5 +36,30 @@ k_dagbon = {
 
 	allow = {
 		always = no
+	}
+}
+
+##Empires
+e_manden = {
+	color = { 100 110 120 }
+	color2= { 255 255 255 }
+	capital = 92 #Timbuktu
+
+	culture = malinke
+
+	allow = {
+		always = no
+	}
+}
+e_usafrica = {
+	color={ 40 50 220 }
+	color2={ 220 50 40 }
+	
+	capital = 6 #Monrovia
+
+	short_name = no
+	
+	allow = {
+		always = no # Only created through special decisions
 	}
 }

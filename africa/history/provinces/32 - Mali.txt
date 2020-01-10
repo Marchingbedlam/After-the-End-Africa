@@ -1,0 +1,15 @@
+# c_mali_labe
+
+# County Title
+title = c_mali
+
+# Settlements
+max_settlements = 3
+
+b_mali_GN = tribal
+
+# Misc
+culture = fula
+religion = sunni
+
+#History

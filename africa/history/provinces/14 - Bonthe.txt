@@ -6,9 +6,8 @@ title = c_bonthe
 # Settlements
 max_settlements = 3
 
-b_mattru_jong = castle
-b_bonthe = city
-#b_imperri = temple
+b_mattru_jong_SL = castle
+b_bonthe_SL = city
 
 # Misc
 culture = mende

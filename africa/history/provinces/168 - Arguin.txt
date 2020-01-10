@@ -1,0 +1,13 @@
+# County Title
+title = c_arguin
+
+# Settlements
+max_settlements = 3
+
+b_iouik_MR = tribal
+
+# Misc
+culture = sahrawi
+religion = sunni
+
+#History

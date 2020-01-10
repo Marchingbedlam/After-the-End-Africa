@@ -6,9 +6,7 @@ title = c_filingue
 # Settlements
 max_settlements = 3
 
-b_filingue = castle
-b_filingue_2 = city
-b_filingue_3 = temple
+b_filingue = tribal
 
 # Misc
 culture = songhai

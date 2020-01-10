@@ -1,0 +1,13 @@
+# County Title
+title = c_kidal
+
+# Settlements
+max_settlements = 3
+
+b_kidal_ML = tribal
+
+# Misc
+culture = tuareg
+religion = sunni
+
+#History

@@ -11,7 +11,7 @@ b_janjanbureh_2 = city
 b_janjanbureh_3 = temple
 
 # Misc
-culture = senegambian
+culture = malinke
 religion = sunni
 
 #History

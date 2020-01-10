@@ -6,9 +6,9 @@ title = c_pujehun
 # Settlements
 max_settlements = 3
 
-b_pujehun = castle
-b_gandorhun = city
-b_zimmi = temple
+b_pujehun_SL = castle
+b_gandorhun_SL = city
+b_zimmi_SL = temple
 
 # Misc
 culture = kpelle

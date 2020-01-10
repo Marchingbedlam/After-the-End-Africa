@@ -5,5 +5,5 @@
 }
 2600.1.1={
 	liege=k_asanteman
-	holder=1500220
+	holder=1500227
 }

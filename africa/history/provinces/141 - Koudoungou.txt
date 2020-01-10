@@ -6,9 +6,7 @@ title = c_koudoungou
 # Settlements
 max_settlements = 3
 
-b_koudoungou = castle
-b_koudoungou_2 = city
-b_koudoungou_3 = temple
+b_koudoungou = tribal
 
 # Misc
 culture = mossi

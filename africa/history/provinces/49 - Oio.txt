@@ -6,12 +6,10 @@ title = c_oio
 # Settlements
 max_settlements = 3
 
-b_oio = castle
-b_oio_2 = city
-b_oio_3 = temple
+b_oio = tribal
 
 # Misc
-culture = senegambian
+culture = guinensi
 religion = catholic
 
 #History

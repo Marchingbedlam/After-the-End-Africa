@@ -1,0 +1,13 @@
+# County Title
+title = c_inchiri
+
+# Settlements
+max_settlements = 3
+
+b_akjoujt_MR = tribal
+
+# Misc
+culture = haratin
+religion = sunni
+
+#History

@@ -1,0 +1,13 @@
+# County Title
+title = c_rkiz
+
+# Settlements
+max_settlements = 3
+
+b_rkiz_MR = tribal
+
+# Misc
+culture = wolof
+religion = sunni
+
+#History

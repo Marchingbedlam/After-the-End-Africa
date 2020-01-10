@@ -13,13 +13,53 @@ christian = {
 	
 	# Names given only to Christian characters (base names)
 	male_names = {
-		Abraham Christian Christopher Constantine Israel Joseph Judah Moses Paul Noah Peter Simon   
+		Christian Christopher Constantine Israel Judah Paul Noah Peter Simon   
 	}
 	female_names = {
-		Mary Benedicta Magdalena Ursula Angela Virginia Sarah
+		Benedicta Magdalena Ursula Angela Virginia
 	}
 	
 	#default interface
+
+	anglican = {
+		graphical_culture = westerngfx
+
+		icon = 2
+		heresy_icon = 7
+
+		color = { 0.6 0.65 0.8 }
+
+		crusade_name = CRUSADE
+		scripture_name = THE_BIBLE
+		priest_title = PRIEST
+		
+		high_god_name = GOD_GOD
+		
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		evil_god_names = {
+			SATAN LUCIFER THE_DEVIL
+		}
+
+		investiture = yes
+		can_have_antipopes = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = no #yes
+		can_retire_to_monastery = yes
+		priests_can_inherit = no
+		allow_rivermovement = yes
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 1
+		
+		intermarry = catholic
+		#intermarry = anglican
+	}
 }
 
 muslim = {
@@ -39,12 +79,48 @@ muslim = {
 	
 	# Names given only to Muslim characters (base names)
 	male_names = {
-		Abbas Abdul Abdullah Abolhassan Abu-Bakr Ahmad Akbar Allahyar Ali Ali-Fay Ali-Kolon Ali-Zalil Hasan Hossein Hussayn Ismail Mahmud Mohammed Muammar Muhammad
+		Abbas Abdul Abdullah Abolhassan Abu-Bakr Ahmad Akbar Alhassan Allahyar Ali Ali-Fay Ali-Kolon Ali-Zalil Hasan Hussayn Ismail Mahmud Mohammed Muammar Muhammad
 	}
 	
 	# Names given only to Muslim characters (base names)
 	female_names = {
 		Ayesha Abrar Afifah Anabia Hijrah Hind Hareem Iqra Judi Karida Khadijah Khalidah Khawlah Madeeha Maryam Mariyah Maymunah Mariam Mina Nuwwarrah Qismah Ruqayyah Saba Safaa Safiyyah Salma Shahrazad Sirin Sumaiyah Thuwaibah Umamah Zainab Zubaidah Zainab 
+	}
+
+	sunni = {
+		graphical_culture = muslimgfx
+
+		icon = 3
+		heresy_icon = 8
+		
+		color = { 0 0.6 0 }
+		
+		crusade_name = JIHAD
+		scripture_name = THE_KORAN
+		priest_title = IMAM_PRIEST
+		
+		high_god_name = GOD_ALLAH
+		
+		god_names = {
+			GOD_ALLAH GOD_THE_GREATEST
+		}
+		
+		evil_god_names = {
+			IBLIS SHAYTAN
+		}
+		
+		can_call_crusade = yes
+		priests_can_marry = yes
+		psc_marriage = no # Disallow uncle-nice and aunt-nephew marriages
+		max_wives = 4
+		matrilineal_marriages = no
+		
+		landed_kin_prestige_bonus = yes
+		attacking_same_religion_piety_loss = yes
+		uses_decadence = no
+		uses_jizya_tax = yes
+
+		#intermarry = sunni
 	}
 }
 
@@ -102,14 +178,14 @@ pan_african = {
 		
 		can_retire_to_monastery = yes
 		can_demand_religious_conversion = yes
-        character_modifier = { culture_flex = 1.00 }
+       	 	character_modifier = { culture_flex = 1.00 }
 		religious_clothing_head = 2
 		religious_clothing_priest = 2
 		
 		
 	}
 	
-		libertarian = {
+	libertarian = {
 		graphical_culture = muslimgfx
 		
 		icon = 49
@@ -128,7 +204,7 @@ pan_african = {
 			GOD_INDEPENDENCE GOD_PROSPERITY GOD_JUSTICE GOD_OUR_LADY GOD_MONROE THE_FOUNDERS GOD_JOHN_BROWN
 		}
 		evil_god_names = {
-			THE_FIRESTONE THE_TRAITORS COLONIALISM THE_ENSLAVERS
+			THE_FIRESTONE THE_TRAITORS THE_ENSLAVERS
 		}
 		
 		autocephaly = yes
@@ -153,4 +229,63 @@ pan_african = {
 		religious_clothing_priest = 2
 	}
 	
+}
+pirate = {
+	has_coa_on_barony_only = no
+	graphical_culture = norsegfx
+	playable = yes
+	hostile_within_group = yes
+	
+	color = { 0.4 0.2 0.2 }
+	
+	interface_skin = { pirate_interface pagan_interface }
+	
+	ai_convert_same_group = 2 # try to convert if ai_zeal is high
+	ai_convert_other_group = 1	# only if zealous
+	
+	brethren = { # pirates!
+		graphical_culture = norsegfx
+
+		icon = 40
+		heresy_icon = 41
+		
+		color = { 0.3 0.2 0.2 }
+
+		high_god_name = GOD_NEPTUNE
+
+		god_names = {
+			GOD_THE_SEA_HAG GOD_NEPTUNE GOD_AGWE GOD_MANANNAN_MAC_LIR
+		}
+		evil_god_names = {
+			THE_HANGMAN DAVY_JONES
+		}
+		
+		scripture_name = THE_CODE
+		priest_title = PRIEST
+		priests_can_marry = yes
+		allow_rivermovement = yes
+		allow_viking_invasion = yes
+		allow_looting = yes
+		female_temple_holders = yes
+		max_consorts = 3
+		seafarer = yes
+		raised_vassal_opinion_loss = no
+		peace_prestige_loss = yes
+		defensive_attrition = yes
+		uses_jizya_tax = yes
+		aggression = 2.0 # AI aggression factor
+		
+		unit_home_modifier = {
+			land_morale = 0.8
+			light_infantry_defensive = 0.8
+			heavy_infantry_defensive = 0.8
+			pikemen_defensive = 0.8
+			archers_defensive = 0.8
+			key = "DEF_RELIGION_HOME_TERRITORY"
+		}
+		
+		religious_clothing_head = 17
+		religious_clothing_priest = 17
+		
+	}
 }

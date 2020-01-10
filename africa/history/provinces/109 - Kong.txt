@@ -6,12 +6,10 @@ title = c_kong
 # Settlements
 max_settlements = 3
 
-b_kong = castle
-b_kong_2 = city
-b_kong_3 = temple
+b_kong = tribal
 
 # Misc
 culture = senufo
-religion = catholic
+religion = sunni
 
 #History

@@ -1,0 +1,239 @@
+arabic = {
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { muslimgfx }
+
+	maghrebi = {
+		graphical_cultures = { berbergfx arabicgfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.2 1.2 0.2 }
+		
+		male_names = {
+			Abdelatif Abdelaziz_Abdul-Aziz Abdelhak Abdelhamid_Abdul-Hamid Abdeljelil Abdelkader Abdelkarim Abdellah_Abdullah Abdelmalek Abderrahim Achref Adil Ahmed Ali Amar Anouar_Anwar Aymen Azzedine
+			Bechir_Bashir Bilel_Bilal Bouchaib
+			Chadli Chaker Charif Cheick_Sheikh
+			Djelil_Jalil Driss_Idris
+			Faouzi Farouk_Faruk Faycal_Faisal Ferhat Fouad_Fuad
+			Habib Hamdi_Hamid Hamza Hassen_Hassan Hédi Hemmou Hichem_Hisham Houari
+			Ibrahim_Abraham Imed
+			Jaouad Jidou
+			Kacem_Kasim Kamal Kais Karim Kateb Khaled_Khalid Khelil_Khalil Kheredine
+			Lakhdar Larbi Liamine Lotfi Lounis Lyès
+			Maaouya_Muawiya Malek_Malik Marouan_Marwan Mohamed_Mohammed Moktar_Mukhtar Moncef Mongi Mostefa_Mustafa Moubarak_Mubarak Moulay_Mulay Mouloud Mounir_Munir Mourad_Murad Moussa_Musa
+			Naceur Niser_Nizar Noureddine_Nuraddin
+			Omar Oualid_Walid Oussama_Osama
+			Rabah Rachid_Rashid Raouf_Rauf Riadh
+			Saber Saddem_Saddam Saïd_Sayyid Samir Sghair Slaheddine Slimane_Solomon Smaïl_Ishmael
+			Tahar_Tahir Taïeb_Tayyib Taoufik_Tawfik Tarek
+			Yahia_John Yassine Yazid Younès_Jonah Youssef_Joseph
+			Zekri_Zachary Ziaoulhak Zinedine Zoubeir
+		}
+		female_names = {
+			Ahlam Amira Asma Aya
+			Bouchra
+			Chahida
+			Faouzia Farida Fatima Fethia
+			Habiba Hasna Houda 
+			Ikram
+			Jamila
+			Kheira
+			Lamya Latifa Leïla Loubna
+			Maroua Maya Meherzia Mouna Mririda
+			Nadia Najah Naoual_Nawal
+			Ouassila
+			Salema Samira Selma Souhayr
+			Tala Touriya
+			Zahra Zineb_Zeinab Zohra
+		}
+		
+
+		male_patronym = "Ould "
+		female_patronym = "Mint "
+		prefix = yes 
+		
+		founder_named_dynasties = yes
+	}
+	misri = {
+		graphical_cultures = { berbergfx arabicgfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.2 1.0 0.2 }
+		
+		male_names = {
+			Abbas
+		}
+		female_names = {
+			Aisha
+		}
+		
+
+		male_patronym = "ibn "
+		female_patronym = "bin "
+		prefix = yes 
+		
+		founder_named_dynasties = yes
+	}
+	mashriqi = {
+		graphical_cultures = { berbergfx arabicgfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.3 1.1 0.2 }
+		
+		male_names = {
+			Abbas 
+		}
+		female_names = {
+			Aisha
+		}
+		
+
+		male_patronym = "ibn "
+		female_patronym = "bin "
+		prefix = yes 
+		
+		founder_named_dynasties = yes
+	}
+	bedouin = {
+		graphical_cultures = { berbergfx arabicgfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.1 1.1 0.1 }
+		
+		male_names = {
+			Abbas 
+		}
+		female_names = {
+			Aisha
+		}
+		
+
+		male_patronym = "ibn "
+		female_patronym = "bin "
+		prefix = yes 
+		
+		founder_named_dynasties = yes
+	}
+	sudani = {
+		graphical_cultures = { berbergfx arabicgfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.2 1.4 0.4 }
+		
+		male_names = {
+			Abbas Abdalla_Abdullah Abdalrahman Abdelaziz_Abdul-Aziz Abdel-Fatteh Abdelgadir Abdelsalam Abdel-Wahab Abdul-Gasim Abdul-Hamid Abdul-Rahim Abdul-Wahid Adam Ahmed Ala'a-Eldin Al-Amin Al-Awad Al-Daw Ali Al-Jazuli Al-Khatim Al-Moez Al-Nazeer Al-Numan
+			Babiker_Abu-Bakr Baderuddin Bahar Burai
+			Ezuddin
+			Faisal
+			Gaafar_Jafar Gamal Ghazi Gibril_Gabriel
+			Haitham Hashem Hassan Hussein_Hussayn Huzaifa 
+			Ibrahim_Abraham Idris Ismail_Ishmael Issa_Jesus
+			Jaber-Allah
+			Khalil Khater Khojali
+			Mandour Mirza Mohy-El-Din Motazz Mubarak Mudather Muhammad_Mohammed Munzer Murad Musa_Moses Musaeb Mustafa
+			Nabil Nahid Nasr-Eldine Nemat
+			Obeid_Ubayd Omer_Omar Osman
+			Radwan_Ridwan Ragab Rashid
+			Salah Salah-Eldine Shams Siddiq Suad
+			Tahir Tajuddin Tayeb
+			Walid
+			Yasser Yousef_Joseph
+			Zein Zubeir
+		}
+		female_names = {
+			Aisha
+			Dalia
+			Emtithal
+			Fatima
+			Huma
+			Leila
+			Muna
+			Nawal Nesrine Nima
+			Safia Samia
+			Tahani
+			Yassmin
+			Zeinab
+		}
+		
+		founder_named_dynasties = yes
+	}
+	sahrawi = {
+		graphical_cultures = { berbergfx arabicgfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.7 2.2 0.2 }
+		
+		male_names = {
+			Abdelaziz_Abdul-Aziz Abdelkader Abdellah_Abdullah Abderrahmane Ahmed Ali Ayoub_Ayyub
+			Bouchraya Brahim_Abraham
+			Cheikh_Sheikh
+			El-Ouali Embarek_Mubarak
+			Fadel
+			Ghoulam_Ghulam
+			Hametti_Hamid Hassen_Hassan
+			Ismail_Ishmael
+			Khalihenna Khatri
+			Lahbib Larabas
+			Mahayub Mahfoud Mohamed_Mohammed Mulay Mustapha_Mustafa
+			Najm
+			Omar Oubi
+			Salem Sghair Suleiman_Solomon 
+		}
+		female_names = {
+			Aminatou
+			Elkouria
+			Fatma_Fatima
+			Khadidja
+			Mariem_Mary
+		}
+		
+
+		male_patronym = "Ould "
+		female_patronym = "Mint "
+		prefix = yes 
+		
+		founder_named_dynasties = yes
+	}
+	haratin = {
+		graphical_cultures = { westafricangfx arabicgfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.3 0.9 0.3 }
+		
+		male_names = {
+			Abdoul_Abdul Abdoulahy_Abdullah Abdoulaziz_Abdul-Aziz Adama_Adam Ahmed
+			Béchir_Bashir Bilal Biram Boubacar_Abu-Bakr
+			Cheick_Sheikh Chirif_Sheriff 
+			Dah
+			Ely
+			Hamza
+			Ibrahim_Abraham Ismaïl_Ishmael
+			Jemil_Jamil Jidou
+			Khalid Khalil Khouna
+			Louly
+			Maaouya_Muawiya Messaoud Moctar_Mukhtar Mohamedou_Mohammed Moulaye_Mulay Moussa_Moses Moustapha_Mustafa
+			Oumar_Omar Ousmane_Osman
+			Rabbou
+			Salek Sid'Ahmed Souleyman_Solomon
+			Teyib_Tayyib
+			Yacoub_Jacob Yebaoua Youssouf_Joseph
+		}
+		female_names = {
+			Aïchetou_Aisha
+			Fatimatou_Fatima
+			Houleye
+			L'Malouma
+			Mbarka Mabrouka Maty Messouda
+			Naha
+			Salimata
+			Yema
+			Zeinebou_Zeinab
+		}
+		
+
+		male_patronym = "Ould "
+		female_patronym = "Mint "
+		prefix = yes 
+		
+		founder_named_dynasties = yes
+	}
+}

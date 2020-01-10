@@ -1,0 +1,13 @@
+# County Title
+title = c_tiris_zemmour
+
+# Settlements
+max_settlements = 3
+
+b_zouerat_MR = tribal
+
+# Misc
+culture = sahrawi
+religion = sunni
+
+#History

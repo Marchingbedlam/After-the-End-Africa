@@ -1,0 +1,15 @@
+# c_mali_dabola
+
+# County Title
+title = c_balaki
+
+# Settlements
+max_settlements = 3
+
+b_balaki_GN = tribal
+
+# Misc
+culture = fula
+religion = sunni
+
+#History

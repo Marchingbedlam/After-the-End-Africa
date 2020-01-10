@@ -1,0 +1,13 @@
+# County Title
+title = c_bordj_badji_mokhtar
+
+# Settlements
+max_settlements = 3
+
+b_bordj_badji_mokhtar_DZ = tribal
+
+# Misc
+culture = tuareg
+religion = sunni
+
+#History

@@ -6,13 +6,8 @@ title = c_boavista_e_sal
 # Settlements
 max_settlements = 3
 
-b_sal_rei = castle
-b_palmeira = city
-#b_espargos = temple
-#b_santa_maria = temple
-#b_rabil = castle
-#b_pedra_de_lume = city
-#b_murdeira = castle
+b_sal_rei_CV = castle
+b_palmeira_CV = city
 
 # Misc
 culture = verdean

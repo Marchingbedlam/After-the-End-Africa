@@ -1,0 +1,13 @@
+# County Title
+title = c_aftout
+
+# Settlements
+max_settlements = 3
+
+b_barkeol_MR = tribal
+
+# Misc
+culture = haratin
+religion = sunni
+
+#History

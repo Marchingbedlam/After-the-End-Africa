@@ -11,7 +11,7 @@ b_kaffrine_2 = city
 b_kaffrine_3 = temple
 
 # Misc
-culture = senegambian
+culture = serer
 religion = sunni
 
 #History

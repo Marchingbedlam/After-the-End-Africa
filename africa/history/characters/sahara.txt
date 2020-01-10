@@ -1,0 +1,37 @@
+1917000={
+	name="Choukri"
+	culture=haratin
+	religion=sunni
+	dynasty=1917004
+
+	trait=ugly
+	trait=disfigured
+	trait=scarred_high
+	trait=clubfooted
+	trait=cruel
+	trait=wroth
+	trait=strong
+	trait=brave
+	trait=ambitious
+	trait=skilled_tactician
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1917001={
+	name="Taghiyoulla"
+	culture=haratin
+	religion=sunni
+	dynasty=1917004
+
+	trait=clubfooted
+	trait=cruel
+	trait=greedy
+	trait=arbitrary
+	trait=deceitful
+	trait=proud
+	trait=tough_soldier
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}

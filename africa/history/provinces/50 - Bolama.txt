@@ -11,7 +11,7 @@ b_bolama_2 = city
 b_bolama_3 = temple
 
 # Misc
-culture = senegambian
-religion = sunni
+culture = guinensi
+religion = catholic
 
 #History

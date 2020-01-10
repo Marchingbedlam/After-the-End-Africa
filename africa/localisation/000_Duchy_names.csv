@@ -1,12 +1,22 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+d_accra;Accra;Accra;Accra;;Accra;;;;;;;;;x
+d_accra_adj;Accran;;accrer;;;;;;;;;;;x
 d_abidjan;Abidjan;Abidjan;Abidjan;;Abidjan;;;;;;;;;x
 d_abidjan_adj;Abidjanian;;abidjaner;;;;;;;;;;;x
+d_adrar;Adrar;Adrar;Adrar;;Adrar;;;;;;;;;x
+d_adrar_adj;Adraran;;adrarer;;;;;;;;;;;x
 d_ankobra;Ankobra;Ankobra;Ankobra;;Ankobra;;;;;;;;;x
 d_ankobra_adj;Ankobran;;ankobrer;;;;;;;;;;;x
+d_aoukar;Aoukar;Aoukar;Aoukar;;Aoukar;;;;;;;;;x
+d_aoukar_adj;Aoukarian;;aoukarer;;;;;;;;;;;x
+d_assaba;Assaba;Assaba;Assaba;;Assaba;;;;;;;;;x
+d_assaba_adj;Assaban;;assaber;;;;;;;;;;;x
 d_bafata;Bafatá;Bafatá;Bafatá;;Bafatá;;;;;;;;;x
 d_bafata_adj;Bafatáian;;bafatáer;;;;;;;;;;;x
 d_bamako;Bamako;Bamako;Bamako;;Bamako;;;;;;;;;x
 d_bamako_adj;Bamakian;;bamaker;;;;;;;;;;;x
+d_barlavento_islands;Barlavento;Barlavento;Barlavento;;Barlavento;;;;;;;;;x
+d_barlavento_islands_adj;Barlaventan;;barlaventer;;;;;;;;;;;x
 d_bas_sassandra;Bas Sassandra;Bas Sassandra;Bas Sassandra;;Bas Sassandra;;;;;;;;;x
 d_bas_sassandra_adj;Bas Sassandran;;Bas Sassandrer;;;;;;;;;;;x
 d_bissau;Bissau;Bissau;Bissau;;Bissau;;;;;;;;;x
@@ -21,6 +31,8 @@ d_denguele;Denguélé;Denguélé;Denguélé;;Denguélé;;;;;;;;;x
 d_denguele_adj;Denguéléian;;denguéléer;;;;;;;;;;;x
 d_faranah;Faranah;Faranah;Faranah;;Faranah;;;;;;;;;x
 d_faranah_adj;Faranahian;;faranaher;;;;;;;;;;;x
+d_fouta_djallon;Fouta Djallon;Fouta Djallon;Fouta Djallon;;Fouta Djallon;;;;;;;;;x
+d_fouta_djallon_adj;Djallonké;;djallonker;;;;;;;;;;;x
 d_freetown;Freetown;Freetown;Freetown;;Freetown;;;;;;;;;x
 d_freetown_adj;Freetowner;;freetowner;;;;;;;;;;;x
 d_gambaga;Gambaga;Gambaga;Gambaga;;Gambaga;;;;;;;;;x
@@ -33,12 +45,20 @@ d_gourma;Gourma;Gourma;Gourma;;Gourma;;;;;;;;;x
 d_gourma_adj;Gourman;;gourmer;;;;;;;;;;;x
 d_grand_gedeh;Grand Gedeh;Grand Gedeh;Grand Gedeh;;Grand Gedeh;;;;;;;;;x
 d_grand_gedeh_adj;Grand Gedehian;;Grand Gedeher;;;;;;;;;;;x
+d_hodh;Hodh;Hodh;Hodh;;Hodh;;;;;;;;;x
+d_hodh_adj;Hodhian;;hodher;;;;;;;;;;;x
+d_inchiri;Inchiri;Inchiri;Inchiri;;Inchiri;;;;;;;;;x
+d_inchiri_adj;Inchirian;;inchirier;;;;;;;;;;;x
 d_kaffrine;Kaffrine;Kaffrine;Kaffrine;;Kaffrine;;;;;;;;;x
 d_kaffrine_adj;Kaffrinean;;kaffriner;;;;;;;;;;;x
+d_kankan;Kankan;Kankan;Kankan;;Kankan;;;;;;;;;x
+d_kankan_adj;Kankan;;kankaner;;;;;;;;;;;x
 d_kayes;Kayes;Kayes;Kayes;;Kayes;;;;;;;;;x
 d_kayes_adj;Kayesian;;kayeser;;;;;;;;;;;x
 d_kerouane;Kérouané;Kérouané;Kérouané;;Kérouané;;;;;;;;;x
 d_kerouane_adj;Kérouanéian;;kérouanéer;;;;;;;;;;;x
+d_kidal;Kidal;Kidal;Kidal;;Kidal;;;;;;;;;x
+d_kidal_adj;Kidali;;kidaler;;;;;;;;;;;x
 d_kindia;Kindia;Kindia;Kindia;;Kindia;;;;;;;;;x
 d_kindia_adj;Kindian;;kinder;;;;;;;;;;;x
 d_koulikoro;Koulikoro;Koulikoro;Koulikoro;;Koulikoro;;;;;;;;;x
@@ -69,6 +89,8 @@ d_mouhoun;Mouhoun;Mouhoun;Mouhoun;;Mouhoun;;;;;;;;;x
 d_mouhoun_adj;Mouhounian;;mouhouner;;;;;;;;;;;x
 d_niger;Niger;Niger;Niger;;Niger;;;;;;;;;x
 d_niger_adj;Nigerian;;nigerer;;;;;;;;;;;x
+d_nzerekore;Nzérékoré;Nzérékoré;Nzérékoré;;Nzérékoré;;;;;;;;;x
+d_nzerekore_adj;Nzérékoréian;;nzérékoréer;;;;;;;;;;;x
 d_oti;Oti;Oti;Oti;;Oti;;;;;;;;;x
 d_oti_adj;Otian;;oter;;;;;;;;;;;x
 d_sahel;Sahel;Sahel;Sahel;;Sahel;;;;;;;;;x
@@ -79,6 +101,8 @@ d_sewa;Sewa;Sewa;Sewa;;Sewa;;;;;;;;;x
 d_sewa_adj;Sewan;;sewer;;;;;;;;;;;x
 d_sikasso;Sikasso;Sikasso;Sikasso;;Sikasso;;;;;;;;;x
 d_sikasso_adj;Sikassian;;sikasser;;;;;;;;;;;x
+d_sotavento_islands;Sotavento;Sotavento;Sotavento;;Sotavento;;;;;;;;;x
+d_sotavento_islands_adj;Sotaventan;;sotaventer;;;;;;;;;;;x
 d_tahoua;Tahoua;Tahoua;Tahoua;;Tahoua;;;;;;;;;x
 d_tahoua_adj;Tahouan;;taher;;;;;;;;;;;x
 d_tambacounda;Tambacounda;Tambacounda;Tambacounda;;Tambacounda;;;;;;;;;x
@@ -87,6 +111,8 @@ d_thies;Thiès;Thiès;Thiès;;Thiès;;;;;;;;;x
 d_thies_adj;Thièsian;;thièser;;;;;;;;;;;x
 d_timbuktu;Timbuktu;Timbuktu;Timbuktu;;Timbuktu;;;;;;;;;x
 d_timbuktu_adj;Timbuktian;;timbukter;;;;;;;;;;;x
+d_trarza;Trarza;Trarza;Trarza;;Trarza;;;;;;;;;x
+d_trarza_adj;Trarzan;;trarzer;;;;;;;;;;;x
 d_volta;Volta;Volta;Volta;;Volta;;;;;;;;;x
 d_volta_adj;Voltan;;volter;;;;;;;;;;;x
 d_zanzan;Zanzan;Zanzan;Zanzan;;Zanzan;;;;;;;;;x

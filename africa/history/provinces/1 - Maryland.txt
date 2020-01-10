@@ -6,11 +6,10 @@ title = c_maryland
 # Settlements
 max_settlements = 5
 
-b_harper = castle
-b_barclayville = city
-b_pilbo = temple
-b_kakata = castle
-#b_harbel = city
+b_harper_LR = castle
+b_barclayville_LR = city
+b_pleebo_LR = temple
+b_sasstown_LR = castle
 
 # Misc
 culture = kwi

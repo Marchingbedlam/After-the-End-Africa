@@ -1,7 +1,7 @@
 2660.1.1={
 holding_dynasty = 1504036
 
-liege="d_volta"
+liege="d_accra"
 
 holder=1500213
 }

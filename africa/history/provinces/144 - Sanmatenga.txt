@@ -6,9 +6,7 @@ title = c_sanmatenga
 # Settlements
 max_settlements = 3
 
-b_sanmatenga = castle
-b_sanmatenga_2 = city
-b_sanmatenga_3 = temple
+b_sanmatenga = tribal
 
 # Misc
 culture = mossi

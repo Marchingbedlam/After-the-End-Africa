@@ -6,16 +6,13 @@ title = c_freetown
 # Settlements
 max_settlements = 6
 
-b_freetown = city
-b_goderich = castle
-b_waterloo = temple
-b_hastings = city
-#b_sussex = castle
-#b_york = temple
-#b_tumbu = castle
+b_freetown_SL = city
+b_goderich_SL = castle
+b_waterloo_SL = temple
+b_hastings_SL = city
 
 # Misc
-culture = kwi
-religion = libertarian
+culture = krio
+religion = anglican
 
 #History

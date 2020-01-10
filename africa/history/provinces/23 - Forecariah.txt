@@ -6,12 +6,12 @@ title = c_forecariah
 # Settlements
 max_settlements = 3
 
-b_forecariah = castle
-b_forecariah_2 = city
-b_forecariah_3 = temple
+b_forecariah_GN = castle
+b_alassoya_GN = city
+b_sikhourou_GN = temple
 
 # Misc
 culture = temne
-religion = catholic
+religion = sunni
 
 #History

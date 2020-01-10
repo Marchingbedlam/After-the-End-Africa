@@ -1,0 +1,13 @@
+# County Title
+title = c_chinguetti
+
+# Settlements
+max_settlements = 3
+
+b_chinguetti_MR = tribal
+
+# Misc
+culture = sahrawi
+religion = sunni
+
+#History

@@ -1,0 +1,7 @@
+2660.1.1={
+holding_dynasty = 1002025
+
+liege="d_freetown"
+
+holder=1000129
+}

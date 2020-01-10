@@ -10,20 +10,21 @@ west_african = {
 		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
+			Allen
 			Boakai Beyan Borforh Boryee
-			Charles
+			Cadmael Charles
 			Didwho Dorley Dwe 
 			Forkay 
-			Garmuyu Gbwe George Gyude
-			Jlakon 
+			Garmuyu Gblayee Gbwe George Gesue Gyude
+			Jlakon Joshua
 			Kaboo Kanyon 
 			Manneh Monon-Konmlan 
 			Nimene Nyennoh 
 			Oppong 
 			Pennon 
 			Saigbe Soeh-Tehpoe 
-			Teh Togar Togba
-			Wadé 
+			Tagbedi Teh Togar Togba
+			Wadé Wlateh
 			Yenseloh 
 		}
 		
@@ -33,15 +34,15 @@ west_african = {
 			Ellen 
 			Gloria
 			Janjay Jayplo 
+			Krayonor
 			Mardea Mary Maya Monji
 			Nyonweh 
 			Poady 
 			Sorntee
 			Tanyonoh Tarloh Tomah 
-			Wleji Wloh 
+			Wleji Wloh Wreh
 		}
 
-		male_patronym = ""
 	}
 	temne = {
 		color = { 0.6 0.7 0.7 }
@@ -70,21 +71,6 @@ west_african = {
 			Zainab
 		}
 
-		male_patronym = ""
-	}
-	senegambian = {
-		color = { 0.5 0.35 0.10 }
-		
-		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
-			
-		male_names = {
-			Nyennoh Borforh Monon-Konmlan Soe-Tehpoe Konmlan Tehpoe Pennon Togba Te Jlakon Forkay Nimene Boryee Yenseloh Odeleia Gbwe
-		}
-		
-		female_names = {
-			Arway Donyen Teenesee Jayplo Japlo Sorntee Bloh Wloh Nyonweh Tarloh
-		}
 	}
 	dagomba = {
 		color = { 0 0.4 0 }
@@ -131,7 +117,7 @@ west_african = {
 		}
 	}
 	mossi = {
-		color = { 0 0.4 0 }
+		color = { 0.1 0.4 0.2 }
 		
 		graphical_cultures = { westafricangfx africangfx }
 		secondary_event_pictures = bedouin_arabic
@@ -145,8 +131,8 @@ west_african = {
 			Hamado Harouna_Aaron Henoc_Enoch 
 			Ibrahim_Abraham Ismaël_Ishmael Issiaka_Isaac Issoufou 
 			Jean_John Jonathan 
-			Kango Karfo Kimba Kom Korongo Kouda Kougri Kourita Koutou
-			Louckmane
+			Kango Karfo Kimba Koom Korongo Kouda Kougri Kourita Koutou
+			Louckmane_Lukman
 			Mamadou_Mohammed Maurice Michel_Michael Motiba Moussa_Moses Moustapha_Mustafa
 			Nakien-Zanga Nakim Namégué Nasbiré Naskiémde Niandfo Nyambre
 			Ouali_Ali Oubri Ouezzin Ousmane_Osman
@@ -162,123 +148,11 @@ west_african = {
 			Irène_Irene 
 			Koudpoko
 			Marie_Mary
+			Pokou
 			Safiatou Salimata 
 			Wamanegdo
 			Yennenga 
 		}
-	}
-	ashanti = {
-		color = { 0.95 0.75 0.25 }
-		
-		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
-			
-		male_names = {
-			Adofo Afuom Ahenkro Akwasi Antwi Asiba
-			Bafuor Boachi Bonsu
-			Dankwa 
-			Karikari Kofi Krobo Kusi Kwabena Kwadwo Kwaku Kwaku-Dua Kwame Kwasi Kweku
-			Mensa-Bonsu
-			Obiri Ofori-Atta Okomfo Okwan Opanyin Opoku-Ware Osei Osei-Tutu Owusu
-			Prempeh Preprah 
-			Sei-Ababio
-			Twum
-			Wusu 
-			Yaw-Akoto Yeboah Yiakosan 
-		}
-		
-		female_names = {
-			Abenaa Adwoa Afua Afua-Kobi Akosua Akua Ama 
-			Dayan 
-			Yaa Yaa-Akyaa
-		}
-
-		male_patronym = ""
-	}
-	fante = {
-		color = { 0.9 0.65 0.1 }
-		
-		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
-			
-		male_names = {
-			Abakrampa Amonu Amfo-Oto Atta 
-			Bekoe Bohhen
-			Ebenezer Ebo Edu Ekow Ekra-Agiman Emman 
-			Ghartey Godfred
-			Jabesh James John Joseph 
-			Kodwo Kofi Komfo-Amona Ko-Yanfu Kwamena Kweku Kwesi 
-			Lovelace
-			Odapagya Ottobah
-			Paul Peter 
-			Quobna 
-			Samuel 
-			Zuarko
-		}
-		
-		female_names = {
-			Abadua Agnes Effie Marian Peggielene Yvonne
-		}
-
-		male_patronym = ""
-	}
-	baoule = {
-		color = { 0.9 0.6 0.2 }
-		
-		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
-			
-		male_names = {
-			Abo Adje Adrien_Adrian Agpatou Aimé Albert Amédée_Amadeus Ange Arnaud Augustin 
-			Benjamin Bernard Bertin Boniface
-			César_Caesar Charles Clémence_Clement Cyraïque 
-			Dia Didier Dieudonné Diezou 
-			Edgard_Edgar Elysée Euloge Euphraïm_Ephraim Evariste Eyiou
-			Fabrice Félix_Felix Fidel Florent Frédéric_Frederick Fréjus
-			Gauz Gbro Gilbert Gnanvou Guillaume_William 
-			Henri_Henry Hervé
-			Innocent Ismaël_Ishmael 
-			Jean_John Jeremie_Jeremy Joël_Joel Josué_Joshua
-			Kacou Kago Koffi_Kofi Konan Kouadio Kouakou Kouamé Kouassi Kragbé
-			Landry Laurent_Laurence Lazare_Lazarus Léonard_Leonard Loukou 
-			Martiale Mathurin Michel_Michael Moïse_Moses
-			Narcisse N'Doli N'goran N'guessan Noël 
-			Olivier_Oliver O'Plérou 
-			Pacome Pascal Pharace
-			Richard Rodrigue_Roderick Romaric
-			Salarier Seraphin Séverin Sylvestre_Sylvester
-			Thierry Tuo 
-			Venceslasse_Wenceslaus
-			Yann Yao_Yaw Yoman Yves
-
-			Kouassi Kouassi Kouadio Kouadio Konan Konan Kouakou Kouakou Yao Yao Koffi Koffi Kouamé Kouamé
-		}
-		
-		female_names = {
-			Abla Adjoua Affoué Akissi Akwa Ahou Amenan Amoin Amlan Annick Aya
-			Béatrice_Beatrice Bienvenue 
-			Claudine
-			D'Arc Débora_Deborah
-			Edwige_Hedwig Elaudie_Elody Elisabeth Epiphanie
-			Faitai Flaure
-			Gaelle
-			Helene_Helen 
-			Immaculée 
-			Jeanne Jocelyne Josette
-			Kimou 
-			Laeticia 
-			Magloire Marie_Marie Moya
-			Nicole
-			Pokou
-			Régina_Regina Roseline Ruth 
-			Sarah Simone Stéphanie_Stephanie Sylvie 
-			Victorine_Victoria
-			Yamousso 
-			
-			Akissi Akissi Adjoua Adjoua Amenan Amenan Ahou Ahou Aya Aya Affoué Affoué Amoin Amoin 
-		} 
-
-		male_patronym = ""
 	}
     	senufo = {
 		color = { 1 0.6 0.5 }
@@ -287,11 +161,67 @@ west_african = {
 		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
-			Nyennoh Borforh Monon-Konmlan Soe-Tehpoe Konmlan Tehpoe Pennon Togba Te Jlakon Forkay Nimene Boryee Yenseloh Odeleia Gbwe
+			Ali
+			Beh 
+			Denan Doh
+			Gonan
+			Kolo Kpoh
+			M'baha Mikanidjo
+			Nagnon N'golo_Ngolo Nongotiala
+			Sidiky Sinan 
+			Tando Tchima Tennina
+			Yalmassa
+			Zana Zié
 		}
 		
 		female_names = {
-			Arway Donyen Teenesee Jayplo Japlo Sorntee Bloh Wloh Nyonweh Tarloh
+			Bara
+			Ghiré Gnaman Gneré Gnon
+			Sibiri
+			Tennindioh
+			Yelé
+		}
+	}
+	ga = {
+		color = { 1.5 1.5 1.5 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Alfred Amon Arthur Azumah
+			Boris
+			Carl Cecil Charles Christian Clifford Cyril
+			Ebenezer Edwin Emmanuel
+			Frederic_Frederick
+			George Gottlieb Guy
+			Herman_Hermann
+			Isaac Isufu
+			John Joseph
+			Kingsley
+			Lantei Lebrecht
+			Marcel Mlekubo
+			Neville
+			Obo Odarkwei Odonkor Otanka
+			Raphael
+			Saka Seth
+			Theodore Torgbor Tsui
+			William
+			Yacub_Jacob
+		}
+		
+		female_names = {
+			Ashong-Fio
+			Berla
+			Claudia
+			Elizabeth Ernestina
+			Grace
+			Lydia
+			Matilda
+			Pauline
+			Regina
+			Virginia
+			Yvonne
 		}
 	}
 	kwi = {
@@ -311,12 +241,12 @@ west_african = {
 			Filibuster Ford Fulton 
 			Gabriel Garretson Gbessi Gbotoe George_George Ghankay Gyude 
 			Hilary
-			Jallah James_James Jenkins John_John Joseph_Joseph 
+			Jallah James_James Jay Jenkins John_John Joseph_Joseph 
 			Kaijaah Kanneh Karmo Kayme Kemokai Kengbe Kermit Konowa Kpanna
-			Lamie Lorenzo_Lawrence Louis_Louis Luma 
-			Martin_Martin McArthur McKinley Melvin Momolu Monroe Moses 
+			Lamie Lorenzo_Lawrence Lott Louis_Louis Luma 
+			Madison Martin_Martin McArthur McKinley Melvin Momolu Monroe Moses 
 			Nathaniel 
-			Othello 
+			Olmstead Othello 
 			Payne Pese 
 			Quincy 
 			Reginald Richard
@@ -324,12 +254,14 @@ west_african = {
 			Tarweh Thomas_Thomas 
 			Vacanarat Varney 
 			Wesley William Wilmot Winston 
-			Zacharia Zeh Zolu		
+			Zacharia Zeh Zolu	
+
+			Mohamed_Mohammed Murad Ali Abdullah Omar Ahmed Hassan	
 		}
 		
 		female_names = {
 			Antoinette 
-			Bendu Betsy_Elizabeth 
+			Bendu Betsy_Elizabeth Beverly
 			Carolina Catharine_Katherine Cianna Ciata Cyvette 
 			Dido 
 			Ellen Emily Emancipata
@@ -347,14 +279,83 @@ west_african = {
 			Virginia 
 			Weyatta 
 			Yassa 
-			Zoe
+			Zelma Zoe
 		}
 
 		from_dynasty_prefix = "of "
 
-		male_patronym = " "
-		female_patronym = ""
-		prefix = no
+
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 20
+
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 20
+		mother_name_chance = 10
+
+		modifier = default_culture_modifier
+	}
+	krio= {
+		graphical_cultures = { westafricangfx africangfx }
+		unit_graphical_cultures = { westafricangfx africangfx }
+
+		#secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.5 0.6 1 }
+		
+		male_names = {
+			Abraham Adolphus_Adolf Africanus Albert Alexander Alfred Ambrose Andrew Archibald Arthur Athanasius Azariah
+			Campbell Cecil Clapham Claudius Clifford Coleridge Cornelius Christopher Cyril
+			Barnabas Belisarius Beresford Bernard Broughton
+			Daniel David Desmond
+			Ebenezer Edmund Edward Egerton Eldred Elliott Ephraim Ernest Etheldred Eustace
+			Farquhar Felix Franklyn_Franklin Fraser Frederick
+			Gaston George Gorham 
+			Henry Herbert Hezekiah Horace
+			Ignatius Isaac Ishmael
+			James John Josiah
+			Kenneth
+			Leighton Lemuel Leopold Leroy
+			Maurice Mayfield Melvine Montgomery Moses
+			Nathaniel Nelson
+			Obadiah Onesimus Oswald
+			Percy Peter Probyn
+			Raymond Reginald Richard Robinson Rodney Rudolph
+			Samuel Septimus Solomon Somerset Sylvester
+			Terence Theophilus Thomas
+			Victor
+			Wallace Wellesley Wilfred William Willoughby Wilmot Wilward Winstanley
+			
+			Mohamed_Mohammed Murad Ali Abdullah Omar Ahmed Hassan Said_Sa'id 	
+		}
+		
+		female_names = {
+			Adelaide
+			Bernadette
+			Cassandra Christiana Constance 
+			Daisy
+			Edna Elizabeth_Elisabeth Esther Eunice
+			Fannyann Frances Frederica
+			Gladys Grace Gwendolen
+			Hannah
+			Irene
+			June
+			Kathleen
+			Linda
+			Margaret Mary
+			Patricia Penelope
+			Rebecca Rosalind
+			Stella Sylvia
+			Tyrilla
+			Viola
+			Walmina
+			Yvonne
+
+			Aisha Zainab_Zeinab
+		}
+
+		from_dynasty_prefix = "of "
+
 
 		pat_grf_name_chance = 20
 		mat_grf_name_chance = 10

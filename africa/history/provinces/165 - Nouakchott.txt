@@ -1,0 +1,13 @@
+# County Title
+title = c_nouakchott
+
+# Settlements
+max_settlements = 3
+
+b_nouakchott_MR = tribal
+
+# Misc
+culture = haratin
+religion = sunni
+
+#History

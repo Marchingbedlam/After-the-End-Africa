@@ -1,0 +1,15 @@
+# c_rosso
+
+# County Title
+title = c_rosso
+
+# Settlements
+max_settlements = 3
+
+b_rosso_MR = tribal
+
+# Misc
+culture = wolof
+religion = sunni
+
+#History

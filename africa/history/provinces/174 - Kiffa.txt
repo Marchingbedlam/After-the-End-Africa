@@ -1,0 +1,13 @@
+# County Title
+title = c_kiffa
+
+# Settlements
+max_settlements = 3
+
+b_kiffa_MR = tribal
+
+# Misc
+culture = haratin
+religion = sunni
+
+#History

@@ -6,9 +6,7 @@ title = c_faranah
 # Settlements
 max_settlements = 3
 
-b_faranah = castle
-b_faranah_2 = city
-b_faranah_3 = temple
+b_faranah_GN = tribal
 
 # Misc
 culture = malinke

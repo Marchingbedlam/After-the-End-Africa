@@ -1,0 +1,13 @@
+# County Title
+title = c_nema
+
+# Settlements
+max_settlements = 3
+
+b_nema_MR = tribal
+
+# Misc
+culture = malinke
+religion = sunni
+
+#History

@@ -12,6 +12,6 @@ b_bamako_3 = temple
 
 # Misc
 culture = malinke
-religion = catholic
+religion = sunni
 
 #History

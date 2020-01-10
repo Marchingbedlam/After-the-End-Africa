@@ -22,19 +22,19 @@ e_atlantia = {
 					color={ 0 53 148 }
 					color2={ 255 255 255 }
 					
-					b_praia = {
+					b_praia_CV = {
 					}
-					b_cidade_velha = {
+					b_cidade_velha_CV = {
 					}
-					b_assomada = {
+					b_assomada_CV = {
 					}
-					b_pedra_badejo = {
+					b_pedra_badejo_CV = {
 					}
-					b_tarrafal = {
+					b_tarrafal_CV = {
 					}
-					b_porto_ingles = {
+					b_porto_ingles_CV = {
 					}
-					b_calheta = {
+					b_calheta_CV = {
 					}
 				}
 					
@@ -42,19 +42,19 @@ e_atlantia = {
 					color={ 15 50 112 }
 					color2={ 255 255 255 }	
 					
-					b_sao_filipe = {
+					b_sao_filipe_CV = {
 					}
-					b_mosteiros = {
+					b_mosteiros_CV = {
 					}
-					b_cova_figueira = {
+					b_cova_figueira_CV = {
 					}
-					b_nova_sintra = {
+					b_nova_sintra_CV = {
 					}
-					b_ponta_verde = {
+					b_ponta_verde_CV = {
 					}
-					b_faja_de_agua = {
+					b_faja_de_agua_CV = {
 					}
-					b_brava = {
+					b_brava_CV = {
 					}
 				}
 			}
@@ -70,19 +70,19 @@ e_atlantia = {
 				color={ 31 65 127 }
 				color2={ 255 255 255 }
 								
-				b_sal_rei = {
+				b_sal_rei_CV = {
 				}
-				b_palmeira = {
+				b_palmeira_CV = {
 				}
-				b_espargos = {
+				b_espargos_CV = {
 				}
-				b_santa_maria = {
+				b_santa_maria_CV = {
 				}
-				b_rabil = {
+				b_rabil_CV = {
 				}
-				b_pedra_de_lume = {
+				b_pedra_de_lume_CV = {
 				}
-				b_murdeira = {
+				b_murdeira_CV = {
 				}
 			}
 							
@@ -90,19 +90,19 @@ e_atlantia = {
 				color={ 43 69 115 }
 				color2={ 255 255 255 }
 								
-				b_mindelo = {
+				b_mindelo_CV = {
 				}
-				b_tarrafal_de_Sao_nicolau = {
+				b_tarrafal_de_sao_nicolau_CV = {
 				}
-				b_ribeira_brava = {
+				b_ribeira_brava_CV = {
 				}
-				b_ribeira_de_calhau = {
+				b_ribeira_de_calhau_CV = {
 				}
-				b_madeiral = {
+				b_madeiral_CV = {
 				}
-				b_juncalinho = {
+				b_juncalinho_CV = {
 				}
-				b_praia_branca = {
+				b_praia_branca_CV = {
 				}
 			}
 			
@@ -110,19 +110,19 @@ e_atlantia = {
 				color={ 56 97 169 }
 				color2={ 255 255 255 }
 								
-				b_porto_novo = {
+				b_porto_novo_CV = {
 				}
-				b_ponta_do_sol = {
+				b_ponta_do_sol_CV = {
 				}
-				b_janela = {
+				b_janela_CV = {
 				}
-				b_tarrafal_de_monte_trigo = {
+				b_tarrafal_de_monte_trigo_CV = {
 				}
-				b_ribeira_da_cruz
+				b_ribeira_da_cruz_CV = {
 				}
-				b_sinagoga = {
+				b_sinagoga_CV = {
 				}
-				b_cruzinha = {
+				b_cruzinha_CV = {
 				}
 			}
 		}

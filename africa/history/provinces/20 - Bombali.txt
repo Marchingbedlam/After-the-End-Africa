@@ -6,9 +6,9 @@ title = c_bombali
 # Settlements
 max_settlements = 3
 
-b_makeni = castle
-b_bombali = city
-b_bombali_2 = temple
+b_makeni_SL = castle
+b_kamakwie_SL = city
+b_binkolo_SL = temple
 
 # Misc
 culture = temne

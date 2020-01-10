@@ -1,0 +1,13 @@
+# County Title
+title = c_tessalit
+
+# Settlements
+max_settlements = 3
+
+b_tessalit_ML = tribal
+
+# Misc
+culture = tuareg
+religion = sunni
+
+#History

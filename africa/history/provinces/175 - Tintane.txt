@@ -1,0 +1,13 @@
+# County Title
+title = c_tintane
+
+# Settlements
+max_settlements = 3
+
+b_tintane_MR = tribal
+
+# Misc
+culture = soninke
+religion = sunni
+
+#History

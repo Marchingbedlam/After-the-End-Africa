@@ -6,9 +6,8 @@ title = c_river_cess
 # Settlements
 max_settlements = 3
 
-b_river_cess = castle
-b_sehnkwehn = city
-#b_abraham = temple
+b_river_cess_LR = castle
+b_gozohn_LR = city
 
 # Misc
 culture = kwi

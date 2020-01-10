@@ -1,0 +1,13 @@
+# County Title
+title = c_tanezrouft
+
+# Settlements
+max_settlements = 3
+
+b_in_guezzan_DZ = tribal
+
+# Misc
+culture = tuareg
+religion = sunni
+
+#History

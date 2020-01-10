@@ -1,0 +1,13 @@
+# County Title
+title = c_guidimaka
+
+# Settlements
+max_settlements = 3
+
+b_selibaby_MR = tribal
+
+# Misc
+culture = fula
+religion = sunni
+
+#History

@@ -6,9 +6,9 @@ title = c_gbarpolu
 # Settlements
 max_settlements = 3
 
-b_bopolu = castle
-b_wieusa = city
-b_gbange = temple
+b_bopolu_LR = castle
+b_weasua_LR = city
+b_gumgbeta_LR = temple
 
 # Misc
 culture = kpelle

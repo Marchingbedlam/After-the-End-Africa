@@ -951,3 +951,587 @@ b_zimmi;Zimmi;Zimmi;Zimmi;;Zimmi;;;;;;;;;x
 b_zimmi_adj;Zimmian;;zimmer;;;;;;;;;;;x
 b_zwedru;Zwedru;Zwedru;Zwedru;;Zwedru;;;;;;;;;x
 b_zwedru_adj;Zwedrian;;zwedrer;;;;;;;;;;;x
+
+##Cabo Verde
+b_assomada_CV;Assomada;;;;;;;;;x
+b_brava_CV;Brava;;;;;;;;;x
+b_calheta_CV;Calheta;;;;;;;;;x
+b_cidade_velha_CV;Cidade Velha;;;;;;;;;x
+b_cova_figueira_CV;Cova Figueira;;;;;;;;;x
+b_cruzinha_CV;Cruzinha;;;;;;;;;x
+b_espargos_CV;Espargos;;;;;;;;;x
+b_faja_de_agua_CV;Fajã de Água;;;;;;;;;x
+b_janela_CV;Janela;;;;;;;;;x
+b_juncalinho_CV;Juncalinho;;;;;;;;;x
+b_madeiral_CV;Madeiral;;;;;;;;;x
+b_mindelo_CV;Mindelo;;;;;;;;;x
+b_mosteiros_CV;Mosteiros;;;;;;;;;x
+b_murdeira_CV;Murdeira;;;;;;;;;x
+b_nova_sintra_CV;Nova Sintra;;;;;;;;;x
+b_palmeira_CV;Palmeira;;;;;;;;;x
+b_pedra_badejo_CV;Pedra Badejo;;;;;;;;;x
+b_pedra_da_lume_CV;Pedra da Lume;;;;;;;;;x
+b_ponta_do_sol_CV;Ponta do Sol;;;;;;;;;x
+b_ponta_verde_CV;Ponta Verde;;;;;;;;;x
+b_porto_ingles_CV;Porto Inglês;;;;;;;;;x
+b_porto_novo_CV;Porto Novo;;;;;;;;;x
+b_praia_CV;Praia;;;;;;;;;x
+b_praia_branca_CV;Praia Branca;;;;;;;;;x
+b_rabil_CV;Rabil;;;;;;;;;x
+b_ribeira_brava_CV;Ribeira Brava;;;;;;;;;x
+b_ribeira_da_cruz_CV;Ribeira da Cruz;;;;;;;;;x
+b_ribeira_de_calhau_CV;Ribeira de Calhau;;;;;;;;;x
+b_sal_rei_CV;Sal Rei;;;;;;;;;x
+b_santa_maria_CV;Santa Maria;;;;;;;;;x
+b_sao_filipe_CV;São Filipe;;;;;;;;;x
+b_sinagoga_CV;Sinagoga;;;;;;;;;x
+b_tarrafal_CV;Tarrafal;;;;;;;;;x
+b_tarrafal_de_monte_trigo_CV;Tarrafal de Monte Trigo;;;;;;;;;x
+b_tarrafal_de_sao_nicolau_CV;Tarrafal de São Nicolau;;;;;;;;;x
+
+##Free Coast
+b_arthington_LR;Arthington;;;;;;;;;x
+b_baiima_SL;Baiima;;;;;;;;;x
+b_baoma_SL;Baoma;;;;;;;;;x
+b_barclayville_LR;Barclayville;;;;;;;;;x
+b_belefanai_LR;Belefanai;;;;;;;;;x
+b_bendugu_SL;Bendugu;;;;;;;;;x
+b_bensonville_LR;Bensonville;;;;;;;;;x
+b_ben_town_LR;Ben Town;;;;;;;;;x
+b_bilibokree_LR;Bilibokree;;;;;;;;;x
+b_binkolo_SL;Binkolo;;;;;;;;;x
+b_benguema_SL;Benguema;;;;;;;;;x
+b_blama_SL;Blama;;;;;;;;;x
+b_bo_SL;Bo;;;;;;;;;x
+b_boajibu_SL;Boajibu;;;;;;;;;x
+b_boegeezay_LR;Boegeezay;;;;;;;;;x
+b_bokoa_LR;Bokoa;;;;;;;;;x
+b_bombor_LR;Bombor;;;;;;;;;x
+b_bonthe_SL;Bonthe;;;;;;;;;x
+b_bopolu_LR;Bopolu;;;;;;;;;x
+b_botota_LR;Botota;;;;;;;;;x
+b_buchanan_LR;Buchanan;;;;;;;;;x
+b_bumbuna_SL;Bumbuna;;;;;;;;;x
+b_bumpeh_SL;Bumpeh;;;;;;;;;x
+b_buutuo_LR;Buutuo;;;;;;;;;x
+b_capitol_hill_LR;Capitol Hill;;;;;;;;;x
+b_careysburg_LR;Careysburg;;;;;;;;;x
+b_chebioh_LR;Chebioh;;;;;;;;;x
+b_crozerville_LR;Crozerville;;;;;;;;;x
+b_dyankpo_LR;Dyankpo;;;;;;;;;x
+b_edina_LR;Edina;;;;;;;;;x
+b_fadugu_SL;Fadugu;;;;;;;;;x
+b_fairo_SL;Fairo;;;;;;;;;x
+b_falaba_SL;Falaba;;;;;;;;;x
+b_fassama_LR;Fassama;;;;;;;;;x
+b_fintonia_SL;Fintonia;;;;;;;;;x
+b_fish_town_LR;Fish Town;;;;;;;;;x
+b_foya_city_LR;Foya City;;;;;;;;;x
+b_freetown_SL;Freetown;;;;;;;;;x
+b_gandorhun_SL;Gandorhun;;;;;;;;;x
+b_ganta_LR;Ganta;;;;;;;;;x
+b_gbakliken_LR;Gbakliken;;;;;;;;;x
+b_gbap_SL;Gbap;;;;;;;;;x
+b_gbarma_LR;Gbarma;;;;;;;;;x
+b_gbarnga_LR;Gbarnga;;;;;;;;;x
+b_gbatala_LR;Gbatala;;;;;;;;;x
+b_gbinti_SL;Gbinti;;;;;;;;;x
+b_gboleken_LR;Gboleken;;;;;;;;;x
+b_ghapo_LR;Ghapo;;;;;;;;;x
+b_goderich_SL;Goderich;;;;;;;;;x
+b_gonglee_LR;Gonglee;;;;;;;;;x
+b_gozohn_LR;Gozohn;;;;;;;;;x
+b_grand_cess_LR;Grand Cess;;;;;;;;;x
+b_greenville_LR;Greenville;;;;;;;;;x
+b_gumgbeta_LR;Gumgbeta;;;;;;;;;x
+b_gwin_town_LR;Gwin Town;;;;;;;;;x
+b_harbel_LR;Harbel;;;;;;;;;x
+b_harper_LR;Harper;;;;;;;;;x
+b_hastings_SL;Hastings;;;;;;;;;x
+b_hunduwa_SL;Hunduwa;;;;;;;;;x
+b_jaiama_nimikor_SL;Jaiama Nimikor;;;;;;;;;x
+b_janzon_LR;Janzon;;;;;;;;;x
+b_jarkalen_LR;Jarkalen;;;;;;;;;x
+b_jimmiville_LR;Jimmiville;;;;;;;;;x
+b_kabala_SL;Kabala;;;;;;;;;x
+b_kahnple_LR;Kahnple;;;;;;;;;x
+b_kakata_LR;Kakata;;;;;;;;;x
+b_kamabai_SL;Kamabai;;;;;;;;;x
+b_kamakwie_SL;Kamakwie;;;;;;;;;x
+b_kanweaken_LR;Kanweaken;;;;;;;;;x
+b_karatown_LR;Karatown;;;;;;;;;x
+b_karina_SL;Karina;;;;;;;;;x
+b_karloken_LR;Karloken;;;;;;;;;x
+b_kasseh_SL;Kasseh;;;;;;;;;x
+b_kate_town_LR;Kate Town;;;;;;;;;x
+b_kenema_SL;Kenema;;;;;;;;;x
+b_klay_LR;Klay;;;;;;;;;x
+b_koidu_town_SL;Koidu Town;;;;;;;;;x
+b_kolahun_LR;Kolahun;;;;;;;;;x
+b_kondembaia_SL;Kondembaia;;;;;;;;;x
+b_kupeta_LR;Kupeta;;;;;;;;;x
+b_leicester_SL;Leicester;;;;;;;;;x
+b_lungi_SL;Lungi;;;;;;;;;x
+b_lunsar_SL;Lunsar;;;;;;;;;x
+b_mabang_SL;Mabang;;;;;;;;;x
+b_magburaka_SL;Magburaka;;;;;;;;;x
+b_makeni_SL;Makeni;;;;;;;;;x
+b_masam_SL;Masam;;;;;;;;;x
+b_masiaka_SL;Masiaka;;;;;;;;;x
+b_matotoka_SL;Matotoka;;;;;;;;;x
+b_mattru_jong_SL;Mattru Jong;;;;;;;;;x
+b_mongeri_SL;Mongeri;;;;;;;;;x
+b_monrovia_LR;Monrovia;;;;;;;;;x
+b_motema_SL;Motema;;;;;;;;;x
+b_moyamba_SL;Moyamba;;;;;;;;;x
+b_musaia_SL;Musaia;;;;;;;;;x
+b_newton_SL;Newton;;;;;;;;;x
+b_owensgrove_LR;Owensgrove;;;;;;;;;x
+b_palakwekkeh_LR;Palakwekkeh;;;;;;;;;x
+b_palala_LR;Palala;;;;;;;;;x
+b_pandebu_SL;Pandebu;;;;;;;;;x
+b_panguma_SL;Panguma;;;;;;;;;x
+b_pleebo_LR;Pleebo;;;;;;;;;x
+b_port_loko_SL;Port Loko;;;;;;;;;x
+b_potoru_SL;Potoru;;;;;;;;;x
+b_pujehun_SL;Pujehun;;;;;;;;;x
+b_pyneston_LR;Pyneston;;;;;;;;;x
+b_river_cess_LR;River Cess;;;;;;;;;x
+b_river_gbeh_LR;River Gbeh;;;;;;;;;x
+b_robertsport_LR;Robertsport;;;;;;;;;x
+b_rochin_SL;Rochin;;;;;;;;;x
+b_rokupr_SL;Kenema;;;;;;;;;x
+b_rotifun_SL;Rotifun;;;;;;;;;x
+b_saclepea_LR;Saclepea;;;;;;;;;x
+b_salayea_LR;Salayea;;;;;;;;;x
+b_saniquelle_LR;Saniquelle;;;;;;;;;x
+b_sanoyea_LR;Sanoyea;;;;;;;;;x
+b_sasstown_LR;Sasstown;;;;;;;;;x
+b_schieffelin_LR;Schieffelin;;;;;;;;;x
+b_sewafe_SL;Sewafe;;;;;;;;;x
+b_shenge_SL;Shenge;;;;;;;;;x
+b_sikunai_SL;Sikunai;;;;;;;;;x
+b_sinje_LR;Sinje;;;;;;;;;x
+b_smell_no_taste_LR;Smell-no-Taste;;;;;;;;;x
+b_sodi_LR;Sodi;;;;;;;;;x
+b_suacoco_LR;Suacoco;;;;;;;;;x
+b_sulima_SL;Sulima;;;;;;;;;x
+b_tahn_LR;Tahn;;;;;;;;;x
+b_tapeta_LR;Tapeta;;;;;;;;;x
+b_tarwarken_LR;Tarwarken;;;;;;;;;x
+b_telu_SL;Telu;;;;;;;;;x
+b_tiene_LR;Tiene;;;;;;;;;x
+b_tihun_SL;Tihun;;;;;;;;;x
+b_tikonko_SL;Tikonko;;;;;;;;;x
+b_timbo_LR;Timbo;;;;;;;;;x
+b_toe_town_LR;Toe Town;;;;;;;;;x
+b_tokpombu_SL;Tokpombu;;;;;;;;;x
+b_tombodu_SL;Tombodu;;;;;;;;;x
+b_tongo_SL;Tongo;;;;;;;;;x
+b_tonkolili_SL;Tonkolili;;;;;;;;;x
+b_tubmanburg_LR;Tubmanburg;;;;;;;;;x
+b_tuzon_LR;Tuzon;;;;;;;;;x
+b_vahun_LR;Vahun;;;;;;;;;x
+b_voinjama_LR;Voinjama;;;;;;;;;x
+b_waterloo_SL;Waterloo;;;;;;;;;x
+b_weasua_LR;Weasua;;;;;;;;;x
+b_yamandu_SL;Yamandu;;;;;;;;;x
+b_yeebo_town_LR;Yeebo Town;;;;;;;;;x
+b_yekepa_LR;Yekepa;;;;;;;;;x
+b_yengema_SL;Yengema;;;;;;;;;x
+b_yonibana_SL;Yonibana;;;;;;;;;x
+b_ziah_town_LR;Ziah Town;;;;;;;;;x
+b_zimmi_SL;Zimmi;;;;;;;;;x
+b_zorzor_LR;Zorzor;;;;;;;;;x
+b_zuie_LR;Zuie;;;;;;;;;x
+b_zwedru_LR;Zwedru;;;;;;;;;x
+
+##Guinea
+b_alassoya_GN;Alassoya;;;;;;;;;x
+b_albadaria_GN;Albadaria;;;;;;;;;x
+b_arfamoussaya_GN;Arfamoussaya;;;;;;;;;x
+b_babila_GN;Babila;;;;;;;;;x
+b_baguinet_GN;Baguinet;;;;;;;;;x
+b_bahere_GN;Bahere;;;;;;;;;x
+b_balaki_GN;Balaki;;;;;;;;;x
+b_balandougouba_GN;Siguiri;;;;;;;;;x
+b_banfele_GN;Banfélé;;;;;;;;;x
+b_banguingny_GN;Banguingny;;;;;;;;;x
+b_banian_GN;Banian;;;;;;;;;x
+b_banko_GN;Banko;;;;;;;;;x
+b_bankon_GN;Bankon;;;;;;;;;x
+b_banora_GN;Banora;;;;;;;;;x
+b_bate_nafadji_GN;Bate-Nafadji;;;;;;;;;x
+b_benty_GN;Benty;;;;;;;;;x
+b_bessile_GN;Bessile;;;;;;;;;x
+b_beyla_GN;Beyla;;;;;;;;;x
+b_bintimodiya_GN;Bintimodiya;;;;;;;;;x
+b_bissikrima_GN;Bissikrima;;;;;;;;;x
+b_boffa_GN;Boffa;;;;;;;;;x
+b_boke_GN;Boké;;;;;;;;;x
+b_bossou_GN;Bossou;;;;;;;;;x
+b_bouria_GN;Bouria;;;;;;;;;x
+b_bourouwal_GN;Bourouwal;;;;;;;;;x
+b_cissela_GN;Cisséla;;;;;;;;;x
+b_colia_GN;Colia;;;;;;;;;x
+b_conakry_GN;Conakry;;;;;;;;;x
+b_dabiss_GN;Dabiss;;;;;;;;;x
+b_dabola_GN;Dabola;;;;;;;;;x
+b_dalein_GN;Dalein;;;;;;;;;x
+b_danba_GN;Danba;;;;;;;;;x
+b_daramagnaky_GN;Daramagnaky;;;;;;;;;x
+b_darha_GN;Darha;;;;;;;;;x
+b_dialakoro_GN;Dialakoro;;;;;;;;;x
+b_diara_guerela_GN;Diara-Guerela;;;;;;;;;x
+b_diatifere_GN;Diatiféré;;;;;;;;;x
+b_dinguiraye_GN;Dinguiraye;;;;;;;;;x
+b_dionfo_GN;Dionfo;;;;;;;;;x
+b_dixinn_GN;Dixinn;;;;;;;;;x
+b_dogomet_GN;Dogomet;;;;;;;;;x
+b_doko_GN;Doko;;;;;;;;;x
+b_donghol_sigon_GN;Donghol-Sigon;;;;;;;;;x
+b_douako_GN;Douako;;;;;;;;;x
+b_douprou_GN;Douprou;;;;;;;;;x
+b_dubreka_GN;Dubréka;;;;;;;;;x
+b_fafaya_GN;Fafaya;;;;;;;;;x
+b_falessade_GN;Falessade;;;;;;;;;x
+b_faralako_GN;Faralako;;;;;;;;;x
+b_faranah_GN;Faranah;;;;;;;;;x
+b_fassankoni_GN;Fassankoni;;;;;;;;;x
+b_fatako_GN;Fatako;;;;;;;;;x
+b_felako_GN;Félako;;;;;;;;;x
+b_fello_koundoua_GN;Fello-Koundoua;;;;;;;;;x
+b_forecariah_GN;Forécariah;;;;;;;;;x
+b_fougou_GN;Fougou;;;;;;;;;x
+b_foumbadou_GN;Foumbadou;;;;;;;;;x
+b_franwalia_GN;Franwalia;;;;;;;;;x
+b_fria_GN;Fria;;;;;;;;;x
+b_friguiagbe_GN;Friguiagbé;;;;;;;;;x
+b_gagnakali_GN;Gagnakali;;;;;;;;;x
+b_gaoual_GN;Gaoual;;;;;;;;;x
+b_garambe_GN;Garambé;;;;;;;;;x
+b_gbessoba_GN;Gbessoba;;;;;;;;;x
+b_gnaleah_GN;Gnaléah;;;;;;;;;x
+b_gonkou_GN;Gonkou;;;;;;;;;x
+b_gouecke_GN;Gouécké;;;;;;;;;x
+b_gougoudje_GN;Gougoudjé;;;;;;;;;x
+b_gueassou_GN;Guéassou;;;;;;;;;x
+b_guekedou_GN;Guékédou;;;;;;;;;x
+b_guibe_GN;Guibe;;;;;;;;;x
+b_guingan_GN;Guingan;;;;;;;;;x
+b_hafia_GN;Hafia;;;;;;;;;x
+b_heremakonon_GN;Hérémakonon;;;;;;;;;x
+b_hidayatou_GN;Hidayatou;;;;;;;;;x
+b_kaback_GN;Kaback;;;;;;;;;x
+b_kakony_GN;Kakony;;;;;;;;;x
+b_kakossa_GN;Kakossa;;;;;;;;;x
+b_kalinko_GN;Kalinko;;;;;;;;;x
+b_kamaby_GN;Kamaby;;;;;;;;;x
+b_kamsar_GN;Kamsar;;;;;;;;;x
+b_kanfarande_GN;Kanfarandé;;;;;;;;;x
+b_kankan_GN;Kankan;;;;;;;;;x
+b_kansangui_GN;Kansangui;;;;;;;;;x
+b_karfamoria_GN;Karfamoria;;;;;;;;;x
+b_kegneko_GN;Kégnéko;;;;;;;;;x
+b_kenieko_GN;Kéniéko;;;;;;;;;x
+b_khorira_GN;Khorira;;;;;;;;;x
+b_kindia_GN;Kindia;;;;;;;;;x
+b_kindoye_GN;Kindoyé;;;;;;;;;x
+b_kiniero_GN;Kiniéro;;;;;;;;;x
+b_kintinian_GN;Kintinian;;;;;;;;;x
+b_kissidougou_GN;Kissidougou;;;;;;;;;x
+b_koba_tatema_GN;Koba-Tatema;;;;;;;;;x
+b_kobela_GN;Kobéla;;;;;;;;;x
+b_koin_GN;Koin;;;;;;;;;x
+b_kokota_GN;Kokota;;;;;;;;;x
+b_kolaboui_GN;Kolaboui;;;;;;;;;x
+b_kolangui_GN;Kolangui;;;;;;;;;x
+b_kolente_GN;Kolenté;;;;;;;;;x
+b_kollet_GN;Kollet;;;;;;;;;x
+b_komola_koura_GN;Komola-Koura;;;;;;;;;x
+b_konkoure_GN;Konkouré;;;;;;;;;x
+b_koumandou_GN;Koumandou;;;;;;;;;x
+b_koumban_GN;Koumban;;;;;;;;;x
+b_koumbia_GN;Koumbia;;;;;;;;;x
+b_koundara_GN;Koundara;;;;;;;;;x
+b_koundianakoro_GN;Koundianakoro;;;;;;;;;x
+b_kounsitel_GN;Kounsitel;;;;;;;;;x
+b_kouroussa_GN;Kouroussa;;;;;;;;;x
+b_labe_GN;Labé;;;;;;;;;x
+b_lain_GN;Lain;;;;;;;;;x
+b_lansanya_GN;Lansanya;;;;;;;;;x
+b_lebekere_GN;Lébékére;;;;;;;;;x
+b_lisso_GN;Lisso;;;;;;;;;x
+b_lola_GN;Lola;;;;;;;;;x
+b_macenta_GN;Macenta;;;;;;;;;x
+b_madina_oula_GN;Madina-Oula;;;;;;;;;x
+b_maferinya_GN;Maférinya;;;;;;;;;x
+b_malanta_GN;Malanta;;;;;;;;;x
+b_malapouyah_GN;Malapouyah;;;;;;;;;x
+b_mali_GN;Mali;;;;;;;;;x
+b_mambia_GN;Mambia;;;;;;;;;x
+b_mamou_GN;Mamou;;;;;;;;;x
+b_mandiana_GN;Mandiana;;;;;;;;;x
+b_manfran_GN;Manfran;;;;;;;;;x
+b_mankountan_GN;Mankountan;;;;;;;;;x
+b_marela_GN;Marela;;;;;;;;;x
+b_missamana_GN;Missamana;;;;;;;;;x
+b_molota_GN;Molota;;;;;;;;;x
+b_moria_GN;Moria;;;;;;;;;x
+b_morodou_GN;Morodou;;;;;;;;;x
+b_moussadou_GN;Moussadou;;;;;;;;;x
+b_ndema_GN;N'Déma;;;;;;;;;x
+b_niagassola_GN;Niagassola;;;;;;;;;x
+b_nionsomoridou_GN;Nionsomoridou;;;;;;;;;x
+b_norassoba_GN;Norassoba;;;;;;;;;x
+b_noussy_GN;Noussy;;;;;;;;;x
+b_nyagara_GN;Nyagara;;;;;;;;;x
+b_nzebela_GN;N'Zébéla;;;;;;;;;x
+b_nzerekore_GN;Nzérékoré;;;;;;;;;x
+b_ouassou_GN;Ouassou;;;;;;;;;x
+b_ouende_kenema_GN;Ouéndé-Kénéma;;;;;;;;;x
+b_ouremai_GN;Ourémai;;;;;;;;;x
+b_ourouko_GN;Ourouko;;;;;;;;;x
+b_pale_GN;Palé;;;;;;;;;x
+b_panziazou_GN;Panziazou;;;;;;;;;x
+b_passayah_GN;Passayah;;;;;;;;;x
+b_poredaka_GN;Porédaka;;;;;;;;;x
+b_poudan_GN;Poudan;;;;;;;;;x
+b_ratoma_GN;Ratoma;;;;;;;;;x
+b_sabadou_baranama_GN;Sabadou-Baranama;;;;;;;;;x
+b_salambande_GN;Salambandé;;;;;;;;;x
+b_sambailo_GN;Sambailo;;;;;;;;;x
+b_samoe_GN;Samoé;;;;;;;;;x
+b_sandeniah_GN;Sandéniah;;;;;;;;;x
+b_sangaredi_GN;Sangarédi;;;;;;;;;x
+b_sanguiana_GN;Sanguiana;;;;;;;;;x
+b_sansando_GN;Sansando;;;;;;;;;x
+b_saramoussaya_GN;Saramoussaya;;;;;;;;;x
+b_sareboido_GN;Saréboido;;;;;;;;;x
+b_sarekaly_GN;Sarékaly;;;;;;;;;x
+b_selouma_GN;Sélouma;;;;;;;;;x
+b_siguiri_GN;Siguiri;;;;;;;;;x
+b_sikhourou_GN;Sikhourou;;;;;;;;;x
+b_sinko_GN;Sinko;;;;;;;;;x
+b_siriaia_GN;Siriaia;;;;;;;;;x
+b_sougueta_GN;Souguéta;;;;;;;;;x
+b_tangali_GN;Tangali;;;;;;;;;x
+b_teguereya_GN;Téguéréya;;;;;;;;;x
+b_tekoulo_GN;Tekoulo;;;;;;;;;x
+b_telimele_GN;Télimélé;;;;;;;;;x
+b_telire_GN;Téliré;;;;;;;;;x
+b_termesse_GN;Termesse;;;;;;;;;x
+b_thionthian_GN;Thionthian;;;;;;;;;x
+b_tinti_oulen_GN;Tinti-Oulen;;;;;;;;;x
+b_tokounou_GN;Tokounou;;;;;;;;;x
+b_tondon_GN;Tondon;;;;;;;;;x
+b_tormelin_GN;Tormelin;;;;;;;;;x
+b_touba_GN;Touba;;;;;;;;;x
+b_tougnifili_GN;Tougnifili;;;;;;;;;x
+b_tougue_GN;Tougué;;;;;;;;;x
+b_tounkarata_GN;Tounkarata;;;;;;;;;x
+b_tountouroun_GN;Tountouroun;;;;;;;;;x
+b_vasseredou_GN;Vassérédou;;;;;;;;;x
+b_watanka_GN;Watanka;;;;;;;;;x
+b_wendou_mbour_GN;Wendou M'bour;;;;;;;;;x
+b_womeny_GN;Womeny;;;;;;;;;x
+b_yalenzou_GN;Yalenzou;;;;;;;;;x
+b_yende_millimou_GN;Yendé-Millimou;;;;;;;;;x
+b_yimbering_GN;Yimbéring;;;;;;;;;x
+b_youkounkoun_GN;Youkounkoun;;;;;;;;;x
+
+##Mauritania
+b_adel_bagrou_MR;Adel Bagrou;;;;;;;;;x
+b_aere_MR;Aéré;;;;;;;;;x
+b_aghoratt_MR;Aghoratt;;;;;;;;;x
+b_agounit_MR;Agounit;;;;;;;;;x
+b_ain_ehel_taya_MR;Ain Ehel Taya;;;;;;;;;x
+b_ain_savra_MR;Ain Savra;;;;;;;;;x
+b_akjoutj_MR;Akjoutj;;;;;;;;;x
+b_albadaa_MR;Albadaa;;;;;;;;;x
+b_aleg_MR;Aleg;;;;;;;;;x
+b_amourj_MR;Amourj;;;;;;;;;x
+b_aoueinat_zbel_MR;Aoueinat Zbel;;;;;;;;;x
+b_aoujeft_MR;Aoujeft;;;;;;;;;x
+b_aouleiguatt_MR;Rosso;;;;;;;;;x
+b_arafat_MR;Arafat;;;;;;;;;x
+b_arkeiss_MR;Arkeiss;;;;;;;;;x
+b_atar_MR;Atar;;;;;;;;;x
+b_awguej_MR;Awguej;;;;;;;;;x
+b_ayoun_el_atrous_MR;Ayoun el Atrous;;;;;;;;;x
+b_azgueilem_tiyab_MR;Azgueilem Tiyab;;;;;;;;;x
+b_azougui_MR;Azougui;;;;;;;;;x
+b_bababe_MR;Bababé;;;;;;;;;x
+b_bareina_MR;Bareina;;;;;;;;;x
+b_barkeol_MR;Barkeol;;;;;;;;;x
+b_bassiknou_MR;Bassiknou;;;;;;;;;x
+b_beir_tores_MR;Beir Tores;;;;;;;;;x
+b_belghirbane_MR;Belghirbane;;;;;;;;;x
+b_benichab_MR;Benichab;;;;;;;;;x
+b_bir_gandouz_EH;Bir Gandouz;;;;;;;;;x
+b_bir_ncara_MR;Bir Ncara;;;;;;;;;x
+b_blajmil_MR;Blajmil;;;;;;;;;x
+b_boghe_MR;Boghé;;;;;;;;;x
+b_bouanze_MR;Bouanze;;;;;;;;;x
+b_bougadoum_MR;Bougadoum;;;;;;;;;x
+b_boulahrath_MR;Boulahrath;;;;;;;;;x
+b_boumdeid_MR;Boumdeid;;;;;;;;;x
+b_bou_rethma_MR;Bou Rethma;;;;;;;;;x
+b_boutalhaya_MR;Boutalhaya;;;;;;;;;x
+b_boutilimit_MR;Boutilimit;;;;;;;;;x
+b_cansado_MR;Cansado;;;;;;;;;x
+b_casbah_des_ait_maouine_MR;Casbah des Ait Maouine;;;;;;;;;x
+b_cheggar_MR;Cheggar;;;;;;;;;x
+b_chinguetti_MR;Chinguetti;;;;;;;;;x
+b_choum_MR;Choum;;;;;;;;;x
+b_dafort_MR;Dafort;;;;;;;;;x
+b_daghveg_MR;Daghveg;;;;;;;;;x
+b_dakhla_EH;Dakhla;;;;;;;;;x
+b_dar_naim_MR;Dar-Naim;;;;;;;;;x
+b_diade_MR;Diade;;;;;;;;;x
+b_djigueni_MR;Djigueni;;;;;;;;;x
+b_djonaba_MR;Djonaba;;;;;;;;;x
+b_djovol_MR;Djovol;;;;;;;;;x
+b_douar_lasker_EH;Douar Lasker;;;;;;;;;x
+b_douerie_MR;Douerie;;;;;;;;;x
+b_el_argoub_EH;El Argoub;;;;;;;;;x
+b_el_ariye_MR;El Ariye;;;;;;;;;x
+b_elb_adress_MR;Elb Adress;;;;;;;;;x
+b_el_ghabra_MR;El Ghabra;;;;;;;;;x
+b_el_guellaba_MR;El Guellaba;;;;;;;;;x
+b_eljadida_MR;Eljadida;;;;;;;;;x
+b_el_mamghar_MR;El Mamghar;;;;;;;;;x
+b_el_megve_MR;El Megve;;;;;;;;;x
+b_el_melgue_MR;El Melgue;;;;;;;;;x
+b_el_mina_MR;El Mina;;;;;;;;;x
+b_el_rhein_MR;El Rhein;;;;;;;;;x
+b_enkermodi_MR;Enkermodi;;;;;;;;;x
+b_entkemkemt_MR;Entkemkemt;;;;;;;;;x
+b_fassala_MR;Fassala;;;;;;;;;x
+b_fderik_MR;F'dérik;;;;;;;;;x
+b_feireni_MR;Feireni;;;;;;;;;x
+b_ghlig_el_ghodf_MR;Ghlig El Ghodf;;;;;;;;;x
+b_gogui_MR;Gogui;;;;;;;;;x
+b_gouimi_MR;Gouimi;;;;;;;;;x
+b_gouraye_MR;Gouraye;;;;;;;;;x
+b_guerguerat_EH;Guerguerat;;;;;;;;;x
+b_hamod_MR;Hamod;;;;;;;;;x
+b_hassi_chaggar_MR;Hassi Chaggar;;;;;;;;;x
+b_hay_bichete_EH;Hay Bichete;;;;;;;;;x
+b_hsey_tin_MR;Hsey Tin;;;;;;;;;x
+b_imlili_EH;Imlili;;;;;;;;;x
+b_iouik_MR;Iouik;;;;;;;;;x
+b_jraif_MR;Jraif;;;;;;;;;x
+b_kaedi_MR;Kaédi;;;;;;;;;x
+b_kankossa_MR;Kankossa;;;;;;;;;x
+b_kataouane_MR;Kataouane;;;;;;;;;x
+b_keur_macene_MR;Keur Macene;;;;;;;;;x
+b_kiffa_MR;Kiffa;;;;;;;;;x
+b_kobenni_MR;Kobenni;;;;;;;;;x
+b_koumbi_saleh_MR;Koumbi Saleh;;;;;;;;;x
+b_kouroudjel_MR;Kouroudjel;;;;;;;;;x
+b_kouroukere_MR;Kouroukéré;;;;;;;;;x
+b_kreimi_MR;Kreimi;;;;;;;;;x
+b_ksar_el_barka_MR;Ksar el Barka;;;;;;;;;x
+b_la_batterie_MR;La Batterie;;;;;;;;;x
+b_laftah_MR;Laftah;;;;;;;;;x
+b_la_guera_EH;La Güera;;;;;;;;;x
+b_lassarga_EH;Lassarga;;;;;;;;;x
+b_laweissi_MR;Laweissi;;;;;;;;;x
+b_lebhir_MR;Lebhir;;;;;;;;;x
+b_legrane_MR;Legrane;;;;;;;;;x
+b_lemhaisrat_MR;Lemhaisrat;;;;;;;;;x
+b_lexelba_MR;Lexelba;;;;;;;;;x
+b_likleiouat_MR;Likleiouat;;;;;;;;;x
+b_maatamoulana_MR;Maatamoulana;;;;;;;;;x
+b_mabrouk_MR;Mabrouk;;;;;;;;;x
+b_maghta_lahjar_MR;Maghta-Lahjar;;;;;;;;;x
+b_majhana_MR;Majhana;;;;;;;;;x
+b_mal_MR;Mal;;;;;;;;;x
+b_mbagne_MR;M'Bagne;;;;;;;;;x
+b_mbalal_MR;Mbalal;;;;;;;;;x
+b_mbout_MR;M'Bout;;;;;;;;;x
+b_mederdra_MR;Mederdra;;;;;;;;;x
+b_mhaoudat_MR;M'haoudat;;;;;;;;;x
+b_mijek_EH;Mijek;;;;;;;;;x
+b_monguel_MR;Monguel;;;;;;;;;x
+b_moudiat_MR;Moudiat;;;;;;;;;x
+b_moudjeria_MR;Moudjeria;;;;;;;;;x
+b_ndiago_MR;Ndiago;;;;;;;;;x
+b_nebaghiya_MR;Nebaghiya;;;;;;;;;x
+b_nema_MR;Néma;;;;;;;;;x
+b_nouadhibou_MR;Nouadhibou;;;;;;;;;x
+b_nouakchott_MR;Nouakchott;;;;;;;;;x
+b_nouamline_MR;Nouamline;;;;;;;;;x
+b_noumerouatt_MR;Noumerouatt;;;;;;;;;x
+b_nteichitt_MR;Nteichitt;;;;;;;;;x
+b_ouadane_MR;Ouadane;;;;;;;;;x
+b_ouad_emour_MR;Ouad Emour;;;;;;;;;x
+b_oualata_MR;Oualata;;;;;;;;;x
+b_oued_el_abioud_MR;Oued El Abioud;;;;;;;;;x
+b_ould_yenge_MR;Ould Yenge;;;;;;;;;x
+b_portendick_MR;Portendick;;;;;;;;;x
+b_port_mineralier_MR;Port Mineraliér;;;;;;;;;x
+b_rachid_MR;Rachid;;;;;;;;;x
+b_rdheidhi_MR;R'Dheidhi;;;;;;;;;x
+b_regbet_thila_MR;Regbet Thila;;;;;;;;;x
+b_richat_MR;Richat;;;;;;;;;x
+b_riyad_MR;Riyad;;;;;;;;;x
+b_rgueiba_MR;R'Gueiba;;;;;;;;;x
+b_rkiz_MR;R'Kiz;;;;;;;;;x
+b_rosso_MR;Rosso;;;;;;;;;x
+b_sambakagny_MR;Sambakagny;;;;;;;;;x
+b_sangrave_MR;Sangrave;;;;;;;;;x
+b_sani_MR;Sani;;;;;;;;;x
+b_sebkha_MR;Sebkha;;;;;;;;;x
+b_selibaby_MR;Sélibaby;;;;;;;;;x
+b_tagorarit_MR;Tagorarit;;;;;;;;;x
+b_taguilalett_MR;Taguilalett;;;;;;;;;x
+b_tanoudert_MR;Tanoudert;;;;;;;;;x
+b_tawaz_MR;Tawaz;;;;;;;;;x
+b_teishott_MR;Teishott;;;;;;;;;x
+b_tekane_MR;Tékane;;;;;;;;;x
+b_tenaha_MR;Tenaha;;;;;;;;;x
+b_ten_alloul_MR;Ten Alloul;;;;;;;;;x
+b_terjit_MR;Terjit;;;;;;;;;x
+b_teyarett_MR;Teyarett;;;;;;;;;x
+b_tidjikja_MR;Tidjikja;;;;;;;;;x
+b_tikattane_MR;Tikattane;;;;;;;;;x
+b_timbedra_MR;Timbédra;;;;;;;;;x
+b_tintane_MR;Tintane;;;;;;;;;x
+b_tizzeght_MR;Tizzeght;;;;;;;;;x
+b_toujouonine_MR;Toujouonine;;;;;;;;;x
+b_tourine_MR;Tourine;;;;;;;;;x
+b_zouerat_MR;Zouérat;;;;;;;;;x
+
+##Sahara
+b_abalessa_DZ;Abalessa;;;;;;;;;x
+b_abeibara_ML;Abeïbara;;;;;;;;;x
+b_achemelmel_ML;Achemelmel;;;;;;;;;x
+b_aguelhok_ML;Aguelhok;;;;;;;;;x
+b_amsel_DZ;Amsel;;;;;;;;;x
+b_anefis_ML;Anéfis;;;;;;;;;x
+b_bordj_badji_mokhtar_DZ;Bordj Badji Mokhtar;;;;;;;;;x
+b_boghassa_ML;Boghassa;;;;;;;;;x
+b_essouk_ML;Essouk;;;;;;;;;x
+b_ezgueret_ML;Ezgueret;;;;;;;;;x
+b_garet_nous_DZ;Garet Nous;;;;;;;;;x
+b_hassi_in_tafouk_DZ;Hassi In Tafouk;;;;;;;;;x
+b_in_ataye_DZ;In Ataye;;;;;;;;;x
+b_in_azaoua_DZ;In Azaoua;;;;;;;;;x
+b_in_dalag_DZ;In Dalag;;;;;;;;;x
+b_in_guezzan_DZ;In Guezzan;;;;;;;;;x
+b_intadjedite_ML;Intadjedite;;;;;;;;;x
+b_kidal_ML;Kidal;;;;;;;;;x
+b_laouni_DZ;Laouni;;;;;;;;;x
+b_outoul_DZ;Outoul;;;;;;;;;x
+b_tahifet_DZ;Tahifet;;;;;;;;;x
+b_tamanrasset_DZ;Tamanrasset;;;;;;;;;x
+b_tarhenanet_DZ;Tarhenanet;;;;;;;;;x
+b_telabit_ML;Télabit;;;;;;;;;x
+b_tessalit_ML;Tessalit;;;;;;;;;x
+b_timiaouine_DZ;Timiaouine;;;;;;;;;x
+b_timtaghene_ML;Timtaghène;;;;;;;;;x
+b_tin_essako_ML;Tin Essako;;;;;;;;;x
+b_tin_zaouatine_DZ;Tin Zaouatine;;;;;;;;;x
+b_tinzaouaten_ML;Tinzaouaten;;;;;;;;;x

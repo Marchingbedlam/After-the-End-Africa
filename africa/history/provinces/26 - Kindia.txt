@@ -6,13 +6,9 @@ title = c_kindia
 # Settlements
 max_settlements = 3
 
-b_kindia = castle
-b_bouliwel = city
-b_dounet = temple
-#b_gongoret = castle
-#b_kegneko = city
-#b_konkoure = temple
-#b_oure_kaba = castle
+b_kindia_GN = castle
+b_friguiagbe_GN = city
+b_molota_GN = temple
 
 # Misc
 culture = temne

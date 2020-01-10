@@ -1,0 +1,13 @@
+# County Title
+title = c_maghta_lahjar
+
+# Settlements
+max_settlements = 3
+
+b_maghta_lahjar_MR = tribal
+
+# Misc
+culture = haratin
+religion = sunni
+
+#History

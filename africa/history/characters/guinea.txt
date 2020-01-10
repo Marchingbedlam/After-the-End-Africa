@@ -1,0 +1,115 @@
+1222000={
+	name="Sumanguru"
+	dynasty=1202011
+	culture=susu
+	religion=sunni
+
+	trait=giant
+	trait=strong
+	trait=brave
+	trait=skilled_tactician
+	trait=charitable
+
+	2637.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1222001={
+	name="Murtala"
+	dynasty=1406012
+	culture=fula
+	religion=sunni
+
+	trait=cruel
+	trait=strong
+	trait=ambitious
+	trait=mystic
+	trait=skilled_tactician
+
+	2621.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1222002={
+	name="Dioncounda"
+	dynasty=1401012
+	culture=malinke
+	religion=sunni
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1222003={
+	name="Mouke"
+	dynasty=1202013
+	culture=susu
+	religion=sunni
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1222004={
+	name="Toumani"
+	dynasty=1401003
+	culture=malinke
+	religion=sunni
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1222005={
+	name="Umaru"
+	dynasty=1301014
+	culture=temne
+	religion=sunni
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1222006={
+	name="Yamuza"
+	dynasty=1406018
+	culture=fula
+	religion=sunni
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1222007={
+	name="Muammar"
+	dynasty=1406012
+	culture=fula
+	religion=sunni
+	father=1222001
+
+	2642.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1222008={
+	name="Mu'azu"
+	dynasty=1406012
+	culture=fula
+	religion=sunni
+	father=1222001
+
+	2645.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1222009={
+	name="Muhamman"
+	dynasty=1406012
+	culture=fula
+	religion=sunni
+	father=1222001
+
+	2648.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1222010={
+	name="Murtala"
+	dynasty=1406012
+	culture=fula
+	religion=sunni
+	father=1222007
+
+	2660.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}

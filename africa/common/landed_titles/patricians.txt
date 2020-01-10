@@ -2,7 +2,6 @@
 ### MERCHANT REPUBLIC PATRICIAN FAMILIES
 
 ## Monrovia
-
 b_king= {
 	culture = kwi
 	religion = libertarian
@@ -29,49 +28,71 @@ b_roberts = {
 }
 
 ## Accra
-b_short = {
-	culture = fante
-	religion = catholic
+b_quartey = {
+	culture = ga
+	religion = anglican
 }
-b_beretuo = {
-	culture = fante
-	religion = catholic
+b_tagoe = {
+	culture = ga
+	religion = anglican
 }
 b_hawkson = {
 	culture = fante
-	religion = catholic
+	religion = anglican
 }
 b_abohyen = {
 	culture = fante
-	religion = catholic
+	religion = anglican
 }
 b_agyemang = {
 	culture = ashanti
-	religion = catholic
+	religion = anglican
 }
 
 ##Freetown
-b_jackson= {
-	culture = kwi
+b_meheux= {
+	culture = krio
+	religion = anglican
+}
+
+b_lansana = {
+	culture = mende
+	religion = sunni
+}
+
+b_sesay = {
+	culture = temne
+	religion = sunni
+}
+
+b_parkes = {
+	culture = krio
+	religion = anglican
+}
+
+b_hamilton = {
+	culture = krio
 	religion = libertarian
 }
 
-b_henries = {
-	culture = kwi
-	religion = libertarian
+##Cabo Verde
+b_pereira= {
+	culture = verdean
+	religion = catholic
 }
-
-b_gibson = {
-	culture = kwi
-	religion = libertarian
+b_cabral= {
+	culture = guinensi
+	religion = catholic
 }
-
-b_sawyer = {
-	culture = kwi
-	religion = libertarian
+b_furtado= {
+	culture = verdean
+	religion = catholic
 }
-
-b_cheeseman = {
-	culture = kwi
-	religion = libertarian
+b_fortes= {
+	culture = verdean
+	religion = catholic
+}
+b_silva= {
+	culture = verdean
+	religion = catholic
 }

@@ -1,0 +1,91 @@
+1522000={
+	name="Chérif"
+	dynasty=1511007
+	culture=wolof
+	religion=sunni
+	trait=scholarly_theologian
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1522001={
+	name="Njekeh"
+	dynasty=1512016
+	culture=serer
+	religion=sunni
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1522002={
+	name="Louis-Ali"
+	dynasty=1513003
+	culture=jola
+	religion=sunni
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1522003={
+	name="Cellou"
+	dynasty=1406030
+	culture=fula
+	religion=sunni
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1522004={
+	name="Maixent"
+	dynasty=1514002
+	culture=guinensi
+	religion=catholic
+
+	trait=fair
+	trait=cruel
+	trait=diligent
+	trait=gregarious
+	trait=lunatic
+	trait=martial_cleric
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1522005={
+	name="Aram Bakar"
+	dynasty=1511008
+	culture=wolof
+	religion=sunni
+
+	trait=zealous
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1522006={
+	name="Pierre"
+	dynasty=1513000
+	culture=jola
+	religion=catholic
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1522007={
+	name="Junaidu"
+	dynasty=1406036
+	culture=fula
+	religion=sunni
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1522008={
+	name="Sérébandjougou"
+	dynasty=1401022
+	culture=malinke
+	religion=sunni
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}

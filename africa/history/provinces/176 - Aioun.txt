@@ -1,0 +1,13 @@
+# County Title
+title = c_aioun
+
+# Settlements
+max_settlements = 3
+
+b_ayoun_el_atrous_MR = tribal
+
+# Misc
+culture = sahrawi
+religion = sunni
+
+#History

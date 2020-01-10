@@ -6,9 +6,9 @@ title = c_gedeh
 # Settlements
 max_settlements = 3
 
-b_gboyi = castle
-b_poabli = city
-b_debli = temple
+b_zwedru_LR = castle
+b_tuzon_LR = city
+b_toe_town_LR = temple
 
 # Misc
 culture = kru

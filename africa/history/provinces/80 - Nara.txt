@@ -11,7 +11,7 @@ b_nara_2 = city
 b_nara_3 = temple
 
 # Misc
-culture = fula
+culture = soninke
 religion = sunni
 
 #History

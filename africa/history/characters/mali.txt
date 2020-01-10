@@ -1,0 +1,683 @@
+1401000={
+	name="Ibrahim"
+	dynasty=1401013
+	culture=malinke
+	religion=sunni
+	father=1401004
+	martial=6
+	diplomacy=6
+	stewardship=6
+	intrigue=6
+	learning=6
+	add_trait=briliant_strategist
+	add_trait=ambitious
+	add_trait=brave
+	add_trait=diligent
+	add_trait=quick
+
+	2622.1.1={ birth=yes }
+	2662.11.22={ death=yes }
+}
+1401001={
+	name="Ahmed"
+	dynasty=1401013
+	culture=malinke
+	religion=sunni
+	father=1401000
+	martial=6
+	diplomacy=6
+	stewardship=6
+	intrigue=6
+	learning=6
+	add_trait=weak
+	trait=ambitious
+
+	2647.9.19={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1401002={
+	name="Ouli"
+	dynasty=1401013
+	culture=malinke
+	religion=sunni
+	father=1401000
+
+	2650.8.19={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1401003={
+	name="Bory"
+	dynasty=1401013
+	culture=malinke
+	religion=sunni
+	father=1401000
+
+	2653.9.19={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1401004={
+	name="Ouli"
+	dynasty=1401013
+	culture=malinke
+	religion=sunni
+	father=1401005
+
+	2590.1.1={ birth=yes }
+	2640.1.1={ death=yes }
+}
+1401005={
+	name="Ahmed"
+	dynasty=1401013
+	culture=malinke
+	religion=sunni
+
+	2570.1.1={ birth=yes }
+	2630.1.1={ death=yes }
+}
+1401006={
+	name="Daouda"
+	dynasty=1401013
+	culture=malinke
+	religion=sunni
+	father=1401004
+
+	2626.1.1={ birth=yes }
+	2700.11.22={ death=yes }
+}
+1401007={
+	name="Iyad"
+	dynasty=1444035
+	culture=tuareg
+	religion=sunni
+
+	2625.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1401008={
+	name="Kaocen"
+	dynasty=1444035
+	culture=tuareg
+	religion=sunni
+	father=1401007
+
+	2645.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1401009={
+	name="Wonou"
+	female=yes
+	dynasty=1444035
+	culture=tuareg
+	religion=sunni
+	father=1401007
+
+	2650.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1401010={
+	name="Ouezzin"
+	dynasty=1401005
+	culture=malinke
+	religion=sunni
+	father=1401020
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1401011={
+	name="Sakoura"
+	dynasty=1401011
+	culture=malinke
+	religion=sunni
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1401012={
+	name="Ballaké"
+	dynasty=1401010
+	culture=malinke
+	religion=sunni
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1401013={
+	name="Mamadou"
+	dynasty=1401018
+	culture=malinke
+	religion=sunni
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1401014={
+	name="Modibo"
+	dynasty=1401002
+	culture=malinke
+	religion=sunni
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1401015={
+	name="Abou-Bekr"
+	dynasty=1302006
+	culture=soninke
+	religion=sunni
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1401016={
+	name="Denan"
+	dynasty=1844003
+	culture=senufo
+	religion=sunni
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+
+1401020={
+	name="Moussa"
+	dynasty=1401005
+	culture=malinke
+	religion=sunni
+	father=1401021
+
+	2605.1.1={ birth=yes }
+	2656.1.1={ death=yes }
+}
+1401021={
+	name="Ousmane"
+	dynasty=1401005
+	culture=malinke
+	religion=sunni
+	father=1401022
+
+	2585.1.1={ birth=yes }
+	2640.1.1={ death=yes }
+}
+1401022={
+	name="Ouezzin"
+	dynasty=1401005
+	culture=malinke
+	religion=sunni
+	father=1401023
+
+	2570.1.1={ birth=yes }
+	2720.1.1={ death=yes }
+}
+1401023={
+	name="Youssouf"
+	dynasty=1401005
+	culture=malinke
+	religion=sunni
+	father=1401024
+
+	2540.1.1={ birth=yes }
+	2600.1.1={ death=yes }
+}
+1401024={
+	name="Djibril"
+	dynasty=1401005
+	culture=malinke
+	religion=sunni
+	father=1401025
+
+	2510.1.1={ birth=yes }
+	2570.1.1={ death=yes }
+}
+1401025={
+	name="Moussa"
+	dynasty=1401005
+	culture=malinke
+	religion=sunni
+	father=1401026
+
+	2490.1.1={ birth=yes }
+	2550.1.1={ death=yes }
+}
+1401026={
+	name="Moussa"
+	dynasty=1401005
+	culture=malinke
+	religion=sunni
+	father=1401027
+
+	2465.1.1={ birth=yes }
+	2520.1.1={ death=yes }
+}
+1401027={
+	name="Boucader"
+	dynasty=1401005
+	culture=malinke
+	religion=sunni
+	father=1401028
+
+	trait=brave
+	trait=proud
+
+	2440.1.1={ birth=yes }
+	2490.1.1={ death=yes }
+}
+1401028={
+	name="Oumar"
+	dynasty=1401005
+	culture=malinke
+	religion=sunni
+	father=1401029
+
+	trait=cynical
+	trait=cruel
+	trait=skilled_tactician
+
+	2420.1.1={ birth=yes }
+	2470.1.1={ death=yes }
+}
+1401029={
+	name="Hamadoun"
+	dynasty=1401005
+	culture=malinke
+	religion=sunni
+	father=1401030
+
+	trait=strong
+	trait=brave
+	trait=ambitious
+	trait=brilliant_strategist
+
+	2400.1.1={ birth=yes }
+	2450.1.1={ death=yes }
+}
+1401030={
+	name="Boucader Bakari"
+	dynasty=1401005
+	culture=malinke
+	religion=sunni
+
+	trait=quick
+	trait=ambitious
+	trait=diligent
+	trait=zealous
+	trait=skilled_tactician
+
+	2380.1.1={ birth=yes }
+	2435.1.1={ death=yes }
+}
+
+1401100={
+	name="Soundiata" #Sundiata Keita
+	dynasty=1401004
+	culture=malinke
+	religion=sunni
+	father=1401106
+
+	trait=legendary
+	trait=ambitious
+	trait=brave
+	trait=brilliant_strategist
+	trait=genius
+
+	1217.1.1={ birth=yes }
+	1255.1.1={ death=yes }
+}
+1401101={
+	name="Ouli" #Uli I Keita
+	dynasty=1401004
+	culture=malinke
+	religion=sunni
+	father=1401100
+
+	trait=legendary
+	trait=ambitious
+	trait=brave
+	trait=proud
+	trait=skilled_tactician
+
+	1240.1.1={ birth=yes }
+	1270.1.1={ death=yes }
+}
+1401102={
+	name="Ouati" #Wati Keita
+	dynasty=1401004
+	culture=malinke
+	religion=sunni
+	father=1401100
+
+	trait=legendary
+	trait=envious
+
+	1238.1.1={ birth=yes }
+	1274.1.1={ death=yes }
+}
+1401103={
+	name="Khalifa" #Khalifa Keita
+	dynasty=1401004
+	culture=malinke
+	religion=sunni
+	father=1401100
+
+	trait=legendary
+	trait=envious
+	trait=arbitrary
+	trait=cruel
+
+	1242.1.1={ birth=yes }
+	1275.1.1={ death=yes }
+}
+1401104={
+	name="Abubakari" #Abubakari I Keita
+	dynasty=1401004
+	culture=malinke
+	religion=sunni
+	father=1401106
+
+	trait=legendary
+	trait=patient
+
+	1230.1.1={ birth=yes }
+	1285.1.1={ death=yes }
+}
+1401105={
+	name="Sakoura" #Mansa Sakura
+	dynasty=1401051
+	culture=malinke
+	religion=sunni
+
+	trait=legendary
+	trait=ambitious
+	trait=scarred_2
+	trait=tough_soldier
+	trait=quick
+
+	1250.1.1={ birth=yes }
+	1300.1.1={ death=yes }
+}
+1401106={
+	name="Naré-Maghann" #father of Sundiata
+	dynasty=1401004
+	culture=malinke
+	religion=sunni
+
+	trait=legendary
+
+	1160.1.1={ birth=yes }
+	1218.1.1={ death=yes }
+}
+1401107={
+	name="Kolonkan" #sister of Sundiata
+	female=yes
+	dynasty=1401004
+	culture=malinke
+	religion=sunni
+	father=1401106
+
+	trait=legendary
+
+	1220.1.1={ birth=yes }
+	1280.1.1={ death=yes }
+}
+1401108={
+	name="Gao" #Gao I Keita
+	dynasty=1401004
+	culture=malinke
+	religion=sunni
+	mother=1401107
+
+	trait=legendary
+
+	1240.1.1={ birth=yes }
+	1305.1.1={ death=yes }
+}
+1401109={
+	name="Mari-Djata Mohammed Gao" #Mansa Mohammed ibn Gao, changed name so numbers work
+	dynasty=1401004
+	culture=malinke
+	religion=sunni
+	father=1401108
+
+	trait=legendary
+
+	1265.1.1={ birth=yes }
+	1310.1.1={ death=yes }
+}
+1401110={
+	name="Abubakari" #Abubakari II Keita
+	dynasty=1401004
+	culture=malinke
+	religion=sunni
+	mother=1401107
+
+	trait=legendary
+	trait=quick
+	trait=brave
+	trait=erudite
+	trait=adventurer
+	trait=scholarly_theologian
+
+	1245.1.1={ birth=yes }
+	1312.1.1={ death={
+			death_reason= death_vanished #discovered America
+		}
+	}
+}
+1401111={
+	name="Faga-Laye" #son of Abubakari I
+	dynasty=1401004
+	culture=malinke
+	religion=sunni
+	father=1401104
+
+	trait=legendary
+
+	1260.1.1={ birth=yes }
+	1311.1.1={ death=yes }
+}
+1401112={
+	name="Moussa" #Mansa Musa 
+	dynasty=1401004
+	culture=malinke
+	religion=sunni
+	father=1401111
+
+	trait=legendary
+	trait=genius
+	trait=midas_touched
+	trait=charitable
+	trait=brave
+	trait=ambitious
+	trait=diligent
+	trait=zealous
+
+	1280.1.1={ birth=yes }
+	1337.1.1={ death=yes }
+}
+1401113={
+	name="Maghan" #Maghan I Keita
+	dynasty=1401004
+	culture=malinke
+	religion=sunni
+	father=1401112
+
+	trait=legendary
+
+	1300.1.1={ birth=yes }
+	1341.1.1={ death=yes }
+}
+1401114={
+	name="Souleymane" #Souleymane Keita
+	dynasty=1401004
+	culture=malinke
+	religion=sunni
+	father=1401111
+
+	trait=legendary
+	trait=greedy
+	trait=thrifty_clerk
+	trait=cynical
+
+	1290.1.1={ birth=yes }
+	1360.1.1={ death=yes }
+}
+1401115={
+	name="Camba" #Camba Keita
+	dynasty=1401004
+	culture=malinke
+	religion=sunni
+	father=1401114
+
+	trait=legendary
+
+	1310.1.1={ birth=yes }
+	1360.10.10={ death=yes }
+}
+1401116={
+	name="Mari-Djata" #Mari-Djata II Keita
+	dynasty=1401004
+	culture=malinke
+	religion=sunni
+	father=1401113
+
+	trait=legendary
+	trait=greedy
+	trait=envious
+	trait=diligent
+
+	1325.1.1={ birth=yes }
+	1374.1.1={ death=yes }
+}
+1401117={
+	name="Moussa" #Musa II Keita
+	dynasty=1401004
+	culture=malinke
+	religion=sunni
+	father=1401116
+
+	trait=legendary
+	trait=content
+
+	1350.1.1={ birth=yes }
+	1387.1.1={ death=yes }
+}
+1401118={
+	name="Maghan" #Maghan II Keita
+	dynasty=1401004
+	culture=malinke
+	religion=sunni
+	father=1401116
+
+	trait=legendary
+
+	1352.1.1={ birth=yes }
+	1389.1.1={ death=yes }
+}
+1401119={
+	name="Sandaki" #Mansa Sandaki
+	dynasty=1401057
+	culture=malinke
+	religion=sunni
+
+	trait=legendary
+	trait=ambitious
+	trait=fortune_builder
+
+	1340.1.1={ birth=yes }
+	1390.1.1={
+		death={
+			death_reason= death_execution_beheading #Executed by Mahmud I?
+			killer = 1401120
+		}
+	}
+}
+1401120={
+	name="Mamadou" #Mahmud I Keita
+	dynasty=1401004
+	culture=malinke
+	religion=sunni
+	father=1401116
+
+	trait=legendary
+
+	1355.1.1={ birth=yes }
+	1404.1.1={ death=yes }
+}
+1401121={
+	name="Moussa" #Musa III Keita
+	dynasty=1401004
+	culture=malinke
+	religion=sunni
+	father=1401120
+
+	trait=legendary
+	trait=tough_soldier
+
+	1380.1.1={ birth=yes }
+	1440.1.1={ death=yes }
+}
+1401122={
+	name="Ouli" #Ouli II Keita
+	dynasty=1401004
+	culture=malinke
+	religion=sunni
+	father=1401120
+
+	trait=legendary
+	trait=tough_soldier
+
+	1386.1.1={ birth=yes }
+	1481.1.1={ death=yes }
+}
+1401123={
+	name="Mamadou" #Mamadou II Keita
+	dynasty=1401004
+	culture=malinke
+	religion=sunni
+	father=1401122
+
+	trait=legendary
+	trait=proud
+
+	1426.1.1={ birth=yes }
+	1496.1.1={ death=yes }
+}
+1401124={
+	name="Mamadou" #Mahmud III Keita
+	dynasty=1401004
+	culture=malinke
+	religion=sunni
+	father=1401123
+
+	trait=legendary
+
+	1480.1.1={ birth=yes }
+	1559.1.1={ death=yes }
+}
+1401125={
+	name="Abubakari" #civil war, did not reign
+	dynasty=1401004
+	culture=malinke
+	religion=sunni
+	father=1401124
+
+	trait=legendary
+
+	1520.1.1={ birth=yes }
+	1570.1.1={ death=yes }
+}
+1401126={
+	name="Mamadou" #Mahmud IV Keita
+	dynasty=1401004
+	culture=malinke
+	religion=sunni
+	father=1401125
+
+	trait=legendary
+	trait=ambitious
+	trait=brave
+	trait=tough_soldier
+
+	1550.1.1={ birth=yes }
+	1610.1.1={ death=yes }
+}

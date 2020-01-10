@@ -1,0 +1,8 @@
+# k_fouta_djallon
+2300.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+2660.1.1={
+	holder=1222001
+}

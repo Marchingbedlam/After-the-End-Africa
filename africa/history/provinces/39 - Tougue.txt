@@ -1,0 +1,14 @@
+# c_pita
+
+# County Title
+title = c_tougue
+# Settlements
+max_settlements = 3
+
+b_tougue_GN = tribal
+
+# Misc
+culture = fula
+religion = sunni
+
+#History

@@ -6,9 +6,9 @@ title = c_koinadugu
 # Settlements
 max_settlements = 3
 
-b_kabala = castle
-b_koinadugu = city
-b_koinadugu_2 = temple
+b_kabala_SL = castle
+b_bendugu_SL = city
+b_falaba_SL = temple
 
 # Misc
 culture = fula

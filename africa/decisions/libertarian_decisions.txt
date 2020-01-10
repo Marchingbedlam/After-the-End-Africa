@@ -1,0 +1,119 @@
+decisions = {
+	form_the_usafrica = {
+		is_high_prio = yes
+		potential = {
+			is_alternate_start = no
+			NOT = {
+				has_game_rule = {
+					name = empire_decisions
+					value = off
+				}
+			}
+			is_playable = yes
+			independent = yes
+			realm_size = 10
+			religion = libertarian
+			e_usa = {
+				has_holder = no
+			}
+		}
+		allow = {
+			is_adult = yes
+			prisoner = no
+			NOT = { trait = incapable }
+			prestige = 2500
+			realm_size = 250
+			has_landed_title = k_free_coast
+			custom_tooltip = {
+				text = TXT_kingdom_columbia
+				hidden_tooltip = { completely_controls = k_free_coast }
+			}
+			OR = {
+				has_landed_title = k_guinea
+				has_landed_title = k_senegambia
+				has_landed_title = k_ivory_coast
+			}
+			any_demesne_title = {
+				tier = EMPEROR
+			}
+			scaled_wealth = 2
+			OR = {
+				AND = {
+					has_landed_title = e_guinea
+					religion_authority = 1
+				}
+				AND = {
+					religion = libertarian
+					religion_authority = 0.8
+					custom_tooltip = {
+						text = TXT_kingdom_gotham
+						hidden_tooltip = { completely_controls = k_free_coast }
+					}
+					custom_tooltip = {
+						text = TXT_kingdom_dominion
+						hidden_tooltip = { completely_controls = k_ivory_coast }
+					}
+					custom_tooltip = {
+						text = TXT_kingdom_carolina
+						hidden_tooltip = { completely_controls = k_guinea }
+					}
+				}
+			}
+			NOT = { has_global_flag = usafrica_formed }
+		}
+		effect = {
+			activate_title = { title = e_usafrica status = yes }
+			scaled_wealth = -2
+			if = {
+				limit = { has_nickname = no }
+				give_nickname = nick_the_great
+			}
+			any_demesne_title = {
+				limit = { tier = KING }
+				de_jure_liege = e_usafrica
+			}
+			hidden_tooltip = {
+				primary_title = {
+					if = {
+						limit = { tier = EMPEROR }
+						any_direct_de_jure_vassal_title = {
+							de_jure_liege = e_usafrica
+						}
+					}
+				}
+			}
+			primary_title = {
+				e_usafrica = {
+					grant_title = ROOT
+					copy_title_laws = PREV
+					add_law = succ_byzantine_elective
+				}
+			}
+			any_demesne_title = {
+				limit = {
+					tier = KING
+					NOT = {
+						title = k_free_coast
+					}
+				}
+				destroy_landed_title = THIS
+			}
+			any_demesne_title = {
+				limit = {
+					tier = EMPEROR
+					NOT = { title = e_usafrica }
+				}
+				destroy_landed_title = THIS
+				hidden_tooltip = { activate_title = { title = THIS status = no } }
+			}
+			set_global_flag = usafrica_formed
+			narrative_event = { id = usafrica_formed.1 }
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

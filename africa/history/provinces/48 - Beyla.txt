@@ -6,9 +6,7 @@ title = c_beyla
 # Settlements
 max_settlements = 3
 
-b_beyla = castle
-b_beyla_2 = city
-b_beyla_3 = temple
+b_beyla_GN = tribal
 
 # Misc
 culture = malinke

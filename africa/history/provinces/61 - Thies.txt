@@ -11,7 +11,7 @@ b_thies_2 = city
 b_thies_3 = temple
 
 # Misc
-culture = senegambian
-religion = catholic
+culture = wolof
+religion = sunni
 
 #History

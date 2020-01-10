@@ -6,9 +6,9 @@ title = c_boke
 # Settlements
 max_settlements = 3
 
-b_boke = castle
-b_boke_2 = city
-b_boke_3 = temple
+b_boke_GN = castle
+b_bintimodiya_GN = city
+b_sangaredi_GN = temple
 
 # Misc
 culture = susu

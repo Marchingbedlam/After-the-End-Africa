@@ -1,0 +1,5 @@
+2660.1.1={
+	holding_dynasty = 1901025
+	liege="k_cabo_verde"
+	holder=1914003
+}

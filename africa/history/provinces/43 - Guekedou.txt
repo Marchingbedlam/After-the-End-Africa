@@ -1,0 +1,15 @@
+# c_kissidougou
+
+# County Title
+title = c_guekedou
+
+# Settlements
+max_settlements = 3
+
+b_guekedou_GN = tribal
+
+# Misc
+culture = malinke
+religion = sunni
+
+#History

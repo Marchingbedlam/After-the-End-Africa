@@ -1,0 +1,17 @@
+# c_tanene
+
+# County Title
+title = c_fria
+
+# Settlements
+max_settlements = 3
+
+b_fria_GN = castle
+b_baguinet_GN = city
+b_tormelin_GN = temple
+
+# Misc
+culture = susu
+religion = sunni
+
+#History

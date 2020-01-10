@@ -6,13 +6,8 @@ title = c_santo_antao
 # Settlements
 max_settlements = 3
 
-b_porto_novo = castle
-b_ponta_do_sol = city
-#b_janela = temple
-#b_tarrafal_de_monte_trigo = city
-#b_ribeira_da_cruz = castle
-#b_sinagoga = city
-#b_cruzinha = castle
+b_porto_novo_CV = castle
+b_ponta_do_sol_CV = city
 
 # Misc
 culture = verdean

@@ -217,7 +217,7 @@
 }
 1000116={
 	name="Septimus"
-	dynasty=1841009
+	dynasty=1841008
 	culture=mende
 	religion=libertarian
 	diplomacy=5
@@ -403,9 +403,9 @@
 
 1000126={
 	name="Daggley" #Freetown patricians
-	dynasty=1001017
-	culture=kwi
-	religion=libertarian
+	dynasty=1002023 #Meheux
+	culture=krio
+	religion=anglican
 	trait=midas_touched
 	trait=ambitious
 	
@@ -413,36 +413,36 @@
 	2700.1.1={death=yes}
 }
 1000127={
-	name="Probyn" #Freetown patricians
-	dynasty=1001033
-	culture=kwi
-	religion=libertarian
+	name="Akbar" #Freetown patricians
+	dynasty=1841009 #Lansana
+	culture=mende
+	religion=sunni
 	
 	2620.4.11={birth=yes}
 	2700.1.1={death=yes}
 }
 1000128={
-	name="Melvine" #Freetown patricians
-	dynasty=1001014
-	culture=kwi
-	religion=libertarian
+	name="Ernest" #Freetown patricians
+	dynasty=1301005 #Sesay
+	culture=temne
+	religion=sunni
 	
 	2620.4.11={birth=yes}
 	2700.1.1={death=yes}
 }
 1000129={
-	name="Ernest" #Freetown patricians
-	dynasty=1001027
-	culture=kwi
-	religion=libertarian
+	name="Mungo" #Freetown patricians
+	dynasty=1002025 #Parkes
+	culture=krio
+	religion=anglican
 	
 	2620.4.11={birth=yes}
 	2700.1.1={death=yes}
 }
 1000130={
 	name="Winstanley" #Freetown patricians
-	dynasty=1001025
-	culture=kwi
+	dynasty=1002027 #Hamilton
+	culture=krio
 	religion=libertarian
 	trait=lunatic
 	trait=proud

@@ -1,0 +1,13 @@
+# County Title
+title = c_hoggar
+
+# Settlements
+max_settlements = 3
+
+b_tamanrasset_DZ = tribal
+
+# Misc
+culture = tuareg
+religion = sunni
+
+#History

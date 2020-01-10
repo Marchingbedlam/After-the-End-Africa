@@ -1,0 +1,13 @@
+# County Title
+title = c_timbedra
+
+# Settlements
+max_settlements = 3
+
+b_timbedra_MR = tribal
+
+# Misc
+culture = malinke
+religion = sunni
+
+#History

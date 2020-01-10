@@ -25,25 +25,25 @@ province;red;green;blue;x;x
 24;77;103;33;Mamou;x
 25;84;99;57;Dubreka;x
 26;93;117;51;Kindia;x
-27;119;140;54;Tanene;x
+27;119;140;54;Fria;x
 28;147;167;85;Boke;x
 29;81;95;38;Boffa;x
 30;121;146;46;Telimele;x
 31;82;98;35;Gaoual;x
-32;129;148;69;Mali-Labe;x
+32;129;148;69;Mali;x
 33;104;129;61;Koundara;x
 34;152;170;95;Labe;x
 35;54;109;85;Siguiri;x
 36;23;101;67;Mandiana;x
 37;5;56;34;Dinguiraye;x
 38;38;143;97;Kouroussa;x
-39;53;106;82;Pita;x
-40;27;103;70;Mali-Dabola;x
+39;53;106;82;Tougue;x
+40;27;103;70;Balaki;x
 41;62;180;128;Dabola;x
 42;31;140;91;Faranah;x
-43;62;173;125;Kissidougou;x
+43;62;173;125;Guekedou;x
 44;56;147;107;Banfele;x
-45;33;90;65;Kerouane;x
+45;33;90;65;Lola;x
 46;22;164;101;Kankan;x
 47;38;147;98;Macenta;x
 48;48;118;87;Beyla;x
@@ -161,6 +161,35 @@ province;red;green;blue;x;x
 160;31;65;127;Boavista e Sal;;;;;;;;;x
 161;43;69;115;Sao Vicente;;;;;;;;;x
 162;56;97;169;Santo Antao;;;;;;;;;x
+163;38;117;74;Rosso;;;;;;;;;x
+164;41;163;82;Rkiz;;;;;;;;;x
+165;31;128;153;Nouakchott;;;;;;;;;x
+166;97;158;135;Boutilimit;;;;;;;;;x
+167;43;128;115;Inchiri;;;;;;;;;x
+168;26;156;77;Arguin;;;;;;;;;x
+169;61;112;61;Nouadhibou;;;;;;;;;x
+170;102;122;99;Brakna;;;;;;;;;x
+171;125;138;84;Gorgol;;;;;;;;;x
+172;64;115;89;Guidimaka;;;;;;;;;x
+173;41;125;92;Aftout;;;;;;;;;x
+174;48;153;61;Kiffa;;;;;;;;;x
+175;26;128;51;Tintane;;;;;;;;;x
+176;66;107;117;Aioun;;;;;;;;;x
+177;51;110;94;Timbedra;;;;;;;;;x
+178;79;150;74;Nema;;;;;;;;;x
+179;41;71;59;Tagant;;;;;;;;;x
+180;36;77;92;Maghta-Lahjar;;;;;;;;;x
+181;87;166;117;Atar;;;;;;;;;x
+182;56;148;105;Chinguetti;;;;;;;;;x
+183;28;125;59;Tiris Zemmour;;;;;;;;;x
+184;48;99;82;Oued Ed-Dahab;;;;;;;;;x
+185;18;74;43;Oualata;;;;;;;;;x
+186;191;130;46;Kidal;;;;;;;;;x
+187;156;112;51;Tessalit;;;;;;;;;x
+188;102;61;8;Bordj Badji Mokhtar;;;;;;;;;x
+189;173;128;66;Hoggar;;;;;;;;;x
+190;181;112;15;Tanezrouft;;;;;;;;;x
+
 1000;0;174;239;Monrovian Coast;x
 1001;31;162;212;Cape Palmas;x
 1002;17;145;194;Freetown Coast;x

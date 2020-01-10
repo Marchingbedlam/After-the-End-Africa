@@ -1,21 +1,21 @@
 spriteTypes = {
 	spriteType = {
 		name = "GFX_trait_mason"
-		texturefile = "gfx/traits/mason.tga"
+		texturefile = "gfx/traits/mason.dds"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
 	spriteType = {
 		name = "GFX_trait_ifa_mo"
-		texturefile = "gfx/traits/ifa_mo.tga"
+		texturefile = "gfx/traits/ifa_mo.dds"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
 	spriteType = {
 		name = "GFX_trait_garveyite"
-		texturefile = "gfx/traits/garveyite.tga"
+		texturefile = "gfx/traits/garveyite.dds"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"

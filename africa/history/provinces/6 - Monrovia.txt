@@ -6,13 +6,10 @@ title = c_monrovia
 # Settlements
 max_settlements = 6
 
-b_monrovia = city
-b_capitol_hill = temple
-b_brewerville = castle
-b_caldwell = city
-#b_careysburg = temple
-#b_clay_ashland = city
-#b_arthington = temple
+b_monrovia_LR = city
+b_capitol_hill_LR = temple
+b_careysburg_LR = castle
+b_bensonville_LR = city
 
 # Misc
 culture = liberian

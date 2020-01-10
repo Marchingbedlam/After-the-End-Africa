@@ -11,7 +11,7 @@ b_cacheu_2 = city
 b_cacheu_3 = temple
 
 # Misc
-culture = senegambian
+culture = guinensi
 religion = catholic
 
 #History

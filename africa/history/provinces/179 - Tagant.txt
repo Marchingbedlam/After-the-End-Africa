@@ -1,0 +1,13 @@
+# County Title
+title = c_tagant
+
+# Settlements
+max_settlements = 3
+
+b_tidjikja_MR = tribal
+
+# Misc
+culture = sahrawi
+religion = sunni
+
+#History

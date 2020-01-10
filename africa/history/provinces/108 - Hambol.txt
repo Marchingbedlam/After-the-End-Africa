@@ -6,9 +6,7 @@ title = c_hambol
 # Settlements
 max_settlements = 3
 
-b_hambol = castle
-b_hambol_2 = city
-b_hambol_3 = temple
+b_hambol = tribal
 
 # Misc
 culture = senufo

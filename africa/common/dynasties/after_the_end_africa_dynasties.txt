@@ -8,7 +8,7 @@
 1001005 = { name="Roberts" culture = kwi }
 1001006 = { name="Benson" culture=kwi }
 1001007 = { name="Warner" culture=kwi }
-1001008 = { name="Spriggs-Payne" culture=kwi }
+1001008 = { name="Payne" culture=kwi }
 1001009 = { name="Roye" culture=kwi }
 1001010 = { name="Smith" culture=kwi }
 1001011 = { name="Gardiner" culture=kwi }
@@ -38,10 +38,10 @@
 1001035 = { name="Grimes" culture=kwi }
 1001036 = { name="Yancy" culture=kwi }
 1001037 = { name="Faulkner" culture=kwi }
-1001038 = { name="Carter-Fuller" culture=kwi }
+1001038 = { name="Carter" culture=kwi }
 1001039 = { name="Weeks" culture=kwi }
 1001040 = { name="Blyden" culture=kwi }
-1001041 = { name="Brown-Sherman" culture=kwi }
+1001041 = { name="Brown" culture=kwi }
 1001042 = { name="Cornish" culture=kwi }
 1001043 = { name="Brumskine" culture=kwi }
 1001044 = { name="Crummell" culture=kwi }
@@ -52,10 +52,10 @@
 1001049 = { name="Skinner" culture=kwi }
 1001050 = { name="Anderson" culture=kwi }
 1001051 = { name="Townsend" culture=kwi }
-1001052 = { name="Davies-Bright" culture=kwi }
+1001052 = { name="Mars" culture=kwi }
 1001053 = { name="Stubblefield" culture=kwi }
 1001054 = { name="Dennis" culture=kwi }
-1001055 = { name="Reed-Cooper" culture=kwi }
+1001055 = { name="Reed" culture=kwi }
 1001056 = { name="Snowe" culture=kwi }
 1001057 = { name="Findley" culture=kwi }
 1001058 = { name="Day" culture=kwi }
@@ -64,43 +64,147 @@
 1001061 = { name="Bull" culture=kwi }
 1001062 = { name="Parsons" culture=kwi }
 1001063 = { name="M'Cormack" culture=kwi }
-1001064 = { name="Thorpe" culture=kwi }
-1001065 = { name="Hyde-Forster" culture=kwi }
-1001066 = { name="Ransome" culture=kwi }
-1001067 = { name="Harding" culture=kwi }
-1001068 = { name="Decker" culture=kwi }
-1001069 = { name="Stronge" culture=kwi }
+1001064 = { name="Wallace" culture=kwi }
+1001065 = { name="Wright" culture=kwi }
+1001066 = { name="Cutting" culture=kwi }
+1001067 = { name="Valentine" culture=kwi }
+1001068 = { name="Early" culture=kwi }
+1001069 = { name="Watts" culture=kwi }
 1001070 = { name="Hobart" culture=kwi }
-1001071 = { name="Cicero-Dredd" culture=kwi }
-1001072 = { name="Jarrett" culture=kwi }
-1001073 = { name="Easmon" culture=kwi }
-1001074 = { name="Cox-George" culture=kwi }
-1001075 = { name="Fyle" culture=kwi }
-1001076 = { name="Cheney-Coker" culture=kwi }
-1001077 = { name="Juxon-Smith" culture=kwi }
-1001078 = { name="Coleridge" culture=kwi }
-1001079 = { name="Wallace" culture=kwi }
-1001080 = { name="Wright" culture=kwi }
-1001081 = { name="Cutting" culture=kwi }
+1001071 = { name="Dredd" culture=kwi }
+1001072 = { name="Stewart" culture=kwi }
+1001073 = { name="Parker" culture=kwi }
+1001074 = { name="Ferguson" culture=kwi }
+1001075 = { name="Summerville" culture=kwi }
+1001076 = { name="Hanson" culture=kwi }
+1001077 = { name="Thomson" culture=kwi }
+1001078 = { name="Collins" culture=kwi }
+1001079 = { name="Ricks" culture=kwi }
+1001080 = { name="Moore" culture=kwi }
+1001081 = { name="M'Clain" culture=kwi }
 1001082 = { name="Philips" culture=kwi }
-1001083 = { name="Valentine" culture=kwi }
-1001084 = { name="Early" culture=kwi }
-1001085 = { name="Watts" culture=kwi }
-1001086 = { name="Stewart" culture=kwi }
-1001087 = { name="Parker" culture=kwi }
-1001088 = { name="Ferguson" culture=kwi }
-1001089 = { name="Summerville" culture=kwi }
-1001090 = { name="Hanson-Harris" culture=kwi }
-1001091 = { name="Thomson" culture=kwi }
-1001092 = { name="Collins" culture=kwi }
-1001093 = { name="Erskine-Ricks" culture=kwi }
-1001094 = { name="Moore" culture=kwi }
-1001095 = { name="M'Clain" culture=kwi }
-1001096 = { name="Betton-Desheild" culture=kwi }
-1001097 = { name="Graham" culture=kwi }
-1001098 = { name="Howard" culture=kwi }
-1001099 = { name="Cary" culture=kwi }
-1001100 = { name="Davis" culture=kwi }
+1001083 = { name="Betton" culture=kwi }
+1001084 = { name="Graham" culture=kwi }
+1001085 = { name="Howard" culture=kwi }
+1001086 = { name="Cary" culture=kwi }
+1001087 = { name="Davis" culture=kwi }
+1001088 = { name="Teague" culture=kwi }
+1001089 = { name="Cooper" culture=kwi }
+1001090 = { name="Ayers" culture=kwi }
+1001091 = { name="Freeman" culture=kwi }
+1001092 = { name="Matthews" culture=kwi }
+1001093 = { name="Williams" culture=kwi }
+1001094 = { name="Spriggs" culture=kwi }
+1001095 = { name="Sherman" culture=kwi }
+1001096 = { name="Harris" culture=kwi }
+1001097 = { name="Deshield" culture=kwi }
+1001098 = { name="Fuller" culture=kwi }
+1001099 = { name="Erskine" culture=kwi }
+1001100 = { name="Lawson" culture=kwi }
+
+1002000 = { name="Thorpe" culture=krio } #Sierra Leone creole
+1002001 = { name="Stronge" culture=krio } 
+1002002 = { name="Juxon-Smith" culture=krio } 
+1002003 = { name="Fyle" culture=krio } 
+1002004 = { name="Conton" culture=krio }
+1002005 = { name="Pratt" culture=krio }
+1002006 = { name="Gelaga" culture=krio }
+1002007 = { name="Koso-Thomas" culture=krio }
+1002008 = { name="Dafora-Horton" culture=krio }
+1002009 = { name="Rawlingson" culture=krio }
+1002010 = { name="Cline" culture=krio }
+1002011 = { name="Okrafo-Smart" culture=krio }
+1002012 = { name="Bunting" culture=krio }
+1002013 = { name="Leigh" culture=krio }
+1002014 = { name="Wyse" culture=krio }
+1002015 = { name="Myers" culture=krio }
+1002016 = { name="Asgill" culture=krio }
+1002017 = { name="Lucan" culture=krio }
+1002018 = { name="Stober" culture=krio }
+1002019 = { name="Hazeley" culture=krio }
+1002020 = { name="Fewry" culture=krio }
+1002021 = { name="Perkins" culture=krio }
+1002022 = { name="Hope" culture=krio }
+1002023 = { name="Meheux" culture=krio }
+1002024 = { name="Garber" culture=krio }
+1002025 = { name="Parkes" culture=krio }
+1002026 = { name="Barber" culture=krio }
+1002027 = { name="Hamilton" culture=krio }
+1002028 = { name="Sisay-Hayford" culture=krio } 
+1002029 = { name="Giggs" culture=krio }
+1002030 = { name="Jarrett" culture=krio }
+1002031 = { name="Metzger" culture=krio }
+1002032 = { name="Ransome" culture=krio }
+1002033 = { name="Jenkins" culture=krio }
+1002034 = { name="Carew" culture=krio }
+1002035 = { name="Keister" culture=krio }
+1002036 = { name="Rosenior" culture=krio }
+1002037 = { name="Lightfoot" culture=krio }
+1002038 = { name="Bright" culture=krio }
+1002039 = { name="Davies" culture=krio }
+1002040 = { name="Ezzidio" culture=krio }
+1002041 = { name="Betts" culture=krio }
+1002042 = { name="Holst-Roness" culture=krio }
+1002043 = { name="Gouldson" culture=krio }
+1002044 = { name="Easmon" culture=krio }
+1002045 = { name="Blaize" culture=krio }
+1002046 = { name="Kabs-Kanu" culture=krio }
+1002047 = { name="Sapara-Williams" culture=krio }
+1002048 = { name="Sibthorpe" culture=krio }
+1002049 = { name="Majeks-Walker" culture=krio }
+1002050 = { name="Deen" culture=krio }
+1002051 = { name="Strasser" culture=krio }
+1002052 = { name="Tommy" culture=krio }
+1002053 = { name="Armstrong" culture=krio }
+1002054 = { name="Farrell-Simango" culture=krio }
+1002055 = { name="Blyden" culture=krio }
+1002056 = { name="Ballanta" culture=krio }
+1002057 = { name="Whiggs" culture=krio }
+1002058 = { name="Awoonor-Renner" culture=krio }
+1002059 = { name="Spilsbury" culture=krio }
+1002060 = { name="Johansen" culture=krio }
+1002061 = { name="Priddy" culture=krio }
+1002062 = { name="Garrick" culture=krio }
+1002063 = { name="Bart-Williams" culture=krio }
+1002064 = { name="Boyle" culture=krio }
+1002065 = { name="Browne-Marke" culture=krio }
+1002066 = { name="Cox-George" culture=krio }
+1002067 = { name="Babbington" culture=krio }
+1002068 = { name="Wilkinson" culture=krio }
+1002067 = { name="Cole" culture=krio } 
+1002068 = { name="Hyde-Forster" culture=krio } 
+1002069 = { name="Peters" culture=krio } 
+1002070 = { name="Caulker" culture=krio } 
+1002071 = { name="Luke" culture=krio } 
+1002072 = { name="Tucker" culture=krio } 
+1002073 = { name="Joko-Smart" culture=krio }
+1002074 = { name="Kizell" culture=krio }
+1002075 = { name="Lewis" culture=krio }
+1002076 = { name="Malama-Thomas" culture=krio }
+1002077 = { name="Corker" culture=krio }
+1002078 = { name="Macfoy" culture=krio }
+1002079 = { name="Cleveland" culture=krio }
+1002080 = { name="Rogerse" culture=krio }
+1002081 = { name="Rutile" culture=krio }
+1002082 = { name="Cheney-Coker" culture=krio }
+1002083 = { name="Root" culture=krio }
+1002084 = { name="Bankole-Bright" culture=krio }
+1002085 = { name="Nicol" culture=krio }
+1002086 = { name="Decker" culture=krio }
+1002087 = { name="Harding" culture=krio }
+1002088 = { name="Maddy" culture=krio }
+1002089 = { name="Dove-Edwin" culture=krio }
+1002090 = { name="Snowball" culture=krio }
+1002091 = { name="Borbor-Sawyerr" culture=krio }
+1002092 = { name="Lisk" culture=krio }
+1002093 = { name="Wyndham" culture=krio }
+1002094 = { name="Robinson-Turay" culture=krio }
+1002095 = { name="Branche" culture=krio }
+1002096 = { name="de-la-Zouche" culture=krio }
+1002097 = { name="Benjamin" culture=krio }
+1002098 = { name="DeSaille" culture=krio }
+1002099 = { name="Karefa-Smart" culture=krio }
+1002100 = { name="Joko-Smart" culture=krio }
 
 1101000 = { name="Broh" culture=kru } 
 1101001 = { name="Twe" culture=kru }
@@ -113,12 +217,38 @@
 1101008 = {name ="Tipoteh" culture=kru }
 1101009 = {name ="Kaboo" culture=kru }
 1101010 = {name ="Welleh" culture=kru }
+1101011 = {name ="Nyepan" culture=kru }
+1101012 = {name ="Taryonoh" culture=kru }
+1101013 = {name ="Dueh" culture=kru }
+1101014 = {name ="Boye" culture=kru }
+1101015 = {name ="Wisseh" culture=kru }
+1101016 = {name ="Goe" culture=kru }
+1101017 = {name ="Carngbe" culture=kru }
+1101018 = {name ="Nagbe" culture=kru }
+1101019 = {name ="Sorwleh" culture=kru }
+1101020 = {name ="Geefie" culture=kru }
 
 1201000 = {name ="Sulunteh" culture=kpelle } 
 1201001 = {name ="Camara" culture=kpelle }
 1201002 = {name ="Suakoko" culture=kpelle }
 1201003 = {name ="Pogba" culture=kpelle }
 1201004 = {name ="Tokpa" culture=kpelle }
+
+1202000 = {name ="Dumbuya" culture=susu } 
+1202001 = {name ="Yumkella" culture=susu }
+1202002 = {name ="Suma" culture=susu }
+1202003 = {name ="Yillah" culture=susu }
+1202004 = {name ="Bangoura" culture=susu }
+1202005 = {name ="Youla" culture=susu }
+1202006 = {name ="Yansane" culture=susu }
+1202007 = {name ="Modupe" culture=susu }
+1202008 = {name ="Sillah" culture=susu }
+1202009 = {name ="Yeliba" culture=susu }
+1202010 = {name ="Kolleh" culture=susu }
+1202011 = {name ="Samura" culture=susu }
+1202012 = {name ="Balla" culture=susu }
+1202013 = {name ="Konkoreh" culture=susu }
+1202014 = {name ="Conteh" culture=susu }
 
 1301000 = {name ="Bangura" culture=temne }
 1301001 = {name ="Karim" culture=temne }
@@ -141,30 +271,37 @@
 1301018 = {name ="Fornah" culture=temne }
 1301019 = {name ="Nabay" culture=temne }
 1301020 = {name ="Kargbo" culture=temne }
-1301021 = {name ="Samura" culture=temne }
-1301022 = {name ="Serry" culture=temne }
+1301021 = {name ="Serry" culture=temne }
+
+1302000 = {name ="Tandja" culture=soninke }
+1302001 = {name ="Kébé" culture=soninke }
+1302002 = {name ="Suwari" culture=soninke }
+1302003 = {name ="Wankori" culture=soninke }
+1302004 = {name ="Bagayogo" culture=soninke }
+1302005 = {name ="Kenaté" culture=soninke }
+1302006 = {name ="Fodiké" culture=soninke }
 
 1401000 = {name ="Traoré" culture=malinke }
 1401001 = {name ="Diawara" culture=malinke }
 1401002 = {name ="Cissé" culture=malinke }
 1401003 = {name ="Coulibaly" culture=malinke }
 1401004 = {name ="Keïta " culture=malinke }
-1401005 = {name ="Traoré" culture=malinke }
-1401006 = {name ="Sissoko" culture=malinke }
-1401007 = {name ="Jawara" culture=malinke }
-1401008 = {name ="Jobarteh" culture=malinke }
-1401009 = {name ="Dukuly" culture=malinke }
+1401005 = {name ="Touré" culture=malinke }
+1401006 = {name ="Diabaté" culture=malinke }
+1401007 = {name ="Kamara" culture=malinke }
+1401008 = {name ="Diarra" culture=malinke }
+1401009 = {name ="Doukouli" culture=malinke }
 1401010 = {name ="Kromah" culture=malinke }
 1401011 = {name ="Kanté" culture=malinke }
-1401012 = {name ="Kouyate" culture=malinke }
+1401012 = {name ="Kouyaté" culture=malinke }
 1401013 = {name ="Condé" culture=malinke }
 1401014 = {name ="Mansaré" culture=malinke }
 1401015 = {name ="Baryoh" culture=malinke }
 1401016 = {name ="Fadika" culture=malinke }
-1401017 = {name ="Tarawalie" culture=malinke }
-1401018 = {name ="Konneh" culture=malinke }
-1401019 = {name ="Yekerson" culture=malinke }
-1401020 = {name ="Sanneh" culture=malinke }
+1401017 = {name ="Tarouali" culture=malinke }
+1401018 = {name ="Suntu" culture=malinke }
+1401019 = {name ="Jabi" culture=malinke }
+1401020 = {name ="Sanné" culture=malinke }
 1401021 = {name ="Fakoly" culture=malinke }
 1401022 = {name ="Sidibé" culture=malinke }
 1401023 = {name ="Ouattara" culture=malinke }
@@ -175,14 +312,191 @@
 1401028 = {name ="Zerbo" culture=malinke }
 1401029 = {name ="Darboe" culture=malinke }
 1401030 = {name ="Fofana" culture=malinke }
-1401031 = {name ="Mansaray" culture=malinke }
+1401031 = {name ="Koné" culture=malinke }
 1401032 = {name ="Soumaré" culture=malinke }
-1401033 = {name ="Diakite" culture=malinke }
+1401033 = {name ="Diakité" culture=malinke }
 1401034 = {name ="Sangaré" culture=malinke }
 1401035 = {name ="Douala" culture=malinke }
-1401036 = {name ="Diabaté" culture=malinke }
+1401036 = {name ="Bakaba" culture=malinke }
 1401037 = {name ="Maïga" culture=malinke }
+1401038 = {name ="Bérété" culture=malinke }
+1401039 = {name ="Mané" culture=malinke }
+1401040 = {name ="Susso" culture=malinke }
+1401041 = {name ="Kaba" culture=malinke }
+1401042 = {name ="Diamé" culture=malinke }
+1401043 = {name ="Konaré" culture=malinke }
+1401044 = {name ="Dembelé" culture=malinke }
+1401045 = {name ="Daramy" culture=malinke }
+1401046 = {name ="Diarassouba" culture=malinke }
+1401047 = {name ="Sanogo" culture=malinke }
+1401048 = {name ="Dagnogo" culture=malinke }
+1401049 = {name ="Somko" culture=malinke }
+1401050 = {name ="Dondé" culture=malinke }
+1401051 = {name ="Sakoura" culture=malinke used_for_random=no}
+1401052 = {name ="Kasama" culture=malinke }
+1401053 = {name ="Damba" culture=malinke }
+1401054 = {name ="Togola" culture=malinke }
+1401055 = {name ="Tounkara" culture=malinke }
+1401056 = {name ="Kamissoko" culture=malinke }
+1401057 = {name ="Maridiata" culture=malinke }
 
+1405000 = {name ="Oumarou" culture=songhai }
+1405001 = {name ="Idé" culture=songhai }
+1405002 = {name ="Diori" culture=songhai }
+1405003 = {name ="Kountché" culture=songhai }
+1405004 = {name ="Djibo" culture=songhai }
+1405005 = {name ="Saibou" culture=songhai }
+1405006 = {name ="Souley" culture=songhai }
+1405007 = {name ="Issoufou" culture=songhai }
+1405008 = {name ="Hamza" culture=songhai }
+1405009 = {name ="Bakary" culture=songhai }
+1405010 = {name ="Takoubakoyé" culture=songhai }
+1405011 = {name ="Ramatou" culture=songhai }
+1405012 = {name ="Djondang" culture=songhai }
+1405013 = {name ="Zaki" culture=songhai }
+1405014 = {name ="Gabdé" culture=songhai }
+1405015 = {name ="Bacharou" culture=songhai }
+1405016 = {name ="Dembélé" culture=songhai }
+
+1406000 = {name ="Diallo" culture=fula }
+1406001 = {name ="Buhari" culture=fula }
+1406002 = {name ="Ba" culture=fula }
+1406003 = {name ="Tejan" culture=fula }
+1406004 = {name ="Hamdullahi" culture=fula }
+1406005 = {name ="Barry" culture=fula }
+1406006 = {name ="Sy" culture=fula }
+1406007 = {name ="Tall" culture=fula }
+1406008 = {name ="Ly" culture=fula }
+1406009 = {name ="Sou" culture=fula }
+1406010 = {name ="Baldé" culture=fula }
+1406011 = {name ="Sall" culture=fula }
+1406012 = {name ="Shagari" culture=fula }
+1406013 = {name ="Gambari" culture=fula }
+1406014 = {name ="Abubakar" culture=fula }
+1406015 = {name ="Yar'Adua" culture=fula }
+1406016 = {name ="Sory" culture=fula }
+1406017 = {name ="Ribadu" culture=fula }
+1406018 = {name ="Ma'al" culture=fula }
+1406019 = {name ="Kané" culture=fula }
+1406020 = {name ="Ahidio" culture=fula }
+1406021 = {name ="Fadil" culture=fula }
+1406022 = {name ="Adama" culture=fula }
+1406023 = {name ="Tayib" culture=fula }
+1406024 = {name ="Bundu" culture=fula }
+1406025 = {name ="Sallah" culture=fula }
+1406026 = {name ="Darassa" culture=fula }
+1406027 = {name ="Bi'Aliou" culture=fula }
+1406028 = {name ="Rassin" culture=fula }
+1406029 = {name ="Hayatou" culture=fula }
+1406030 = {name ="Barké" culture=fula }
+1406031 = {name ="Gadio" culture=fula }
+1406032 = {name ="Ka" culture=fula }
+1406033 = {name ="Diawadu" culture=fula }
+1406034 = {name ="Aminu" culture=fula }
+1406035 = {name ="Teli" culture=fula }
+1406036 = {name ="Gandujé" culture=fula }
+1406037 = {name ="Bello" culture=fula }
+1406038 = {name ="Denianké" culture=fula }
+1406039 = {name ="Teghéla" culture=fula }
+1406040 = {name ="Rella" culture=fula }
+1406041 = {name ="Dianga" culture=fula }
+1406042 = {name ="Soulé" culture=fula }
+1406043 = {name ="Diyé" culture=fula }
+1406044 = {name ="Waranka" culture=fula }
+1406045 = {name ="Sanghé" culture=fula }
+1406046 = {name ="Lobaly" culture=fula }
+1406047 = {name ="Waly" culture=fula }
+1406048 = {name ="Sambeghu" culture=fula }
+1406049 = {name ="Pouré" culture=fula }
+1406050 = {name ="Tourodi" culture=fula }
+1406051 = {name ="Tambajang" culture=fula }
+1406052 = {name ="Chefou" culture=fula }
+
+1407000 = {name ="Toloba" culture=dogon }
+1407001 = {name ="Guindo" culture=dogon }
+1407002 = {name ="Dara" culture=dogon }
+1407003 = {name ="Fonghoro" culture=dogon }
+1407004 = {name ="Ouologuem" culture=dogon }
+
+1444000 = {name ="Ag Ghaly" culture=tuareg }
+1444001 = {name ="Ag Acherif" culture=tuareg }
+1444002 = {name ="Ikhia" culture=tuareg }
+1444003 = {name ="Ag Geda" culture=tuareg }
+1444004 = {name ="Algabid" culture=tuareg }
+1444005 = {name ="Ag Acharatoumane" culture=tuareg }
+1444006 = {name ="Ag Najem" culture=tuareg }
+1444007 = {name ="Rafini" culture=tuareg }
+1444008 = {name ="Ag Hamani" culture=tuareg }
+1444009 = {name ="Intalou" culture=tuareg }
+1444010 = {name ="Ag Amastam" culture=tuareg }
+1444011 = {name ="Ag Maha" culture=tuareg }
+1444012 = {name ="Ag Boula" culture=tuareg }
+1444013 = {name ="Dayak" culture=tuareg }
+1444014 = {name ="Ag Mohamed Assaleh" culture=tuareg }
+1444015 = {name ="Ag Intalla" culture=tuareg }
+1444016 = {name ="Mokeddem" culture=tuareg }
+1444017 = {name ="Ag Bahanga" culture=tuareg }
+1444018 = {name ="Kuni" culture=tuareg }
+1444019 = {name ="Hamaha" culture=tuareg }
+1444020 = {name ="Ag Ahmadou" culture=tuareg }
+1444021 = {name ="Ag Gamou" culture=tuareg }
+1444022 = {name ="Ag Almahmoud" culture=tuareg }
+1444023 = {name ="Feltou" culture=tuareg }
+1444024 = {name ="Teguidda" culture=tuareg }
+1444025 = {name ="Ouelimaden" culture=tuareg }
+1444026 = {name ="Ag Alambo" culture=tuareg }
+1444027 = {name ="Fagaga" culture=tuareg }
+1444028 = {name ="Akoli Akoli" culture=tuareg }
+1444029 = {name ="Tchiwerin" culture=tuareg }
+1444030 = {name ="Ag Sidahmed" culture=tuareg }
+1444031 = {name ="Kalakouawa" culture=tuareg }
+1444032 = {name ="Awtchiki" culture=tuareg }
+1444033 = {name ="Ag Hamate" culture=tuareg }
+1444034 = {name ="Midou" culture=tuareg }
+1444035 = {name ="Ag Oussouf" culture=tuareg }
+1444036 = {name ="Houma" culture=tuareg }
+1444037 = {name ="Imola" culture=tuareg }
+1444038 = {name ="Zada" culture=tuareg }
+1444039 = {name ="Sidi Sidi" culture=tuareg }
+1444040 = {name ="Ag Djeri" culture=tuareg }
+1444041 = {name ="Ag Khebbi" culture=tuareg }
+1444042 = {name ="Taituq" culture=tuareg }
+1444043 = {name ="Idnan" culture=tuareg }
+1444044 = {name ="Ag Bayy" culture=tuareg }
+1444045 = {name ="Hawad" culture=tuareg }
+1444046 = {name ="Ag Alkebir" culture=tuareg }
+1444047 = {name ="Bukemetin" culture=tuareg }
+1444048 = {name ="Ag Alkhazan" culture=tuareg }
+1444049 = {name ="Idwal" culture=tuareg }
+1444050 = {name ="Ag Alhousseyni" culture=tuareg }
+1444051 = {name ="Ag Touhami" culture=tuareg }
+1444052 = {name ="Ag Ayad" culture=tuareg }
+1444053 = {name ="Ag Lamida" culture=tuareg }
+1444054 = {name ="Ag Tahada" culture=tuareg }
+1444055 = {name ="Ag Itlale" culture=tuareg }
+1444056 = {name ="Ag Ossad" culture=tuareg }
+1444057 = {name ="Ahmadelher" culture=tuareg }
+1444058 = {name ="Ag Mossa" culture=tuareg }
+1444059 = {name ="Ag Mohamedine" culture=tuareg }
+1444060 = {name ="Ag Tiglia" culture=tuareg }
+1444061 = {name ="Sidaty" culture=tuareg }
+1444062 = {name ="Ag Ahmed Salam" culture=tuareg }
+1444063 = {name ="Ag Ahmouden" culture=tuareg }
+1444064 = {name ="Ag Borreiba" culture=tuareg }
+1444065 = {name ="Abdamou" culture=tuareg }
+1444066 = {name ="Zeinabou" culture=tuareg }
+1444067 = {name ="Ag Alhabib" culture=tuareg }
+1444068 = {name ="Ag Abil" culture=tuareg }
+1444069 = {name ="Akirwini" culture=tuareg }
+1444070 = {name ="Madassane" culture=tuareg }
+1444071 = {name ="Ag Abilel" culture=tuareg }
+1444072 = {name ="Ag Akly" culture=tuareg }
+1444073 = {name ="Ag Bougara" culture=tuareg }
+1444074 = {name ="Kojak" culture=tuareg }
+1444075 = {name ="Ag Attiyoub" culture=tuareg }
+1444076 = {name ="Ag Tahib" culture=tuareg }
+1444077 = {name ="Ag Hita" culture=tuareg }
+1444078 = {name ="Ag Akawkaw" culture=tuareg }
 
 1501000 = {name ="Jantuah" culture=ashanti }
 1501001 = {name ="Frefre" culture=ashanti }
@@ -328,6 +642,8 @@
 1501142 = {name ="Mprah" culture=ashanti }
 1501142 = {name ="Gyamfi" culture=ashanti }
 1501143 = {name ="Oyoko" culture=ashanti }
+1501144 = {name ="Kwakye-Maafo" culture=ashanti }
+1501145 = {name ="Osafo-Marfo" culture=ashanti }
 
 1504000 = {name ="Mills" culture=fante }
 1504001 = {name ="Turkson" culture=fante }
@@ -372,7 +688,23 @@
 1504041 = {name ="Dadzie" culture=fante }
 1504042 = {name ="Graft-Blankson" culture=fante }
 1504043 = {name ="Rawlings" culture=fante }
-1504044 = {name ="Odartey-Wellington" culture=fante }
+1504044 = {name ="Kyeremanten" culture=fante }
+1504045 = {name ="Baffour" culture=fante }
+1504046 = {name ="Krakue" culture=fante }
+1504047 = {name ="Ayete-Nyampong" culture=fante }
+1504048 = {name ="Wereko-Brobby" culture=fante }
+1504049 = {name ="Ocran" culture=fante }
+1504050 = {name ="Kwaw-Swanzy" culture=fante }
+1504051 = {name ="Aikins" culture=fante }
+1504052 = {name ="Chinery" culture=fante }
+1504053 = {name ="Hesse" culture=fante }
+1504054 = {name ="Wubah" culture=fante }
+1504055 = {name ="Elliott" culture=fante }
+1504056 = {name ="Bossman" culture=fante }
+1504057 = {name ="Danquah" culture=fante }
+1504058 = {name ="Addo" culture=fante }
+1504059 = {name ="Djansi" culture=fante }
+1504060 = {name ="Forson" culture=fante }
 
 1505000 = {name ="Siefer" culture=baoule }
 1505001 = {name ="Houphouët" culture=baoule }
@@ -408,7 +740,7 @@
 1505032 = {name ="Ouarébo" culture=baoule }
 1505033 = {name ="Adou" culture=baoule }
 1505034 = {name ="Zamblé" culture=baoule }
-1505035 = {name ="Brou" culture=baoule }
+1505035 = {name ="d'Ouffouédiékro" culture=baoule }
 1505036 = {name ="Yapi" culture=baoule }
 1505037 = {name ="Brou" culture=baoule }
 1505038 = {name ="M'bra" culture=baoule }
@@ -433,6 +765,143 @@
 1505057 = {name ="Leberger" culture=baoule }
 1505058 = {name ="Kpli" culture=baoule }
 1505059 = {name ="Assémien" culture=baoule }
+1505060 = {name ="N'Go" culture=baoule }
+1505061 = {name ="Agré" culture=baoule }
+1505062 = {name ="de Gouromnankro" culture=baoule }
+1505063 = {name ="Djro" culture=baoule }
+1505064 = {name ="Néssero" culture=baoule }
+1505065 = {name ="de Zagoréta" culture=baoule }
+1505066 = {name ="Obouo" culture=baoule }
+1505067 = {name ="Gbamélé" culture=baoule }
+1505068 = {name ="Gonbagui" culture=baoule }
+1505069 = {name ="M'Bassidjé" culture=baoule }
+1505070 = {name ="Tiéhi" culture=baoule }
+1505071 = {name ="d'Yuala" culture=baoule }
+1505072 = {name ="Kalou" culture=baoule }
+1505073 = {name ="de Gozi" culture=baoule }
+1505074 = {name ="de Zépréguhé" culture=baoule }
+1505075 = {name ="de Tchébloguhé" culture=baoule }
+1505076 = {name ="de Wandaguhé" culture=baoule }
+1505077 = {name ="de Toroguhé-Gueya" culture=baoule }
+1505078 = {name ="Omepieu" culture=baoule }
+1505079 = {name ="N'Réhy" culture=baoule }
+1505080 = {name ="Zougoula" culture=baoule }
+
+1511000 = {name ="Dieng" culture=wolof }
+1511001 = {name ="Thiam" culture=wolof }
+1511002 = {name ="Wade" culture=wolof }
+1511003 = {name ="Diop" culture=wolof }
+1511004 = {name ="Niasse" culture=wolof }
+1511005 = {name ="Mambéty" culture=wolof }
+1511006 = {name ="Dyao" culture=wolof }
+1511007 = {name ="Mbodj" culture=wolof }
+1511008 = {name ="Logar" culture=wolof }
+1511009 = {name ="Tedyek" culture=wolof }
+1511010 = {name ="Ndiaye" culture=wolof }
+1511011 = {name ="Sembène" culture=wolof }
+1511012 = {name ="Baayo" culture=wolof }
+1511013 = {name ="Sosse" culture=wolof }
+1511014 = {name ="Fande" culture=wolof }
+
+1512000 = {name ="Njie" culture=serer }
+1512001 = {name ="Joof" culture=serer }
+1512002 = {name ="Faye" culture=serer }
+1512003 = {name ="Ngom" culture=serer }
+1512004 = {name ="Sène" culture=serer }
+1512005 = {name ="Dione" culture=serer }
+1512006 = {name ="Tine" culture=serer }
+1512007 = {name ="Loum" culture=serer }
+1512008 = {name ="Ndaw" culture=serer }
+1512009 = {name ="Diène" culture=serer }
+1512010 = {name ="Thiaw" culture=serer }
+1512011 = {name ="Senghor" culture=serer }
+1512012 = {name ="Ndour" culture=serer }
+1512013 = {name ="Gadio" culture=serer }
+1512014 = {name ="Sarr" culture=serer }
+1512015 = {name ="Kama" culture=serer }
+1512016 = {name ="Thior" culture=serer }
+1512017 = {name ="Chareh" culture=serer }
+1512018 = {name ="Dièye" culture=serer }
+1512019 = {name ="Guelowar" culture=serer }
+
+1513000 = {name ="Diedhiou" culture=jola }
+1513001 = {name ="Atepa" culture=jola }
+1513002 = {name ="Jammeh" culture=jola }
+1513003 = {name ="Coly" culture=jola }
+1513004 = {name ="Bocandeh" culture=jola }
+1513005 = {name ="Sagna" culture=jola }
+1513006 = {name ="Tamba" culture=jola }
+1513007 = {name ="Sambou" culture=jola }
+1513008 = {name ="Djikune" culture=jola }
+1513009 = {name ="Lopy" culture=jola }
+1513010 = {name ="Bojang" culture=jola }
+1513011 = {name ="Badiatte" culture=jola }
+1513012 = {name ="Tendeng" culture=jola }
+1513013 = {name ="Jatta" culture=jola }
+1513014 = {name ="Assin" culture=jola }
+1513015 = {name ="Diabone" culture=jola }
+1513016 = {name ="Sihang" culture=jola }
+1513017 = {name ="Sadio" culture=jola }
+1513018 = {name ="Tombong" culture=jola }
+1513019 = {name ="Goudiaby" culture=jola }
+1513020 = {name ="Kujabi" culture=jola }
+1513021 = {name ="Niantang" culture=jola }
+1513022 = {name ="Landiany" culture=jola }
+1513023 = {name ="Ebil" culture=jola }
+1513024 = {name ="Diamacoune" culture=jola }
+1513025 = {name ="Lalo" culture=jola }
+
+1514000 = {name ="Ialá" culture=guinensi }
+1514001 = {name ="Na Waie" culture=guinensi }
+1514002 = {name ="Temudo" culture=guinensi }
+1514003 = {name ="Tagme" culture=guinensi }
+1514004 = {name ="Sillá" culture=guinensi }
+1514005 = {name ="Bacai" culture=guinensi }
+1514006 = {name ="Vaz" culture=guinensi }
+1514007 = {name ="Saúde" culture=guinensi }
+1514008 = {name ="Fadul" culture=guinensi }
+1514009 = {name ="Intchama" culture=guinensi }
+1514010 = {name ="Fudut" culture=guinensi }
+1514011 = {name ="Imbali" culture=guinensi }
+1514012 = {name ="Nhassé" culture=guinensi }
+1514013 = {name ="Sissoco" culture=guinensi }
+1514014 = {name ="Ndafa" culture=guinensi }
+1514015 = {name ="Sanhá" culture=guinensi }
+1514016 = {name ="Seabra" culture=guinensi }
+1514017 = {name ="Kuruma" culture=guinensi }
+1514018 = {name ="Nhamadjo" culture=guinensi }
+1514019 = {name ="Serifo" culture=guinensi }
+1514020 = {name ="Katar" culture=guinensi }
+1514021 = {name ="Xuartz" culture=guinensi }
+1514022 = {name ="Bancessi" culture=guinensi }
+1514023 = {name ="Sambú" culture=guinensi }
+1514024 = {name ="Donigio" culture=guinensi }
+1514025 = {name ="Djú" culture=guinensi }
+1514026 = {name ="Ocante" culture=guinensi }
+1514027 = {name ="Jaquité" culture=guinensi }
+1514028 = {name ="Ié" culture=guinensi }
+1514029 = {name ="Na Bangna" culture=guinensi }
+1514030 = {name ="Cassamá" culture=guinensi }
+1514031 = {name ="Soriano" culture=guinensi }
+1514032 = {name ="Jabula" culture=guinensi }
+1514033 = {name ="Bafodé" culture=guinensi }
+1514034 = {name ="Quina" culture=guinensi }
+1514035 = {name ="Indjai" culture=guinensi }
+1514036 = {name ="da Gama" culture=guinensi }
+1514037 = {name ="Eanes" culture=guinensi }
+1514038 = {name ="di Planka" culture=guinensi }
+1514039 = {name ="Assocão" culture=guinensi }
+1514040 = {name ="Godinho" culture=guinensi }
+1514041 = {name ="Proenza" culture=guinensi }
+1514042 = {name ="Menezes" culture=guinensi }
+1514043 = {name ="do Céu" culture=guinensi }
+1514044 = {name ="Ricciuli" culture=guinensi }
+1514045 = {name ="Na Tchuto" culture=guinensi }
+1514046 = {name ="Embana" culture=guinensi }
+1514047 = {name ="Togna" culture=guinensi }
+1514048 = {name ="Quetá" culture=guinensi }
+1514049 = {name ="Câmnate" culture=guinensi }
+1514050 = {name ="Na N'Hada" culture=guinensi }
 
 1841000 = {name ="Pieh" culture=mende }
 1841001 = {name ="Demby" culture=mende }
@@ -472,6 +941,28 @@
 1841035 = {name ="Coomber" culture=mende }
 1841036 = {name ="Sheriff" culture=mende }
 1841037 = {name ="Kaingbanja" culture=mende }
+
+1844000 = {name ="Soro" culture=senufo }
+1844001 = {name ="Tondosama" culture=senufo }
+1844002 = {name ="Kangote" culture=senufo }
+1844003 = {name ="Samagassi" culture=senufo }
+1844004 = {name ="Sékongo" culture=senufo }
+1844005 = {name ="Silué" culture=senufo }
+1844006 = {name ="Yéo" culture=senufo }
+1844007 = {name ="Tuho" culture=senufo }
+1844008 = {name ="Ziao" culture=senufo }
+1844009 = {name ="Dona-Fologo" culture=senufo }
+1844010 = {name ="Yédiéti" culture=senufo }
+1844011 = {name ="Yadé" culture=senufo }
+1844012 = {name ="Yardjouma" culture=senufo }
+1844013 = {name ="Djandaga" culture=senufo }
+1844014 = {name ="Yaroyouma" culture=senufo }
+1844015 = {name ="Founzéye" culture=senufo }
+1844016 = {name ="Katiéni" culture=senufo }
+1844017 = {name ="Foohna" culture=senufo }
+1844018 = {name ="Katana" culture=senufo }
+1844019 = {name ="Tiembogo" culture=senufo }
+1844020 = {name ="Pélifor" culture=senufo }
 
 1866000 = {name ="Waris" culture=dagomba }
 1866001 = {name ="Mahama" culture=dagomba }
@@ -541,3 +1032,880 @@
 1877023 = {name ="Tougouma" culture=mossi }
 1877024 = {name ="Sérémé" culture=mossi }
 1877025 = {name ="Diendéré" culture=mossi }
+1877026 = {name ="Pacéré" culture=mossi }
+1877027 = {name ="Lompo" culture=mossi }
+
+1888000 = {name ="Lartey" culture=ga }
+1888001 = {name ="Nortey" culture=ga }
+1888002 = {name ="Aryee" culture=ga }
+1888003 = {name ="Poku" culture=ga }
+1888004 = {name ="Lamptey" culture=ga }
+1888005 = {name ="Tetteh" culture=ga }
+1888006 = {name ="Ankrah" culture=ga }
+1888007 = {name ="Odmatten" culture=ga }
+1888008 = {name ="Laryeah" culture=ga }
+1888009 = {name ="Ayitey" culture=ga }
+1888010 = {name ="Okine" culture=ga }
+1888011 = {name ="Quartey" culture=ga }
+1888012 = {name ="Bortey" culture=ga }
+1888013 = {name ="Quaynor" culture=ga }
+1888014 = {name ="Ashong" culture=ga }
+1888015 = {name ="Kotei" culture=ga }
+1888016 = {name ="Hansen" culture=ga }
+1888017 = {name ="Addy" culture=ga }
+1888018 = {name ="Ollennu" culture=ga }
+1888019 = {name ="Griffiths-Randolph" culture=ga }
+1888020 = {name ="Botchway" culture=ga }
+1888021 = {name ="Acquay" culture=ga }
+1888022 = {name ="Hackenburg" culture=ga }
+1888023 = {name ="Armah" culture=ga }
+1888024 = {name ="Tagoe" culture=ga }
+1888025 = {name ="Parkes" culture=ga }
+1888026 = {name ="Hammond" culture=ga }
+1888027 = {name ="Ako-Adjei" culture=ga }
+1888028 = {name ="Doku" culture=ga }
+1888029 = {name ="Tay-Natey" culture=ga }
+1888030 = {name ="Tackie" culture=ga }
+1888031 = {name ="Ofuatey-Kodjoe" culture=ga }
+1888032 = {name ="Clottey" culture=ga }
+1888033 = {name ="Commey" culture=ga }
+1888034 = {name ="Odartey-Wellington" culture=ga }
+1888035 = {name ="Nii-Owoo" culture=ga }
+1888036 = {name ="Torto" culture=ga }
+1888037 = {name ="McKorley" culture=ga }
+1888038 = {name ="Norle" culture=ga }
+1888039 = {name ="Bruce" culture=ga }
+1888040 = {name ="Easmon" culture=ga }
+1888041 = {name ="Osekre" culture=ga }
+1888042 = {name ="Vanderpuye" culture=ga }
+1888043 = {name ="Evans-Anfom" culture=ga }
+1888044 = {name ="Obetsebi" culture=ga }
+1888045 = {name ="Crabbe" culture=ga }
+1888046 = {name ="Trebi" culture=ga }
+1888047 = {name ="Kole" culture=ga }
+1888048 = {name ="Clerk" culture=ga }
+1888049 = {name ="Alabi" culture=ga }
+1888050 = {name ="Akarobettoe" culture=ga }
+1888051 = {name ="Neenyann" culture=ga }
+1888052 = {name ="Carstensen" culture=ga }
+1888053 = {name ="Meyer" culture=ga }
+1888054 = {name ="Reindorf" culture=ga }
+1888055 = {name ="Namoale" culture=ga }
+1888056 = {name ="Warren" culture=ga }
+1888057 = {name ="Quist-Papafio" culture=ga }
+1888058 = {name ="Abossey" culture=ga }
+1888059 = {name ="Konuah" culture=ga }
+1888060 = {name ="Protten" culture=ga }
+
+##reserved for Ewe
+
+1901000 = {name ="Évora" culture=verdean }
+1901001 = {name ="Barbosa" culture=verdean }
+1901002 = {name ="Silva" culture=verdean }
+1901003 = {name ="Correia" culture=verdean }
+1901004 = {name ="Fernandes" culture=verdean }
+1901005 = {name ="Benrós" culture=verdean }
+1901006 = {name ="Fonseca" culture=verdean }
+1901007 = {name ="Andrade" culture=verdean }
+1901008 = {name ="Neves" culture=verdean }
+1901009 = {name ="do Rosário" culture=verdean }
+1901010 = {name ="Carvalho" culture=verdean }
+1901011 = {name ="da Luz" culture=verdean }
+1901012 = {name ="Soares" culture=verdean }
+1901013 = {name ="de Novas" culture=verdean }
+1901014 = {name ="Tavares" culture=verdean }
+1901015 = {name ="Almeida" culture=verdean }
+1901016 = {name ="Lopes" culture=verdean }
+1901017 = {name ="do Frederico" culture=verdean }
+1901018 = {name ="Embalo" culture=verdean }
+1901019 = {name ="Pereira" culture=verdean }
+1901020 = {name ="Martins" culture=verdean }
+1901021 = {name ="Furtado" culture=verdean }
+1901022 = {name ="Macedo" culture=verdean }
+1901023 = {name ="Lubrano" culture=verdean }
+1901024 = {name ="Alhinho" culture=verdean }
+1901025 = {name ="Fortes" culture=verdean }
+1901026 = {name ="Figueira" culture=verdean }
+1901027 = {name ="Monteiro" culture=verdean }
+1901028 = {name ="Semedo" culture=verdean }
+1901029 = {name ="Rodrigues" culture=verdean }
+1901030 = {name ="Firmino" culture=verdean }
+1901031 = {name ="Vieira" culture=verdean }
+1901032 = {name ="Pires" culture=verdean }
+1901033 = {name ="Lobo" culture=verdean }
+1901034 = {name ="Varela" culture=verdean }
+1901035 = {name ="de Barros" culture=verdean }
+1901036 = {name ="Chantre" culture=verdean }
+1901037 = {name ="Duarte" culture=verdean }
+1901038 = {name ="Veiga" culture=verdean }
+1901039 = {name ="Sança" culture=verdean }
+1901040 = {name ="Gonçalves" culture=verdean }
+1901041 = {name ="Cabral" culture=verdean }
+1901042 = {name ="Mosso" culture=verdean }
+1901043 = {name ="de Jon" culture=verdean }
+1901044 = {name ="Xalino" culture=verdean }
+1901045 = {name ="da Chaxiraxi" culture=verdean }
+
+1911000 = {name ="Ghribi" culture=maghrebi }
+1911001 = {name ="Zéroual" culture=maghrebi }
+1911002 = {name ="Hmeïde" culture=maghrebi }
+1911003 = {name ="Ghozzi" culture=maghrebi }
+1911004 = {name ="Taïa" culture=maghrebi }
+1911005 = {name ="Moudrik" culture=maghrebi }
+1911006 = {name ="Belkacem" culture=maghrebi }
+1911007 = {name ="Sfar" culture=maghrebi }
+1911008 = {name ="El Hasnaoui" culture=maghrebi }
+1911009 = {name ="Mosteghanemi" culture=maghrebi }
+1911010 = {name ="Rebaï" culture=maghrebi }
+1911011 = {name ="Hamrouche" culture=maghrebi }
+1911012 = {name ="Zrika" culture=maghrebi }
+1911013 = {name ="Bensalah" culture=maghrebi }
+1911014 = {name ="Oufik" culture=maghrebi }
+1911015 = {name ="El Rhazoui" culture=maghrebi }
+1911016 = {name ="Mejjati" culture=maghrebi }
+1911017 = {name ="El Hor" culture=maghrebi }
+1911018 = {name ="Noury" culture=maghrebi }
+1911019 = {name ="Benyoucef" culture=maghrebi }
+1911020 = {name ="Brahimi" culture=maghrebi }
+1911021 = {name ="El Moctar" culture=maghrebi }
+1911022 = {name ="Ben Mrad" culture=maghrebi }
+1911023 = {name ="Zouari" culture=maghrebi }
+1911024 = {name ="Dargouthi" culture=maghrebi }
+1911025 = {name ="Béji" culture=maghrebi }
+1911026 = {name ="Rzouga" culture=maghrebi }
+1911027 = {name ="Tlili" culture=maghrebi }
+1911028 = {name ="Mosbahi" culture=maghrebi }
+1911029 = {name ="Baccouche" culture=maghrebi }
+1911030 = {name ="Zniber" culture=maghrebi }
+1911031 = {name ="Slaoui" culture=maghrebi }
+1911032 = {name ="Bouanou" culture=maghrebi }
+1911033 = {name ="Maazouzi" culture=maghrebi }
+1911034 = {name ="El Bezaz" culture=maghrebi }
+1911035 = {name ="Laraki" culture=maghrebi }
+1911036 = {name ="Benmansour" culture=maghrebi }
+1911037 = {name ="Leghazoui" culture=maghrebi }
+1911038 = {name ="Allaoui" culture=maghrebi }
+1911039 = {name ="Guennoun" culture=maghrebi }
+1911040 = {name ="Fegrouche" culture=maghrebi }
+1911041 = {name ="Moulessehoul" culture=maghrebi }
+1911042 = {name ="Imalayen" culture=maghrebi }
+1911043 = {name ="Belhouchet" culture=maghrebi }
+1911044 = {name ="Benguettaf" culture=maghrebi }
+1911045 = {name ="Ksentini" culture=maghrebi }
+1911046 = {name ="Zighoud" culture=maghrebi }
+1911047 = {name ="Nezzar" culture=maghrebi }
+1911048 = {name ="Guerouabi" culture=maghrebi }
+1911049 = {name ="Bouyacoub" culture=maghrebi }
+1911050 = {name ="Kasraoui" culture=maghrebi }
+1911051 = {name ="Ouechtati" culture=maghrebi }
+1911052 = {name ="Ben Alayech" culture=maghrebi }
+1911053 = {name ="Chouaya" culture=maghrebi }
+1911054 = {name ="Khriji" culture=maghrebi }
+1911055 = {name ="Dhouib" culture=maghrebi }
+1911056 = {name ="Mathlouthi" culture=maghrebi }
+1911057 = {name ="Bouazizi" culture=maghrebi }
+1911058 = {name ="Zouaoui" culture=maghrebi }
+1911059 = {name ="Malouche" culture=maghrebi }
+1911060 = {name ="Laghnej" culture=maghrebi }
+1911061 = {name ="Temimi" culture=maghrebi }
+1911062 = {name ="El Gharbi" culture=maghrebi }
+1911063 = {name ="Ennaifer" culture=maghrebi }
+1911064 = {name ="El Maaoui" culture=maghrebi }
+1911065 = {name ="Chalghoumi" culture=maghrebi }
+1911066 = {name ="Echargui" culture=maghrebi }
+1911067 = {name ="Daifallah" culture=maghrebi }
+1911068 = {name ="Hdidane" culture=maghrebi }
+1911069 = {name ="Zarrouki" culture=maghrebi }
+1911070 = {name ="Gammoudi" culture=maghrebi }
+1911071 = {name ="Ben Romdhane" culture=maghrebi }
+1911072 = {name ="Ben Brik" culture=maghrebi }
+1911073 = {name ="Zbidi" culture=maghrebi }
+1911074 = {name ="Trabelsi" culture=maghrebi }
+1911075 = {name ="Essaïd" culture=maghrebi }
+1911076 = {name ="Nagguez" culture=maghrebi }
+1911077 = {name ="Elghaoui" culture=maghrebi }
+1911078 = {name ="Lachheb" culture=maghrebi }
+1911079 = {name ="El Moursli" culture=maghrebi }
+1911080 = {name ="Essemlali" culture=maghrebi }
+1911081 = {name ="Oukach" culture=maghrebi }
+1911082 = {name ="Taghmaoui" culture=maghrebi }
+1911083 = {name ="Kharbouch" culture=maghrebi }
+1911084 = {name ="Elmandjra" culture=maghrebi }
+1911085 = {name ="Ben Allal" culture=maghrebi }
+1911086 = {name ="Terrab" culture=maghrebi }
+1911087 = {name ="Ghalbzouri" culture=maghrebi }
+1911088 = {name ="El Hayani" culture=maghrebi }
+1911089 = {name ="Hakmoun" culture=maghrebi }
+1911090 = {name ="Debbagh" culture=maghrebi }
+1911091 = {name ="Aouita" culture=maghrebi }
+1911092 = {name ="Ghézielle" culture=maghrebi }
+1911093 = {name ="Yemmouni" culture=maghrebi }
+1911094 = {name ="Ouardi" culture=maghrebi }
+1911095 = {name ="El Moutawakel" culture=maghrebi }
+1911096 = {name ="Khannouchi" culture=maghrebi }
+1911097 = {name ="El Ouazghari" culture=maghrebi }
+1911098 = {name ="Alaoui" culture=maghrebi }
+1911099 = {name ="Azaouagh" culture=maghrebi }
+1911100 = {name ="Boulahrouz" culture=maghrebi }
+1911101 = {name ="Chahechouhe" culture=maghrebi }
+1911102 = {name ="Mghizrat" culture=maghrebi }
+1911103 = {name ="Azaykou" culture=maghrebi }
+
+#1912 Misri
+
+#1913 Mashriqi
+
+1914000 = {name ="al-Majali" culture=bedouin }
+1914001 = {name ="al-Azazme" culture=bedouin }
+1914002 = {name ="al-Zuway" culture=bedouin }
+1914003 = {name ="al-Khraisha" culture=bedouin }
+1914004 = {name ="al-Majali" culture=bedouin }
+1914005 = {name ="al-Shra'ah" culture=bedouin }
+1914006 = {name ="al-Fayez" culture=bedouin }
+1914007 = {name ="al-Salit" culture=bedouin }
+1914008 = {name ="al-Tarabin" culture=bedouin }
+1914009 = {name ="al-Jaloudi" culture=bedouin }
+1914010 = {name ="al-Annizi" culture=bedouin }
+1914011 = {name ="al-Athbadj" culture=bedouin }
+1914012 = {name ="al-Riyah" culture=bedouin }
+1914013 = {name ="al-Ruwaili" culture=bedouin }
+1914014 = {name ="al-Addi" culture=bedouin }
+1914015 = {name ="al-Zughba" culture=bedouin }
+1914016 = {name ="al-Rbia" culture=bedouin }
+1914017 = {name ="al-Fezari" culture=bedouin }
+1914018 = {name ="al-Mehayi" culture=bedouin }
+1914019 = {name ="al-Shuari" culture=bedouin }
+1914020 = {name ="al-Sabahi" culture=bedouin }
+
+1915000 = {name ="Qasim" culture=sudani }
+1915001 = {name ="al-Azhari" culture=sudani }
+1915002 = {name ="Eltayeb" culture=sudani }
+1915003 = {name ="Salman" culture=sudani }
+1915004 = {name ="Haj-Omar" culture=sudani }
+1915005 = {name ="Medani" culture=sudani }
+1915006 = {name ="Al-Mirghani" culture=sudani }
+1915007 = {name ="an-Nimeiry" culture=sudani }
+1915008 = {name ="Awadalla" culture=sudani }
+1915009 = {name ="Salih" culture=sudani }
+1915010 = {name ="Wardi" culture=sudani }
+1915011 = {name ="Siddig" culture=sudani }
+1915012 = {name ="Bakr" culture=sudani }
+1915013 = {name ="Elmadhi" culture=sudani }
+1915014 = {name ="Mahmoud" culture=sudani }
+1915015 = {name ="Fadl-Mula" culture=sudani }
+1915016 = {name ="Baraka" culture=sudani }
+1915017 = {name ="Ayla" culture=sudani }
+1915018 = {name ="Al-Balla" culture=sudani }
+1915019 = {name ="Kasha" culture=sudani }
+1915020 = {name ="al-Kabli" culture=sudani }
+1915021 = {name ="Burhan" culture=sudani }
+1915022 = {name ="ibn Auf" culture=sudani }
+1915023 = {name ="Khabbashi" culture=sudani }
+1915024 = {name ="al-Taishi" culture=sudani }
+1915025 = {name ="Hamdok" culture=sudani }
+1915026 = {name ="Al-Faki" culture=sudani }
+1915027 = {name ="Abboud" culture=sudani }
+1915028 = {name ="Mahgoub" culture=sudani }
+1915029 = {name ="Karti" culture=sudani }
+1915030 = {name ="Tawer" culture=sudani }
+1915031 = {name ="al-Qouni" culture=sudani }
+1915032 = {name ="Galfour" culture=sudani }
+1915033 = {name ="Darman" culture=sudani }
+1915034 = {name ="al-Doma" culture=sudani }
+1915035 = {name ="Othman" culture=sudani }
+1915036 = {name ="Khogaly" culture=sudani }
+1915037 = {name ="Shagheel" culture=sudani }
+1915038 = {name ="Al-Yazal" culture=sudani }
+1915039 = {name ="Sharafuddin" culture=sudani }
+1915040 = {name ="Jaddu" culture=sudani }
+1915041 = {name ="Muala" culture=sudani }
+1915042 = {name ="al-Noor" culture=sudani }
+1915043 = {name ="Al-Sir" culture=sudani }
+1915044 = {name ="Hamdan" culture=sudani }
+1915045 = {name ="Ghaboush" culture=sudani }
+1915046 = {name ="Zamran" culture=sudani }
+1915047 = {name ="Magdy" culture=sudani }
+1915048 = {name ="Hussam" culture=sudani }
+1915049 = {name ="Abdelqayoum" culture=sudani }
+1915050 = {name ="al-Said" culture=sudani }
+1915051 = {name ="Abdeen" culture=sudani }
+1915052 = {name ="Noureljalil" culture=sudani }
+1915053 = {name ="Balandiya" culture=sudani }
+1915054 = {name ="al-Hilu" culture=sudani }
+1915055 = {name ="Taha" culture=sudani }
+1915056 = {name ="al-Hussein" culture=sudani }
+1915057 = {name ="Fadeel" culture=sudani }
+1915058 = {name ="Majid" culture=sudani }
+1915059 = {name ="Khair" culture=sudani }
+1915060 = {name ="Karameldin" culture=sudani }
+1915061 = {name ="El Jack" culture=sudani }
+1915062 = {name ="Helmy" culture=sudani }
+1915063 = {name ="Jabrallah" culture=sudani }
+1915064 = {name ="El Shigail" culture=sudani }
+1915065 = {name ="Elbagir" culture=sudani }
+1915066 = {name ="Aboulela" culture=sudani }
+1915067 = {name ="Tambal" culture=sudani }
+1915068 = {name ="al-Atabani" culture=sudani }
+1915069 = {name ="el-Salahi" culture=sudani }
+1915070 = {name ="Waqialla" culture=sudani }
+
+1916000 = {name ="Daddach" culture=sahrawi }
+1916001 = {name ="Amidane" culture=sahrawi }
+1916002 = {name ="Tamek" culture=sahrawi }
+1916003 = {name ="El Barazani" culture=sahrawi }
+1916004 = {name ="Rebbou" culture=sahrawi }
+1916005 = {name ="Ould M'Brirek" culture=sahrawi }
+1916006 = {name ="Leibek" culture=sahrawi }
+1916007 = {name ="Ould Es-Sweyih" culture=sahrawi }
+1916008 = {name ="Dueihi" culture=sahrawi }
+1916009 = {name ="Ould Errachid" culture=sahrawi }
+1916010 = {name ="Lembarki" culture=sahrawi }
+1916011 = {name ="Bassiri" culture=sahrawi }
+1916012 = {name ="Elmoutaoikil" culture=sahrawi }
+1916013 = {name ="Ould Yumani" culture=sahrawi }
+1916014 = {name ="Buchraya" culture=sahrawi }
+1916015 = {name ="Kentaui" culture=sahrawi }
+1916016 = {name ="Bayoun" culture=sahrawi }
+1916017 = {name ="El Admi" culture=sahrawi }
+1916018 = {name ="Mouichane" culture=sahrawi }
+1916019 = {name ="Aabadilah" culture=sahrawi }
+1916020 = {name ="Ould Rabani" culture=sahrawi }
+1916021 = {name ="El Bouhali" culture=sahrawi }
+1916022 = {name ="Hakim" culture=sahrawi }
+1916023 = {name ="Malainine" culture=sahrawi }
+1916024 = {name ="Abdelaziz" culture=sahrawi }
+1916025 = {name ="Er-Rguibi" culture=sahrawi }
+1916026 = {name ="Ould Jouda" culture=sahrawi }
+1916027 = {name ="Addouh" culture=sahrawi }
+1916028 = {name ="Jumani" culture=sahrawi }
+1916029 = {name ="Ahmudi" culture=sahrawi }
+1916030 = {name ="Ould Ziou" culture=sahrawi }
+1916031 = {name ="Limam" culture=sahrawi }
+1916032 = {name ="Miské" culture=sahrawi }
+1916033 = {name ="El Waghef" culture=sahrawi }
+1916034 = {name ="Ould Mouknass" culture=sahrawi }
+1916035 = {name ="Ben Hmeida" culture=sahrawi }
+1916036 = {name ="Lemghaifry" culture=sahrawi }
+
+1917000 = {name ="Ould Boulkheir" culture=haratin }
+1917001 = {name ="Ould Keihel" culture=haratin }
+1917002 = {name ="Abeidy" culture=haratin }
+1917003 = {name ="Ramdhane" culture=haratin }
+1917004 = {name ="El Hor" culture=haratin }
+1917005 = {name ="El Hacen" culture=haratin }
+1917006 = {name ="Ould Teguedi" culture=haratin }
+1917007 = {name ="El Ide" culture=haratin }
+1917008 = {name ="Ould Chebal" culture=haratin }
+1917009 = {name ="Ghassoum" culture=haratin }
+1917010 = {name ="Voulany" culture=haratin }
+1917011 = {name ="Ould Mohamedou" culture=haratin }
+1917012 = {name ="El Boukhari" culture=haratin }
+1917013 = {name ="Ould Mkhaitir" culture=haratin }
+1917014 = {name ="Denna" culture=haratin }
+1917015 = {name ="Ould Jawar" culture=haratin }
+
+
+
+2222000 = { name="Lubowski" culture=sudwester }
+2222001 = { name="Rumpf" culture=sudwester }
+2222002 = { name="Schlettwein" culture=sudwester }
+2222003 = { name="Feddersen" culture=sudwester }
+2222004 = { name="Lister" culture=sudwester }
+2222005 = { name="Lilienthal" culture=sudwester }
+2222006 = { name="Dierks" culture=sudwester }
+2222007 = { name="Starke" culture=sudwester }
+2222008 = { name="Tötemeyer" culture=sudwester }
+2222009 = { name="Jacobsohn" culture=sudwester }
+2222010 = { name="Yssel" culture=sudwester } 
+2222011 = { name="Scholtz" culture=sudwester }
+2222012 = { name="Pupkewitz" culture=sudwester }
+2222013 = { name="Sander" culture=sudwester }
+2222014 = { name="Gressmann" culture=sudwester }
+2222015 = { name="Jentsch" culture=sudwester }
+2222016 = { name="von Leipzig" culture=sudwester }
+2222017 = { name="Husselman" culture=sudwester }
+2222018 = { name="von Schwerin" culture=sudwester } 
+2222019 = { name="Badenhorst" culture=sudwester } 
+2222020 = { name="von Wielligh" culture=sudwester } 
+2222021 = { name="Flegel" culture=sudwester } 
+2222022 = { name="Gromsch" culture=sudwester } 
+2222023 = { name="Bassingthwaighte" culture=sudwester } 
+2222024 = { name="Körner" culture=sudwester } 
+2222025 = { name="Mossolow" culture=sudwester } 
+2222026 = { name="Stoffel" culture=sudwester } 
+2222027 = { name="Troost" culture=sudwester } 
+2222028 = { name="Aschenborn" culture=sudwester } 
+2222029 = { name="Yates" culture=sudwester } 
+2222030 = { name="Zelewski" culture=sudwester } 
+2222031 = { name="Greyling" culture=sudwester }
+2222032 = { name="Kiewitt" culture=sudwester }
+2222033 = { name="Wölfing" culture=sudwester }
+2222034 = { name="Labuschagne" culture=sudwester }
+2222035 = { name="Rolland" culture=sudwester }
+2222036 = { name="Ueberschaar" culture=sudwester }
+2222037 = { name="von Weitersheim" culture=sudwester }
+2222038 = { name="Grallert" culture=sudwester }
+2222039 = { name="Moodley" culture=sudwester }
+2222040 = { name="Grynberg" culture=sudwester }
+2222041 = { name="Mudge" culture=sudwester }
+2222042 = { name="Brendell" culture=sudwester }
+2222043 = { name="Opperman" culture=sudwester }
+2222044 = { name="Drotsky" culture=sudwester }
+2222045 = { name="Knüffel" culture=sudwester }
+2222046 = { name="Hecht" culture=sudwester }
+2222047 = { name="Ochs" culture=sudwester }
+2222048 = { name="von Richthofen" culture=sudwester }
+2222049 = { name="Hancox" culture=sudwester }
+2222050 = { name="Wlotzka" culture=sudwester }
+2222051 = { name="Vogelsang" culture=sudwester }
+2222052 = { name="Krabbenhöft" culture=sudwester }
+2222053 = { name="Wörmann" culture=sudwester }
+2222054 = { name="Savage" culture=sudwester }
+2222055 = { name="von Grawenreuth" culture=sudwester }
+2222056 = { name="de Pass" culture=sudwester }
+2222057 = { name="Liebenberg" culture=sudwester }
+2222058 = { name="Meixner" culture=sudwester }
+2222059 = { name="Drobisch" culture=sudwester }
+2222060 = { name="zu Woerbeck" culture=sudwester }
+2222061 = { name="Murgatroyd" culture=sudwester }
+2222062 = { name="von Prittwitz" culture=sudwester }
+2222063 = { name="Grove" culture=sudwester }
+2222064 = { name="Siedentopf" culture=sudwester }
+2222065 = { name="da Koste" culture=sudwester }
+2222066 = { name="Wurm" culture=sudwester }
+2222067 = { name="Groeg" culture=sudwester }
+2222068 = { name="von Dewitz" culture=sudwester }
+2222069 = { name="Boluminski" culture=sudwester }
+2222070 = { name="von Heyderbreck" culture=sudwester }
+2222071 = { name="Hoekstein" culture=sudwester }
+2222072 = { name="Loberloth" culture=sudwester }
+2222073 = { name="Dunaisky" culture=sudwester }
+2222074 = { name="Heimbeck" culture=sudwester }
+2222075 = { name="von Franzois" culture=sudwester }
+2222076 = { name="Dahlmann" culture=sudwester }
+2222077 = { name="von Bleichröder" culture=sudwester }
+2222078 = { name="Möller" culture=sudwester }
+2222079 = { name="Peake" culture=sudwester }
+2222080 = { name="de Göwei" culture=sudwester }
+2222081 = { name="Kaempfert" culture=sudwester }
+2222082 = { name="Falkenthal" culture=sudwester }
+2222083 = { name="von Doering" culture=sudwester }
+2222084 = { name="von Quernheimb" culture=sudwester }
+2222085 = { name="Kling" culture=sudwester }
+2222086 = { name="Dziobek" culture=sudwester }
+2222087 = { name="Thürriegel" culture=sudwester }
+2222088 = { name="von Oertzen" culture=sudwester }
+2222089 = { name="Kraetke" culture=sudwester }
+2222090 = { name="von Liebert" culture=sudwester }
+2222091 = { name="von Stetten" culture=sudwester }
+2222092 = { name="Pavel" culture=sudwester }
+2222093 = { name="Gmelin" culture=sudwester }
+2222094 = { name="Alverdes" culture=sudwester }
+2222095 = { name="Kastl" culture=sudwester }
+2222096 = { name="von Wrochem" culture=sudwester }
+2222097 = { name="Ahlhorn" culture=sudwester }
+2222098 = { name="Marquardsen" culture=sudwester }
+2222099 = { name="von Hösslin" culture=sudwester }
+2222100 = { name="Hähner" culture=sudwester }
+2222101 = { name="von Finckenstein" culture=sudwester }
+2222102 = { name="Niess" culture=sudwester }
+2222103 = { name="von Estorff" culture=sudwester }
+2222104 = { name="Hellgrewe" culture=sudwester }
+2222105 = { name="Odebrecht" culture=sudwester }
+2222106 = { name="Maercker" culture=sudwester }
+2222107 = { name="Domke" culture=sudwester }
+2222108 = { name="Dühring" culture=sudwester }
+2222109 = { name="Bendix" culture=sudwester }
+2222110 = { name="Cruse" culture=sudwester }
+2222111 = { name="von Unruh" culture=sudwester }
+2222112 = { name="Grautoff" culture=sudwester }
+2222113 = { name="Thiemann" culture=sudwester }
+2222114 = { name="Deeken" culture=sudwester }
+2222115 = { name="Looff" culture=sudwester }
+2222116 = { name="zu Lausnitz" culture=sudwester }
+2222117 = { name="Zintgraff" culture=sudwester }
+2222118 = { name="Zöller" culture=sudwester }
+2222119 = { name="Karlowa" culture=sudwester }
+2222120 = { name="Griessmeyer" culture=sudwester }
+2222121 = { name="Kübary" culture=sudwester }
+2222122 = { name="Schwörer" culture=sudwester }
+2222123 = { name="Bueck" culture=sudwester }
+2222124 = { name="Külz" culture=sudwester }
+2222125 = { name="Humboldt" culture=sudwester }
+2222126 = { name="Brocherhoff" culture=sudwester }
+2222127 = { name="Vedder" culture=sudwester }
+2222128 = { name="Zwölfaxing" culture=sudwester }
+
+2223000 = { name="Hamutenya" culture=ovambo }
+2223001 = { name="Egumbo" culture=ovambo }
+2223002 = { name="Uulenga" culture=ovambo }
+2223003 = { name="Shikongo" culture=ovambo }
+2223004 = { name="Kaukungwa" culture=ovambo }
+2223005 = { name="Hamata" culture=ovambo }
+2223006 = { name="Itula" culture=ovambo }
+2223007 = { name="Kaiyamo" culture=ovambo }
+2223008 = { name="Mufangejo" culture=ovambo }
+2223009 = { name="Iyambo" culture=ovambo }
+2223010 = { name="Angula" culture=ovambo }
+2223011 = { name="Namuhuja" culture=ovambo }
+2223012 = { name="Nujoma" culture=ovambo }
+2223013 = { name="Mnyika" culture=ovambo }
+2223014 = { name="Hainyeko" culture=ovambo }
+2223015 = { name="Amupadhi" culture=ovambo }
+2223016 = { name="Ashikoto" culture=ovambo }
+2223017 = { name="Shitaatala" culture=ovambo }
+2223018 = { name="Namundjebo" culture=ovambo }
+2223019 = { name="Ngatjizeko" culture=ovambo }
+2223020 = { name="Shipanga" culture=ovambo }
+2223021 = { name="Ekandjo" culture=ovambo }
+2223022 = { name="Pohamba" culture=ovambo }
+2223023 = { name="Nghimtina" culture=ovambo }
+2223024 = { name="Shifidi" culture=ovambo }
+2223025 = { name="Kozonguizi" culture=ovambo }
+2223026 = { name="Mushimba" culture=ovambo }
+2223027 = { name="Hamaambo" culture=ovambo }
+2223028 = { name="Huwala" culture=ovambo }
+2223029 = { name="Nuumbembe" culture=ovambo }
+2223030 = { name="Mpingana" culture=ovambo }
+2223031 = { name="Shimbulu" culture=ovambo }
+2223032 = { name="Kashuupulwa" culture=ovambo }
+2223033 = { name="Amwele" culture=ovambo }
+2223034 = { name="Ndevashiya" culture=ovambo }
+2223035 = { name="Nashikaku" culture=ovambo }
+2223036 = { name="Kankoshi" culture=ovambo }
+2223037 = { name="Mushelenga" culture=ovambo }
+2223038 = { name="Mwandingi" culture=ovambo }
+2223039 = { name="Nelengani" culture=ovambo }
+2223040 = { name="Kuhangua" culture=ovambo }
+2223041 = { name="Amukwaya" culture=ovambo }
+2223042 = { name="Tujambula" culture=ovambo }
+2223043 = { name="Dengeinge" culture=ovambo }
+2223044 = { name="Kantalelo" culture=ovambo }
+2223045 = { name="Hashikutuva" culture=ovambo }
+2223046 = { name="Uugwanga" culture=ovambo }
+2223047 = { name="Shanyengange" culture=ovambo }
+2223048 = { name="Taanyanda" culture=ovambo }
+2223049 = { name="Shomagwe" culture=ovambo }
+2223050 = { name="Imalwa" culture=ovambo }
+2223051 = { name="Haikokola" culture=ovambo }
+2223052 = { name="Haufiku" culture=ovambo }
+2223053 = { name="Mtuleni" culture=ovambo }
+2223054 = { name="Ndiwakalunga" culture=ovambo }
+2223055 = { name="Shangheta" culture=ovambo }
+2223056 = { name="Nelumbu" culture=ovambo }
+2223057 = { name="Nambundunga" culture=ovambo }
+2223058 = { name="Nhinda" culture=ovambo }
+2223059 = { name="Shiwagala" culture=ovambo }
+2223060 = { name="Mwafufya" culture=ovambo }
+2223061 = { name="Tetekela" culture=ovambo }
+2223062 = { name="Ndemufayo" culture=ovambo }
+2223063 = { name="Nepembe" culture=ovambo }
+2223064 = { name="Wahengo" culture=ovambo }
+2223065 = { name="Niitshinda" culture=ovambo }
+2223066 = { name="Aludhilu" culture=ovambo }
+2223067 = { name="Mvula" culture=ovambo }
+2223068 = { name="Hauwanga" culture=ovambo }
+2223069 = { name="Katjimba" culture=ovambo }
+2223070 = { name="Iihuhwa" culture=ovambo }
+2223071 = { name="Alugongo" culture=ovambo }
+2223072 = { name="Nghikembwa" culture=ovambo }
+2223073 = { name="Ndamanomhata" culture=ovambo }
+2223074 = { name="Shoombe" culture=ovambo }
+2223075 = { name="Shidute" culture=ovambo }
+2223076 = { name="Ndeutapa" culture=ovambo }
+2223077 = { name="Ndemuweda" culture=ovambo }
+2223078 = { name="Mungungu" culture=ovambo }
+2223079 = { name="Gweendama" culture=ovambo }
+2223080 = { name="Nakanyala" culture=ovambo }
+2223081 = { name="Mutongulume" culture=ovambo }
+2223082 = { name="Wamupolo" culture=ovambo }
+2223083 = { name="Nanyemba" culture=ovambo }
+2223084 = { name="Mavulu" culture=ovambo }
+2223085 = { name="Nankudhu" culture=ovambo }
+2223086 = { name="Diescho" culture=ovambo }
+
+2224000 = { name="Kooper" culture=nama }
+2224001 = { name="Geingob" culture=nama }
+2224002 = { name="Tseib" culture=nama }
+2224004 = { name="!Noreseb" culture=nama }
+2224005 = { name="Stuurman" culture=nama }
+2224006 = { name="Witbooi" culture=nama }
+2224007 = { name="Boois" culture=nama }
+2224008 = { name="Frederiks" culture=nama }
+2224009 = { name="//Khoutanasen" culture=nama }
+2224010 = { name="!Kharakhoen" culture=nama }
+2224011 = { name="Lambert" culture=nama }
+2224012 = { name="Draghoender" culture=nama }
+2224013 = { name="Baartman" culture=nama }
+2224014 = { name="Gamab" culture=nama }
+2224015 = { name="Baisako" culture=nama }
+2224016 = { name="!Aman" culture=nama }
+2224017 = { name="Kooitjie" culture=nama }
+2224018 = { name="!Haibeb" culture=nama }
+2224018 = { name="Goliath" culture=nama }
+2224020 = { name="!Gomen" culture=nama }
+2224021 = { name="Kharo!oan" culture=nama }
+2224022 = { name="Kröhne" culture=nama }
+2224023 = { name="Groepe" culture=nama }
+2224024 = { name="Hottentot" culture=nama }
+2224025 = { name="!Hobesen" culture=nama }
+2224026 = { name="//Aixa//ain" culture=nama }
+2224027 = { name="Veldschoen" culture=nama }
+2224028 = { name="Kafer" culture=nama }
+2224029 = { name="//Hawob" culture=nama }
+2224030 = { name="!Oagaon" culture=nama }
+2224031 = { name="//Neigaman" culture=nama }
+2224032 = { name="!Garin" culture=nama }
+2224033 = { name="!Hau!nati" culture=nama }
+2224034 = { name="Richter" culture=nama }
+2224035 = { name="Van Der Byl" culture=nama }
+2224036 = { name="Orlam" culture=nama }
+2224037 = { name="Matibi" culture=nama }
+2224038 = { name="Kido" culture=nama }
+2224039 = { name="Branda" culture=nama }
+2224040 = { name="!Neisiein" culture=nama }
+2224041 = { name="//Eibib" culture=nama }
+2224042 = { name="!Ubuxan" culture=nama }
+2224043 = { name="!Heibin" culture=nama }
+2224044 = { name="Mu//een" culture=nama }
+2224045 = { name="Kabun" culture=nama }
+2224046 = { name="Dourgein" culture=nama }
+2224047 = { name="Ourin" culture=nama }
+2224048 = { name="Matros" culture=nama }
+2224049 = { name="Tububin" culture=nama }
+2224050 = { name="!Arimun" culture=nama }
+2224051 = { name="Stewe" culture=nama }
+2224052 = { name="Piqueur" culture=nama }
+2224053 = { name="!Kharan" culture=nama }
+2224054 = { name="Dausan" culture=nama }
+2224055 = { name="!Hawe" culture=nama }
+2224056 = { name="!Gan" culture=nama }
+2224057 = { name="//Hornibin" culture=nama }
+2224058 = { name="Jod" culture=nama }
+2224059 = { name="Sewi" culture=nama }
+2224060 = { name="Hackskind" culture=nama }
+
+2225000 = { name="Amathila" culture=damara }
+2225001 = { name="Gurirab" culture=damara }
+2225002 = { name="Appolus" culture=damara }
+2225003 = { name="Geingob" culture=damara }
+2225004 = { name="Geises" culture=damara }
+2225005 = { name="!Howoseb" culture=damara }
+2225006 = { name="Claassen" culture=damara }
+2225007 = { name="//Hawaxab" culture=damara }
+2225008 = { name="/Goagoseb" culture=damara }
+2225009 = { name="//Garoëb" culture=damara }
+2225010 = { name="!Aebes" culture=damara }
+2225011 = { name="//Gamaseb" culture=damara }
+2225012 = { name="Gaseb" culture=damara }
+2225013 = { name="Oorap" culture=damara }
+2225014 = { name="Nxlabas" culture=damara }
+2225015 = { name="Kabangop" culture=damara }
+2225016 = { name="Namassiep" culture=damara }
+2225017 = { name="Owosoab" culture=damara }
+2225018 = { name="Xoagub" culture=damara }
+2225019 = { name="Namises" culture=damara }
+2225020 = { name="//Haseb" culture=damara }
+2225021 = { name="Berg" culture=damara }
+2225022 = { name="Ou//naeb" culture=damara }
+2225023 = { name="Maletsky" culture=damara }
+2225024 = { name="Gawangeb" culture=damara }
+2225025 = { name="Tsuseb" culture=damara }
+2225026 = { name="Uiseb" culture=damara }
+2225027 = { name="Axakhoeb" culture=damara }
+2225028 = { name="!Naruseb" culture=damara }
+2225029 = { name="Locke" culture=damara }
+2225030 = { name="Pietersen" culture=damara }
+2225031 = { name="//Ariseb" culture=damara }
+2225032 = { name="Naobeb" culture=damara }
+2225033 = { name="Ivanson" culture=damara }
+2225034 = { name="Thaniseb" culture=damara }
+2225035 = { name="Urikhob" culture=damara }
+2225036 = { name="Aniheb" culture=damara }
+2225037 = { name="Ugaseb" culture=damara }
+
+2226000 = { name="Veii" culture=herero }
+2226001 = { name="Kutako" culture=herero }
+2226002 = { name="Rukoro" culture=herero }
+2226003 = { name="Mbaha" culture=herero }
+2226004 = { name="Riruako" culture=herero }
+2226005 = { name="Hoveka" culture=herero }
+2226006 = { name="Tjejamba" culture=herero }
+2226007 = { name="Kapuuo" culture=herero }
+2226008 = { name="Mbaukua" culture=herero }
+2226009 = { name="Tjihuiko" culture=herero }
+2226010 = { name="Kandjoze" culture=herero }
+2226011 = { name="Mungunda" culture=herero }
+2226012 = { name="Kamburona" culture=herero }
+2226013 = { name="Tjamuaha" culture=herero }
+2226014 = { name="Maharero" culture=herero }
+2226015 = { name="Muharukua" culture=herero }
+2226016 = { name="Zeraua" culture=herero }
+2226017 = { name="Kaujeua" culture=herero }
+2226018 = { name="Morenga" culture=herero }
+2226019 = { name="Nguvauva" culture=herero }
+2226020 = { name="Mbuende" culture=herero }
+2226021 = { name="Katjirokere" culture=herero }
+2226022 = { name="Kavari" culture=herero }
+2226023 = { name="Kazenambo" culture=herero }
+2226024 = { name="Hepundjua" culture=herero }
+2226025 = { name="Mbeuserua" culture=herero }
+2226026 = { name="Haimene" culture=herero }
+2226027 = { name="Munoko" culture=herero }
+2226028 = { name="Kameeta" culture=herero }
+2226029 = { name="Hongoze" culture=herero }
+2226030 = { name="Katjitundu" culture=herero }
+2226031 = { name="Kavezeri" culture=herero }
+2226032 = { name="Tjitendero" culture=herero }
+2226033 = { name="Kariko" culture=herero }
+2226034 = { name="Korovi" culture=herero }
+2226035 = { name="Tjarioura" culture=herero }
+
+
+2227000 = { name="de Wet" culture=afrikaner }
+2227001 = { name="Botha" culture=afrikaner }
+2227002 = { name="Prinsloo" culture=afrikaner }
+2227003 = { name="van Owen" culture=afrikaner }
+2227004 = { name="Pretorius" culture=afrikaner }
+2227005 = { name="du Preez" culture=afrikaner }
+2227006 = { name="Bezuidenhout" culture=afrikaner }
+2227007 = { name="Eybers" culture=afrikaner }
+2227008 = { name="Coetzee" culture=afrikaner }
+2227009 = { name="Leroux" culture=afrikaner }
+2227010 = { name="van Jaarsveld" culture=afrikaner }
+2227011 = { name="de la Rey" culture=afrikaner }
+2227012 = { name="Kruger" culture=afrikaner }
+2227013 = { name="Smit" culture=afrikaner }
+2227014 = { name="Ackermann" culture=afrikaner }
+2227015 = { name="de Waal" culture=afrikaner }
+2227016 = { name="de Vries" culture=afrikaner }
+2227017 = { name="Oosterlaak" culture=afrikaner }
+2227018 = { name="Marais" culture=afrikaner }
+2227019 = { name="Hougaard" culture=afrikaner }
+2227020 = { name="Strydom" culture=afrikaner }
+2227021 = { name="Uys" culture=afrikaner }
+2227022 = { name="van Zyl" culture=afrikaner }
+2227023 = { name="van der Sluys" culture=afrikaner }
+2227024 = { name="Louw" culture=afrikaner }
+2227025 = { name="Viljoen" culture=afrikaner }
+2227026 = { name="Fourie" culture=afrikaner }
+2227027 = { name="van Rensburg" culture=afrikaner }
+2227028 = { name="de Graaff" culture=afrikaner }
+2227029 = { name="Fugard" culture=afrikaner }
+2227030 = { name="Boshoff" culture=afrikaner }
+2227031 = { name="van Vuuren" culture=afrikaner }
+2227032 = { name="du Toit" culture=afrikaner }
+2227033 = { name="Cronje" culture=afrikaner }
+2227034 = { name="Skrywer" culture=afrikaner }
+2227035 = { name="Cilliers" culture=afrikaner }
+2227036 = { name="Retief" culture=afrikaner }
+2227037 = { name="Potgieter" culture=afrikaner }
+2227038 = { name="van der Merwe" culture=afrikaner }
+2227039 = { name="Waarzegger" culture=afrikaner }
+2227040 = { name="Cloete" culture=afrikaner }
+2227041 = { name="van Neel" culture=afrikaner }
+2227042 = { name="van Ellinckhuijzen" culture=afrikaner }
+2227043 = { name="de Villiers" culture=afrikaner }
+2227044 = { name="Byliefeldt" culture=afrikaner }
+2227045 = { name="du Plooy" culture=afrikaner }
+2227046 = { name="Etzebeth" culture=afrikaner }
+2227047 = { name="Koornhof" culture=afrikaner }
+2227048 = { name="van der Linde" culture=afrikaner }
+2227049 = { name="van Blerk" culture=afrikaner }
+2227050 = { name="van Oudtshoorn" culture=afrikaner }
+
+2228000 = { name="Philander" culture=griqua }
+2228001 = { name="van Rooi" culture=griqua }
+2228002 = { name="Diergaardt" culture=griqua }
+2228003 = { name="Kok" culture=griqua }
+2228004 = { name="Mouton" culture=griqua }
+2228005 = { name="van Wyk" culture=griqua }
+2228006 = { name="McNab" culture=griqua }
+2228007 = { name="Beukes" culture=griqua }
+2228008 = { name="Jantjies" culture=griqua }
+2228009 = { name="Hendricks" culture=griqua }
+2228010 = { name="van Niekerk" culture=griqua }
+2228011 = { name="Abrahams" culture=griqua }
+2228012 = { name="de Lille" culture=griqua }
+2228013 = { name="Petersen" culture=griqua }
+2228014 = { name="Ebrahim" culture=griqua }
+2228015 = { name="Ehrenreich" culture=griqua }
+2228016 = { name="Sonn" culture=griqua }
+2228017 = { name="Boesak" culture=griqua }
+2228018 = { name="Schimming" culture=griqua }
+2228019 = { name="Fredericks" culture=griqua }
+2228020 = { name="Bessinger" culture=griqua }
+2228021 = { name="O'Linn" culture=griqua }
+2228022 = { name="Chase" culture=griqua }
+
+2501000 = { name="Tsafendas" culture=mestico }
+2501001 = { name="Rangel" culture=mestico }
+2501002 = { name="Castel-Branco" culture=mestico }
+2501003 = { name="Teixeira" culture=mestico }
+2501004 = { name="de Sá" culture=mestico }
+2501005 = { name="Huo" culture=mestico }
+2501006 = { name="Cordeiro" culture=mestico }
+2501007 = { name="Khan" culture=mestico }
+2501008 = { name="Quintanilha" culture=mestico }
+2501009 = { name="Hornung" culture=mestico }
+2501010 = { name="Cardoso" culture=mestico }
+2501011 = { name="Larrouy" culture=mestico }
+2501012 = { name="Vadavathy" culture=mestico }
+2501013 = { name="Roxo" culture=mestico }
+2501014 = { name="Shah" culture=mestico }
+2501015 = { name="Borges-Coelho" culture=mestico }
+2501016 = { name="Paixão" culture=mestico }
+2501017 = { name="Sing Sang" culture=mestico }
+2501018 = { name="Queiroz" culture=mestico }
+2501019 = { name="de Abdala" culture=mestico }
+2501020 = { name="Faife" culture=mestico }
+2501021 = { name="Carqueijeiro" culture=mestico }
+2501022 = { name="Tudela" culture=mestico }
+2501023 = { name="de Tovar" culture=mestico }
+2501024 = { name="Marques" culture=mestico }
+2501025 = { name="de Huérgano" culture=mestico }
+2501026 = { name="d'Alpoim" culture=mestico }
+2501027 = { name="Petersburgo" culture=mestico }
+2501028 = { name="de Albuquerque" culture=mestico }
+2501029 = { name="Saraiva" culture=mestico }
+2501030 = { name="Rogado" culture=mestico }
+2501031 = { name="de Deus" culture=mestico }
+2501032 = { name="Abranches" culture=mestico }
+2501033 = { name="Ferraz" culture=mestico }
+2501034 = { name="de Bettencourt" culture=mestico }
+2501035 = { name="Yasuques" culture=mestico }
+2501036 = { name="de Araújo" culture=mestico }
+2501037 = { name="Mendonça" culture=mestico }
+2501038 = { name="Patraquim" culture=mestico }
+2501039 = { name="Thierstein" culture=mestico }
+2501040 = { name="Simões-Meliqueaz" culture=mestico }
+2501041 = { name="Siufay" culture=mestico }
+2501042 = { name="Khida" culture=mestico }
+2501043 = { name="Lucas-Carimo" culture=mestico }
+2501044 = { name="Loforte" culture=mestico }
+2501045 = { name="Irache" culture=mestico }
+2501046 = { name="Gorjão" culture=mestico }
+2501047 = { name="Ubisse" culture=mestico }
+2501048 = { name="Cazimoto" culture=mestico }
+2501049 = { name="Bernarbé" culture=mestico }
+2501050 = { name="Sadiques" culture=mestico }
+2501051 = { name="Remane" culture=mestico }
+2501052 = { name="Alfandega" culture=mestico }
+2501053 = { name="Algueq" culture=mestico }
+2501054 = { name="da Pátria" culture=mestico }
+2501055 = { name="Noormahomed" culture=mestico }
+2501056 = { name="Picardo" culture=mestico }
+2501057 = { name="Kassim" culture=mestico }
+2501058 = { name="de Guitombe" culture=mestico }
+2501059 = { name="Rassul" culture=mestico }
+2501060 = { name="Alcides" culture=mestico }
+2501061 = { name="Trapesse" culture=mestico }
+2501062 = { name="Reis-Bacar" culture=mestico }
+2501063 = { name="Guzmão" culture=mestico }
+2501064 = { name="Cara-Alegre" culture=mestico }
+2501065 = { name="Xarifo-Vassanegy" culture=mestico }
+2501066 = { name="Abdulcadre" culture=mestico }
+2501067 = { name="de Bom Sucesso" culture=mestico }
+2501068 = { name="Mota e Cunha" culture=mestico }
+2501069 = { name="de Vasconcelos" culture=mestico }
+2501070 = { name="Novela" culture=mestico }

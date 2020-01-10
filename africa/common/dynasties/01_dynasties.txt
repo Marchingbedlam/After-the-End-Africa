@@ -10,5 +10,19 @@
 # 1500 Ashanti
 # 1700 Fante
 # 1800 Baoule
+# 1841 Mende
+# 1866 Dagomba
+# 1877 Mossi
+# 1888 Ga
+# 1889 Ewe
+# 1901 Verdean
+# 2222 Sudwester
+# 2223 Ovambo
+# 2224 Nama
+# 2225 Damara
+# 2226 Herero
+# 2227 Afrikaner
+# 2228 Griqua/Coloured
+# 2501 Mestico
 
 # 9001 Special Dynasties (for event-generated characters)

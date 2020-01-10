@@ -1,0 +1,13 @@
+# County Title
+title = c_oued_ed_dahab
+
+# Settlements
+max_settlements = 3
+
+b_dakhla_EH = tribal
+
+# Misc
+culture = sahrawi
+religion = sunni
+
+#History

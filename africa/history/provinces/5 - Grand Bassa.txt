@@ -6,9 +6,9 @@ title = c_grand_bassa
 # Settlements
 max_settlements = 3
 
-b_buchanan = city
-b_edina = castle
-b_gonglee = temple
+b_buchanan_LR = city
+b_edina_LR = castle
+b_harbel_LR = temple
 
 # Misc
 culture = kwi

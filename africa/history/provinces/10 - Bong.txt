@@ -6,9 +6,9 @@ title = c_bong
 # Settlements
 max_settlements = 3
 
-b_gbarnga = castle
-b_belefuanai = city
-b_suakoko = temple
+b_gbarnga_LR = castle
+b_belefuanai_LR = city
+b_suacoco_LR = temple
 
 # Misc
 culture = kpelle

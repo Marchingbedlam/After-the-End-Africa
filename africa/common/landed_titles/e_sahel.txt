@@ -176,6 +176,10 @@ e_sahel = {
 			c_janjanbureh = { # 66
 				color={ 89 85 32 }
 				color2={ 255 255 255 }
+
+
+				kwi = "Georgetown"
+				krio = "Georgetown"
 				
 				b_janjanbureh = {
 				}
@@ -233,6 +237,9 @@ e_sahel = {
 			c_dagana = { # 69
 				color={ 68 68 19 }
 				color2={ 255 255 255 }
+
+				kwi = "Saint-Louis"
+				krio = "Saint-Louis"
 				
 				b_dagana = {
 				}
@@ -752,6 +759,104 @@ e_sahel = {
 				}
 			}
 		}
+		d_kidal = {
+			color={ 160 14 70 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 186 province_id = 187 } }
+				}
+			}
+			capital = 186 # c_kidal
+			
+			c_kidal = { # 186
+				color={ 191 130 46 }
+				color2={ 255 255 255 }
+				
+				b_kidal_ML = {
+				}
+				b_essouk_ML = {
+				}
+				b_abeibara_ML = {
+				}
+				b_anefis_ML = {
+				}
+				b_telabit_ML = {
+				}
+				b_tin_essako_ML = {
+				}
+				b_ezgueret_ML = {
+				}
+			}
+			c_tessalit = { # 187
+				color={ 156 112 51 }
+				color2={ 255 255 255 }
+				
+				b_tessalit_ML = {
+				}
+				b_aguelhok_ML = {
+				}
+				b_achemelmel_ML = {
+				}
+				b_timtaghene_ML = {
+				}
+				b_boghassa_ML = {
+				}
+				b_tinzaouaten_ML = {
+				}
+				b_intadjedite_ML = {
+				}
+			}
+			c_bordj_badji_mokhtar = { 
+				color={ 102 61 8 }
+				color2={ 255 255 255 }
+				
+				b_bordj_badji_mokhtar_DZ = {
+				}
+				b_timiaouine_DZ = {
+				}
+				b_tin_zaouatine_DZ = {
+				}
+			}
+			c_hoggar = { 
+				color={ 173 126 66 }
+				color2={ 255 255 255 }
+				
+				b_tamanrasset_DZ = {
+				}
+				b_abalessa_DZ = {
+				}
+				b_outoul_DZ = {
+				}
+				b_tahifet_DZ = {
+				}
+				b_in_dalag_DZ = {
+				}
+				b_amsel_DZ = {
+				}
+				b_tarhenanet_DZ = {
+				}
+			}
+			c_tanezrouft = { 
+				color={ 161 112 15 }
+				color2={ 255 255 255 }
+				
+				b_in_guezzan_DZ = {
+				}
+				b_in_azaoua_DZ = {
+				}
+				b_laouni_DZ = {
+				}
+				b_in_ataye_DZ = {
+				}
+				b_garet_nous_DZ = {
+				}
+				b_hassi_in_tafouk_DZ = {
+				}
+			}
+		}
 	}
 	k_niger = {
 		color={ 205 83 102 }
@@ -985,6 +1090,498 @@ e_sahel = {
 				b_maradi_2 = {
 				}
 				b_maradi_3 = {
+				}
+			}
+		}
+	}
+	k_mauritania = {
+		color={ 12 50 60 }
+		color2={ 255 255 255 }
+		
+		capital = 165 #Nouakchott
+		culture = maghrebi
+		
+		d_trarza = {
+			color={ 12 50 60 }
+			color2={ 255 255 255 }
+			
+			capital = 165 #Nouakchott
+			
+			c_rosso = { # 163
+				color={ 15 46 26 }
+				color2={ 255 255 255 }
+				
+				b_rosso_MR = {
+				}
+				b_mederdra_MR = {
+				}
+				b_keur_macene_MR = {
+				}
+				b_mbalal_MR = {
+				}
+				b_ndiago_MR = {
+				}
+				b_taguilalett_MR = {
+				}
+				b_beir_tores_MR = {
+				}
+			}
+			c_rkiz = { # 164
+				color={ 16 64 32 }
+				color2={ 255 255 255 }
+				
+				b_rkiz_MR = {
+				}
+				b_tekane_MR = {
+				}
+				b_boutalhaya_MR = {
+				}
+				b_bareina_MR = {
+				}
+				b_enkermodi_MR = {
+				}
+				b_aouleiguatt_MR = {
+				}
+				b_belghirbane_MR = {
+				}
+			}
+			c_nouakchott = { # 165
+				color={ 12 50 60 }
+				color2={ 255 255 255 }
+				
+				b_nouakchott_MR = {
+				}
+				b_sebkha_MR = {
+				}
+				b_teyarett_MR = {
+				}
+				b_el_mina_MR = {
+				}
+				b_toujouonine_MR = {
+				}
+				b_arafat_MR = {
+				}
+				b_dar_naim_MR = {
+				}
+				b_riyad_MR = {
+				}
+			}
+			c_boutilimit = { # 166
+				color={ 38 62 53 }
+				color2={ 255 255 255 }
+				
+				b_boutilimit_MR = {
+				}
+				b_nebaghiya_MR = {
+				}
+				b_elb_adress_MR = {
+				}
+				b_nteichitt_MR = {
+				}
+				b_maatamoulana_MR = {
+				}
+				b_el_ariye_MR = {
+				}
+				b_mabrouk_MR = {
+				}
+			}
+		}
+		d_inchiri = {
+			color={ 17 50 45 }
+			color2={ 255 255 255 }
+			
+			capital = 169 #Nouadhibou
+			
+			c_inchiri = { # 167
+				color={ 17 50 45 }
+				color2={ 255 255 255 }
+				
+				b_akjoujt_MR = {
+				}
+				b_benichab_MR = {
+				}
+				b_tikattane_MR = {
+				}
+				b_el_mamghar_MR = {
+				}
+				b_portendick_MR = {
+				}
+				b_lemhaisrat_MR = {
+				}
+				b_regbet_thila_MR = {
+				}
+			}
+			c_arguin = { # 168
+				color={ 10 61 30 }
+				color2={ 255 255 255 }
+				
+				b_iouik_MR = {
+				}
+				b_tanoudert_MR = {
+				}
+				b_arkeiss_MR = {
+				}
+				b_rgueiba_MR = {
+				}
+				b_ten_alloul_MR = {
+				}
+				b_teishott_MR = {
+				}
+				b_awguej_MR = {
+				}
+			}
+			c_nouadhibou = { # 169
+				color={ 24 44 24 }
+				color2={ 255 255 255 }
+
+				kwi = "Port Stephen"
+				krio = "Port Stephen"
+				
+				b_nouadhibou_MR = {
+				}
+				b_cansado_MR = {
+				}
+				b_la_guera_EH = {
+				}
+				b_la_batterie_MR = {
+				}
+				b_guerguerat_EH = {
+				}
+				b_noumerouatt_MR = {
+				}
+				b_port_mineralier_MR = {
+				}
+			}
+			c_oued_ed_dahab = { # 184
+				color={ 19 39 32 }
+				color2={ 255 255 255 }
+				
+				b_dakhla_EH = {
+				}
+				b_bir_gandouz_EH = {
+				}
+				b_imlili_EH = {
+				}
+				b_el_argoub_EH = {
+				}
+				b_douar_lasker_EH = {
+				}
+				b_lassarga_EH = {
+				}
+				b_hay_bichate_EH = {
+				}
+			}
+		}
+		d_assaba = {
+			color={ 49 54 33 }
+			color2={ 255 255 255 }
+			
+			capital = 171 #Gorgol
+			
+			c_brakna = { # 170
+				color={ 40 48 39 }
+				color2={ 255 255 255 }
+				
+				b_aleg_MR = {
+				}
+				b_boghe_MR = {
+				}
+				b_bababe_MR = {
+				}
+				b_mbagne_MR = {
+				}
+				b_cheggar_MR = {
+				}
+				b_mal_MR = {
+				}
+				b_aere_MR = {
+				}
+			}
+			c_gorgol = { # 171
+				color={ 49 54 33 }
+				color2={ 255 255 255 }
+				
+				b_kaedi_MR = {
+				}
+				b_monguel_MR = {
+				}
+				b_mbout_MR = {
+				}
+				b_lexelba_MR = {
+				}
+				b_azgueilem_tiyab_MR = {
+				}
+				b_majhana_MR = {
+				}
+				b_djovol_MR = {
+				}
+			}
+			c_guidimaka = { # 172
+				color={ 25 45 35 }
+				color2={ 255 255 255 }
+				
+				b_selibaby_MR = {
+				}
+				b_ould_yenge_MR = {
+				}
+				b_dafort_MR = {
+				}
+				b_gouraye_MR = {
+				}
+				b_bouanze_MR = {
+				}
+				b_hassi_chaggar_MR = {
+				}
+				b_sambakagny_MR = {
+				}
+			}
+			c_aftout = { # 173
+				color={ 16 49 36 }
+				color2={ 255 255 255 }
+				
+				b_barkeol_MR = {
+				}
+				b_daghveg_MR = {
+				}
+				b_el_ghabra_MR = {
+				}
+				b_boulahrath_MR = {
+				}
+				b_rdheidhi_MR = {
+				}
+				b_laweissi_MR = {
+				}
+				b_lebhir_MR = {
+				}
+			}
+			c_tagant = { # 179
+				color={ 16 28 23 }
+				color2={ 255 255 255 }
+				
+				b_tidjikja_MR = {
+				}
+				b_boumdeid_MR = {
+				}
+				b_moudjeria_MR = {
+				}
+				b_rachid_MR = {
+				}
+				b_ksar_el_barka_MR = {
+				}
+				b_laftah_MR = {
+				}
+				b_hsey_tin_MR = {
+				}
+			}
+			c_maghta_lahjar = { # 180
+				color={ 14 30 36 }
+				color2={ 255 255 255 }
+				
+				b_maghta_lahjar_MR = {
+				}
+				b_sangrave_MR = {
+				}
+				b_ouad_emour_MR = {
+				}
+				b_djonaba_MR = {
+				}
+				b_gouimi_MR = {
+				}
+				b_oued_el_abioud_MR = {
+				}
+				b_kreimi_MR = {
+				}
+			}
+		}
+		d_aoukar = {
+			color={ 26 42 46 }
+			color2={ 255 255 255 }
+			
+			capital = 176 #Aioun
+			
+			c_kiffa = { # 174
+				color={ 19 60 24 }
+				color2={ 255 255 255 }
+				
+				b_kiffa_MR = {
+				}
+				b_legrane_MR = {
+				}
+				b_el_melgue_MR = {
+				}
+				b_aghoratt_MR = {
+				}
+				b_kouroudjel_MR = {
+				}
+				b_nouamline_MR = {
+				}
+				b_eljadida_MR = {
+				}
+			}
+			c_tintane = { # 175
+				color={ 10 50 20 }
+				color2={ 255 255 255 }
+				
+				b_tintane_MR = {
+				}
+				b_kankossa_MR = {
+				}
+				b_blajmil_MR = {
+				}
+				b_tenaha_MR = {
+				}
+				b_hamod_MR = {
+				}
+				b_sani_MR = {
+				}
+				b_koumbi_saleh_MR = {
+				}
+			}
+			c_aioun = { # 176
+				color={ 26 42 46 }
+				color2={ 255 255 255 }
+				
+				b_ayoun_el_atrous_MR = {
+				}
+				b_kobenni_MR = {
+				}
+				b_gogui_MR = {
+				}
+				b_kouroukere_MR = {
+				}
+				b_aoueinat_zbel_MR = {
+				}
+				b_moudiat_MR = {
+				}
+				b_bou_rethma_MR = {
+				}
+			}
+		}
+		d_hodh = {
+			color={ 31 59 29 }
+			color2={ 255 255 255 }
+			
+			capital = 178 #Nema
+			
+			c_timbedra = { # 177
+				color={ 20 43 37 }
+				color2={ 255 255 255 }
+				
+				b_timbedra_MR = {
+				}
+				b_djigueni_MR = {
+				}
+				b_albadaa_MR = {
+				}
+				b_el_megve_MR = {
+				}
+				b_likleiouat_MR = {
+				}
+				b_feireni_MR = {
+				}
+				b_kataouane_MR = {
+				}
+			}
+			c_nema = { # 178
+				color={ 31 59 29 }
+				color2={ 255 255 255 }
+				
+				b_nema_MR = {
+				}
+				b_amourj_MR = {
+				}
+				b_bassiknou_MR = {
+				}
+				b_diade_MR = {
+				}
+				b_fassala_MR = {
+				}
+				b_adel_bagrou_MR = {
+				}
+				b_bougadoum_MR = {
+				}
+			}
+			c_oualata = { # 185
+				color={ 7 29 17 }
+				color2={ 255 255 255 }
+				
+				b_oualata_MR = {
+				}
+				b_tizzeght_MR = {
+				}
+				b_el_guellaba_MR = {
+				}
+				b_ghlig_el_ghodf_MR = {
+				}
+				b_tagorarit_MR = {
+				}
+				b_doueire_MR = {
+				}
+				b_bir_ncara_MR = {
+				}
+			}
+		}
+		d_adrar = {
+			color={ 34 65 46 }
+			color2={ 255 255 255 }
+			
+			capital = 177 #Atar
+			
+			c_atar = { # 177
+				color={ 34 65 46 }
+				color2={ 255 255 255 }
+				
+				b_atar_MR = {
+				}
+				b_aoujeft_MR = {
+				}
+				b_choum_MR = {
+				}
+				b_terjit_MR = {
+				}
+				b_azougui_MR = {
+				}
+				b_ain_ehel_taya_MR = {
+				}
+				b_tawaz_MR = {
+				}
+			}
+			c_chinguetti = { # 177
+				color={ 22 58 41 }
+				color2={ 255 255 255 }
+				
+				b_chinguetti_MR = {
+				}
+				b_ouadane_MR = {
+				}
+				b_ain_savra_MR = {
+				}
+				b_jraif_MR = {
+				}
+				b_casbah_des_ait_maouine_MR = {
+				}
+				b_entkemkemt_MR = {
+				}
+				b_richat_MR = {
+				}
+			}
+			c_tiris_zemmour = { # 177
+				color={ 34 65 46 }
+				color2={ 255 255 255 }
+				
+				b_zouerat_MR = {
+				}
+				b_fderik_MR = {
+				}
+				b_mijek_EH = {
+				}
+				b_el_rhein_MR = {
+				}
+				b_mhaoudat_MR = {
+				}
+				b_agounit_EH = {
+				}
+				b_tourine_MR = {
 				}
 			}
 		}

@@ -6,9 +6,9 @@ title = c_kono
 # Settlements
 max_settlements = 3
 
-b_koidu_town = castle
-b_motema = city
-b_yengema = temple
+b_koidu_town_SL = castle
+b_motema_SL = city
+b_yengema_SL = temple
 
 # Misc
 culture = mende

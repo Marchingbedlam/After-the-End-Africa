@@ -1,0 +1,112 @@
+###ÄNSI
+senegambian = {
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { muslimgfx }
+	
+	wolof = {
+		color = { 0.5 0.35 0.10 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Abdoulaye_Abdullah Ahmad_Ahmed Alboury Ali "Aram Bakar" Assane_Hassan
+			Bakan-Tam Birayam Borso Bukaar_Abu-Bakr Buri-Nyabu
+			Cheick_Sheikh Chérif_Sheriff
+			Détié-Fou Djibril_Gabriel Dyakher Dyelen
+			Eter
+			"Fara Penda"
+			Gireun Gorgui
+			Ibrahim_Abraham Isa_Jesus
+			Khaari Kumba
+			Latir "Lat Jor" Lat-Kodu Louis
+			Maalik_Malik Maalixuri Mbarick "Mö Maalik"
+			Ndiadian Njak 
+			Ousmane_Osman
+			Saayodo Sakhéwère
+			Tanor Teg-Rella Tende Tyukuli
+			Xerfi Xuri
+			Yaago Yérim Yoro Youssou
+		}
+		
+		female_names = {
+			Anta
+			Fatima
+			Madjiguene
+			Ndaté Njembot
+			Yalla
+			Zahra
+		}
+	}
+	
+	serer = {
+		color = { 0.4 0.3 0.3 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Abdoulaye_Abdullah Abdourahmane Alassane_Alhassan Albert Alfred Alieu_Ali Assane_Hassan
+			"Bai Modi" Biram Boukar_Abu-Bakr Boureh
+			Cham Cheick_Sheikh Chérif_Sheriff
+			Dawda_David
+			Ebrima_Abraham Elhadji
+			Fode_Foday
+			Guirane
+			Hamady_Hamid
+			Iba Ismaïla_Ishmael Issa_Jesus
+			Jaraff Jilaak
+			Laïty Léopold_Leopold
+			Mahecor Makhtar_Mukhtar Mame Matar Momar_Muammar Mouhammed_Mohammed Moussa_Moses
+			Ndaah Njeeme Njekeh
+			Ouleye Ousmane_Osman
+			Pascal
+			Ramat Rumun
+			Sédar Semou
+			Tamsier
+			Waigo Waaly
+			Yusupha_Joseph
+		}
+		
+		female_names = {
+			Aisatu Anna
+			Fatou
+			Khady
+		}
+	}
+	jola = {
+		color = { 0.1 0.3 0.1 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Abdoulie_Abdullah Abdul-Aziz Afansu Alasanne_Alhassan Alexandre_Alexander Ambroise_Ambrose Antoine_Anthony Augustin
+			Bacary_Abu-Bakr Bassiro Bernard Boulai
+			Caesar
+			Ellibah
+			Djinabo Djiremo
+			Farimang
+			Houlio Houmandrissah
+			Idrissa_Idris
+			James Jemus Jules Junkung
+			Lang
+			Mamadou_Mohammed Maxient Malang Moulaye_Mulay
+			Nierikoun 
+			Olivier_Oliver Ousainou_Hussayn Ousmane_Osman
+			Pierre_Peter
+			Robert
+			Saikou Salif Saliou Sibacouyane Sibilumbai Sidy Sihalebe Sikakucele Sirif_Sherif Songatebeh
+			Wouli
+			Yahya_John Youba
+		}
+		
+		female_names = {
+			Aja Aguene Aissatou Aline Ashombi
+			Diambogne Dienaba
+			Fatou
+			Hortense Hyacinthe
+			Mariam_Mary
+		}
+	}
+}

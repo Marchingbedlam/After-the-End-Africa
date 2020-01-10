@@ -11,7 +11,7 @@ b_gambia_2 = city
 b_gambia_3 = temple
 
 # Misc
-culture = senegambian
-religion = catholic
+culture = jola
+religion = sunni
 
 #History

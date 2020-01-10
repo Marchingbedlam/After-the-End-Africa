@@ -6,9 +6,9 @@ title = c_gee
 # Settlements
 max_settlements = 3
 
-b_zwedru = castle
-b_fish_town = city
-b_dubwe = temple
+b_kanweaken_LR = castle
+b_fish_town_LR = city
+b_jimmiville_LR = temple
 
 # Misc
 culture = kru
