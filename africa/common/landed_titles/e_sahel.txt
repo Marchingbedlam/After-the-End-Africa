@@ -28,44 +28,76 @@ e_sahel = {
 				color={ 133 107 38 }
 				color2={ 255 255 255 }
 				
-				b_oio = {
+				b_farim_GW = {
 				}
-				b_oio_2 = {
+				b_bissora_GW = {
 				}
-				b_oio_3 = {
+				b_mansoa_GW = {
+				}
+				b_nhacra_GW = {
+				}
+				b_cumere_GW = {
+				}
+				b_enxale_GW = {
+				}
+				b_mansaba_GW = {
 				}
 			}
 			c_bolama = { # 50
 				color={ 115 90 26 }
 				color2={ 255 255 255 }
 				
-				b_bolama = {
+				b_bolama_GW = {
 				}
-				b_bolama_2 = {
+				b_bubaque_GW = {
 				}
-				b_bolama_3 = {
+				b_uno_GW = {
+				}
+				b_abu_GW = {
+				}
+				b_uite_GW = {
+				}
+				b_caravela_GW = {
+				}
+				b_orango_GW = {
 				}
 			}
 			c_cacheu = { # 51
 				color={ 104 92 36 }
 				color2={ 255 255 255 }
 				
-				b_cacheu = {
+				b_bissau_GW = {
 				}
-				b_cacheu_2 = {
+				b_cacheu_GW = {
 				}
-				b_cacheu_3 = {
+				b_quinhamel_GW = {
+				}
+				b_caio_GW = {
+				}
+				b_sao_domingos_GW = {
+				}
+				b_canchungo_GW = {
+				}
+				b_prabis_GW = {
 				}
 			}
 			c_quinara = { # 52
 				color={ 152 145 37 }
 				color2={ 255 255 255 }
 				
-				b_quinara = {
+				b_fulacunda_GW = {
 				}
-				b_quinara_2 = {
+				b_buba_GW = {
 				}
-				b_quinara_3 = {
+				b_empada_GW = {
+				}
+				b_catio_GW = {
+				}
+				b_jabada_GW = {
+				}
+				b_quebo_GW = {
+				}
+				b_cufar_GW = {
 				}
 			}
 		}
@@ -85,22 +117,38 @@ e_sahel = {
 				color={ 166 139 66 }
 				color2={ 255 255 255 }
 				
-				b_bafata = {
+				b_bafata_GW = {
 				}
-				b_bafata_2 = {
+				b_gabu_GW = {
 				}
-				b_bafata_3 = {
+				b_madina_do_boe_GW = {
+				}
+				b_bambadinca_GW = {
+				}
+				b_xitole_GW = {
+				}
+				b_galomaro_GW = {
+				}
+				b_pirada_GW = {
 				}
 			}
 			c_kolda = { # 54
 				color={ 131 131 84 }
 				color2={ 255 255 255 }
 				
-				b_kolda = {
+				b_kolda_SN = {
 				}
-				b_kolda_2 = {
+				b_medina_yoro_foulah_SN = {
 				}
-				b_kolda_3 = {
+				b_velingara_SN = {
+				}
+				b_pakour_SN = {
+				}
+				b_fafacourou_SN = {
+				}
+				b_salikegne_SN = {
+				}
+				b_kounkane_SN = {
 				}
 			}
 		}
@@ -120,33 +168,57 @@ e_sahel = {
 				color={ 125 119 29 }
 				color2={ 255 255 255 }
 				
-				b_sedhiou = {
+				b_sedhiou_SN = {
 				}
-				b_sedhiou_2 = {
+				b_bounkiling_SN = {
 				}
-				b_sedhiou_3 = {
+				b_goudomp_SN = {
+				}
+				b_marsassoum_SN = {
+				}
+				b_tanaff_SN = {
+				}
+				b_diattacounda_SN = {
+				}
+				b_diannah_malary_SN = {
 				}
 			}
 			c_gambia = { # 56
 				color={ 103 103 15 }
 				color2={ 255 255 255 }
 				
-				b_gambia = {
+				b_banjul_GM = {
 				}
-				b_gambia_2 = {
+				b_serekunda_GM = {
 				}
-				b_gambia_3 = {
+				b_brikama_GM = {
+				}
+				b_kerewan_GM = {
+				}
+				b_kanifing_GM = {
+				}
+				b_mansakonko_GM = {
+				}
+				b_farafenni_GM = {
 				}
 			}
 			c_ziguinchor = { # 57
 				color={ 114 121 43 }
 				color2={ 255 255 255 }
 				
-				b_ziguinchor = {
+				b_ziguinchor_SN = {
 				}
-				b_ziguinchor_2 = {
+				b_oussouye_SN = {
 				}
-				b_ziguinchor_3 = {
+				b_bignona_SN = {
+				}
+				b_thionck_essyl_SN = {
+				}
+				b_dioloulou_SN = {
+				}
+				b_dimbering_SN = {
+				}
+				b_mlomp_SN = {
 				}
 			}
 		}
@@ -166,11 +238,19 @@ e_sahel = {
 				color={ 122 122 28 }
 				color2={ 255 255 255 }
 				
-				b_koungheul = {
+				b_koungheul_SN = {
 				}
-				b_koungheul_2 = {
+				b_ida_mouride_SN = {
 				}
-				b_koungheul_3 = {
+				b_lour_escale_SN = {
+				}
+				b_koum_koum_SN = {
+				}
+				b_dianke_souf_SN = {
+				}
+				b_fass_thiekene_SN = {
+				}
+				b_missirah_wadene_SN = {
 				}
 			}
 			c_janjanbureh = { # 66
@@ -181,33 +261,57 @@ e_sahel = {
 				kwi = "Georgetown"
 				krio = "Georgetown"
 				
-				b_janjanbureh = {
+				b_janjanbureh_GM = {
 				}
-				b_janjanbureh_2 = {
+				b_basse_santa_su_GM = {
 				}
-				b_janjanbureh_3 = {
+				b_bansang_GM = {
+				}
+				b_kuntaur_GM = {
+				}
+				b_wassu_GM = {
+				}
+				b_baja_kunda_GM = {
+				}
+				b_panchang_GM = {
 				}
 			}
 			c_kaffrine = { # 65
 				color={ 112 112 41 }
 				color2={ 255 255 255 }
 				
-				b_kaffrine = {
+				b_kaffrine_SN = {
 				}
-				b_kaffrine_2 = {
+				b_birkilane_SN = {
 				}
-				b_kaffrine_3 = {
+				b_malem_hoddar_SN = {
+				}
+				b_nganda_SN = {
+				}
+				b_gniby_SN = {
+				}
+				b_mbelbouck_SN = {
+				}
+				b_darou_minam_SN = {
 				}
 			}
 			c_mbacke = { # 67
 				color={ 144 139 45 }
 				color2={ 255 255 255 }
 				
-				b_mbacke = {
+				b_mbacke_SN = {
 				}
-				b_mbacke_2 = {
+				b_taif_SN = {
 				}
-				b_mbacke_3 = {
+				b_ndame_SN = {
+				}
+				b_kael_SN = {
+				}
+				b_touba_SN = {
+				}
+				b_kelkome_SN = {
+				}
+				b_mbar_SN = {
 				}
 			}
 		}
@@ -227,11 +331,19 @@ e_sahel = {
 				color={ 107 107 44 }
 				color2={ 255 255 255 }
 				
-				b_kebemer = {
+				b_kebemer_SN = {
 				}
-				b_kebemer_2 = {
+				b_louga_SN = {
 				}
-				b_kebemer_3 = {
+				b_ndande_SN = {
+				}
+				b_darou_mousty_SN = {
+				}
+				b_coki_SN = {
+				}
+				b_sagatta_gueth_SN = {
+				}
+				b_keur_momar_saurr_SN = {
 				}
 			}
 			c_dagana = { # 69
@@ -241,33 +353,57 @@ e_sahel = {
 				kwi = "Saint-Louis"
 				krio = "Saint-Louis"
 				
-				b_dagana = {
+				b_dagana_SN = {
 				}
-				b_dagana_2 = {
+				b_saint_louis_SN = {
 				}
-				b_dagana_3 = {
+				b_richard_toll_SN = {
+				}
+				b_ross_bethio_SN = {
+				}
+				b_mpal_SN = {
+				}
+				b_rao_SN = {
+				}
+				b_gae_SN = {
 				}
 			}
 			c_linguere = { # 70
 				color={ 94 94 50 }
 				color2={ 255 255 255 }
 				
-				b_linguere = {
+				b_linguere_SN = {
 				}
-				b_linguere_2 = {
+				b_dahra_SN = {
 				}
-				b_linguere_3 = {
+				b_mbeuleukhe_SN = {
+				}
+				b_barkedji_SN = {
+				}
+				b_yang_yang_SN = {
+				}
+				b_dodji_SN = {
+				}
+				b_sagatta_djolof_SN = {
 				}
 			}
 			c_podor = { # 71
 				color={ 102 102 42 }
 				color2={ 255 255 255 }
 				
-				b_podor = {
+				b_podor_SN = {
 				}
-				b_podor_2 = {
+				b_ndioum_SN = {
 				}
-				b_podor_3 = {
+				b_gollere_SN = {
+				}
+				b_walalde_SN = {
+				}
+				b_haere_lao_SN = {
+				}
+				b_demette_SN = {
+				}
+				b_galoya_toucouleur_SN = {
 				}
 			}
 		}
@@ -287,44 +423,76 @@ e_sahel = {
 				color={ 135 135 43 }
 				color2={ 255 255 255 }
 				
-				b_kanel = {
+				b_kanel_SN = {
 				}
-				b_kanel_2 = {
+				b_semme_SN = {
 				}
-				b_kanel_3 = {
+				b_dembakane_SN = {
+				}
+				b_hamady_ounare_SN = {
+				}
+				b_wouro_sidy_SN = {
+				}
+				b_orkadiere_SN = {
+				}
+				b_ganguel_SN = {
 				}
 			}
 			c_koumpentoum = { # 74
 				color={ 113 113 46 }
 				color2={ 255 255 255 }
 				
-				b_koumpentoum = {
+				b_koumpentoum_SN = {
 				}
-				b_koumpentoum_2 = {
+				b_malem_niani_SN = {
 				}
-				b_koumpentoum_3 = {
+				b_bamba_thialene_SN = {
+				}
+				b_kouthiaba_wolof_SN = {
+				}
+				b_pass_koto_SN = {
+				}
+				b_soudj_SN = {
+				}
+				b_kahene_SN = {
 				}
 			}
 			c_matam = { # 73
 				color={ 117 117 43 }
 				color2={ 255 255 255 }
 				
-				b_matam = {
+				b_matam_SN = {
 				}
-				b_matam_2 = {
+				b_ouro_sogui_SN = {
 				}
-				b_matam_3 = {
+				b_thilogne_SN = {
+				}
+				b_nguidjilone_SN = {
+				}
+				b_agnam_civol_SN = {
+				}	
+				b_ogo_SN = {
+				}
+				b_bokidiawe_SN = {
 				}
 			}
 			c_ranerou_ferlo = { # 75
 				color={ 160 153 47 }
 				color2={ 255 255 255 }
 				
-				b_ranerou_ferlo = {
+				b_ranerou_SN = {
 				}
-				b_ranerou_ferlo_2 = {
+				b_lougre_thioly_SN = {
 				}
-				b_ranerou_ferlo_3 = {
+				b_oudalaye_SN = {
+				}
+				b_denndoudi_SN = {
+				}
+				b_gabasse_SN = {
+				}
+				b_mboune_SN = {
+				}
+				b_namari_SN = {
 				}
 			}
 		}
@@ -344,33 +512,57 @@ e_sahel = {
 				color={ 107 107 47 }
 				color2={ 255 255 255 }
 				
-				b_kedougou = {
+				b_kedougou_SN = {
 				}
-				b_kedougou_2 = {
+				b_salemata_SN = {
 				}
-				b_kedougou_3 = {
+				b_saraya_SN = {
+				}
+				b_bandafassi_SN = {
+				}
+				b_fongolimbi_SN = {
+				}
+				b_bembou_SN = {
+				}
+				b_dakateli_SN = {
 				}
 			}
 			c_goudiry = { # 59
 				color={ 70 70 17 }
 				color2={ 255 255 255 }
 				
-				b_goudiry = {
+				b_goudiry_SN = {
 				}
-				b_goudiry_2 = {
+				b_kothiary_SN = {
 				}
-				b_goudiry_3 = {
+				b_bakel_SN = {
+				}
+				b_diawara_SN = {
+				}
+				b_kidira_SN = {
+				}
+				b_moudery_SN = {
+				}
+				b_boynguel_bamba_SN = {
 				}
 			}
 			c_tambacounda = { # 60
 				color={ 97 97 15 }
 				color2={ 255 255 255 }
 				
-				b_tambacounda = {
+				b_tambacounda_SN = {
 				}
-				b_tambacounda_2 = {
+				b_koussanar_SN = {
 				}
-				b_tambacounda_3 = {
+				b_makacolibantang_SN = {
+				}
+				b_missirah_SN = {
+				}
+				b_dialacoto_SN = {
+				}
+				b_netteboulou_SN = {
+				}
+				b_ndoga_babacar_SN = {
 				}
 			}
 		}
@@ -390,33 +582,57 @@ e_sahel = {
 				color={ 81 81 21 }
 				color2={ 255 255 255 }
 				
-				b_thies = {
+				b_thies_SN = {
 				}
-				b_thies_2 = {
+				b_dakar_SN = {
 				}
-				b_thies_3 = {
+				b_pikine_SN = {
+				}
+				b_rufisque_SN = {
+				}
+				b_guediawaye_SN = {
+				}
+				b_khombole_SN = {
+				}
+				b_kayar_SN = {
 				}
 			}
 			c_fatick = { # 62
 				color={ 124 124 32 }
 				color2={ 255 255 255 }
 				
-				b_fatick = {
+				b_fatick_SN = {
 				}
-				b_fatick_2 = {
+				b_gossas_SN = {
 				}
-				b_fatick_3 = {
+				b_foundiougne_SN = {
+				}
+				b_sokone_SN = {
+				}
+				b_karang_poste_SN = {
+				}
+				b_diofior_SN = {
+				}
+				b_passy_SN = {
 				}
 			}
 			c_mbour = { # 63
 				color={ 125 125 80 }
 				color2={ 255 255 255 }
 				
-				b_mbour = {
+				b_mbour_SN = {
 				}
-				b_mbour_2 = {
+				b_joal_fadiouth_SN = {
 				}
-				b_mbour_3 = {
+				b_nguekhokh_SN = {
+				}
+				b_thiadiaye_SN = {
+				}
+				b_saly_portudal_SN = {
+				}
+				b_ngaparou_SN = {
+				}
+				b_popenguine_SN = {
 				}
 			}
 		}

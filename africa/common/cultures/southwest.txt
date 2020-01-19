@@ -15,18 +15,18 @@ namibian = {
 			Dawid_David Detlef Dieter Dirk Dorian 
 			Ebenezer Eberhard Eckbert Eduard_Edward Egon Ehrenfried Emil Enno Ephraim Erastus Erwin Ehrik_Eric Ernst_Ernest Ewald Ewilastus_Evilastus
 			Fabarius Fedor_Theodore Ferdinand Filalethes Filippus_Philip Fillemon_Philemon Franziskus_Francis Friedhelm Friedrich_Frederick Fritz_Frederick
-			Gerhard Gerson Gideon Giserich Goswin Gotthelf Gottlob_Gottlieb Günther Gustaf_Gustav 
+			Gerhard_Gerard Gerson Gideon Giserich Goswin Gotthelf Gottlob_Gottlieb Günther Gustaf_Gustav 
 			Hanjorge Hanno Harald_Harold Hartmann Hellmut Hendrik_Henry Henning Henk_Henry Hermann_Herman Horst Hubertus_Hubert 
 			Isaak_Isaac Isenbard Ishmael
 			Jakobus_Jacob Jesko Joachim Johannes_John Jörg_George Josef_Joseph  
-			Kamil_Camille Kayetan Klaus_Nicholas Kolmann Konrad_Conrad Kristof_Christopher Kurt
+			Kamil_Camille Kayetan_Gaetan Klaus_Nicholas Kolmann Konrad_Conrad Kristof_Christopher Kurt
 			Lamprecht Leberecht Leonhard_Leonard Liborius Llewellinus_Llewellyn Lorenz_Lawrence Lothar Ludovik_Louis Lukas_Lucas 
 			Magnus Manfred Marius Martinus_Martin Matthäus_Matthew Maximilian Moritz 
 			Nikanor  
 			Olbricht Oliwer_Oliver Oltwig Onufry Ortwinus Oskar_Oscar Otto 
 			Paulus_Paul Pieter_Peter Pribislaw 
 			Raimar Raoul Reinhardt Richard Rochus Roman Rüdiger_Roger Rudolf 
-			Sigfried Slabbert Sobeslaus Stanislaus Stanley Stefanus_Stephen Sylwester_Sylvester 
+			Sigfried Slabbert Sobeslaus Stanislaus_Stanislav Stanley Stefanus_Stephen Sylwester_Sylvester 
 			Tertius Theofelus Theopoldt Thimoteus_Timothey Thomas Torsten Tycho 
 			Veicht_Vitus Viktor_Victor
 			Ulrich
@@ -36,20 +36,21 @@ namibian = {
 		}
 		
 		female_names = {
-			Alexandrine Angelika_Angelica Anja Anoeschka Augusta 
+			Adelheid Alexandrine Angelika_Angelica Anja Anoeschka Augusta 
 			Brumhilda 
-			Charlotte Christine Cordula 
-			Elisabeth Elretha Emma 
+			Charlotte Christine Clara Cordula 
+			Elisabeth Elretha Elsie Emma 
 			Donata Dorothea 
 			Franja 
-			Gaby Gharde Gwen 
-			Henriette_Henrietta Hermine 
+			Gaby Gharde Gustaphine Gwen 
+			Hannah Henriette_Henrietta Hermine 
 			Ingeborg Irene 
 			Johanna 
-			Kerstin 
+			Kerstin_Christine 
 			Luise_Louisa 
-			Marelize Margaret Marlice Michelle Monica
+			Marelize Margaret Michelle Monica
 			Nora 
+			Paulina
 			Sophie_Sophia 
 			Ulrike
 			Viktoria_Victoria  
@@ -302,7 +303,7 @@ namibian = {
 		color = { 0.4 0.4 0.3 }
 
 		male_names = {
-			Adriaan_Hadrian Alwyn Andries_Andrew Arno 
+			Adriaan_Adrian Alwyn Andries_Andrew Arno 
 			Barend Bertus_Albert 
 			Christiaan_Christian Christoffel Coenraad_Conrad Constand_Constantine Cornelius 
 			Etienne_Stephen Eugene 

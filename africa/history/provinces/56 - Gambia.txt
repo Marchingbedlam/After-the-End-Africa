@@ -6,9 +6,9 @@ title = c_gambia
 # Settlements
 max_settlements = 3
 
-b_gambia = castle
-b_gambia_2 = city
-b_gambia_3 = temple
+b_banjul_GM = castle
+b_serekunda_GM = city
+b_brikama_GM = temple
 
 # Misc
 culture = jola

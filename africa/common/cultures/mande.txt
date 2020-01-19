@@ -60,7 +60,7 @@ mande = {
 		male_names = {
 			Abdichi-Moké Abdou_Abdul Abdoulaye_Abdullah Abdou-Razack Ahmed Alamouta Alassane_Al-Hassan Ali_Ali
 			Abubakari_Abu-Bakr
-			Ballaké Benkano_Benkan Boubacar_Abu-Bakr Boucader Boureima Bréhima
+			Ballaké Benkano_Benkan Boubacar_Abu-Bakr Boucader_Abdulkader Boureima Bréhima
 			Camba Cheick_Sheikh Choguel
 			Dankaran Daouda_David Dinkoro Dioncounda Django Djelimady Djibril_Gabriel Doula Doumbia Dramane
 			Falaba Famoudou Faséké Fodé_Foday
@@ -152,7 +152,7 @@ mande = {
 		color = { 0.7 0.6 0 }
 		
 		male_names = {
-			Albert Allieu_Ali Alpha Amidu_Hamid Arouna_Aaron Augustine
+			Albert Allieu_Ali Alpha Amidu_Ahmed Arouna_Aaron Augustine
 			Banja
 			David Dennis
 			Edward Ekuma Emerson Emmanuel

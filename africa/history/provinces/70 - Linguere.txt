@@ -6,9 +6,9 @@ title = c_linguere
 # Settlements
 max_settlements = 3
 
-b_linguere = castle
-b_linguere_2 = city
-b_linguere_3 = temple
+b_linguere_SN = castle
+b_dahra_SN = city
+b_mbeuleukhe_SN = temple
 
 # Misc
 culture = fula

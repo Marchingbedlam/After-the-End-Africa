@@ -6,9 +6,9 @@ title = c_ziguinchor
 # Settlements
 max_settlements = 3
 
-b_ziguinchor = castle
-b_ziguinchor_2 = city
-b_ziguinchor_3 = temple
+b_thionck_essyl_SN = castle
+b_ziguinchor_SN = city
+b_dimbering_SN = temple
 
 # Misc
 culture = jola

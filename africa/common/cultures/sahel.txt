@@ -9,30 +9,35 @@ sahel = {
 		color = { 0.9 1 0.8 }
 		
 		male_names = {
-			Abbas "Abder Rahman" "Abdul Bokar" Abdulkadir Abdullahi_Abdullah "Abdullahi Barau" Abubakar_Abu-Bakr Adamu_Adam Addafini "Ado Bayero" Ahmadu_Ahmed "Ahmadu Atiku" "Ahmadu Rufai" Aliyu_Ali Aliyu-Babba Atiku Ayuba_Job
-			Barau Bashar
+			Abbas "Abder Rahman" "Abdul Bokar" Abdulkadir Abdullahi_Abdullah "Abdullahi Barau" Abubakar_Abu-Bakr Adamu_Adam Addafini "Ado Bayero" Ahmadu_Ahmed "Ahmadu Atiku" "Ahmadu Rufai" Aliyu_Ali Aliyu-Babba Amiru_Amir Atiku Ayuba_Job
+			Banja Barau Bashar
 			Cellou
 			Dasuki Dawuda_David Diakho Doundou
 			Faruk Fodio_Foday
 			Gidado "Gwari Abdu"
 			Haliru "Hamman Ruwa" Hammata Hasan Hussaini_Hussayn
-			Ibrahim_Abraham "Ibrahim Dasuki" "Ibrahim Sulu" Inuwa Ishaku_Isaac
+			Ibrahim_Abraham "Ibrahim Dasuki" "Ibrahim Sulu" Iisa_Jesus Inuwa Ishaku_Isaac
 			Jafar Jubril_Gabriel Junaidu
 			"Kabir Umar" Karami Karamokho Khalilu_Khalil Kwairanga
 			Lawan Lukudi
-			Mayaki Mallam "Mallam Ishaku" "Mallam Musa" "Mallam Zaki" Modibo Muhammadu_Mohammed "Muhammadu Attahiru" "Muhammadu Bello" "Muhammadu Dikko" "Muhammadu Maccido" "Muhammadu Maiturare" "Muhammadu Sanusi" "Muhammadu Tambari" Muhamman Mu'azu Murtala Musa_Moses
-			Na'uka Njidda Nuhu_Nuh
+			Mayaki Mallam "Mallam Ishaku" "Mallam Musa" "Mallam Zaki" Modibo Muhammadu_Mohammed "Muhammadu Attahiru" "Muhammadu Bello" "Muhammadu Dikko" "Muhammadu Maccido" "Muhammadu Maiturare" "Muhammadu Sanusi" "Muhammadu Tambari" Muhamman Mu'azu Murtala Musa_Moses Musdafa_Mustafa
+			Nassourou Na'uka Njidda Nuhu_Nuh
 			"Qadir Zaylani"
 			Rilwanu Rufai
-			Sa'adu_Said Siddiq Sulaymanu_Solomon Subande Sulu
+			Sa'adu_Said Saifulayi Sandu Shehu Siddiq Sulaymanu_Solomon Subande Sulu
 			Tamsir Tenguella Tidiani Tierno Tukur
-			Umaru_Omar Usman_Osman "Usman Shehu"
+			Umaru_Omar Usman_Osman "Usman Bokari" "Usman Shehu"
 			Yacine Yamuza Yaqubu_Jacob Yaro
 			Zangi
 		}
 		female_names = {
-			Aisha Asma'u
+			Aisha Amina Asma'u
+			Fatumata
+			Hawa
+			Isatu
 			Khadi
+			Mariama_Mary
+			Samira
 			Umu
 		}
 		
@@ -50,13 +55,21 @@ sahel = {
 		color = { 0.9 1 1.1 }
 		
 		male_names = {
+			Abdule_Abdullah Ahmedu_Ahmed Alassane_Alhassan Ali Amaguime Atame
+			Bakari_Abu-Bakr
+			Daouda_David
 			Gouno
-			Moulaye_Mulay
-			Ogotemmêli
+			Haroun_Aaron
+			Ibrahim_Abraham
+			Mamadou_Mohammed Moulaye_Mulay Moustapha_Mustafa
+			Ogotemeli
+			Sedou Suleymane_Solomon
 			Yambo Youssouf_Joseph
 		}
 		female_names = {
 			Aisha
+			Madina Mariam_Mary
+			Nassira
 		}
 		
 

@@ -6,9 +6,9 @@ title = c_dagana
 # Settlements
 max_settlements = 3
 
-b_dagana = castle
-b_dagana_2 = city
-b_dagana_3 = temple
+b_richard_toll_SN = castle
+b_saint_louis_SN = city
+b_dagana_SN = temple
 
 # Misc
 culture = wolof

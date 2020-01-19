@@ -6,9 +6,9 @@ title = c_matam
 # Settlements
 max_settlements = 3
 
-b_matam = castle
-b_matam_2 = city
-b_matam_3 = temple
+b_ouro_sogui_SN = castle
+b_matam_SN = city
+b_thilogne_SN = temple
 
 # Misc
 culture = wolof

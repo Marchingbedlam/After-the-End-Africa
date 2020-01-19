@@ -6,9 +6,9 @@ title = c_cacheu
 # Settlements
 max_settlements = 3
 
-b_cacheu = castle
-b_cacheu_2 = city
-b_cacheu_3 = temple
+b_cacheu_GW = castle
+b_bissau_GW = city
+b_quinhamel_GW = temple
 
 # Misc
 culture = guinensi

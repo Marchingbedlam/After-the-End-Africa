@@ -6,9 +6,9 @@ title = c_kebemer
 # Settlements
 max_settlements = 3
 
-b_kebemer = castle
-b_kebemer_2 = city
-b_kebemer_3 = temple
+b_kebemer_SN = castle
+b_louga_SN = city
+b_ndande_SN = temple
 
 # Misc
 culture = wolof

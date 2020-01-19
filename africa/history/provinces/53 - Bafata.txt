@@ -6,7 +6,7 @@ title = c_bafata
 # Settlements
 max_settlements = 3
 
-b_bafata = tribal
+b_bafata_GW = tribal
 
 # Misc
 culture = fula

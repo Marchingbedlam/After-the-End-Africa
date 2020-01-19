@@ -6,9 +6,9 @@ title = c_koungheul
 # Settlements
 max_settlements = 3
 
-b_koungheul = castle
-b_koungheul_2 = city
-b_koungheul_3 = temple
+b_koungheul_SN = castle
+b_ida_mouride_SN = city
+b_lour_escale_SN = temple
 
 # Misc
 culture = wolof

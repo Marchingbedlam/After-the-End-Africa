@@ -24,8 +24,8 @@ christian = {
 	anglican = {
 		graphical_culture = westerngfx
 
-		icon = 2
-		heresy_icon = 7
+		icon = 3
+		heresy_icon = 3
 
 		color = { 0.6 0.65 0.8 }
 
@@ -90,8 +90,8 @@ muslim = {
 	sunni = {
 		graphical_culture = muslimgfx
 
-		icon = 3
-		heresy_icon = 8
+		icon = 2
+		heresy_icon = 2
 		
 		color = { 0 0.6 0 }
 		
@@ -137,8 +137,8 @@ pan_african = {
 	ubuntu = {
 		graphical_culture = westernfx
 
-		icon = 1
-		heresy_icon = 6
+		icon = 4
+		heresy_icon = 4
 		
 		color = { 0.7 0.8 0.6 }
 		
@@ -188,8 +188,8 @@ pan_african = {
 	libertarian = {
 		graphical_culture = muslimgfx
 		
-		icon = 49
-		heresy_icon = 50
+		icon = 4
+		heresy_icon = 4
 		
 		color = { 0.3 0.3 0.8 }
 		
@@ -246,8 +246,8 @@ pirate = {
 	brethren = { # pirates!
 		graphical_culture = norsegfx
 
-		icon = 40
-		heresy_icon = 41
+		icon = 5
+		heresy_icon = 5
 		
 		color = { 0.3 0.2 0.2 }
 

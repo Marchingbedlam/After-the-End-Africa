@@ -6,9 +6,9 @@ title = c_fatick
 # Settlements
 max_settlements = 3
 
-b_fatick = castle
-b_fatick_2 = city
-b_fatick_3 = temple
+b_fatick_SN = castle
+b_gossas_SN = city
+b_foundiougne_SN = temple
 
 # Misc
 culture = wolof

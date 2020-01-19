@@ -6,9 +6,9 @@ title = c_podor
 # Settlements
 max_settlements = 3
 
-b_podor = castle
-b_podor_2 = city
-b_podor_3 = temple
+b_podor_SN = castle
+b_ndioum_SN
+b_gollere_SN = temple
 
 # Misc
 culture = fula

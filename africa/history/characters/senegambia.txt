@@ -36,7 +36,7 @@
 	2700.1.1={ death=yes }
 }
 1522004={
-	name="Maixent"
+	name="Wágner"
 	dynasty=1514002
 	culture=guinensi
 	religion=catholic

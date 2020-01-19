@@ -114,43 +114,47 @@ portuguese = {
 		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
-			Adolfo_Adolf Adul Aliu_Ali Ansumane António_Anthony
-			Baciro_Bakr Benjamin Batista Braíma Bruno Buomesca
+			Adolfo_Adolf Adul Aliu_Ali Ansumane António_Anthony Artur_Arthur
+			Baciro_Bakr Bedopassa Benjamin Batista Bocundji Braíma Bruno Buomesca
 			Caetano_Gaetan Carlos_Carl Cedate Constantino_Constantine
-			Desejado Dionísio_Dionysus Domingos_Dominic
-			Edivaldo Esmaël_Ishmael
-			Fernando_Ferdinand Francisco_Francis Fretïmio
-			Geremias_Jeremiah
+			Danilson Desejado Dinis Dionísio_Dionysus Domingos_Dominic
+			Éder Edivaldo Esmaël_Ishmael Eusébio_Eusebius
+			Faustino_Faustin Fernando_Ferdinand Francisco_Francis Fretïmio
+			Geremias_Jeremiah Guilherme_William
 			Henrique_Henry
 			Ibraima_Abraham Idrisa Inocêncio_Innocent Inzaghi
 			Jorge_George José_Joseph Juvenal
 			Kumba
 			Luís_Louis
-			Malam Manconi Manuel_Emmanuel Mário_Marius Martino_Martin Mésaque Moreto Mutaro
+			Malam Mamadu_Mohammed Manconi Manuel_Emmanuel Mário_Marius Martino_Martin Mbunde Mésaque Moreto Mutaro
 			Nino
 			Odiquir
-			Romário
+			Rogério_Roger Romário
 			Saido_Said Samori_Samory Sufrim
-			Tijane
+			Talata Tijane
 			Umaro_Omar
-			Vasco Vlamecir
+			Vasco Veríssimo Vlamecir Venceslau_Wenceslaus
 			Yalany Yaya_John
-			Zamora
+			Zamora Zeferino_Zephyrin
 		}
 		
 		female_names = {
-			Antonieta
+			Adiato Anhel_Angela Antonieta
 			Cadi Carla Carmen
 			Eneida
 			Fátima_Fatima Filomena Flora Francisca
-			Henriqueta
+			Graciela
+			Henriqueta Hilia
 			Iva
-			Jacira Joacine
+			Jacira Jessica Joacine
+			Leopoldina
 			Maria_Mary
-			Odete
+			Odete Okinka
 			Pampa
 			Rosa
-			Titina
+			Suzi
+			Taciana Titina
+			Zinha
 		}
 
 		from_dynasty_prefix = "de "

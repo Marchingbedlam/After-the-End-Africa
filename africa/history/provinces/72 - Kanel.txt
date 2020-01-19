@@ -6,9 +6,9 @@ title = c_kanel
 # Settlements
 max_settlements = 3
 
-b_kanel = castle
-b_kanel_2 = city
-b_kanel_3 = temple
+b_kanel_SN = castle
+b_semme_SN = city
+b_dembakane_SN = temple
 
 # Misc
 culture = soninke

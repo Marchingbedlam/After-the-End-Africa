@@ -6,9 +6,9 @@ title = c_mbacke
 # Settlements
 max_settlements = 3
 
-b_mbacke = castle
-b_mbacke_2 = city
-b_mbacke_3 = temple
+b_mbacke_SN = castle
+b_taif_SN = city
+b_kael_SN = temple
 
 # Misc
 culture = serer

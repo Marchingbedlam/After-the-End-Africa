@@ -60,10 +60,37 @@ arabic = {
 		color = { 0.2 1.0 0.2 }
 		
 		male_names = {
-			Abbas
+			Abbas "Abbas Helmy" "Abdel Aziz" "Abdel Fattah" "Abdel Hakim" "Abdel Khalek" "Abdel Moneim" "Abdel Rahman" Ahmed Aly_Ali Amr Anwar Ashraf Atef Ayman Aybak Aziz
+			Daoud_David
+			Emad Essam Ezzat
+			Farag Fareed_Farid Farouk_Faruk Fekry_Fakr Fuad
+			Gamal_Jamal
+			Hamed_Hamid Hassan Hatem Hazem Hesham_Hisham Hosni Hossam Hussein
+			Ibrahim_Abraham Ismail_Ishmael
+			Jaqmaq
+			Kamal Karim Khairat Khaled_Khalid Khalil
+			Lotfy_Lutfi
+			Mamdouh Mohamed_Mohammed "Mohamed Ali" Mokhtar_Mukhtar Mostafa_Mustafa
+			Nabil Naguib Nasser_Nasr
+			Omar Osama
+			Qansuh
+			Raouf_Rauf Rashad Riad Rushdi
+			Saad Salah Sameh_Samih Samir Sayed_Sayyid Selim Shihab Soliman_Solomon
+			Taher_Tahir Talaat Tamer_Timur Tarek_Tariq Tewfik_Tawfiq
+			Wael Wafik Walid
+			Yaqub_Jacob Yasser Yehia_John Youssef_Joseph
+			Zakaria_Zachary
 		}
 		female_names = {
-			Aisha
+			Aisha Amina
+			Fawzia
+			Ghada
+			Hala
+			Laila
+			Mansoura Mariam_Mary Marwa Mona
+			Nabila Nawal Nawara
+			Ratiba
+			Samha Sara_Sarah
 		}
 		
 

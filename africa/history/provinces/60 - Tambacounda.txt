@@ -6,9 +6,9 @@ title = c_tambacounda
 # Settlements
 max_settlements = 3
 
-b_tambacounda = castle
-b_tambacounda_2 = city
-b_tambacounda_3 = temple
+b_koussanar_SN = castle
+b_tambacounda_SN = city
+b_makacolibantang_SN = temple
 
 # Misc
 culture = malinke

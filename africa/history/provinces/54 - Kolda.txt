@@ -6,9 +6,9 @@ title = c_kolda
 # Settlements
 max_settlements = 3
 
-b_kolda = castle
-b_kolda_2 = city
-b_kolda_3 = temple
+b_kolda_SN = castle
+b_medina_yoro_foulah_SN = city
+b_velingara_SN = temple
 
 # Misc
 culture = fula

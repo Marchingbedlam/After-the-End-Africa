@@ -45,17 +45,21 @@ kingdom_libertarian;Commonwealth;;;;;;;;;;;;;x
 emperor_libertarian;Commander-in-Chief;;;;;;;;;;;;;x
 emperor_female_libertarian;Commander-in-Chief;;;;;;;;;;;;;x
 
+baron_krio;Viscount;;;;;;;;;;;;;x
+baron_female_krio;Viscountess;;;;;;;;;;;;;x
 count_krio;Earl;;;;;;;;;;;;;x
 count_female_krio;Lady;;;;;;;;;;;;;x
 
-city_count_krio;Minister;;;;;;;;;;;;;x
-city_count_female_krio;Minister;;;;;;;;;;;;;x
+city_count_krio;Lord Governor;;;;;;;;;;;;;x
+city_count_female_krio;Lady Governess;;;;;;;;;;;;;x
 city_duke_krio;Lieutenant Governor;;;;;;;;;;;;;x
-city_duke_female_krio;Lieutenent Governor;;;;;;;;;;;;;x
-city_king_libertarian;Governor General;;;;;;;;;;;;;x
-city_king_female_libertarian;Governor General;;;;;;;;;;;;;x
-city_emperor_libertarian;Lord Protector;;;;;;;;;;;;;x
-city_emperor_female_libertarian;Lord Protector;;;;;;;;;;;;;x
+city_duke_female_krio;Lieutenent Governess;;;;;;;;;;;;;x
+city_king_krio;Governor General;;;;;;;;;;;;;x
+city_king_female_krio;Governor General;;;;;;;;;;;;;x
+city_emperor_krio;Lord Protector;;;;;;;;;;;;;x
+city_emperor_female_krio;Lady Protector;;;;;;;;;;;;;x
+
+duke_ashanti;Obirempon;;;;;;;;;;;;;x
 
 count_malinke;Farin;;;;;;;;;;;;;x
 duke_malinke;Farba;;;;;;;;;;;;;x
@@ -67,6 +71,9 @@ emperor_soninke;Ghana;;;;;;;;;;;;;x
 king_songhai;Dja;;;;;;;;;;;;;x
 
 king_fula;Almamy;;;;;;;;;;;;;x
+
+king_mossi;Naba;;;;;;;;;;;;;x
+emperor_mossi;Mogho Naba;;;;;;;;;;;;;x
 
 duke_senegambian;Lamane;;;;;;;;;;;;;x
 

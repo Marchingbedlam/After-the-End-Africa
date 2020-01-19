@@ -6,9 +6,9 @@ title = c_sedhiou
 # Settlements
 max_settlements = 3
 
-b_sedhiou = castle
-b_sedhiou_2 = city
-b_sedhiou_3 = temple
+b_sedhiou_SN = castle
+b_bounkiling_SN = city
+b_goudomp_SN = temple
 
 # Misc
 culture = jola

@@ -6,9 +6,9 @@ title = c_ranerou_ferlo
 # Settlements
 max_settlements = 3
 
-b_ranerou_ferlo = castle
-b_ranerou_ferlo_2 = city
-b_ranerou_ferlo_3 = temple
+b_ranerou_SN = castle
+b_lougre_thioly_SN = city
+b_oudalaye_SN = temple
 
 # Misc
 culture = fula

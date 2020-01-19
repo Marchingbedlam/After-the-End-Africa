@@ -128,19 +128,19 @@ west_african = {
 			Daniel Daouda_David Dawingna Djibril_Gabriel 
 			Frédéric_Frederick
 			Geda Gérard_Gerard Gigma Gilbert Gnignemdo Goabga Grumah Guiguem-Pollé Guirga
-			Hamado Harouna_Aaron Henoc_Enoch 
+			Hamado Hamtiuri Harouna_Aaron Henoc_Enoch Hountani
 			Ibrahim_Abraham Ismaël_Ishmael Issiaka_Isaac Issoufou 
 			Jean_John Jonathan 
-			Kango Karfo Kimba Koom Korongo Kouda Kougri Kourita Koutou
-			Louckmane_Lukman
+			Kango Karfo Kimba Kom Korongo Kouda Kougri Kourita Koutou
+			Lissoangui Louckmane_Lukman
 			Mamadou_Mohammed Maurice Michel_Michael Motiba Moussa_Moses Moustapha_Mustafa
 			Nakien-Zanga Nakim Namégué Nasbiré Naskiémde Niandfo Nyambre
 			Ouali_Ali Oubri Ouezzin Ousmane_Osman
 			Ragongo Rawa Ryallé
-			Sagha Saidou_Said Samuel Sanum Sigiri Soarba Sorgo Souleymane_Solomon Soutongo
-			Tahirou_Tahir Thomas Tigre Tuguri 
+			Sagha Saidou_Said Samuel Sanum Sigiri Simandari Soarba Sorgo Souleymane_Solomon Soutongo
+			Tahirou_Tahir Thomas Tigre Tokourma Tuguri 
 			Waléry_Valerian Warga Wobgho
-			Yacouba_Jacob Yadega Yemde Youssouf_Joseph
+			Yacouba_Jacob Yadega Yemde Yensongu Yentugri Youssouf_Joseph
 			Zergha Zoétré Zombré  
 		}
 		
@@ -153,6 +153,8 @@ west_african = {
 			Wamanegdo
 			Yennenga 
 		}
+
+		dukes_called_kings = yes
 	}
     	senufo = {
 		color = { 1 0.6 0.5 }
@@ -224,6 +226,41 @@ west_african = {
 			Yvonne
 		}
 	}
+	ewe = {
+		color = { 1.0 1.5 2.0 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Abagba Adeladza Agodo Agorkoli Ahrlonko Amedor Anselmus_Anselm Anthony Anumah Atsa Augustin_Augustine Avorga Azamu
+			Bajavi Bernardo_Bernard Blihla
+			Charles
+			Denning Domingo_Dominic Dorglo Dzoboku
+			Enyonam Ewenya
+			Ferdinand Francis Fui
+			George
+			Hanto
+			Jacques
+			Katraya Kofi Komla Kpeglo Kpengla Kponton Kwasi
+			Lanyo Livingstone Lucien_Lucius
+			Ngunia Nyavor
+			Padmore
+			Raphael Richard Robert
+			Semenu Senyo Sri Stephano_Stephen
+			Timothy Titriwe Todjo Tsali Tsatsu
+		}
+		
+		female_names = {
+			Akoshiwo Ametowofa Ameyo Annie_Anna
+			Cecilia Charity
+			Erica Esther
+			Mawuena
+			Patience
+			Ruth
+			Victoria
+		}
+	}
 	kwi = {
 		graphical_cultures = { westafricangfx africangfx }
 		unit_graphical_cultures = { westafricangfx africangfx }
@@ -254,7 +291,7 @@ west_african = {
 			Tarweh Thomas_Thomas 
 			Vacanarat Varney 
 			Wesley William Wilmot Winston 
-			Zacharia Zeh Zolu	
+			Zacharia_Zachary Zeh Zolu	
 
 			Mohamed_Mohammed Murad Ali Abdullah Omar Ahmed Hassan	
 		}

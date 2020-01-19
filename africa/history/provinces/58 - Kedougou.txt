@@ -6,9 +6,9 @@ title = c_kedougou
 # Settlements
 max_settlements = 3
 
-b_kedougou = castle
-b_kedougou_2 = city
-b_kedougou_3 = temple
+b_kedougou_SN = castle
+b_salemata_SN = city
+b_saraya_SN = temple
 
 # Misc
 culture = malinke

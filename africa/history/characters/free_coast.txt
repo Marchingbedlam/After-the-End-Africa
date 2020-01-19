@@ -3,6 +3,7 @@
 	dynasty=1001001
 	culture=kwi
 	religion=libertarian
+	father=1000146
 	martial=3
 	diplomacy=3
 	stewardship=4
@@ -12,6 +13,7 @@
 	trait=scholar
 	trait=brave
 	trait=content
+	trait=mason
 	2600.1.1={birth=yes}
 	2678.1.1={death=yes}
 }
@@ -20,6 +22,7 @@
 	dynasty=1001002
 	culture=kwi
 	religion=libertarian
+	father=1000154
 	martial=7
 	diplomacy=4
 	stewardship=9
@@ -40,6 +43,7 @@
 	dynasty=1001003
 	culture=kwi
 	religion=libertarian
+	father=1000158
 	martial=3
 	diplomacy=3
 	stewardship=3
@@ -74,6 +78,7 @@
 	trait=chaste
 	trait=humble
 	trait=patient
+	trait=garveyite
 	
 	2634.6.21={birth=yes}
 	3000.3.1={death=yes}
@@ -83,6 +88,7 @@
 	dynasty=1001005
 	culture=kwi
 	religion=libertarian
+	father=1000167
 	martial=7
 	diplomacy=2
 	stewardship=5
@@ -116,6 +122,7 @@
 	trait=cynical
 	trait=proud
 	trait=paranoid
+	trait=mason
 	
 	2618.4.11={birth=yes}
 	2700.3.1={death=yes}
@@ -295,6 +302,7 @@
 	trait=trusting
 	trait=gregarious	
 	trait=kind
+	trait=mason
 	
 	2639.1.1={birth=yes}
 	2700.1.1={death=yes}
@@ -310,6 +318,7 @@
 	trait=cynical
 	trait=charismatic_negotiator
 	trait=deceitful
+	trait=mason
 	
 	2644.1.1={birth=yes}
 	2700.1.1={death=yes}
@@ -319,6 +328,8 @@
 	dynasty=1001035
 	culture=kwi
 	religion=libertarian
+
+	trait=mason
 	
 	2590.1.1={birth=yes}
 	2647.4.1={death=yes}
@@ -339,6 +350,7 @@
 	trait=ambitious
 	trait=adventurer
 	trait=scarred_high
+	trait=garveyite
 	
 	2628.1.1={birth=yes}
 	2700.1.1={death=yes}
@@ -354,6 +366,7 @@
 	trait=lustful
 	trait=charismatic_negotiator
 	trait=hedonist
+	trait=mason
 	
 	2646.1.1={birth=yes}
 	2700.1.1={death=yes}
@@ -376,6 +389,7 @@
 	trait=honest
 	trait=cynical
 	trait=patient
+	trait=mason
 	
 	2635.1.1={birth=yes}
 	2700.1.1={death=yes}
@@ -396,6 +410,7 @@
 	trait=erudite
 	trait=paranoid
 	trait=ambitious
+	trait=garveyite
 	
 	2640.1.1={birth=yes}
 	2700.1.1={death=yes}
@@ -444,10 +459,12 @@
 	dynasty=1002027 #Hamilton
 	culture=krio
 	religion=libertarian
+	father=1000181
+
 	trait=lunatic
 	trait=proud
 	
-	2620.4.11={birth=yes}
+	2627.4.11={birth=yes}
 	2700.1.1={death=yes}
 }
 1000131={
@@ -526,5 +543,585 @@
 	trait=weak
 	trait=content
 	2640.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1000137={
+	name="Blackpool" 
+	dynasty=1002037
+	culture=krio
+	religion=anglican
+
+	
+	2603.1.1={birth=yes}
+	2659.1.1={death=yes}
+}
+1000138={
+	name="Edward" 
+	dynasty=1002037
+	culture=krio
+	religion=anglican
+	father=1000137
+	
+	2630.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1000139={
+	name="Garrison" 
+	dynasty=1002037
+	culture=krio
+	religion=libertarian
+	father=1000137
+	
+	2635.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1000140={
+	name="Fitzgibbon" 
+	dynasty=1002037
+	culture=krio
+	religion=anglican
+	father=1000138
+	
+	2652.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+
+1000141={
+	name="Grover" 
+	dynasty=1001001 #King
+	culture=kwi
+	religion=libertarian
+
+	trait=mason
+
+	2470.1.2={birth=yes}
+	2534.1.1={death=yes}
+}
+1000142={
+	name="Ulysses" 
+	dynasty=1001001 #King
+	culture=kwi
+	religion=libertarian
+	father=1000141
+
+	trait=mason
+
+	2495.1.1={birth=yes}
+	2559.1.1={death=yes}
+}
+1000143={
+	name="Benjamin" 
+	dynasty=1001001 #King
+	culture=kwi
+	religion=libertarian
+	father=1000142
+
+	trait=mason
+
+	2522.1.1={birth=yes}
+	2562.1.1={death=yes}
+}
+1000144={
+	name="Filibuster" 
+	dynasty=1001001 #King
+	culture=kwi
+	religion=libertarian
+	father=1000142
+
+	trait=mason
+
+	2524.1.1={birth=yes}
+	2590.1.1={death=yes}
+}
+1000145={
+	name="Grover" 
+	dynasty=1001001 #King
+	culture=kwi
+	religion=libertarian
+	father=1000144
+
+	trait=mason
+
+	2545.1.1={birth=yes}
+	2599.1.1={death=yes}
+}
+1000146={
+	name="Skirving" 
+	dynasty=1001001 #King
+	culture=kwi
+	religion=libertarian
+	father=1000145
+
+	trait=mason
+
+	2570.1.1={birth=yes}
+	2641.1.1={death=yes}
+}
+1000147={
+	name="Benjamin" #King
+	dynasty=1001001
+	culture=kwi
+	religion=libertarian
+	father=1000146
+
+	trait=mason
+
+	2606.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1000148={
+	name="Browning" #King
+	dynasty=1001001
+	culture=kwi
+	religion=libertarian
+	father=1000147
+
+	trait=mason
+
+	2630.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1000149={
+	name="Nathaniel" #King
+	dynasty=1001001
+	culture=kwi
+	religion=libertarian
+	father=1000147
+
+	trait=mason
+
+	2633.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1000150={
+	name="Vanburen"
+	dynasty=1001002 #Eastman
+	culture=kwi
+	religion=libertarian
+
+	trait=ifa_mo
+	
+	2500.1.1={birth=yes}
+	2560.1.1={death=yes}
+}
+1000151={
+	name="Vanburen"
+	dynasty=1001002 #Eastman
+	culture=kwi
+	father=1000150
+	religion=libertarian
+
+	trait=ifa_mo
+	
+	2525.1.1={birth=yes}
+	2587.1.1={death=yes}
+}
+1000152={
+	name="Jenkins"
+	dynasty=1001002 #Eastman
+	culture=kwi
+	father=1000151
+	religion=libertarian
+
+	trait=ifa_mo
+	
+	2553.1.1={birth=yes}
+	2604.1.1={death=yes}
+}
+1000153={
+	name="Jenkins"
+	dynasty=1001002 #Eastman
+	culture=kwi
+	father=1000152
+	religion=libertarian
+
+	trait=ifa_mo
+	
+	2580.1.1={birth=yes}
+	2636.1.1={death=yes}
+}
+1000154={
+	name="Taylor"
+	dynasty=1001002 #Eastman
+	culture=kwi
+	father=1000153
+	religion=libertarian
+
+	trait=just
+	trait=ifa_mo
+	
+	2606.1.1={birth=yes}
+	2659.1.1={death=yes}
+}
+
+1000155={
+	name="Shadrach" 
+	dynasty=1001003 #Tubman
+	culture=kwi
+	religion=libertarian
+	
+	trait=ifa_mo
+	
+	2501.1.1={birth=yes}
+	2571.1.1={death=yes}
+}
+1000156={
+	name="Bashiel" 
+	dynasty=1001003 #Tubman
+	culture=kwi
+	religion=libertarian
+	father=1000155
+	
+	trait=ifa_mo
+	
+	2530.1.1={birth=yes}
+	2585.1.1={death=yes}
+}
+1000157={
+	name="Nehemiah" 
+	dynasty=1001003 #Tubman
+	culture=kwi
+	religion=libertarian
+	father=1000156
+	
+	trait=ifa_mo
+	
+	2560.1.1={birth=yes}
+	2600.1.1={death=yes}
+}
+1000158={
+	name="Bashiel" 
+	dynasty=1001003 #Tubman
+	culture=kwi
+	religion=libertarian
+	father=1000157
+	
+	trait=twin
+	trait=ifa_mo
+	
+	2586.1.1={birth=yes}
+	2645.1.1={death=yes}
+}
+1000159={
+	name="Nehemiah" 
+	dynasty=1001003 #Tubman
+	culture=kwi
+	religion=libertarian
+	father=1000157
+	
+	trait=twin
+	trait=ifa_mo
+	
+	2586.1.1={birth=yes}
+	2654.1.1={death=yes}
+}
+1000160={
+	name="Karmo" 
+	dynasty=1001003 #Tubman
+	culture=kwi
+	religion=libertarian
+	father=1000159
+	
+	trait=ifa_mo
+	
+	2609.1.1={birth=yes}
+	2648.1.1={death=yes}
+}
+1000161={
+	name="Shadrach" 
+	dynasty=1001003 #Tubman
+	culture=kwi
+	religion=libertarian
+	father=1000160
+	
+	trait=ifa_mo
+	
+	2631.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1000162={
+	name="Judith" 
+	female=yes
+	dynasty=1001003 #Tubman
+	culture=kwi
+	religion=libertarian
+	father=1000103
+
+	trait=ifa_mo
+	
+	2640.3.5={birth=yes}
+	2700.1.1={death=yes}
+}
+1000163={
+	name="Gyude" 
+	dynasty=1001003 #Tubman
+	culture=kwi
+	religion=libertarian
+	father=1000103
+
+	trait=ifa_mo
+	
+	2643.6.15={birth=yes}
+	2700.1.1={death=yes}
+}
+1000164={
+	name="Zelma" 
+	female=yes
+	dynasty=1001003 #Tubman
+	culture=kwi
+	religion=libertarian
+	father=1000103
+
+	trait=ifa_mo
+	
+	2646.9.25={birth=yes}
+	2700.1.1={death=yes}
+}
+
+1000165={
+	name="Dunbar"
+	dynasty=1001005 #Roberts
+	culture=kwi
+	religion=libertarian
+
+	trait=mason
+	
+	2550.1.1={birth=yes}
+	2614.1.1={death=yes}
+}
+1000166={
+	name="Robert"
+	dynasty=1001005 #Roberts
+	culture=kwi
+	religion=libertarian
+	father=1000165
+
+	trait=mason
+	
+	2574.1.1={birth=yes}
+	2630.1.1={death=yes}
+}
+1000167={
+	name="Kermit"
+	dynasty=1001005 #Roberts
+	culture=kwi
+	religion=libertarian
+	father=1000166
+
+	trait=mason
+	
+	2610.1.1={birth=yes}
+	2661.1.1={death=yes}
+}
+
+1000168={
+	name="Sherman" #Maryland
+	dynasty=1001071
+	father=1000122
+	culture=kwi
+	religion=libertarian
+
+	trait=legit_bastard
+	
+	2649.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1000169={
+	name="William" #Freetown patricians
+	dynasty=1002027 #Hamilton
+	culture=krio
+	religion=anglican
+	
+	2444.4.4={birth=yes}
+	2500.1.1={death=yes}
+}
+1000170={
+	name="Wentworth" #Freetown patricians
+	dynasty=1002027 #Hamilton
+	culture=krio
+	religion=anglican
+	father=1000169
+	
+	2468.1.1={birth=yes}
+	2520.1.1={death=yes}
+}
+1000171={
+	name="Holbrook" #Freetown patricians
+	dynasty=1002027 #Hamilton
+	culture=krio
+	religion=anglican
+	father=1000170
+	
+	2490.1.1={birth=yes}
+	2553.1.1={death=yes}
+}
+1000172={
+	name="Warburton" #Freetown patricians
+	dynasty=1002027 #Hamilton
+	culture=krio
+	religion=anglican
+	father=1000171
+	
+	2516.1.1={birth=yes}
+	2590.1.1={death=yes}
+}
+1000173={
+	name="Kirkland" #Freetown patricians
+	dynasty=1002027 #Hamilton
+	culture=krio
+	religion=anglican
+	father=1000172
+	
+	2545.1.1={birth=yes}
+	2582.1.1={death=yes}
+}
+1000174={
+	name="Wallace" #Freetown patricians
+	dynasty=1002027 #Hamilton
+	culture=krio
+	religion=sunni
+	father=1000172
+	
+	2548.1.1={birth=yes}
+	2595.1.1={death=yes}
+}
+1000175={
+	name="Alexander" #Freetown patricians
+	dynasty=1002027 #Hamilton
+	culture=krio
+	religion=libertarian
+	father=1000172
+	
+	2550.1.1={birth=yes}
+	2611.1.1={death=yes}
+}
+1000176={
+	name="Webster" #Freetown patricians
+	dynasty=1002027 #Hamilton
+	culture=krio
+	religion=libertarian
+	father=1000172
+	
+	2554.1.1={birth=yes}
+	2515.1.1={death=yes}
+}
+1000177={
+	name="Melville" #Freetown patricians
+	dynasty=1002027 #Hamilton
+	culture=krio
+	religion=sunni
+	father=1000172
+	
+	2561.1.1={birth=yes}
+	2626.1.1={death=yes}
+}
+1000178={
+	name="Clarkson" #Freetown patricians
+	dynasty=1002027 #Hamilton
+	culture=krio
+	religion=anglican
+	father=1000173
+	
+	2570.1.1={birth=yes}
+	2630.1.1={death=yes}
+}
+1000179={
+	name="Holbrook" #Freetown patricians
+	dynasty=1002027 #Hamilton
+	culture=krio
+	religion=anglican
+	father=1000178
+	
+	2593.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1000180={
+	name="Wellman" #Freetown patricians
+	dynasty=1002027 #Hamilton
+	culture=krio
+	religion=libertarian
+	father=1000175
+	
+	2575.1.1={birth=yes}
+	2635.1.1={death=yes}
+}
+1000181={
+	name="Wellesley" #Freetown patricians
+	dynasty=1002027 #Hamilton
+	culture=krio
+	religion=libertarian
+	father=1000180
+	
+	2595.1.1={birth=yes}
+	2658.1.1={death=yes}
+}
+1000182={
+	name="Maxwell" #Freetown patricians
+	dynasty=1002027 #Hamilton
+	culture=krio
+	religion=libertarian
+	father=1000176
+	
+	2590.1.1={birth=yes}
+	2546.1.1={death=yes}
+}
+1000183={
+	name="Wolstenholme" #Freetown patricians
+	dynasty=1002027 #Hamilton
+	culture=krio
+	religion=libertarian
+	father=1000182
+	
+	2519.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1000184={
+	name="William" #Freetown patricians
+	dynasty=1002027 #Hamilton
+	culture=krio
+	religion=sunni
+	father=1000177
+	
+	2584.1.1={birth=yes}
+	2640.1.1={death=yes}
+}
+1000185={
+	name="Canning" #Freetown patricians
+	dynasty=1002027 #Hamilton
+	culture=krio
+	religion=sunni
+	father=1000184
+	
+	2610.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1000186={
+	name="Walpole" #Freetown patricians
+	dynasty=1002027 #Hamilton
+	culture=krio
+	religion=sunni
+	father=1000185
+	
+	2640.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1000187={
+	name="Compton" #Freetown patricians
+	dynasty=1002027 #Hamilton
+	culture=krio
+	religion=sunni
+	father=1000185
+	
+	2646.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1000188={
+	name="Shelburne" #Freetown patricians
+	dynasty=1002027 #Hamilton
+	culture=krio
+	religion=sunni
+	father=1000185
+	
+	2650.1.1={birth=yes}
 	2700.1.1={death=yes}
 }

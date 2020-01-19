@@ -6,9 +6,9 @@ title = c_bolama
 # Settlements
 max_settlements = 3
 
-b_bolama = castle
-b_bolama_2 = city
-b_bolama_3 = temple
+b_bolama_GW = castle
+b_bubaque_GW = city
+b_uno_GW = temple
 
 # Misc
 culture = guinensi

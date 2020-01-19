@@ -6,9 +6,9 @@ title = c_thies
 # Settlements
 max_settlements = 3
 
-b_thies = castle
-b_thies_2 = city
-b_thies_3 = temple
+b_thies_SN = castle
+b_dakar_SN = city
+b_pikine_SN = temple
 
 # Misc
 culture = wolof

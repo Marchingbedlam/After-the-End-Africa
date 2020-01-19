@@ -212,7 +212,7 @@
 	father=1914019
 
 	2610.7.16={ birth=yes }
-	2700.1.1={ death=yes }
+	2655.1.1={ death=yes }
 }
 1914019={
 	name="Sérgio"
@@ -221,7 +221,7 @@
 	religion=catholic
 
 	2580.1.1={ birth=yes }
-	2700.1.1={ death=yes }
+	2639.1.1={ death=yes }
 }
 1914020={
 	name="Vicente"

@@ -6,9 +6,9 @@ title = c_kaffrine
 # Settlements
 max_settlements = 3
 
-b_kaffrine = castle
-b_kaffrine_2 = city
-b_kaffrine_3 = temple
+b_kaffrine_SN = castle
+b_birkilane_SN = city
+b_malem_hoddar_SN = temple
 
 # Misc
 culture = serer

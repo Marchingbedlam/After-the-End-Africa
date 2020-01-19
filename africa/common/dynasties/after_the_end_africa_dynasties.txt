@@ -332,7 +332,7 @@
 1401048 = {name ="Dagnogo" culture=malinke }
 1401049 = {name ="Somko" culture=malinke }
 1401050 = {name ="Dondé" culture=malinke }
-1401051 = {name ="Sakoura" culture=malinke used_for_random=no}
+1401051 = {name ="Sakoura" culture=malinke }
 1401052 = {name ="Kasama" culture=malinke }
 1401053 = {name ="Damba" culture=malinke }
 1401054 = {name ="Togola" culture=malinke }
@@ -358,7 +358,7 @@
 1405015 = {name ="Bacharou" culture=songhai }
 1405016 = {name ="Dembélé" culture=songhai }
 
-1406000 = {name ="Diallo" culture=fula }
+1406000 = {name ="Jalloh" culture=fula }
 1406001 = {name ="Buhari" culture=fula }
 1406002 = {name ="Ba" culture=fula }
 1406003 = {name ="Tejan" culture=fula }
@@ -367,7 +367,7 @@
 1406006 = {name ="Sy" culture=fula }
 1406007 = {name ="Tall" culture=fula }
 1406008 = {name ="Ly" culture=fula }
-1406009 = {name ="Sou" culture=fula }
+1406009 = {name ="Wurie" culture=fula }
 1406010 = {name ="Baldé" culture=fula }
 1406011 = {name ="Sall" culture=fula }
 1406012 = {name ="Shagari" culture=fula }
@@ -411,12 +411,22 @@
 1406050 = {name ="Tourodi" culture=fula }
 1406051 = {name ="Tambajang" culture=fula }
 1406052 = {name ="Chefou" culture=fula }
+1406053 = {name ="Zaidi" culture=fula }
+1406054 = {name ="Sow" culture=fula }
+1406055 = {name ="Barrow" culture=fula }
+1406056 = {name ="Bubacar" culture=fula }
+1406057 = {name ="Maigari" culture=fula }
+1406058 = {name ="Abouba" culture=fula }
+1406059 = {name ="Barry" culture=fula }
+1406060 = {name ="Chambas" culture=fula }
 
 1407000 = {name ="Toloba" culture=dogon }
 1407001 = {name ="Guindo" culture=dogon }
 1407002 = {name ="Dara" culture=dogon }
 1407003 = {name ="Fonghoro" culture=dogon }
 1407004 = {name ="Ouologuem" culture=dogon }
+1407005 = {name ="Koyo" culture=dogon }
+1407006 = {name ="Dolu" culture=dogon }
 
 1444000 = {name ="Ag Ghaly" culture=tuareg }
 1444001 = {name ="Ag Acherif" culture=tuareg }
@@ -1097,7 +1107,64 @@
 1888059 = {name ="Konuah" culture=ga }
 1888060 = {name ="Protten" culture=ga }
 
-##reserved for Ewe
+1895000 = {name ="Aladaxonou" culture=fon }
+1895001 = {name ="Sinzogan" culture=fon }
+1895002 = {name ="Hachème" culture=fon }
+1895003 = {name ="Guédégbé" culture=fon }
+1895004 = {name ="Quénum" culture=fon }
+1895005 = {name ="Houénou" culture=fon }
+1895006 = {name ="Tomêtin" culture=fon }
+1895007 = {name ="Ahomadégbé" culture=fon }
+1895008 = {name ="Tokoudagba" culture=fon }
+1895009 = {name ="Sédonghongbé" culture=fon }
+1895010 = {name ="Tingbé" culture=fon }
+1895011 = {name ="Azalou" culture=fon }
+1895012 = {name ="Tovalou" culture=fon }
+1895013 = {name ="Zinzindohoué" culture=fon }
+1895014 = {name ="Talon" culture=fon }
+1895015 = {name ="Sessègnon" culture=fon }
+1895016 = {name ="Poisson" culture=fon }
+1895017 = {name ="Malèhossou" culture=fon }
+1895018 = {name ="Adandéjan" culture=fon }
+1895019 = {name ="Houngnikpo" culture=fon }
+1895020 = {name ="Ahouanmenou" culture=fon }
+
+1899000 = {name ="Gbeho" culture=ewe }
+1899001 = {name ="Baëta" culture=ewe }
+1899002 = {name ="Adadevoh" culture=ewe }
+1899003 = {name ="Kludze" culture=ewe }
+1899004 = {name ="Zormelo" culture=ewe }
+1899005 = {name ="Klevi" culture=ewe }
+1899006 = {name ="Azovi" culture=ewe }
+1899007 = {name ="Tsikata" culture=ewe }
+1899008 = {name ="Yamgnane" culture=ewe }
+1899009 = {name ="de Tové" culture=ewe }
+1899010 = {name ="Anyidoho" culture=ewe }
+1899011 = {name ="Nkulenu" culture=ewe }
+1899012 = {name ="Acolatse" culture=ewe }
+1899013 = {name ="Ledo" culture=ewe }
+1899014 = {name ="Armattoe" culture=ewe }
+1899015 = {name ="Buama" culture=ewe }
+1899016 = {name ="Fiawoo" culture=ewe }
+1899017 = {name ="Amenu" culture=ewe }
+1899018 = {name ="Agidi" culture=ewe }
+1899019 = {name ="Nego" culture=ewe }
+1899020 = {name ="Gbedemah" culture=ewe }
+1899021 = {name ="Bekui" culture=ewe }
+1899022 = {name ="Gorleku" culture=ewe }
+1899023 = {name ="Amouzou" culture=ewe }
+1899024 = {name ="Lume" culture=ewe }
+1899025 = {name ="Agbemabiese" culture=ewe }
+1899026 = {name ="Wugbeme" culture=ewe }
+1899027 = {name ="Deme" culture=ewe }
+1899028 = {name ="Agornu" culture=ewe }
+1899029 = {name ="Gbodome" culture=ewe }
+1899030 = {name ="Atsiame" culture=ewe }
+1899031 = {name ="Gadzekpo" culture=ewe }
+1899032 = {name ="Selormi" culture=ewe }
+1899033 = {name ="Dzevi" culture=ewe }
+1899034 = {name ="Amlade" culture=ewe }
+1899035 = {name ="Avle" culture=ewe }
 
 1901000 = {name ="Évora" culture=verdean }
 1901001 = {name ="Barbosa" culture=verdean }

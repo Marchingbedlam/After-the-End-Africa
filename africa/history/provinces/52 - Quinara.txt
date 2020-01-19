@@ -6,9 +6,9 @@ title = c_quinara
 # Settlements
 max_settlements = 3
 
-b_quinara = castle
-b_quinara_2 = city
-b_quinara_3 = temple
+b_fulacunda_GW = castle
+b_empada_GW = city
+b_catio_GW = temple
 
 # Misc
 culture = guinensi

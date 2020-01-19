@@ -6,9 +6,9 @@ title = c_janjanbureh
 # Settlements
 max_settlements = 3
 
-b_janjanbureh = castle
-b_janjanbureh_2 = city
-b_janjanbureh_3 = temple
+b_basse_santa_su_GM = castle
+b_janjanbureh_GM = city
+b_bansang_GM = temple
 
 # Misc
 culture = malinke
