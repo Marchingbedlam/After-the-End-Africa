@@ -1,0 +1,14 @@
+# County Title
+title = c_offoue_onoye
+
+# Settlements
+max_settlements = 2
+
+b_iboundji_GA = castle
+b_inzamba_GA = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

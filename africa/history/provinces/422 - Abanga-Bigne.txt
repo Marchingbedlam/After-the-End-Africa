@@ -1,0 +1,15 @@
+# County Title
+title = c_abanga_bigne
+
+# Settlements
+max_settlements = 3
+
+b_bifoun_GA = castle
+b_ndjole_GA = city
+b_anonebere_GA = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

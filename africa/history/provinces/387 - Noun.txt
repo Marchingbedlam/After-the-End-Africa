@@ -1,0 +1,13 @@
+# County Title
+title = c_noun
+
+# Settlements
+max_settlements = 3
+
+b_noun = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

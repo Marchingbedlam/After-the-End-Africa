@@ -1,0 +1,13 @@
+# County Title
+title = c_douala
+
+# Settlements
+max_settlements = 3
+
+b_douala = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

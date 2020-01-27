@@ -1,0 +1,13 @@
+# County Title
+title = c_pangar
+
+# Settlements
+max_settlements = 3
+
+b_pangar = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

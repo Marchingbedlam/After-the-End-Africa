@@ -1,0 +1,13 @@
+# County Title
+title = c_ngo_ketunjia
+
+# Settlements
+max_settlements = 3
+
+b_ngo_ketunjia = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

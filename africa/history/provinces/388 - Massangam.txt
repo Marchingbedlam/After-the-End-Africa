@@ -1,0 +1,13 @@
+# County Title
+title = c_massangam
+
+# Settlements
+max_settlements = 3
+
+b_massangam = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

@@ -1,0 +1,13 @@
+# County Title
+title = c_donga
+
+# Settlements
+max_settlements = 3
+
+b_donga = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

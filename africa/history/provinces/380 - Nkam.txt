@@ -1,0 +1,13 @@
+# County Title
+title = c_nkam
+
+# Settlements
+max_settlements = 3
+
+b_nkam = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

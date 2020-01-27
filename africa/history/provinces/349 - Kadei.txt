@@ -1,0 +1,13 @@
+# County Title
+title = c_kadei
+
+# Settlements
+max_settlements = 3
+
+b_kadei = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

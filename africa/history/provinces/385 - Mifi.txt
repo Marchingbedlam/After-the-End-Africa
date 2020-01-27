@@ -1,0 +1,13 @@
+# County Title
+title = c_mifi
+
+# Settlements
+max_settlements = 3
+
+b_mifi = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

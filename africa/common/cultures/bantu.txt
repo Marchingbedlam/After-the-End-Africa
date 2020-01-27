@@ -1,0 +1,41 @@
+###ÄNSI
+bantu = {
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { muslimgfx }
+	
+	bubi = {
+		color = { 0.5 0.5 0.1 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			A-Löbari Armando_Armand
+			Beosá
+			Cándido_Candide
+			Delfín Deogracias
+			Edmundo_Edmund Emilio_Aemilius Enrique_Henry Esáasi Eweera
+			Iván_Ivan
+			Jorge_George José_Joseph Juan_John
+			Löpèlo Löpóa Loríité
+			Mëlaka Miguel_Michael Möadyabitá Mölambo Möókáta
+			Orityi
+			Pelayo_Pelagius
+			Riokalo
+			Sás-Ebuera Sëpaókó Silvestre_Silvester Sipoto
+			Weja
+		}
+		
+		female_names = {
+			Aauri
+			Bisila
+			Lorena
+			María_Mary
+			Paloma Paula Piruchi
+			Rita
+			Virginia
+		}
+
+		from_dynasty_prefix = "de "
+	}
+}

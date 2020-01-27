@@ -1,0 +1,13 @@
+# County Title
+title = c_faro_et_deo
+
+# Settlements
+max_settlements = 3
+
+b_faro_et_deo = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

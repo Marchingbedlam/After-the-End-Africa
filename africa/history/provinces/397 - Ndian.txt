@@ -1,0 +1,13 @@
+# County Title
+title = c_ndian
+
+# Settlements
+max_settlements = 3
+
+b_ndian = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

@@ -1,0 +1,14 @@
+# County Title
+title = c_banio
+
+# Settlements
+max_settlements = 2
+
+b_ndindi_GA = castle
+b_mayumba_GA = city
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

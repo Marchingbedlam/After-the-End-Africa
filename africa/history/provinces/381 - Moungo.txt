@@ -1,0 +1,13 @@
+# County Title
+title = c_moungo
+
+# Settlements
+max_settlements = 3
+
+b_moungo = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

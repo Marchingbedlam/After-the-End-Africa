@@ -1,0 +1,15 @@
+# County Title
+title = c_ogooue_et_des_lacs
+
+# Settlements
+max_settlements = 3
+
+b_adane_GA = castle
+b_lambarene_GA = city
+b_nzorbang_GA = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

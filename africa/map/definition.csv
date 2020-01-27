@@ -189,7 +189,97 @@ province;red;green;blue;x;x
 188;102;61;8;Bordj Badji Mokhtar;;;;;;;;;x
 189;173;128;66;Hoggar;;;;;;;;;x
 190;181;112;15;Tanezrouft;;;;;;;;;x
-
-1000;0;174;239;Monrovian Coast;x
+348;209;241;84;Nki-Bek;x ##Cameroon
+349;218;164;37;Kadei;x  
+350;252;255;117;Logone-et-Chari;x 
+351;175;174;72;Sava;x
+352;239;219;165;Tsanaga;x
+353;239;229;115;Diamare;x
+354;253;255;193;Kani;x
+355;255;225;150;Danay;x
+356;189;10;255;Louti;x
+357;255;204;253;Benoue;x
+358;168;107;255;Faro;x
+359;197;170;255;Rey;x
+360;29;0;255;Vina;x
+361;170;186;255;Faro-et-Deo;x
+362;115;132;206;Mayo-Banyo;x
+363;109;138;255;Djerem;x
+364;81;130;255;Mbere;x
+365;255;236;30;Lom-et-Djerem;x
+366;255;255;71;Haut-Nyong;x
+367;255;241;117;Boumba-et-Ngoko;x
+368;137;255;147;Dja-et-Lobo;x
+369;54;188;132;Mvila;x
+370;95;206;160;Ocean;x
+371;196;170;39;Mbam-et-Kim;x
+372;255;165;0;Haute-Sanaga;x
+373;255;215;124;Inoubou;x
+374;242;209;48;Mpem-et-Djim;x
+375;255;212;145;Mfoundi;x
+376;255;195;0;Nyong-et-Soo;x
+377;255;136;0;Mfoumou;x
+378;255;231;17;Kelle;x
+379;193;88;13;Sanaga-Maritime;x
+380;158;69;78;Nkam;x
+381;229;134;66;Moungo;x
+382;158;92;45;Douala;x
+383;121;115;239;Nde;x
+384;188;242;145;Haut-Nkam;x
+385;215;242;188;Mifi;x
+386;148;209;152;Bamboutos;x
+387;95;191;116;Noun;x
+388;0;193;32;Massangam;x
+389;137;137;136;Donga;x
+390;137;126;126;Grassfields;x
+391;183;181;183;Ngo-Ketunjia;x
+392;247;208;79;Pangar;x
+393;144;204;209;Bamenda;x
+394;123;174;209;Menchum;x
+395;188;188;186;Boyo;x
+396;255;135;247;Manyu;x
+397;188;100;182;Ndian;x
+398;215;122;255;Koupe-Manengouba;x
+399;255;45;171;Fako;x
+400;146;48;48;Etula;;;;;;;;;x ##Gabon
+401;101;42;42;Sao Tome e Principe;;;;;;;;;x
+402;212;72;72;Muni-Litoral;;;;;;;;;x
+403;164;111;111;Centro Sur;;;;;;;;;x
+404;117;61;61;Ntem;;;;;;;;;x
+405;118;99;99;Wele-Nzas;;;;;;;;;x
+406;117;72;61;Woleu;;;;;;;;;x
+407;124;49;13;Haut-Ntem;;;;;;;;;x
+408;121;96;85;Okano;;;;;;;;;x
+409;77;20;9;Komo;;;;;;;;;x
+410;93;20;6;Noya;;;;;;;;;x
+411;120;55;43;Libreville;;;;;;;;;x
+412;154;33;5;Bendje;;;;;;;;;x
+413;139;65;48;Etimboue;;;;;;;;;x
+414;172;56;7;Ndougou;;;;;;;;;x
+415;180;34;6;Mougoutsi;;;;;;;;;x
+416;195;121;107;Banio;;;;;;;;;x
+417;151;45;24;Douya-Onoye;;;;;;;;;x
+418;148;64;14;Louetsi;;;;;;;;;x
+419;162;71;53;Ogoulou;;;;;;;;;x
+420;126;50;36;Tsamba-Magotsi;;;;;;;;;x
+421;96;19;19;Ogooue et des Lacs;;;;;;;;;x
+422;134;45;45;Abanga-Bigne;;;;;;;;;x
+423;173;69;69;Lope;;;;;;;;;x
+424;183;138;117;Mvoung;;;;;;;;;x
+425;151;121;117;Ivindo;;;;;;;;;x
+426;233;71;52;Zadie;;;;;;;;;x
+427;159;50;36;Sebe-Brikolo;;;;;;;;;x
+428;106;74;70;Lekoni-Lekori;;;;;;;;;x
+429;101;60;60;Djoue;;;;;;;;;x
+430;143;60;60;Mpassa;;;;;;;;;x
+431;159;27;27;Lemboumbi-Leyou;;;;;;;;;x
+432;159;55;27;Mouloundou;;;;;;;;;x
+433;115;26;2;Bouenguidi;;;;;;;;;x
+434;98;39;39;Offoue-Onoye;;;;;;;;;x
+500;184;107;31;Ezorongondo;;;;;;;;;x ##Namibia
+501;204;105;56;Swakopmund;;;;;;;;;x
+502;214;140;102;Brandberg;;;;;;;;;x
+503;232;130;97;Karibib;;;;;;;;;x
+1000;0;174;239;Monrovian Coast;x ##Sea Zones
 1001;31;162;212;Cape Palmas;x
 1002;17;145;194;Freetown Coast;x

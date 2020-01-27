@@ -1,0 +1,13 @@
+# County Title
+title = c_grassfields
+
+# Settlements
+max_settlements = 3
+
+b_grassfields = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

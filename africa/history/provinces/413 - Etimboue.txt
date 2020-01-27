@@ -1,0 +1,14 @@
+# County Title
+title = c_etimboue
+
+# Settlements
+max_settlements = 2
+
+b_omboue_GA = castle
+b_saint_anne_GA = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

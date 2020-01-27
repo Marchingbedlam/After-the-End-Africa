@@ -1,0 +1,13 @@
+# County Title
+title = c_nki_bek
+
+# Settlements
+max_settlements = 3
+
+b_nki_bek = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

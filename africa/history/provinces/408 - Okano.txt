@@ -1,0 +1,15 @@
+# County Title
+title = c_okano
+
+# Settlements
+max_settlements = 3
+
+b_medouneu_GA = castle
+b_mitzic_GA = city
+b_lalara_GA = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

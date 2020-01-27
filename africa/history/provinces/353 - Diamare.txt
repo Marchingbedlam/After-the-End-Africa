@@ -1,0 +1,13 @@
+# County Title
+title = c_diamare
+
+# Settlements
+max_settlements = 3
+
+b_diamare = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

@@ -1,0 +1,14 @@
+# County Title
+title = c_mouloundou
+
+# Settlements
+max_settlements = 2
+
+b_mbonha_GA = castle
+b_lastoursville_GA = city
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

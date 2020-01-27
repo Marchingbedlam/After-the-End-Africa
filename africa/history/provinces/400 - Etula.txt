@@ -1,0 +1,15 @@
+# County Title
+title = c_etula
+
+# Settlements
+max_settlements = 3
+
+b_rebola_GQ = castle
+b_malabo_GQ = city
+b_luba_GQ = temple
+
+# Misc
+culture = bubi
+religion = catholic
+
+#History

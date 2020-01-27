@@ -1,0 +1,14 @@
+# County Title
+title = c_lope
+
+# Settlements
+max_settlements = 2
+
+b_booue_GA = castle
+b_achouka_GA = city
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

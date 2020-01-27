@@ -1,0 +1,14 @@
+# County Title
+title = c_ogoulou
+
+# Settlements
+max_settlements = 2
+
+b_mimongo_GA = castle
+b_eteke_GA = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

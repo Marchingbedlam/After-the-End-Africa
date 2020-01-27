@@ -1,0 +1,16 @@
+# County Title
+title = c_libreville
+
+# Settlements
+max_settlements = 4
+
+b_ntoum_GA = castle
+b_libreville_GA = city
+b_mont_bouet_GA = temple
+b_owendo_GA = city
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

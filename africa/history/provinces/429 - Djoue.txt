@@ -1,0 +1,13 @@
+# County Title
+title = c_djoue
+
+# Settlements
+max_settlements = 1
+
+b_onga_GA = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

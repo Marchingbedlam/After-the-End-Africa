@@ -1,0 +1,15 @@
+# County Title
+title = c_woleu
+
+# Settlements
+max_settlements = 3
+
+b_oyem_GA = castle
+b_bissok_GA = city
+b_nkolabona_GA = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

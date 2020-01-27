@@ -1,0 +1,13 @@
+# County Title
+title = c_tsanaga
+
+# Settlements
+max_settlements = 3
+
+b_tsanaga = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

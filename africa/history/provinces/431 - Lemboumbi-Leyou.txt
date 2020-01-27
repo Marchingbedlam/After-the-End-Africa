@@ -1,0 +1,15 @@
+# County Title
+title = c_lemboumbi_leyou
+
+# Settlements
+max_settlements = 3
+
+b_bakoumba_GA = castle
+b_moanda_GA = city
+b_mounana_GA = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

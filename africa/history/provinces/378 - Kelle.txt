@@ -1,0 +1,13 @@
+# County Title
+title = c_kelle
+
+# Settlements
+max_settlements = 3
+
+b_kelle = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

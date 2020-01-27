@@ -1,0 +1,15 @@
+# County Title
+title = c_louetsi
+
+# Settlements
+max_settlements = 3
+
+b_lebamba_GA = castle
+b_mbigou_GA = city
+b_mboungou_mbadouma_GA = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

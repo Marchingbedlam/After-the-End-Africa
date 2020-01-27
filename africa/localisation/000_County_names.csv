@@ -67,6 +67,8 @@ c_cacheu;Cacheu;Cacheu;Cacheu;;Cacheu;;;;;;;;;x
 c_cacheu_adj;Cachian;;cacher;;;;;;;;;;;x
 c_cavally;Cavally;Cavally;Cavally;;Cavally;;;;;;;;;x
 c_cavally_adj;Cavallian;;cavaller;;;;;;;;;;;x
+c_centro_sur;Centro Sur;Centro Sur;Centro Sur;;Centro Sur;;;;;;;;;x
+c_centro_sur_adj;Centro Surian;;centro surer;;;;;;;;;;;x
 c_chinguetti;Chinguetti;Chinguetti;Chinguetti;;Chinguetti;;;;;;;;;x
 c_chinguetti_adj;Chinguettier;;chinguetter;;;;;;;;;;;x
 c_dabola;Dabola;Dabola;Dabola;;Dabola;;;;;;;;;x
@@ -87,6 +89,8 @@ c_dubreka;Dubréka;Dubréka;Dubréka;;Dubréka;;;;;;;;;x
 c_dubreka_adj;Dubrékan;;dubréker;;;;;;;;;;;x
 c_elmini;Elmini;Elmini;Elmini;;Elmini;;;;;;;;;x
 c_elmini_adj;Elminian;;elminer;;;;;;;;;;;x
+c_etula;Etulá;Etulá;Etulá;;Etulá;;;;;;;;;x
+c_etula_adj;Etulian;;etuler;;;;;;;;;;;x
 c_faranah;Faranah;Faranah;Faranah;;Faranah;;;;;;;;;x
 c_faranah_adj;Faranahian;;faranaher;;;;;;;;;;;x
 c_fatick;Fatick;Fatick;Fatick;;Fatick;;;;;;;;;x
@@ -255,6 +259,8 @@ c_mopti;Mopti;Mopti;Mopti;;Mopti;;;;;;;;;x
 c_mopti_adj;Moptian;;mopter;;;;;;;;;;;x
 c_mpaha;Mpaha;Mpaha;Mpaha;;Mpaha;;;;;;;;;x
 c_mpaha_adj;Mpahan;;mpaher;;;;;;;;;;;x
+c_muni_litoral;Muni-Litoral;Muni-Litoral;Muni-Litoral;;Muni-Litoral;;;;;;;;;x
+c_muni_litoral_adj;Litoralian;;muni-litoraler;;;;;;;;;;;x
 c_nara;Nara;Nara;Nara;;Nara;;;;;;;;;x
 c_nara_adj;Naran;;narer;;;;;;;;;;;x
 c_nawa;Nawa;Nawa;Nawa;;Nawa;;;;;;;;;x
@@ -269,6 +275,8 @@ c_nouadhibou;Nouadhibou;Nouadhibou;Nouadhibou;;Nouadhibou;;;;;;;;;x
 c_nouadhibou_adj;Nouadhibouer;;nouadhibouer;;;;;;;;;;;x
 c_nouakchott;Nouakchott;Nouakchott;Nouakchott;;Nouakchott;;;;;;;;;x
 c_nouakchott_adj;Nouakchotter;;nouakchotter;;;;;;;;;;;x
+c_ntem;Ntem;Ntem;Ntem;;Ntem;;;;;;;;;x
+c_ntem_adj;Ntemian;;ntemer;;;;;;;;;;;x
 c_nzerekore;Nzérékoré;Nzérékoré;Nzérékoré;;Nzérékoré;;;;;;;;;x
 c_nzerekore_adj;Nzérékoréian;;nzérékoréer;;;;;;;;;;;x
 c_nzi;N'Zi;N'Zi;N'Zi;;N'Zi;;;;;;;;;x
@@ -317,6 +325,8 @@ c_san_pedro;San-Pédro;San-Pédro;San-Pédro;;San-Pédro;;;;;;;;;x
 c_san_pedro_adj;San-Pédrian;;san-pédrer;;;;;;;;;;;x
 c_sanmatenga;Sanmatenga;Sanmatenga;Sanmatenga;;Sanmatenga;;;;;;;;;x
 c_sanmatenga_adj;Sanmatengan;;sanmatenger;;;;;;;;;;;x
+c_sao_tome_e_principe;São Tomé e Príncipe;São Tomé e Príncipe;São Tomé e Príncipe;;São Tomé e Príncipe;;;;;;;;;x
+c_sao_tome_e_principe_adj;Santomean;;santomean;;;;;;;;;;;x
 c_sedhiou;Sédhiou;Sédhiou;Sédhiou;;Sédhiou;;;;;;;;;x
 c_sedhiou_adj;Sédhian;;sédher;;;;;;;;;;;x
 c_segou;Ségou;Ségou;Ségou;;Ségou;;;;;;;;;x
@@ -369,6 +379,8 @@ c_tougue;Tougué;Tougué;Tougué;;Tougué;;;;;;;;;x
 c_tougue_adj;Touguér;;touguér;;;;;;;;;;;x
 c_tumu;Tumu;Tumu;Tumu;;Tumu;;;;;;;;;x
 c_tumu_adj;Tumian;;tumer;;;;;;;;;;;x
+c_wele_nzas;Wele-Nzas;Wele-Nzas;Wele-Nzas;;Wele-Nzas;;;;;;;;;x
+c_wele_nzas_adj;Wele-Nzasian;;wele-nzaser;;;;;;;;;;;x
 c_worodougou;Worodougou;Worodougou;Worodougou;;Worodougou;;;;;;;;;x
 c_worodougou_adj;Worodougian;;worodouger;;;;;;;;;;;x
 c_yendi;Yendi;Yendi;Yendi;;Yendi;;;;;;;;;x

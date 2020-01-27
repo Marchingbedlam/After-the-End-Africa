@@ -1,0 +1,13 @@
+# County Title
+title = c_fako
+
+# Settlements
+max_settlements = 3
+
+b_fako = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

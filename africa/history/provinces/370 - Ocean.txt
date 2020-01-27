@@ -1,0 +1,13 @@
+# County Title
+title = c_ocean
+
+# Settlements
+max_settlements = 3
+
+b_ocean = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

@@ -1,0 +1,13 @@
+# County Title
+title = c_haut_nyong
+
+# Settlements
+max_settlements = 3
+
+b_haut_nyong = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

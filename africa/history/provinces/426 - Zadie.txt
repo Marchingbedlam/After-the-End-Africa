@@ -1,0 +1,15 @@
+# County Title
+title = c_zadie
+
+# Settlements
+max_settlements = 3
+
+b_ekata_GA = castle
+b_mekambo_GA = city
+b_zoula_GA = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

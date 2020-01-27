@@ -1,0 +1,15 @@
+# County Title
+title = c_muni_litoral
+
+# Settlements
+max_settlements = 3
+
+b_kogo_GQ = castle
+b_bata_GQ = city
+b_mbini_GQ = temple
+
+# Misc
+culture = bubi
+religion = catholic
+
+#History

@@ -1,0 +1,13 @@
+# County Title
+title = c_sanaga_maritime
+
+# Settlements
+max_settlements = 3
+
+b_sanaga_maritime = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

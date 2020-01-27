@@ -1,0 +1,15 @@
+# County Title
+title = c_tsamba_magotsi
+
+# Settlements
+max_settlements = 3
+
+b_fougamou_GA = castle
+b_sindara_GA = city
+b_guidouma_GA = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

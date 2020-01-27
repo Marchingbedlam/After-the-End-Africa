@@ -1,0 +1,13 @@
+# County Title
+title = c_boyo
+
+# Settlements
+max_settlements = 3
+
+b_boyo = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

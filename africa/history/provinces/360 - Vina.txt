@@ -1,0 +1,13 @@
+# County Title
+title = c_vina
+
+# Settlements
+max_settlements = 3
+
+b_vina = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

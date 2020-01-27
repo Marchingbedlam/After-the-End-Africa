@@ -1,0 +1,13 @@
+# County Title
+title = c_logone_et_chari
+
+# Settlements
+max_settlements = 3
+
+b_logone_et_chari = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

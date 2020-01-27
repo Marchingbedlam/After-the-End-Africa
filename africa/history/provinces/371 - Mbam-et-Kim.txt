@@ -1,0 +1,13 @@
+# County Title
+title = c_mbam_et_kim
+
+# Settlements
+max_settlements = 3
+
+b_mbam_et_kim = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

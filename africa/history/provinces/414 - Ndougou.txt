@@ -1,0 +1,14 @@
+# County Title
+title = c_ndougou
+
+# Settlements
+max_settlements = 2
+
+b_sette_cama_GA = castle
+b_gamba_GA = city
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

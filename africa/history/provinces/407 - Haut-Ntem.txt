@@ -1,0 +1,14 @@
+# County Title
+title = c_haut_ntem
+
+# Settlements
+max_settlements = 2
+
+b_minvoul_GA = castle
+b_momo_GA = city
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

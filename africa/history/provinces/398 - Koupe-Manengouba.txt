@@ -1,0 +1,13 @@
+# County Title
+title = c_koupe_manengouba
+
+# Settlements
+max_settlements = 3
+
+b_koupe_manengouba = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

@@ -952,6 +952,22 @@ b_zimmi_adj;Zimmian;;zimmer;;;;;;;;;;;x
 b_zwedru;Zwedru;Zwedru;Zwedru;;Zwedru;;;;;;;;;x
 b_zwedru_adj;Zwedrian;;zwedrer;;;;;;;;;;;x
 
+##Bonny
+b_baney_GQ;Baney;;;;;;;;;x
+b_belebu_balacha_GQ;Belebú Balachá;;;;;;;;;x
+b_guadalupe_ST;Guadalupe;;;;;;;;;x
+b_luba_GQ;Luba;;;;;;;;;x
+b_malabo_GQ;Malabo;;;;;;;;;x
+b_neves_GQ;Neves;;;;;;;;;x
+b_rebola_GQ;Rebola;;;;;;;;;x
+b_riaba_GQ;Riaba;;;;;;;;;x
+b_santana_ST;Santana;;;;;;;;;x
+b_santo_antonio_ST;Santo Antonio;;;;;;;;;x
+b_sao_joao_dos_angolares_ST;São João dos Angolares;;;;;;;;;x
+b_sao_tome_ST;São Tomé;;;;;;;;;x
+b_trindade_ST;Trindade;;;;;;;;;x
+b_ureca_GQ;Ureca;;;;;;;;;x
+
 ##Cabo Verde
 b_assomada_CV;Assomada;;;;;;;;;x
 b_brava_CV;Brava;;;;;;;;;x

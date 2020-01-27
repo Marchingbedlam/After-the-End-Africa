@@ -1,0 +1,13 @@
+# County Title
+title = c_mpem_et_djim
+
+# Settlements
+max_settlements = 3
+
+b_mpem_et_djim = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

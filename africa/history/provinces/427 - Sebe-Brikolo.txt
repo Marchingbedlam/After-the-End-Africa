@@ -1,0 +1,14 @@
+# County Title
+title = c_sebe_brikolo
+
+# Settlements
+max_settlements = 2
+
+b_okondja_GA = castle
+b_eleko_GA = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

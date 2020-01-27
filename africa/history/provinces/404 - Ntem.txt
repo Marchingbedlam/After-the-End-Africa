@@ -1,0 +1,14 @@
+# County Title
+title = c_ntem
+# Settlements
+max_settlements = 3
+
+b_ebebiyin_GQ = castle
+b_bitam_GA = city
+b_nkue_GQ = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

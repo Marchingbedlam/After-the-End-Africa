@@ -280,3 +280,18 @@
 	2627.9.2={ birth=yes }
 	2690.5.2={ death=yes }
 }
+1914201={
+	name="Walme"
+	dynasty=1518000
+	culture=bubi
+	religion=catholic
+
+	trait=genius
+	trait=strong
+	trait=ambitious
+	trait=diligent
+	trait=briliant_strategist
+
+	2645.4.9={ birth=yes }
+	2700.1.1={ death=yes }
+}

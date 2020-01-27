@@ -29,6 +29,8 @@ d_dabola;Dabola;Dabola;Dabola;;Dabola;;;;;;;;;x
 d_dabola_adj;Dabolan;;daboler;;;;;;;;;;;x
 d_denguele;Denguélé;Denguélé;Denguélé;;Denguélé;;;;;;;;;x
 d_denguele_adj;Denguéléian;;denguéléer;;;;;;;;;;;x
+d_estuaire;Estuaire;Estuaire;Estuaire;;Estuaire;;;;;;;;;x
+d_estuaire_adj;Estuairien;;estuairer;;;;;;;;;;;x
 d_faranah;Faranah;Faranah;Faranah;;Faranah;;;;;;;;;x
 d_faranah_adj;Faranahian;;faranaher;;;;;;;;;;;x
 d_fouta_djallon;Fouta Djallon;Fouta Djallon;Fouta Djallon;;Fouta Djallon;;;;;;;;;x
@@ -45,10 +47,16 @@ d_gourma;Gourma;Gourma;Gourma;;Gourma;;;;;;;;;x
 d_gourma_adj;Gourman;;gourmer;;;;;;;;;;;x
 d_grand_gedeh;Grand Gedeh;Grand Gedeh;Grand Gedeh;;Grand Gedeh;;;;;;;;;x
 d_grand_gedeh_adj;Grand Gedehian;;Grand Gedeher;;;;;;;;;;;x
+d_gulf_line;the Gulf Line;the Gulf Line;the Gulf Line;;the Gulf Line;;;;;;;;;x
+d_gulf_line_adj;Gulfman;;gulfer;;;;;;;;;;;x
+d_haut_ogooue;Haut-Ogooué;Haut-Ogooué;Haut-Ogooué;;Haut-Ogooué;;;;;;;;;x
+d_haut_ogooue_adj;Haut-Ogoouéen;;haut-ogoouéer;;;;;;;;;;;x
 d_hodh;Hodh;Hodh;Hodh;;Hodh;;;;;;;;;x
 d_hodh_adj;Hodhian;;hodher;;;;;;;;;;;x
 d_inchiri;Inchiri;Inchiri;Inchiri;;Inchiri;;;;;;;;;x
 d_inchiri_adj;Inchirian;;inchirier;;;;;;;;;;;x
+d_ivindo;Ivindo;Ivindo;Ivindo;;Ivindo;;;;;;;;;x
+d_ivindo_adj;Ivindois;;ivindoer;;;;;;;;;;;x
 d_kaffrine;Kaffrine;Kaffrine;Kaffrine;;Kaffrine;;;;;;;;;x
 d_kaffrine_adj;Kaffrinean;;kaffriner;;;;;;;;;;;x
 d_kankan;Kankan;Kankan;Kankan;;Kankan;;;;;;;;;x
@@ -71,6 +79,8 @@ d_lacs;Lacs;Lacs;Lacs;;Lacs;;;;;;;;;x
 d_lacs_adj;Lacsian;;lacser;;;;;;;;;;;x
 d_lofa;Lofa;Lofa;Lofa;;Lofa;;;;;;;;;x
 d_lofa_adj;Lofan;;lofer;;;;;;;;;;;x
+d_lolo;Lolo;Lolo;Lolo;;Lolo;;;;;;;;;x
+d_lolo_adj;Lolois;;loloer;;;;;;;;;;;x
 d_louga;Louga;Louga;Louga;;Louga;;;;;;;;;x
 d_louga_adj;Lougan;;louger;;;;;;;;;;;x
 d_makeni;Makeni;Makeni;Makeni;;Makeni;;;;;;;;;x
@@ -87,12 +97,20 @@ d_montagnes;Montagnes;Montagnes;Montagnes;;Montagnes;;;;;;;;;x
 d_montagnes_adj;Montagnesian;;montagneser;;;;;;;;;;;x
 d_mouhoun;Mouhoun;Mouhoun;Mouhoun;;Mouhoun;;;;;;;;;x
 d_mouhoun_adj;Mouhounian;;mouhouner;;;;;;;;;;;x
+d_ngounie;Ngounié;Ngounié;Ngounié;;Ngounié;;;;;;;;;x
+d_ngounie_adj;Ngouniéen;;ngouniéer;;;;;;;;;;;x
 d_niger;Niger;Niger;Niger;;Niger;;;;;;;;;x
 d_niger_adj;Nigerian;;nigerer;;;;;;;;;;;x
+d_nyanga;Nyanga;Nyanga;Nyanga;;Nyanga;;;;;;;;;x
+d_nyanga_adj;Nyangan;;nyanger;;;;;;;;;;;x
 d_nzerekore;Nzérékoré;Nzérékoré;Nzérékoré;;Nzérékoré;;;;;;;;;x
 d_nzerekore_adj;Nzérékoréian;;nzérékoréer;;;;;;;;;;;x
+d_ogooue;Ogooué;Ogooué;Ogooué;;Ogooué;;;;;;;;;x
+d_ogooue_adj;Ogoouéen;;ogoouéer;;;;;;;;;;;x
 d_oti;Oti;Oti;Oti;;Oti;;;;;;;;;x
 d_oti_adj;Otian;;oter;;;;;;;;;;;x
+d_rio_muni;Río Muni;Río Muni;Río Muni;;Río Muni;;;;;;;;;x
+d_rio_muni_adj;Río Munian;;río munier;;;;;;;;;;;x
 d_sahel;Sahel;Sahel;Sahel;;Sahel;;;;;;;;;x
 d_sahel_adj;Sahelian;;saheler;;;;;;;;;;;x
 d_segou;Ségou;Ségou;Ségou;;Ségou;;;;;;;;;x
@@ -115,5 +133,7 @@ d_trarza;Trarza;Trarza;Trarza;;Trarza;;;;;;;;;x
 d_trarza_adj;Trarzan;;trarzer;;;;;;;;;;;x
 d_volta;Volta;Volta;Volta;;Volta;;;;;;;;;x
 d_volta_adj;Voltan;;volter;;;;;;;;;;;x
+d_woleu_ntem;Woleu-Ntem;Woleu-Ntem;Woleu-Ntem;;Woleu-Ntem;;;;;;;;;x
+d_woleu_ntem_adj;Woleu-Ntemian;;woleu-ntemer;;;;;;;;;;;x
 d_zanzan;Zanzan;Zanzan;Zanzan;;Zanzan;;;;;;;;;x
 d_zanzan_adj;Zanzanian;;zanzaner;;;;;;;;;;;x

@@ -1,0 +1,15 @@
+# County Title
+title = c_douya_onoye
+
+# Settlements
+max_settlements = 3
+
+b_ndende_GA = castle
+b_mouila_GA = city
+b_moutassou_GA = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

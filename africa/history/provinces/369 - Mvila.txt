@@ -1,0 +1,13 @@
+# County Title
+title = c_mvila
+
+# Settlements
+max_settlements = 3
+
+b_mvila = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

@@ -1,6 +1,8 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 k_asanteman;Asanteman;Asanteman;Asanteman;;Asanteman;;;;;;;;;x
 k_asanteman_adj;Asante;;asanteman;;;;;;;;;;;x
+k_bonny;Bonny;Bonny;Bonny;;Bonny;;;;;;;;;x
+k_bonny_adj;Bonnyman;;bonnyer;;;;;;;;;;;x
 k_cabo_verde;Cabo Verde;Cabo Verde;Cabo Verde;;Cabo Verde;;;;;;;;;x
 k_cabo_verde_adj;Verdean;;verder;;;;;;;;;;;x
 k_dagbon;Dagbon;Dagbon;Dagbon;;Dagbon;;;;;;;;;x
@@ -9,6 +11,8 @@ k_fouta_djallon;Fouta Djallon;Fouta Djallon;Fouta Djallon;;Fouta Djallon;;;;;;;;
 k_fouta_djallon_adj;Fouta Djallonian;;Fouta Djalloner;;;;;;;;;;;x
 k_free_coast;Free Coast;Free Coast;Free Coast;;Free Coast;;;;;;;;;x
 k_free_coast_adj;Freeman;;freeman;;;;;;;;;;;x
+k_gabon;Gabon;Gabon;Gabon;;Gabon;;;;;;;;;x
+k_gabon_adj;Gabonese;;gaboner;;;;;;;;;;;x
 k_guinea;Guinea;Guinea;Guinea;;Guinea;;;;;;;;;x
 k_guinea_adj;Guinean;;guiner;;;;;;;;;;;x
 k_ivory_coast;Ivory Coast;Ivory Coast;Ivory Coast;;Ivory Coast;;;;;;;;;x

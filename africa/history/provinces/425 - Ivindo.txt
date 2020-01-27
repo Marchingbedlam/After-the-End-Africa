@@ -1,0 +1,14 @@
+# County Title
+title = c_ivindo
+
+# Settlements
+max_settlements = 2
+
+b_ganzi_GA = castle
+b_makokou_GA = city
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

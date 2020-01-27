@@ -1,0 +1,14 @@
+# County Title
+title = c_sao_tome_e_principe
+
+# Settlements
+max_settlements = 2
+
+b_santo_antonio_ST = castle
+b_sao_tome_ST = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+#History

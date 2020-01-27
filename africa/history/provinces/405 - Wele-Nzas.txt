@@ -1,0 +1,15 @@
+# County Title
+title = c_wele_nzas
+
+# Settlements
+max_settlements = 3
+
+b_oyala_GQ = castle
+b_mongomo_GQ = city
+b_nsork_GQ = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

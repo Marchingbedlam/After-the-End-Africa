@@ -1,0 +1,15 @@
+# County Title
+title = c_komo
+
+# Settlements
+max_settlements = 3
+
+b_kougouleu_GA = castle
+b_kango_GA = city
+b_zoulameyong_GA = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

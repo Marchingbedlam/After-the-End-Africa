@@ -1,0 +1,15 @@
+# County Title
+title = c_lekoni_lekori
+
+# Settlements
+max_settlements = 3
+
+b_lekoni_GA = castle
+b_akieni_GA = city
+b_bongoville = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

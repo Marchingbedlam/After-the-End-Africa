@@ -1,0 +1,13 @@
+# County Title
+title = c_lom_et_djerem
+
+# Settlements
+max_settlements = 3
+
+b_lom_et_djerem = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

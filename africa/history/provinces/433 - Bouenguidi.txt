@@ -1,0 +1,14 @@
+# County Title
+title = c_bouenguidi
+
+# Settlements
+max_settlements = 2
+
+b_pana_GA = castle
+b_koulamoutou_GA = city
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

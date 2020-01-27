@@ -1,0 +1,13 @@
+# County Title
+title = c_kani
+
+# Settlements
+max_settlements = 3
+
+b_kani = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

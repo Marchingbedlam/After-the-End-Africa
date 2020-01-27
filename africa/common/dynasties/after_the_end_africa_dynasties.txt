@@ -913,6 +913,105 @@
 1514049 = {name ="Câmnate" culture=guinensi }
 1514050 = {name ="Na N'Hada" culture=guinensi }
 
+1515000 = {name ="Trovoada" culture=portuguese }
+1515001 = {name ="Bom Jesus" culture=portuguese }
+1515002 = {name ="de Santarém" culture=portuguese }
+1515003 = {name ="Caminha" culture=portuguese }
+1515004 = {name ="Aragão" culture=portuguese }
+1515005 = {name ="de Deus Lima" culture=portuguese }
+1515006 = {name ="Posser" culture=portuguese }
+1515007 = {name ="Tenreiro" culture=portuguese }
+1515008 = {name ="da Ceita" culture=portuguese }
+1515009 = {name ="Pinto da Costa" culture=portuguese }
+1515010 = {name ="Leitão" culture=portuguese }
+1515011 = {name ="Beja" culture=portuguese }
+1515012 = {name ="Azancot" culture=portuguese }
+1515013 = {name ="da Vera Cruz" culture=portuguese }
+1515014 = {name ="Nascimento" culture=portuguese }
+1515015 = {name ="da Motta" culture=portuguese }
+1515016 = {name ="Jorgino" culture=portuguese }
+1515017 = {name ="Rosamonte" culture=portuguese }
+1515018 = {name ="dos Prazeres" culture=portuguese }
+1515019 = {name ="Bandeira" culture=portuguese }
+1515020 = {name ="Bonfim" culture=portuguese }
+1515021 = {name ="Pequeno" culture=portuguese }
+1515022 = {name ="Sousa" culture=portuguese }
+1515023 = {name ="d'Alva" culture=portuguese }
+1515024 = {name ="Botelho" culture=portuguese }
+1515025 = {name ="Espírito Santo" culture=portuguese }
+1515026 = {name ="Neto" culture=portuguese }
+1515027 = {name ="do Carmo" culture=portuguese }
+1515028 = {name ="dos Ramos" culture=portuguese }
+1515029 = {name ="Daio" culture=portuguese }
+1515030 = {name ="Cassandra" culture=portuguese }
+1515031 = {name ="Sobral" culture=portuguese }
+1515032 = {name ="Melo" culture=portuguese }
+1515033 = {name ="Gomes" culture=portuguese }
+1515034 = {name ="Pinheiro" culture=portuguese }
+1515035 = {name ="Quaresma" culture=portuguese }
+1515036 = {name ="do Carmo" culture=portuguese }
+1515037 = {name ="Vila Nova" culture=portuguese }
+1515038 = {name ="Pontes" culture=portuguese }
+1515039 = {name ="Varela" culture=portuguese }
+1515040 = {name ="Sacramento" culture=portuguese }
+1515041 = {name ="Triste" culture=portuguese }
+1515042 = {name ="da Conceição" culture=portuguese }
+1515043 = {name ="Esteves" culture=portuguese }
+1515044 = {name ="Baía" culture=portuguese }
+1515045 = {name ="Ribas" culture=portuguese }
+1515046 = {name ="Negreiros" culture=portuguese }
+1515047 = {name ="dos Anjos" culture=portuguese }
+1515048 = {name ="Salvaterra" culture=portuguese }
+1515049 = {name ="Dias" culture=portuguese }
+1515050 = {name ="Torres" culture=portuguese }
+
+1518000 = {name ="Chicampo" culture=bubi }
+1518001 = {name ="Bamöumá" culture=bubi }
+1518002 = {name ="Toichoa" culture=bubi }
+1518003 = {name ="Boricó" culture=bubi }
+1518004 = {name ="Buika" culture=bubi }
+1518005 = {name ="Aqueriaco" culture=bubi }
+1518006 = {name ="Loribo" culture=bubi }
+1518007 = {name ="Bahítáari" culture=bubi }
+1518008 = {name ="Gori" culture=bubi }
+1518009 = {name ="Bohale" culture=bubi }
+1518010 = {name ="Boleká" culture=bubi }
+1518011 = {name ="Seriche" culture=bubi }
+1518012 = {name ="Bosaho" culture=bubi }
+1518013 = {name ="Bokoko" culture=bubi }
+1518014 = {name ="Sayo" culture=bubi }
+1518015 = {name ="Biteo" culture=bubi }
+1518016 = {name ="Abia" culture=bubi }
+1518017 = {name ="Balboa" culture=bubi }
+1518018 = {name ="Botupá" culture=bubi }
+1518019 = {name ="Apo" culture=bubi }
+1518020 = {name ="Muatetema" culture=bubi }
+1518021 = {name ="Eribo" culture=bubi }
+1518022 = {name ="Biribé" culture=bubi }
+1518023 = {name ="Riqueza" culture=bubi }
+1518024 = {name ="Cubacuba" culture=bubi }
+1518025 = {name ="Belope" culture=bubi }
+1518026 = {name ="Mosera" culture=bubi }
+1518027 = {name ="Esara" culture=bubi }
+1518028 = {name ="Buale" culture=bubi }
+1518029 = {name ="Siale" culture=bubi }
+1518030 = {name ="Mosibe" culture=bubi }
+1518031 = {name ="Oyó" culture=bubi }
+1518032 = {name ="Banké" culture=bubi }
+1518033 = {name ="Bileka" culture=bubi }
+1518034 = {name ="Coka" culture=bubi }
+1518035 = {name ="Senobua" culture=bubi }
+1518036 = {name ="Rivas" culture=bubi }
+1518037 = {name ="Tobe" culture=bubi }
+1518038 = {name ="Sipaco" culture=bubi }
+1518039 = {name ="Barila" culture=bubi }
+1518040 = {name ="Boula" culture=bubi }
+1518041 = {name ="Dioco" culture=bubi }
+1518042 = {name ="Bossio" culture=bubi }
+1518043 = {name ="Boneke" culture=bubi }
+1518044 = {name ="Boho" culture=bubi }
+1518045 = {name ="Ruiché" culture=bubi }
+
 1841000 = {name ="Pieh" culture=mende }
 1841001 = {name ="Demby" culture=mende }
 1841002 = {name ="Margai" culture=mende }
@@ -1212,6 +1311,11 @@
 1901043 = {name ="de Jon" culture=verdean }
 1901044 = {name ="Xalino" culture=verdean }
 1901045 = {name ="da Chaxiraxi" culture=verdean }
+1901046 = {name ="Domingues" culture=verdean }
+1901047 = {name ="Sanches" culture=verdean }
+1901048 = {name ="Coronel" culture=verdean }
+1901049 = {name ="Lopes" culture=verdean }
+1901050 = {name ="Mascarenhas" culture=verdean }
 
 1911000 = {name ="Ghribi" culture=maghrebi }
 1911001 = {name ="Zéroual" culture=maghrebi }

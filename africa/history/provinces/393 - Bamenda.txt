@@ -1,0 +1,13 @@
+# County Title
+title = c_bamenda
+
+# Settlements
+max_settlements = 3
+
+b_bamenda = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

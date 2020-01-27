@@ -1,0 +1,13 @@
+# County Title
+title = c_mayo_banyo
+
+# Settlements
+max_settlements = 3
+
+b_mayo_banyo = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title = c_mpassa
+
+# Settlements
+max_settlements = 3
+
+b_maulongo_GA = castle
+b_franceville_GA = city
+b_okoloville_GA = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History
