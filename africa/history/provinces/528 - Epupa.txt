@@ -1,0 +1,14 @@
+# County Title
+title = c_epupa
+
+# Settlements
+max_settlements = 2
+
+b_okongwati_NA = castle
+b_opuwo_NA = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

@@ -1,0 +1,13 @@
+# County Title
+title = c_liranga
+
+# Settlements
+max_settlements = 2
+
+b_liranga = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

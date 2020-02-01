@@ -1,0 +1,13 @@
+# County Title
+title = c_alindao
+
+# Settlements
+max_settlements = 3
+
+b_alindao = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

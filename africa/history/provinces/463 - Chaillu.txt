@@ -1,0 +1,13 @@
+# County Title
+title = c_chaillu
+
+# Settlements
+max_settlements = 2
+
+b_chaillu = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

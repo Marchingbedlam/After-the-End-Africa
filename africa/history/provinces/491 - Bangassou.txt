@@ -1,0 +1,13 @@
+# County Title
+title = c_bangassou
+
+# Settlements
+max_settlements = 3
+
+b_bangassou = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

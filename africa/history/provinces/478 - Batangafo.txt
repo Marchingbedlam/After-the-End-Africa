@@ -1,0 +1,13 @@
+# County Title
+title = c_batangafo
+
+# Settlements
+max_settlements = 3
+
+b_batangafo = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

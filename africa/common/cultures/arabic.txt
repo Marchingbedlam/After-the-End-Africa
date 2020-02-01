@@ -14,19 +14,19 @@ arabic = {
 			Chadli Chaker Charif Cheick_Sheikh
 			Djelil_Jalil Driss_Idris
 			Faouzi Farouk_Faruk Faycal_Faisal Ferhat Fouad_Fuad
-			Habib Hamdi_Hamid Hamza Hassen_Hassan Hédi Hemmou Hichem_Hisham Houari
+			Habib Hamdi_Hamid Hamza Hassen_Hassan Hédi Hichem_Hisham
 			Ibrahim_Abraham Imed
 			Jaouad Jidou
 			Kacem_Kasim Kamal Kais Karim Kateb Khaled_Khalid Khelil_Khalil Kheredine
-			Lakhdar Larbi Liamine Lotfi Lounis Lyès
+			Lakhdar Lotfi
 			Maaouya_Muawiya Malek_Malik Marouan_Marwan Mohamed_Mohammed Moktar_Mukhtar Moncef Mongi Mostefa_Mustafa Moubarak_Mubarak Moulay_Mulay Mouloud Mounir_Munir Mourad_Murad Moussa_Musa
 			Naceur Niser_Nizar Noureddine_Nuraddin
 			Omar Oualid_Walid Oussama_Osama
-			Rabah Rachid_Rashid Raouf_Rauf Riadh
-			Saber Saddem_Saddam Saïd_Sayyid Samir Sghair Slaheddine Slimane_Solomon Smaïl_Ishmael
+			Rabah Rachid_Rashid Raouf_Rauf Riadh_Riyad
+			Saber Saddem_Saddam Saïd_Sayyid Samir Sghair Slaheddine Slimane_Solomon Ismaïl_Ishmael
 			Tahar_Tahir Taïeb_Tayyib Taoufik_Tawfik Tarek
 			Yahia_John Yassine Yazid Younès_Jonah Youssef_Joseph
-			Zekri_Zachary Ziaoulhak Zinedine Zoubeir
+			Zekri_Zachary Ziaoulhak Zoubeir
 		}
 		female_names = {
 			Ahlam Amira Asma Aya
@@ -147,10 +147,10 @@ arabic = {
 		color = { 0.2 1.4 0.4 }
 		
 		male_names = {
-			Abbas Abdalla_Abdullah Abdalrahman Abdelaziz_Abdul-Aziz Abdel-Fatteh Abdelgadir Abdelsalam Abdel-Wahab Abdul-Gasim Abdul-Hamid Abdul-Rahim Abdul-Wahid Adam Ahmed Ala'a-Eldin Al-Amin Al-Awad Al-Daw Ali Al-Jazuli Al-Khatim Al-Moez Al-Nazeer Al-Numan
+			Abbas Abdalla_Abdullah Abdalrahman Abdelaziz_Abdul-Aziz Abdel-Fatteh Abdelgadir Abdelsalam Abdel-Wahab Abdul-Gasim Abdul-Hamid Abdul-Rahim Abdul-Wahid Abu-Haef Adam Ahmed Ala'a-Eldin Al-Amin Al-Awad Al-Daw Ali Al-Jazuli Al-Khatim Al-Moez Al-Nazeer Al-Numan Awn-Al-Sharif
 			Babiker_Abu-Bakr Baderuddin Bahar Burai
 			Ezuddin
-			Faisal
+			Fadlallah Faisal
 			Gaafar_Jafar Gamal Ghazi Gibril_Gabriel
 			Haitham Hashem Hassan Hussein_Hussayn Huzaifa 
 			Ibrahim_Abraham Idris Ismail_Ishmael Issa_Jesus
@@ -160,22 +160,23 @@ arabic = {
 			Nabil Nahid Nasr-Eldine Nemat
 			Obeid_Ubayd Omer_Omar Osman
 			Radwan_Ridwan Ragab Rashid
-			Salah Salah-Eldine Shams Siddiq Suad
+			Saif-Eldine Salah Salah-Eldine Shams Siddiq Suad
 			Tahir Tajuddin Tayeb
 			Walid
 			Yasser Yousef_Joseph
 			Zein Zubeir
 		}
 		female_names = {
-			Aisha
+			Aisha Asma
 			Dalia
 			Emtithal
 			Fatima
 			Huma
+			Jalila
 			Leila
 			Muna
-			Nawal Nesrine Nima
-			Safia Samia
+			Nafisa Nawal Nesrine Nima
+			Safia Samia Sara_Sarah Sawsan Sulafa
 			Tahani
 			Yassmin
 			Zeinab
@@ -254,6 +255,54 @@ arabic = {
 			Salimata
 			Yema
 			Zeinebou_Zeinab
+		}
+		
+
+		male_patronym = "Ould "
+		female_patronym = "Mint "
+		prefix = yes 
+		
+		founder_named_dynasties = yes
+	}
+	berber = {
+		graphical_cultures = { westafricangfx arabicgfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = {  }
+		
+		male_names = {
+			Abane Abdelaziz Abdelhafid Abdellah_Abdullah Abdeslam Adel Adergazuz Adherbal Aghecher Ahmed Aksél Ali Amirouche Antalas Az'Regh Azzedine
+			Bachir_Bashir Belaïd Belkacem Bologhine Brahim_Abraham
+			Chérif_Sherif
+			Dahmane Djamel_Jamal Driss_Idris
+			Esdilasas
+			Faouzi Fella Ferhat Fezari Firhoun Fraousen
+			Gulussa
+			Hacène_Hassan Hemmou Hiempsal Hocine_Hussein Houari Houssameddine
+			Ierna Ighlaf Iksfensen Immeghar Ishem 
+			Kacem Kamel Kateb Khenchela Koutzinas Krim
+			Lacumaces Lahcen Larbi Liamine Lounès Lyès
+			Makhlouf Malek_Malik Massinissa Mastanabal Mez'yan M'Hamed_Mohammed Mikipsa Mohand Mostefa_Mustafa Mouloud Moussa_Moses
+			Nassim N'Gouna Noureddine
+			Okasha Ouaggag Ouqessoun Oussama_Osama
+			Ramdane Ryad_Riyad
+			Saadeddine Saïd_Said Salem_Salim Sifaks Slimane_Solomon Smaïl_Ishmael Sofyan
+			Tahar Takfarinas Teshfèn Thami Thuban Toufik_Tawfiq
+			Yacine Yaghmurasen Yazid Youcef_Joseph Yugurthen
+			Zeffoun Zelalsen Zighen Zinedine Ziyad
+		}
+		female_names = {
+			Assia
+			Dihya
+			Fadhma_Fatima Fannu
+			Hafsa
+			Khadija Khalida
+			Lalla
+			Mririda
+			Nadia Najat
+			Ouardia
+			Sarah Souad
+			Taos
 		}
 		
 

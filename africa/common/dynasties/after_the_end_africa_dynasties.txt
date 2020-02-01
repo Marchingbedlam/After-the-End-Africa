@@ -339,6 +339,8 @@
 1401055 = {name ="Tounkara" culture=malinke }
 1401056 = {name ="Kamissoko" culture=malinke }
 1401057 = {name ="Maridiata" culture=malinke }
+1511058 = {name ="Cissoko" culture=malinke }
+1511059 = {name ="Koité" culture=malinke }
 
 1405000 = {name ="Oumarou" culture=songhai }
 1405001 = {name ="Idé" culture=songhai }
@@ -812,6 +814,12 @@
 1511012 = {name ="Baayo" culture=wolof }
 1511013 = {name ="Sosse" culture=wolof }
 1511014 = {name ="Fande" culture=wolof }
+1511015 = {name ="Diagne" culture=wolof }
+1511016 = {name ="Mane" culture=wolof }
+1511017 = {name ="Fall" culture=wolof }
+1511018 = {name ="Sakho" culture=wolof }
+1511019 = {name ="M'Boup" culture=wolof }
+1511020 = {name ="Ndiouck" culture=wolof }
 
 1512000 = {name ="Njie" culture=serer }
 1512001 = {name ="Joof" culture=serer }
@@ -833,6 +841,7 @@
 1512017 = {name ="Chareh" culture=serer }
 1512018 = {name ="Dièye" culture=serer }
 1512019 = {name ="Guelowar" culture=serer }
+1511020 = {name ="Seck" culture=serer }
 
 1513000 = {name ="Diedhiou" culture=jola }
 1513001 = {name ="Atepa" culture=jola }
@@ -1317,15 +1326,78 @@
 1901049 = {name ="Lopes" culture=verdean }
 1901050 = {name ="Mascarenhas" culture=verdean }
 
+1909000 = {name ="Zéroual" culture=berber }
+1909001 = {name ="Taarabt" culture=berber }
+1909002 = {name ="N'Soumer" culture=berber }
+1909003 = {name ="Lmrabet" culture=berber }
+1909004 = {name ="Cid Kaoui" culture=berber }
+1909005 = {name ="Bessaoud" culture=berber }
+1909006 = {name ="Afellay" culture=berber }
+1909007 = {name ="Ben M'Hidi" culture=berber }
+1909008 = {name ="Matoub" culture=berber }
+1909009 = {name ="Jemoumekh" culture=berber }
+1909010 = {name ="Aït Saïd" culture=berber }
+1909011 = {name ="Aresmouk" culture=berber }
+1909012 = {name ="Bensaddek" culture=berber }
+1909013 = {name ="Ouyahia" culture=berber }
+1909014 = {name ="M'Barek" culture=berber }
+1909015 = {name ="Ziyech" culture=berber }
+1909016 = {name ="Oum'Hand" culture=berber }
+1909017 = {name ="Yahyaten" culture=berber }
+1909018 = {name ="Ourrad" culture=berber }
+1909019 = {name ="Ihidjaten" culture=berber }
+1909020 = {name ="Aït Djoudi" culture=berber }
+1909021 = {name ="Guermah" culture=berber }
+1909022 = {name ="Hannachi" culture=berber }
+1909023 = {name ="Ben Tifour" culture=berber }
+1909024 = {name ="Kedadouche" culture=berber }
+1909025 = {name ="Arezki" culture=berber }
+1909026 = {name ="Gaouaoui" culture=berber }
+1909027 = {name ="Metref" culture=berber }
+1909028 = {name ="Ghilas" culture=berber }
+1909029 = {name ="Qobrine" culture=berber }
+1909030 = {name ="Iguerbouchène" culture=berber }
+1909031 = {name ="Aït Menguellet" culture=berber }
+1909032 = {name ="Farès" culture=berber }
+1909033 = {name ="Oudahmane" culture=berber }
+1909034 = {name ="Ighilahriz" culture=berber }
+1909035 = {name ="Benchikhoune" culture=berber }
+1909036 = {name ="Baïleche" culture=berber }
+1909037 = {name ="Aït Ali Yahia" culture=berber }
+1909038 = {name ="Zefzafi" culture=berber }
+1909039 = {name ="Abdessadki" culture=berber }
+1909040 = {name ="Talhaoui" culture=berber }
+1909041 = {name ="Amsif" culture=berber }
+1909042 = {name ="Boulahrouz" culture=berber }
+1909043 = {name ="Ahanfouf" culture=berber }
+1909044 = {name ="Aït Bighrabe" culture=berber }
+1909045 = {name ="Ikassiren" culture=berber }
+1909046 = {name ="Oufkir" culture=berber }
+1909047 = {name ="Akhannouch" culture=berber }
+1909048 = {name ="Radjef" culture=berber }
+1909049 = {name ="Khaïr Eddine" culture=berber }
+1909040 = {name ="El Glaoui" culture=berber }
+1909041 = {name ="Azaykou" culture=berber }
+1909042 = {name ="Imalayen" culture=berber }
+1909043 = {name ="Bounfour" culture=berber }
+1909044 = {name ="Aatabou" culture=berber }
+1909045 = {name ="Berhich" culture=berber }
+1909046 = {name ="El Foua" culture=berber }
+1909047 = {name ="Ifticene" culture=berber }
+1909048 = {name ="El Hasnaoui" culture=berber }
+1909049 = {name ="Feraoun" culture=berber }
+1909050 = {name ="Douicher" culture=berber }
+
+
 1911000 = {name ="Ghribi" culture=maghrebi }
-1911001 = {name ="Zéroual" culture=maghrebi }
+1911001 = {name ="Ferguène" culture=maghrebi }
 1911002 = {name ="Hmeïde" culture=maghrebi }
 1911003 = {name ="Ghozzi" culture=maghrebi }
 1911004 = {name ="Taïa" culture=maghrebi }
 1911005 = {name ="Moudrik" culture=maghrebi }
 1911006 = {name ="Belkacem" culture=maghrebi }
 1911007 = {name ="Sfar" culture=maghrebi }
-1911008 = {name ="El Hasnaoui" culture=maghrebi }
+1911008 = {name ="Chaouch" culture=maghrebi }
 1911009 = {name ="Mosteghanemi" culture=maghrebi }
 1911010 = {name ="Rebaï" culture=maghrebi }
 1911011 = {name ="Hamrouche" culture=maghrebi }
@@ -1359,7 +1431,7 @@
 1911039 = {name ="Guennoun" culture=maghrebi }
 1911040 = {name ="Fegrouche" culture=maghrebi }
 1911041 = {name ="Moulessehoul" culture=maghrebi }
-1911042 = {name ="Imalayen" culture=maghrebi }
+1911042 = {name ="Laggoun" culture=maghrebi }
 1911043 = {name ="Belhouchet" culture=maghrebi }
 1911044 = {name ="Benguettaf" culture=maghrebi }
 1911045 = {name ="Ksentini" culture=maghrebi }
@@ -1399,7 +1471,7 @@
 1911079 = {name ="El Moursli" culture=maghrebi }
 1911080 = {name ="Essemlali" culture=maghrebi }
 1911081 = {name ="Oukach" culture=maghrebi }
-1911082 = {name ="Taghmaoui" culture=maghrebi }
+1911082 = {name ="El Okbi" culture=maghrebi }
 1911083 = {name ="Kharbouch" culture=maghrebi }
 1911084 = {name ="Elmandjra" culture=maghrebi }
 1911085 = {name ="Ben Allal" culture=maghrebi }
@@ -1417,10 +1489,17 @@
 1911097 = {name ="El Ouazghari" culture=maghrebi }
 1911098 = {name ="Alaoui" culture=maghrebi }
 1911099 = {name ="Azaouagh" culture=maghrebi }
-1911100 = {name ="Boulahrouz" culture=maghrebi }
+1911100 = {name ="Tchalabi" culture=maghrebi }
 1911101 = {name ="Chahechouhe" culture=maghrebi }
 1911102 = {name ="Mghizrat" culture=maghrebi }
-1911103 = {name ="Azaykou" culture=maghrebi }
+1911103 = {name ="Illoul" culture=maghrebi }
+1911104 = {name ="Ouznadji" culture=maghrebi }
+1911105 = {name ="Kherbache" culture=maghrebi }
+1911106 = {name ="Benkhemassa" culture=maghrebi }
+1911107 = {name ="El Ghiwane" culture=maghrebi }
+1911108 = {name ="Nissaboury" culture=maghrebi }
+1911109 = {name ="Sanhaji" culture=maghrebi }
+1911110 = {name ="Elalamy" culture=maghrebi }
 
 #1912 Misri
 
@@ -1519,6 +1598,16 @@
 1915068 = {name ="al-Atabani" culture=sudani }
 1915069 = {name ="el-Salahi" culture=sudani }
 1915070 = {name ="Waqialla" culture=sudani }
+1915071 = {name ="Nugud" culture=sudani }
+1915072 = {name ="az-Zubayr" culture=sudani }
+1915073 = {name ="Abusharaf" culture=sudani }
+1915074 = {name ="wad Hilu" culture=sudani }
+1915075 = {name ="Sebehr" culture=sudani }
+1915076 = {name ="Alabead" culture=sudani }
+1915077 = {name ="Karrar" culture=sudani }
+1915078 = {name ="Al-Fakki" culture=sudani }
+1915079 = {name ="el-Kabri" culture=sudani }
+1915080 = {name ="Arman" culture=sudani }
 
 1916000 = {name ="Daddach" culture=sahrawi }
 1916001 = {name ="Amidane" culture=sahrawi }

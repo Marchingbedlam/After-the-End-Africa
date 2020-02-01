@@ -1,0 +1,13 @@
+# County Title
+title = c_mobaye
+
+# Settlements
+max_settlements = 3
+
+b_mobaye = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

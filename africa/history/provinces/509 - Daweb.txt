@@ -1,0 +1,14 @@
+# County Title
+title = c_daweb
+
+# Settlements
+max_settlements = 3
+
+b_duwisib_NA = castle
+b_matlahohe_NA = city
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

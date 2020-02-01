@@ -1,0 +1,15 @@
+# County Title
+title = c_oshana
+
+# Settlements
+max_settlements = 3
+
+b_ondangwa_NA = castle
+b_oshakati_NA = city
+b_okaukuejo_NA = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

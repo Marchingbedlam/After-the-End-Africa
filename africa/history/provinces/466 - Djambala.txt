@@ -1,0 +1,13 @@
+# County Title
+title = c_djambala
+
+# Settlements
+max_settlements = 3
+
+b_djambala = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

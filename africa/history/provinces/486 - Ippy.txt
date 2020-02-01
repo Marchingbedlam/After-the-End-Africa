@@ -1,0 +1,13 @@
+# County Title
+title = c_ippy
+
+# Settlements
+max_settlements = 3
+
+b_ippy = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

@@ -11,17 +11,17 @@ senegambian = {
 			
 		male_names = {
 			Abdoulaye_Abdullah Ahmad_Ahmed Alboury Ali "Aram Bakar" Assane_Hassan
-			Bakan-Tam Birayam Borso Bukaar_Abu-Bakr Buri-Nyabu
+			Bakan-Tam Birayam Blaise Borso Bukaar_Abu-Bakr Buri-Nyabu
 			Cheick_Sheikh Chérif_Sheriff
-			Détié-Fou Djibril_Gabriel Dyakher Dyelen
+			Détié-Fou Diogal Djibril_Gabriel Dyakher Dyelen
 			Eter
 			"Fara Penda"
 			Gireun Gorgui
 			Ibrahim_Abraham Isa_Jesus
 			Khaari Kumba
-			Latir "Lat Jor" Lat-Kodu Louis
-			Maalik_Malik Maalixuri Mbarick "Mö Maalik"
-			Ndiadian Njak 
+			Latir "Lat Jor" Lat-Kodu Laye Louis
+			Maalik_Malik Maalixuri Mbarick Mbaye "Mö Maalik"
+			Ndiadian Niokhor Njak 
 			Ousmane_Osman
 			Saayodo Sakhéwère
 			Tanor Teg-Rella Tende Tyukuli
@@ -57,13 +57,13 @@ senegambian = {
 			Iba Ismaïla_Ishmael Issa_Jesus
 			Jaraff Jilaak
 			Laïty Léopold_Leopold
-			Mahecor Makhtar_Mukhtar Mame Matar Momar_Muammar Mouhammed_Mohammed Moussa_Moses
+			Mahecor Makhtar_Mukhtar Mame Mansour_Mansur Mapenda Matar Momar_Muammar Mouhammed_Mohammed Moussa_Moses
 			Ndaah Njeeme Njekeh
 			Ouleye Ousmane_Osman
 			Pascal
 			Ramat Rumun
 			Sédar Semou
-			Tamsier
+			Tamsier Thione
 			Waigo Waaly
 			Yusupha_Joseph
 		}
@@ -72,6 +72,7 @@ senegambian = {
 			Aisatu Anna
 			Fatou
 			Khady
+			Seydina
 		}
 	}
 	jola = {

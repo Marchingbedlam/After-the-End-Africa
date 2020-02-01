@@ -1,0 +1,13 @@
+# County Title
+title = c_sangha_mbaere
+
+# Settlements
+max_settlements = 3
+
+b_sangha_mbaere = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

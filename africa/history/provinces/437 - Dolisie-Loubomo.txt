@@ -1,0 +1,13 @@
+# County Title
+title = c_dolisie_loubomo
+
+# Settlements
+max_settlements = 3
+
+b_dolisie_loubomo = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

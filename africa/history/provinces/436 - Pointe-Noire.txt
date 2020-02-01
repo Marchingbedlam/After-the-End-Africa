@@ -1,0 +1,13 @@
+# County Title
+title = c_pointe_noire
+
+# Settlements
+max_settlements = 4
+
+b_pointe_noire = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

@@ -1,0 +1,13 @@
+# County Title
+title = c_okoyo
+
+# Settlements
+max_settlements = 2
+
+b_okoyo = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

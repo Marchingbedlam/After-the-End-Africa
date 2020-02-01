@@ -1,0 +1,13 @@
+# County Title
+title = c_kinkala
+
+# Settlements
+max_settlements = 3
+
+b_kinkala = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

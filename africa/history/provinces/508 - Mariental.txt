@@ -1,0 +1,14 @@
+# County Title
+title = c_mariental
+
+# Settlements
+max_settlements = 3
+
+b_strampriet_NA = castle
+b_mariental_NA = city
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

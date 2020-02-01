@@ -1,0 +1,13 @@
+# County Title
+title = c_bozoum
+
+# Settlements
+max_settlements = 3
+
+b_bozoum = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

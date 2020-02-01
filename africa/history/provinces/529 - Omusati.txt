@@ -1,0 +1,15 @@
+# County Title
+title = c_omusati
+
+# Settlements
+max_settlements = 3
+
+b_tsandi_NA = castle
+b_ruacana_NA = city
+b_eheke_NA = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

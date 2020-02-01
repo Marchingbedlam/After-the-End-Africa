@@ -1,0 +1,15 @@
+# County Title
+title = c_swakopmund
+
+# Settlements
+max_settlements = 4
+
+b_vogelstrand_NA = castle
+b_swakopmund_NA = city
+b_henties_bay_NA = temple
+
+# Misc
+culture = sudwester
+religion = catholic
+
+#History

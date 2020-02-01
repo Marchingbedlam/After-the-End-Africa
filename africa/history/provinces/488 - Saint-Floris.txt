@@ -1,0 +1,13 @@
+# County Title
+title = c_saint_floris
+
+# Settlements
+max_settlements = 3
+
+b_saint_floris = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

@@ -1,0 +1,13 @@
+# County Title
+title = c_brandberg
+
+# Settlements
+max_settlements = 2
+
+b_uis_NA = castle
+
+# Misc
+culture = damara
+religion = catholic
+
+#History

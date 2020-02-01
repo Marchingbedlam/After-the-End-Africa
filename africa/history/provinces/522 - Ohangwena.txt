@@ -1,0 +1,15 @@
+# County Title
+title = c_ohangwena
+
+# Settlements
+max_settlements = 3
+
+b_onandova_NA = castle
+b_eenhana_NA = city
+b_oshikango_NA = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

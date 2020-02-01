@@ -1,0 +1,13 @@
+# County Title
+title = c_gamboma
+
+# Settlements
+max_settlements = 2
+
+b_gamboma = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

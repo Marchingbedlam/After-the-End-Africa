@@ -1,0 +1,14 @@
+# County Title
+title = c_omatako
+
+# Settlements
+max_settlements = 3
+
+b_kalkfeld_NA = castle
+b_hochfeld_NA = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

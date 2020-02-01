@@ -1,0 +1,13 @@
+# County Title
+title = c_berberati
+
+# Settlements
+max_settlements = 3
+
+b_berberati = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

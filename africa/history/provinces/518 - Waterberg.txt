@@ -1,0 +1,13 @@
+# County Title
+title = c_waterberg
+
+# Settlements
+max_settlements = 2
+
+b_otjiwarongo_NA = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

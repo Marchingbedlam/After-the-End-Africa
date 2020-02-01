@@ -1,0 +1,15 @@
+# County Title
+title = c_grootfontein
+
+# Settlements
+max_settlements = 3
+
+b_berg_aukas_NA = castle
+b_grootfontein_NA = city
+b_maroelaboom_NA = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

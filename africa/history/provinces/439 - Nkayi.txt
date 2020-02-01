@@ -1,0 +1,13 @@
+# County Title
+title = c_nkayi
+
+# Settlements
+max_settlements = 3
+
+b_nkayi = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

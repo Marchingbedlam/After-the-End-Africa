@@ -485,4 +485,254 @@ e_central_africa = {
 			}
 		}
 	}
+	k_ubangi = {
+		color={ 121 57 200 }
+		color2={ 255 255 255 }
+
+		d_mambere = {
+			color={ 127 60 190 }
+			color2={ 255 255 255 }
+
+			c_sangha_mbaere = {
+				color={ 141 77 192 }
+				color2={ 255 255 255 }
+
+				b_sangha_mbaere = {
+				}
+			}
+			c_berberati = {
+				color={ 143 80 148 }
+				color2={ 255 255 255 }
+
+				b_berberati = {
+				}
+			}
+			c_carnot = {
+				color={ 83 44 118 }
+				color2={ 255 255 255 }
+
+				b_carnot = {
+				}
+			}
+			c_baboua = {
+				color={ 157 135 191 }
+				color2={ 255 255 255 }
+
+				b_baboua = {
+				}
+			}
+			c_bouar = {
+				color={ 117 56 128 }
+				color2={ 255 255 255 }
+
+				b_bouar = {
+				}
+			}
+		}
+		d_ouham_pende = {
+			color={ 130 15 200 }
+			color2={ 255 255 255 }
+
+			c_bozoum = {
+				color={ 152 16 163 }
+				color2={ 255 255 255 }
+
+				b_bozoum = {
+				}
+			}
+			c_bocaranga = {
+				color={ 128 2 178 }
+				color2={ 255 255 255 }
+
+				b_bocaranga = {
+				}
+			}
+			c_paoua = {
+				color={ 180 93 214 }
+				color2={ 255 255 255 }
+
+				b_paoua = {
+				}
+			}
+		}
+		d_ouham = {
+			color={ 140 24 160 }
+			color2={ 255 255 255 }
+
+			c_markounda = {
+				color={ 141 94 161 }
+				color2={ 255 255 255 }
+
+				b_markounda = {
+				}
+			}
+			c_bossangoa = {
+				color={ 104 94 161 }
+				color2={ 255 255 255 }
+
+				b_bossangoa = {
+				}
+			}
+			c_bouca = {
+				color={ 57 14 109 }
+				color2={ 255 255 255 }
+
+				b_bouca = {
+				}
+			}
+			c_batangafo = {
+				color={ 121 0 255 }
+				color2={ 255 255 255 }
+
+				b_batangafo = {
+				}
+			}
+			c_nana_grebizi = {
+				color={ 112 38 129 }
+				color2={ 255 255 255 }
+
+				b_nana_grebizi = {
+				}
+			}
+		}
+		d_ombella_mpoko = {
+			color={ 121 150 204 }
+			color2={ 255 255 255 }
+
+			c_kemo = {
+				color={ 97 74 102 }
+				color2={ 255 255 255 }
+
+				b_kemo = {
+				}
+			}
+			c_bangui = {
+				color={ 213 193 217 }
+				color2={ 255 255 255 }
+
+				b_bangui = {
+				}
+			}
+			c_yaloke_bossembele = {
+				color={ 91 56 180 }
+				color2={ 255 255 255 }
+
+				b_yaloke_bossembele = {
+				}
+			}
+			c_lobaye = {
+				color={ 75 79 124 }
+				color2={ 255 255 255 }
+
+				b_lobaye = {
+				}
+			}
+		}
+		d_ouaka = {
+			color={ 100 70 110 }
+			color2={ 255 255 255 }
+
+			c_grimari = {
+				color={ 108 83 143 }
+				color2={ 255 255 255 }
+
+				b_grimari = {
+				}
+			}
+			c_bambari = {
+				color={ 111 60 180 }
+				color2={ 255 255 255 }
+
+				b_bambari = {
+				}
+			}
+			c_ippy = {
+				color={ 147 49 138 }
+				color2={ 255 255 255 }
+
+				b_ippy = {
+				}
+			}
+			c_mobaye = {
+				color={ 99 70 110 }
+				color2={ 255 255 255 }
+
+				b_mobaye = {
+				}
+			}
+			c_alindao = {
+				color={ 86 70 110 }
+				color2={ 255 255 255 }
+
+				b_alindao = {
+				}
+			}
+		}
+		d_shari = {
+			color={ 150 60 157 }
+			color2={ 255 255 255 }
+
+			c_bamingui_bangoran = {
+				color={ 91 51 87 }
+				color2={ 255 255 255 }
+
+				b_bamingui_bangoran = {
+				}
+			}
+			c_saint_floris = {
+				color={ 174 30 161 }
+				color2={ 255 255 255 }
+
+				b_saint_floris = {
+				}
+			}
+			c_vakaga = {
+				color={ 216 107 207 }
+				color2={ 255 255 255 }
+
+				b_vakaga = {
+				}
+			}
+		}
+		d_mbomou = {
+			color={ 57 77 177 }
+			color2={ 255 255 255 }
+
+			c_haute_kotto = {
+				color={ 156 107 216 }
+				color2={ 255 255 255 }
+
+				b_haute_kotto = {
+				}
+			}
+			c_bangassou = {
+				color={ 57 36 178 }
+				color2={ 255 255 255 }
+
+				b_bangassou = {
+				}
+			}
+			c_gambo_ouango = {
+				color={ 67 17 88 }
+				color2={ 255 255 255 }
+
+				b_gambo_ouango = {
+				}
+			}
+			c_rafai = {
+				color={ 115 72 182 }
+				color2={ 255 255 255 }
+
+				b_rafai = {
+				}
+			}
+			c_haut_mbomou = {
+				color={ 72 55 164 }
+				color2={ 255 255 255 }
+
+				b_haut_mbomou = {
+				}
+			}
+		}
+	}
 }

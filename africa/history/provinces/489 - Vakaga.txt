@@ -1,0 +1,13 @@
+# County Title
+title = c_vakaga
+
+# Settlements
+max_settlements = 3
+
+b_vakaga = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

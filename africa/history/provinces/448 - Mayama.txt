@@ -1,0 +1,13 @@
+# County Title
+title = c_mayama
+
+# Settlements
+max_settlements = 3
+
+b_mayama = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

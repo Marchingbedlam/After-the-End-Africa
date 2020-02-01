@@ -1,0 +1,13 @@
+# County Title
+title = c_bamingui_bangoran
+
+# Settlements
+max_settlements = 3
+
+b_bamingui_bangoran = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

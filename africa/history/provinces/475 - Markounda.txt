@@ -1,0 +1,13 @@
+# County Title
+title = c_markounda
+
+# Settlements
+max_settlements = 3
+
+b_markounda = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

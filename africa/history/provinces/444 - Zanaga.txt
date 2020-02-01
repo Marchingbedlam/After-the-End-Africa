@@ -1,0 +1,13 @@
+# County Title
+title = c_zanaga
+
+# Settlements
+max_settlements = 3
+
+b_zanaga = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

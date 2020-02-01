@@ -1,0 +1,14 @@
+# County Title
+title = c_otavi
+
+# Settlements
+max_settlements = 2
+
+b_kombat_NA = castle
+b_otavi_NA = city
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

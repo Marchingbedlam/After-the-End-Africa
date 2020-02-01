@@ -1,0 +1,13 @@
+# County Title
+title = c_gibeon
+
+# Settlements
+max_settlements = 2
+
+b_gibeon_NA = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

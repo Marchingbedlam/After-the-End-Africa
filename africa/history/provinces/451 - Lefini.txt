@@ -1,0 +1,13 @@
+# County Title
+title = c_lefini
+
+# Settlements
+max_settlements = 2
+
+b_lefini = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

@@ -1,0 +1,13 @@
+# County Title
+title = c_yaloke_bossembele
+
+# Settlements
+max_settlements = 3
+
+b_yaloke_bossembele = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

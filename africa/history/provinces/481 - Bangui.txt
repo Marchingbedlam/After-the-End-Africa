@@ -1,0 +1,13 @@
+# County Title
+title = c_bangui
+
+# Settlements
+max_settlements = 3
+
+b_bangui = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

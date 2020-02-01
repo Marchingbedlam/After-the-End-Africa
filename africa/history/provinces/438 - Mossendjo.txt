@@ -1,0 +1,13 @@
+# County Title
+title = c_mossendjo
+
+# Settlements
+max_settlements = 2
+
+b_mossendjo = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

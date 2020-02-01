@@ -1,0 +1,13 @@
+# County Title
+title = c_sibiti
+
+# Settlements
+max_settlements = 3
+
+b_sibiti = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

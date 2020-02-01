@@ -1,0 +1,13 @@
+# County Title
+title = c_nana_grebizi
+
+# Settlements
+max_settlements = 3
+
+b_nana_grebizi = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

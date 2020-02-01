@@ -1,0 +1,13 @@
+# County Title
+title = c_bocaranga
+
+# Settlements
+max_settlements = 3
+
+b_bocaranga = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

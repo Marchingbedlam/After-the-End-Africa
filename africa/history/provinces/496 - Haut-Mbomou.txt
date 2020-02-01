@@ -1,0 +1,13 @@
+# County Title
+title = c_haut_mbomou
+
+# Settlements
+max_settlements = 3
+
+b_haut_mbomou = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

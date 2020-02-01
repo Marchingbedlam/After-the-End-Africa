@@ -1,0 +1,15 @@
+# County Title
+title = c_rehoboth
+
+# Settlements
+max_settlements = 3
+
+b_schlip_NA = castle
+b_rehoboth_NA = city
+b_klein_aub_NA = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

@@ -1,0 +1,13 @@
+# County Title
+title = c_brazzaville
+
+# Settlements
+max_settlements = 5
+
+b_brazzaville = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

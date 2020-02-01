@@ -1,0 +1,13 @@
+# County Title
+title = c_abala
+
+# Settlements
+max_settlements = 2
+
+b_abala = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

@@ -1,0 +1,14 @@
+# County Title
+title = c_khaudum
+
+# Settlements
+max_settlements = 2
+
+b_tsumkwe_NA = castle
+b_mashere_NA = city
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

@@ -1,0 +1,13 @@
+# County Title
+title = c_carnot
+
+# Settlements
+max_settlements = 3
+
+b_carnot = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

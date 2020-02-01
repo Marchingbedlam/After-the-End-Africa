@@ -1,0 +1,13 @@
+# County Title
+title = c_makoua
+
+# Settlements
+max_settlements = 2
+
+b_makoua = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

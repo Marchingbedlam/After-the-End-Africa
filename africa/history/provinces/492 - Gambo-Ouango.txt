@@ -1,0 +1,13 @@
+# County Title
+title = c_gambo_ouango
+
+# Settlements
+max_settlements = 3
+
+b_gambo_ouango = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

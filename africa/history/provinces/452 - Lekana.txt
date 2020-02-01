@@ -1,0 +1,13 @@
+# County Title
+title = c_lekana
+
+# Settlements
+max_settlements = 2
+
+b_lekana = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

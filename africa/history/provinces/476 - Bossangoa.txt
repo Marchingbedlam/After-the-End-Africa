@@ -1,0 +1,13 @@
+# County Title
+title = c_bossangoa
+
+# Settlements
+max_settlements = 3
+
+b_bossangoa = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

@@ -1,0 +1,14 @@
+# County Title
+title = c_hobatere
+
+# Settlements
+max_settlements = 2
+
+b_kamanjab_NA = castle
+b_outjo_NA = city
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

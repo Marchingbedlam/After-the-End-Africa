@@ -1,0 +1,14 @@
+# County Title
+title = c_oranjemund
+
+# Settlements
+max_settlements = 3
+
+b_oranjemund_NA = castle
+b_port_nolloth_ZA = city
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

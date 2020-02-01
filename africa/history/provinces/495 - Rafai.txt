@@ -1,0 +1,13 @@
+# County Title
+title = c_rafai
+
+# Settlements
+max_settlements = 3
+
+b_rafai = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

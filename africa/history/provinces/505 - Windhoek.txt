@@ -1,0 +1,16 @@
+# County Title
+title = c_windhoek
+
+# Settlements
+max_settlements = 5
+
+b_klein_windhoek_NA = castle
+b_windhoek_NA = city
+b_cimbebasia_NA = temple
+b_katatura_NA = city
+
+# Misc
+culture = sudwester
+religion = catholic
+
+#History

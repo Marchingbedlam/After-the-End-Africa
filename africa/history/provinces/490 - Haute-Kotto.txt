@@ -1,0 +1,13 @@
+# County Title
+title = c_haute_kotto
+
+# Settlements
+max_settlements = 3
+
+b_haute_kotto = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

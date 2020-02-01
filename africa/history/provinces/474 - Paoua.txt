@@ -1,0 +1,13 @@
+# County Title
+title = c_paoua
+
+# Settlements
+max_settlements = 3
+
+b_paoua = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

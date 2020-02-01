@@ -1,0 +1,14 @@
+# County Title
+title = c_khorixas
+
+# Settlements
+max_settlements = 2
+
+b_sesfontein_NA = castle
+b_khorixas_NA = city
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History
