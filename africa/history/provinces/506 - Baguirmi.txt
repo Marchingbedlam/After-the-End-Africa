@@ -1,0 +1,15 @@
+# County Title
+title = c_baguirmi
+
+# Settlements
+max_settlements = 3
+
+b_dourbali_TD = castle
+b_massenya_TD = city
+b_bogomoro_TD = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

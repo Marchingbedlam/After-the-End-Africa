@@ -1,0 +1,15 @@
+# County Title
+title = c_mayo_lemie
+
+# Settlements
+max_settlements = 3
+
+b_guelendeng_TD = castle
+b_nanguigoto_TD = city
+b_katoa_TD = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

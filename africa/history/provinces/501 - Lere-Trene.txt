@@ -1,0 +1,15 @@
+# County Title
+title = c_lere_trene
+
+# Settlements
+max_settlements = 3
+
+b_pala_TD = castle
+b_gounou_gaya_TD = city
+b_fianga_TD = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

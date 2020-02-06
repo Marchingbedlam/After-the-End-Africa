@@ -1,0 +1,15 @@
+# County Title
+title = c_mayo_boneye
+
+# Settlements
+max_settlements = 3
+
+b_bongor_TD = castle
+b_moulkou_TD = city
+b_koyom_TD = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title = c_maine_soroa
+
+# Settlements
+max_settlements = 3
+
+b_maine_soroa_NE = castle
+b_goudoumaria_NE = city
+b_dungass_NE = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

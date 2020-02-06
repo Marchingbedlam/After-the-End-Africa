@@ -1,0 +1,15 @@
+# County Title
+title = c_djourf_al_ahmar
+
+# Settlements
+max_settlements = 3
+
+b_am_dam_TD = castle
+b_magrane_TD = city
+b_haouich_TD = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

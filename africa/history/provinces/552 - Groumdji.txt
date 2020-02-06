@@ -1,0 +1,15 @@
+# County Title
+title = c_groumdji
+
+# Settlements
+max_settlements = 4
+
+b_guidan_roumdji_NE = castle
+b_maradi_NE = city
+b_madarounfa_NE = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

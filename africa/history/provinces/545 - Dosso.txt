@@ -1,0 +1,15 @@
+# County Title
+title = c_dosso
+
+# Settlements
+max_settlements = 3
+
+b_gaya_NE = castle
+b_dosso_NE = city
+b_birni_ngaoure_NE = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

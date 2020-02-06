@@ -1,0 +1,15 @@
+# County Title
+title = c_haraze_al_biar
+
+# Settlements
+max_settlements = 3
+
+b_massaguet_TD = castle
+b_massakory_TD = city
+b_tourba_TD = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

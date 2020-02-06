@@ -1,10 +1,16 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+k_ambazonia;Ambazonia;Ambazonia;Ambazonia;;Ambazonia;;;;;;;;;x
+k_ambazonia_adj;Ambazonian;;ambazonier;;;;;;;;;;;x
 k_asanteman;Asanteman;Asanteman;Asanteman;;Asanteman;;;;;;;;;x
 k_asanteman_adj;Asante;;asanteman;;;;;;;;;;;x
+k_balaza;Balaza;Balaza;Balaza;;Balaza;;;;;;;;;x
+k_balaza_adj;Balazois;;balazer;;;;;;;;;;;x
 k_bonny;Bonny;Bonny;Bonny;;Bonny;;;;;;;;;x
 k_bonny_adj;Bonnyman;;bonnyer;;;;;;;;;;;x
 k_cabo_verde;Cabo Verde;Cabo Verde;Cabo Verde;;Cabo Verde;;;;;;;;;x
 k_cabo_verde_adj;Verdean;;verder;;;;;;;;;;;x
+k_cameroon;Cameroon;Cameroon;Cameroon;;Cameroon;;;;;;;;;x
+k_cameroon_adj;Cameroonian;;camerooner;;;;;;;;;;;x
 k_dagbon;Dagbon;Dagbon;Dagbon;;Dagbon;;;;;;;;;x
 k_dagbon_adj;Dagbani;;dagboner;;;;;;;;;;;x
 k_fouta_djallon;Fouta Djallon;Fouta Djallon;Fouta Djallon;;Fouta Djallon;;;;;;;;;x
@@ -25,5 +31,9 @@ k_niger;Niger;Niger;Niger;;Niger;;;;;;;;;x
 k_niger_adj;Nigerien;;nigerer;;;;;;;;;;;x
 k_senegambia;Senegambia;Senegambia;Senegambia;;Senegambia;;;;;;;;;x
 k_senegambia_adj;Senegambian;;senegamber;;;;;;;;;;;x
+k_tchad;Tchad;Tchad;Tchad;;Tchad;;;;;;;;;x
+k_tchad_adj;Tchadienne;;tchader;;;;;;;;;;;x
+k_ubangi;Ubangi;Ubangi;Ubangi;;Ubangi;;;;;;;;;x
+k_ubangi_adj;Ubangian;;ubangier;;;;;;;;;;;x
 k_volta;Volta;Volta;Volta;;Volta;;;;;;;;;x
 k_volta_adj;Voltaic;;volter;;;;;;;;;;;x

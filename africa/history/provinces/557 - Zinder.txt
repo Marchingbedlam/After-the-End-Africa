@@ -1,0 +1,15 @@
+# County Title
+title = c_zinder
+
+# Settlements
+max_settlements = 3
+
+b_birni_NE = castle
+b_zinder_NE = city
+b_mirriah_NE = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

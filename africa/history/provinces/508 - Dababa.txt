@@ -1,0 +1,15 @@
+# County Title
+title = c_dababa
+
+# Settlements
+max_settlements = 3
+
+b_moito_TD = castle
+b_bokoro_TD = city
+b_ngama_TD = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

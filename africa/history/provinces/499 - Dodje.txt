@@ -1,0 +1,15 @@
+# County Title
+title = c_dodje
+
+# Settlements
+max_settlements = 3
+
+b_krim_krim_TD = castle
+b_moundou_TD = city
+b_beinamar_TD = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

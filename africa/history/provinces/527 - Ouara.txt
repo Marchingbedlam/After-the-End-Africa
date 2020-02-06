@@ -1,0 +1,15 @@
+# County Title
+title = c_ouara
+
+# Settlements
+max_settlements = 3
+
+b_chokoyan_TD = castle
+b_abeche_TD = city
+b_abougoudam_TD = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

@@ -1,0 +1,14 @@
+# County Title
+title = c_wayi
+
+# Settlements
+max_settlements = 2
+
+b_mondo_TD = castle
+b_ngouri_TD = city
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

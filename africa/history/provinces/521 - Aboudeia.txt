@@ -1,0 +1,15 @@
+# County Title
+title = c_aboudeia
+
+# Settlements
+max_settlements = 3
+
+b_abgue_TD = castle
+b_aboudeia_TD = city
+b_am_habile_TD = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

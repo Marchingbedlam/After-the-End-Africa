@@ -1,0 +1,15 @@
+# County Title
+title = c_zarmaganda
+
+# Settlements
+max_settlements = 3
+
+b_bani_bangou_NE = castle
+b_ouallam_NE = city
+b_dingazi_NE = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

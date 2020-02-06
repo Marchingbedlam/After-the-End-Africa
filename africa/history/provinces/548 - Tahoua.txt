@@ -1,0 +1,15 @@
+# County Title
+title = c_tahoua
+
+# Settlements
+max_settlements = 3
+
+b_kalkou_NE = castle
+b_tahoua_NE = city
+b_bambay_NE = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

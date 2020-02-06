@@ -1,0 +1,15 @@
+# County Title
+title = c_kobe
+
+# Settlements
+max_settlements = 3
+
+b_iriba_TD = castle
+b_matadjana_TD = city
+b_tine_TD = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

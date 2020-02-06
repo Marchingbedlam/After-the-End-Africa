@@ -1,0 +1,15 @@
+# County Title
+title = c_monts_de_lam
+
+# Settlements
+max_settlements = 3
+
+b_baibokoum_TD = castle
+b_bessao_TD = city
+b_mbaikoro_TD = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

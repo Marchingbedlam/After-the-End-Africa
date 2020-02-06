@@ -1,0 +1,15 @@
+# County Title
+title = c_barh_koh
+
+# Settlements
+max_settlements = 3
+
+b_moussa_foyo_TD = castle
+b_sarh_TD = city
+b_korbol_TD = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

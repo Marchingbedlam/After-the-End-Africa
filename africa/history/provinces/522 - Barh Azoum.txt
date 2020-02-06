@@ -1,0 +1,15 @@
+# County Title
+title = c_barh_azoum
+
+# Settlements
+max_settlements = 3
+
+b_cotonfran_TD = castle
+b_am_timan_TD = city
+b_djouna_TD = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

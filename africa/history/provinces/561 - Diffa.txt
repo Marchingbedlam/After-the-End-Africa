@@ -1,0 +1,15 @@
+# County Title
+title = c_diffa
+
+# Settlements
+max_settlements = 3
+
+b_kablewa_NE = castle
+b_diffa_NE = city
+b_chetimari_NE = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

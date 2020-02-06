@@ -1,0 +1,13 @@
+# County Title
+title = c_kaouar
+
+# Settlements
+max_settlements = 1
+
+b_bilma_NE = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

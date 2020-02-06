@@ -1,0 +1,13 @@
+# County Title
+title = c_tibesti
+
+# Settlements
+max_settlements = 2
+
+b_zouar_TD = castle
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

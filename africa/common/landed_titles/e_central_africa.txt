@@ -51,57 +51,11 @@ e_central_africa = {
 			}
 		}
 	}
-	k_adamawa = {
-		color={ 105 155 255 }
+
+	k_cameroon = {
+		color={ 255 255 100 }
 		color2={ 255 255 255 }
-		
-		d_waza = {
-			color={ 200 200 255 }
-			color2={ 255 255 255 }
 
-			c_logone_et_chari = {
-				color={ 252 255 117 }
-				color2={ 255 255 255 }
-
-				b_logone_et_chari = {
-				}
-			}
-			c_sava = {
-				color={ 175 174 72 }
-				color2={ 255 255 255 }
-
-				b_sava = {
-				}
-			}
-			c_tsanaga = {
-				color={ 239 219 165 }
-				color2={ 255 255 255 }
-
-				b_tsanaga = {
-				}
-			}
-			c_diamare = {
-				color={ 239 229 115 }
-				color2={ 255 255 255 }
-
-				b_diamare = {
-				}
-			}
-			c_kani = {
-				color={ 253 255 193 }
-				color2={ 255 255 255 }
-
-				b_kani = {
-				}
-			}
-			c_danay = {
-				color={ 255 255 150 }
-				color2={ 255 255 255 }
-
-				b_danay = {
-				}
-			}
-		}
 		d_benoue = {
 			color={ 180 100 255 }
 			color2={ 255 255 255 }
@@ -175,11 +129,6 @@ e_central_africa = {
 				}
 			}
 		}
-	}
-	k_cameroon = {
-		color={ 255 255 100 }
-		color2={ 255 255 255 }
-
 		d_lobeke = {
 			color={ 250 230 50 }
 			color2={ 255 255 255 }	

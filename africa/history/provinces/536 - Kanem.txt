@@ -1,0 +1,14 @@
+# County Title
+title = c_kanem
+
+# Settlements
+max_settlements = 2
+
+b_nokou_TD = castle
+b_mao_TD = city
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

@@ -1,0 +1,14 @@
+# County Title
+title = c_dakoro
+
+# Settlements
+max_settlements = 2
+
+b_kornaka_NE = castle
+b_dakoro_NE = city
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

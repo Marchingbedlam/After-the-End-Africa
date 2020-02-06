@@ -1,0 +1,15 @@
+# County Title
+title = c_barh_signaka
+
+# Settlements
+max_settlements = 3
+
+b_melfi_TD = castle
+b_gogmi_TD = city
+b_alouna_TD = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

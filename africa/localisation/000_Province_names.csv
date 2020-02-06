@@ -148,12 +148,7 @@ PROV147;Tongomayel;Tongomayel;Tongomayel;;;;;;;;;x
 PROV148;Liptougou;Liptougou;Liptougou;;;;;;;;;x
 PROV149;Partiaga;Partiaga;Partiaga;;;;;;;;;x
 PROV150;Kirikiri;Kirikiri;Kirikiri;;;;;;;;;x
-PROV151;Niamey;Niamey;Niamey;;;;;;;;;x
-PROV152;Dogondoutchi;Dogondoutchi;Dogondoutchi;;;;;;;;;x
-PROV153;Filingue;Filingue;Filingue;;;;;;;;;x
-PROV154;Tahoua;Tahoua;Tahoua;;;;;;;;;x
-PROV155;Maradi;Maradi;Maradi;;;;;;;;;x
-PROV156;Manaka;Manaka;Manaka;;;;;;;;;x
+################
 PROV157;Tonkolili;Tonkolili;Tonkolili;;;;;;;;;x
 PROV158;Santiago;;;;;;;;;x
 PROV159;Fogo;;;;;;;;;x
@@ -342,38 +337,109 @@ PROV494;Alindao;;;;;;;;;x
 PROV495;Rafaï;;;;;;;;;x
 PROV496;Haut-Mbomou;;;;;;;;;x
 ##
-PROV500;Ezorongondo;;;;;;;;;x
-PROV501;Swakopmund;;;;;;;;;x
-PROV502;Brandberg;;;;;;;;;x
-PROV503;Karibib;;;;;;;;;x
-PROV504;Naukluft;;;;;;;;;x
-PROV505;Windhoek;;;;;;;;;x
-PROV506;Rehoboth;;;;;;;;;x
-PROV507;Nossob;;;;;;;;;x
-PROV508;Mariental;;;;;;;;;x
-PROV509;Daweb;;;;;;;;;x
-PROV510;Gibeon;;;;;;;;;x
-PROV511;Lüderitz;;;;;;;;;x
-PROV512;Brukkaros;;;;;;;;;x
-PROV513;Keetmanshoop;;;;;;;;;x
-PROV514;Karasburg;;;;;;;;;x
-PROV515;Richtersveld;;;;;;;;;x
-PROV516;Oranjemund;;;;;;;;;x
-PROV517;Omatako;;;;;;;;;x
-PROV518;Waterberg;;;;;;;;;x
-PROV519;Otavi;;;;;;;;;x
-PROV520;Grootfontein;;;;;;;;;x
-PROV521;Guinas;;;;;;;;;x
-PROV522;Ohangwena;;;;;;;;;x
-PROV523;Oshana;;;;;;;;;x
-PROV524;Omuthiyagwiipundi;;;;;;;;;x
-PROV525;Rundu;;;;;;;;;x
-PROV526;Khaudum;;;;;;;;;x
-PROV527;Khorixas;;;;;;;;;x
-PROV528;Epupa;;;;;;;;;x
-PROV529;Ruakana;;;;;;;;;x
-PROV530;Otamanzi;;;;;;;;;x
-PROV531;Hobatere;;;;;;;;;x
+PROV497;La Nya;;;;;;;;;x
+PROV498;Monts de Lam;;;;;;;;;x
+PROV499;Dodjé;;;;;;;;;x
+PROV500;Ngourkosso;;;;;;;;;x
+PROV501;Léré-Tréné;;;;;;;;;x
+PROV502;Mayo-Boneye;;;;;;;;;x
+PROV503;Mayo-Lémié;;;;;;;;;x
+PROV504;Tandjilé;;;;;;;;;x
+PROV505;Loug Chari;;;;;;;;;x
+PROV506;Baguirmi;;;;;;;;;x
+PROV507;N'Djamena;;;;;;;;;x
+PROV508;Dababa;;;;;;;;;x
+PROV509;Haraze Al Biar;;;;;;;;;x
+PROV510;Wayi;;;;;;;;;x
+PROV511;Mamdi;;;;;;;;;x
+PROV512;Zakouma;;;;;;;;;x
+PROV513;Barh Signaka;;;;;;;;;x
+PROV514;Abtouyour;;;;;;;;;x
+PROV515;Guéra;;;;;;;;;x
+PROV516;Iro;;;;;;;;;x
+PROV517;Barh Köh;;;;;;;;;x
+PROV518;Grande Silo;;;;;;;;;x
+PROV519;Mandoul;;;;;;;;;x
+PROV520;Barh Sara;;;;;;;;;x
+PROV521;Aboudeïa;;;;;;;;;x
+PROV522;Barh Azoum;;;;;;;;;x
+PROV523;Haraze-Mangueigne;;;;;;;;;x
+PROV524;Kimiti;;;;;;;;;x
+PROV525;Djourf Al Ahmar;;;;;;;;;x
+PROV526;Assoungha;;;;;;;;;x
+PROV527;Ouara;;;;;;;;;x
+PROV528;Dar Tama;;;;;;;;;x
+PROV529;Kobé;;;;;;;;;x
+PROV530;Wadi Fira;;;;;;;;;x
+PROV531;Batha-Est;;;;;;;;;x
+PROV532;Fitri;;;;;;;;;x
+PROV533;Batha-Ouest;;;;;;;;;x
+PROV534;Barh El Gazel;;;;;;;;;x
+PROV535;Lake Tchad;;;;;;;;;x
+PROV536;Kanem;;;;;;;;;x
+PROV537;Ennedi;;;;;;;;;x
+PROV538;Borkou;;;;;;;;;x
+PROV539;Tibesti;;;;;;;;;x
+##
+PROV540;Tillabéri;;;;;;;;;x
+PROV541;Zarmaganda;;;;;;;;;x
+PROV542;Filingue;;;;;;;;;x
+PROV543;Niamey;;;;;;;;;x
+PROV544;Say;;;;;;;;;x
+PROV545;Dosso;;;;;;;;;x
+PROV546;Dogondoutchi;;;;;;;;;x
+PROV547;Bkonni;;;;;;;;;x
+PROV548;Tahoua;;;;;;;;;x
+PROV549;Madaoua;;;;;;;;;x
+PROV550;Abalak;;;;;;;;;x
+PROV551;Tchintabaraden;;;;;;;;;x
+PROV552;Groumdji;;;;;;;;;x
+PROV553;Dakoro;;;;;;;;;x
+PROV554;Mayahi;;;;;;;;;x
+PROV555;Tessaoua;;;;;;;;;x
+PROV556;Matameye;;;;;;;;;x
+PROV557;Zinder;;;;;;;;;x
+PROV558;Tanout;;;;;;;;;x
+PROV559;Goure;;;;;;;;;x
+PROV560;Maïné-Soroa;;;;;;;;;x
+PROV561;Diffa;;;;;;;;;x
+PROV562;N'Guigmi;;;;;;;;;x
+PROV563;Agadez;;;;;;;;;x
+PROV564;Arlit;;;;;;;;;x
+PROV565;Kaouar;;;;;;;;;x
+##
+PROV700;Ezorongondo;;;;;;;;;x
+PROV701;Swakopmund;;;;;;;;;x
+PROV702;Brandberg;;;;;;;;;x
+PROV703;Karibib;;;;;;;;;x
+PROV704;Naukluft;;;;;;;;;x
+PROV705;Windhoek;;;;;;;;;x
+PROV706;Rehoboth;;;;;;;;;x
+PROV707;Nossob;;;;;;;;;x
+PROV708;Mariental;;;;;;;;;x
+PROV709;Daweb;;;;;;;;;x
+PROV710;Gibeon;;;;;;;;;x
+PROV711;Lüderitz;;;;;;;;;x
+PROV712;Brukkaros;;;;;;;;;x
+PROV713;Keetmanshoop;;;;;;;;;x
+PROV714;Karasburg;;;;;;;;;x
+PROV715;Richtersveld;;;;;;;;;x
+PROV716;Oranjemund;;;;;;;;;x
+PROV717;Omatako;;;;;;;;;x
+PROV718;Waterberg;;;;;;;;;x
+PROV719;Otavi;;;;;;;;;x
+PROV720;Grootfontein;;;;;;;;;x
+PROV721;Guinas;;;;;;;;;x
+PROV722;Ohangwena;;;;;;;;;x
+PROV723;Oshana;;;;;;;;;x
+PROV724;Omuthiyagwiipundi;;;;;;;;;x
+PROV725;Rundu;;;;;;;;;x
+PROV726;Khaudum;;;;;;;;;x
+PROV727;Khorixas;;;;;;;;;x
+PROV728;Epupa;;;;;;;;;x
+PROV729;Ruakana;;;;;;;;;x
+PROV730;Otamanzi;;;;;;;;;x
+PROV731;Hobatere;;;;;;;;;x
 ##
 PROV1000;Monrovian Coast;;;;;;;;;x
 PROV1001;Cape Palmas;;;;;;;;;x

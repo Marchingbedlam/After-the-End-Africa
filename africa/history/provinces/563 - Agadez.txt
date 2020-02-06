@@ -1,0 +1,15 @@
+# County Title
+title = c_agadez
+
+# Settlements
+max_settlements = 3
+
+b_tchirozerine_NE = castle
+b_agadez_NE = city
+b_in_gall_NE = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

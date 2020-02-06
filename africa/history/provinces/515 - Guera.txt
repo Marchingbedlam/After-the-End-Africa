@@ -1,0 +1,15 @@
+# County Title
+title = c_guera
+
+# Settlements
+max_settlements = 3
+
+b_mangalme_TD = castle
+b_mongo_TD = city
+b_niergui_TD = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

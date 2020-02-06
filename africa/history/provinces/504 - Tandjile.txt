@@ -1,0 +1,15 @@
+# County Title
+title = c_tandjile
+
+# Settlements
+max_settlements = 3
+
+b_lai_TD = castle
+b_kelo_TD = city
+b_deressia_TD = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

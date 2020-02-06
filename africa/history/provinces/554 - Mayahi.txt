@@ -1,0 +1,15 @@
+# County Title
+title = c_mayahi
+
+# Settlements
+max_settlements = 3
+
+b_tchadoua_NE = castle
+b_mayahi_NE = city
+b_margargari_NE = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

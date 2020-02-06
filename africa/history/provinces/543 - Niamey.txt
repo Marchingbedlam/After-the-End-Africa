@@ -1,0 +1,16 @@
+# County Title
+title = c_niamey
+
+# Settlements
+max_settlements = 6
+
+b_lamorde_NE = castle
+b_niamey_NE = city
+b_soudoure_NE = temple
+b_kollo_NE = city
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title = c_dar_tama
+
+# Settlements
+max_settlements = 3
+
+b_guereda_TD = castle
+b_kolonga_TD = city
+b_sirim_birke_TD = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

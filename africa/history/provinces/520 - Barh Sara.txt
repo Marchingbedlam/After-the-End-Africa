@@ -1,0 +1,15 @@
+# County Title
+title = c_barh_sara
+
+# Settlements
+max_settlements = 3
+
+b_moissala_TD = castle
+b_dembo_TD = city
+b_bouna_TD = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

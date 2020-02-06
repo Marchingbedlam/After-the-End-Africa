@@ -1,0 +1,15 @@
+# County Title
+title = c_mandoul
+
+# Settlements
+max_settlements = 3
+
+b_bedjondo_TD = castle
+b_koumra_TD = city
+b_bebopen_TD = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

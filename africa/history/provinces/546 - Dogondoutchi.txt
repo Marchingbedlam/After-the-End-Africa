@@ -1,0 +1,15 @@
+# County Title
+title = c_dogondoutchi
+
+# Settlements
+max_settlements = 3
+
+b_loga_NE = castle
+b_dogondoutchi_NE = city
+b_tibiri_NE = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

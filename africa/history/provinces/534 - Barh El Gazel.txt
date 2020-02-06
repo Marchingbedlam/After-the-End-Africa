@@ -1,0 +1,15 @@
+# County Title
+title = c_barh_el_gazel
+
+# Settlements
+max_settlements = 3
+
+b_chadra_TD = castle
+b_moussoro_TD = city
+b_salal_TD = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

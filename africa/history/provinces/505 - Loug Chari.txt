@@ -1,0 +1,15 @@
+# County Title
+title = c_loug_chari
+
+# Settlements
+max_settlements = 3
+
+b_tchilili_TD = castle
+b_bousso_TD = city
+b_lairi_TD = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

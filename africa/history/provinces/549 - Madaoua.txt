@@ -1,0 +1,15 @@
+# County Title
+title = c_madaoua
+
+# Settlements
+max_settlements = 3
+
+b_keita_NE = castle
+b_madaoua_NE = city
+b_bouza_NE = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

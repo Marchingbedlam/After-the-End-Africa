@@ -1,0 +1,15 @@
+# County Title
+title = c_assoungha
+
+# Settlements
+max_settlements = 3
+
+b_abdi_TD = castle
+b_adre_TD = city
+b_hadjer_hadid_TD = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

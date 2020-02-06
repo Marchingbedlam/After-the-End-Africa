@@ -1,0 +1,14 @@
+# County Title
+title = c_mamdi
+
+# Settlements
+max_settlements = 2
+
+b_bagassola_TD = castle
+b_bol_TD = city
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

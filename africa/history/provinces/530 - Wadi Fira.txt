@@ -1,0 +1,15 @@
+# County Title
+title = c_wadi_fira
+
+# Settlements
+max_settlements = 3
+
+b_arada_TD = castle
+b_biltine_TD = city
+b_am_zoer_TD = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

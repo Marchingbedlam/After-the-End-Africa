@@ -1,0 +1,15 @@
+# County Title
+title = c_filingue
+
+# Settlements
+max_settlements = 3
+
+b_tondikandia_NE = castle
+b_filingue_NE = city
+b_kourfey_NE = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

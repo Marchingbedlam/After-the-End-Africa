@@ -1,0 +1,15 @@
+# County Title
+title = c_batha_est
+
+# Settlements
+max_settlements = 3
+
+b_oum_hadjer_TD = castle
+b_assinet_TD = city
+b_haraze_djombo_kibet_TD = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title = c_grande_sido
+
+# Settlements
+max_settlements = 3
+
+b_sido_TD = castle
+b_maro_TD = city
+b_danamadji_TD = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

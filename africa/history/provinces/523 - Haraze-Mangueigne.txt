@@ -1,0 +1,15 @@
+# County Title
+title = c_haraze_mangueigne
+
+# Settlements
+max_settlements = 3
+
+b_mangueigne_TD = castle
+b_haraze_TD = city
+b_daha_TD = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

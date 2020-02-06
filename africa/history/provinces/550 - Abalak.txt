@@ -1,0 +1,14 @@
+# County Title
+title = c_abalak
+
+# Settlements
+max_settlements = 2
+
+b_abalak_NE = castle
+b_ibessetene_NE = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

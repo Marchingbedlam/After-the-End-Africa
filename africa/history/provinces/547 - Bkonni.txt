@@ -1,0 +1,15 @@
+# County Title
+title = c_bkonni
+
+# Settlements
+max_settlements = 3
+
+b_illela_NE = castle
+b_birni_nkonni_NE = city
+b_tsernaoua_NE = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

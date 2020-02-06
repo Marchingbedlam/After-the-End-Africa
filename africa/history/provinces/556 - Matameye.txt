@@ -1,0 +1,15 @@
+# County Title
+title = c_matameye
+
+# Settlements
+max_settlements = 3
+
+b_magaria_NE = castle
+b_matameye_NE = city
+b_kantche_NE = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

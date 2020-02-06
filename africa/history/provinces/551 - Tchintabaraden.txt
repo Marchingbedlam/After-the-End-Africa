@@ -1,0 +1,14 @@
+# County Title
+title = c_tchintabaraden
+
+# Settlements
+max_settlements = 2
+
+b_tchintabaraden_NE = castle
+b_tassara_NE = city
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

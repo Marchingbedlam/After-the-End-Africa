@@ -1,0 +1,14 @@
+# County Title
+title = c_nguigmi
+
+# Settlements
+max_settlements = 2
+
+b_nguigmi_NE = castle
+b_ngourti_NE = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

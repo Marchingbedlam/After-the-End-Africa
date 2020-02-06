@@ -1,0 +1,15 @@
+# County Title
+title = c_la_nya
+
+# Settlements
+max_settlements = 3
+
+b_gore_TD = castle
+b_doba_TD = city
+b_bebedjia_TD = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

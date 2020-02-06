@@ -1,0 +1,15 @@
+# County Title
+title = c_say
+
+# Settlements
+max_settlements = 3
+
+b_say_NE = castle
+b_gueladjo_NE = city
+b_torodi_NE = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

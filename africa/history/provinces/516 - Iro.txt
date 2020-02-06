@@ -1,0 +1,15 @@
+# County Title
+title = c_iro
+
+# Settlements
+max_settlements = 3
+
+b_kyabe_TD = castle
+b_bohobe_TD = city
+b_boum_kebbir_TD = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

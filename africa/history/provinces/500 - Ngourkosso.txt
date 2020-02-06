@@ -1,0 +1,15 @@
+# County Title
+title = c_ngourkosso
+
+# Settlements
+max_settlements = 3
+
+b_bebalem_TD = castle
+b_benoye_TD = city
+b_saar_gogne_TD = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

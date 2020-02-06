@@ -1,0 +1,15 @@
+# County Title
+title = c_batha_ouest
+
+# Settlements
+max_settlements = 3
+
+b_koundjourou_TD = castle
+b_ati_TD = city
+b_djedda_TD = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History
