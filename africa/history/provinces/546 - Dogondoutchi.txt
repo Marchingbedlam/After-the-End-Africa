@@ -9,7 +9,7 @@ b_dogondoutchi_NE = city
 b_tibiri_NE = temple
 
 # Misc
-culture = noculture
-religion = catholic
+culture = songhai
+religion = sunni
 
 #History

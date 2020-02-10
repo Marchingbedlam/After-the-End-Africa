@@ -17,7 +17,7 @@ k_asanteman = {
 	color2= { 255 255 255 }
 	capital = 123 #Kumasi
 
-	culture = ashanti
+	culture = asante
 
 	title = "ASANTEHENE"
 
@@ -45,7 +45,7 @@ e_manden = {
 	color2= { 255 255 255 }
 	capital = 92 #Timbuktu
 
-	culture = malinke
+	culture = manding
 
 	allow = {
 		always = no

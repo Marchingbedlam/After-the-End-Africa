@@ -3,9 +3,10 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-2300.1.1={
-	liege=k_guinea
+2637.1.1={
+	holder=1000137
 }
-2660.1.1={
-	holder=1000131
+2659.1.1={
+	holder=1000138
 }
+

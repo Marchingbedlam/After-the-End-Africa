@@ -11,7 +11,7 @@ b_medina_yoro_foulah_SN = city
 b_velingara_SN = temple
 
 # Misc
-culture = fula
+culture = fulbe
 religion = sunni
 
 #History

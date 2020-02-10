@@ -11,7 +11,7 @@ b_bougouni_2 = city
 b_bougouni_3 = temple
 
 # Misc
-culture = malinke
+culture = manding
 religion = sunni
 
 #History

@@ -7,7 +7,7 @@ max_settlements = 3
 b_nema_MR = tribal
 
 # Misc
-culture = malinke
+culture = manding
 religion = sunni
 
 #History

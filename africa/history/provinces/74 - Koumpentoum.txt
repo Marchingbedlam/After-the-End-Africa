@@ -11,7 +11,7 @@ b_malem_niani_SN = city
 b_bamba_thialene_SN = temple
 
 # Misc
-culture = fula
+culture = fulbe
 religion = sunni
 
 #History

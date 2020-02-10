@@ -11,7 +11,7 @@ b_tambacounda_SN = city
 b_makacolibantang_SN = temple
 
 # Misc
-culture = malinke
+culture = manding
 religion = sunni
 
 #History

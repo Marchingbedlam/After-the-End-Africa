@@ -12,10 +12,12 @@ mande = {
 			Abou-Bekr_Abu-Bakr
 			Bassi
 			Diobé
-			Fodiya_Foday
+			Famaga Fodiya_Foday
 			Ibrahima_Abraham
-			"Kaya Magha"
-			Mamadou_Mohammed
+			Jaylani
+			Karamba Karang Kaya-Magha Kéré-Mori
+		 	Mahmudou-Foday Mamadou_Mohammed
+			Salim
 			Tunka
 		}
 		female_names = {
@@ -51,7 +53,7 @@ mande = {
 		
 		founder_named_dynasties = yes
 	}
-	malinke = {
+	manding = {
 		graphical_cultures = { westafricangfx africangfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -73,7 +75,7 @@ mande = {
 			Nfamara Ngolo Nianta 
 			Ouli_Wali Ouati Ouezzin Oumar_Omar Ousmane_Osman
 			Sadio Saifou Saikou Sakoura Sambou Samory Sandaki Sékou Sekouba Sérébandjougou Sidiki Sidi-Yaya Souleymane_Solomon Soumaïla Soumana Soundiata Soungalo
-			Téréba Tiemoko Toumani
+			Téréba Tiéfing Tiemoko Toumani
 			Yaya_John Yoro Younoussi_Jonah Youssouf_Joseph
 		}
 		female_names = {

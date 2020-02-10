@@ -548,7 +548,7 @@ e_guinea = {
 		color2={ 255 255 255 }
 		
 		capital = 35 # c_siguiri
-		culture = malinke
+		culture = manding
 		
 		d_kankan = {
 			color={ 64 99 90 }

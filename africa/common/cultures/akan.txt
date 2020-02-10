@@ -3,7 +3,7 @@ akan = {
 	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
 	graphical_cultures = { muslimgfx }
 
-	ashanti = {
+	asante = {
 		color = { 0.95 0.75 0.25 }
 		
 		graphical_cultures = { westafricangfx africangfx }

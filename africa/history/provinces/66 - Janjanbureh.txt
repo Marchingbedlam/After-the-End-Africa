@@ -11,7 +11,7 @@ b_janjanbureh_GM = city
 b_bansang_GM = temple
 
 # Misc
-culture = malinke
+culture = manding
 religion = sunni
 
 #History

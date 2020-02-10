@@ -9,7 +9,7 @@ b_ouallam_NE = city
 b_dingazi_NE = temple
 
 # Misc
-culture = noculture
-religion = catholic
+culture = songhai
+religion = sunni
 
 #History

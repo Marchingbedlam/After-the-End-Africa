@@ -2,7 +2,7 @@ sahel = {
 	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
 	graphical_cultures = { muslimgfx }
 
-	fula = {
+	fulbe = {
 		graphical_cultures = { westafricangfx africangfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -116,5 +116,60 @@ sahel = {
 		male_patronym = "Ag "
 		female_patronym = "Walet "
 		prefix = yes 
+	}
+	zaghawa = {
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.9 1 1.1 }
+		
+		male_names = {
+			Abbo Abdallah_Abdullah Abdul Adam
+			Daoud_David Dillo
+			Gibril_Gabriel
+			Idriss_Idris
+			Khalil
+			Mahamat_Mohammed Mustafa
+			Omer_Omar
+			Saleh_Salah Suliman_Solomon
+			Timane
+		}
+		female_names = {
+			Bokheta
+			Hadurah Halima
+			Kadiga
+			Makka
+			Sumah
+		}
+		
+
+		
+		founder_named_dynasties = yes
+	}
+	toubou = {
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.9 1 1.1 }
+		
+		male_names = {
+			Adam
+			Goukouni
+			Hissène_Hussein
+			Issa_Jesus
+			Mahamat_Mohammed Malam Mamane
+			Oueddei
+			Tcheke
+			Youssouf_Joseph
+		}
+		female_names = {
+			Halima
+			Karima
+			Mariam_Mary
+		}
+		
+
+		
+		founder_named_dynasties = yes
 	}
 }

@@ -9,7 +9,7 @@ b_gueladjo_NE = city
 b_torodi_NE = temple
 
 # Misc
-culture = noculture
-religion = catholic
+culture = songhai
+religion = sunni
 
 #History

@@ -53,44 +53,49 @@ arabic = {
 		
 		founder_named_dynasties = yes
 	}
-	misri = {
+	masri = {
 		graphical_cultures = { berbergfx arabicgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.2 1.0 0.2 }
 		
 		male_names = {
-			Abbas "Abbas Helmy" "Abdel Aziz" "Abdel Fattah" "Abdel Hakim" "Abdel Khalek" "Abdel Moneim" "Abdel Rahman" Ahmed Aly_Ali Amr Anwar Ashraf Atef Ayman Aybak Aziz
-			Daoud_David
-			Emad Essam Ezzat
-			Farag Fareed_Farid Farouk_Faruk Fekry_Fakr Fuad
-			Gamal_Jamal
-			Hamed_Hamid Hassan Hatem Hazem Hesham_Hisham Hosni Hossam Hussein
-			Ibrahim_Abraham Ismail_Ishmael
+			Abbas "Abbas Helmy" "Abdel Aziz" "Abdel Fattah" "Abdel Hakim" "Abdel Hamid" "Abdel Khalek" "Abdel Latif" "Abdel Moneim" "Abdel Rahman" "Abdel Zaher" Adly Ahmed "Ahmed Fuad" Aladdin Aly_Ali Amr Anwar Ashour Ashraf Atef Ayman Aybak Aziz Azzaddin
+			Baibars Baligh Barquq Bassem
+			Daoud_David Diaaeddin
+			Emad Eslam_Islam Essam Ezzat "Ezzel Dine"
+			Fakhruddin Farag Fareed_Farid Farouk_Faruk Fekry_Fakr Fuad
+			Gad Galal Gamal_Jamal
+			Hamdeen Hamed_Hamid Hassan "Hassan Aziz" Hatem Hazem Hesham_Hisham Hosni Hossam Hussein "Hussein Kamel"
+			Ibrahim_Abraham Ihsan Ismail_Ishmael
 			Jaqmaq
-			Kamal Karim Khairat Khaled_Khalid Khalil
+			Kamal Karim Khairat Khairy Khaled_Khalid Khalil 
 			Lotfy_Lutfi
-			Mamdouh Mohamed_Mohammed "Mohamed Ali" Mokhtar_Mukhtar Mostafa_Mustafa
-			Nabil Naguib Nasser_Nasr
-			Omar Osama
-			Qansuh
-			Raouf_Rauf Rashad Riad Rushdi
-			Saad Salah Sameh_Samih Samir Sayed_Sayyid Selim Shihab Soliman_Solomon
-			Taher_Tahir Talaat Tamer_Timur Tarek_Tariq Tewfik_Tawfiq
+			Mahmud Mamdouh Mashhour Mekkawi Mohamed_Mohammed "Mohamed Ali" Mokhtar_Mukhtar Morad_Murad Mostafa_Mustafa 
+			Nabil Naguib Nasser_Nasr Noman
+			Omar Osama "Osman Ahmed"
+			Qalawun Qansuh
+			Rafik Ragheb Raouf_Rauf Rashad Riad Rushdi
+			Saad "Saad Eddin" Salah "Salah Eddin" Sameh_Samih Samir Sanjar Sayed_Sayyid Selim Shawky Shihab Soliman_Solomon
+			Taha Taher_Tahir Talaat Tamer_Timur Tarek_Tariq Tewfik_Tawfiq
 			Wael Wafik Walid
-			Yaqub_Jacob Yasser Yehia_John Youssef_Joseph
+			Yaqub_Jacob Yasser Yehia_John Younes_Jonah Youssef_Joseph
 			Zakaria_Zachary
 		}
 		female_names = {
-			Aisha Amina
-			Fawzia
+			Ahdaf Aisha Aminah
+			Faten Fawzia
 			Ghada
-			Hala
-			Laila
-			Mansoura Mariam_Mary Marwa Mona
-			Nabila Nawal Nawara
-			Ratiba
-			Samha Sara_Sarah
+			Hala Heba Hoda
+			Ibtihal
+			Laila Latifa
+			Madiha Mansoura Mariam_Mary Marwa Mona
+			Nabila Naglaa Nawal Nawara Noor
+			Ratiba Reem
+			Salma Salwa Samha Sara_Sarah Seham Suhair
+			Tahia
+			Umm
+			Yosra
 		}
 		
 
@@ -153,14 +158,14 @@ arabic = {
 			Fadlallah Faisal
 			Gaafar_Jafar Gamal Ghazi Gibril_Gabriel
 			Haitham Hashem Hassan Hussein_Hussayn Huzaifa 
-			Ibrahim_Abraham Idris Ismail_Ishmael Issa_Jesus
+			Ibrahim_Abraham Idris Ismail_Ishmael Ismat Issa_Jesus
 			Jaber-Allah
 			Khalil Khater Khojali
 			Mandour Mirza Mohy-El-Din Motazz Mubarak Mudather Muhammad_Mohammed Munzer Murad Musa_Moses Musaeb Mustafa
 			Nabil Nahid Nasr-Eldine Nemat
 			Obeid_Ubayd Omer_Omar Osman
 			Radwan_Ridwan Ragab Rashid
-			Saif-Eldine Salah Salah-Eldine Shams Siddiq Suad
+			Saeed_Sayyid Saif-Eldine Salah Salah-Eldine Shams Siddiq Suad
 			Tahir Tajuddin Tayeb
 			Walid
 			Yasser Yousef_Joseph
@@ -181,6 +186,10 @@ arabic = {
 			Yassmin
 			Zeinab
 		}
+		
+		male_patronym = "ibn "
+		female_patronym = "bin "
+		prefix = yes 
 		
 		founder_named_dynasties = yes
 	}
@@ -260,6 +269,33 @@ arabic = {
 
 		male_patronym = "Ould "
 		female_patronym = "Mint "
+		prefix = yes 
+		
+		founder_named_dynasties = yes
+	}
+	baggara = {
+		graphical_cultures = { westafricangfx arabicgfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.3 0.9 0.3 }
+		
+		male_names = {
+			Abba Abdallahi_Abdullah Abdelkader Abdelkerim Abdelsalam Abdelwahid Abderahman Aboud Acheick Adoum Ahmat_Ahmed Ali
+			Fadoul_Fadul Filiks_Felix Franswa_Francis
+			Hassan
+			Issa_Jesus
+			Mahamat_Mohammed Mukhtar
+			Oumar_Omar Outhman_Uthman 
+			Sadiq Saleh_Salah
+			Wadel
+		}
+		female_names = {
+			Hafsa Hinda
+		}
+		
+
+		male_patronym = "ibn "
+		female_patronym = "bin "
 		prefix = yes 
 		
 		founder_named_dynasties = yes

@@ -10,7 +10,7 @@ b_soudoure_NE = temple
 b_kollo_NE = city
 
 # Misc
-culture = noculture
-religion = catholic
+culture = songhai
+religion = sunni
 
 #History

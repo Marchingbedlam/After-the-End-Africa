@@ -9,7 +9,7 @@ b_tillaberi_NE = city
 b_ayourou_NE = temple
 
 # Misc
-culture = noculture
-religion = catholic
+culture = songhai
+religion = sunni
 
 #History

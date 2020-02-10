@@ -16,7 +16,7 @@
 1222001={
 	name="Murtala"
 	dynasty=1406012
-	culture=fula
+	culture=fulbe
 	religion=sunni
 
 	trait=cruel
@@ -31,7 +31,7 @@
 1222002={
 	name="Dioncounda"
 	dynasty=1401012
-	culture=malinke
+	culture=manding
 	religion=sunni
 
 	2630.1.1={ birth=yes }
@@ -49,7 +49,7 @@
 1222004={
 	name="Toumani"
 	dynasty=1401003
-	culture=malinke
+	culture=manding
 	religion=sunni
 
 	2630.1.1={ birth=yes }
@@ -67,7 +67,7 @@
 1222006={
 	name="Yamuza"
 	dynasty=1406018
-	culture=fula
+	culture=fulbe
 	religion=sunni
 
 	2630.1.1={ birth=yes }
@@ -76,7 +76,7 @@
 1222007={
 	name="Muammar"
 	dynasty=1406012
-	culture=fula
+	culture=fulbe
 	religion=sunni
 	father=1222001
 
@@ -86,7 +86,7 @@
 1222008={
 	name="Mu'azu"
 	dynasty=1406012
-	culture=fula
+	culture=fulbe
 	religion=sunni
 	father=1222001
 
@@ -96,7 +96,7 @@
 1222009={
 	name="Muhamman"
 	dynasty=1406012
-	culture=fula
+	culture=fulbe
 	religion=sunni
 	father=1222001
 
@@ -106,7 +106,7 @@
 1222010={
 	name="Murtala"
 	dynasty=1406012
-	culture=fula
+	culture=fulbe
 	religion=sunni
 	father=1222007
 

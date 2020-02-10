@@ -11,7 +11,7 @@ b_lougre_thioly_SN = city
 b_oudalaye_SN = temple
 
 # Misc
-culture = fula
+culture = fulbe
 religion = sunni
 
 #History

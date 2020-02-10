@@ -11,7 +11,7 @@ b_lola_GN = city
 b_lain_GN = temple
 
 # Misc
-culture = malinke
+culture = manding
 religion = sunni
 
 #History

@@ -45,7 +45,7 @@ b_abohyen = {
 	religion = anglican
 }
 b_agyemang = {
-	culture = ashanti
+	culture = asante
 	religion = anglican
 }
 

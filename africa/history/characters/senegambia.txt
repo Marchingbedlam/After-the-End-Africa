@@ -29,7 +29,7 @@
 1522003={
 	name="Cellou"
 	dynasty=1406030
-	culture=fula
+	culture=fulbe
 	religion=sunni
 
 	2630.1.1={ birth=yes }
@@ -74,7 +74,7 @@
 1522007={
 	name="Junaidu"
 	dynasty=1406036
-	culture=fula
+	culture=fulbe
 	religion=sunni
 
 	2630.1.1={ birth=yes }
@@ -83,7 +83,7 @@
 1522008={
 	name="Sérébandjougou"
 	dynasty=1401022
-	culture=malinke
+	culture=manding
 	religion=sunni
 
 	2630.1.1={ birth=yes }

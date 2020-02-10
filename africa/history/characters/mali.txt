@@ -1,7 +1,7 @@
 1401000={
 	name="Ibrahim"
 	dynasty=1401013
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401004
 	martial=6
@@ -21,7 +21,7 @@
 1401001={
 	name="Ahmed"
 	dynasty=1401013
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401000
 	martial=6
@@ -38,7 +38,7 @@
 1401002={
 	name="Ouli"
 	dynasty=1401013
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401000
 
@@ -48,7 +48,7 @@
 1401003={
 	name="Bory"
 	dynasty=1401013
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401000
 
@@ -58,7 +58,7 @@
 1401004={
 	name="Ouli"
 	dynasty=1401013
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401005
 
@@ -68,7 +68,7 @@
 1401005={
 	name="Ahmed"
 	dynasty=1401013
-	culture=malinke
+	culture=manding
 	religion=sunni
 
 	2570.1.1={ birth=yes }
@@ -77,7 +77,7 @@
 1401006={
 	name="Daouda"
 	dynasty=1401013
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401004
 
@@ -117,7 +117,7 @@
 1401010={
 	name="Ouezzin"
 	dynasty=1401005
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401020
 
@@ -127,7 +127,7 @@
 1401011={
 	name="Sakoura"
 	dynasty=1401011
-	culture=malinke
+	culture=manding
 	religion=sunni
 
 	2630.1.1={ birth=yes }
@@ -136,7 +136,7 @@
 1401012={
 	name="Ballaké"
 	dynasty=1401010
-	culture=malinke
+	culture=manding
 	religion=sunni
 
 	2630.1.1={ birth=yes }
@@ -145,7 +145,7 @@
 1401013={
 	name="Mamadou"
 	dynasty=1401018
-	culture=malinke
+	culture=manding
 	religion=sunni
 
 	2630.1.1={ birth=yes }
@@ -154,7 +154,7 @@
 1401014={
 	name="Modibo"
 	dynasty=1401002
-	culture=malinke
+	culture=manding
 	religion=sunni
 
 	2630.1.1={ birth=yes }
@@ -182,7 +182,7 @@
 1401020={
 	name="Moussa"
 	dynasty=1401005
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401021
 
@@ -192,7 +192,7 @@
 1401021={
 	name="Ousmane"
 	dynasty=1401005
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401022
 
@@ -202,7 +202,7 @@
 1401022={
 	name="Ouezzin"
 	dynasty=1401005
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401023
 
@@ -212,7 +212,7 @@
 1401023={
 	name="Youssouf"
 	dynasty=1401005
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401024
 
@@ -222,7 +222,7 @@
 1401024={
 	name="Djibril"
 	dynasty=1401005
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401025
 
@@ -232,7 +232,7 @@
 1401025={
 	name="Moussa"
 	dynasty=1401005
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401026
 
@@ -242,7 +242,7 @@
 1401026={
 	name="Moussa"
 	dynasty=1401005
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401027
 
@@ -252,7 +252,7 @@
 1401027={
 	name="Boucader"
 	dynasty=1401005
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401028
 
@@ -265,7 +265,7 @@
 1401028={
 	name="Oumar"
 	dynasty=1401005
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401029
 
@@ -279,7 +279,7 @@
 1401029={
 	name="Hamadoun"
 	dynasty=1401005
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401030
 
@@ -294,7 +294,7 @@
 1401030={
 	name="Boucader Bakari"
 	dynasty=1401005
-	culture=malinke
+	culture=manding
 	religion=sunni
 
 	trait=quick
@@ -310,7 +310,7 @@
 1401100={
 	name="Soundiata" #Sundiata Keita
 	dynasty=1401004
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401106
 
@@ -326,7 +326,7 @@
 1401101={
 	name="Ouli" #Uli I Keita
 	dynasty=1401004
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401100
 
@@ -342,7 +342,7 @@
 1401102={
 	name="Ouati" #Wati Keita
 	dynasty=1401004
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401100
 
@@ -355,7 +355,7 @@
 1401103={
 	name="Khalifa" #Khalifa Keita
 	dynasty=1401004
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401100
 
@@ -370,7 +370,7 @@
 1401104={
 	name="Abubakari" #Abubakari I Keita
 	dynasty=1401004
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401106
 
@@ -383,7 +383,7 @@
 1401105={
 	name="Sakoura" #Mansa Sakura
 	dynasty=1401051
-	culture=malinke
+	culture=manding
 	religion=sunni
 
 	trait=legendary
@@ -398,7 +398,7 @@
 1401106={
 	name="Naré-Maghann" #father of Sundiata
 	dynasty=1401004
-	culture=malinke
+	culture=manding
 	religion=sunni
 
 	trait=legendary
@@ -410,7 +410,7 @@
 	name="Kolonkan" #sister of Sundiata
 	female=yes
 	dynasty=1401004
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401106
 
@@ -422,7 +422,7 @@
 1401108={
 	name="Gao" #Gao I Keita
 	dynasty=1401004
-	culture=malinke
+	culture=manding
 	religion=sunni
 	mother=1401107
 
@@ -434,7 +434,7 @@
 1401109={
 	name="Mari-Djata Mohammed Gao" #Mansa Mohammed ibn Gao, changed name so numbers work
 	dynasty=1401004
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401108
 
@@ -446,7 +446,7 @@
 1401110={
 	name="Abubakari" #Abubakari II Keita
 	dynasty=1401004
-	culture=malinke
+	culture=manding
 	religion=sunni
 	mother=1401107
 
@@ -466,7 +466,7 @@
 1401111={
 	name="Faga-Laye" #son of Abubakari I
 	dynasty=1401004
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401104
 
@@ -478,7 +478,7 @@
 1401112={
 	name="Moussa" #Mansa Musa 
 	dynasty=1401004
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401111
 
@@ -497,7 +497,7 @@
 1401113={
 	name="Maghan" #Maghan I Keita
 	dynasty=1401004
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401112
 
@@ -509,7 +509,7 @@
 1401114={
 	name="Souleymane" #Souleymane Keita
 	dynasty=1401004
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401111
 
@@ -524,7 +524,7 @@
 1401115={
 	name="Camba" #Camba Keita
 	dynasty=1401004
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401114
 
@@ -536,7 +536,7 @@
 1401116={
 	name="Mari-Djata" #Mari-Djata II Keita
 	dynasty=1401004
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401113
 
@@ -551,7 +551,7 @@
 1401117={
 	name="Moussa" #Musa II Keita
 	dynasty=1401004
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401116
 
@@ -564,7 +564,7 @@
 1401118={
 	name="Maghan" #Maghan II Keita
 	dynasty=1401004
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401116
 
@@ -576,7 +576,7 @@
 1401119={
 	name="Sandaki" #Mansa Sandaki
 	dynasty=1401057
-	culture=malinke
+	culture=manding
 	religion=sunni
 
 	trait=legendary
@@ -594,7 +594,7 @@
 1401120={
 	name="Mamadou" #Mahmud I Keita
 	dynasty=1401004
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401116
 
@@ -606,7 +606,7 @@
 1401121={
 	name="Moussa" #Musa III Keita
 	dynasty=1401004
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401120
 
@@ -619,7 +619,7 @@
 1401122={
 	name="Ouli" #Ouli II Keita
 	dynasty=1401004
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401120
 
@@ -632,7 +632,7 @@
 1401123={
 	name="Mamadou" #Mamadou II Keita
 	dynasty=1401004
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401122
 
@@ -645,7 +645,7 @@
 1401124={
 	name="Mamadou" #Mahmud III Keita
 	dynasty=1401004
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401123
 
@@ -657,7 +657,7 @@
 1401125={
 	name="Abubakari" #civil war, did not reign
 	dynasty=1401004
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401124
 
@@ -669,7 +669,7 @@
 1401126={
 	name="Mamadou" #Mahmud IV Keita
 	dynasty=1401004
-	culture=malinke
+	culture=manding
 	religion=sunni
 	father=1401125
 

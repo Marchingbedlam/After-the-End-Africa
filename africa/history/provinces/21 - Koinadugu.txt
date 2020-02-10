@@ -11,7 +11,7 @@ b_bendugu_SL = city
 b_falaba_SL = temple
 
 # Misc
-culture = fula
+culture = fulbe
 religion = sunni
 
 #History

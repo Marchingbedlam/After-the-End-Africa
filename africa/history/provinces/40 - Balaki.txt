@@ -9,7 +9,7 @@ max_settlements = 3
 b_balaki_GN = tribal
 
 # Misc
-culture = fula
+culture = fulbe
 religion = sunni
 
 #History

@@ -2,9 +2,9 @@
 
 ##Asante line
 1500000={
-	name="Osei Tutu" #Osei Tutu I, founder of Ashanti Empire
+	name="Osei Tutu" #Osei Tutu I, founder of Asante Empire
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	father=1500006
 
@@ -21,7 +21,7 @@
 1500001={
 	name="Opoku Ware" #Opoku Ware I
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	mother=1500009
 
@@ -34,7 +34,7 @@
 1500002={
 	name="Kusi Obodom" #Kusi Obodom I
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	mother=1500010
 
@@ -47,7 +47,7 @@
 1500003={
 	name="Osei Kwadwo" #Osei Kwadwo I
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	father=1500012
 	mother=1500011
@@ -60,7 +60,7 @@
 }
 1500004={
 	name="Safo Kantanka" #prince of Mampong
-	culture=ashanti
+	culture=asante
 	religion=anglican
 
 	trait=legendary
@@ -72,7 +72,7 @@
 1500005={
 	name="Osei Kwame" #Osei Kwame I
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	mother=1500013
 	father=1500004
@@ -86,7 +86,7 @@
 1500006={
 	name="Obiri Frefre" #fictional father of Osei Tutu I
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	
 	1630.1.1={birth=yes}
@@ -95,7 +95,7 @@
 1500007={
 	name="Osei Dako" #fictional brother of Osei Tutu I
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	father=1500006
 	
@@ -106,7 +106,7 @@
 	name="Kyirama" #sister of Osei Tutu I
 	female=yes
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	father=1500006
 	
@@ -116,7 +116,7 @@
 1500009={
 	name="Nyaako" #niece of Osei Tutu I
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	father=1500007
 	female=yes
@@ -128,7 +128,7 @@
 	name="Nkaatia" #niece of Osei Tutu I
 	female=yes
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	mother=1500008
 	
@@ -139,7 +139,7 @@
 	name="Akua Afriyie" #sister of Kusi Obodom I
 	female=yes
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	mother=1500010
 	
@@ -149,7 +149,7 @@
 1500012={
 	name="Owusu Afriyie" #son of Osei Tutu I
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	father=1500000
 	
@@ -160,7 +160,7 @@
 	name="Kwaadu Yiadom" #sister of Osei Kwadwo I
 	female=yes
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	father=1500012
 	mother=1500011
@@ -174,7 +174,7 @@
 1500014={
 	name="Opoku Fofie" #Opoku Fofie I
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	mother=1500013
 	father=1500004
@@ -188,7 +188,7 @@
 1500015={
 	name="Osei Bonsu" #Osei Bonsu I
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	mother=1500013
 	father=1500004
@@ -202,7 +202,7 @@
 1500016={
 	name="Yaw Akoto" #Yaw Akoto I
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	mother=1500013
 	father=1500004
@@ -216,7 +216,7 @@
 1500017={
 	name="Nana Sewaa" #daughter of Kwaadu Yiadom
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	mother=1500013
 	father=1500004
@@ -231,7 +231,7 @@
 1500018={
 	name="Kwaku Dua" #Kwaku Dua I
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	mother=1500017
 
@@ -244,7 +244,7 @@
 1500019={
 	name="Afua Sarpong" #grandmother of later kings
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	mother=1500017
 	female=yes
@@ -258,7 +258,7 @@
 1500020={
 	name="Osei Kwadwo" #son of Afua Sarpong
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	mother=1500019
 
@@ -271,7 +271,7 @@
 1500021={
 	name="Afua Kobi" #daughter of Afua Sarpong
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	mother=1500019
 	female=yes
@@ -285,7 +285,7 @@
 1500022={
 	name="Kwabena Anin" #brother of Karikari and Mensa
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	mother=1500021
 
@@ -298,7 +298,7 @@
 1500023={
 	name="Kofi Karikari" #Kofi Karikari I
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	mother=1500021
 
@@ -311,7 +311,7 @@
 1500024={
 	name="Mensa Bonsu" #Mensa Bonsu I
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	mother=1500021
 
@@ -324,7 +324,7 @@
 1500025={
 	name="Yaa Akyaa" #mother of Kwaku Dua II, Prempeh I
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	mother=1500021
 	female=yes
@@ -338,7 +338,7 @@
 1500026={
 	name="Kwaku Dua" #Kwaku Dua II
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	mother=1500025
 
@@ -351,7 +351,7 @@
 1500027={
 	name="Prempeh" #Prempeh I
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	mother=1500025
 
@@ -364,7 +364,7 @@
 1500028={
 	name="Agyeman Badu" #father of Prempeh II
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	mother=1500025
 
@@ -377,7 +377,7 @@
 1500029={
 	name="Prempeh" #Prempeh II
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	father=1500028
 
@@ -390,7 +390,7 @@
 1500030={
 	name="Amma Nyarko" #fictional mother of Opoku Ware II
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	father=1500028
 	female=yes
@@ -404,7 +404,7 @@
 1500031={
 	name="Opoku Ware" #Opoku Ware II
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	mother=1500030
 
@@ -417,7 +417,7 @@
 1500032={
 	name="Serwa Ampem" #mother of Osei Tutu II
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	mother=1500030
 	female=yes
@@ -431,7 +431,7 @@
 1500033={
 	name="Osei Tutu" #Osei Tutu II
 	dynasty=1501143
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	mother=1500032
 
@@ -445,7 +445,7 @@
 1500090={
 	name="Kwame Okomfo" #Kwame Okomfo I, current king
 	dynasty=1501142 #placeholder dynasty
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	father=1500202
 
@@ -460,7 +460,7 @@
 1500091={
 	name="Osei Tutu" #current Prince
 	dynasty=1501142 #placeholder dynasty
-	culture=ashanti
+	culture=asante
 	religion=anglican
 	father=1500090
 
@@ -513,7 +513,7 @@
 1500214={
 	name="John Joseph" #Accra Patrician
 	dynasty=1501064   #Agyemang 
-	culture=ashanti
+	culture=asante
 	religion=anglican
 
 	2620.1.1={birth=yes}
@@ -537,7 +537,7 @@
 1500225={
 	name="Opoku Ware" 
 	dynasty=1501023
-	culture=ashanti
+	culture=asante
 	religion=anglican
 
 	trait=zealous
@@ -564,7 +564,7 @@
 1500228={
 	name="Boachi" 
 	dynasty=1501037
-	culture=ashanti
+	culture=asante
 	religion=anglican
 
 	2627.5.15={birth=yes}

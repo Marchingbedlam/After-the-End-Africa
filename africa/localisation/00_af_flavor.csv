@@ -49,28 +49,30 @@ baron_krio;Viscount;;;;;;;;;;;;;x
 baron_female_krio;Viscountess;;;;;;;;;;;;;x
 count_krio;Earl;;;;;;;;;;;;;x
 count_female_krio;Lady;;;;;;;;;;;;;x
+duke_krio;Duke;;;;;;;;;;;;;x
+duke_female_krio;Duchess;;;;;;;;;;;;;x
 
 city_count_krio;Lord Governor;;;;;;;;;;;;;x
 city_count_female_krio;Lady Governess;;;;;;;;;;;;;x
 city_duke_krio;Lieutenant Governor;;;;;;;;;;;;;x
 city_duke_female_krio;Lieutenent Governess;;;;;;;;;;;;;x
 city_king_krio;Governor General;;;;;;;;;;;;;x
-city_king_female_krio;Governor General;;;;;;;;;;;;;x
+city_king_female_krio;Governess General;;;;;;;;;;;;;x
 city_emperor_krio;Lord Protector;;;;;;;;;;;;;x
 city_emperor_female_krio;Lady Protector;;;;;;;;;;;;;x
 
-duke_ashanti;Obirempon;;;;;;;;;;;;;x
+duke_asante;Obirempon;;;;;;;;;;;;;x
 
-count_malinke;Farin;;;;;;;;;;;;;x
-duke_malinke;Farba;;;;;;;;;;;;;x
-king_malinke;Faama;;;;;;;;;;;;;x
-emperor_malinke;Mansa;;;;;;;;;;;;;x
+count_manding;Farin;;;;;;;;;;;;;x
+duke_manding;Farba;;;;;;;;;;;;;x
+king_manding;Faama;;;;;;;;;;;;;x
+emperor_manding;Mansa;;;;;;;;;;;;;x
 
 emperor_soninke;Ghana;;;;;;;;;;;;;x
 
 king_songhai;Dja;;;;;;;;;;;;;x
 
-king_fula;Almamy;;;;;;;;;;;;;x
+king_fulbe;Almamy;;;;;;;;;;;;;x
 
 king_mossi;Naba;;;;;;;;;;;;;x
 emperor_mossi;Mogho Naba;;;;;;;;;;;;;x

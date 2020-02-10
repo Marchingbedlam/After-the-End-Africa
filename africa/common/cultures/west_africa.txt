@@ -353,7 +353,7 @@ west_african = {
 			James John Josiah
 			Kenneth
 			Leighton Lemuel Leopold Leroy
-			Maurice Mayfield Melvine Montgomery Moses
+			Maurice Mayfield Melvine Milton Montgomery Moses
 			Nathaniel Nelson
 			Obadiah Onesimus Oswald
 			Percy Peter Probyn
@@ -363,7 +363,7 @@ west_african = {
 			Victor
 			Wallace Wellesley Wilfred William Willoughby Wilmot Wilward Winstanley
 			
-			Mohamed_Mohammed Murad Ali Abdullah Omar Ahmed Hassan Said_Sa'id 	
+			Mohamed_Mohammed Murad Ali Abdullah Omar Ahmed Hassan Said_Sa'id Mustapha_Mustafa
 		}
 		
 		female_names = {

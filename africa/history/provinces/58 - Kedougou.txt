@@ -11,7 +11,7 @@ b_salemata_SN = city
 b_saraya_SN = temple
 
 # Misc
-culture = malinke
+culture = manding
 religion = sunni
 
 #History

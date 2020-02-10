@@ -1,11 +1,11 @@
-# e_guinea
+# e_sahel
 2300.1.1={
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-2637.1.1={
-	holder=1000137
+2300.1.1={
+	liege=k_niger
 }
-2659.1.1={
-	holder=1000138
+2600.1.1={
+	holder=1453002
 }

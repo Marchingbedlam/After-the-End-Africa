@@ -7,7 +7,7 @@ max_settlements = 3
 b_selibaby_MR = tribal
 
 # Misc
-culture = fula
+culture = fulbe
 religion = sunni
 
 #History

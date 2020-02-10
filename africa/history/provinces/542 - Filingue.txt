@@ -9,7 +9,7 @@ b_filingue_NE = city
 b_kourfey_NE = temple
 
 # Misc
-culture = noculture
-religion = catholic
+culture = songhai
+religion = sunni
 
 #History

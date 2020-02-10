@@ -11,7 +11,7 @@ b_sunyani_2 = city
 b_sunyani_3 = temple
 
 # Misc
-culture = ashanti
+culture = asante
 religion = anglican
 
 #History

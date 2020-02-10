@@ -9,7 +9,7 @@ max_settlements = 3
 b_worodougou = tribal
 
 # Misc
-culture = malinke
+culture = manding
 religion = sunni
 
 #History

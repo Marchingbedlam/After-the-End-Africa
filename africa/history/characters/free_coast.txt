@@ -546,7 +546,7 @@
 	2700.1.1={death=yes}
 }
 1000137={
-	name="Blackpool" 
+	name="Ludlam" 
 	dynasty=1002037
 	culture=krio
 	religion=anglican
@@ -561,6 +561,12 @@
 	culture=krio
 	religion=anglican
 	father=1000137
+
+	trait=brave
+	trait=proud
+	trait=tough_soldier
+	trait=cynical
+	trait=greedy
 	
 	2630.1.1={birth=yes}
 	2700.1.1={death=yes}

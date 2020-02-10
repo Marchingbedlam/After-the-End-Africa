@@ -11,7 +11,7 @@ b_banamba_2 = city
 b_banamba_3 = temple
 
 # Misc
-culture = malinke
+culture = manding
 religion = sunni
 
 #History

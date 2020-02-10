@@ -11,7 +11,7 @@ b_garou_2 = city
 b_garou_3 = temple
 
 # Misc
-culture = fula
+culture = fulbe
 religion = sunni
 
 #History
