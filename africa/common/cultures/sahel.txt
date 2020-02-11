@@ -9,13 +9,13 @@ sahel = {
 		color = { 0.9 1 0.8 }
 		
 		male_names = {
-			Abbas "Abder Rahman" "Abdul Bokar" Abdulkadir Abdullahi_Abdullah "Abdullahi Barau" Abubakar_Abu-Bakr Adamu_Adam Addafini "Ado Bayero" Ahmadu_Ahmed "Ahmadu Atiku" "Ahmadu Rufai" Aliyu_Ali Aliyu-Babba Amiru_Amir Atiku Ayuba_Job
-			Banja Barau Bashar
+			Abbas "Abder Rahman"_Abdul-Rahman "Abdul Bokar" Abdulkadir Abdullahi_Abdullah "Abdullahi Barau" Abubakar_Abu-Bakr Adamu_Adam Addafini "Ado Bayero" Ahmadu_Ahmed "Ahmadu Atiku" "Ahmadu Rufai" Aliyu_Ali Aliyu-Babba Amiru_Amir Atiku Ayuba_Job
+			Banja Barau Bashar_Bashir
 			Cellou
 			Dasuki Dawuda_David Diakho Doundou
 			Faruk Fodio_Foday
 			Gidado "Gwari Abdu"
-			Haliru "Hamman Ruwa" Hammata Hasan Hussaini_Hussayn
+			Haliru "Hamman Ruwa" Hammata Hasan Hussaini_Hussein
 			Ibrahim_Abraham "Ibrahim Dasuki" "Ibrahim Sulu" Iisa_Jesus Inuwa Ishaku_Isaac
 			Jafar Jubril_Gabriel Junaidu
 			"Kabir Umar" Karami Karamokho Khalilu_Khalil Kwairanga
@@ -32,13 +32,13 @@ sahel = {
 		}
 		female_names = {
 			Aisha Amina Asma'u
-			Fatumata
+			Fatumata_Fatima
 			Hawa
 			Isatu
 			Khadi
 			Mariama_Mary
 			Samira
-			Umu
+			Umu_Umm
 		}
 		
 

@@ -13,10 +13,10 @@ christian = {
 	
 	# Names given only to Christian characters (base names)
 	male_names = {
-		Christian Christopher Constantine Israel Judah Paul Noah Peter Simon   
+		Benedict Celestine Christian Christopher Constantine Emmanuel Francis Gregory Martin Nicholas Pascal Paul Peter Simon Stephen Vincent
 	}
 	female_names = {
-		Benedicta Magdalena Ursula Angela Virginia
+		Angela Benedicta Catherine Christine Magdalena Ursula Virginia
 	}
 	
 	#default interface
@@ -79,12 +79,12 @@ muslim = {
 	
 	# Names given only to Muslim characters (base names)
 	male_names = {
-		Abbas Abdul Abdullah Abolhassan Abu-Bakr Ahmad Akbar Alhassan Allahyar Ali Ali-Fay Ali-Kolon Ali-Zalil Hasan Hussayn Ismail Mahmud Mohammed Muammar Muhammad
+		Abbas Abu-Bakr Abdul Abdul-Aziz Abdul-Karim Abdullah Abdul-Rahman Alhassan Bashir Ghazi Hamzah Hasan Hashim Hussein Idris Islam Jafar Jamal Khalid Khalil Mahmud Mansur Mohammed Mustafa Osman Qasim Ramadan Rashid Said Saud Sayyid Sultan Uthman Yazid Zubayr
 	}
 	
 	# Names given only to Muslim characters (base names)
 	female_names = {
-		Ayesha Abrar Afifah Anabia Hijrah Hind Hareem Iqra Judi Karida Khadijah Khalidah Khawlah Madeeha Maryam Mariyah Maymunah Mariam Mina Nuwwarrah Qismah Ruqayyah Saba Safaa Safiyyah Salma Shahrazad Sirin Sumaiyah Thuwaibah Umamah Zainab Zubaidah Zainab 
+		Aisha Zaynab 
 	}
 
 	sunni = {

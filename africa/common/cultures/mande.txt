@@ -60,9 +60,9 @@ mande = {
 		color = { 0.8 0.8 0.2 }
 		
 		male_names = {
-			Abdichi-Moké Abdou_Abdul Abdoulaye_Abdullah Abdou-Razack Ahmed Alamouta Alassane_Al-Hassan Ali_Ali
+			Abdichi-Moké Abdou_Abdul Abdoulaye_Abdullah Abdou-Razack_Abdul-Razzaq Ahmed Alamouta Alassane_Al-Hassan Ali_Ali
 			Abubakari_Abu-Bakr
-			Ballaké Benkano_Benkan Boubacar_Abu-Bakr Boucader_Abdulkader Boureima Bréhima
+			Ballaké Benkano_Benkan Boubacar_Abu-Bakr Boucader_Abdul-Kadir Boureima Bréhima
 			Camba Cheick_Sheikh Choguel
 			Dankaran Daouda_David Dinkoro Dioncounda Django Djelimady Djibril_Gabriel Doula Doumbia Dramane
 			Falaba Famoudou Faséké Fodé_Foday
@@ -74,7 +74,7 @@ mande = {
 			Maghan Malick_Malik Mamadou_Mohammed Mamari Mansong Mari-Djata Moctar_Mukhtar Modibo Mory Mountaga Moussa_Moses Moustapha_Mustafa
 			Nfamara Ngolo Nianta 
 			Ouli_Wali Ouati Ouezzin Oumar_Omar Ousmane_Osman
-			Sadio Saifou Saikou Sakoura Sambou Samory Sandaki Sékou Sekouba Sérébandjougou Sidiki Sidi-Yaya Souleymane_Solomon Soumaïla Soumana Soundiata Soungalo
+			Sadio Saifou Saikou Sakoura Sambou Samory Sandaki Sékou Sekouba Sérébandjougou Sidiki_Siddiq Sidi-Yaya Souleymane_Solomon Soumaïla Soumana Soundiata Soungalo
 			Téréba Tiéfing Tiemoko Toumani
 			Yaya_John Yoro Younoussi_Jonah Youssouf_Joseph
 		}
@@ -154,31 +154,37 @@ mande = {
 		color = { 0.7 0.6 0 }
 		
 		male_names = {
-			Albert Allieu_Ali Alpha Amidu_Ahmed Arouna_Aaron Augustine
-			Banja
-			David Dennis
+			Albert Albert-Joe Allieu_Ali Alpha Amidu_Ahmed Andrew Arouna_Aaron Attouga Augustine
+			Bai-John Bai-Sorie Bai-Tom Banja Batilo Brima
+			David David-John Dennis Duwalu
 			Edward Ekuma Emerson Emmanuel
 			Frederick
-			Gbenjei Gibrilla_Gabriel
-			Henry Hindolo
-			John Joseph Julius
-			Kahjay Kemokai 
+			Gbenjei Gibrilla_Gabriel 
+			Henry Hindolo Hindowa
+			Joe-Robert John John-Arouna Joseph Julius
+			Kahjay Kelfa Kemokai Khalil
 			Lamin
-			Milton Mohamed_Mohammed Mustapha
-			Ndawa Norman Nyagua
+			Maada Milton Mohamed_Mohammed Moijueh Mustapha_Mustafa
+			Napoleon Ndawa Norman Nyagua
 			Oponjo Osman
-			Patrick
+			Patrick Paul
 			Robert
-			Sahr Samuel Sengbe Septimus Sherman Solomon Sumoi
+			Sahr Samuel Samuel-Sam Sengbe Septimus Sherman Solomon Strieby Sumoi
 			Victor
+			Wusu
 		}
 		female_names = {
 			Bernadette
+			Diane
 			Ellen Esther
+			Fatima
 			Isata
+			Jane
+			Komeh
 			Mary
 			Nyarroh 
-			Sarah Shirley
+			Sarah Shirley Soma
+			Wayetu
 			Yema Yoko
 		}
 		
@@ -191,33 +197,34 @@ mande = {
 		color = { 0.9 0.7 0.6 }
 		
 		male_names = {
-			Abdoul-Aziz Abi-Bakr_Abu-Bakr Adamou_Adam Akoi Alayaman Ali_Ali Ali-Bér Ali-Fay Ali-Kolon Ali-Zalil Ammar Arlun 
+			Abdoul-Aziz_Abdul-Aziz Abi-Bakr_Abu-Bakr Adamou_Adam Akoi Alayaman Ali_Ali Ali-Bér Ali-Fay Ali-Kolon Ali-Zalil Amirou_Amir Ammar Aouta Arlun Attikou
 			Badä Bakr Bakr-Kanbu Bamari Bankanu_Benkan Bannu Bassarou Bassi Birama Bisi Biyu Borgo 
 			Dankaran Daoud_David Demba Düru
 			Faga-Layé Falké Fari-Mondzo Fatta Fodi_Foday Fuluku Fädazu 
-			Gane Gao 
+			Gane Gao Gounabi
 			Hamani Hamidou_Hamid Hargani Harun_Aaron 
-			Igoumou Ishaq_Isaac Ismail_Ismail 
-			Kabayo Kader Kalabi Kambiné Kanafa Karbachi Kassaly Kaya Kayna Kinkin Kisha Kodama Koïzé Kukuray Kusoy 
-			Maammarou Mahmud_Mahmud Majan Malla Mar-Arkana Mari-Djata Maÿroumfa Missi-Izé Morobani Muhammad Musa_Moses
+			Igoumou Ishaq_Isaac Ismail_Ishmael Issoufou
+			Kabayo Kader Kalabi Kambiné Kanafa Karbachi Kassaly Kaya Kayna Kinkin Kisha Kodama Koïzé Kossom Kukuray Kusoy Kyantou
+			Laouzo
+			Maammarou Mahmud_Mahmud Maidanda Majan Malla Mar-Arkana Mari-Djata Maÿroumfa Missi-Izé Morobani Moumouni Muhammad_Mohammed Musa_Moses
 			Niandou Nintasanay Nuh 
 			Ouankoÿ Ouati 
 			Reidja 
 			Saïdou_Said Sakoura Salou Samsou-Béri Samsou-Keïna Sandaki Seyni Sorko-Ijé Soumaba Sulayman_Solomon 
 			Takoi Tib Tomo_Thomas Tunka 
-			Umar_Umar 
+			Umar_Omar 
 			Yama-Karaway Yaqub_Jacob Yasiboy Yomho Yusuf_Joseph 
 			Zakari_Zachary Zakoi Zenku
 		}
 		female_names = {
-			Aïchatou Aminami Aminata
+			Aïchatou_Aisha Aminami Aminata
 			Bouli
-			Hadiza Haoua
+			Hadiza Haoua_Hawa
 			Lalla
 			Malika Mariama_Mary Mintou
 			Rakiatou
 			Safia
-			Zara
+			Zara_Zahra
 		}
 		
 		founder_named_dynasties = yes

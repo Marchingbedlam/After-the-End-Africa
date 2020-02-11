@@ -51,15 +51,15 @@ west_african = {
 		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
-			Abdul_Abdullah Ahmed Alfred Alhassan Alie_Ali Alimamy Alpha Andrew
-			Bai Brima
+			Abdul Ahmed Alfred Alhassan Alie_Ali Alimamy Alpha Andrew
+			Brima 
 			Ernest
-			Foday_Fodi
+			Farima Foday_Fodi
 			Gibril_Gabriel
-			Hassan
+			Hassan_Hasan
 			Ibrahim_Abraham
-			Karefa Kei Koblo Koeman
-			Mohamed Momodu Mustapha_Mustafa Muwahid
+			Kanta Karefa Kei Koblo Koeman Kompa
+			Mohamed_Mohammed Momodu Moriba Mustapha_Mustafa Muwahid
 			Sallieu Soccoh
 			Thaimu
 			Umaru_Omar
@@ -68,7 +68,7 @@ west_african = {
 		female_names = {
 			Hawa
 			Isatu Isha
-			Zainab
+			Zainab_Zaynab
 		}
 
 	}
@@ -82,16 +82,16 @@ west_african = {
 			Abdulai_Abdullah Abukari_Abu-Bakr Adam Alasani_Alhassan Alhassan Aliu_Ali Andani Asumana_Osman Awal
 			Bawa Binbien Bimbaliga Biyunkomba Bolega Bukali_Abu-Bakr Burzambo
 			Danaa Darimani Darizegu Dawuda_David Dimani 
-			Farouk_Faruk Fusheni_Husayn
+			Farouk_Faruk Fusheni_Hussein
 			Gariba Gbana Gbewa Gungobili
-			Hamza Haruna_Aaron Hudu
+			Hamza_Hamzah Haruna_Aaron Hudu
 			Ibrahim_Abraham Iddrisu_Idris Inusah_Jonah Imoro Issahaku_Isaac
 			Kabiun Kalim Koledgenle Kpalaga Kpugnumbo Kufogu Kulunku 
 			Lagfu Lareyogu Legu Lukman Luro
-			Mahamadu_Mohammed Majeed Mantambo Mohammed-Sani Mubarak Mujahid Mukarama Muntaka Musa_Moses
+			Mahamadu_Mohammed Majeed_Majid Mantambo Mohammed-Sani Mubarak Mujahid Mukarama Muntaka Musa_Moses
 			Nasalan Nguhuriba Nyagse
 			Rahaman Razak
-			Saeed_Said Salifu Sayibu Seydu_Sayyid Shagba Sheno Sidiku Sighle Sitogu Soalih Sulemana_Solomon Sumani Suzabe
+			Saeed_Said Salifu Sayibu Seydu_Sayyid Shagba Sheno Sidiku_Siddiq Sighle Sitogu Soalih Sulemana_Solomon Sumani Suzabe
 			Tahiru_Tahir Titugri Tohagu Tohazi Tulibi Tunti 
 			Umaru_Omar
 			Waa
@@ -123,8 +123,8 @@ west_african = {
 		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
-			Abdoul_Abdul Abdoulaye Abdoul-Aziz Ablassé Adam
-			Baongo Bénéwendé Blaise Boubacar_Abu-Bakr Boukary 
+			Abdoul_Abdul Abdoulaye_Abdullah Abdoul-Aziz_Abdul-Aziz Ablassé Adam
+			Baongo Bénéwendé Blaise Boubacar_Abu-Bakr Boukary_Bakr
 			Daniel Daouda_David Dawingna Djibril_Gabriel 
 			Frédéric_Frederick
 			Geda Gérard_Gerard Gigma Gilbert Gnignemdo Goabga Grumah Guiguem-Pollé Guirga
@@ -135,7 +135,7 @@ west_african = {
 			Lissoangui Louckmane_Lukman
 			Mamadou_Mohammed Maurice Michel_Michael Motiba Moussa_Moses Moustapha_Mustafa
 			Nakien-Zanga Nakim Namégué Nasbiré Naskiémde Niandfo Nyambre
-			Ouali_Ali Oubri Ouezzin Ousmane_Osman
+			Ouali_Wali Oubri Ouezzin Ousmane_Osman
 			Ragongo Rawa Ryallé
 			Sagha Saidou_Said Samuel Sanum Sigiri Simandari Soarba Sorgo Souleymane_Solomon Soutongo
 			Tahirou_Tahir Thomas Tigre Tokourma Tuguri 
@@ -170,7 +170,7 @@ west_african = {
 			Kolo Kpoh
 			M'baha Mikanidjo
 			Nagnon N'golo_Ngolo Nongotiala
-			Sidiky Sinan 
+			Sidiky_Siddiq Sinan 
 			Tando Tchima Tennina
 			Yalmassa
 			Zana Zié
@@ -293,7 +293,7 @@ west_african = {
 			Wesley William Wilmot Winston 
 			Zacharia_Zachary Zeh Zolu	
 
-			Mohamed_Mohammed Murad Ali Abdullah Omar Ahmed Hassan	
+			Abbas Abdulaziz_Abdul-Aziz Abdullah Abu-Bakar_Abu-Bakr Ahmed Alhassan Ali Hassan_Hasan Idris Mohamed_Mohammed Murad Mustapha_Mustafa Omar Said
 		}
 		
 		female_names = {
@@ -317,6 +317,8 @@ west_african = {
 			Weyatta 
 			Yassa 
 			Zelma Zoe
+
+			Aisha Sarah Zainab_Zaynab
 		}
 
 		from_dynasty_prefix = "of "
@@ -363,7 +365,7 @@ west_african = {
 			Victor
 			Wallace Wellesley Wilfred William Willoughby Wilmot Wilward Winstanley
 			
-			Mohamed_Mohammed Murad Ali Abdullah Omar Ahmed Hassan Said_Sa'id Mustapha_Mustafa
+			Abbas Abdulaziz_Abdul-Aziz Abdullah Abu-Bakar_Abu-Bakr Ahmed Alhassan Ali Hassan_Hasan Idris Mohamed_Mohammed Murad Mustapha_Mustafa Omar Said
 		}
 		
 		female_names = {
@@ -388,10 +390,10 @@ west_african = {
 			Walmina
 			Yvonne
 
-			Aisha Zainab_Zeinab
+			Aisha Sarah Zainab_Zaynab
 		}
 
-		from_dynasty_prefix = "of "
+		from_dynasty_prefix = "de "
 
 
 		pat_grf_name_chance = 20

@@ -10,9 +10,9 @@ senegambian = {
 		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
-			Abdoulaye_Abdullah Ahmad_Ahmed Alboury Ali "Aram Bakar" Assane_Hassan
+			Abdoulaye_Abdullah Ahmad_Ahmed Alboury Ali "Aram Bakar" Assane_Hasan
 			Bakan-Tam Birayam Blaise Borso Bukaar_Abu-Bakr Buri-Nyabu
-			Cheick_Sheikh Chérif_Sheriff
+			Cheick_Sheikh Chérif_Sharif
 			Détié-Fou Diogal Djibril_Gabriel Dyakher Dyelen
 			Eter
 			"Fara Penda"
@@ -48,7 +48,7 @@ senegambian = {
 		male_names = {
 			Abdoulaye_Abdullah Abdourahmane Alassane_Alhassan Albert Alfred Alieu_Ali Assane_Hassan
 			"Bai Modi" Biram Boukar_Abu-Bakr Boureh
-			Cham Cheick_Sheikh Chérif_Sheriff
+			Cham Cheick_Sheikh Chérif_Sharif
 			Dawda_David
 			Ebrima_Abraham Elhadji
 			Fode_Foday
@@ -64,7 +64,7 @@ senegambian = {
 			Ramat Rumun
 			Sédar Semou
 			Tamsier Thione
-			Waigo Waaly
+			Waigo Waaly_Wali
 			Yusupha_Joseph
 		}
 		
@@ -97,13 +97,13 @@ senegambian = {
 			Olivier_Oliver Ousainou_Hussayn Ousmane_Osman
 			Pierre_Peter
 			Robert
-			Saikou Salif Saliou Sibacouyane Sibilumbai Sidy Sihalebe Sikakucele Sirif_Sherif Songatebeh
-			Wouli
+			Saikou Salif Saliou Sibacouyane Sibilumbai Sidy Sihalebe Sikakucele Sirif_Sharif Songatebeh
+			Wouli_Wali
 			Yahya_John Youba
 		}
 		
 		female_names = {
-			Aja Aguene Aissatou Aline Ashombi
+			Aja Aguene Aissatou_Aisha Aline Ashombi
 			Diambogne Dienaba
 			Fatou
 			Hortense Hyacinthe

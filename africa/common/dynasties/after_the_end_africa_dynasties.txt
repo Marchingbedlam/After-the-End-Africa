@@ -275,6 +275,10 @@
 1301019 = {name ="Nabay" culture=temne }
 1301020 = {name ="Kargbo" culture=temne }
 1301021 = {name ="Serry" culture=temne }
+1301022 = {name ="Bombolai" culture=temne }
+1301023 = {name ="Alikali" culture=temne }
+1301024 = {name ="Gbanka" culture=temne }
+1301025 = {name ="Kindo" culture=temne }
 
 1302000 = {name ="Tandja" culture=soninke }
 1302001 = {name ="Kébé" culture=soninke }
@@ -398,6 +402,9 @@
 1405015 = {name ="Bacharou" culture=songhai }
 1405016 = {name ="Dembélé" culture=songhai }
 1405017 = {name ="Bocoum" culture=songhai }
+1405018 = {name ="Baboukabiya" culture=songhai }
+1405019 = {name ="Djermakoyé" culture=songhai }
+1405020 = {name ="Congacou" culture=songhai }
 
 1406000 = {name ="Jalloh" culture=fulbe }
 1406001 = {name ="Buhari" culture=fulbe }
@@ -1068,7 +1075,7 @@
 1841015 = {name ="Vandy" culture=mende }
 1841016 = {name ="Yunis" culture=mende }
 1841017 = {name ="Kondewa" culture=mende }
-1841018 = {name ="Tejan-Sie" culture=mende }
+1841018 = {name ="Sie" culture=mende }
 1841019 = {name ="Gulama" culture=mende }
 1841020 = {name ="Dauda" culture=mende }
 1841021 = {name ="Pemagbi" culture=mende }
@@ -1088,6 +1095,19 @@
 1841035 = {name ="Coomber" culture=mende }
 1841036 = {name ="Sheriff" culture=mende }
 1841037 = {name ="Kaingbanja" culture=mende }
+1841038 = {name ="Lavali" culture=mende }
+1841039 = {name ="Gongoima" culture=mende }
+1841040 = {name ="Hinga" culture=mende }
+1841041 = {name ="Kebbie" culture=mende }
+1841042 = {name ="Fahundu" culture=mende }
+1841043 = {name ="Lemoh" culture=mende }
+1841044 = {name ="Kpaka" culture=mende }
+1841045 = {name ="Beavogui" culture=mende }
+1841046 = {name ="Kondo" culture=mende }
+1841047 = {name ="Gaima" culture=mende }
+1841048 = {name ="Bhonapha" culture=mende }
+1841049 = {name ="Tejan" culture=mende }
+1841050 = {name ="Sandy" culture=mende }
 
 1844000 = {name ="Soro" culture=senufo }
 1844001 = {name ="Tondosama" culture=senufo }
@@ -1671,6 +1691,26 @@
 1914018 = {name ="al-Mehayi" culture=bedouin }
 1914019 = {name ="al-Shuari" culture=bedouin }
 1914020 = {name ="al-Sabahi" culture=bedouin }
+1914021 = {name ="al-Ghamdi" culture=bedouin }
+1914022 = {name ="al-Assafi" culture=bedouin }
+1914023 = {name ="al-Fraidi" culture=bedouin }
+1914024 = {name ="al-Yahyawi" culture=bedouin }
+1914025 = {name ="al-Qa'idi" culture=bedouin }
+1914026 = {name ="al-Huraibi" culture=bedouin }
+1914027 = {name ="al-Dabbaqi" culture=bedouin }
+1914028 = {name ="al-Ballaji" culture=bedouin }
+1914029 = {name ="al-Raddadi" culture=bedouin }
+1914030 = {name ="al-Dhahiri" culture=bedouin }
+1914031 = {name ="al-Zuway" culture=bedouin }
+1914032 = {name ="al-Msamri" culture=bedouin }
+1914033 = {name ="al-Thaqafi" culture=bedouin }
+1914034 = {name ="al-Qubaysi" culture=bedouin }
+1914035 = {name ="al-Hajaya" culture=bedouin }
+1914036 = {name ="al-Harumi" culture=bedouin }
+1914037 = {name ="al-Nabari" culture=bedouin }
+1914038 = {name ="al-Kernawi" culture=bedouin }
+1914039 = {name ="al-Dawahri" culture=bedouin }
+1914040 = {name ="al-Sumeiri" culture=bedouin }
 
 1915000 = {name ="Qasim" culture=sudani }
 1915001 = {name ="al-Azhari" culture=sudani }
@@ -1791,6 +1831,30 @@
 1916034 = {name ="Ould Mouknass" culture=sahrawi }
 1916035 = {name ="Ben Hmeida" culture=sahrawi }
 1916036 = {name ="Lemghaifry" culture=sahrawi }
+1916037 = {name ="Akeik" culture=sahrawi }
+1916038 = {name ="Busuala" culture=sahrawi }
+1916039 = {name ="Lahbib" culture=sahrawi }
+1916040 = {name ="Dkhill" culture=sahrawi }
+1916041 = {name ="Mufid" culture=sahrawi }
+1916042 = {name ="Ould El Ghazi" culture=sahrawi }
+1916043 = {name ="Esoulima" culture=sahrawi }
+1916044 = {name ="Ajeen" culture=sahrawi }
+1916045 = {name ="Moughlich" culture=sahrawi }
+1916046 = {name ="Ould Boughanbour" culture=sahrawi }
+1916047 = {name ="Sbaïr" culture=sahrawi }
+1916048 = {name ="Laaboubat" culture=sahrawi }
+1916049 = {name ="Ben Yaddas" culture=sahrawi }
+1916050 = {name ="Lamghalcha" culture=sahrawi }
+1916051 = {name ="Eddaf" culture=sahrawi }
+1916052 = {name ="Zayou" culture=sahrawi }
+1916053 = {name ="Elmachdoufi" culture=sahrawi }
+1916054 = {name ="Boutinguiza" culture=sahrawi }
+1916055 = {name ="El Ayoubi" culture=sahrawi }
+1916056 = {name ="Abman" culture=sahrawi }
+1916057 = {name ="Laaroussi" culture=sahrawi }
+1916058 = {name ="Khouna" culture=sahrawi }
+1916059 = {name ="Tahlil" culture=sahrawi }
+1916060 = {name ="Elgarhi" culture=sahrawi }
 
 1917000 = {name ="Ould Boulkheir" culture=haratin }
 1917001 = {name ="Ould Keihel" culture=haratin }

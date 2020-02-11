@@ -9,36 +9,36 @@ arabic = {
 		color = { 0.2 1.2 0.2 }
 		
 		male_names = {
-			Abdelatif Abdelaziz_Abdul-Aziz Abdelhak Abdelhamid_Abdul-Hamid Abdeljelil Abdelkader Abdelkarim Abdellah_Abdullah Abdelmalek Abderrahim Achref Adil Ahmed Ali Amar Anouar_Anwar Aymen Azzedine
+			Abdelatif_Abdul-Latif Abdelaziz_Abdul-Aziz Abdelhak Abdelhamid_Abdul-Hamid Abdeljelil Abdelkader_Abdul-Kadir Abdelkarim Abdellah_Abdullah Abdelmalek_Abdul-Malik Abderrahim_Abdul-Rahman Achref_Ashraf Adil Ahmed Ali Amar Anouar_Anwar Aymen_Ayman Azzedine_Azzaddin
 			Bechir_Bashir Bilel_Bilal Bouchaib
-			Chadli Chaker Charif Cheick_Sheikh
+			Chadli Chaker Charif_Sharif Cheick_Sheikh
 			Djelil_Jalil Driss_Idris
 			Faouzi Farouk_Faruk Faycal_Faisal Ferhat Fouad_Fuad
-			Habib Hamdi_Hamid Hamza Hassen_Hassan Hédi Hichem_Hisham
+			Habib Hamdi_Hamid Hamza_Hamzah Hassen_Hasan Hédi Hichem_Hisham
 			Ibrahim_Abraham Imed
 			Jaouad Jidou
-			Kacem_Kasim Kamal Kais Karim Kateb Khaled_Khalid Khelil_Khalil Kheredine
-			Lakhdar Lotfi
+			Kacem_Qasim Kamal Kais Karim Kateb Khaled_Khalid Khelil_Khalil Kheredine
+			Lakhdar Lotfi_Lutfi
 			Maaouya_Muawiya Malek_Malik Marouan_Marwan Mohamed_Mohammed Moktar_Mukhtar Moncef Mongi Mostefa_Mustafa Moubarak_Mubarak Moulay_Mulay Mouloud Mounir_Munir Mourad_Murad Moussa_Musa
-			Naceur Niser_Nizar Noureddine_Nuraddin
+			Naceur_Nasr Niser_Nizar Noureddine_Nuraddin
 			Omar Oualid_Walid Oussama_Osama
 			Rabah Rachid_Rashid Raouf_Rauf Riadh_Riyad
-			Saber Saddem_Saddam Saïd_Sayyid Samir Sghair Slaheddine Slimane_Solomon Ismaïl_Ishmael
-			Tahar_Tahir Taïeb_Tayyib Taoufik_Tawfik Tarek
-			Yahia_John Yassine Yazid Younès_Jonah Youssef_Joseph
-			Zekri_Zachary Ziaoulhak Zoubeir
+			Saber Saddem_Saddam Saïd_Said Samir Sghair Slaheddine Slimane_Solomon Ismaïl_Ishmael
+			Tahar_Tahir Taïeb_Tayyib Taoufik_Tawfik Tarek_Tariq
+			Yahia_John Yassine_Yassin Yazid Younès_Jonah Youssef_Joseph
+			Zekri_Zachary Ziaoulhak Zoubeir_Zubayr
 		}
 		female_names = {
 			Ahlam Amira Asma Aya
-			Bouchra
-			Chahida
-			Faouzia Farida Fatima Fethia
-			Habiba Hasna Houda 
+			Bouchra_Bushra
+			Chahida_Shahida
+			Faouzia_Fawzia Farida Fatima Fethia
+			Habiba Hasna Houda_Huda
 			Ikram
 			Jamila
 			Kheira
-			Lamya Latifa Leïla Loubna
-			Maroua Maya Meherzia Mouna Mririda
+			Lamya Latifa Leïla_Layla Loubna
+			Maroua Maya Meherzia Mouna_Muna Mririda
 			Nadia Najah Naoual_Nawal
 			Ouassila
 			Salema Samira Selma Souhayr
@@ -47,7 +47,7 @@ arabic = {
 		}
 		
 
-		male_patronym = "Ould "
+		male_patronym = "Ben "
 		female_patronym = "Mint "
 		prefix = yes 
 		
@@ -60,23 +60,23 @@ arabic = {
 		color = { 0.2 1.0 0.2 }
 		
 		male_names = {
-			Abbas "Abbas Helmy" "Abdel Aziz" "Abdel Fattah" "Abdel Hakim" "Abdel Hamid" "Abdel Khalek" "Abdel Latif" "Abdel Moneim" "Abdel Rahman" "Abdel Zaher" Adly Ahmed "Ahmed Fuad" Aladdin Aly_Ali Amr Anwar Ashour Ashraf Atef Ayman Aybak Aziz Azzaddin
+			Abbas "Abbas Helmy" "Abdel Aziz"_Abdul-Aziz "Abdel Fattah"_Abdul-Fattah "Abdel Hakim"_Abdul-Hakim "Abdel Hamid"_Abdul-Hamid "Abdel Khalek" "Abdel Latif"_Abdul-Latif "Abdel Moneim"_Abdul-Munim "Abdel Rahman"_Abdul-Rahman "Abdel Zaher" Adly Ahmed "Ahmed Fuad" Aladdin Aly_Ali Amr Anwar Ashour Ashraf Atef Ayman Aybak Aziz Azzaddin
 			Baibars Baligh Barquq Bassem
 			Daoud_David Diaaeddin
 			Emad Eslam_Islam Essam Ezzat "Ezzel Dine"
-			Fakhruddin Farag Fareed_Farid Farouk_Faruk Fekry_Fakr Fuad
-			Gad Galal Gamal_Jamal
-			Hamdeen Hamed_Hamid Hassan "Hassan Aziz" Hatem Hazem Hesham_Hisham Hosni Hossam Hussein "Hussein Kamel"
+			Fakhruddin Farag_Faraj Fareed_Farid Farouk_Faruk Fekry_Fakr Fuad
+			Gad Galal_Jalal Gamal_Jamal
+			Hamdeen Hamed_Hamid Hassan_Hasan "Hassan Aziz" Hatem Hazem Hesham_Hisham Hosni Hossam_Husam Hussein "Hussein Kamel"
 			Ibrahim_Abraham Ihsan Ismail_Ishmael
 			Jaqmaq
 			Kamal Karim Khairat Khairy Khaled_Khalid Khalil 
 			Lotfy_Lutfi
 			Mahmud Mamdouh Mashhour Mekkawi Mohamed_Mohammed "Mohamed Ali" Mokhtar_Mukhtar Morad_Murad Mostafa_Mustafa 
 			Nabil Naguib Nasser_Nasr Noman
-			Omar Osama "Osman Ahmed"
+			Omar Osama_Osman "Osman Ahmed"
 			Qalawun Qansuh
 			Rafik Ragheb Raouf_Rauf Rashad Riad Rushdi
-			Saad "Saad Eddin" Salah "Salah Eddin" Sameh_Samih Samir Sanjar Sayed_Sayyid Selim Shawky Shihab Soliman_Solomon
+			Saad "Saad Eddin" Salah "Salah Eddin"_Saladdin Sameh_Samih Samir Sanjar Sayed_Sayyid Selim_Salim Shawky Shihab Soliman_Solomon
 			Taha Taher_Tahir Talaat Tamer_Timur Tarek_Tariq Tewfik_Tawfiq
 			Wael Wafik Walid
 			Yaqub_Jacob Yasser Yehia_John Younes_Jonah Youssef_Joseph
@@ -84,23 +84,24 @@ arabic = {
 		}
 		female_names = {
 			Ahdaf Aisha Aminah
-			Faten Fawzia
+			Fatima Fawzia
 			Ghada
-			Hala Heba Hoda
+			Hala Heba Hoda_Huda
 			Ibtihal
-			Laila Latifa
-			Madiha Mansoura Mariam_Mary Marwa Mona
+			Laila_Layla Latifa
+			Madiha Mansoura Mariam_Mary Marwa Mona_Muna
 			Nabila Naglaa Nawal Nawara Noor
 			Ratiba Reem
 			Salma Salwa Samha Sara_Sarah Seham Suhair
 			Tahia
 			Umm
 			Yosra
+			Zulaykha
 		}
 		
 
 		male_patronym = "ibn "
-		female_patronym = "bin "
+		female_patronym = "bint "
 		prefix = yes 
 		
 		founder_named_dynasties = yes
@@ -120,7 +121,7 @@ arabic = {
 		
 
 		male_patronym = "ibn "
-		female_patronym = "bin "
+		female_patronym = "bint "
 		prefix = yes 
 		
 		founder_named_dynasties = yes
@@ -132,15 +133,51 @@ arabic = {
 		color = { 0.1 1.1 0.1 }
 		
 		male_names = {
-			Abbas 
+			Abbas "Abd al-Malik"_Abdul-Malik "Abd al-Karim"_Abdul-Karim "Abd al-Latif"_Abdul-Latif "Abd al-Mu'in"_Abdul-Muin "Abd al-Muttalib" "Abd al-Razzaq"_Abdul-Razzaq "Abd al-Salam" Abdulaziz_Abdul-Aziz Abdullah Abdulrahman_Abdul-Rahman "Abu Bakr"_Abu-Bakr "Abu Numayy" "Abu Talib" Adnan "Adnan Ahmad" Ahmad_Ahmed Ali "Ali Haidar" "Ali Hatim" Amr Atiyah Awdah Awn "Awn ar-Rafiq" "Awn Shawkat" Ayman Ayyub_Job
+			Badr Barakat Bashir Bilal
+			Dawud_David Dhiyab
+			Eteiwi
+			Fahad Faisal Faraj Fayhan Fayiz 
+			Gazi_Ghazi Ghalib Ghanim
+			Haidar Hamad Hamdan Hamzah Harun_Aaron Hasan Hashim Humayd Husayn_Hussein Hushur
+			Ibrahim_Abraham "Ibrahim Mansur" Idris Isa_Jesus Ishaq_Isaac Isma'il_Ishmael
+			Jabir Ja'far_Jafar Jamal Jammaz Jarir Jassim
+			Khalid Khalifa Khalil Khawar
+			Ma'ad Mahmud "Majid Muhammad" Maktum Mansur "Mansur Musa" Maruf Mas'ud_Masud Mu'awiya_Muawiya Mubarak Muhammad_Mohammed Muhsin Musa_Moses Mut'ib 
+			Nahyan Naif Nasr 
+			Qasim Qatadah 
+			Ra'ad Rahmah Rajih Rashid
+			Sa'ad_Saad Sabah Sa'id_Said Saif Salim Saqr Sattam Sa'ud_Saud Shakhbut Shalal Shu'ayb Suhayl Sulayman_Solomon Sultan
+			Talal Tamim Taysir Thamir
+			Ubayd Umar_Omar Urwah Uthman
+			Walid
+			Yahya_John Ya'qub_Jacob Yazid Yusuf_Joseph
+			Zahir Zamil Zayd
 		}
 		female_names = {
-			Aisha
+			Abdiyah Adilah Afra Aisha "Al Anoud" Aliya "Al Jawhara" "Al Yazia" Amira Amna Azza
+			Badia Basmah Bodur Bushra
+			Dina
+			Fahda Faiza Fatima Fawzia Filwah
+			Ghusn
+			Halimah Hassa Haya Hayfa Hind Hiyam Huzaima
+			Iman
+			Jalila
+			Khadija Khadira Khowla
+			Latifa Lulwah
+			Madiha Manal Maqbula Maryam_Mary Maytha Moza Mudhi Muna Munira Musbah
+			Nafisa Nawal Nayla Nouf Nur Nura
+			Raifia Raiyah Rajiha Rana Rawdah Reema
+			Salha Salma Sara_Sarah Sarab Shaha Shahida Shaikha Shamma Shamsa Sharifa Sita Sora Sultana
+			Tarfa Thajba
+			Umm
+			Wadhah Wadima Watfa
+			Zahra Zaynab Zein Zubaidah
 		}
 		
 
 		male_patronym = "ibn "
-		female_patronym = "bin "
+		female_patronym = "bint "
 		prefix = yes 
 		
 		founder_named_dynasties = yes
@@ -152,24 +189,24 @@ arabic = {
 		color = { 0.2 1.4 0.4 }
 		
 		male_names = {
-			Abbas Abdalla_Abdullah Abdalrahman Abdelaziz_Abdul-Aziz Abdel-Fatteh Abdelgadir Abdelsalam Abdel-Wahab Abdul-Gasim Abdul-Hamid Abdul-Rahim Abdul-Wahid Abu-Haef Adam Ahmed Ala'a-Eldin Al-Amin Al-Awad Al-Daw Ali Al-Jazuli Al-Khatim Al-Moez Al-Nazeer Al-Numan Awn-Al-Sharif
+			Abbas Abdalla_Abdullah Abdalrahman_Abdul-Rahman Abdelaziz_Abdul-Aziz Abdel-Fatteh_Abdul-Fattah Abdelgadir_Abdul-Kadir Abdelsalam_Abdul-Salam Abdel-Wahab_Abdul-Wahab Abdul-Gasim_Abdul-Qasim Abdul-Hamid Abdul-Rahim Abdul-Wahid Abu-Haef Adam Ahmed Ala'a-Eldin_Aladdin Al-Amin Al-Awad Al-Daw Ali Al-Jazuli Al-Khatim Al-Moez Al-Nazeer Al-Numan Awn-Al-Sharif
 			Babiker_Abu-Bakr Baderuddin Bahar Burai
 			Ezuddin
 			Fadlallah Faisal
-			Gaafar_Jafar Gamal Ghazi Gibril_Gabriel
-			Haitham Hashem Hassan Hussein_Hussayn Huzaifa 
+			Gaafar_Jafar Gamal_Jamal Ghazi Gibril_Gabriel
+			Haitham Hashem_Hashim Hassan_Hasan Hussein Huzaifa 
 			Ibrahim_Abraham Idris Ismail_Ishmael Ismat Issa_Jesus
-			Jaber-Allah
-			Khalil Khater Khojali
+			Jabar-Allah Jabeer_Jabir
+			Khalil Khater_Khidr Khojali
 			Mandour Mirza Mohy-El-Din Motazz Mubarak Mudather Muhammad_Mohammed Munzer Murad Musa_Moses Musaeb Mustafa
 			Nabil Nahid Nasr-Eldine Nemat
 			Obeid_Ubayd Omer_Omar Osman
 			Radwan_Ridwan Ragab Rashid
-			Saeed_Sayyid Saif-Eldine Salah Salah-Eldine Shams Siddiq Suad
-			Tahir Tajuddin Tayeb
+			Saeed_Said Saif-Eldine Salah Salah-Eldine_Saladdin Shams Siddiq Suad
+			Tahir Tajuddin Tayeb_Tayyib
 			Walid
 			Yasser Yousef_Joseph
-			Zein Zubeir
+			Zubeir_Zubayr
 		}
 		female_names = {
 			Aisha Asma
@@ -178,17 +215,17 @@ arabic = {
 			Fatima
 			Huma
 			Jalila
-			Leila
+			Leila_Layla
 			Muna
 			Nafisa Nawal Nesrine Nima
 			Safia Samia Sara_Sarah Sawsan Sulafa
 			Tahani
 			Yassmin
-			Zeinab
+			Zeinab_Zaynab
 		}
 		
 		male_patronym = "ibn "
-		female_patronym = "bin "
+		female_patronym = "bint "
 		prefix = yes 
 		
 		founder_named_dynasties = yes
@@ -200,32 +237,39 @@ arabic = {
 		color = { 0.7 2.2 0.2 }
 		
 		male_names = {
-			Abdelaziz_Abdul-Aziz Abdelkader Abdellah_Abdullah Abderrahmane Ahmed Ali Ayoub_Ayyub
+			Abdelaziz_Abdul-Aziz Abdeljalil_Abdul-Jalil Abdelkader_Abdul-Kadir Abdellah_Abdullah Abderrahmane_Abdul-Rahman Ahmed Ali "Ali Beiba" Ayoub_Job
 			Bouchraya Brahim_Abraham
 			Cheikh_Sheikh
-			El-Ouali Embarek_Mubarak
-			Fadel
-			Ghoulam_Ghulam
-			Hametti_Hamid Hassen_Hassan
+			Daifallah
+			El-Bachir El-Hassan_Alhassan El-Houcine El-Ouali Embarek_Mubarak
+			Fadel_Fadl
+			Ghaoutah Ghoulam_Ghulam
+			Hametti_Hamid Hassen_Hasan
 			Ismail_Ishmael
-			Khalihenna Khatri
+			Khalihenna Khalid Khatri_Khidr
 			Lahbib Larabas
-			Mahayub Mahfoud Mohamed_Mohammed Mulay Mustapha_Mustafa
-			Najm
-			Omar Oubi
-			Salem Sghair Suleiman_Solomon 
+			Mahayub Mahfoud Mohamed_Mohammed "Mohamed Ali" "Mohamed Cheikh" "Mohamed Fadel" "Mohamed Lamine" "Mohamed Mbarek" Moulay_Mulay Mustapha_Mustafa
+			Nayem_Najm
+			Omar Othmane_Uthman Oubi
+			Salek Salem_Salim Sarhan Sghair Sidahmed Suleiman_Solomon 
+			Taleb_Talib Teceber
+			Wali
+			Yassin
 		}
 		female_names = {
-			Aminatou
+			Aminatou_Aminata Aziza
+			Darya
 			Elkouria
 			Fatma_Fatima
-			Khadidja
+			Guajmoula
+			Khadidja_Khadija
 			Mariem_Mary
+			Nouna_Nuna
 		}
 		
 
 		male_patronym = "Ould "
-		female_patronym = "Mint "
+		female_patronym = "Bent "
 		prefix = yes 
 		
 		founder_named_dynasties = yes
@@ -239,15 +283,15 @@ arabic = {
 		male_names = {
 			Abdoul_Abdul Abdoulahy_Abdullah Abdoulaziz_Abdul-Aziz Adama_Adam Ahmed
 			Béchir_Bashir Bilal Biram Boubacar_Abu-Bakr
-			Cheick_Sheikh Chirif_Sheriff 
+			Cheick_Sheikh Chirif_Sharif
 			Dah
 			Ely
-			Hamza
+			Hamza_Hamzah
 			Ibrahim_Abraham Ismaïl_Ishmael
 			Jemil_Jamil Jidou
 			Khalid Khalil Khouna
 			Louly
-			Maaouya_Muawiya Messaoud Moctar_Mukhtar Mohamedou_Mohammed Moulaye_Mulay Moussa_Moses Moustapha_Mustafa
+			Maaouya_Muawiya Messaoud_Masud Moctar_Mukhtar Mohamedou_Mohammed Moulaye_Mulay Moussa_Moses Moustapha_Mustafa
 			Oumar_Omar Ousmane_Osman
 			Rabbou
 			Salek Sid'Ahmed Souleyman_Solomon
@@ -263,7 +307,7 @@ arabic = {
 			Naha
 			Salimata
 			Yema
-			Zeinebou_Zeinab
+			Zeinebou_Zaynab
 		}
 		
 
@@ -280,14 +324,17 @@ arabic = {
 		color = { 0.3 0.9 0.3 }
 		
 		male_names = {
-			Abba Abdallahi_Abdullah Abdelkader Abdelkerim Abdelsalam Abdelwahid Abderahman Aboud Acheick Adoum Ahmat_Ahmed Ali
+			Abba Abdallahi_Abdullah Abdelkader_Abdul-Kadir Abdelkerim_Abdul-Karim Abdelsalam_Abdul-Salam Abdelwahid_Abdul-Wahid Abderahman_Abdul-Rahman Aboud Acheick Adoum Ahmat_Ahmed Ali
+			Daoud_David
 			Fadoul_Fadul Filiks_Felix Franswa_Francis
-			Hassan
+			Haroun_Aaron Hassan_Hasan
 			Issa_Jesus
-			Mahamat_Mohammed Mukhtar
+			Mahamat_Mohammed Mansour_Mansur Mukhtar
+			Nassour_Nasr Nouradine_Nuraddin
 			Oumar_Omar Outhman_Uthman 
-			Sadiq Saleh_Salah
+			Sadiq Saleh_Salih
 			Wadel
+			Youssouf_Joseph
 		}
 		female_names = {
 			Hafsa Hinda
@@ -295,7 +342,7 @@ arabic = {
 		
 
 		male_patronym = "ibn "
-		female_patronym = "bin "
+		female_patronym = "bint "
 		prefix = yes 
 		
 		founder_named_dynasties = yes
@@ -307,24 +354,24 @@ arabic = {
 		color = {  }
 		
 		male_names = {
-			Abane Abdelaziz Abdelhafid Abdellah_Abdullah Abdeslam Adel Adergazuz Adherbal Aghecher Ahmed Aksél Ali Amirouche Antalas Az'Regh Azzedine
-			Bachir_Bashir Belaïd Belkacem Bologhine Brahim_Abraham
-			Chérif_Sherif
+			Abane Abdelaziz_Abdul-Aziz Abdelhafid Abdelkader_Abdul-Kadir Abdellah_Abdullah Abdeslam_Abdul-Salam Adel Adergazuz Aderrebou Adherbal Aghecher Ahmed Aksél Ali Amirouche Antalas Az'Regh Azzedine_Azzaddin
+			Bachir_Bashir Belaïd Belkacem_Abdul-Qasim Bologhine Boumezrag Brahim_Abraham
+			Chérif_Sharif
 			Dahmane Djamel_Jamal Driss_Idris
 			Esdilasas
 			Faouzi Fella Ferhat Fezari Firhoun Fraousen
-			Gulussa
+			Gandouz Gulussa
 			Hacène_Hassan Hemmou Hiempsal Hocine_Hussein Houari Houssameddine
 			Ierna Ighlaf Iksfensen Immeghar Ishem 
-			Kacem Kamel Kateb Khenchela Koutzinas Krim
+			Kacem_Qasim Kamel_Kamal Kateb Khenchela Khichan Koutzinas Krim
 			Lacumaces Lahcen Larbi Liamine Lounès Lyès
 			Makhlouf Malek_Malik Massinissa Mastanabal Mez'yan M'Hamed_Mohammed Mikipsa Mohand Mostefa_Mustafa Mouloud Moussa_Moses
-			Nassim N'Gouna Noureddine
+			Nassim N'Gouna Noureddine_Nuraddin
 			Okasha Ouaggag Ouqessoun Oussama_Osama
-			Ramdane Ryad_Riyad
+			Ramdane_Ramadan Ryad_Riyad
 			Saadeddine Saïd_Said Salem_Salim Sifaks Slimane_Solomon Smaïl_Ishmael Sofyan
 			Tahar Takfarinas Teshfèn Thami Thuban Toufik_Tawfiq
-			Yacine Yaghmurasen Yazid Youcef_Joseph Yugurthen
+			Yacine_Yassin Yaghmurasen Yazid Youcef_Joseph Yugurthen
 			Zeffoun Zelalsen Zighen Zinedine Ziyad
 		}
 		female_names = {
@@ -342,7 +389,7 @@ arabic = {
 		}
 		
 
-		male_patronym = "Ould "
+		male_patronym = "Ben "
 		female_patronym = "Mint "
 		prefix = yes 
 		
