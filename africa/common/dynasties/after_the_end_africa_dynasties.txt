@@ -476,6 +476,32 @@
 1407005 = {name ="Koyo" culture=dogon }
 1407006 = {name ="Dolu" culture=dogon }
 
+1408000 = {name ="Ngakinar" culture=sara }   ##Sara/Bagirmi?
+1408001 = {name ="Odingar" culture=sara }
+1408002 = {name ="Tombalbaye" culture=sara }
+1408003 = {name ="Moungar" culture=sara }
+1408004 = {name ="Djimasta" culture=sara }
+1408005 = {name ="Malloum" culture=sara }
+1408006 = {name ="Djogo" culture=sara }
+1408007 = {name ="Moguenara" culture=sara }
+1408008 = {name ="Nadingar" culture=sara }
+1408009 = {name ="Madjilom" culture=sara }
+1408010 = {name ="Koumtog" culture=sara }
+1408011 = {name ="Issembe" culture=sara }
+1408012 = {name ="Beadoumgar" culture=sara }
+1408013 = {name ="Tolabye" culture=sara }
+1408014 = {name ="Doumra" culture=sara }
+1408015 = {name ="N'Garmodji" culture=sara }
+1408016 = {name ="Pandasse" culture=sara }
+1408017 = {name ="Doumagoum" culture=sara }
+1408018 = {name ="Ndoumangar" culture=sara }
+1408019 = {name ="Yoadimnadji" culture=sara }
+
+1408020 = {name ="Ermanala" culture=sara }
+1408021 = {name ="Tadlele" culture=sara }
+1408022 = {name ="Ouaido" culture=sara }
+1408023 = {name ="Guelendouksia" culture=sara }
+
 1444000 = {name ="Ag Ghaly" culture=tuareg }
 1444001 = {name ="Ag Acherif" culture=tuareg }
 1444002 = {name ="Ikhia" culture=tuareg }
@@ -1894,6 +1920,68 @@
 1918018 = {name ="Hassaballah" culture=baggara }
 1918019 = {name ="Madbin" culture=baggara }
 1918020 = {name ="al-Himaydi" culture=baggara }
+
+1919000 = {name ="Al-Gheilani" culture=omani }
+1919001 = {name ="Al-Busaidi" culture=omani }
+1919002 = {name ="Al-Habsi" culture=omani }
+1919003 = {name ="Al-Shoon" culture=omani }
+1919004 = {name ="Al-Maskari" culture=omani }
+1919005 = {name ="Al-Khonji" culture=omani }
+1919006 = {name ="Mehmood" culture=omani }
+1919007 = {name ="Al-Akbary" culture=omani }
+1919008 = {name ="Al-Sharji" culture=omani }
+1919009 = {name ="Al-Siyabi" culture=omani }
+1919010 = {name ="Al-Hamhami" culture=omani }
+1919011 = {name ="Al-Zaabi" culture=omani }
+1919012 = {name ="Ilyas" culture=omani }
+1919013 = {name ="Khadye" culture=omani }
+1919014 = {name ="Al-Farsi" culture=omani }
+1919015 = {name ="Al-Mukhaini" culture=omani }
+1919016 = {name ="Al-Hooti" culture=omani }
+1919017 = {name ="Al-Owaisi" culture=omani }
+1919018 = {name ="Riaz" culture=omani }
+1919019 = {name ="Al-Sooli" culture=omani }
+1919020 = {name ="Al-Ruzaiqi" culture=omani }
+1919021 = {name ="Al-Balushi" culture=omani }
+1919022 = {name ="Al-Touqi" culture=omani }
+1919023 = {name ="Al-Kasbi" culture=omani }
+1919024 = {name ="Al-Ajmi" culture=omani }
+1919025 = {name ="Al-Yahmadi" culture=omani }
+1919026 = {name ="Hardan" culture=omani }
+1919027 = {name ="Al-Braiki" culture=omani }
+1919028 = {name ="Khamis" culture=omani }
+1919029 = {name ="Al-Saadi" culture=omani }
+1919030 = {name ="Al-Nahar" culture=omani }
+1919031 = {name ="Al-Mazroui" culture=omani }
+1919032 = {name ="Al-Ghassani" culture=omani }
+1919033 = {name ="Al-Nuaimi" culture=omani }
+1919034 = {name ="Al-Maghni" culture=omani }
+1919035 = {name ="Al-Dalhami" culture=omani }
+1919036 = {name ="Bohra" culture=omani }
+1919037 = {name ="Bahwan" culture=omani }
+1919038 = {name ="Al-Maiwali" culture=omani }
+1919039 = {name ="Al-Ghafiri" culture=omani }
+1919040 = {name ="Al-Sarmi" culture=omani }
+1919041 = {name ="Al-Barwani" culture=omani }
+1919042 = {name ="Al-Dhabit" culture=omani }
+1919043 = {name ="Al-Hadhri" culture=omani }
+1919044 = {name ="Al-Shanfari" culture=omani }
+1919045 = {name ="Al-Rajaibi" culture=omani }
+1919046 = {name ="Suri" culture=omani }
+1919047 = {name ="Al-Muqbali" culture=omani }
+1919048 = {name ="Al-Sinani" culture=omani }
+1919049 = {name ="Al-Lawati" culture=omani }
+1919050 = {name ="Al-Hilali" culture=omani }
+1919051 = {name ="Al-Sayabiyah" culture=omani }
+1919052 = {name ="Al-Isai" culture=omani }
+1919053 = {name ="Al-Wahaybi" culture=omani }
+1919054 = {name ="Al-Kharusi" culture=omani }
+1919055 = {name ="Al-Meqbali" culture=omani }
+1919056 = {name ="Alfazari" culture=omani }
+1919057 = {name ="Al-Hinai" culture=omani }
+1919058 = {name ="Al-Nabhani" culture=omani }
+1919059 = {name ="Al-Obaidani" culture=omani }
+1919060 = {name ="Al-Rumhi" culture=omani }
 
 
 2222000 = { name="Lubowski" culture=sudwester }

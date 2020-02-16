@@ -169,7 +169,32 @@ sahel = {
 		}
 		
 
+	}
+	sara = {
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
 		
-		founder_named_dynasties = yes
+		color = { 0.9 1 1.1 }
+		
+		male_names = {
+			Abdarahman_Abdul-Rahman Abdelkérim_Abdul-Karim
+			Banhoula Behoroum
+			Djelassem Djimra
+			Félix_Felix 
+			Jean_John Joseph 
+			Koibla
+			Mahamat_Mohammed Milarew Mogaye
+			Ndikenan Negue N'Garta
+			Pascal 
+			Rimdaga Ronelngar 
+
+			Gaourang Burkomanda Urada Loel Dalai Wanja Ngarmane Ngarmaba Malam Saboun 
+		}
+		female_names = {
+			Marie_Mary
+			Sarah
+		}
+		
+
 	}
 }

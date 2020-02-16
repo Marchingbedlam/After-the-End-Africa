@@ -61,7 +61,7 @@ arabic = {
 		
 		male_names = {
 			Abbas "Abbas Helmy" "Abdel Aziz"_Abdul-Aziz "Abdel Fattah"_Abdul-Fattah "Abdel Hakim"_Abdul-Hakim "Abdel Hamid"_Abdul-Hamid "Abdel Khalek" "Abdel Latif"_Abdul-Latif "Abdel Moneim"_Abdul-Munim "Abdel Rahman"_Abdul-Rahman "Abdel Zaher" Adly Ahmed "Ahmed Fuad" Aladdin Aly_Ali Amr Anwar Ashour Ashraf Atef Ayman Aybak Aziz Azzaddin
-			Baibars Baligh Barquq Bassem
+			Baibars Baligh Barquq Bassem_Basim
 			Daoud_David Diaaeddin
 			Emad Eslam_Islam Essam Ezzat "Ezzel Dine"
 			Fakhruddin Farag_Faraj Fareed_Farid Farouk_Faruk Fekry_Fakr Fuad
@@ -391,6 +391,56 @@ arabic = {
 
 		male_patronym = "Ben "
 		female_patronym = "Mint "
+		prefix = yes 
+		
+		founder_named_dynasties = yes
+	}
+	omani = {
+		graphical_cultures = { westafricangfx arabicgfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.3 0.9 0.3 }
+		
+		male_names = {
+			"Abdul Aziz"_Abdul-Aziz Abdullah "Abdullah Ali" "Abdul Latif"_Abdul-Latif "Abdul Rahman"_Abdul-Rahman Ahmad_Ahmed Alawi Ali "Ali Salim" Alkhattab Aqeel Asad Azzan
+			Bader_Badr Bandar Baqer_Bakr Barakat Barghash Basim Bilarab
+			Dadallah Darwish 
+			"Eid Mohammed"
+			Fahad Faiz Faraj Farhan Farid Fawzi Feisal_Faisal
+			Ghalib
+			Haitham Hamid Hamoud "Hamoud Abdullah" Handhal Hani Harib Hassan_Hasan Hilal Himyar Hisham Humaid Hussain_Hussein "Hussain Ali"
+			Ibrahim_Abraham Ismail_Ishmael Issam
+			Jaafar_Jafar Jaber_Jabir Jalal Jamshid
+			Khadoom Khalfan Khalid Khalifa
+			Madny Mahfoodh Majid Malek_Malik Maqsood Masoud_Masud Matar Moosa_Moses Mohammed "Mohammed Said" Mubarak Muheeb Muhsen Murshid Musallam Mustahil
+			Nadhir Naseem_Nasim Nasir_Nasr
+			Obaid_Ubayd Omar Othman_Uthman
+			Qaboos Qais
+			Raed Rahul Rashid
+			Said Saif Salim Sami Sanjoor Saud Sulaiman_Solomon Sufyan Suhail Sultan Suwailim
+			Taimur_Timur Talal Talib Tariq Thuwaini Turki
+			Waleed_Walid Wasfi Wasim
+			Yahya_John Yusuf_Joseph
+			Zaher_Zahir Zaid_Zayd
+		}
+		female_names = {	
+			Adla Aisha Anisa
+			Badriyya Boran
+			Fatima
+			Haifa Hakima Hamida Hareth Hunaina
+			Ghaliya Ghanneyeh 
+			Jokha
+			Khanfora Khawla
+			Madiha Matuka Mazoon Mishan
+			Nafla Nasra Nura
+			Rahila Rawya
+			Safiya Saida Salma Samira Sharifa Shawana Shinoona Sindiya Sughiya
+			Zuleika
+		}
+		
+
+		male_patronym = "bin "
+		female_patronym = "bint "
 		prefix = yes 
 		
 		founder_named_dynasties = yes
