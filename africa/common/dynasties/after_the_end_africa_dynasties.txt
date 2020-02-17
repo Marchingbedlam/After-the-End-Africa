@@ -382,7 +382,7 @@
 1401077 = {name ="Mattè" culture=manding }
 1401078 = {name ="Dibassy" culture=manding }
 1401079 = {name ="Seremé" culture=manding }
-1401080 = {name ="Konaré" culture=manding }
+1401080 = {name ="Deo" culture=manding }
 
 1405000 = {name ="Oumarou" culture=songhai }
 1405001 = {name ="Idé" culture=songhai }
@@ -466,7 +466,17 @@
 1406057 = {name ="Maigari" culture=fulbe }
 1406058 = {name ="Abouba" culture=fulbe }
 1406059 = {name ="Barry" culture=fulbe }
-1406060 = {name ="Chambas" culture=fulbe }
+1406060 = {name ="Shambas" culture=fulbe }
+1406061 = {name ="Wan" culture=fulbe }
+1406062 = {name ="Ulé" culture=fulbe }
+1406063 = {name ="Jeegi" culture=fulbe }
+1406064 = {name ="Garm" culture=fulbe }
+1406065 = {name ="Dundu" culture=fulbe }
+1406066 = {name ="Bohi" culture=fulbe }
+1406067 = {name ="Tabakali" culture=fulbe }
+1406068 = {name ="Lamu" culture=fulbe }
+1406069 = {name ="Kumba" culture=fulbe }
+1406070 = {name ="An" culture=fulbe }
 
 1407000 = {name ="Toloba" culture=dogon }
 1407001 = {name ="Guindo" culture=dogon }
@@ -581,6 +591,8 @@
 1444076 = {name ="Ag Tahib" culture=tuareg }
 1444077 = {name ="Ag Hita" culture=tuareg }
 1444078 = {name ="Ag Akawkaw" culture=tuareg }
+1444079 = {name ="Stanboulewa" culture=tuareg }
+1444080 = {name ="Ag Abba" culture=tuareg }
 
 1501000 = {name ="Jantuah" culture=asante }
 1501001 = {name ="Frefre" culture=asante }
@@ -1198,6 +1210,16 @@
 1866038 = {name ="Mutawakil" culture=dagomba }
 1866039 = {name ="Sadik" culture=dagomba }
 1866040 = {name ="Kareem" culture=dagomba }
+1866041 = {name ="Sabah" culture=dagomba }
+1866042 = {name ="Alolo" culture=dagomba }
+1866043 = {name ="Majeed" culture=dagomba }
+1866044 = {name ="Basha" culture=dagomba }
+1866045 = {name ="Soalih" culture=dagomba }
+1866046 = {name ="Tali" culture=dagomba }
+1866047 = {name ="Dikperu" culture=dagomba }
+1866048 = {name ="Gbong" culture=dagomba }
+1866049 = {name ="Amin" culture=dagomba }
+1866050 = {name ="Mugeez" culture=dagomba }
 
 1877000 = {name ="Ouédraogo" culture=mossi }
 1877001 = {name ="Bousma" culture=mossi }
@@ -1227,6 +1249,12 @@
 1877025 = {name ="Diendéré" culture=mossi }
 1877026 = {name ="Pacéré" culture=mossi }
 1877027 = {name ="Lompo" culture=mossi }
+1877028 = {name ="Afrifa" culture=mossi }
+1877029 = {name ="Moyoyo" culture=mossi }
+1877030 = {name ="Akoto" culture=mossi }
+1877031 = {name ="Totébaldbo" culture=mossi }
+1877032 = {name ="Yambasorgo" culture=mossi }
+1877033 = {name ="Tenganiama" culture=mossi }
 
 1888000 = {name ="Lartey" culture=ga }
 1888001 = {name ="Nortey" culture=ga }
@@ -1348,6 +1376,7 @@
 1895018 = {name ="Adandéjan" culture=fon }
 1895019 = {name ="Houngnikpo" culture=fon }
 1895020 = {name ="Ahouanmenou" culture=fon }
+1895021 = {name ="Ajahoutonon" culture=fon }
 
 1899000 = {name ="Gbeho" culture=ewe }
 1899001 = {name ="Baëta" culture=ewe }

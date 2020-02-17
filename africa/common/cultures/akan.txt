@@ -10,27 +10,32 @@ akan = {
 		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
-			Adofo Afuom Agyeman Ahenkro Akwasi Antwi Apraku Asiba
-			"Badu Bonsu" Bafuor Boakye Bonsu
-			Dako Dankwa 
-			Fredua Frefre
+			Abionakam Adofo Adwengo Afuom Agyeman Ahenkro Akwasi Ankoana Anto Antwi "Antwi Agyei" Apraku Asiba "Atakora Osafo" Atenka 
+			"Badu Bonsu" Bafuor Bediako Berko "Boadu Akofu" Boakye Bonsu
+			Dako Dankwa Donko
+			Ebo 
+			Fenuku Feyi Fredua Frefre
 			Gorkeh 
-			Kantanka Karikari Kofi "Kofi Nti" Koranteng Krobo Kusi "Kusi Obodom" Kwabena Kwadwo Kwaku "Kwaku Dua" Kwame Kwasi "Kwasi Boachi" "Kwesi Kwaa"
+			Kaakyire Kantanka Karikari Kaydabi Kofi "Kofi Agyei" "Kofi Dwomo" "Kofi Kyini" "Kofi Nantwi" "Kofi Nti" "Kofi Otuo" "Kofi Teawa" Konadu Koranteng Krobo Kusi "Kusi Obodom" Kwabena Kwadwo "Kwadwo Asera" "Kwadwo Mframa" "Kwadwo Okoto" Kwaku "Kwaku Afram" "Kwaku Daaku" "Kwaku Firi" "Kwaku Densu" "Kwaku Dua" "Kwaku Sono" Kwakye Kwame "Kwame Dwira" Kwasi "Kwasi Boachi" "Kwasi Bodua" "Kwasi Kwaa"
 			Mensa "Mensa Bonsu"
-			Obeng Obiri "Ofori Atta" Oheneba Okomfo Okwan Opanyin "Opoku Ware" Osei "Osei Bonsu" "Osei Kwadwo" "Osei Tutu" Owusu
+			Nhyira Nsonowa "Nso Nyame" "Ntim Gyakari" Nyambura Nyamekye
+			Obeng Obiri "Obiri Yeboah" "Ofori Atta" Ofosu Ogyam Oheneba Okomfo Okwan Okyere Opanyin "Opoku Fofie" "Opoku Tenten" "Opoku Ware" Osafo Osei "Osei Bonsu" "Osei Fofie" "Osei Kwadwo" "Osei Kwame" "Osei Tutu" "Osei Yaw" Otieku Owusu "Owusu Koko"
 			Prempeh Preprah 
-			"Sei Ababio"
-			Takyi Twum
-			Wusu 
-			"Yaw Akoto" Yeboah Yiakosan 
+			Saarabi "Sei Ababio" Sekyereh 
+			Takyi Tawiah Twum
+			"Warembe Ampen" Wusu 
+			"Yamoa Ponko" Yaw "Yaw Akoto" "Yaw Dumgya" "Yaw Preko" Yeboah Yiakosan 
 		}
 		
 		female_names = {
-			Abenaa Adwoa Afua "Afua Kobi" Akosua Akua Ama 
-			Dayan 
-			Kyirama
-			Sewaa
-			Yaa "Yaa Akyaa"
+			Abenaa "Abenaa Akyaa" "Abenaa Koo" "Abenaa Nimo" Abionakam Adiyia Adwoa "Adwoa Badwo" "Adwoa Kore" Afua "Afua Ataa" "Afua Baafi" "Afua Kobi" "Afua Nkoso" "Afua Ntoa" Akosua "Akosua Dampo" Akua "Akua Abagyina" "Akua Kokoo" "Akua Tia" Ama "Ama Adoma" Anto
+			Dayan Dedei
+			Fenuku Feyi
+			Kande Kumi Kunto Kwatia Kyirama
+			Nhyira Nkaatia Nsia Nyaako Nyambura
+			Poakwa
+			Saarabi Sewaa
+			Yaa "Yaa Akyaa" "Yaa Gare" 
 		}
 
 	}
@@ -41,38 +46,44 @@ akan = {
 		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
-			Abakrampa Alan Amonu Amfo-Oto Antony_Anthony Archibald Atta Augustus Awotwe
+			Abakrampa Adjei_Agyei Aidoo Akron Alan Amonu Amfo-Oto Andrew Antony_Anthony Archibald Arthur Atta Augustus Awotwe
 			Banks Barton Bekoe Bernard Bohhen
-			Ebassuah Ebenezer Ebo Edu Edwin Ekow Ekra-Agiman Emman Enoch Enum Essuman Esuon
+			Charles Crentsil
+			Daniel "Daniel Kyei" Dapaa 
+			Ebassuah Ebenezer Ebo Edu Edwin Ekow_Yaw Ekra-Agiman Emman Enoch Enum Essuman Esuon
+			Forson 
 			George Ghartey Godfred Gyearbuor 
 			Hendrick Horace
 			Isaac Ivan
-			Jabesh Jacob James "James Kwesi" John Jones Joseph 
-			Kodwo_Kwadwo Kofi Komfo-Amona Ko-Yanfu Kurt Kwamena "Kwaku Peter" "Kwaw Wilson" Kweku_Kwaku "Kweku Atta" Kwesi_Kwasi
+			Jabesh Jackson Jacob James "James Amanfo" "James Kwesi" "James Ofori" John Jones Joseph "Joseph Buronya" 
+			Kodwo_Kwadwo Kofi "Kofi Ofori" Komfo-Amona Ko-Yanfu Kurt Kwame Kwamena "Kwaku Peter" "Kwaw Wilson" Kweku_Kwaku "Kweku Atta" Kwesi_Kwasi
 			Linford Lovelace
-			Maanan Manfred Mensa
-			Odapagya Ottobah Owusu
-			Patrick Paul Peter 
-			Quaye Quobna_Kwabena
+			Maanan Manfred Martin Mensa
+			Odapagya "Ofori Amanfo" Osam Otchere_Okyere Ottobah Owusu
+			Patrick Paul Peter "Peter Bekoe" 
+			"Quarcoe Arthur" "Quarcoe Mensah" Quaye Quobna_Kwabena
 			Randall
-			Samuel Stephen Swain
-			Takyi Thomas
+			Samuel Stephen "Stephen Bosie" Swain
+			Takyi Thomas Timothy 
 			Welbeck Willem_William
+			Yankah
 			Zuarko
 		}
 		
 		female_names = {
-			Abadua Abena_Abenaa Adwoa Agnes Akosua Ama Amua-Afenyi Aquah_Akua Augusta
-			Baduwa
-			Effie Ekua Emile_Amelia Ewurama Ewuresi
-			Felicity Frances
+			Aba_Yaa Abadua Abena_Abenaa Adwoa Agnes Ahima Ajila Akosua Ama Amua-Afenyi Aquah_Akua Asetu Augusta Awotwe
+			Baduwa Beatrice
+			Effie Efua_Afua Ekua Emile_Amelia Ewurama Ewuresi
+			Faustina Felicity Florence Frances
 			Gladys Gloria Grace
 			Harriet Henrietta
 			Jewel Joyce
 			Kaakra
-			Margaret Marian May
+			Margaret Marian "Mary Buronya" May
 			Naana
-			Pearl Peggielene Piesi
+			Pearl Peggielene Piesi Priscilla 
+			Saarabi Serwa Sophia Susana
+			Theresa
 			Yahan Yvonne
 			Zanetor
 		}
@@ -85,7 +96,7 @@ akan = {
 		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
-			Abo Adje Adrien_Adrian Agpatou Aimé Albert Amédée_Amadeus Ange Arnaud Augustin 
+			Abo Adje_Agyei Adrien_Adrian Agpatou Aimé Albert Amédée_Amadeus Ange Arnaud Augustin 
 			Benjamin Bernard Bertin Bonaventure Boniface
 			César_Caesar Charles Clémence_Clement Cyraïque 
 			Désiré Dia Didier Dieudonné Diezou 
@@ -95,7 +106,7 @@ akan = {
 			Henri_Henry Hervé
 			Innocent Ismaël_Ishmael 
 			Jean_John Jeremie_Jeremy Joël_Joel Josué_Joshua
-			Kacou Kago Kévin_Kevin Koelly Koffi_Kofi Konan Kouadio Kouakou Kouamé_Kwame Kouassi Kragbé
+			Kacou Kago Kévin_Kevin Koelly Koffi_Kofi Konan Kouadio_Kwadwo Kouakou_Kwaku Kouamé_Kwame Kouassi_Kwasi Kragbé
 			Landry Laurent_Laurence Lazare_Lazarus Léonard_Leonard Loukou 
 			Martiale Mathurin Michel_Michael Moïse_Moses
 			Narcisse N'Cho N'Doli N'Goran N'Guessan Noël 
@@ -106,12 +117,10 @@ akan = {
 			Thierry Tuo 
 			Vencéslasse_Wenceslaus Verges
 			Yann Yao_Yaw Yoman Yves
-
-			Kouassi Kouassi Kouadio Kouadio Konan Konan Kouakou Kouakou Yao Yao Koffi Koffi Kouamé Kouamé
 		}
 		
 		female_names = {
-			Abla Adjoua Affoué Akissi Akwa Ahou Amenan Amoin Amlan Annick Aya
+			Abla Adjoua_Adwoa Affoué_Afua Akissi Akwa_Akua Ahou Amenan Amoin Amlan Annick Aya
 			Béatrice_Beatrice Bienvenue 
 			Claudine
 			D'Arc Débora_Deborah
@@ -130,8 +139,6 @@ akan = {
 			Sarah Simone Stéphanie_Stephanie Sylvie 
 			Victorine_Victoria
 			Yamousso 
-			
-			Akissi Akissi Adjoua Adjoua Amenan Amenan Ahou Ahou Aya Aya Affoué Affoué Amoin Amoin 
 		} 
 
 	}

@@ -50,8 +50,6 @@ arabic = {
 		male_patronym = "Ben "
 		female_patronym = "Mint "
 		prefix = yes 
-		
-		founder_named_dynasties = yes
 	}
 	masri = {
 		graphical_cultures = { berbergfx arabicgfx muslimgfx }
@@ -103,8 +101,6 @@ arabic = {
 		male_patronym = "ibn "
 		female_patronym = "bint "
 		prefix = yes 
-		
-		founder_named_dynasties = yes
 	}
 	mashriqi = {
 		graphical_cultures = { berbergfx arabicgfx muslimgfx }
@@ -179,8 +175,6 @@ arabic = {
 		male_patronym = "ibn "
 		female_patronym = "bint "
 		prefix = yes 
-		
-		founder_named_dynasties = yes
 	}
 	sudani = {
 		graphical_cultures = { berbergfx arabicgfx muslimgfx }
@@ -227,8 +221,6 @@ arabic = {
 		male_patronym = "ibn "
 		female_patronym = "bint "
 		prefix = yes 
-		
-		founder_named_dynasties = yes
 	}
 	sahrawi = {
 		graphical_cultures = { berbergfx arabicgfx muslimgfx }
@@ -271,8 +263,6 @@ arabic = {
 		male_patronym = "Ould "
 		female_patronym = "Bent "
 		prefix = yes 
-		
-		founder_named_dynasties = yes
 	}
 	haratin = {
 		graphical_cultures = { westafricangfx arabicgfx muslimgfx }
@@ -314,8 +304,6 @@ arabic = {
 		male_patronym = "Ould "
 		female_patronym = "Mint "
 		prefix = yes 
-		
-		founder_named_dynasties = yes
 	}
 	baggara = {
 		graphical_cultures = { westafricangfx arabicgfx muslimgfx }
@@ -344,8 +332,6 @@ arabic = {
 		male_patronym = "ibn "
 		female_patronym = "bint "
 		prefix = yes 
-		
-		founder_named_dynasties = yes
 	}
 	berber = {
 		graphical_cultures = { westafricangfx arabicgfx muslimgfx }
@@ -392,8 +378,6 @@ arabic = {
 		male_patronym = "Ben "
 		female_patronym = "Mint "
 		prefix = yes 
-		
-		founder_named_dynasties = yes
 	}
 	omani = {
 		graphical_cultures = { westafricangfx arabicgfx muslimgfx }
@@ -442,7 +426,5 @@ arabic = {
 		male_patronym = "bin "
 		female_patronym = "bint "
 		prefix = yes 
-		
-		founder_named_dynasties = yes
 	}
 }

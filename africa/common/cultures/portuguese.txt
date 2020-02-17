@@ -9,15 +9,43 @@ portuguese = {
 		color = { 0.75 0.67 0.07 }
 
 		male_names = {
-			Afonso_Alphonse Aires Álvaro_Oliver Bermudo_Vermudo Diogo_Diaco Egas Estêvão_Stephen Fernão_Ferdinand Fernando_Ferdinand Garcia_Garcia
-			Gil_Egidius Gomes_Gomez Gonçalo_Gonzalo Guterre_Walter Henrique_Henry Hermígio João_John Lopo_Lupo Lourenço_Laurence Martim_Martin
-			Mem_Mendo Mendo_Mendo Monio_Munio Muno_Munio Nuno_Nuno Paio_Pelagius Pedro_Peter Pero_Peter Pôncio_Pons Rodrigo_Roderick Rui_Roderick
-			Sancho_Sancho Soeiro_Suero Raimundo_Raymond Vasco_Vasco Vicente_Vincent 
+			Adriano_Adrian Afonso_Alphonse Alberto_Albert Alexandre_Alexander Alfredo_Albert Álvaro_Oliver Américo André_Andrew António_Anthony Aquilino Armando Artur_Arthur
+			Belmiro Bermudo_Vermudo Bruno
+			Camilo_Camille Carlos_Carl Cristiano_Christian
+			Damião_Damian Daniel Dinis Diogo_Diego Domingos_Dominick Duarte
+			Eduardo_Edward Estêvão_Stephen 
+			Fábio_Fabius Fernando_Ferdinand Filipe_Philip Fradique Francisco_Francis
+			Gil_Egidius Gonçalo_Gonzalo Guilherme_William Guterre_Walter 
+			Henrique_Henry Hermígio 
+			Jerónimo_Jeronimo João_John Joaquim_Joachim Jorge_George José_Joseph
+			Leandro_Leander Lourenço_Laurence Luís_Louis
+			Manuel_Emmanuel Marcelo_Marcel Mário_Marius Martim_Martin Miguel_Michael
+			Nicolau_Nicholas Nuno
+			Octávio_Octavius Orlando
+			Paio_Pelagius Paulo_Paul Pedro_Peter Pôncio_Pons 
+			Rafael_Raphael Raimundo_Raymond Raul Ricardo_Richard Rui_Roderick
+			Salvador Sancho_Sancho Sebastião_Sebastian Sérgio_Sergius Simão_Simon Soero_Suario 
+			Tiago_Jacob
+			Vasco_Vasco Vergílio_Virgil Vicente_Vincent Vítor_Victor
+			Xavier
 		}
 		female_names = {
-			Aldara_Alduara Aldonça_Aldonza Beatriz_Beatrice Berengária_Berengaria Branca_Blanche Constança_Constance Dórdia Elvira_Elvira Estevainha_Stephania Fruilhe_Fronilde
-			Gontinha Gontroda_Gotruda Guiomar Inês_Agnes Joana_Joan Leonor_Eleanor Mafalda_Matilda Margarida_Margaret Maria_Maria Marinha_Marine
-			Mor_Mayor Ouroana Sancha_Sancha Teresa_Teresa Urraca_Urraca
+			Adelina_Adeline Alda Aldonça_Aldonza Ana_Anne
+			Beatriz_Beatrice Berengária_Berengaria
+			Cláudia_Claudia Constança_Constance Cristina_Christine
+			Daniela Débora_Deborah Diana Dórdia 
+			Elvira_Elvira Estevainha_Stephania 
+			Filipa_Philipa Fruilhe_Fronilde
+			Gontinha Gontroda_Gotruda Guiomar 
+			Helena_Helen
+			Inês_Agnes Isabel_Isabelle
+			Joana_Joan 
+			Leonor_Eleanor 
+			Mafalda_Matilda Manuela Margarida_Margaret Maria_Maria Mariana Marinha_Marine Matilde_Matilda Mónica_Monica
+			Ouroana 
+			Sancha_Sancha Sara_Sarah Susana
+			Teresa_Theresa 
+			Vera
 		}
 		from_dynasty_prefix = "de "
 		male_patronym = "es"
@@ -60,7 +88,6 @@ portuguese = {
 			Teodósio_Theodosius Theodorico_Theodoric Tito_Titus
 			Ulisses_Ulysses Uriel
 			Vasco Vicente_Vincent Viriato
-			Wahnon Wuilito
 			Xavier
 		}
 		
@@ -134,6 +161,7 @@ portuguese = {
 			Talata Tijane
 			Umaro_Omar
 			Vasco Veríssimo Vlamecir Venceslau_Wenceslaus
+			Wahnon Wuilito
 			Yalany Yaya_John
 			Zamora Zeferino_Zephyrin
 		}

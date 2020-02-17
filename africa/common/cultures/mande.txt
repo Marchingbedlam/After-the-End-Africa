@@ -21,10 +21,17 @@ mande = {
 			Tunka
 		}
 		female_names = {
-			Aminata
+			Aminata Aoua
+			Bintou
+			Djeneba Djenly Djiré
+			Halima
+			Mariam_Mary
+			Nafissa Nyako
+			Safiatou_Safia Sogolon
+			Tabara
+			Youma
+			Zeïnab_Zaynab
 		}
-		
-		founder_named_dynasties = yes
 	}
 	susu = {
 		graphical_cultures = { westafricangfx africangfx }
@@ -48,10 +55,13 @@ mande = {
 		}
 		female_names = {
 			Aminata
-			Binta
+			Binta_Bintou
+			Halima Hawa
+			Mariam_Mary
+			Sogolon
+			Youma
+			Zeinab_Zaynab
 		}
-		
-		founder_named_dynasties = yes
 	}
 	manding = {
 		graphical_cultures = { westafricangfx africangfx }
@@ -71,12 +81,13 @@ mande = {
 			Ibrahim_Abraham Idrissa Ismaïla_Ishmael
 			Kabiné Kafougouna Kalabi Kaladian Kassa Kélétigui
 			Lafiya Lahilatoul Lamine Lassana
-			Maghan Malick_Malik Mamadou_Mohammed Mamari Mansong Mari-Djata Moctar_Mukhtar Modibo Mory Mountaga Moussa_Moses Moustapha_Mustafa
+			Maghan Malick_Malik Mamadou_Mohammed Mamari Mansong Mari-Djata Moctar_Mukhtar Modibo Mory Moulé_Mulay Mountaga Moussa_Moses Moustapha_Mustafa
 			Nfamara Ngolo Nianta 
 			Ouli_Wali Ouati Ouezzin Oumar_Omar Ousmane_Osman
 			Sadio Saifou Saikou Sakoura Sambou Samory Sandaki Sékou Sekouba Sérébandjougou Sidiki_Siddiq Sidi-Yaya Souleymane_Solomon Soumaïla Soumana Soundiata Soungalo
 			Téréba Tiéfing Tiemoko Toumani
 			Yaya_John Yoro Younoussi_Jonah Youssouf_Joseph
+			Zenka
 		}
 		female_names = {
 			Aïda Aissata Aminata Aoua
@@ -89,13 +100,12 @@ mande = {
 			Macoucou Madina Maimouna Mariam_Mary
 			Nakounte Nassira
 			Oumou
+			Pogouagba
 			Ramata Rokia
-			Samake Sangaré Sassouma Sirantou
+			Samake Sangaré Sassouma Sirantou Sogolon
 			Touty
 			Youma
 		}
-		
-		founder_named_dynasties = yes
 	}
 	kpelle = {
 		graphical_cultures = { westafricangfx africangfx }
@@ -144,8 +154,6 @@ mande = {
 			Yan-Gah 
 			Zoe
 		}
-		
-		founder_named_dynasties = yes
 	}
 	mende = {
 		graphical_cultures = { westafricangfx africangfx }
@@ -187,8 +195,6 @@ mande = {
 			Wayetu
 			Yema Yoko
 		}
-		
-		founder_named_dynasties = yes
 	}
 	songhai = {
 		graphical_cultures = { westafricangfx africangfx }
@@ -197,16 +203,16 @@ mande = {
 		color = { 0.9 0.7 0.6 }
 		
 		male_names = {
-			Abdoul-Aziz_Abdul-Aziz Abi-Bakr_Abu-Bakr Adamou_Adam Akoi Alayaman Ali_Ali Ali-Bér Ali-Fay Ali-Kolon Ali-Zalil Amirou_Amir Ammar Aouta Arlun Attikou
-			Badä Bakr Bakr-Kanbu Bamari Bankanu_Benkan Bannu Bassarou Bassi Birama Bisi Biyu Borgo 
+			Abdoul-Aziz_Abdul-Aziz Abi-Bakr_Abu-Bakr Adamou_Adam Akoi Alayaman Ali_Ali Ali-Bér Ali-Fay Ali-Kolon Ali-Zalil Al-Mansur Amirou_Amir Ammar Aouta Arlun Attikou
+			Badä Bakr Bakr-Kanbu Bakr-Zanku Bamari Bankanu_Benkan Bannu Bassarou Bassarou-Missi Bassi Birahim_Abraham Birama Bisi Biyu Borgo 
 			Dankaran Daoud_David Demba Düru
 			Faga-Layé Falké Fari-Mondzo Fatta Fodi_Foday Fuluku Fädazu 
 			Gane Gao Gounabi
-			Hamani Hamidou_Hamid Hargani Harun_Aaron 
+			Hamani Hamidou_Hamid Hammadi Hanga Hargani Harun_Aaron 
 			Igoumou Ishaq_Isaac Ismail_Ishmael Issoufou
-			Kabayo Kader Kalabi Kambiné Kanafa Karbachi Kassaly Kaya Kayna Kinkin Kisha Kodama Koïzé Kossom Kukuray Kusoy Kyantou
+			Kabayo Kader Kalabi Kambiné Kanafa Karbachi Karbifo Kassaly Kaya Kayna Kinkin Kisha Kodama Koïzé Koïzé-Baba Kossom Kukuray Kusoy Kyantou
 			Laouzo
-			Maammarou Mahmud_Mahmud Maidanda Majan Malla Mar-Arkana Mari-Djata Maÿroumfa Missi-Izé Morobani Moumouni Muhammad_Mohammed Musa_Moses
+			Maammarou Mahmud_Mahmud Maidanda Majan Malla Mar-Arandan Mar-Arkana Mari-Djata Mar-Fai Mar-Kiray Maÿroumfa Missi-Izé Morobani Moumouni Muhammad_Mohammed Musa_Moses
 			Niandou Nintasanay Nuh 
 			Ouankoÿ Ouati 
 			Reidja 
@@ -217,16 +223,17 @@ mande = {
 			Zakari_Zachary Zakoi Zenku
 		}
 		female_names = {
-			Aïchatou_Aisha Aminami Aminata
+			Aïchatou_Aisha Aminami Aminata Amna
 			Bouli
 			Hadiza Haoua_Hawa
-			Lalla
-			Malika Mariama_Mary Mintou
-			Rakiatou
+			Ibtisam Isra
+			Karima
+			Lalla Latifa Layla
+			Maha Malika Mariama_Mary Mintou Mounia_Munia
+			Nadia
+			Rahat Rakiatou Ranya
 			Safia
 			Zara_Zahra
 		}
-		
-		founder_named_dynasties = yes
 	}
 }

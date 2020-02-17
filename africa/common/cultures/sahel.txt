@@ -9,44 +9,47 @@ sahel = {
 		color = { 0.9 1 0.8 }
 		
 		male_names = {
-			Abbas "Abder Rahman"_Abdul-Rahman "Abdul Bokar" Abdulkadir Abdullahi_Abdullah "Abdullahi Barau" Abubakar_Abu-Bakr Adamu_Adam Addafini "Ado Bayero" Ahmadu_Ahmed "Ahmadu Atiku" "Ahmadu Rufai" Aliyu_Ali Aliyu-Babba Amiru_Amir Atiku Ayuba_Job
-			Banja Barau Bashar_Bashir
+			Abbas "Abdallahi Yanka" "Abder Rahman"_Abdul-Rahman "Abdul Bokar" Abdulkadir Abdullahi_Abdullah "Abdullahi Barau" "Abdu Tukudu" Abubakar_Abu-Bakr "Abu Bakar Atiqu" Adamu_Adam Addafini "Ado Bayero" Ahmadu_Ahmed "Ahmadu Atiku" "Ahmadu Rufai" Aliyu_Ali Aliyu-Babba_Ali-Baba "Aliyu Karami" Amiru_Amir Atiku Ayuba_Job
+			"Bakon Dare" Banja Barau Bashar_Bashir Belarabe_Bilarab Biran
 			Cellou
 			Dasuki Dawuda_David Diakho Doundou
 			Faruk Fodio_Foday
 			Gidado "Gwari Abdu"
 			Haliru "Hamman Ruwa" Hammata Hasan Hussaini_Hussein
-			Ibrahim_Abraham "Ibrahim Dasuki" "Ibrahim Sulu" Iisa_Jesus Inuwa Ishaku_Isaac
+			Ibrahim_Abraham "Ibrahim Dabu" "Ibrahim Dasuki" "Ibrahim Sulu" Iisa_Jesus Inuwa Ishaku_Isaac
 			Jafar Jubril_Gabriel Junaidu
-			"Kabir Umar" Karami Karamokho Khalilu_Khalil Kwairanga
+			"Kabir Umar" Karami Karamokho Kasso Khalilu_Khalil Konko Kwairanga
 			Lawan Lukudi
-			Mayaki Mallam "Mallam Ishaku" "Mallam Musa" "Mallam Zaki" Modibo Muhammadu_Mohammed "Muhammadu Attahiru" "Muhammadu Bello" "Muhammadu Dikko" "Muhammadu Maccido" "Muhammadu Maiturare" "Muhammadu Sanusi" "Muhammadu Tambari" Muhamman Mu'azu Murtala Musa_Moses Musdafa_Mustafa
-			Nassourou Na'uka Njidda Nuhu_Nuh
+			Mayaki Mallam "Mallam Ishaku" "Mallam Musa" "Mallam Zaki" "Maynassara Maji" Modibo "Modibo Adama" Muhammadu_Mohammed "Muhammadu Attahiru" "Muhammadu Bello" "Muhammadu Dikko" "Muhammadu Maccido" "Muhammadu Maiturare" "Muhammadu Sanusi" "Muhammadu Tambari" "Muhammadu Tukur" Muhamman Mu'azu "Mu'azu Ahmadu" Murtala Musa_Moses Musdafa_Mustafa
+			Nassourou Na'uka Njal Njidda Nuhu_Nuh
 			"Qadir Zaylani"
-			Rilwanu Rufai
-			Sa'adu_Said Saifulayi Sandu Shehu Siddiq Sulaymanu_Solomon Subande Sulu
+			Rilwanu_Rilwan Rufai
+			Sa'adu_Said Saifulayi Sandu Shehu Shu'aybu_Shuayb Siddiq Sulaymanu_Solomon Subande Sulu
 			Tamsir Tenguella Tidiani Tierno Tukur
-			Umaru_Omar Usman_Osman "Usman Bokari" "Usman Shehu"
-			Yacine Yamuza Yaqubu_Jacob Yaro
-			Zangi
+			Umaru_Omar Usman_Osman "Usman Bokari" "Usman Shehu" "Usman Yero" 
+			Yacine_Yassin Yamuza Yaqubu_Jacob Yaro Yusufu_Joseph
+			Zangi Zubayru_Zubayr
 		}
 		female_names = {
 			Aisha Amina Asma'u
+			Endana
 			Fatumata_Fatima
-			Hawa
+			Gaisiri Gauhar
+			Hadiza Hawa
 			Isatu
-			Khadi
-			Mariama_Mary
+			Kenja Khadi Kirima
+			Maimuna Mariama_Mary
+			Nyako
+			Rawiya
 			Samira
+			Tabara
 			Umu_Umm
 		}
 		
 
 		male_patronym = "dan "
-		female_patronym = "bin "
+		female_patronym = "bint "
 		prefix = yes 
-		
-		founder_named_dynasties = yes
 	}
 	dogon = {
 		graphical_cultures = { westafricangfx africangfx }
@@ -63,7 +66,7 @@ sahel = {
 			Ibrahim_Abraham
 			Mamadou_Mohammed Moulaye_Mulay Moustapha_Mustafa
 			Ogotemeli
-			Sedou Suleymane_Solomon
+			Sedou_Seydou Suleymane_Solomon
 			Yambo Youssouf_Joseph
 		}
 		female_names = {
@@ -71,10 +74,6 @@ sahel = {
 			Madina Mariam_Mary
 			Nassira
 		}
-		
-
-		
-		founder_named_dynasties = yes
 	}
 	tuareg = {
 		graphical_cultures = { berbergfx arabicgfx muslimgfx }
@@ -83,7 +82,7 @@ sahel = {
 		color = { 0.9 0.8 0 }
 		
 		male_names = {
-			Abdallah_Abdullah Acharif Aghaly Ahmoudou_Ahmed Akhamuk Aklou Alghabass Alhassane_Alhassan Amellal Amoumene Assalat Attici Aytarel
+			Abdallah_Abdullah Acharif Aghaly Ahmoudou_Ahmed Akhamuk Akil Aklou Alghabass Alhassane_Alhassan Amellal Amoumene Assalat Attici Aytarel
 			Baye Bilal Boutali Brigi
 			Chehna Cheick_Sheikh
 			Eyadou
@@ -110,8 +109,6 @@ sahel = {
 			Wonou
 			Zemfira
 		}
-		
-		founder_named_dynasties = yes
 
 		male_patronym = "Ag "
 		female_patronym = "Walet "
@@ -141,10 +138,6 @@ sahel = {
 			Makka
 			Sumah
 		}
-		
-
-		
-		founder_named_dynasties = yes
 	}
 	toubou = {
 		graphical_cultures = { westafricangfx africangfx }
@@ -167,8 +160,6 @@ sahel = {
 			Karima
 			Mariam_Mary
 		}
-		
-
 	}
 	sara = {
 		graphical_cultures = { westafricangfx africangfx }
@@ -194,7 +185,5 @@ sahel = {
 			Marie_Mary
 			Sarah
 		}
-		
-
 	}
 }
