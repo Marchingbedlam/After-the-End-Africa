@@ -441,25 +441,635 @@
 	1950.1.1={birth=yes}
 	2030.1.1={death=yes}
 }
-
-1500090={
-	name="Kwame Okomfo" #Kwame Okomfo I, current king
-	dynasty=1501142 #placeholder dynasty
+1500034={
+	name="Konadu Yiadom" #sister of Osei Tutu II
+	dynasty=1501143
 	culture=asante
 	religion=anglican
-	father=1500202
+	mother=1500030
+	female=yes
+
+	trait=legendary
+	trait=occluded
+	
+	1955.1.1={birth=yes}
+	2030.1.1={death=yes}
+}
+1500035={
+	name="Mensa Bonsu" #Mensa Bonsu II
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500034
+
+	trait=legendary
+	trait=occluded
+	
+	1984.1.1={birth=yes}
+	2050.1.1={death=yes}
+}
+1500036={
+	name="Afua Baafi" 
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500034
+	female=yes
+
+	trait=legendary
+	trait=occluded
+	
+	1986.1.1={birth=yes}
+	2050.1.1={death=yes}
+}
+1500037={
+	name="Ofori Atta" #Ofori Atta I
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500036
+
+	trait=legendary
+	trait=occluded
+	
+	2012.1.1={birth=yes}
+	2070.1.1={death=yes}
+}
+1500038={
+	name="Yaa Gare" 
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500036
+	female=yes
+
+	trait=legendary
+	trait=occluded
+	
+	2015.1.1={birth=yes}
+	2080.1.1={death=yes}
+}
+1500039={
+	name="Kwaku Daaku" #Kwaku Daaku I
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500038
+
+	trait=legendary
+	trait=occluded
+	
+	2040.1.1={birth=yes}
+	2105.1.1={death=yes}
+}
+1500040={
+	name="Yaa Akyaa" 
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500038
+	female=yes
+
+	trait=legendary
+	trait=occluded
+	
+	2048.1.1={birth=yes}
+	2121.1.1={death=yes}
+}
+1500041={
+	name="Kwaku Dua" #Kwaku Dua III
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500040
+
+	trait=legendary
+	trait=occluded
+	
+	2070.1.1={birth=yes}
+	2130.1.1={death=yes}
+}
+1500042={
+	name="Nhyira" 
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500040
+	female=yes
+
+	trait=legendary
+	trait=occluded
+	
+	2075.1.1={birth=yes}
+	2150.1.1={death=yes}
+}
+1500043={
+	name="Warembe Ampen" #Warembe Ampen I
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500042
+
+	trait=legendary
+	trait=occluded
+	
+	2100.1.1={birth=yes}
+	2169.1.1={death=yes}
+}
+1500044={
+	name="Ama Adoma" 
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500042
+	female=yes
+
+	trait=legendary
+	trait=occluded
+	
+	2095.1.1={birth=yes}
+	2170.1.1={death=yes}
+}
+1500045={
+	name="Opoku Ware" #Opoku Ware III
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500044
+
+	trait=legendary
+	trait=occluded
+	
+	2121.1.1={birth=yes}
+	2190.1.1={death=yes}
+}
+1500046={
+	name="Saarabi" 
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500044
+	female=yes
+
+	trait=legendary
+	trait=occluded
+	
+	2125.1.1={birth=yes}
+	2195.1.1={death=yes}
+}
+1500047={
+	name="Kwabena Anin" #Kwabena Anin I
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500046
+
+	trait=legendary
+	trait=occluded
+	
+	2158.1.1={birth=yes}
+	2222.1.1={death=yes}
+}
+1500048={
+	name="Abionakam" 
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500046
+	female=yes
+
+	trait=legendary
+	trait=occluded
+	
+	2155.1.1={birth=yes}
+	2230.1.1={death=yes}
+}
+1500049={
+	name="Mensa Asare" #Mensa Asare I
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500048
+
+	trait=legendary
+	trait=occluded
+	
+	2180.1.1={birth=yes}
+	2240.1.1={death=yes}
+}
+1500050={
+	name="Dayan" 
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500048
+	female=yes
+
+	trait=legendary
+	trait=occluded
+	
+	2182.1.1={birth=yes}
+	2249.1.1={death=yes}
+}
+1500051={
+	name="Prempeh" #Prempeh III
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500050
+
+	trait=legendary
+	trait=occluded
+	
+	2212.1.1={birth=yes}
+	2260.1.1={death=yes}
+}
+1500052={
+	name="Afua Ataa" 
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500050
+	female=yes
+
+	trait=legendary
+	trait=occluded
+	
+	2208.1.1={birth=yes}
+	2288.1.1={death=yes}
+}
+1500053={
+	name="Kwaku Kwakye" #Kwaku Kwakye I
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500052
+
+	trait=legendary
+	trait=occluded
+	
+	2228.1.1={birth=yes}
+	2280.1.1={death=yes}
+}
+1500054={
+	name="Akua Abagyina" 
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500052
+	female=yes
+
+	trait=legendary
+	trait=occluded
+	
+	2230.1.1={birth=yes}
+	2288.1.1={death=yes}
+}
+1500055={
+	name="Prempeh" #Prempeh IV
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500054
+	
+	2246.1.1={birth=yes}
+	2289.1.1={death=yes}
+}
+1500056={
+	name="Nyambura" 
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500054
+	female=yes
+	
+	2250.1.1={birth=yes}
+	2333.1.1={death=yes}
+}
+1500057={
+	name="Osei Tutu" #Osei Tutu III
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500056
+	
+	2270.1.1={birth=yes}
+	2297.1.1={death=yes}
+}
+1500058={
+	name="Mensa Otutu" #Mensa Otutu I
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500056
+	
+	2276.1.1={birth=yes}
+	2314.1.1={death=yes}
+}
+1500059={
+	name="Akosua Dampo" 
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500056
+	female=yes
+	
+	2273.1.1={birth=yes}
+	2340.1.1={death=yes}
+}
+1500060={
+	name="Mensa Bonsu" #Mensa Bonsu III
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500059
+	
+	2288.1.1={birth=yes}
+	2330.1.1={death=yes}
+}
+1500061={
+	name="Adwoa Kore" 
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500059
+	female=yes
+	
+	2286.1.1={birth=yes}
+	2350.1.1={death=yes}
+}
+1500062={
+	name="Kofi Dwomo" #Kofi Dwomo I
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500061
+
+	
+	2304.1.1={birth=yes}
+	2350.1.1={death=yes}
+}
+1500063={
+	name="Abenaa Nimo" 
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500061
+	female=yes
+	
+	2308.1.1={birth=yes}
+	2375.1.1={death=yes}
+}
+1500064={
+	name="Kwasi Fofie" #Kwasi Fofie I
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500063
+
+	
+	2320.1.1={birth=yes}
+	2380.1.1={death=yes}
+}
+1500065={
+	name="Poakwa" 
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500063
+	female=yes
+	
+	2323.1.1={birth=yes}
+	2390.1.1={death=yes}
+}
+1500066={
+	name="Kwaku Sono" #Kwaku Sono I
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500065
+
+	
+	2355.1.1={birth=yes}
+	2400.1.1={death=yes}
+}
+1500067={
+	name="Afua Kobi" 
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500065
+	female=yes
+	
+	2350.1.1={birth=yes}
+	2410.1.1={death=yes}
+}
+1500068={
+	name="Kofi Dwomo" #Kofi Dwomo II
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500067
+	
+	2375.1.1={birth=yes}
+	2434.1.1={death=yes}
+}
+1500069={
+	name="Akua Afriyie" 
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500067
+	female=yes
+	
+	2380.1.1={birth=yes}
+	2440.1.1={death=yes}
+}
+1500070={
+	name="Okogyeasuo" #Okogyeasuo I
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500069
+	
+	2398.1.1={birth=yes}
+	2450.1.1={death=yes}
+}
+1500071={
+	name="Adwoa Badwo" 
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500069
+	female=yes
+	
+	2400.1.1={birth=yes}
+	2470.1.1={death=yes}
+}
+1500072={
+	name="Yaw Dumgya" #Yaw Dumgya I
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500071
+	
+	2421.1.1={birth=yes}
+	2482.1.1={death=yes}
+}
+1500073={
+	name="Nsia" 
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500071
+	female=yes
+	
+	2424.1.1={birth=yes}
+	2490.1.1={death=yes}
+}
+1500074={
+	name="Kwaku Anokye" #Kwaku Anokye I
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500073
+	
+	2444.1.1={birth=yes}
+	2495.1.1={death=yes}
+}
+1500075={
+	name="Kyirama" 
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500073
+	female=yes
+	
+	2450.1.1={birth=yes}
+	2520.1.1={death=yes}
+}
+1500076={
+	name="Osei Asuman" #Osei Asuman I
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500075
+	
+	2480.1.1={birth=yes}
+	2515.1.1={death=yes}
+}
+1500077={
+	name="Afua Nkoso" 
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500075
+	female=yes
+	
+	2484.1.1={birth=yes}
+	2550.1.1={death=yes}
+}
+1500078={
+	name="Osei Tutu" #Osei Tutu IV
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500077
+
+	trait=twin
+	
+	2505.1.1={birth=yes}
+	2530.1.1={death=yes}
+}
+1500079={
+	name="Afua Ataa" 
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500077
+	female=yes
+
+	trait=twin
+	
+	2505.1.1={birth=yes}
+	2560.1.1={death=yes}
+}
+1500080={
+	name="Obeng Gyadu" #Obeng Gyadu I
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500079
+
+	trait=skilled_tactician
+	trait=strong
+	trait=quick
+	trait=just
+	trait=brave
+	trait=diligent
+	trait=proud
+	trait=honest
+	trait=cynical
+	
+	2528.1.1={birth=yes}
+	2606.1.1={death=yes}
+}
+1500081={
+	name="Kwabena Anin" #Kwabena Anin II
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	father=1500080
+
+	trait=fortune_builder
+	trait=greedy
+	trait=arbitrary
+	trait=lustful
+	trait=cruel
+	trait=slothful
+	trait=frail
+	trait=erudite
+	trait=poet
+	
+	2550.1.1={birth=yes}
+	2655.1.1={death=yes}
+}
+1500082={
+	name="Sewaa Dedei" 
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	father=1500081
+	female=yes
+
+	trait=quick
+	trait=ambitious
+	trait=arbitrary
+	trait=envious
+	trait=charismatic_negotiator
+	
+	2600.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1500090={
+	name="Kwame Ofosu" #Kwame Ofosu I, current king
+	dynasty=1501143
+	culture=asante
+	religion=anglican
+	mother=1500082
 
 	trait=hunter
 	trait=wroth
 	trait=arbitrary
 	trait=robust
+	trait=tough_soldier
 	
 	2628.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
 1500091={
 	name="Osei Tutu" #current Prince
-	dynasty=1501142 #placeholder dynasty
+	dynasty=1501143
 	culture=asante
 	religion=anglican
 	father=1500090
