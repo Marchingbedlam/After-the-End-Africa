@@ -105,6 +105,17 @@ technology = {
 		d_wouri
 		d_zanzan
 		d_zinder
+		d_khomas
+		d_hardap
+		d_karas
+		d_otjozondjupa
+		d_etosha
+		d_kunene
+		d_kavango
+		d_timbuktu
+		d_air
+		d_adrar
+		d_kanem
 	}
 
 	769 = {
