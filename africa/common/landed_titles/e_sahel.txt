@@ -16,12 +16,6 @@ e_sahel = {
 			color={ 143 97 43 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 49 province_id = 50 province_id = 51 province_id = 52 } }
-				}
-			}
 			capital = 49 # c_oio
 			
 			c_oio = { # 49
@@ -77,12 +71,6 @@ e_sahel = {
 			color={ 176 129 71 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 53 province_id = 54 } }
-				}
-			}
 			capital = 53 # c_bafata
 			
 			c_bafata = { # 53
@@ -114,12 +102,6 @@ e_sahel = {
 			color={ 135 109 34 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 55 province_id = 56 province_id = 57 } }
-				}
-			}
 			capital = 55 # c_sedhiou
 			
 			c_sedhiou = { # 55
@@ -163,12 +145,6 @@ e_sahel = {
 			color={ 132 112 33 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 64 province_id = 65 province_id = 66 province_id = 67 } }
-				}
-			}
 			capital = 64 # c_koungheul
 			
 			c_koungheul = { # 64
@@ -228,12 +204,6 @@ e_sahel = {
 			color={ 117 97 49 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 68 province_id = 69 province_id = 70 province_id = 71 } }
-				}
-			}
 			capital = 68 # c_kebemer
 			
 			c_kebemer = { # 68
@@ -292,12 +262,6 @@ e_sahel = {
 			color={ 145 125 48 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 72 province_id = 73 province_id = 74 province_id = 75 } }
-				}
-			}
 			capital = 72 # c_kanel
 			
 			c_kanel = { # 72
@@ -353,12 +317,6 @@ e_sahel = {
 			color={ 117 97 52 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 58 province_id = 59 province_id = 60 } }
-				}
-			}
 			capital = 58 # c_kedougou
 			
 			c_kedougou = { # 58
@@ -402,12 +360,6 @@ e_sahel = {
 			color={ 91 71 26 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 61 province_id = 62 province_id = 63 } }
-				}
-			}
 			capital = 61 # c_thies
 			
 			c_thies = { # 61
@@ -459,12 +411,6 @@ e_sahel = {
 			color={ 148 109 65 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 76 province_id = 77 province_id = 78 province_id = 79 } }
-				}
-			}
 			capital = 76 # c_kita
 			
 			c_kita = { # 76
@@ -504,12 +450,6 @@ e_sahel = {
 			color={ 121 84 47 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 83 province_id = 84 province_id = 85 } }
-				}
-			}
 			capital = 83 # c_bamako
 			
 			c_bamako = { # 83
@@ -541,12 +481,6 @@ e_sahel = {
 			color={ 134 96 51 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 80 province_id = 81 province_id = 82 } }
-				}
-			}
 			capital = 80 # c_nara
 			
 			c_nara = { # 80
@@ -578,12 +512,6 @@ e_sahel = {
 			color={ 153 114 68 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 89 province_id = 90 province_id = 91 province_id = 143 } }
-				}
-			}
 			capital = 89 # c_segou
 			
 			c_segou = { # 89
@@ -623,12 +551,6 @@ e_sahel = {
 			color={ 161 126 92 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 86 province_id = 87 province_id = 88 } }
-				}
-			}
 			capital = 86 # c_koutiala
 			
 			c_koutiala = { # 86
@@ -660,12 +582,6 @@ e_sahel = {
 			color={ 166 145 74 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 92 province_id = 93 province_id = 94 province_id = 95 province_id = 96 province_id = 97 } }
-				}
-			}
 			capital = 92 # c_timbuktu
 			
 			c_timbuktu = { # 92
@@ -721,12 +637,6 @@ e_sahel = {
 			color={ 160 14 70 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 186 province_id = 187 } }
-				}
-			}
 			capital = 186 # c_kidal
 			
 			c_kidal = { # 186
@@ -797,12 +707,6 @@ e_sahel = {
 			color={ 185 103 92 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 144 province_id = 145 province_id = 146 province_id = 147 } }
-				}
-			}
 			capital = 144 # c_sanmatenga
 			
 			c_sanmatenga = { # 144
@@ -842,12 +746,6 @@ e_sahel = {
 			color={ 172 84 69 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 148 province_id = 149 province_id = 150 } }
-				}
-			}
 			capital = 148 # c_liptougou
 			
 			c_liptougou = { # 148

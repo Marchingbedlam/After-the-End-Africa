@@ -9,7 +9,6 @@ max_settlements = 3
 b_ratoma_GN = castle
 b_conakry_GN = city
 b_dixinn_GN = temple
-b_dubreka_GN = city
 
 # Misc
 culture = susu

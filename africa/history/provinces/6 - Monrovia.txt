@@ -16,4 +16,4 @@ culture = liberian
 religion = libertarian
 
 #History
-2576.9.15 = { capital = b_monrovia }
+2576.9.15 = { capital = b_monrovia_LR }

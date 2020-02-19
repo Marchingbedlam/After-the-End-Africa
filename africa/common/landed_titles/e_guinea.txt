@@ -16,12 +16,6 @@ e_guinea = {
 			color={ 170 64 79 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 1 province_id = 2 province_id = 3 } }
-				}
-			}
 			capital = 1 # c_maryland
 			
 			c_maryland = { # 1
@@ -69,12 +63,6 @@ e_guinea = {
 			color={ 126 41 56 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 17 province_id = 18 } }
-				}
-			}
 			capital = 17 # c_kenema
 			
 			c_kenema = { # 17
@@ -106,12 +94,6 @@ e_guinea = {
 			color={ 179 70 85 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 7 province_id = 8 province_id = 9 } }
-				}
-			}
 			capital = 7 # c_gedeh
 			
 			c_nimba = { # 7
@@ -157,12 +139,6 @@ e_guinea = {
 			color={ 172 49 64 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 10 province_id = 11 province_id = 12 province_id = 13 } }
-				}
-			}
 			capital = 10 # c_bong
 			
 			c_bong = { # 10
@@ -206,12 +182,6 @@ e_guinea = {
 			color={ 152 42 57 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 4 province_id = 5 province_id = 6 } }
-				}
-			}
 			capital = 4 # c_grand_cape
 			
 			c_grand_cape = { # 4
@@ -259,12 +229,6 @@ e_guinea = {
 			color={ 179 14 29 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 14 province_id = 15 province_id = 16 } }
-				}
-			}
 			capital = 14 # c_bonthe
 
 			kwi = "Freedom"
@@ -311,12 +275,6 @@ e_guinea = {
 			color={ 139 145 88 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 19 province_id = 20 province_id = 21 province_id = 22 } }
-				}
-			}
 			capital = 157 # c_tonkolili
 			
 
@@ -401,12 +359,6 @@ e_guinea = {
 			color={ 64 99 90 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 35 province_id = 36 province_id = 37 province_id = 38 } }
-				}
-			}
 			capital = 46 # c_kankan
 			
 			c_siguiri = { # 35
@@ -463,11 +415,6 @@ e_guinea = {
 			color={ 41 130 96 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 42 province_id = 43 province_id = 44 } }
-				}
 			}
 			capital = 42 # c_faranah
 			
@@ -512,12 +459,6 @@ e_guinea = {
 			color={ 43 80 70 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 45 province_id = 46 province_id = 47 province_id = 48 } }
-				}
-			}
 			capital = 45 # c_kerouane
 			
 			c_lola = { # 45
@@ -573,12 +514,6 @@ e_guinea = {
 			color={ 129 130 59 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 27 province_id = 28 province_id = 29 province_id = 30 } }
-				}
-			}
 			capital = 27 # c_tanene
 			
 			c_fria = { # 27
@@ -635,12 +570,6 @@ e_guinea = {
 			color={ 132 138 84 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 23 province_id = 24 province_id = 25 province_id = 26 } }
-				}
-			}
 			capital = 23 # c_forecariah
 			
 			c_forecariah = { # 23
@@ -685,12 +614,6 @@ e_guinea = {
 			color={ 92 88 40 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 31 province_id = 32 province_id = 33 province_id = 34 } }
-				}
-			}
 			capital = 31 # c_gaoual
 			
 			c_gaoual = { # 31
@@ -746,12 +669,6 @@ e_guinea = {
 			color={ 63 96 87 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 39 province_id = 40 province_id = 41 } }
-				}
-			}
 			capital = 39 # c_pita
 
 			c_mamou = { # 24
@@ -827,12 +744,6 @@ e_guinea = {
 			color={ 122 155 24 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 98 province_id = 99 province_id = 100 } }
-				}
-			}
 			capital = 98 # c_nawa
 			
 			c_nawa = { # 98
@@ -867,12 +778,6 @@ e_guinea = {
 			color={ 98 109 34 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 101 province_id = 102 province_id = 103 province_id = 104 } }
-				}
-			}
 			capital = 101 # c_loh_djiboua
 			
 			c_loh_djiboua = { # 101
@@ -912,12 +817,6 @@ e_guinea = {
 			color={ 138 161 27 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 116 province_id = 117 province_id = 118 } }
-				}
-			}
 			capital = 116 # c_poro
 			
 			c_poro = { # 116
@@ -949,12 +848,6 @@ e_guinea = {
 			color={ 124 147 40 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 105 province_id = 106 province_id = 107 } }
-				}
-			}
 			capital = 105 # c_iffou
 			
 			c_iffou = { # 105
@@ -986,12 +879,6 @@ e_guinea = {
 			color={ 112 147 8 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 111 province_id = 112 province_id = 113 } }
-				}
-			}
 			capital = 111 # c_goh
 			
 			c_goh = { # 111
@@ -1023,12 +910,6 @@ e_guinea = {
 			color={ 137 159 30 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 114 province_id = 115 } }
-				}
-			}
 			capital = 114 # c_bafing
 			
 			c_bafing = { # 114
@@ -1052,12 +933,6 @@ e_guinea = {
 			color={ 118 126 44 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 108 province_id = 109 province_id = 110 } }
-				}
-			}
 			capital = 108 # c_hambol
 			
 			c_hambol = { # 108
@@ -1097,12 +972,6 @@ e_guinea = {
 			color={ 161 114 44 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 119 province_id = 120 province_id = 121 province_id = 122 province_id = 123 } }
-				}
-			}
 			capital = 119 # c_elmini
 			
 			c_elmini = { # 119
@@ -1150,12 +1019,6 @@ e_guinea = {
 			color={ 179 131 56 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 135 province_id = 136 province_id = 137 } }
-				}
-			}
 			capital = 135 # c_tamale
 			
 			c_tamale = { # 135
@@ -1187,12 +1050,6 @@ e_guinea = {
 			color={ 227 199 35 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 138 province_id = 139 province_id = 140 } }
-				}
-			}
 			capital = 138 # c_bontioli
 			
 			c_bontioli = { # 138
@@ -1240,12 +1097,6 @@ e_guinea = {
 			color={ 121 81 32 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 128 province_id = 129 province_id = 130 province_id = 131 province_id = 141 province_id = 142 } }
-				}
-			}
 			capital = 128 # c_kintampo
 			
 			c_kintampo = { # 128
@@ -1285,12 +1136,6 @@ e_guinea = {
 			color={ 159 157 71 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 132 province_id = 133 province_id = 134 } }
-				}
-			}
 			capital = 132 # c_salaga
 			
 			c_salaga = { # 132
@@ -1322,12 +1167,6 @@ e_guinea = {
 			color={ 195 141 50 }
 			color2={ 255 255 255 }
 			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 124 province_id = 125 province_id = 126 province_id = 127 } }
-				}
-			}
 			capital = 124 # c_atakampe
 			
 			c_atakampe = { # 124
