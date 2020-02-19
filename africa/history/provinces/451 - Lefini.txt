@@ -7,7 +7,7 @@ max_settlements = 2
 b_lefini = castle
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

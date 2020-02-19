@@ -9,7 +9,7 @@ b_am_timan_TD = city
 b_djouna_TD = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

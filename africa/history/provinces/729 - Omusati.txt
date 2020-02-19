@@ -9,7 +9,7 @@ b_ruacana_NA = city
 b_eheke_NA = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

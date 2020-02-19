@@ -8,7 +8,7 @@ b_sette_cama_GA = castle
 b_gamba_GA = city
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

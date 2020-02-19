@@ -7,7 +7,7 @@ max_settlements = 3
 b_koupe_manengouba = castle
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

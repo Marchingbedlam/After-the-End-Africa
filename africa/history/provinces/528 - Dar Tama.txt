@@ -9,7 +9,7 @@ b_kolonga_TD = city
 b_sirim_birke_TD = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

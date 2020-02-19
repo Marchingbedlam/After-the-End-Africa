@@ -8,7 +8,7 @@ b_sesfontein_NA = castle
 b_khorixas_NA = city
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

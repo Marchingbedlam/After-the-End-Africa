@@ -9,7 +9,7 @@ b_moanda_GA = city
 b_mounana_GA = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

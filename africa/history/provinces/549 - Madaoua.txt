@@ -9,7 +9,7 @@ b_madaoua_NE = city
 b_bouza_NE = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

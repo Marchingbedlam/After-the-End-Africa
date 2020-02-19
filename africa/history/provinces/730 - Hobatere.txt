@@ -8,7 +8,7 @@ b_kamanjab_NA = castle
 b_outjo_NA = city
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

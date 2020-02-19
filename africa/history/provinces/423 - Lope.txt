@@ -8,7 +8,7 @@ b_booue_GA = castle
 b_achouka_GA = city
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

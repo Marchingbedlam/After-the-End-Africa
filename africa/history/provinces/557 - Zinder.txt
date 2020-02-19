@@ -9,7 +9,7 @@ b_zinder_NE = city
 b_mirriah_NE = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

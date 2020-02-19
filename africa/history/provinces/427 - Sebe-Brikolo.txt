@@ -8,7 +8,7 @@ b_okondja_GA = castle
 b_eleko_GA = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

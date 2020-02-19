@@ -8,7 +8,7 @@ b_mimongo_GA = castle
 b_eteke_GA = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

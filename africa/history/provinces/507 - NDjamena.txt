@@ -10,7 +10,7 @@ b_mandelia_TD = temple
 b_al_fas_TD = castle
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

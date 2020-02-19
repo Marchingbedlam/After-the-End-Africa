@@ -8,7 +8,7 @@ b_tchibanga_GA = castle
 b_tsogni_GA = city
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

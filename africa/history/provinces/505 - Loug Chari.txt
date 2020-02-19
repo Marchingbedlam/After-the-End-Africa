@@ -9,7 +9,7 @@ b_bousso_TD = city
 b_lairi_TD = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

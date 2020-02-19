@@ -8,7 +8,7 @@ b_oranjemund_NA = castle
 b_port_nolloth_ZA = city
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

@@ -6,10 +6,10 @@ max_settlements = 3
 
 b_lekoni_GA = castle
 b_akieni_GA = city
-b_bongoville = temple
+b_bongoville_GA = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

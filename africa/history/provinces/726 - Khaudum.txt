@@ -8,7 +8,7 @@ b_tsumkwe_NA = castle
 b_mashere_NA = city
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

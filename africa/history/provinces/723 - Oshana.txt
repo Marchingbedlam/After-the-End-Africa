@@ -9,7 +9,7 @@ b_oshakati_NA = city
 b_okaukuejo_NA = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

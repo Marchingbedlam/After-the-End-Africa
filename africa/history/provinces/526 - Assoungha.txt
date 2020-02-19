@@ -9,7 +9,7 @@ b_adre_TD = city
 b_hadjer_hadid_TD = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

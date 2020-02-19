@@ -9,7 +9,7 @@ b_biltine_TD = city
 b_am_zoer_TD = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

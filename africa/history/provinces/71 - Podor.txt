@@ -7,7 +7,7 @@ title = c_podor
 max_settlements = 3
 
 b_podor_SN = castle
-b_ndioum_SN
+b_ndioum_SN = city
 b_gollere_SN = temple
 
 # Misc

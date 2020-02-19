@@ -9,7 +9,7 @@ b_matadjana_TD = city
 b_tine_TD = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

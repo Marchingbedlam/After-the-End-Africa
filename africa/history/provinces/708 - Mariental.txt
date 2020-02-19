@@ -8,7 +8,7 @@ b_strampriet_NA = castle
 b_mariental_NA = city
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

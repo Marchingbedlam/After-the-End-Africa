@@ -9,7 +9,7 @@ b_gounou_gaya_TD = city
 b_fianga_TD = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

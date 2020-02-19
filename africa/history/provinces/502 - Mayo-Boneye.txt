@@ -9,7 +9,7 @@ b_moulkou_TD = city
 b_koyom_TD = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

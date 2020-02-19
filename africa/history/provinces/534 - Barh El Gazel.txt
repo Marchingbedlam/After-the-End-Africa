@@ -9,7 +9,7 @@ b_moussoro_TD = city
 b_salal_TD = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

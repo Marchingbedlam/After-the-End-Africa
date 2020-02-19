@@ -9,7 +9,7 @@ b_massenya_TD = city
 b_bogomoro_TD = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

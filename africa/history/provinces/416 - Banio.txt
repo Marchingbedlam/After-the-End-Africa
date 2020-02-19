@@ -8,7 +8,7 @@ b_ndindi_GA = castle
 b_mayumba_GA = city
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

@@ -9,7 +9,7 @@ b_moundou_TD = city
 b_beinamar_TD = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

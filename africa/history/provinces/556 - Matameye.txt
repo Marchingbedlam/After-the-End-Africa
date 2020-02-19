@@ -9,7 +9,7 @@ b_matameye_NE = city
 b_kantche_NE = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

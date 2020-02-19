@@ -9,7 +9,7 @@ b_mekambo_GA = city
 b_zoula_GA = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

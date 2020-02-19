@@ -8,7 +8,7 @@ b_warmbad_NA = castle
 b_karasburg_NA = city
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

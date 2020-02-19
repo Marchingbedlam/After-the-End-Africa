@@ -9,7 +9,7 @@ b_kelo_TD = city
 b_deressia_TD = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

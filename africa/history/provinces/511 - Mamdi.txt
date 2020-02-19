@@ -8,7 +8,7 @@ b_bagassola_TD = castle
 b_bol_TD = city
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

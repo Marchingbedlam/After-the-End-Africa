@@ -9,7 +9,7 @@ b_grootfontein_NA = city
 b_maroelaboom_NA = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

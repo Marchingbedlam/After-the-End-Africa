@@ -9,7 +9,7 @@ b_agadez_NE = city
 b_in_gall_NE = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

@@ -9,7 +9,7 @@ b_mouila_GA = city
 b_moutassou_GA = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

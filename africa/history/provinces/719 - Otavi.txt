@@ -8,7 +8,7 @@ b_kombat_NA = castle
 b_otavi_NA = city
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

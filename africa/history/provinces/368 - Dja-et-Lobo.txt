@@ -7,7 +7,7 @@ max_settlements = 3
 b_dja_et_lobo = castle
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

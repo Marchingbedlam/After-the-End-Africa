@@ -7,9 +7,9 @@ title = c_nzerekore
 max_settlements = 4
 
 b_nzerekore = castle
-b_irie = city
-b_kobela = temple
-b_pale = castle
+b_irie_GN = city
+b_kobela_GN = temple
+b_pale_GN = castle
 
 # Misc
 culture = kpelle

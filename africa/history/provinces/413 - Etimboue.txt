@@ -8,7 +8,7 @@ b_omboue_GA = castle
 b_saint_anne_GA = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

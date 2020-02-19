@@ -15,39 +15,25 @@ e_central_africa = {
 				color={ 146 48 48 }
 				color2={ 255 255 255 }
 					
-				b_malabo_GQ = {
-				}
-				b_luba_GQ = {
-				}
-				b_rebola_GQ = {
-				}
-				b_baney_GQ = {
-				}
-				b_riaba_GQ = {
-				}
-				b_ureca_GQ = {
-				}
-				b_belebu_balacha_GQ = {
-				}
+				b_malabo_GQ = {}
+				b_luba_GQ = {}
+				b_rebola_GQ = {}
+				b_baney_GQ = {}
+				b_riaba_GQ = {}
+				b_ureca_GQ = {}
+				b_belebu_balacha_GQ = {}
 			}
 			c_sao_tome_e_principe = {
 				color={ 101 42 42 }
 				color2={ 255 255 255 }
 					
-				b_sao_tome_ST = {
-				}
-				b_neves_ST = {
-				}
-				b_santana_ST = {
-				}
-				b_santo_antonio_ST = {
-				}
-				b_trindade_ST = {
-				}
-				b_guadalupe_ST = {
-				}
-				b_sao_joao_dos_angolares_ST = {
-				}
+				b_sao_tome_ST = {}
+				b_neves_ST = {}
+				b_santana_ST = {}
+				b_santo_antonio_ST = {}
+				b_trindade_ST = {}
+				b_guadalupe_ST = {}
+				b_sao_joao_dos_angolares_ST = {}
 			}
 		}
 	}
@@ -64,29 +50,25 @@ e_central_africa = {
 				color={ 189 10 255 }
 				color2={ 255 255 255 }
 
-				b_louti = {
-				}
+				b_louti = {}
 			}
 			c_benoue = {
 				color={ 255 204 253 }
 				color2={ 255 255 255 }
 
-				b_benoue = {
-				}
+				b_benoue = {}
 			}
 			c_faro = {
 				color={ 168 107 255 }
 				color2={ 255 255 255 }
 
-				b_faro = {
-				}
+				b_faro = {}
 			}
 			c_rey = {
 				color={ 197 170 255 }
 				color2={ 255 255 255 }
 
-				b_rey = {
-				}
+				b_rey = {}
 			}
 		}
 		d_adamawa = {
@@ -97,142 +79,124 @@ e_central_africa = {
 				color={ 29 0 255 }
 				color2={ 255 255 255 }
 
-				b_vina = {
-				}
+				b_vina = {}
 			}
 			c_faro_et_deo = {
 				color={ 170 186 255 }
 				color2={ 255 255 255 }
 
-				b_faro_et_deo = {
-				}
+				b_faro_et_deo = {}
 			}
 			c_mayo_banyo = {
 				color={ 115 112 206 }
 				color2={ 255 255 255 }
 
-				b_mayo_banyo = {
-				}
+				b_mayo_banyo = {}
 			}
 			c_djerem = {
 				color={ 109 138 255 }
 				color2={ 255 255 255 }
 
-				b_djerem = {
-				}
+				b_djerem = {}
 			}
 			c_mbere = {
 				color={ 81 130 255 }
 				color2={ 255 255 255 }
 
-				b_mbere = {
-				}
+				b_mbere = {}
 			}
 		}
 		d_lobeke = {
 			color={ 250 230 50 }
-			color2={ 255 255 255 }	
+			color2={ 255 255 255 }
 			
 			c_lom_et_djerem = {
 				color={ 255 236 30 }
 				color2={ 255 255 255 }
 
-				b_lom_et_djerem = {
-				}
+				b_lom_et_djerem = {}
 			}
 			c_haut_nyong = {
 				color={ 255 255 71 }
 				color2={ 255 255 255 }
 
-				b_haut_nyong = {
-				}
+				b_haut_nyong = {}
 			}
 			c_boumba_et_ngoko = {
 				color={ 255 241 117 }
 				color2={ 255 255 255 }
 
-				b_boumba_et_ngoko = {
-				}
+				b_boumba_et_ngoko = {}
 			}
 			c_kadei = {
 				color={ 218 164 37 }
 				color2={ 255 255 255 }
 
-				b_kadei = {
-				}
+				b_kadei = {}
 			}
 			c_nki_bek = {
 				color={ 144 204 209 }
 				color2={ 255 255 255 }
 
-				b_nki_bek = {
-				}
+				b_nki_bek = {}
 			}
 		}
 		d_campo = {
 			color={ 100 200 150 }
-			color2={ 255 255 255 }	
+			color2={ 255 255 255 }
 			
 			c_dja_et_lobo = {
 				color={ 137 255 147 }
 				color2={ 255 255 255 }
 
-				b_dja_et_lobo = {
-				}
+				b_dja_et_lobo = {}
 			}
 			c_mvila = {
 				color={ 54 188 132 }
 				color2={ 255 255 255 }
 
-				b_mvila = {
-				}
+				b_mvila = {}
 			}
 			c_ocean = {
 				color={ 95 206 160 }
 				color2={ 255 255 255 }
 
-				b_ocean = {
-				}
+				b_ocean = {}
 			}
 		}
 		d_sanaga = {
 			color={ 255 170 50 }
-			color2={ 255 255 255 }	
+			color2={ 255 255 255 }
 			
 			c_mbam_et_kim = {
 				color={ 196 170 39 }
 				color2={ 255 255 255 }
 
-				b_mbam_et_kim = {
-				}
+				b_mbam_et_kim = {}
 			}
 			c_haute_sanaga = {
 				color={ 255 165 0 }
 				color2={ 255 255 255 }
 
-				b_haute_sanaga = {
-				}
+				b_haute_sanaga = {}
 			}
 			c_inoubou = {
 				color={ 255 215 124 }
 				color2={ 255 255 255 }
 
-				b_inoubou = {
-				}
+				b_inoubou = {}
 			}
 			c_mpem_et_djim = {
 				color={ 242 209 48 }
 				color2={ 255 255 255 }
 
-				b_mpem_et_djim = {
-				}
+				b_mpem_et_djim = {}
 			}
 			c_pangar = {
 				color={ 247 208 79 }
 				color2={ 255 255 255 }
 
-				b_pangar = {
-				}
+				b_pangar = {}
 			}
 		}
 		d_nyong = {
@@ -243,109 +207,95 @@ e_central_africa = {
 				color={ 255 212 145 }
 				color2={ 255 255 255 }
 
-				b_mfoundi = {
-				}
+				b_mfoundi = {}
 			}
 			c_nyong_et_soo = {
 				color={ 255 195 0 }
 				color2={ 255 255 255 }
 
-				b_nyong_et_soo = {
-				}
+				b_nyong_et_soo = {}
 			}
 			c_mfoumou = {
 				color={ 255 136 0 }
 				color2={ 255 255 255 }
 
-				b_mfoumou = {
-				}
+				b_mfoumou = {}
 			}
 			c_kelle = {
 				color={ 255 231 17 }
 				color2={ 255 255 255 }
 
-				b_kelle = {
-				}
+				b_kelle = {}
 			}
 		}
 		d_wouri = {
 			color={ 150 80 20 }
-			color2={ 255 255 255 }	
+			color2={ 255 255 255 }
 			
 			c_sanaga_maritime = {
 				color={ 193 88 13 }
 				color2={ 255 255 255 }
 
-				b_sanaga_maritime = {
-				}
+				b_sanaga_maritime = {}
 			}
 			c_nkam = {
 				color={ 158 69 78 }
 				color2={ 255 255 255 }
 
-				b_nkam = {
-				}
+				b_nkam = {}
 			}
 			c_moungo = {
 				color={ 229 134 66 }
 				color2={ 255 255 255 }
 
-				b_moungo = {
-				}
+				b_moungo = {}
 			}
 			c_douala = {
 				color={ 158 92 45 }
 				color2={ 255 255 255 }
 
-				b_douala = {
-				}
+				b_douala = {}
 			}
 		}
 		d_tsugning = {
 			color={ 100 200 188 }
-			color2={ 255 255 255 }	
+			color2={ 255 255 255 }
 			
 			c_nde = {
 				color={ 121 115 239 }
 				color2={ 255 255 255 }
 
-				b_nde = {
-				}
+				b_nde = {}
 			}
 			c_haut_nkam = {
 				color={ 188 242 145 }
 				color2={ 255 255 255 }
 
-				b_haut_nkam = {
-				}
+				b_haut_nkam = {}
 			}
 			c_mifi = {
 				color={ 215 242 188 }
 				color2={ 255 255 255 }
 
-				b_mifi = {
-				}
+				b_mifi = {}
 			}
 			c_bamboutos = {
 				color={ 148 209 152 }
 				color2={ 255 255 255 }
 
-				b_bamboutos = {
-				}
+				b_bamboutos = {}
 			}
 			c_noun = {
 				color={ 95 191 116 }
 				color2={ 255 255 255 }
 
-				b_noun = {
-				}
+				b_noun = {}
 			}
 			c_massangam = {
 				color={ 0 193 32 }
 				color2={ 255 255 255 }
 
-				b_massangam = {
-				}
+				b_massangam = {}
 			}
 		}
 	}
@@ -355,49 +305,43 @@ e_central_africa = {
 
 		d_oku = {
 			color={ 130 180 200 }
-			color2={ 255 255 255 }	
+			color2={ 255 255 255 }
 			
 			c_donga = {
 				color={ 137 137 136 }
 				color2={ 255 255 255 }
 
-				b_donga = {
-				}
+				b_donga = {}
 			}
 			c_grassfields = {
 				color={ 137 126 126 }
 				color2={ 255 255 255 }
 
-				b_grassfields = {
-				}
+				b_grassfields = {}
 			}
 			c_ngo_ketunjia = {
 				color={ 183 181 183 }
 				color2={ 255 255 255 }
 
-				b_ngo_ketunjia = {
-				}
+				b_ngo_ketunjia = {}
 			}
 			c_bamenda = {
 				color={ 144 204 209 }
 				color2={ 255 255 255 }
 
-				b_bamenda = {
-				}
+				b_bamenda = {}
 			}
 			c_menchum = {
 				color={ 123 174 209 }
 				color2={ 255 255 255 }
 
-				b_menchum = {
-				}
+				b_menchum = {}
 			}
 			c_boyo = {
 				color={ 188 188 186 }
 				color2={ 255 255 255 }
 
-				b_boyo = {
-				}
+				b_boyo = {}
 			}
 		}
 		d_korup = {
@@ -408,29 +352,25 @@ e_central_africa = {
 				color={ 255 135 247 }
 				color2={ 255 255 255 }
 
-				b_manyu = {
-				}
+				b_manyu = {}
 			}
 			c_ndian = {
 				color={ 188 100 182 }
 				color2={ 255 255 255 }
 
-				b_ndian = {
-				}
+				b_ndian = {}
 			}
 			c_koupe_manengouba = {
 				color={ 215 122 255 }
 				color2={ 255 255 255 }
 
-				b_koupe_manengouba = {
-				}
+				b_koupe_manengouba = {}
 			}
 			c_fako = {
 				color={ 255 45 171 }
 				color2={ 255 255 255 }
 
-				b_fako = {
-				}
+				b_fako = {}
 			}
 		}
 	}
@@ -446,36 +386,31 @@ e_central_africa = {
 				color={ 141 77 192 }
 				color2={ 255 255 255 }
 
-				b_sangha_mbaere = {
-				}
+				b_sangha_mbaere = {}
 			}
 			c_berberati = {
 				color={ 143 80 148 }
 				color2={ 255 255 255 }
 
-				b_berberati = {
-				}
+				b_berberati = {}
 			}
 			c_carnot = {
 				color={ 83 44 118 }
 				color2={ 255 255 255 }
 
-				b_carnot = {
-				}
+				b_carnot = {}
 			}
 			c_baboua = {
 				color={ 157 135 191 }
 				color2={ 255 255 255 }
 
-				b_baboua = {
-				}
+				b_baboua = {}
 			}
 			c_bouar = {
 				color={ 117 56 128 }
 				color2={ 255 255 255 }
 
-				b_bouar = {
-				}
+				b_bouar = {}
 			}
 		}
 		d_ouham_pende = {
@@ -486,22 +421,19 @@ e_central_africa = {
 				color={ 152 16 163 }
 				color2={ 255 255 255 }
 
-				b_bozoum = {
-				}
+				b_bozoum = {}
 			}
 			c_bocaranga = {
 				color={ 128 2 178 }
 				color2={ 255 255 255 }
 
-				b_bocaranga = {
-				}
+				b_bocaranga = {}
 			}
 			c_paoua = {
 				color={ 180 93 214 }
 				color2={ 255 255 255 }
 
-				b_paoua = {
-				}
+				b_paoua = {}
 			}
 		}
 		d_ouham = {
@@ -512,36 +444,31 @@ e_central_africa = {
 				color={ 141 94 161 }
 				color2={ 255 255 255 }
 
-				b_markounda = {
-				}
+				b_markounda = {}
 			}
 			c_bossangoa = {
 				color={ 104 94 161 }
 				color2={ 255 255 255 }
 
-				b_bossangoa = {
-				}
+				b_bossangoa = {}
 			}
 			c_bouca = {
 				color={ 57 14 109 }
 				color2={ 255 255 255 }
 
-				b_bouca = {
-				}
+				b_bouca = {}
 			}
 			c_batangafo = {
 				color={ 121 0 255 }
 				color2={ 255 255 255 }
 
-				b_batangafo = {
-				}
+				b_batangafo = {}
 			}
 			c_nana_grebizi = {
 				color={ 112 38 129 }
 				color2={ 255 255 255 }
 
-				b_nana_grebizi = {
-				}
+				b_nana_grebizi = {}
 			}
 		}
 		d_ombella_mpoko = {
@@ -552,29 +479,25 @@ e_central_africa = {
 				color={ 97 74 102 }
 				color2={ 255 255 255 }
 
-				b_kemo = {
-				}
+				b_kemo = {}
 			}
 			c_bangui = {
 				color={ 213 193 217 }
 				color2={ 255 255 255 }
 
-				b_bangui = {
-				}
+				b_bangui = {}
 			}
 			c_yaloke_bossembele = {
 				color={ 91 56 180 }
 				color2={ 255 255 255 }
 
-				b_yaloke_bossembele = {
-				}
+				b_yaloke_bossembele = {}
 			}
 			c_lobaye = {
 				color={ 75 79 124 }
 				color2={ 255 255 255 }
 
-				b_lobaye = {
-				}
+				b_lobaye = {}
 			}
 		}
 		d_ouaka = {
@@ -585,36 +508,31 @@ e_central_africa = {
 				color={ 108 83 143 }
 				color2={ 255 255 255 }
 
-				b_grimari = {
-				}
+				b_grimari = {}
 			}
 			c_bambari = {
 				color={ 111 60 180 }
 				color2={ 255 255 255 }
 
-				b_bambari = {
-				}
+				b_bambari = {}
 			}
 			c_ippy = {
 				color={ 147 49 138 }
 				color2={ 255 255 255 }
 
-				b_ippy = {
-				}
+				b_ippy = {}
 			}
 			c_mobaye = {
 				color={ 99 70 110 }
 				color2={ 255 255 255 }
 
-				b_mobaye = {
-				}
+				b_mobaye = {}
 			}
 			c_alindao = {
 				color={ 86 70 110 }
 				color2={ 255 255 255 }
 
-				b_alindao = {
-				}
+				b_alindao = {}
 			}
 		}
 		d_shari = {
@@ -625,22 +543,19 @@ e_central_africa = {
 				color={ 91 51 87 }
 				color2={ 255 255 255 }
 
-				b_bamingui_bangoran = {
-				}
+				b_bamingui_bangoran = {}
 			}
 			c_saint_floris = {
 				color={ 174 30 161 }
 				color2={ 255 255 255 }
 
-				b_saint_floris = {
-				}
+				b_saint_floris = {}
 			}
 			c_vakaga = {
 				color={ 216 107 207 }
 				color2={ 255 255 255 }
 
-				b_vakaga = {
-				}
+				b_vakaga = {}
 			}
 		}
 		d_mbomou = {
@@ -651,36 +566,31 @@ e_central_africa = {
 				color={ 156 107 216 }
 				color2={ 255 255 255 }
 
-				b_haute_kotto = {
-				}
+				b_haute_kotto = {}
 			}
 			c_bangassou = {
 				color={ 57 36 178 }
 				color2={ 255 255 255 }
 
-				b_bangassou = {
-				}
+				b_bangassou = {}
 			}
 			c_gambo_ouango = {
 				color={ 67 17 88 }
 				color2={ 255 255 255 }
 
-				b_gambo_ouango = {
-				}
+				b_gambo_ouango = {}
 			}
 			c_rafai = {
 				color={ 115 72 182 }
 				color2={ 255 255 255 }
 
-				b_rafai = {
-				}
+				b_rafai = {}
 			}
 			c_haut_mbomou = {
 				color={ 72 55 164 }
 				color2={ 255 255 255 }
 
-				b_haut_mbomou = {
-				}
+				b_haut_mbomou = {}
 			}
 		}
 	}

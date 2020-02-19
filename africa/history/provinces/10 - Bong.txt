@@ -7,7 +7,7 @@ title = c_bong
 max_settlements = 3
 
 b_gbarnga_LR = castle
-b_belefuanai_LR = city
+b_belefanai_LR = city
 b_suacoco_LR = temple
 
 # Misc

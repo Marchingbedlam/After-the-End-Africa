@@ -8,7 +8,7 @@ b_pana_GA = castle
 b_koulamoutou_GA = city
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

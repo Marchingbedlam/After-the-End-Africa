@@ -15,77 +15,49 @@ e_congo = {
 				color={ 212 72 72 }
 				color2={ 255 255 255 }
 				
-				b_bata_GQ = {
-				}
-				b_kogo_GQ = {
-				}
-				b_mbini_GQ = {
-				}
-				b_corsico_GQ = {
-				}
-				b_machinda_GQ = {
-				}
-				b_rio_campo_GQ = {
-				}
-				b_bolondo_GQ = {
-				}
+				b_bata_GQ = {}
+				b_kogo_GQ = {}
+				b_mbini_GQ = {}
+				b_corsico_GQ = {}
+				b_machinda_GQ = {}
+				b_rio_campo_GQ = {}
+				b_bolondo_GQ = {}
 			}
 			c_centro_sur = {
 				color={ 164 111 111 }
 				color2={ 255 255 255 }
 				
-				b_evinayong_GQ = {
-				}
-				b_niefang_GQ = {
-				}
-				b_acurenam_GQ = {
-				}
-				b_nkimi_GQ = {
-				}
-				b_bicurga_GQ = {
-				}
-				b_abanayop_GQ = {
-				}
-				b_acoc_GQ = {
-				}
+				b_evinayong_GQ = {}
+				b_niefang_GQ = {}
+				b_acurenam_GQ = {}
+				b_nkimi_GQ = {}
+				b_bicurga_GQ = {}
+				b_abanayop_GQ = {}
+				b_acoc_GQ = {}
 			}
 			c_wele_nzas = {
 				color={ 118 99 99 }
 				color2={ 255 255 255 }
 				
-				b_oyala_GQ = {
-				}
-				b_mongomo_GQ = {
-				}
-				b_nsork_GQ = {
-				}
-				b_mengomeyen_GQ = {
-				}
-				b_anisoc_GQ = {
-				}
-				b_acoacan_GQ = {
-				}
-				b_ayene_GQ = {
-				}
+				b_oyala_GQ = {}
+				b_mongomo_GQ = {}
+				b_nsork_GQ = {}
+				b_mengomeyen_GQ = {}
+				b_anisoc_GQ = {}
+				b_acoacan_GQ = {}
+				b_ayene_GQ = {}
 			}
 			c_ntem = {
 				color={ 117 61 61 }
 				color2={ 255 255 255 }
 				
-				b_ebebiyin_GQ = {
-				}
-				b_bitam_GA = {
-				}
-				b_nkue_GQ = {
-				}
-				b_micomeseng_GQ = {
-				}
-				b_nsang_GQ = {
-				}
-				b_akok_GA = {
-				}
-				b_bidjabidjan_GQ = {
-				}
+				b_ebebiyin_GQ = {}
+				b_bitam_GA = {}
+				b_nkue_GQ = {}
+				b_micomeseng_GQ = {}
+				b_nsang_GQ = {}
+				b_akok_GA = {}
+				b_bidjabidjan_GQ = {}
 			}
 		}
 		d_woleu_ntem = {
@@ -220,177 +192,113 @@ e_congo = {
 				color={ 154 33 5}
 				color2={ 255 255 255 }
 					
-				b_ntchengue_GA = {
-				}
-				b_port_gentil_GA = {
-				}
-				b_ozori_GA = {
-				}
-				b_kendje_GA = {
-				}
-				b_mondorobe_GA = {
-				}
-				b_enyonga_GA = {
-				}
-				b_aranga_GA = {
-				}
+				b_ntchengue_GA = {}
+				b_port_gentil_GA = {}
+				b_ozori_GA = {}
+				b_kendje_GA = {}
+				b_mondorobe_GA = {}
+				b_enyonga_GA = {}
+				b_aranga_GA = {}
 			}
 			c_etimboue = {
 				color={ 139 65 48 }
 				color2={ 255 255 255 }
 					
-				b_omboue_GA = {
-				}
-				b_yeno_GA = {
-				}
-				b_saint_anne_GA = {
-				}
-				b_iguela_GA = {
-				}
-				b_diaba_GA = {
-				}
-				b_fernand_vaz_GA = {
-				}
-				b_orali_GA = {
-				}
+				b_omboue_GA = {}
+				b_yeno_GA = {}
+				b_saint_anne_GA = {}
+				b_iguela_GA = {}
+				b_diaba_GA = {}
+				b_fernand_vaz_GA = {}
+				b_orali_GA = {}
 			}
 			c_ndougou = {
 				color={ 172 56 7 }
 				color2={ 255 255 255 }
 					
-				b_sette_cama_GA = {
-				}
-				b_gamba_GA = {
-				}
-				b_petit_loango_GA = {
-				}
-				b_pitonga_GA = {
-				}
-				b_mougambi_GA = {
-				}
-				b_nanga_tsonga_GA = {
-				}
-				b_bokolo_GA = {
-				}
+				b_sette_cama_GA = {}
+				b_gamba_GA = {}
+				b_petit_loango_GA = {}
+				b_pitonga_GA = {}
+				b_mougambi_GA = {}
+				b_nanga_tsonga_GA = {}
+				b_bokolo_GA = {}
 			}
 			c_mougoutsi = {
 				color={ 180 34 6 }
 				color2={ 255 255 255 }
 					
-				b_tchibanga_GA = {
-				}
-				b_tsogni_GA = {
-				}
-				b_milando_GA = {
-				}
-				b_porro_GA = {
-				}
-				b_malaba_GA = {
-				}
-				b_ileka_GA = {
-				}
-				b_birouki_GA = {
-				}
+				b_tchibanga_GA = {}
+				b_tsogni_GA = {}
+				b_milando_GA = {}
+				b_porro_GA = {}
+				b_malaba_GA = {}
+				b_ileka_GA = {}
+				b_birouki_GA = {}
 			}
 			c_banio = {
 				color={ 195 121 107 }
 				color2={ 255 255 255 }
 					
-				b_ndindi_GA = {
-				}
-				b_mayumba_GA = {
-				}
-				b_loukouala_GA = {
-				}
-				b_kouri_GA = {
-				}
-				b_molito_GA = {
-				}
-				b_bibora_GA = {
-				}
-				b_mabili_GA = {
-				}
+				b_ndindi_GA = {}
+				b_mayumba_GA = {}
+				b_loukouala_GA = {}
+				b_kouri_GA = {}
+				b_molito_GA = {}
+				b_bibora_GA = {}
+				b_mabili_GA = {}
 			}
 		}
 		d_ngounie = {
 			color={ 150 50 30 }
-			color2={ 255 255 255 }	
+			color2={ 255 255 255 }
 
 			c_douya_onoye = {
 				color={ 151 45 24 }
-				color2={ 255 255 255 }	
+				color2={ 255 255 255 }
 
-				b_ndende_GA = {
-				}
-				b_mouila_GA = {
-				}
-				b_moutassou_GA = {
-				}
-				b_salamou_GA = {
-				}
-				b_ilelo_GA = {
-				}
-				b_dilolo_GA = {
-				}
-				b_magueni_GA = {
-				}
+				b_ndende_GA = {}
+				b_mouila_GA = {}
+				b_moutassou_GA = {}
+				b_salamou_GA = {}
+				b_ilelo_GA = {}
+				b_dilolo_GA = {}
+				b_magueni_GA = {}
 			}
 			c_louetsi = {
 				color={ 148 64 14 }
-				color2={ 255 255 255 }	
+				color2={ 255 255 255 }
 
-				b_lebamba_GA = {
-				}
-				b_mbigou_GA = {
-				}
-				b_mboungou_mbadouma_GA = {
-				}
-				b_lingoye_GA = {
-				}
-				b_lekala_GA = {
-				}
-				b_balamboula_GA = {
-				}
-				b_lessabou_GA = {
-				}
+				b_lebamba_GA = {}
+				b_mbigou_GA = {}
+				b_mboungou_mbadouma_GA = {}
+				b_lingoye_GA = {}
+				b_lekala_GA = {}
+				b_balamboula_GA = {}
+				b_lessabou_GA = {}
 			}
 			c_ogoulou = {
 				color={ 162 71 53 }
-				color2={ 255 255 255 }	
+				color2={ 255 255 255 }
 
-				b_mimongo_GA = {
-				}
-				b_indimba_GA = {
-				}
-				b_niole_GA = {
-				}
-				b_diyanga_GA = {
-				}
-				b_eteke_GA = {
-				}
-				b_iboundji_GA = {
-				}
-				b_seka_seka_GA = {
-				}
+				b_mimongo_GA = {}
+				b_indimba_GA = {}
+				b_niole_GA = {}
+				b_diyanga_GA = {}
+				b_eteke_GA = {}
+				b_seka_seka_GA = {}
 			}
 			c_tsamba_magotsi = {
 				color={ 126 50 36 }
-				color2={ 255 255 255 }	
+				color2={ 255 255 255 }
 
-				b_fougamou_GA = {
-				}
-				b_sindara_GA = {
-				}
-				b_guidouma_GA = {
-				}
-				b_obaye_GA = {
-				}
-				b_ivanga_GA = {
-				}
-				b_yambi_GA = {
-				}
-				b_sika_GA = {
-				}
+				b_fougamou_GA = {}
+				b_sindara_GA = {}
+				b_guidouma_GA = {}
+				b_obaye_GA = {}
+				b_ivanga_GA = {}
+				b_yambi_GA = {}
+				b_sika_GA = {}
 			}
 		}
 		d_ogooue = {
@@ -401,77 +309,49 @@ e_congo = {
 				color={ 96 19 19 }
 				color2={ 255 255 255 }
 
-				b_lambarene_GA = {
-				}
-				b_adane_GA = {
-				}
-				b_nzorbang_GA = {
-				}
-				b_makouke_GA = {
-				}
-				b_aloun_GA = {
-				}
-				b_alomba_GA = {
-				}
-				b_bouale_GA = {
-				}
+				b_lambarene_GA = {}
+				b_adane_GA = {}
+				b_nzorbang_GA = {}
+				b_makouke_GA = {}
+				b_aloun_GA = {}
+				b_alomba_GA = {}
+				b_bouale_GA = {}
 			}
 			c_abanga_bigne = {
 				color={ 134 45 45 }
 				color2={ 255 255 255 }
 
-				b_bifoun_GA = {
-				}
-				b_ndjole_GA = {
-				}
-				b_anonebere_GA = {
-				}
-				b_mayene_GA = {
-				}
-				b_mgombom_GA = {
-				}
-				b_andem_GA = {
-				}
-				b_mevang_GA = {
-				}
+				b_bifoun_GA = {}
+				b_ndjole_GA = {}
+				b_anonebere_GA = {}
+				b_mayene_GA = {}
+				b_mgombom_GA = {}
+				b_andem_GA = {}
+				b_mevang_GA = {}
 			}
 			c_lope = {
 				color={ 173 69 69 }
 				color2={ 255 255 255 }
 
-				b_booue_GA = {
-				}
-				b_achouka_GA = {
-				}
-				b_kan_kan_GA = {
-				}
-				b_mikongo_GA = {
-				}
-				b_dissobilam_GA = {
-				}
-				b_kekele_GA = {
-				}
-				b_kombo_GA = {
-				}
+				b_booue_GA = {}
+				b_achouka_GA = {}
+				b_kan_kan_GA = {}
+				b_mikongo_GA = {}
+				b_dissobilam_GA = {}
+				b_kekele_GA = {}
+				b_kombo_GA = {}
 			}
 			c_mvoung = {
 				color={ 183 138 117 }
 				color2={ 255 255 255 }
 
-				b_ovan_GA = {
-				}
-				b_ayem_GA = {
-				}
-				b_koumameyong_GA = {
-				}
-				b_matora_GA = {
-				}
-				b_edabour_GA = {
-				}
-				b_ayol_alar_GA = {
-				}
-				b_ekarlong_GA = {
-				}
+				b_ovan_GA = {}
+				b_ayem_GA = {}
+				b_koumameyong_GA = {}
+				b_matora_GA = {}
+				b_edabour_GA = {}
+				b_ayol_alar_GA = {}
+				b_ekarlong_GA = {}
 			}	
 		}
 		d_ivindo = {
@@ -482,58 +362,37 @@ e_congo = {
 				color={ 151 121 117 }
 				color2={ 255 255 255 }
 
-				b_makokou_GA = {
-				}
-				b_ganzi_GA = {
-				}
-				b_youko_GA = {
-				}
-				b_mooba_GA = {
-				}
-				b_massaha_GA = {
-				}
-				b_mbebengui_GA = {
-				}
-				b_alene_GA = {
-				}
+				b_makokou_GA = {}
+				b_ganzi_GA = {}
+				b_youko_GA = {}
+				b_mooba_GA = {}
+				b_massaha_GA = {}
+				b_mbebengui_GA = {}
+				b_alene_GA = {}
 			}
 			c_zadie = {
 				color={ 233 71 52 }
 				color2={ 255 255 255 }
 
-				b_ekata_GA = {
-				}
-				b_mekambo_GA = {
-				}
-				b_zoula_GA = {
-				}
-				b_batouala_GA = {
-				}
-				b_oyabe_GA = {
-				}
-				b_mbey_GA = {
-				}
-				b_bambo_GA = {
-				}
+				b_ekata_GA = {}
+				b_mekambo_GA = {}
+				b_zoula_GA = {}
+				b_batouala_GA = {}
+				b_oyabe_GA = {}
+				b_mbey_GA = {}
+				b_bambo_GA = {}
 			}
 			c_sebe_brikolo = {
 				color={ 159 50 36 }
 				color2={ 255 255 255 }
 
-				b_okondja_GA = {
-				}
-				b_eleko_GA = {
-				}
-				b_alanga_GA = {
-				}
-				b_omoana_GA = {
-				}
-				b_leoinga_GA = {
-				}
-				b_atongo_GA = {
-				}
-				b_oyanza_GA = {
-				}
+				b_okondja_GA = {}
+				b_eleko_GA = {}
+				b_alanga_GA = {}
+				b_omoana_GA = {}
+				b_leoinga_GA = {}
+				b_atongo_GA = {}
+				b_oyanza_GA = {}
 			}
 		}
 		d_haut_ogooue = {
@@ -544,77 +403,49 @@ e_congo = {
 				color={ 106 74 70 }
 				color2={ 255 255 255 }
 
-				b_lekoni_GA = {
-				}
-				b_akieni_GA = {
-				}
-				b_bongoville_GA = {
-				}
-				b_kabaga_GA = {
-				}
-				b_lewou_GA = {
-				}
-				b_akou_GA = {
-				}
-				b_kelle_GA = {
-				}
+				b_lekoni_GA = {}
+				b_akieni_GA = {}
+				b_bongoville_GA = {}
+				b_kabaga_GA = {}
+				b_lewou_GA = {}
+				b_akou_GA = {}
+				b_kelle_GA = {}
 			}
 			c_djoue = {
 				color={ 101 60 60 }
 				color2={ 255 255 255 }
 
-				b_onga_GA = {
-				}
-				b_otou_GA = {
-				}
-				b_aboumi_GA = {
-				}
-				b_mboui_GA = {
-				}
-				b_ossiele_GA = {
-				}
-				b_yemenga_GA = {
-				}
-				b_obegue_GA = {
-				}
+				b_onga_GA = {}
+				b_otou_GA = {}
+				b_aboumi_GA = {}
+				b_mboui_GA = {}
+				b_ossiele_GA = {}
+				b_yemenga_GA = {}
+				b_obegue_GA = {}
 			}
 			c_mpassa = {
 				color={ 143 60 60 }
 				color2={ 255 255 255 }
 
-				b_motobo_GA = {
-				}
-				b_franceville_GA = {
-				}
-				b_bitono_GA = {
-				}
-				b_ndoubi_GA = {
-				}
-				b_maulongo_GA = {
-				}
-				b_beka_beka_GA = {
-				}
-				b_okoloville_GA = {
-				}
+				b_motobo_GA = {}
+				b_franceville_GA = {}
+				b_bitono_GA = {}
+				b_ndoubi_GA = {}
+				b_maulongo_GA = {}
+				b_beka_beka_GA = {}
+				b_okoloville_GA = {}
 			}
 			c_lemboumbi_leyou = {
 				color={ 159 27 27 }
 				color2={ 255 255 255 }
 
-				b_bakoumba_GA = {
-				}
-				b_moanda_GA = {
-				}
-				b_mounana_GA = {
-				}
-				b_itoko_GA = {
-				}
-				b_moyabi_GA = {
-				}
-				b_lekoko_GA = {
-				}
-				b_djoutou_GA = {
-				}
+				b_bakoumba_GA = {}
+				b_moanda_GA = {}
+				b_mounana_GA = {}
+				b_itoko_GA = {}
+				b_moyabi_GA = {}
+				b_lekoko_GA = {}
+				b_djoutou_GA = {}
 			}
 		}
 		d_lolo = {
@@ -625,58 +456,37 @@ e_congo = {
 				color={ 159 55 27 }
 				color2={ 255 255 255 }
 
-				b_mbonha_GA = {
-				}
-				b_lastoursville_GA = {
-				}
-				b_mahouna_GA = {
-				}
-				b_mikouya_GA = {
-				}
-				b_kera_kera_GA = {
-				}
-				b_nzinga_nzinga_GA = {
-				}
-				b_doume_GA = {
-				}
+				b_mbonha_GA = {}
+				b_lastoursville_GA = {}
+				b_mahouna_GA = {}
+				b_mikouya_GA = {}
+				b_kera_kera_GA = {}
+				b_nzinga_nzinga_GA = {}
+				b_doume_GA = {}
 			}
 			c_bouenguidi = {
 				color={ 115 26 2 }
 				color2={ 255 255 255 }
 
-				b_pana_GA = {
-				}
-				b_koulamoutou_GA = {
-				}
-				b_boungou_GA = {
-				}
-				b_koumou_GA = {
-				}
-				b_ivete_GA = {
-				}
-				b_roungassa_GA = {
-				}
-				b_leyimba_GA = {
-				}
+				b_pana_GA = {}
+				b_koulamoutou_GA = {}
+				b_boungou_GA = {}
+				b_koumou_GA = {}
+				b_ivete_GA = {}
+				b_roungassa_GA = {}
+				b_leyimba_GA = {}
 			}
 			c_offoue_onoye = {
 				color={ 98 39 39 }
 				color2={ 255 255 255 }
 
-				b_iboundji_GA = {
-				}
-				b_inzamba_GA = {
-				}
-				b_massoukou_GA = {
-				}
-				b_igoumbi_GA = {
-				}
-				b_niamba_GA = {
-				}
-				b_oubendji_GA = {
-				}
-				b_boussimbi_GA = {
-				}
+				b_iboundji_GA = {}
+				b_inzamba_GA = {}
+				b_massoukou_GA = {}
+				b_igoumbi_GA = {}
+				b_niamba_GA = {}
+				b_oubendji_GA = {}
+				b_boussimbi_GA = {}
 			}
 		}
 	}
@@ -692,36 +502,31 @@ e_congo = {
 				color={ 73 114 73 }
 				color2={ 255 255 255 }
 
-				b_kouilou = {
-				}
+				b_kouilou = {}
 			}
 			c_pointe_noire = {
 				color={ 40 151 40 }
 				color2={ 255 255 255 }
 
-				b_pointe_noire = {
-				}
+				b_pointe_noire = {}
 			}
 			c_dolisie_loubomo = {
 				color={ 19 84 19 }
 				color2={ 255 255 255 }
 
-				b_dolisie_loubomo = {
-				}
+				b_dolisie_loubomo = {}
 			}
 			c_mossendjo = {
 				color={ 105 133 105 }
 				color2={ 255 255 255 }
 
-				b_mossendjo = {
-				}
+				b_mossendjo = {}
 			}
 			c_chaillu = {
 				color={ 124 212 61 }
 				color2={ 255 255 255 }
 
-				b_chaillu = {
-				}
+				b_chaillu = {}
 			}
 		}
 		d_bouenza = {
@@ -732,22 +537,19 @@ e_congo = {
 				color={ 49 156 21 }
 				color2={ 255 255 255 }
 
-				b_nkayi = {
-				}
+				b_nkayi = {}
 			}
 			c_loudima = {
 				color={ 61 246 68 }
 				color2={ 255 255 255 }
 
-				b_loudima = {
-				}
+				b_loudima = {}
 			}
 			c_mouyondzi = {
 				color={ 48 112 50 }
 				color2={ 255 255 255 }
 
-				b_mouyondzi = {
-				}
+				b_mouyondzi = {}
 			}
 		}
 		d_lekoumou = {
@@ -758,29 +560,25 @@ e_congo = {
 				color={ 20 196 97 }
 				color2={ 255 255 255 }
 
-				b_sibiti = {
-				}
+				b_sibiti = {}
 			}
 			c_komono = {
 				color={ 59 87 71 }
 				color2={ 255 255 255 }
 
-				b_komono = {
-				}
+				b_komono = {}
 			}
 			c_zanaga = {
 				color={ 55 146 23 }
 				color2={ 255 255 255 }
 
-				b_zanaga = {
-				}
+				b_zanaga = {}
 			}
 			c_bambama = {
 				color={ 118 186 95 }
 				color2={ 255 255 255 }
 
-				b_bambama = {
-				}
+				b_bambama = {}
 			}
 		}
 		d_pool = {
@@ -791,43 +589,37 @@ e_congo = {
 				color={ 88 114 79 }
 				color2={ 255 255 255 }
 
-				b_kinkala = {
-				}
+				b_kinkala = {}
 			}
 			c_kindamba = {
 				color={ 90 196 5 }
 				color2={ 255 255 255 }
 
-				b_kindamba = {
-				}
+				b_kindamba = {}
 			}
 			c_mayama = {
 				color={ 107 57 67 }
 				color2={ 255 255 255 }
 
-				b_mayama = {
-				}
+				b_mayama = {}
 			}
 			c_brazzaville = {
 				color={ 93 168 89 }
 				color2={ 255 255 255 }
 
-				b_brazzaville = {
-				}
+				b_brazzaville = {}
 			}
 			c_ngabe = {
 				color={ 20 148 14 }
 				color2={ 255 255 255 }
 
-				b_ngabe = {
-				}
+				b_ngabe = {}
 			}
 			c_malebo = {
 				color={ 72 135 25 }
 				color2={ 255 255 255 }
 
-				b_malebo = {
-				}
+				b_malebo = {}
 			}
 		}
 		d_plateaux = {
@@ -838,36 +630,31 @@ e_congo = {
 				color={ 69 199 63 }
 				color2={ 255 255 255 }
 
-				b_lefini = {
-				}
+				b_lefini = {}
 			}
 			c_lekana = {
 				color={ 17 193 123 }
 				color2={ 255 255 255 }
 
-				b_lekana = {
-				}
+				b_lekana = {}
 			}
 			c_abala = {
 				color={ 14 113 39 }
 				color2={ 255 255 255 }
 
-				b_abala = {
-				}
+				b_abala = {}
 			}
 			c_gamboma = {
 				color={ 85 105 79 }
 				color2={ 255 255 255 }
 
-				b_gamboma = {
-				}
+				b_gamboma = {}
 			}
 			c_djambala = {
 				color={ 38 79 48 }
 				color2={ 255 255 255 }
 
-				b_djambala = {
-				}
+				b_djambala = {}
 			}
 		}
 		d_cuvette = {
@@ -878,43 +665,37 @@ e_congo = {
 				color={ 63 180 64 }
 				color2={ 255 255 255 }
 
-				b_okoyo = {
-				}
+				b_okoyo = {}
 			}
 			c_owando = {
 				color={ 133 171 100 }
 				color2={ 255 255 255 }
 
-				b_owando = {
-				}
+				b_owando = {}
 			}
 			c_makoua = {
 				color={ 110 137 23 }
 				color2={ 255 255 255 }
 
-				b_makoua = {
-				}
+				b_makoua = {}
 			}
 			c_ewo = {
 				color={ 62 215 59 }
 				color2={ 255 255 255 }
 
-				b_ewo = {
-				}
+				b_ewo = {}
 			}
 			c_lossi = {
 				color={ 181 230 29 }
 				color2={ 255 255 255 }
 
-				b_lossi = {
-				}
+				b_lossi = {}
 			}
 			c_ouesso = {
 				color={ 109 199 51 }
 				color2={ 255 255 255 }
 
-				b_ouesso = {
-				}
+				b_ouesso = {}
 			}
 		}
 		d_likouala = {
@@ -925,22 +706,19 @@ e_congo = {
 				color={ 25 135 47 }
 				color2={ 255 255 255 }
 
-				b_liranga = {
-				}
+				b_liranga = {}
 			}
 			c_pikounda = {
 				color={ 59 151 77 }
 				color2={ 255 255 255 }
 
-				b_pikounda = {
-				}
+				b_pikounda = {}
 			}
 			c_impfondo = {
 				color={ 33 145 31 }
 				color2={ 255 255 255 }
 
-				b_impfondo = {
-				}
+				b_impfondo = {}
 			}
 		}
 	}

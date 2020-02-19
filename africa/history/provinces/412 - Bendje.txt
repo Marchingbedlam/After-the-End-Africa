@@ -9,7 +9,7 @@ b_port_gentil_GA = city
 b_ozori_GA = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

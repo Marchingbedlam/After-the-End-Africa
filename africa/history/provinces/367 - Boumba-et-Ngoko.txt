@@ -7,7 +7,7 @@ max_settlements = 3
 b_boumba_et_ngoko = castle
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

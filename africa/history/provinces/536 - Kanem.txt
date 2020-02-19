@@ -8,7 +8,7 @@ b_nokou_TD = castle
 b_mao_TD = city
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

@@ -9,7 +9,7 @@ b_doba_TD = city
 b_bebedjia_TD = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

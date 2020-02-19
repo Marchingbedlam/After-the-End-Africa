@@ -4,126 +4,91 @@ e_atlantia = {
 	
 	culture = Verdean
 	capital = 157 # c_santiago
-					
+				
 	k_cabo_verde = {
 		color={ 0 53 148 }
 		color2={ 255 255 255 }
-						
+					
 		capital = 157 # c_santiago
 		culture = verdean
-						
+					
 		d_sotavento_islands = {
 			color={ 0 53 205 }
 			color2={ 255 255 255 }
 
 			capital = 157 # c_santiago
-							
-				c_santiago = {
-					color={ 0 53 148 }
-					color2={ 255 255 255 }
-					
-					b_praia_CV = {
-					}
-					b_cidade_velha_CV = {
-					}
-					b_assomada_CV = {
-					}
-					b_pedra_badejo_CV = {
-					}
-					b_tarrafal_CV = {
-					}
-					b_porto_ingles_CV = {
-					}
-					b_calheta_CV = {
-					}
-				}
-					
-				c_fogo = {
-					color={ 15 50 112 }
-					color2={ 255 255 255 }	
-					
-					b_sao_filipe_CV = {
-					}
-					b_mosteiros_CV = {
-					}
-					b_cova_figueira_CV = {
-					}
-					b_nova_sintra_CV = {
-					}
-					b_ponta_verde_CV = {
-					}
-					b_faja_de_agua_CV = {
-					}
-					b_brava_CV = {
-					}
-				}
-			}
-		d_barlavento_islands = {
-				color={ 43 69 115 }
+						
+			c_santiago = {
+				color={ 0 53 148 }
 				color2={ 255 255 255 }
-					
-				capital = 160 # c_sao_vicente
-					
-				culture = verdean
-							
+				
+				b_praia_CV = {}
+				b_cidade_velha_CV = {}
+				b_assomada_CV = {}
+				b_pedra_badejo_CV = {}
+				b_tarrafal_CV = {}
+				b_porto_ingles_CV = {}
+				b_calheta_CV = {}
+			}
+				
+			c_fogo = {
+				color={ 15 50 112 }
+				color2={ 255 255 255 }
+				
+				b_sao_filipe_CV = {}
+				b_mosteiros_CV = {}
+				b_cova_figueira_CV = {}
+				b_nova_sintra_CV = {}
+				b_ponta_verde_CV = {}
+				b_faja_de_agua_CV = {}
+				b_brava_CV = {}
+			}
+		}
+		d_barlavento_islands = {
+			color={ 43 69 115 }
+			color2={ 255 255 255 }
+				
+			capital = 160 # c_sao_vicente
+				
+			culture = verdean
+						
 			c_boavista_e_sal = {
 				color={ 31 65 127 }
 				color2={ 255 255 255 }
-								
-				b_sal_rei_CV = {
-				}
-				b_palmeira_CV = {
-				}
-				b_espargos_CV = {
-				}
-				b_santa_maria_CV = {
-				}
-				b_rabil_CV = {
-				}
-				b_pedra_de_lume_CV = {
-				}
-				b_murdeira_CV = {
-				}
+						
+				b_sal_rei_CV = {}
+				b_palmeira_CV = {}
+				b_espargos_CV = {}
+				b_santa_maria_CV = {}
+				b_rabil_CV = {}
+				b_pedra_de_lume_CV = {}
+				b_murdeira_CV = {}
 			}
-							
+						
 			c_sao_vicente = {
 				color={ 43 69 115 }
 				color2={ 255 255 255 }
-								
-				b_mindelo_CV = {
-				}
-				b_tarrafal_de_sao_nicolau_CV = {
-				}
-				b_ribeira_brava_CV = {
-				}
-				b_ribeira_de_calhau_CV = {
-				}
-				b_madeiral_CV = {
-				}
-				b_juncalinho_CV = {
-				}
-				b_praia_branca_CV = {
-				}
+						
+				b_mindelo_CV = {}
+				b_tarrafal_de_sao_nicolau_CV = {}
+				b_ribeira_brava_CV = {}
+				b_ribeira_de_calhau_CV = {}
+				b_madeiral_CV = {}
+				b_juncalinho_CV = {}
+				b_praia_branca_CV = {}
 			}
 			
 			c_santo_antao = {
 				color={ 56 97 169 }
 				color2={ 255 255 255 }
-								
-				b_porto_novo_CV = {
-				}
-				b_ponta_do_sol_CV = {
-				}
-				b_janela_CV = {
-				}
-				b_tarrafal_de_monte_trigo_CV = {
-				}
-				b_ribeira_da_cruz_CV = {
-				}
-				b_sinagoga_CV = {
-				}
-				b_cruzinha_CV = {
-				}
+						
+				b_porto_novo_CV = {}
+				b_ponta_do_sol_CV = {}
+				b_janela_CV = {}
+				b_tarrafal_de_monte_trigo_CV = {}
+				b_ribeira_da_cruz_CV = {}
+				b_sinagoga_CV = {}
+				b_cruzinha_CV = {}
 			}
 		}
 	}

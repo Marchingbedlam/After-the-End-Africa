@@ -9,7 +9,7 @@ b_mayahi_NE = city
 b_margargari_NE = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

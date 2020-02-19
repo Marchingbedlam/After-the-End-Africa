@@ -7,7 +7,7 @@ max_settlements = 3
 b_inoubou = castle
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

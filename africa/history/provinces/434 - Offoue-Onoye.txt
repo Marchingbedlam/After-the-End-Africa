@@ -8,7 +8,7 @@ b_iboundji_GA = castle
 b_inzamba_GA = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

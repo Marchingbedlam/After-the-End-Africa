@@ -337,7 +337,7 @@ arabic = {
 		graphical_cultures = { westafricangfx arabicgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
-		color = {  }
+		color = { 0.5 0.7 0.5 }
 		
 		male_names = {
 			Abane Abdelaziz_Abdul-Aziz Abdelhafid Abdelkader_Abdul-Kadir Abdellah_Abdullah Abdeslam_Abdul-Salam Adel Adergazuz Aderrebou Adherbal Aghecher Ahmed Aksél Ali Amirouche Antalas Az'Regh Azzedine_Azzaddin

@@ -9,7 +9,7 @@ b_tessaoua_NE = city
 b_ourafane_NE = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

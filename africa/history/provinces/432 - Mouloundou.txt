@@ -8,7 +8,7 @@ b_mbonha_GA = castle
 b_lastoursville_GA = city
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

@@ -8,7 +8,7 @@ b_tchintabaraden_NE = castle
 b_tassara_NE = city
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

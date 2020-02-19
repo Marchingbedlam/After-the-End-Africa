@@ -8,7 +8,7 @@ b_bitam_GA = city
 b_nkue_GQ = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History

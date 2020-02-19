@@ -9,7 +9,7 @@ b_mbigou_GA = city
 b_mboungou_mbadouma_GA = temple
 
 # Misc
-culture = noculture
+culture = kpelle
 religion = catholic
 
 #History
