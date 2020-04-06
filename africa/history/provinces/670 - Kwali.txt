@@ -1,0 +1,15 @@
+# County Title
+title = c_kwali
+
+# Settlements
+max_settlements = 3
+
+b_kwali_1 = castle
+b_kwali_2 = temple
+b_kwali_3 = city
+
+# Misc
+culture = nupe
+religion = anglican
+
+#History

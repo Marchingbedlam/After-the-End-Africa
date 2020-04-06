@@ -1,0 +1,15 @@
+# County Title
+title = c_aba
+
+# Settlements
+max_settlements = 3
+
+b_aba_1 = castle
+b_aba_2 = temple
+b_aba_3 = city
+
+# Misc
+culture = igbo
+religion = anglican
+
+#History

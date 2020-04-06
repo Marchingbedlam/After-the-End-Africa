@@ -1,0 +1,15 @@
+# County Title
+title = c_akwanga
+
+# Settlements
+max_settlements = 3
+
+b_akwanga_1 = castle
+b_akwanga_2 = temple
+b_akwanga_3 = city
+
+# Misc
+culture = plateau
+religion = sunni
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title = c_oguma
+
+# Settlements
+max_settlements = 3
+
+b_oguma_1 = castle
+b_oguma_2 = temple
+b_oguma_3 = city
+
+# Misc
+culture = kainji
+religion = anglican
+
+#History

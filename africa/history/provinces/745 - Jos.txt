@@ -1,0 +1,15 @@
+# County Title
+title = c_jos
+
+# Settlements
+max_settlements = 3
+
+b_jos_1 = castle
+b_jos_2 = temple
+b_jos_3 = city
+
+# Misc
+culture = pijin
+religion = sunni
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title = c_bali
+
+# Settlements
+max_settlements = 3
+
+b_bali_1 = castle
+b_bali_2 = temple
+b_bali_3 = city
+
+# Misc
+culture = fulbe
+religion = sunni
+
+#History

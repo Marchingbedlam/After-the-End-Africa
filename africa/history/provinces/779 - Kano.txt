@@ -1,0 +1,15 @@
+# County Title
+title = c_kano
+
+# Settlements
+max_settlements = 3
+
+b_kano_1 = castle
+b_kano_2 = temple
+b_kano_3 = city
+
+# Misc
+culture = hausa
+religion = sunni
+
+#History

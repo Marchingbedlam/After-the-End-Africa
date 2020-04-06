@@ -1,0 +1,15 @@
+# County Title
+title = c_kara
+
+# Settlements
+max_settlements = 3
+
+b_kara_1 = castle
+b_kara_2 = temple
+b_kara_3 = city
+
+# Misc
+culture = gurunsi
+religion = sunni
+
+#History

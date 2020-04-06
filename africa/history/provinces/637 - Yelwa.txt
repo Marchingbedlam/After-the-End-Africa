@@ -1,0 +1,15 @@
+# County Title
+title = c_yelwa
+
+# Settlements
+max_settlements = 3
+
+b_yelwa_1 = castle
+b_yelwa_2 = temple
+b_yelwa_3 = city
+
+# Misc
+culture = kainji
+religion = sunni
+
+#History

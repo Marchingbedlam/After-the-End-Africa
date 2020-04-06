@@ -1,0 +1,15 @@
+# County Title
+title = c_ife
+
+# Settlements
+max_settlements = 3
+
+b_ife_1 = castle
+b_ife_2 = temple
+b_ife_3 = city
+
+# Misc
+culture = yoruba
+religion = sunni
+
+#History

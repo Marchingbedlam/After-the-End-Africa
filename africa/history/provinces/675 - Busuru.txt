@@ -1,0 +1,15 @@
+# County Title
+title = c_busuru
+
+# Settlements
+max_settlements = 3
+
+b_busuru_1 = castle
+b_busuru_2 = temple
+b_busuru_3 = city
+
+# Misc
+culture = kainji
+religion = sunni
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title = c_osogbo
+
+# Settlements
+max_settlements = 3
+
+b_osogbo_1 = castle
+b_osogbo_2 = temple
+b_osogbo_3 = city
+
+# Misc
+culture = yoruba
+religion = anglican #yoruba
+
+#History

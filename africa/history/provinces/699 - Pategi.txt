@@ -1,0 +1,15 @@
+# County Title
+title = c_pategi
+
+# Settlements
+max_settlements = 3
+
+b_pategi_1 = castle
+b_pategi_2 = temple
+b_pategi_3 = city
+
+# Misc
+culture = nupe
+religion = sunni
+
+#History

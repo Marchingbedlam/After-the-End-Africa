@@ -1,0 +1,15 @@
+# County Title
+title = c_kandi
+
+# Settlements
+max_settlements = 3
+
+b_kandi_1 = castle
+b_kandi_2 = temple
+b_kandi_3 = city
+
+# Misc
+culture = bariba
+religion = sunni
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title = c_akamkpa
+
+# Settlements
+max_settlements = 3
+
+b_akamkpa_1 = castle
+b_akamkpa_2 = temple
+b_akamkpa_3 = city
+
+# Misc
+culture = grassfields
+religion = anglican
+
+#History

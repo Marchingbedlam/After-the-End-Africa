@@ -1,0 +1,15 @@
+# County Title
+title = c_kabba
+
+# Settlements
+max_settlements = 3
+
+b_kabba_1 = castle
+b_kabba_2 = temple
+b_kabba_3 = city
+
+# Misc
+culture = nupe
+religion = anglican
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title = c_gwarzo
+
+# Settlements
+max_settlements = 3
+
+b_gwarzo_1 = castle
+b_gwarzo_2 = temple
+b_gwarzo_3 = city
+
+# Misc
+culture = hausa
+religion = sunni
+
+#History

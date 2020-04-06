@@ -1,0 +1,15 @@
+# County Title
+title = c_doma
+
+# Settlements
+max_settlements = 3
+
+b_doma_1 = castle
+b_doma_2 = temple
+b_doma_3 = city
+
+# Misc
+culture = idoma
+religion = anglican
+
+#History

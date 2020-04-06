@@ -1,0 +1,15 @@
+# County Title
+title = c_vande_ikya
+
+# Settlements
+max_settlements = 3
+
+b_vande_ikya_1 = castle
+b_vande_ikya_2 = temple
+b_vande_ikya_3 = city
+
+# Misc
+culture = grassfields
+religion = anglican
+
+#History

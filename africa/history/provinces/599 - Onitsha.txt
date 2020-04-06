@@ -1,0 +1,15 @@
+# County Title
+title = c_onitsha
+
+# Settlements
+max_settlements = 3
+
+b_onitsha_1 = castle
+b_onitsha_2 = temple
+b_onitsha_3 = city
+
+# Misc
+culture = pijin
+religion = catholic
+
+#History

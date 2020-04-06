@@ -1,0 +1,15 @@
+# County Title
+title = c_sagbama
+
+# Settlements
+max_settlements = 3
+
+b_sagbama_1 = castle
+b_sagbama_2 = temple
+b_sagbama_3 = city
+
+# Misc
+culture = ijo
+religion = anglican #pentecostal
+
+#History

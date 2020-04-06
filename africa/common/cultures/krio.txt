@@ -1,0 +1,21 @@
+###ÄNSI
+krio_group = {
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { muslimgfx }
+	
+	pijin = { #nigeria
+		color = { 0.65 0.35 0.4 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+		
+		}
+		
+		female_names = {
+		}
+
+	}
+
+}

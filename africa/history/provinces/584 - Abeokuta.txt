@@ -1,0 +1,15 @@
+# County Title
+title = c_abeokuta
+
+# Settlements
+max_settlements = 3
+
+b_abeokuta_1 = castle
+b_abeokuta_2 = temple
+b_abeokuta_3 = city
+
+# Misc
+culture = yoruba
+religion = anglican #yoruba
+
+#History

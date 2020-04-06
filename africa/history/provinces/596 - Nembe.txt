@@ -1,0 +1,15 @@
+# County Title
+title = c_nembe
+
+# Settlements
+max_settlements = 3
+
+b_nembe_1 = castle
+b_nembe_2 = temple
+b_nembe_3 = city
+
+# Misc
+culture = ijo
+religion = anglican #pentecostal
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title = c_wukari
+
+# Settlements
+max_settlements = 3
+
+b_wukari_1 = castle
+b_wukari_2 = temple
+b_wukari_3 = city
+
+# Misc
+culture = jukun
+religion = anglican
+
+#History

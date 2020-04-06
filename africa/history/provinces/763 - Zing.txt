@@ -1,0 +1,15 @@
+# County Title
+title = c_zing
+
+# Settlements
+max_settlements = 3
+
+b_zing_1 = castle
+b_zing_2 = temple
+b_zing_3 = city
+
+# Misc
+culture = mumuye
+religion = sunni
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title = c_bunza
+
+# Settlements
+max_settlements = 3
+
+b_bunza_1 = castle
+b_bunza_2 = temple
+b_bunza_3 = city
+
+# Misc
+culture = hausa
+religion = sunni
+
+#History

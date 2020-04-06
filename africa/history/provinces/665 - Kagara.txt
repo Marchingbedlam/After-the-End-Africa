@@ -1,0 +1,15 @@
+# County Title
+title = c_kagara
+
+# Settlements
+max_settlements = 3
+
+b_kagara_1 = castle
+b_kagara_2 = temple
+b_kagara_3 = city
+
+# Misc
+culture = kainji
+religion = sunni
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title = c_bembereke
+
+# Settlements
+max_settlements = 3
+
+b_bembereke_1 = castle
+b_bembereke_2 = temple
+b_bembereke_3 = city
+
+# Misc
+culture = bariba
+religion = catholic
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title = c_yana
+
+# Settlements
+max_settlements = 3
+
+b_yana_1 = castle
+b_yana_2 = temple
+b_yana_3 = city
+
+# Misc
+culture = bole
+religion = sunni
+
+#History

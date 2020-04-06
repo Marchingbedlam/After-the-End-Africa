@@ -1,0 +1,15 @@
+# County Title
+title = c_bida
+
+# Settlements
+max_settlements = 3
+
+b_bida_1 = castle
+b_bida_2 = temple
+b_bida_3 = city
+
+# Misc
+culture = nupe
+religion = anglican
+
+#History

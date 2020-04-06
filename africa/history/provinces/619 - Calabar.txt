@@ -1,0 +1,15 @@
+# County Title
+title = c_calabar
+
+# Settlements
+max_settlements = 3
+
+b_calabar_1 = castle
+b_calabar_2 = temple
+b_calabar_3 = city
+
+# Misc
+culture = cross_river
+religion = anglican
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title = c_bogoro
+
+# Settlements
+max_settlements = 3
+
+b_bogoro_1 = castle
+b_bogoro_2 = temple
+b_bogoro_3 = city
+
+# Misc
+culture = tiv
+religion = anglican
+
+#History

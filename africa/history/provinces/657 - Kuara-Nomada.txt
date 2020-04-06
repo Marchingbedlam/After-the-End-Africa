@@ -1,0 +1,15 @@
+# County Title
+title = c_kuara-nomada
+
+# Settlements
+max_settlements = 3
+
+b_kuara-nomada_1 = castle
+b_kuara-nomada_2 = temple
+b_kuara-nomada_3 = city
+
+# Misc
+culture = hausa
+religion = sunni
+
+#History

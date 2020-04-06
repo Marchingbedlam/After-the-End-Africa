@@ -1,0 +1,15 @@
+# County Title
+title = c_gumel
+
+# Settlements
+max_settlements = 3
+
+b_gumel_1 = castle
+b_gumel_2 = temple
+b_gumel_3 = city
+
+# Misc
+culture = hausa
+religion = sunni
+
+#History

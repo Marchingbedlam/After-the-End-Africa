@@ -1,0 +1,600 @@
+###ÄNSI
+
+edoid = {
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { muslimgfx }
+	edo = {
+		color = { 0.68 0.76 0.44 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Abieyuwa Amenaghawon
+			Edoghogho Edosa Efe Efosa Eghosa Ehizogie Ekinadoese Eloghosa Emwinghare Erharuyi
+			Idehen Idemudia Ighayezomo Imadeyunuagbon Imudiase Isiuwa Izoduwa Izogie
+			Jesuobo
+			Nekpen Nosakhare
+			Obamina Oduva Oghogho Omoragbon Omoregbe Omoruyi Omosefe Omosigho Omozuwa Osadebamwen Osagiemwenagbon Osarenmwindamwen Osaretin Osariemen Osarodion Osarumwense Osasumwen Osatohanmwen Osawe Osawe Osayimwense Osayomore Osayuware Osaze Osazuwa Osemwengie Otasowie
+			Usiosefe Uyiosa
+		}
+		
+		female_names = {
+			Abieyuwa Adesuwa Akugbe Amenaghawon Amenze
+			Edosa Efe Efosa Eghosa Ehigiator Ehimwenma Ehiosu Ekiuwa Esohe Esomo Esosa
+			Ifueko Ighayezomo Imudiase Isiuwa Isoken Itohan Ivie Iyekoetin Iziegbe Izoduwa Izogie
+			Nekpen
+			Oghogho Omoregbe Omosigho Omoyemwen Omozuwa Osadebamwen Osariemen Osarobo Osasere Osasumwen Osatohanmwen Osawe Osayemwenre Osayomore Osayuware Osaze Otasowie
+		}
+
+	}
+}
+
+gbe = {
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { muslimgfx }
+	
+	ewe = {
+		color = { 1.0 1.5 2.0 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Adrah Adranyi Afefa Afelete Afetsi Agbe Agbeko Agbemabiase Agbemafle Agbenyo Agbesi Aghbenyefia Akorfala Akpe Akpenamawu Akpene Amedoamegboe Amenyo Ametame Ametefe Amevinya Amewu Aseye Awoe
+			Banini Bedzo Blewu Bubune Butsorme Butsormekpor
+			Dela Deladem Delali Delanya Delanyo Delasi Desiadenyo Dodzi Dogbeda Domenyo Dorbu Dugah Dunya Dzidudu Dzidula Dzidzeme Dzidzor Dzidzorm Dziedzorm Dzigbordi Dzordzoe Dzorgbenyui
+			Edem Edemi Edemi Edinam Edinami Edotom Edotomi Edrorlali Edudzi Edzordzi Edzordzinam Edzordzinawo Efakor Efakornam Ehenyuive Ekplorm Ekudeamenu Eleagbe Elegbadzadzi Elemawusi Eli Elike Elikem Elikemi Elikplim Elikplimi Elinam Elinami Elivava Elolo Elorm Elormi Emefa Ena Enam Enami Enya Enyam Enyami Enyo Enyonam Ese Eselali Eselase Eselasi Esenam Esene Esinu Etor Etorna Etorname Etornami Etriakor Ewoe Ewoenam Ewoenami Exornam Eyra Eyrae Eyram Eyrami
+			Fafa Fafali Feke Fiadzo Fiagbor Fiamavle Fianu Fiavi Fiawoyi
+			Gadogle Galevo Gameli Ganyebusu Ganyo Ganyo Gashika Gayome Gayra Gayram Gayrami Gbekor Golomeke
+			Hoenyame Hunexoe
+			Kafui Kekeli Kekle Kle Klenam Klenami Kplom Kplorla Kulewosi Kuzagbe
+			Lebenam Lebene Lolor Lolornyo Lorm Lorne
+			Makafui Manewuga Mawuena Mawuenyega Mawueyram Mawufemor Mawuko Mawuli Mawuli Mawuli Mawulikplim Mawulikplimi Mawulinam Mawulolo Mawulorm Mawunya Mawunyo Mawunyo Mawuse Mawusi Mawutor Mawuwoe Mawuworge Mazinkpi Morkporkpor
+			Namilkem Nkunu Nukunu Nunyani Nyamadi Nyonator Nyuitor
+			Sakumadranyi Se Seboe Sedem Sedemi Sedinam Sedoame Sedotom Sedotom Sedudzi Sedufia Sefadzi Sefakor Sefoga Selase Selasie Seli Selinam Selorm Sena Senam Senya Senyega Senyo Sese Seshi Seshie Sesi Setor Seyram Seyrami Sitso Sitsofe
+			Tamakloe Tsodzine Tsoeke Tsoekewo Tsoenamawu
+			Vadem Valikem Vayram Vivormadzigbe Vormawu
+			Woedem Woelorm Worlasi Worlawoe
+			Xebidzie Xedzro Xoese Xoglimakadu Xornam Xorse
+			Yao Yayra Yingor Yra Yram Yrami
+			
+			Abagba Adeladza Agodo Agorkoli Ahrlonko Amedor Anselmus_Anselm Anthony Anumah Atsa Augustin_Augustine Avorga Azamu
+			Bajavi Bernardo_Bernard Blihla
+			Charles
+			Denning Domingo_Dominic Dorglo Dzoboku
+			Enyonam Ewenya
+			Ferdinand Francis Fui
+			George
+			Hanto
+			Jacques
+			Katraya Kofi Komla Kpeglo Kpengla Kponton Kwasi
+			Lanyo Livingstone Lucien_Lucius
+			Ngunia Nyavor
+			Padmore
+			Raphael Richard Robert
+			Semenu Senyo Sri Stephano_Stephen
+			Timothy Titriwe Todjo Tsali Tsatsu
+		}
+		
+		female_names = {
+			Adrah Adranyi Afefa Afelete Afetsi Agbe Agbeko Agbemafle Agbenyo Agbesi Aghbenyefia Akorfa Akorfala Akpe Akpenamawu Akpene Amedoamegboe Amenyo Ametame Amevinya Amewu Aseye Asiwome Awoe
+			Bedzo Blewu Bubune Butsorme Butsormekpor
+			Dela Deladem Delali Delanya Delanyo Delasi Desiadenyo Dogbeda Domenyo Dorbu Dugah Dunya Dzidedi Dzidzeme Dzidzor Dzidzorm Dziedzorm Dzifa Dzigbordi Dzordzoe Dzorgbenyui
+			Edem Edemi Edemi Edinam Edinami Edotom Edotomi Edrorlali Edudzi Edzordzi Edzordzinam Edzordzinawo Efakor Efakornam Ehenyuive Ekplorm Ekudeamenu Eleagbe Elegbadzadzi Elemawusi Eli Elike Elikplim Elikplimi Elinam Elinami Elivava Elolo Elorm Elormi Emefa Ena Enam Enami Enya Enyam Enyami Enyo Enyonam Enyonam Ese Eselali Eselase Eselasi Esenam Esene Esinu Etor Etorna Etorname Etornami Etriakor Ewoe Ewoenam Ewoenami Exornam Eyra Eyrae Eyram Eyrami
+			Fafa Fafali Feke Fiadzo Fiagbor Fiamavle Fianu Fiavi Fiawoyi
+			Gadogle Galevo Gameli Ganyebusu Ganyo Ganyo Gashika Gayome Gayra Gayram Gayrami Gbekor Golomeke
+			Hoenyame Hunexoe
+			Kafui Kekeli Kekle Kle Klenam Klenami Kplom Kplorla Kulewosi Kuzagbe
+			Lebenam Lebene Lolor Lolornyo Lorm Lorne Lumusi
+			Makafui Manewuga Mawuena Mawuenyega Mawueyram Mawufemor Mawuko Mawuli Mawuli Mawulikplim Mawulikplimi Mawulinam Mawulolo Mawulorm Mawunya Mawunyo Mawunyo Mawuse Mawusi Mawutor Mawuwoe Mawuworge Mazinkpi Morkporkpor
+			Nkunu Nukunu Nuna Nunana Nunyani Nunyati Nyamadi Nyonator Nyuitor
+			Sakumadranyi Se Seboe Sedem Sedemi Sedinam Sedoame Sedotom Sedotom Sedudzi Sedufia Sefadzi Sefakor Sefoga Selase Selasie Seli Selinam Selorm Sena Senam Senya Senyega Senyo Sese Seshi Seshie Sesi Setor Seyram Seyrami Sitso Sitsofe
+			Tamakloe Tsodzine Tsoeke Tsoekewo Tsoenamawu
+			Vadem Valikem Vayram Vivormadzigbe Vormawu
+			Vadem Valikem Vayram Vivormadzigbe Vormawu
+			Xebidzie Xedzro Xoese Xoglimakadu Xornam Xorse
+			Yayra Yingor Yra Yram Yrami
+			
+			Akoshiwo Ametowofa Ameyo Annie_Anna
+			Cecilia Charity
+			Erica Esther
+			Mawuena
+			Patience
+			Ruth
+			Victoria
+		}
+
+	}
+	fon = {
+		color = { 0.7 0.34 0.5 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			
+			Agaja Doaklin Gangnihessou Dakodonou Houebadja Akaba Tegbessou Kpengla Agonglo Adandozan Ghezo Glele 
+			Behanzin Agoli-agbo Aidododo Togni-ahoussou Agolli-Agbo Houédogni Kokpon Te-Agdanlin Dosu Agbo Sassa Huffon 
+			Adoma Tomo
+			
+			Adrah Adranyi Afefa Afelete Afetsi Agbe Agbeko Agbemabiase Agbemafle Agbenyo Agbesi Aghbenyefia Akorfala Akpe Akpenamawu Akpene Amedoamegboe Amenyo Ametame Ametefe Amevinya Amewu Aseye Awoe
+			Banini Bedzo Blewu Bubune Butsorme Butsormekpor
+			Dela Deladem Delali Delanya Delanyo Delasi Desiadenyo Dodzi Dogbeda Domenyo Dorbu Dugah Dunya Dzidudu Dzidula Dzidzeme Dzidzor Dzidzorm Dziedzorm Dzigbordi Dzordzoe Dzorgbenyui
+			Edem Edemi Edemi Edinam Edinami Edotom Edotomi Edrorlali Edudzi Edzordzi Edzordzinam Edzordzinawo Efakor Efakornam Ehenyuive Ekplorm Ekudeamenu Eleagbe Elegbadzadzi Elemawusi Eli Elike Elikem Elikemi Elikplim Elikplimi Elinam Elinami Elivava Elolo Elorm Elormi Emefa Ena Enam Enami Enya Enyam Enyami Enyo Enyonam Ese Eselali Eselase Eselasi Esenam Esene Esinu Etor Etorna Etorname Etornami Etriakor Ewoe Ewoenam Ewoenami Exornam Eyra Eyrae Eyram Eyrami
+			Fafa Fafali Feke Fiadzo Fiagbor Fiamavle Fianu Fiavi Fiawoyi
+			Gadogle Galevo Gameli Ganyebusu Ganyo Ganyo Gashika Gayome Gayra Gayram Gayrami Gbekor Golomeke
+			Hoenyame Hunexoe
+			Kafui Kekeli Kekle Kle Klenam Klenami Kplom Kplorla Kulewosi Kuzagbe
+			Lebenam Lebene Lolor Lolornyo Lorm Lorne
+			Makafui Manewuga Mawuena Mawuenyega Mawuenyega Mawueyram Mawufemor Mawuko Mawuli Mawuli Mawuli Mawulikplim Mawulikplimi Mawulinam Mawulolo Mawulorm Mawunya Mawunyo Mawunyo Mawuse Mawusi Mawutor Mawuwoe Mawuworge Mazinkpi Morkporkpor
+			Namilkem Nkunu Nukunu Nunyani Nyamadi Nyonator Nyuitor
+			Sakumadranyi Se Seboe Sedem Sedemi Sedinam Sedoame Sedotom Sedotom Sedudzi Sedufia Sefadzi Sefakor Sefoga Selase Selasie Seli Selinam Selorm Sena Senam Senya Senyega Senyo Sese Seshi Seshie Sesi Setor Seyram Seyrami Sitso Sitsofe
+			Tamakloe Tsodzine Tsoeke Tsoekewo Tsoenamawu
+			Vadem Valikem Vayram Vivormadzigbe Vormawu
+			Woedem Woelorm Worlasi Worlawoe
+			Xebidzie Xedzro Xoese Xoglimakadu Xornam Xorse
+			Yao Yayra Yingor Yra Yram Yrami
+			
+			Abagba Adeladza Agodo Agorkoli Ahrlonko Amedor Anselmus_Anselm Anthony Anumah Atsa Augustin_Augustine Avorga Azamu
+			Bajavi Bernardo_Bernard Blihla
+			Charles
+			Denning Domingo_Dominic Dorglo Dzoboku
+			Enyonam Ewenya
+			Ferdinand Francis Fui
+			George
+			Hanto
+			Jacques
+			Katraya Kofi Komla Kpeglo Kpengla Kponton Kwasi
+			Lanyo Livingstone Lucien_Lucius
+			Ngunia Nyavor
+			Padmore
+			Raphael Richard Robert
+			Semenu Senyo Sri Stephano_Stephen
+			Timothy Titriwe Todjo Tsali Tsatsu
+		}
+		
+		female_names = {
+			
+			Hangbe Sehdong Hongbe Nawi Afyavi Ahwlikponuwa Asiba Ayàbà Abagbe Abegi Abeje Oluremi Winona Isi Abeni 
+			Abimbola Abiodun Ade Adebola Adebowale Adedayo Adetokunbo 
+			Alaba Ayo Ayodele Ayomide Ayotunde Bolanle Bosede Dada Dayo Ekundayo Eniola Enitan Folami Gbemisola Idowu 
+			Ife Ige Kayin Mojisola Monifa Olamide Olayinka Olubunmi Olufunke Olufunmilayo Olufunmilola Oluwafunmilayo 
+			Oluwakanyinsola Oluwasegun Oluwaseun Oluwaseyi Oluwatoyin Oluwayemisi Omobolanle Omolara Oni Opeyemi 
+			Simisola Temitope Titilayo Yejide Yewande
+			
+			Adrah Adranyi Afefa Afelete Afetsi Agbe Agbeko Agbemafle Agbenyo Agbesi Aghbenyefia Akorfa Akorfala Akpe Akpenamawu Akpene Amedoamegboe Amenyo Ametame Amevinya Amewu Aseye Asiwome Awoe
+			Bedzo Blewu Bubune Butsorme Butsormekpor
+			Dela Deladem Delali Delanya Delanyo Delasi Desiadenyo Dogbeda Domenyo Dorbu Dugah Dunya Dzidedi Dzidzeme Dzidzor Dzidzorm Dziedzorm Dzifa Dzigbordi Dzordzoe Dzorgbenyui
+			Edem Edemi Edemi Edinam Edinami Edotom Edotomi Edrorlali Edudzi Edzordzi Edzordzinam Edzordzinawo Efakor Efakornam Ehenyuive Ekplorm Ekudeamenu Eleagbe Elegbadzadzi Elemawusi Eli Elike Elikplim Elikplimi Elinam Elinami Elivava Elolo Elorm Elormi Emefa Ena Enam Enami Enya Enyam Enyami Enyo Enyonam Enyonam Ese Eselali Eselase Eselasi Esenam Esene Esinu Etor Etorna Etorname Etornami Etriakor Ewoe Ewoenam Ewoenami Exornam Eyra Eyrae Eyram Eyrami
+			Fafa Fafali Feke Fiadzo Fiagbor Fiamavle Fianu Fiavi Fiawoyi
+			Gadogle Galevo Gameli Ganyebusu Ganyo Ganyo Gashika Gayome Gayra Gayram Gayrami Gbekor Golomeke
+			Hoenyame Hunexoe
+			Kafui Kekeli Kekle Kle Klenam Klenami Kplom Kplorla Kulewosi Kuzagbe
+			Lebenam Lebene Lolor Lolornyo Lorm Lorne Lumusi
+			Makafui Manewuga Mawuena Mawuenyega Mawuenyega Mawueyram Mawufemor Mawuko Mawuli Mawuli Mawulikplim Mawulikplimi Mawulinam Mawulolo Mawulorm Mawunya Mawunyo Mawunyo Mawuse Mawusi Mawutor Mawuwoe Mawuworge Mazinkpi Morkporkpor
+			Nkunu Nukunu Nuna Nunana Nunyani Nunyati Nyamadi Nyonator Nyuitor
+			Sakumadranyi Se Seboe Sedem Sedemi Sedinam Sedoame Sedotom Sedotom Sedudzi Sedufia Sefadzi Sefakor Sefoga Selase Selasie Seli Selinam Selorm Sena Senam Senya Senyega Senyo Sese Seshi Seshie Sesi Setor Seyram Seyrami Sitso Sitsofe
+			Tamakloe Tsodzine Tsoeke Tsoekewo Tsoenamawu
+			Vadem Valikem Vayram Vivormadzigbe Vormawu
+			Vadem Valikem Vayram Vivormadzigbe Vormawu
+			Xebidzie Xedzro Xoese Xoglimakadu Xornam Xorse
+			Yayra Yingor Yra Yram Yrami
+			
+			Akoshiwo Ametowofa Ameyo Annie_Anna
+			Cecilia Charity
+			Erica Esther
+			Mawuena
+			Patience
+			Ruth
+			Victoria
+		}
+
+	}
+
+}
+
+idomoid = {
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { muslimgfx }
+	
+	idoma = {
+		color = { 0.31 0.48 0.37 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = { 
+			Abah Abakpa Aboh Abutu Ada Adah Adakole Adam Adama Adeyi Adole Agaba Agada Agbo Ajeh Ajeibi Ajenu Ajetamene Akoche Akogwu Akor Ale_Alechenu Alenyi_Alenyi-aleche Ameh Anebi Ankeli Anyebe Apeh Apochi Atama 
+			Ebo Ebute_Obute Edache Edoka Egba Eghahikowoicho Ehi_Ehikada Eje_Ejembi Ejelikwu Ek'owoicho Ekere Ekoja Ekondu Ekor Ekowo Elaigwu Emeche Enenche Enogela Ewache_Ewaoche 
+			Ichekani Idoko Igba Igoche Ihotu Ikpa Ikwuje Ikwulono Ina_Inalegwu Inedu Inyofu Itodo Iyowoichofe_Owoichofie
+			Ngbede
+			Obe_Obekpa Obiabo Obogwu Obotu_Ogbotu Ochai_Ochanyi_Otsayi Oche_Otse Ocheikwu Ocheje Ocheme Ochemeyi Ocheoho Ochohepo_Ohepo Ochojila Ocholuje Ochube Odaleko Odeh Odumu Ofu Ogangbo Ogbe Ogbole Ogebe Ogejuma Ogwola Ogwuche Ojechema Ojobo Ojonye Ojoyilano Okoh Okpe Okwo Okwori Oloche Olofu Olotuche Oloture Oluto Omaba Omaga Omale Omonu Ondugbe Onduka Oneh_Onuh Onjefu Onnah Onogwu Onoja Onum Oteikwu Owie_Owoicho "Owoicho Echi K'ikobi" Oyi'owoicho
+			Ude Ujah Umolo
+		}
+		
+		female_names = {
+			Abahi Achieni Agbenu Akoche Akum Aladi Aneh Anyaole 
+			Ebamu_Ebo Echayine Edugwu Eghahikowoicho Ehi Ehi_Ehik'owoicho Eje_Ejembi Ek'owoicho Ekoche Elakeche Eleyi Ema Emiene Enayi_Ene_Enekole_Enene_Enoche Ene Enebo Enoba Enyanwu 
+			Idenyi Igbe Ihotu Ijewoda Ikwubiela Ikwulono Iyefu Iyono Iyowoichofe_Owoichofie 
+			Obiabo Obiye Ochanya_Otsanya Ochfije Odachi Odaleko Oganya Ogodo Ogwa Ohi_Ojonya Ojilima Ojoyilano Oka Olotuche Oloture Onduka Onma Onyaomale Onyeche Onyechi Onyeje Onyela Onyeme Onyemowo Onyeyibo Onyi_Onyiloko_Onyuroko Onyiowo Oofuni Owagoyi_Owakoyi Owo_Owole_Owoloyi Owonya Oya Oyi'owoicho Oyibinga Oyife Oyiwoda Oyiwodu
+		}
+
+	}
+
+}
+
+ijoid = {
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { muslimgfx }
+	
+	ijo = {
+		color = { 0.26 0.6 0.7 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Abadi Abadibo Akpoebi Akpomatunemibofa Akpomofa Alabrah Alaowei Alazidei Alazimo Amaitari Amakama Amakedi Apapa Arukubu Awaran Ayakpo Ayebatonye Ayebaye Ayibaemi Ayibanua Ayibatonbara 
+			Bebebomobo Beleuzi Beredugo Biebele Bolouikie Bomo Boukazi Buwozi 
+			Daubode Daulayefa Derifagha Dimien Dinini Diseye Ditorusin Dooakpa Dookeme Doubra Douye Dumo 
+			Ebi Ebiakpo Ebibaratimi Ebidese Ebidesebofa Ebiegberi Ebigba Ebimie Ebiowei Ebiundu Ebiye Ebizimor Egberibin Ekio Ekiye Ekpolayun Eneikedi Enemo Enibraye Eremiemi Esikumo
+			Fasingha Fedude Felagha Funebi Funkuro
+			Gbayena Gbeneowei Gesebo Gesekeme Gesiye
+			Ifiemi Igunikeme Ikiemoye Ikuromo Iniekenimi Inipere Isomubo Itonyo Ituaton Izon-Ebi
+			Kariebi Kemelayefa Kpadia Kurokeme Kuroyefa
+			Monubai Motimifagha 
+			Namatinbo Ndukari Nengi Nengimote Ngoebi
+			Odayi Ogbotubo Ogezimo Ogola Ogonoebi Oluto Ondoukari Ondoutuapere Opukiri Owariladei Oweikorogha Oweyai Oyinedidei Oyintari
+			Paaye Pekeikakai Pere Pereagbe Pereama Perebo Perezimo Poukon Prezi
+			Sele Seledebo Selekumo Sonomo Sunubai Suoyo
+			Tamaralaifa Tamuno-imim Tamunotonye Tari Taribi Tarimbele Tariperedei Tekena Tiekuromo Timidi Timieri Tiri Tonye Tuburuode
+			Waibodei Waridabo Wenikado Woyengiemi Woyinbode Woyinkule#
+			Ziola Ziperela Zuobo Zuo
+		}
+		
+		female_names = {
+			Abadibo Akpoebi Akpomatunemibofa Akpomofa Alaere Alata Alayingi Alazimo Arukubu Awaran Ayakpo Ayebatonye Ayebaye Ayibaemi Ayibaifie Ayibanua Ayibatonbara 
+			Bebebomobo Beleuzi Beredugo Bibinidei Biboye Biebele Bobolayefa Bobomiegha Bodisere Bolouikie Bomo Boukazi Buboupakumo Buwozi 
+			Derifagha Dimien Disemi Diseye Ditorusin Diyinrin Dooakpa Doubra Duateme 
+			Ebeleakpo Ebi Ebiakpo Ebibaratimi Ebidese Ebidesebofa Ebiegberi Ebiere Ebifinidei Ebikake Ebimie Ebimoboere Ebinimi Ebiye Ebizimor Ebrakumo Edubamo Elayokon Emeleakpo Emomu Eneikedi Enemo Enibraye Eniye Erebi Eremiemi Esikumo
+			Fasingha Fedude Felagha Funebi Funere
+			Gbayena Gesebo Gesiye
+			Ifiemi Ikiemoye Ikuromo Inibrakemi Iniekenimi Inipere Itohan Itonyo Iyabode Izon-Ebi
+			Kariara Kariebi Kuroyefa
+			Lolia Luckere
+			Monubai Motimifagha 
+			Namatinbo Nengi Nengimote Ngoebi
+			Ogbotubo Ogezimo Ogola Ondoutuapere Owariladei Oyabrade Oyinbodei Oyinedidei Oyintari
+			Pekeikakai Pere Pereagbe Pereasuodei Perebo Pere-ere Perezimo Pinaere Poukon
+			Seiakumokumo Sele Seledebo Sonomo Sunubai Suoton Suoyo
+			Tamaralaifa Tamunotonye Tari Taribi Tariere Tarimbele Tariperedei Tekena Tiekuromo Timieri Tiri Tokoni Tonye
+			Waibodei Wariboko Waridabo Wenikado Woyengiemi Woyinbode
+			Yinlayefa Yoroakpo
+			Ziola Ziperela Zuobo Zuo
+		}
+
+	}
+
+}
+
+nupoid = {
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { muslimgfx }
+	
+	ebira = {
+		color = { 0.20 0.30 0.31 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Edegi "Abdu Waliyi" Alyu Ganamace Ibrahima Idirisu "Abd Allahi 'Tsado" "Abu Bakr Kolo" 
+			Jibirin "Au Bakr" Ma'azu Majiya Ilyasu "Ali Kolo Tankari" Mamma Jimada Jia Masaba 
+			Maza "Ma'azu 'Isa" Tsoede "'Usuman Zaki" "'Umaru Majigi" Maliki "Abu Bakr" Muhammadu Bello 
+			Malam "'Usman Sarki" "'Umaru Sanda Ndayako" Yahaya
+			
+			Adnan Audi
+			Balkisu Bini
+			Ceyagi
+			Edegi Egina
+			Farahat
+			Gbongbo Gbongboroko Gbogbori Gulu Guye
+			Inanaoko Ismail
+			Kpyamu Kolo Kuru
+			Maryam
+			Ndako Ndagi Nnagi Nma
+			Ryatwa
+			Shirun Sogba Sokoeyanya
+			Teugi Tsoede Tsubenya
+			Yebo
+			Zanna Zunyegi
+			
+			Aismi Ajimituhuo Avidime Asipita Amewuru Adeku Adabra Adajinege Adavize Adeiza Adomuha Ahovi Aduvo Ajoze Adinoyi Adaviruku Ajinomo Anataku Azamare
+			Enieyamire Ezuhio Enebe Enesi
+			Itopa 
+			Otuhuo Ovavi Ochiji Osheiza Onoto Onoruoiza Onotu Onozasi Onume Onuwoji Onimisi
+		}
+		
+		female_names = {
+			Abagbe Abegi Abeje Oluremi Winona Isi Abeni Abimbola Abiodun Ade Adebola Adebowale Adedayo Adetokunbo 
+			Alaba Ayo Ayodele Ayomide Ayotunde Bolanle Bosede Dada Dayo Ekundayo Eniola Enitan Folami Gbemisola Idowu 
+			Ife Ige Kayin Mojisola Monifa Olamide Olayinka Olubunmi Olufunke Olufunmilayo Olufunmilola Oluwafunmilayo 
+			Oluwakanyinsola Oluwasegun Oluwaseun Oluwaseyi Oluwatoyin Oluwayemisi Omobolanle Omolara Oni Opeyemi 
+			Simisola Temitope Titilayo Yejide Yewande
+			
+			Audi
+			Zanna Zunyegi
+			
+			Aismi Asipita A'aze 
+			Ireyi 
+			Otuhuo Orahachi Ochiji Onozare Osheiza Onize Onozasi Onsachi Onuchi Omeyi
+		}
+
+	}
+	gbagi = {
+		color = { 0.62 0.51 0.79 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Edegi "Abdu Waliyi" Alyu Ganamace Ibrahima Idirisu "Abd Allahi 'Tsado" "Abu Bakr Kolo" 
+			Jibirin "Au Bakr" Ma'azu Majiya Ilyasu "Ali Kolo Tankari" Mamma Jimada Jia Masaba 
+			Maza "Ma'azu 'Isa" Tsoede "'Usuman Zaki" "'Umaru Majigi" Maliki "Abu Bakr" Muhammadu Bello 
+			Malam "'Usman Sarki" "'Umaru Sanda Ndayako" Yahaya
+			
+			Adnan Audi
+			Balkisu Bini
+			Ceyagi
+			Edegi Egina
+			Farahat
+			Gbongbo Gbongboroko Gbogbori Gulu Guye
+			Inanaoko Ismail
+			Kpyamu Kolo Kuru
+			Maryam
+			Ndako Ndagi Nnagi Nma
+			Ryatwa
+			Shirun Sogba Sokoeyanya
+			Teugi Tsoede Tsubenya
+			Yebo
+			Zanna Zunyegi
+		}
+		
+		female_names = {
+			Abagbe Abegi Abeje Oluremi Winona Isi Abeni Abimbola Abiodun Ade Adebola Adebowale Adedayo Adetokunbo 
+			Alaba Ayo Ayodele Ayomide Ayotunde Bolanle Bosede Dada Dayo Ekundayo Eniola Enitan Folami Gbemisola Idowu 
+			Ife Ige Kayin Mojisola Monifa Olamide Olayinka Olubunmi Olufunke Olufunmilayo Olufunmilola Oluwafunmilayo 
+			Oluwakanyinsola Oluwasegun Oluwaseun Oluwaseyi Oluwatoyin Oluwayemisi Omobolanle Omolara Oni Opeyemi 
+			Simisola Temitope Titilayo Yejide Yewande
+			
+			Audi
+			Zanna Zunyegi
+		}
+
+	}
+	nupe = {
+		color = { 0.61 0.27 0.58 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Edegi "Abdu Waliyi" Alyu Ganamace Ibrahima Idirisu "Abd Allahi 'Tsado" "Abu Bakr Kolo" 
+			Jibirin "Au Bakr" Ma'azu Majiya Ilyasu "Ali Kolo Tankari" Mamma Jimada Jia Masaba 
+			Maza "Ma'azu 'Isa" Tsoede "'Usuman Zaki" "'Umaru Majigi" Maliki "Abu Bakr" Muhammadu Bello 
+			Malam "'Usman Sarki" "'Umaru Sanda Ndayako" Yahaya
+			
+			Adnan Audi
+			Balkisu Bini
+			Ceyagi
+			Edegi Egina
+			Farahat
+			Gbongbo Gbongboroko Gbogbori Gulu Guye
+			Inanaoko Ismail
+			Kpyamu Kolo Kuru
+			Maryam
+			Ndako Ndagi Nnagi Nma
+			Ryatwa
+			Shirun Sogba Sokoeyanya
+			Teugi Tsoede Tsubenya
+			Yebo
+			Zanna Zunyegi
+		}
+		
+		female_names = {
+			Abagbe Abegi Abeje Oluremi Winona Isi Abeni Abimbola Abiodun Ade Adebola Adebowale Adedayo Adetokunbo 
+			Alaba Ayo Ayodele Ayomide Ayotunde Bolanle Bosede Dada Dayo Ekundayo Eniola Enitan Folami Gbemisola Idowu 
+			Ife Ige Kayin Mojisola Monifa Olamide Olayinka Olubunmi Olufunke Olufunmilayo Olufunmilola Oluwafunmilayo 
+			Oluwakanyinsola Oluwasegun Oluwaseun Oluwaseyi Oluwatoyin Oluwayemisi Omobolanle Omolara Oni Opeyemi 
+			Simisola Temitope Titilayo Yejide Yewande
+			
+			Audi
+			Zanna Zunyegi
+		}
+
+	}
+
+}
+
+yoruboid = {
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { muslimgfx }
+	
+	igala = {
+		color = { 0.28 0.4 0.57 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Agude Ajogwu Akowe Ameh_Amueh Anoko Akoje Alifeli Alewo 
+			Ebiloma Edebi Enebi Enejo Enemali
+			Ibe Ichala Idachaba Idih_Iduh
+			Oche Ocheje Ocholi Odiba Odoma Ogaji Okolo Okpanachi Ojimaojo 
+			Ufedo Umola
+		}
+		
+		female_names = {
+			Achimawo 
+			Anoko Alifeli Alewo 
+			Enejo 
+			Iganya Ibe 
+			Ocheja Ocholi Okolo 
+			Ufedo Umola
+		}
+
+	}
+	igbo = {
+		color = { 0.43 0.68 0.66 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Abuchi Achike Afuluchianya Ahamefuna Akachukwu Akobundo Aku Akuwueziuka Amadioha Anekwe Arachie 
+			Biko
+			Chekwubechukwu Chetanna Chiazam Chiazor Chibuifem Chibuzor Chidera Chidi Chidili Chidiomimi Chidirim Chiedozie Chiejina Chiekwe Chigozie Chijioke Chikamara Chikanma Chikwendu Chinasaokwu Chinelo Chinemere Chineto Chinnawuike Chinua Chinualumogu Chinwememeri Chionye Chiwetel Chukwubuikem Chukwucheta Chukwudubem Chukwudubemi Chukwuebuka Chukwueneka Chukwumaeze Chukwunenye Chukwunwike
+			Diji Dinobi
+			Eberechi Ejikeme Ejimmadu Ekwunife Ekwutosi Elochukwu Emechebe Ezenwa Ezeokafor Ezeuzo
+			Fechukwu
+			Ginikanwa
+			Ifeanyi Ifeanyichukwu Ifejika Ifeyinwa Igwebuike Iheanyichukwu Ikechuckwu Ikemba Ikemefula Iruuju Ita
+			Jaachike
+			Kaito Kalu Kanayochukwu Kaneme Kanye Kaodinna Kaosisochuku Kelechi Kenechi Kosisochi Kosisochukwu Kwento
+			Mashgash Meenuba Megafu Membolu Menari Mgbemena Mmesomachukwu Munachiso Muogboo
+			Ndubuisi Nduefuna Nkem Nkeoma Nnaemeka Nwabueze Nwachukwu Nwakauba Nwankasiobi Nwankwo Nwaokocha
+			Obichukwu Obinna Obioma Obiora Obumneke Obumneme Odinakachukwu Odirachukwunma Ogbodo Ogochukwe Ohiagbaji Okechwukwu Okenna Okwuchukuw Olaedo Olanthus Olaudah Olisa Oluchuwkwu Omanukwue Onumajuru Onwuegbunam Onwutalobi Onyedikachi Onyedikachi Onyekaozulu Onyekwelu Onyemaechi Onyemechi Onyemelukwe Onyenwuwa Onyinyechukwu Orakwue Osita Ositadimma Osondu Ozhichi Ozioma Ozoemena Oñumsinachi
+			Qidy
+			Sobenna Somtochukwu Tobechukwu Uche Uchechukwu Uchenna Udonna Uduma Ugo Ugonna Uke Uzoechina Uzondu
+			Yo
+		}
+		
+		female_names = {
+			Abuchi Adaku Adamma Adaora Ahamefuna Akunna Akuwueziuka Amarachukwu Amogechukwu Arachie
+			Chekwubechukwu Chiazam Chiazor Chibuifem Chibuzor Chibwela Chidinma Chidirim Chiejina Chiekwe Chigozie Chikamara Chikanma Chikodinaka Chimamanda Chinasa Chincia Chinemere Chinenye Chineto Chineze Chinnawuike Chinwememeri Chisom Chukwudubem Chukwudubemi Chukwuebuka Chukwunwike
+			Dinobi
+			Ebele Ebelechukwu Ebere Eberechi Efuru Ejimmadu Ekwunife Ekwutosi Elochukwu Emechebe Ezeokafor
+			Fechukwu
+			Ginikanwa Golibe Golibenachukwu
+			Ifenyinwa Ifeyinwa Ihunanya Ihuomachukwu Ijeoma
+			Kaito Kaitochi Kanayochukwu Kaneme Kaosisochuku Kelechi Kieruka Kosisochi Kosisochukwu
+			Mashgash Megafu Menari Mgbemena Mmagwulaku Mmeso Mmesomachukwu Munachiso
+			Ndidiamaka Ndubuisi Nduefuna Ndui Ngozichukwu Nkechika Nkeirouka Nkem Nkemakolam Nkeoma Nkiruka Nmachi Nnebuogor Nneoma Nwaaku Nwaanyiabia Nwabugo Nwakaego Nwakauba Nwankasiobi
+			Obiageri Obianuju Obioma Obumneke Obumneme Odinakachukwu Odirachukwunma Ogbodo Ogochukwe Olaedo Olekamma Oluchuwkwu Omanukwue Onwuegbunam Onyedikachi Onyemechi Onyinyechukwu Ozhichi Ozioma Oñumsinachi
+			Sobenna Somtochukwu
+			Uche Uchechukwu Uchenna Udonne Ugo Ugonma Uloma Urenna Uzoamaka Uzoamani Uzoechina
+		}
+
+	}
+	
+	yoruba = {
+		color = { 1.00 0.78 0.83 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+		
+			Oranyan Sango Ajaka Aganju Kari Oluaso Onigbogi Ofinran Eguguoju Orompoto Ajiboyede Abipa Obalokun Ajagbo 
+			Odorawu Kanran Jayin Ayibi Osiyago Ojigi Gberu Amuniwaiye Onisle Labisi Agboluaje Majeogbe Abiodun Awole 
+			Arongangan Adebo Maaku Aburumaku Majotu Do Aklim Dakondunu Ganye Hessu Wegbaja Akaba Agaja Tegbesu Kpengla 
+			Anonglo Haholo Kpasse Ayohuan Agbangia
+			Siyanbola Lawani Adeyemi Adelu Atiba Oluewu Amodo Majotu Makua Adebo Bello Onikepe Gbadegesin Ajikin Abisi Lauru Kase Agidigbo Ademufekun
+		
+			Abidemi Abimbola Abimbola Abiodun Abiodun Abiola Abioye Abioye Abosede Ade Adebayo Adebayo Adebimpe Adebisi Adebowale Adeboye Adedamola Adedayo Adedeji Adelaja Adelomo Ademola Ademuyiwa Aderounke Adesanya Adetola Adewale Adewunmi Adeyemi Afolabi Akande Akanni Akintoye Anuoluwapo Anuoluwaposi Atinuke Ayokunumi Ayoola Ayotola
+			Babatunde Bidemi Boluwatife Bosede
+			Durosinmi
+			Enitan
+			Flayosemi
+			Ifedapo Ifedayo
+			Gboyega
+			Jibola
+			Kolapo Kolawole
+			Numilekunoluwa
+			Mayowa Moniade Monisola Morounkola
+			Oladapo Oladele Olaitan Olakunle Olamilekan Olayemi Olayinka Ololade Olufemi Olufunke Olufunmilayo Oluwabunmi Oluwabusolami Oluwadamilare Oluwadamilola Oluwafeyisayo Oluwakayode Oluwakemi Oluwamuyiwa Oluwatobiloba Oluwatoke Oluwatomiwa Oluwatoniloba Oluwatoniyi Oluwatope Oluwatoyin Oluwatunmise Oluwayemisi Omotayo Omoteleola Oyindamola Ozoa
+			Pamilekunayo
+			Remi
+			Sangodele Similoluwa Sunbola Sunkanmi
+			Tejumola Teleayo Teleola Temidare Temidayo Temilade Temiloluwa Temitope Teniayo Teniola Tiwalade Toluwalope
+			Yejide
+		}
+		
+		female_names = {
+			
+			Winona Isi Abeni Abimbola Abiodun Ade Adebola Adebowale Adedayo Adetokunbo Alaba Ayo Ayodele Ayomide 
+			Ayotunde Bolanle Bosede Dada Dayo Ekundayo Eniola Enitan Folami Gbemisola Idowu Ife Ige Kayin Mojisola 
+			Monifa Olamide Olayinka Olubunmi Olufunke Olufunmilayo Olufunmilola Oluwafunmilayo Oluwakanyinsola 
+			Oluwasegun Oluwaseun Oluwaseyi Oluwatoyin Oluwayemisi Omobolanle Omolara Oni Opeyemi Simisola Temitope 
+			Titilayo Yejide Yewande
+		
+			Abeni Abidemi Abimbola Abiodun Abiola Abioye Ade Adebimpe Adebisi Adeboye Ademuyiwa Adenike Adeola Aderounke Adesanya Adetola Adetut Adewunmi Adeyemi Akanni Akintoye Anuoluwapo Anuoluwaposi Atinuke Ayokunumi Ayoola Ayotola Ayotundun
+			Bamidele Bidemi Bisi Boluwatife
+			Eniola Enitan
+			Feyisayo Folake
+			Gbemisola Gboyega
+			Idedayo Ifedapo Ifetayo
+			Jaiyesimi Jibola
+			Kehinde Kolapo Kolawole
+			Lewa
+			Mayowa Moniade Monisola Morenike Morounkola
+			Numilekunoluwa
+			Odara Oladele Olaitain Olakunle Olayemi Olayinka Ololade Olufemi Olufunke Oluwabunmi Oluwabusolami Oluwadamilare Oluwadamilola Oluwafeyisayo Oluwakemi Oluwamisimi Oluwamuyiwa Oluwatobiloba Oluwatoke Oluwatomiwa Oluwatoniloba Oluwatope Oluwatoyin Oluwatunmise Oluwayemisi Oni Omotayo Omoteleola Oshun Oyindamola Oyinlola
+			Rinsioluwa
+			Shanumi Similoluwa Sunbola
+			Tejumola Teleayo Temidare Temidayo Temilade Temiloluwa Temitope Teniayo Teniola Tiwalade Tokunbo Toluwalope
+			Yejide Ymoja
+		}
+
+	}
+	
+}
+
+urhoboid = {
+	urhobo = {
+		color = { 0.34 0.33 0.36 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Abavo Abasa Achoja Adia Adjarho Adjebasare Aduvie Afoke Afokeoghene Afure Agbauduta Agha Aghogho Aghoghovwia Aghwotu Agofure Agogo Agoghene Agoreyo Akpevwe Akpede_Akpoedwvure_Akpoedeye Akpo Akpobaro Akpobasa Akpobome Akpojotor Akpomeyoma Akpomudiare Akponana Akporhuaro Akpoveta Akpovoka Akpowene Akpoyowaire Akonawe Amrophe Aroghene Aruviere Aseroraye Atadede Avwerosuoghene Avwerote Avwunudiogba Akpevwoghene Akpomedaye Akpomiemie Akporode Akpotu Akpomudjere Akpofure Atememejerayivwo 
+			Edjere Edoghogho Ejiroro Erhueh Evioghene 
+			Fenure 
+			Ogagaoghene_Ezekiel Oghenegaren Ogheneoboakpororo Oghenevwemu Omonigho Owro
+		
+			Adjeke Aforkoghene Akporube 
+			Bulkata Bunor Buotu 
+			Dafe Doghor Dohwodewhe Dolor Doro 
+			Eboh Ederigho Edevwie Edeye Edirin Edirinverere Edoja Edoreh Edudje Eduvie Efe Efeakpona Efedede Efegoma Efekemo Efekomaraye Efemena Efemini Efemuaye Efenure Efeoghene Eferhire Eferogho Eferuhobo Egedege Eghele Eghwubare Eguono Ejaeta Ejaife Ejakpor Ejemeyovwi Ejerhovwose Ejiro Ejiroghene Ekah Ekemena Ekuyovwe Emama Emehwekre Emojevwe Emore Emuejevoke Emuibohwo Emuobo Emuobosa Emurotu Enajite Enaye Enayoma Enomate Enughwure Erakpofuke Erhiga Erhurhu Erhuvwu Eriyamremu Eruoresiri Eruvweteghware Esedafe Eseoghene Esiso Eta Etaedaferua Etaoghene Etetaye Etsana Evuarhere Evunetapha Evwiekparoma Eyagomare Eyanmekwaire 
+			Fuvwe 
+			Gedu 
+			Ibi Ibiri Ibunor Iburu Idiodi Idodo Idonor Igbigbi Igbine Igedu Igho Ighobue Ighofose Ighosewe Ighovogho Igogono Igoro Ikpeni Ikuku Ikumariegbe Imighele Imiko Imoniavie Imoniero Imonikugbere Imonita Irikefe Irorive Iroro Iruero Iruvwe Isaghwe Ise Ishani Isio Isiorho Isodje Ivie Izeze Izobo 
+			Jesutekevwe Jimitota 
+			Oteri 
+			Unuavwojohwofia
+		}
+		
+		female_names = {
+			Abavo Abasa Achoja Adia Adjarho Adjebasare Afoke Afokeoghene Afure Agha Aghogho Aghoghovwia Aghwotu Agofure Agogo Agoghene Agoreyo Akpevwe Akpede_Akpoedwvure_Akpoedeye Akpo Akpobaro Akpobasa Akpobome Akpojotor Akpomeyoma Akpomudiare Akponana Akporhuaro Akpoveta Akpovoka Akpowene Akpoyowaire Akonawe Amrophe Aroghene 
+			Edoghogho Evioghene 
+			Fenure 
+			Oghenegaren Oghenevwemu Omonigho
+			
+			Adjeke Aforkoghene Akporube 
+			Bulkata Bunor Buotu 
+			Dafe Doghor Dohwodewhe Dolor Doro 
+			Eboh Ederigho Edevwie Edeye Edirin Edirinverere Edoja Edoreh Edudje Eduvie Efe Efeakpona Efedede Efegoma Efekemo Efekomaraye Efemena Efemini Efemuaye Efenure Efeoghene Eferhire Eferogho Eferuhobo Egedege Eghele Eghwubare Eguono Ejaeta Ejaife Ejakpor Ejemeyovwi Ejerhovwose Ejiro Ejiroghene Ekah Ekemena Ekuyovwe Emama Emehwekre Emojevwe Emore Emuejevoke Emuibohwo Emuobo Emuobosa Emurotu Enajite Enaye Enayoma Enomate Enughwure Erakpofuke Erhiga Erhurhu Erhuvwu Eriyamremu Eruoresiri Eruvweteghware Esedafe Eseoghene Esiso Eta Etaedaferua Etaoghene Etetaye Etsana Evuarhere Evunetapha Evwiekparoma Eyagomare Eyanmekwaire 
+			Fuvwe 
+			Gedu 
+			Ibi Ibiri Ibunor Iburu Idiodi Idodo Idonor Igbigbi Igbine Igedu Igho Ighobue Ighofose Ighosewe Ighovogho Igogono Igoro Ikpeni Ikuku Ikumariegbe Imighele Imiko Imoniavie Imoniero Imonikugbere Imonita Irikefe Irorive Iroro Iruero Iruvwe Isaghwe Ise Ishani Isio Isiorho Isodje Ivie Izeze Izobo 
+			Jesutekevwe Jimitota 
+			Oteri 
+			Unuavwojohwofia
+		
+		}
+
+	}
+
+}

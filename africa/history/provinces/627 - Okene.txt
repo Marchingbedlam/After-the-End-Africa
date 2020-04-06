@@ -1,0 +1,15 @@
+# County Title
+title = c_okene
+
+# Settlements
+max_settlements = 3
+
+b_okene_1 = castle
+b_okene_2 = temple
+b_okene_3 = city
+
+# Misc
+culture = ebira
+religion = anglican
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title = c_shagari
+
+# Settlements
+max_settlements = 3
+
+b_shagari_1 = castle
+b_shagari_2 = temple
+b_shagari_3 = city
+
+# Misc
+culture = hausa
+religion = sunni
+
+#History

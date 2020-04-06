@@ -1,0 +1,15 @@
+# County Title
+title = c_porto_novo
+
+# Settlements
+max_settlements = 3
+
+b_porto_novo_1 = castle
+b_porto_novo_2 = temple
+b_porto_novo_3 = city
+
+# Misc
+culture = fon
+religion = catholic
+
+#History

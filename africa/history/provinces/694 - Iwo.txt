@@ -1,0 +1,15 @@
+# County Title
+title = c_iwo
+
+# Settlements
+max_settlements = 3
+
+b_iwo_1 = castle
+b_iwo_2 = temple
+b_iwo_3 = city
+
+# Misc
+culture = yoruba
+religion = sunni
+
+#History

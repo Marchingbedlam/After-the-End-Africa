@@ -1,0 +1,15 @@
+# County Title
+title = c_ouidah
+
+# Settlements
+max_settlements = 3
+
+b_ouidah_1 = castle
+b_ouidah_2 = temple
+b_ouidah_3 = city
+
+# Misc
+culture = fon
+religion = catholic #vodun
+
+#History

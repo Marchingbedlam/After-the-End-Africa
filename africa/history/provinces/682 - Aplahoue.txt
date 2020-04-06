@@ -1,0 +1,15 @@
+# County Title
+title = c_aplahoue
+
+# Settlements
+max_settlements = 3
+
+b_aplahoue_1 = castle
+b_aplahoue_2 = temple
+b_aplahoue_3 = city
+
+# Misc
+culture = fon
+religion = catholic #vodun
+
+#History

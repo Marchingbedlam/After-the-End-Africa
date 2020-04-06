@@ -1,0 +1,15 @@
+# County Title
+title = c_ibadan
+
+# Settlements
+max_settlements = 3
+
+b_ibadan_1 = castle
+b_ibadan_2 = temple
+b_ibadan_3 = city
+
+# Misc
+culture = yoruba
+religion = anglican #yoruba
+
+#History

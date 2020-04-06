@@ -1,0 +1,15 @@
+# County Title
+title = c_dassa
+
+# Settlements
+max_settlements = 3
+
+b_dassa_1 = castle
+b_dassa_2 = temple
+b_dassa_3 = city
+
+# Misc
+culture = yoruba
+religion = sunni #yoruba
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title = c_yola
+
+# Settlements
+max_settlements = 3
+
+b_yola_1 = castle
+b_yola_2 = temple
+b_yola_3 = city
+
+# Misc
+culture = pijin
+religion = sunni
+
+#History

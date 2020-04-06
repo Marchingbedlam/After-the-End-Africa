@@ -1,0 +1,15 @@
+# County Title
+title = c_umuahia
+
+# Settlements
+max_settlements = 3
+
+b_umuahia_1 = castle
+b_umuahia_2 = temple
+b_umuahia_3 = city
+
+# Misc
+culture = igbo
+religion = anglican
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title = c_bussa
+
+# Settlements
+max_settlements = 3
+
+b_bussa_1 = castle
+b_bussa_2 = temple
+b_bussa_3 = city
+
+# Misc
+culture = bariba
+religion = sunni
+
+#History

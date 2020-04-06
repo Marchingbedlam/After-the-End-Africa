@@ -1,0 +1,15 @@
+# County Title
+title = c_gwadabawa
+
+# Settlements
+max_settlements = 3
+
+b_gwadabawa_1 = castle
+b_gwadabawa_2 = temple
+b_gwadabawa_3 = city
+
+# Misc
+culture = hausa
+religion = sunni
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title = c_sokoto
+
+# Settlements
+max_settlements = 3
+
+b_sokoto_1 = castle
+b_sokoto_2 = temple
+b_sokoto_3 = city
+
+# Misc
+culture = hausa
+religion = sunni
+
+#History

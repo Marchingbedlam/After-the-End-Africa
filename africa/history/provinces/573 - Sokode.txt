@@ -1,0 +1,15 @@
+# County Title
+title = c_sokode
+
+# Settlements
+max_settlements = 3
+
+b_sokode_1 = castle
+b_sokode_2 = temple
+b_sokode_3 = city
+
+# Misc
+culture = gurunsi
+religion = sunni
+
+#History

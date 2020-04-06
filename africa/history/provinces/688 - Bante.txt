@@ -1,0 +1,15 @@
+# County Title
+title = c_bante
+
+# Settlements
+max_settlements = 3
+
+b_bante_1 = castle
+b_bante_2 = temple
+b_bante_3 = city
+
+# Misc
+culture = yoruba
+religion = catholic
+
+#History

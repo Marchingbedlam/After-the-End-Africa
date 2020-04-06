@@ -1,0 +1,15 @@
+# County Title
+title = c_port_harcourt
+
+# Settlements
+max_settlements = 3
+
+b_port_harcourt_1 = castle
+b_port_harcourt_2 = temple
+b_port_harcourt_3 = city
+
+# Misc
+culture = pijin
+religion = catholic
+
+#History

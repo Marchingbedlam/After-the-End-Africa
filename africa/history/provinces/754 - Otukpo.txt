@@ -1,0 +1,15 @@
+# County Title
+title = c_otukpo
+
+# Settlements
+max_settlements = 3
+
+b_otukpo_1 = castle
+b_otukpo_2 = temple
+b_otukpo_3 = city
+
+# Misc
+culture = idoma
+religion = anglican
+
+#History

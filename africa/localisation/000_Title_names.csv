@@ -2361,9 +2361,13 @@ e_guinea;Guinea;Guinea;Guinea;;Guinea;;;;;;;;;x
 e_guinea_adj;Guinean;;guiner;;;;;;;;;;;x
 e_manden;Manden;Manden;Manden;;Manden;;;;;;;;;x
 e_manden_adj;Manden;;manden;;;;;;;;;;;x
+e_nigeria;Nigeria;Nigeria;Nigeria;Nigeria;;;;;;;;;x
+e_nigeria_adj;Nigerian;Nigerian;Nigerian;Nigerian;;;;;;;;;x
 e_sahel;Sahel;Sahel;Sahel;;Sahel;;;;;;;;;x
 e_sahel_adj;Sahelian;;saheler;;;;;;;;;;;x
 
+k_adamawa;Adamawa;Adamawa;Adamawa;Adamawa;;;;;;;;;x
+k_adamawa_adj;Adamawa;Adamawa;Adamawa;Adamawa;;;;;;;;;x
 k_ambazonia;Ambazonia;Ambazonia;Ambazonia;;Ambazonia;;;;;;;;;x
 k_ambazonia_adj;Ambazonian;;ambazonier;;;;;;;;;;;x
 k_asanteman;Asanteman;Asanteman;Asanteman;;Asanteman;;;;;;;;;x
@@ -2372,6 +2376,8 @@ k_balaza;Balaza;Balaza;Balaza;;Balaza;;;;;;;;;x
 k_balaza_adj;Balazois;;balazer;;;;;;;;;;;x
 k_bonny;Bonny;Bonny;Bonny;;Bonny;;;;;;;;;x
 k_bonny_adj;Bonnyman;;bonnyer;;;;;;;;;;;x
+k_borguland;Borgu;Borgu;Borgu;Borgu;;;;;;;;;x
+k_borguland_adj;Borgu;Borgu;Borgu;Borgu;;;;;;;;;x
 k_cabo_verde;Cabo Verde;Cabo Verde;Cabo Verde;;Cabo Verde;;;;;;;;;x
 k_cabo_verde_adj;Verdean;;verder;;;;;;;;;;;x
 k_cameroon;Cameroon;Cameroon;Cameroon;;Cameroon;;;;;;;;;x
@@ -2386,8 +2392,14 @@ k_gabon;Gabon;Gabon;Gabon;;Gabon;;;;;;;;;x
 k_gabon_adj;Gabonese;;gaboner;;;;;;;;;;;x
 k_guinea;Guinea;Guinea;Guinea;;Guinea;;;;;;;;;x
 k_guinea_adj;Guinean;;guiner;;;;;;;;;;;x
+k_hausaland;Hausaland;Hausaland;Hausaland;Hausaland;;;;;;;;;x
+k_hausaland_adj;Hausa;Hausa;Hausa;Hausa;;;;;;;;;x
+k_igboland;Igboland;Igboland;Igboland;Igboland;;;;;;;;;x
+k_igboland_adj;Igbo;Igbo;Igbo;Igbo;;;;;;;;;x
 k_ivory_coast;Ivory Coast;Ivory Coast;Ivory Coast;;Ivory Coast;;;;;;;;;x
 k_ivory_coast_adj;Ivorian;;ivorier;;;;;;;;;;;x
+k_kanuriland;Bornu;Bornu;Bornu;Bornu;;;;;;;;;x
+k_kanuriland_adj;Bornu;Bornu;Bornu;Bornu;;;;;;;;;x
 k_mali;Mali;Mali;Mali;;Mali;;;;;;;;;x
 k_mali_adj;Malian;;maler;;;;;;;;;;;x
 k_mauritania;Mauritania;Mauritania;Mauritania;;Mauritania;;;;;;;;;x
@@ -2402,3 +2414,5 @@ k_ubangi;Ubangi;Ubangi;Ubangi;;Ubangi;;;;;;;;;x
 k_ubangi_adj;Ubangian;;ubangier;;;;;;;;;;;x
 k_volta;Volta;Volta;Volta;;Volta;;;;;;;;;x
 k_volta_adj;Voltaic;;volter;;;;;;;;;;;x
+k_yorubaland;Yorubaland;Yorubaland;Yorubaland;Yorubaland;;;;;;;;;x
+k_yorubaland_adj;Yoruba;Yoruba;Yoruba;Yoruba;;;;;;;;;x

@@ -1,0 +1,15 @@
+# County Title
+title = c_ado-ekiti
+
+# Settlements
+max_settlements = 3
+
+b_ado-ekiti_1 = castle
+b_ado-ekiti_2 = temple
+b_ado-ekiti_3 = city
+
+# Misc
+culture = yoruba
+religion = anglican #yoruba
+
+#History

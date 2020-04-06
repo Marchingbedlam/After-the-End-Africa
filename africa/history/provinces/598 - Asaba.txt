@@ -1,0 +1,15 @@
+# County Title
+title = c_asaba
+
+# Settlements
+max_settlements = 3
+
+b_asaba_1 = castle
+b_asaba_2 = temple
+b_asaba_3 = city
+
+# Misc
+culture = igbo
+religion = catholic
+
+#History

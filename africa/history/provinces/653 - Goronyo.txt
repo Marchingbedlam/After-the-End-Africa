@@ -1,0 +1,15 @@
+# County Title
+title = c_goronyo
+
+# Settlements
+max_settlements = 3
+
+b_goronyo_1 = castle
+b_goronyo_2 = temple
+b_goronyo_3 = city
+
+# Misc
+culture = hausa
+religion = sunni
+
+#History

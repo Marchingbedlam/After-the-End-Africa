@@ -1,0 +1,15 @@
+# County Title
+title = c_girei
+
+# Settlements
+max_settlements = 3
+
+b_girei_1 = castle
+b_girei_2 = temple
+b_girei_3 = city
+
+# Misc
+culture = bura-higi
+religion = sunni
+
+#History

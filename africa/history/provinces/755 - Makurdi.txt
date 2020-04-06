@@ -1,0 +1,15 @@
+# County Title
+title = c_makurdi
+
+# Settlements
+max_settlements = 3
+
+b_makurdi_1 = castle
+b_makurdi_2 = temple
+b_makurdi_3 = city
+
+# Misc
+culture = tiv
+religion = anglican
+
+#History

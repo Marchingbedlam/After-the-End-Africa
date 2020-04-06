@@ -1,0 +1,15 @@
+# County Title
+title = c_bonny
+
+# Settlements
+max_settlements = 3
+
+b_bonny_1 = castle
+b_bonny_2 = temple
+b_bonny_3 = city
+
+# Misc
+culture = cross_river #or igbo
+religion = anglican #pentecostal
+
+#History

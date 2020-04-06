@@ -1,0 +1,15 @@
+# County Title
+title = c_okitipupa
+
+# Settlements
+max_settlements = 3
+
+b_okitipupa_1 = castle
+b_okitipupa_2 = temple
+b_okitipupa_3 = city
+
+# Misc
+culture = yoruba
+religion = anglican #yoruba
+
+#History

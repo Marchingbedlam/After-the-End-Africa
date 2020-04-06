@@ -1,0 +1,15 @@
+# County Title
+title = c_lau
+
+# Settlements
+max_settlements = 3
+
+b_lau_1 = castle
+b_lau_2 = temple
+b_lau_3 = city
+
+# Misc
+culture = jukun
+religion = anglican
+
+#History

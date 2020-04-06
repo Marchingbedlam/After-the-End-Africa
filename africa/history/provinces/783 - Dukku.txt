@@ -1,0 +1,15 @@
+# County Title
+title = c_dukku
+
+# Settlements
+max_settlements = 3
+
+b_dukku_1 = castle
+b_dukku_2 = temple
+b_dukku_3 = city
+
+# Misc
+culture = hausa
+religion = sunni
+
+#History

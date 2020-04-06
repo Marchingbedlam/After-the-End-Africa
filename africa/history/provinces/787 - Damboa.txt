@@ -1,0 +1,15 @@
+# County Title
+title = c_damboa
+
+# Settlements
+max_settlements = 3
+
+b_damboa_1 = castle
+b_damboa_2 = temple
+b_damboa_3 = city
+
+# Misc
+culture = kanuri
+religion = sunni
+
+#History

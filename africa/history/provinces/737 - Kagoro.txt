@@ -1,0 +1,15 @@
+# County Title
+title = c_kagoro
+
+# Settlements
+max_settlements = 3
+
+b_kagoro_1 = castle
+b_kagoro_2 = temple
+b_kagoro_3 = city
+
+# Misc
+culture = plateau
+religion = catholic
+
+#History

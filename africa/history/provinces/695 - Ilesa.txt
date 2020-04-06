@@ -1,0 +1,15 @@
+# County Title
+title = c_ilesa
+
+# Settlements
+max_settlements = 3
+
+b_ilesa_1 = castle
+b_ilesa_2 = temple
+b_ilesa_3 = city
+
+# Misc
+culture = yoruba
+religion = anglican #yoruba
+
+#History

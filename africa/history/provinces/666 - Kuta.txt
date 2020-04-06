@@ -1,0 +1,15 @@
+# County Title
+title = c_kuta
+
+# Settlements
+max_settlements = 3
+
+b_kuta_1 = castle
+b_kuta_2 = temple
+b_kuta_3 = city
+
+# Misc
+culture = gbagi
+religion = sunni
+
+#History

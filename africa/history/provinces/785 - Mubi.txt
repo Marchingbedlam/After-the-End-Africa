@@ -1,0 +1,15 @@
+# County Title
+title = c_mubi
+
+# Settlements
+max_settlements = 3
+
+b_mubi_1 = castle
+b_mubi_2 = temple
+b_mubi_3 = city
+
+# Misc
+culture = bura-higi
+religion = sunni
+
+#History

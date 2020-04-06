@@ -1,0 +1,15 @@
+# County Title
+title = c_owo
+
+# Settlements
+max_settlements = 3
+
+b_owo_1 = castle
+b_owo_2 = temple
+b_owo_3 = city
+
+# Misc
+culture = yoruba
+religion = anglican #yoruba
+
+#History

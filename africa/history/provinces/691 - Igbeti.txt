@@ -1,0 +1,15 @@
+# County Title
+title = c_igbeti
+
+# Settlements
+max_settlements = 3
+
+b_igbeti_1 = castle
+b_igbeti_2 = temple
+b_igbeti_3 = city
+
+# Misc
+culture = yoruba
+religion = anglican #yoruba
+
+#History

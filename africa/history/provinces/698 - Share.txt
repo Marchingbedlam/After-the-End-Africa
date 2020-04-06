@@ -1,0 +1,15 @@
+# County Title
+title = c_share
+
+# Settlements
+max_settlements = 3
+
+b_share_1 = castle
+b_share_2 = temple
+b_share_3 = city
+
+# Misc
+culture = yoruba
+religion = sunni
+
+#History

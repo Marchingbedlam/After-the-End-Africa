@@ -74,6 +74,64 @@ sahel = {
 			Madina Mariam_Mary
 			Nassira
 		}
+		
+
+		
+		founder_named_dynasties = yes
+	}
+	kanuri = {
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.8 0.45 0.75 }
+		
+		male_names = {
+			"Othman Kalinuama" "'Abd al-Karim" "Birni Besse" "'Abd Allah" "Abu Sekkin" "Kade Alunu" "Abu Bakr" "'Abd al-Qadir"
+			Abbas Abdallah Abdul Abdullah Abdulraham Abubakar Adam_Adam Ahmad Ahmed Airimi al-Amin Alhaji Ali 'Ali Alooma Amin Amir Amr Arku Arsu 
+			Baba Baram Bikorom Bikoru Biri Bukar Bulu Burkomanda Buyuma 
+			Da'ud Dabbalemi Dala Dalai Dalo Daoud_David Dugu Dunama 
+			Fune 
+			Gaji Gajideni Galrima Gana Garbai Gazali Gazi Ghaji Ghana 
+			Hamdan Humayy Hume Hummay 
+			Ibrahim Ibrahim_Abraham Idris Ishaq 
+			Kaday Kanemi Kashim Katakarmabe Katur Kharif Kharut Kiyari Kura Kure Kuri Kuwaana 
+			Madu Mahmoud Mamane Modu Mohammed_Mohammed Mufioma Muhammad Murama Musa Mustafa Mustapha 
+			Nasr Nikale 
+			Osman 
+			Rifaya 
+			Sa'id Said Salih Salmama Sanda Sani Sef Selma Sharud Shettima Shu Sulbuta Suleyman_Solomon 
+			Tandja Tindhim 
+			Umar 'Umar 'Uthman
+			Wanja Waziri 
+			Ya'qub Yahya Yahya_John Yaqub_Jacob Yusuf_Joseph
+			Zannah
+			 
+			}
+		female_names = {
+			'aisha A'isha Aamina Adila Afaf Afra Aida Aisha Aissa Akilah al-Kanemi Alia Alina Aliya Aliyah Aliyya Aliyyah Almas Alya Amal Amani Amina Aminah Amira Amirah Amna Anisa Aqila Arij Arwa Ashraqat Asma Asmaa Asra Atifa Atiya Ayda Ayesha Ayishah Aziza Azra 
+			Badr Bahiga Bahija Bahiyya Bakhita Basima Basira Basma Batul Budur 
+			Cinta 
+			Dalal Dalatumi Dana Dania Daniyah Dema Dikwa Dima Djamila Dua Duha 
+			Fadia Fadila Fahima Fairuz Faiza Fajr Fakhriyya Farah Farida Fariha Farrah Fathiyya Fatima Fatima_Fatima Fatimah Fatin Fatma Fawziya Fawziyya Fayruz Fayza Fidda Fikriyya Fizza 
+			Galila Gamila Gana Gathbiyya Gauhar Gawahir Gazbiyya Ghada Ghadir Ghaliya Ghufran 
+			Habiba Hadia Hadil Hadiya Hadiyya Hadjara Hadya Hafsa Hafsah Hafza Hagir Haifa Hajar Hala Halim Halima Hamid Hamida Hana Hanaa Hanan Hania Hanif Hanifa Haniyah Haniyya Hasna Hawa Hayfa Hiba Hikmat Hind Hooda Hosni Houda Huda Husna Husni Husniya 
+			I'tidal I'timad Ibtihaj Ibtisam Ihab Ihsan Ikraam Ikram Ilham Imam Iman In'am Inas 'ismat Isra Israa Izdihar
+			Jalila Jameela Jamila Jamillah Janan Jathbiyya Jawahir Jawdat Jinan Jumana
+			Kaltum Karam Karima Khadiga Khadija Khalida Khalila Khalilah Khatijah Khayrat Khayriyya Kili Kingibe
+			Laila Lamia Lamis Lamya Lateefah Latifa Latifah Lawahiz Layla Lefiami Leila Lubna Lujayn
+			Maha Malaika Malak Malika Maram Mariam Mariam_Maria Marwa Maryam Masuma Midha Mina Mona Mouna Mubina Muhsina Mumina Muna Munira Munya
+			Na'ima Nabila Nada Nadia Nadira Nadiyya Nadra Nadya Naila Najwa Naseem Nashwa Nasim Nasira Nassim Nawal Nawra Naziha Nazli Nida Nimat Noor Nuha Nur Nura
+			Qamar
+			Raabi'a Rabab Rabi Rabi'a Rafiq Rafiqa Rahat Rais Raisa Raja Rajiya Rajya Ramla Ramlah Rana Randa Raniya Ranya Rasha Rashid Rashida Rasim Rasima Rawiya Rawya Rayhana Reem Ridwana Rihanna Rim Rizwana Ruba Ruqayya Ruqayyah Ruwa Ruya
+			Sa'adat Sa'di Sa'dia Sa'ida Sabah Sabeen Sabri Sabriyya Sadaf Safiya Safiyyah Sahar Sakina Salha Saliha Salima Salma Salwah Samar Sameera Samia Samina Samira Samiya Sana Saniyya Sanya Sawsan Sayfawa Sayyida Selima Shadia Shadiya Shadya Shafaqat Shafiqa Shahd Shahira Shahnazpu Shahrazad Shahrazadr Shahrizad Shaimaa Shakil Shakila Shakir Shakira Shakur Shakura Sham'a Sharifa Shayma Shazi Shukriya Shula Suha Suhaila Sukda Sultana Sumayya Suraya
+			Tabassum Tahira Taliba Tasnim Tebunnu Thamina Thana Thurayya Tuba
+			Uzma
+			Wafiya Waheeda Wahida Widad
+			Ya Yasmeen Yasmin Yusra
+			Zaahira Zahia Zahida Zahira Zahra Zahrah Zaida Zaina Zainab Zakiah Zakiya Zakiyya Zaray Zayna Zaynab Zinat Zubaida Zulaykha Zulekha
+			
+		}
+		
 	}
 	tuareg = {
 		graphical_cultures = { berbergfx arabicgfx muslimgfx }

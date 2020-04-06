@@ -1,0 +1,15 @@
+# County Title
+title = c_djougou
+
+# Settlements
+max_settlements = 3
+
+b_djougou_1 = castle
+b_djougou_2 = temple
+b_djougou_3 = city
+
+# Misc
+culture = songhai
+religion = sunni
+
+#History

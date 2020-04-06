@@ -1,0 +1,15 @@
+# County Title
+title = c_nasarawa
+
+# Settlements
+max_settlements = 3
+
+b_nasarawa_1 = castle
+b_nasarawa_2 = temple
+b_nasarawa_3 = city
+
+# Misc
+culture = gbagi
+religion = anglican
+
+#History

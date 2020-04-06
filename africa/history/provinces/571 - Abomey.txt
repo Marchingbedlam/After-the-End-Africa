@@ -1,0 +1,15 @@
+# County Title
+title = c_abomey
+
+# Settlements
+max_settlements = 3
+
+b_abomey_1 = castle
+b_abomey_2 = temple
+b_abomey_3 = city
+
+# Misc
+culture = fon
+religion = catholic #vodun
+
+#History

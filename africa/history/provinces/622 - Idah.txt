@@ -1,0 +1,15 @@
+# County Title
+title = c_idah
+
+# Settlements
+max_settlements = 3
+
+b_idah_1 = castle
+b_idah_2 = temple
+b_idah_3 = city
+
+# Misc
+culture = igala
+religion = anglican
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title = c_kukawa
+
+# Settlements
+max_settlements = 3
+
+b_kukawa_1 = castle
+b_kukawa_2 = temple
+b_kukawa_3 = city
+
+# Misc
+culture = kanuri
+religion = sunni
+
+#History

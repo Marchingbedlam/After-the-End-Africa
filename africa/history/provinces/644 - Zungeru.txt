@@ -1,0 +1,15 @@
+# County Title
+title = c_zungeru
+
+# Settlements
+max_settlements = 3
+
+b_zungeru_1 = castle
+b_zungeru_2 = temple
+b_zungeru_3 = city
+
+# Misc
+culture = gbagi
+religion = sunni
+
+#History

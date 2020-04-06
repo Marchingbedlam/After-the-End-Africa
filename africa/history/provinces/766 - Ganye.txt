@@ -1,0 +1,15 @@
+# County Title
+title = c_ganye
+
+# Settlements
+max_settlements = 3
+
+b_ganye_1 = castle
+b_ganye_2 = temple
+b_ganye_3 = city
+
+# Misc
+culture = dakoid
+religion = sunni #native religion
+
+#History

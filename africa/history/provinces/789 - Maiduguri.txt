@@ -1,0 +1,15 @@
+# County Title
+title = c_maiduguri
+
+# Settlements
+max_settlements = 3
+
+b_maiduguri_1 = castle
+b_maiduguri_2 = temple
+b_maiduguri_3 = city
+
+# Misc
+culture = kanuri
+religion = sunni
+
+#History

@@ -1,0 +1,171 @@
+###ÄNSI
+
+
+cross_river_group = {
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { muslimgfx }
+	
+	cross_river = {
+		color = { 0.56 0.80 0.63 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Agba Arikpo
+			Ebri Egai Egbe Epeemi Ewiemi 
+			Ibe Igbor
+			Jesom 
+			Obol Ofem Okoi Onen 
+			Ubana Ubi Uti 
+			Wofai
+			Yakpa
+			
+			Abasiama Adim Akpadiaha Akwa Akwaowo Amaku Ambo Ani Aniebietabasi Aniefiok Aniekanabasa Aniekpeno Aniyom Asibong Asanye Atai
+			Betabasi Bokidara 
+			Daramfon 
+			Ebito Edem Edidiong Ekerete Ekpedeme Emembong Enoabasi Etim 
+			Idorenyin Inemesit Ini Iniabasi 
+			Kponoabasi Koko Kokoete Kuyikabasi 
+			Mboso Mboutidem Mej Mfon Mmemabasi Mmenimabasi Mmenyenemem 
+			Nkpoikankeabasi Nnamso Nseobong Nsidibeabasi Nsuukidem 
+			Odo Oku Oso Oyo
+			Toroabasi 
+			Udofia Uduakabasi Ukeme Ukoakpan Ukpono Umoh Unwana Usoro Utin
+		}
+		
+		female_names = {
+			Atewa
+			Epeemi Ewiemi 
+			Obia
+			Wofai
+			Yakpa
+			
+			Abasiama Abin Adiahuado Adim Adoka Afianwam Amaku Ambo Aniebietabasi Aniefiok Aniekpeno Aniyon Aruk Asandia Asanye Asari Atai
+			Betabasi Bokidara 
+			Daramfon 
+			Edak Edem Edidiong Ekaete Ekpedeme Emembong Enoabasi 
+			Idorenyin Ima Inemesit Ini Iniabasi 
+			Kponoabasi Koko Kokoeka Kuyikabasi 
+			Mboutidem Mfon Mmayen Mmemabasi Mmenimabasi Mmenyenemem 
+			Nkese Nkpoikankeabasi Nnamso Nseobong Nsidibeabasi Nsuukidem 
+			Odo Oku
+			Toroabasi 
+			Uduakabasi Ukpono Umoh Unwana Usoro Utin Utong
+		}
+
+	}
+}
+
+platoid = {
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { muslimgfx }
+	
+	kainji = {
+		color = { 0.5 0.5 0.1 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Siyanbola Lawani Adeyemi Adelu Atiba Oluewu Amodo Majotu Makua Adebo Bello Onikepe Gbadegesin Ajikin Abisi Lauru Kase Agidigbo Ademufekun
+		
+			Adnan Audi
+			Balkisu Bini
+			Ceyagi
+			Edegi Egina
+			Farahat
+			Gbongbo Gbongboroko Gbogbori Gulu Guye
+			Inanaoko Ismail
+			Kpyamu Kolo Kuru
+			Maryam
+			Ndako Ndagi Nnagi Nma
+			Ryatwa
+			Shirun Sogba Sokoeyanya
+			Teugi Tsoede Tsubenya
+			Yebo
+			Zanna Zunyegi
+		}
+		
+		female_names = {
+			Oladigbolu Adeniran Agogoja Alowolodu Atobatele Zumaw Oyo Tofa Tonyon Bezon Hungbo Dudu
+			
+			Abagbe Abegi Abeje Oluremi Winona Isi Abeni Abimbola Abiodun Ade Adebola Adebowale Adedayo Adetokunbo 
+			Alaba Ayo Ayodele Ayomide Ayotunde Bolanle Bosede Dada Dayo Ekundayo Eniola Enitan Folami Gbemisola Idowu 
+			Ife Ige Kayin Mojisola Monifa Olamide Olayinka Olubunmi Olufunke Olufunmilayo Olufunmilola Oluwafunmilayo 
+			Oluwakanyinsola Oluwasegun Oluwaseun Oluwaseyi Oluwatoyin Oluwayemisi Omobolanle Omolara Oni Opeyemi 
+			Simisola Temitope Titilayo Yejide Yewande}
+	}
+	jukun = {
+		color = { 0.76 0.39 0.4 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Siyanbola Lawani Adeyemi Adelu Atiba Oluewu Amodo Majotu Makua Adebo Bello Onikepe Gbadegesin Ajikin Abisi Lauru Kase Agidigbo Ademufekun
+		
+			Adnan Audi
+			Balkisu Bini
+			Ceyagi
+			Edegi Egina
+			Farahat
+			Gbongbo Gbongboroko Gbogbori Gulu Guye
+			Inanaoko Ismail
+			Kpyamu Kolo Kuru
+			Maryam
+			Ndako Ndagi Nnagi Nma
+			Ryatwa
+			Shirun Sogba Sokoeyanya
+			Teugi Tsoede Tsubenya
+			Yebo
+			Zanna Zunyegi
+		}
+		
+		female_names = {
+			Oladigbolu Adeniran Agogoja Alowolodu Atobatele Zumaw Oyo Tofa Tonyon Bezon Hungbo Dudu
+			
+			Abagbe Abegi Abeje Oluremi Winona Isi Abeni Abimbola Abiodun Ade Adebola Adebowale Adedayo Adetokunbo 
+			Alaba Ayo Ayodele Ayomide Ayotunde Bolanle Bosede Dada Dayo Ekundayo Eniola Enitan Folami Gbemisola Idowu 
+			Ife Ige Kayin Mojisola Monifa Olamide Olayinka Olubunmi Olufunke Olufunmilayo Olufunmilola Oluwafunmilayo 
+			Oluwakanyinsola Oluwasegun Oluwaseun Oluwaseyi Oluwatoyin Oluwayemisi Omobolanle Omolara Oni Opeyemi 
+			Simisola Temitope Titilayo Yejide Yewande}
+	}
+	plateau = {
+		color = { 0.59 0.28 0.14 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Siyanbola Lawani Adeyemi Adelu Atiba Oluewu Amodo Majotu Makua Adebo Bello Onikepe Gbadegesin Ajikin Abisi Lauru Kase Agidigbo Ademufekun
+		
+			Adnan Audi
+			Balkisu Bini
+			Ceyagi
+			Edegi Egina
+			Farahat
+			Gbongbo Gbongboroko Gbogbori Gulu Guye
+			Inanaoko Ismail
+			Kpyamu Kolo Kuru
+			Maryam
+			Ndako Ndagi Nnagi Nma
+			Ryatwa
+			Shirun Sogba Sokoeyanya
+			Teugi Tsoede Tsubenya
+			Yebo
+			Zanna Zunyegi
+		}
+		
+		female_names = {
+			Oladigbolu Adeniran Agogoja Alowolodu Atobatele Zumaw Oyo Tofa Tonyon Bezon Hungbo Dudu
+			
+			Abagbe Abegi Abeje Oluremi Winona Isi Abeni Abimbola Abiodun Ade Adebola Adebowale Adedayo Adetokunbo 
+			Alaba Ayo Ayodele Ayomide Ayotunde Bolanle Bosede Dada Dayo Ekundayo Eniola Enitan Folami Gbemisola Idowu 
+			Ife Ige Kayin Mojisola Monifa Olamide Olayinka Olubunmi Olufunke Olufunmilayo Olufunmilola Oluwafunmilayo 
+			Oluwakanyinsola Oluwasegun Oluwaseun Oluwaseyi Oluwatoyin Oluwayemisi Omobolanle Omolara Oni Opeyemi 
+			Simisola Temitope Titilayo Yejide Yewande
+		}
+	}
+}
+

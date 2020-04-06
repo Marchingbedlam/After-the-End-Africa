@@ -1,0 +1,15 @@
+# County Title
+title = c_ankpa
+
+# Settlements
+max_settlements = 3
+
+b_ankpa_1 = castle
+b_ankpa_2 = temple
+b_ankpa_3 = city
+
+# Misc
+culture = igala
+religion = anglican
+
+#History

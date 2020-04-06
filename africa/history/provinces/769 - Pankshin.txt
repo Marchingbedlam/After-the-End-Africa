@@ -1,0 +1,15 @@
+# County Title
+title = c_pankshin
+
+# Settlements
+max_settlements = 3
+
+b_pankshin_1 = castle
+b_pankshin_2 = temple
+b_pankshin_3 = city
+
+# Misc
+culture = angas
+religion = anglican
+
+#History

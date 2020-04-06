@@ -1,0 +1,15 @@
+# County Title
+title = c_iwoye
+
+# Settlements
+max_settlements = 3
+
+b_iwoye_1 = castle
+b_iwoye_2 = temple
+b_iwoye_3 = city
+
+# Misc
+culture = yoruba
+religion = anglican #yoruba
+
+#History

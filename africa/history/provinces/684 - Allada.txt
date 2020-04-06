@@ -1,0 +1,15 @@
+# County Title
+title = c_allada
+
+# Settlements
+max_settlements = 3
+
+b_allada_1 = castle
+b_allada_2 = temple
+b_allada_3 = city
+
+# Misc
+culture = fon
+religion = catholic #vodun
+
+#History

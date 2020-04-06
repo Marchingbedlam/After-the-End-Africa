@@ -1,0 +1,15 @@
+# County Title
+title = c_shendam
+
+# Settlements
+max_settlements = 3
+
+b_shendam_1 = castle
+b_shendam_2 = temple
+b_shendam_3 = city
+
+# Misc
+culture = angas
+religion = anglican
+
+#History

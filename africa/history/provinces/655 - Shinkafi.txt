@@ -1,0 +1,15 @@
+# County Title
+title = c_shinkafi
+
+# Settlements
+max_settlements = 3
+
+b_shinkafi_1 = castle
+b_shinkafi_2 = temple
+b_shinkafi_3 = city
+
+# Misc
+culture = hausa
+religion = sunni
+
+#History

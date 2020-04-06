@@ -1,0 +1,15 @@
+# County Title
+title = c_gamboru
+
+# Settlements
+max_settlements = 3
+
+b_gamboru_1 = castle
+b_gamboru_2 = temple
+b_gamboru_3 = city
+
+# Misc
+culture = kanuri
+religion = sunni
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title = c_fika
+
+# Settlements
+max_settlements = 3
+
+b_fika_1 = castle
+b_fika_2 = temple
+b_fika_3 = city
+
+# Misc
+culture = kanuri
+religion = sunni
+
+#History

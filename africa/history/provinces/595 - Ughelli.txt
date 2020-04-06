@@ -1,0 +1,15 @@
+# County Title
+title = c_ughelli
+
+# Settlements
+max_settlements = 3
+
+b_ughelli_1 = castle
+b_ughelli_2 = temple
+b_ughelli_3 = city
+
+# Misc
+culture = ijo
+religion = anglican
+
+#History

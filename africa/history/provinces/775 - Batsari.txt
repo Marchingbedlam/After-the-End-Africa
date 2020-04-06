@@ -1,0 +1,15 @@
+# County Title
+title = c_batsari
+
+# Settlements
+max_settlements = 3
+
+b_batsari_1 = castle
+b_batsari_2 = temple
+b_batsari_3 = city
+
+# Misc
+culture = hausa
+religion = sunni
+
+#History

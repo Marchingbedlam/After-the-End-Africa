@@ -1,0 +1,15 @@
+# County Title
+title = c_kontagora
+
+# Settlements
+max_settlements = 3
+
+b_kontagora_1 = castle
+b_kontagora_2 = temple
+b_kontagora_3 = city
+
+# Misc
+culture = kainji
+religion = sunni
+
+#History

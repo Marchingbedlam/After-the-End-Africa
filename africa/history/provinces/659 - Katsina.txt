@@ -1,0 +1,15 @@
+# County Title
+title = c_katsina
+
+# Settlements
+max_settlements = 3
+
+b_katsina_1 = castle
+b_katsina_2 = temple
+b_katsina_3 = city
+
+# Misc
+culture = hausa
+religion = sunni
+
+#History

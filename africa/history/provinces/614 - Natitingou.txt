@@ -1,0 +1,15 @@
+# County Title
+title = c_natitingou
+
+# Settlements
+max_settlements = 3
+
+b_natitingou_1 = castle
+b_natitingou_2 = temple
+b_natitingou_3 = city
+
+# Misc
+culture = dagomba #loads of other options
+religion = sunni #or native religion
+
+#History

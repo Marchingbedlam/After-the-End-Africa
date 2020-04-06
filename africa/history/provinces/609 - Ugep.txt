@@ -1,0 +1,15 @@
+# County Title
+title = c_ugep
+
+# Settlements
+max_settlements = 3
+
+b_ugep_1 = castle
+b_ugep_2 = temple
+b_ugep_3 = city
+
+# Misc
+culture = cross_river
+religion = anglican
+
+#History

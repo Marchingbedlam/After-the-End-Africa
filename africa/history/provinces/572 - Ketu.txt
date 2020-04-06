@@ -1,0 +1,15 @@
+# County Title
+title = c_ketu
+
+# Settlements
+max_settlements = 3
+
+b_ketu_1 = castle
+b_ketu_2 = temple
+b_ketu_3 = city
+
+# Misc
+culture = yoruba
+religion = catholic #yoruba
+
+#History

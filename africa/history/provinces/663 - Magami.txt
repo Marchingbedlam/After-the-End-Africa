@@ -1,0 +1,15 @@
+# County Title
+title = c_magami
+
+# Settlements
+max_settlements = 3
+
+b_magami_1 = castle
+b_magami_2 = temple
+b_magami_3 = city
+
+# Misc
+culture = hausa
+religion = sunni
+
+#History

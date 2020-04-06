@@ -1,0 +1,15 @@
+# County Title
+title = c_kachia
+
+# Settlements
+max_settlements = 3
+
+b_kachia_1 = castle
+b_kachia_2 = temple
+b_kachia_3 = city
+
+# Misc
+culture = plateau
+religion = anglican
+
+#History

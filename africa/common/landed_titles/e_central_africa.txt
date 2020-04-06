@@ -303,6 +303,85 @@ e_central_africa = {
 		color={ 150 150 110 }
 		color2={ 255 255 255 }
 
+		d_calabar = {
+			color={ 55 114 120 }
+			color2={ 255 255 255 }	
+			
+			c_calabar = {
+				color={ 77 108 113 }
+				color2={ 255 255 255 }
+				
+				b_calabar_1 = {}
+				b_calabar_2 = {}
+				b_calabar_3 = {}
+			}
+			c_uyo = {
+				color={ 0 155 132 }
+				color2={ 255 255 255 }
+				
+				b_uyo_1 = {}
+				b_uyo_2 = {}
+				b_uyo_3 = {}
+			}
+			c_ugep = {
+				color={ 90 110 89 }
+				color2={ 255 255 255 }
+				
+				b_ugep_1 = {}
+				b_ugep_2 = {}
+				b_ugep_3 = {}
+			}
+			c_ndian = {
+				color={ 188 100 182 }
+				color2={ 255 255 255 }
+
+				b_ndian = {}
+			}
+		}
+		d_cross_river = {
+			color={ 140 179 169 }
+			color2={ 255 255 255 }	
+			
+			c_ogoja = {
+				color={ 97 151 113 }
+				color2={ 255 255 255 }
+				
+				b_ogoja_1 = {}
+				b_ogoja_2 = {}
+				b_ogoja_3 = {}
+			}
+			c_akamkpa = {
+				color={ 55 161 116 }
+				color2={ 255 255 255 }
+				
+				b_akamkpa_1 = {}
+				b_akamkpa_2 = {}
+				b_akamkpa_3 = {}
+			}
+			c_ikom = {
+				color={ 125 148 142 }
+				color2={ 255 255 255 }
+				
+				b_ikom_1 = {}
+				b_ikom_2 = {}
+				b_ikom_3 = {}
+			}
+			c_vande_ikya = {
+				color={ 109 172 176 }
+				color2={ 255 255 255 }
+				
+				b_vande_ikya_1 = {}
+				b_vande_ikya_2 = {}
+				b_vande_ikya_3 = {}
+			}
+			c_menchum = {
+				color={ 123 174 209 }
+				color2={ 255 255 255 }
+
+				b_menchum = {
+				}
+			}
+		}
 		d_oku = {
 			color={ 130 180 200 }
 			color2={ 255 255 255 }
@@ -331,12 +410,6 @@ e_central_africa = {
 
 				b_bamenda = {}
 			}
-			c_menchum = {
-				color={ 123 174 209 }
-				color2={ 255 255 255 }
-
-				b_menchum = {}
-			}
 			c_boyo = {
 				color={ 188 188 186 }
 				color2={ 255 255 255 }
@@ -353,12 +426,6 @@ e_central_africa = {
 				color2={ 255 255 255 }
 
 				b_manyu = {}
-			}
-			c_ndian = {
-				color={ 188 100 182 }
-				color2={ 255 255 255 }
-
-				b_ndian = {}
 			}
 			c_koupe_manengouba = {
 				color={ 215 122 255 }

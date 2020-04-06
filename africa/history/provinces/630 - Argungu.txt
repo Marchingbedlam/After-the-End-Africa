@@ -1,0 +1,15 @@
+# County Title
+title = c_argungu
+
+# Settlements
+max_settlements = 3
+
+b_argungu_1 = castle
+b_argungu_2 = temple
+b_argungu_3 = city
+
+# Misc
+culture = hausa
+religion = sunni
+
+#History

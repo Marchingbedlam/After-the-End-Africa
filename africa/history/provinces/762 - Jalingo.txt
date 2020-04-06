@@ -1,0 +1,15 @@
+# County Title
+title = c_jalingo
+
+# Settlements
+max_settlements = 3
+
+b_jalingo_1 = castle
+b_jalingo_2 = temple
+b_jalingo_3 = city
+
+# Misc
+culture = fulbe
+religion = sunni
+
+#History

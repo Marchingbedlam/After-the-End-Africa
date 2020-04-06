@@ -1,0 +1,15 @@
+# County Title
+title = c_perere
+
+# Settlements
+max_settlements = 3
+
+b_perere_1 = castle
+b_perere_2 = temple
+b_perere_3 = city
+
+# Misc
+culture = bariba
+religion = sunni
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title = c_bauchi
+
+# Settlements
+max_settlements = 3
+
+b_bauchi_1 = castle
+b_bauchi_2 = temple
+b_bauchi_3 = city
+
+# Misc
+culture = hausa
+religion = sunni
+
+#History

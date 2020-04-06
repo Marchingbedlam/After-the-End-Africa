@@ -1,0 +1,15 @@
+# County Title
+title = c_emohua
+
+# Settlements
+max_settlements = 3
+
+b_emohua_1 = castle
+b_emohua_2 = temple
+b_emohua_3 = city
+
+# Misc
+culture = igbo
+religion = anglican
+
+#History

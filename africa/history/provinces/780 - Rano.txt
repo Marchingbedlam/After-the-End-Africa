@@ -1,0 +1,15 @@
+# County Title
+title = c_rano
+
+# Settlements
+max_settlements = 3
+
+b_rano_1 = castle
+b_rano_2 = temple
+b_rano_3 = city
+
+# Misc
+culture = hausa
+religion = sunni
+
+#History

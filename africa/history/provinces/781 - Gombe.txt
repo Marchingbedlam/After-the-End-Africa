@@ -1,0 +1,15 @@
+# County Title
+title = c_gombe
+
+# Settlements
+max_settlements = 3
+
+b_gombe_1 = castle
+b_gombe_2 = temple
+b_gombe_3 = city
+
+# Misc
+culture = hausa
+religion = sunni
+
+#History

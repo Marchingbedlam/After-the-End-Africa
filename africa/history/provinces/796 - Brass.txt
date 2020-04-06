@@ -1,0 +1,15 @@
+# County Title
+title = c_brass
+
+# Settlements
+max_settlements = 3
+
+b_brass_1 = castle
+b_brass_2 = temple
+b_brass_3 = city
+
+# Misc
+culture = ijo
+religion = anglican #pentecostal
+
+#History

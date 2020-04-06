@@ -12,6 +12,6 @@ b_atakampe_3 = temple
 
 # Misc
 culture = ewe
-religion = anglican
+religion = catholic
 
 #History

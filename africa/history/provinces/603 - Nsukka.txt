@@ -1,0 +1,15 @@
+# County Title
+title = c_nsukka
+
+# Settlements
+max_settlements = 3
+
+b_nsukka_1 = castle
+b_nsukka_2 = temple
+b_nsukka_3 = city
+
+# Misc
+culture = igbo
+religion = catholic
+
+#History

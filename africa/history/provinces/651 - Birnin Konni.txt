@@ -1,0 +1,15 @@
+# County Title
+title = c_birnin_konni
+
+# Settlements
+max_settlements = 3
+
+b_birnin_konni_1 = castle
+b_birnin_konni_2 = temple
+b_birnin_konni_3 = city
+
+# Misc
+culture = hausa
+religion = sunni
+
+#History

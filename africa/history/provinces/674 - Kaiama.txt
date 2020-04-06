@@ -1,0 +1,15 @@
+# County Title
+title = c_kaiama
+
+# Settlements
+max_settlements = 3
+
+b_kaiama_1 = castle
+b_kaiama_2 = temple
+b_kaiama_3 = city
+
+# Misc
+culture = yoruba
+religion = sunni
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title = c_agbor
+
+# Settlements
+max_settlements = 3
+
+b_agbor_1 = castle
+b_agbor_2 = temple
+b_agbor_3 = city
+
+# Misc
+culture = urhobo
+religion = anglican
+
+#History

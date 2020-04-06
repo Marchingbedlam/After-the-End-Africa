@@ -1,0 +1,15 @@
+# County Title
+title = c_sanga
+
+# Settlements
+max_settlements = 3
+
+b_sanga_1 = castle
+b_sanga_2 = temple
+b_sanga_3 = city
+
+# Misc
+culture = kainji
+religion = sunni
+
+#History

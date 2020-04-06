@@ -1,0 +1,15 @@
+# County Title
+title = c_wamba
+
+# Settlements
+max_settlements = 3
+
+b_wamba_1 = castle
+b_wamba_2 = temple
+b_wamba_3 = city
+
+# Misc
+culture = plateau
+religion = anglican
+
+#History

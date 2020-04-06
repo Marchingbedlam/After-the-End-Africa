@@ -1,0 +1,15 @@
+# County Title
+title = c_ikare-akoko
+
+# Settlements
+max_settlements = 3
+
+b_ikare-akoko_1 = castle
+b_ikare-akoko_2 = temple
+b_ikare-akoko_3 = city
+
+# Misc
+culture = yoruba
+religion = anglican #yoruba
+
+#History

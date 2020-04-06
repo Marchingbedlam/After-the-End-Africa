@@ -1,0 +1,15 @@
+# County Title
+title = c_dakingari
+
+# Settlements
+max_settlements = 3
+
+b_dakingari_1 = castle
+b_dakingari_2 = temple
+b_dakingari_3 = city
+
+# Misc
+culture = hausa
+religion = sunni
+
+#History

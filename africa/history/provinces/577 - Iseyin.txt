@@ -1,0 +1,15 @@
+# County Title
+title = c_iseyin
+
+# Settlements
+max_settlements = 3
+
+b_iseyin_1 = castle
+b_iseyin_2 = temple
+b_iseyin_3 = city
+
+# Misc
+culture = yoruba
+religion = anglican #yoruba
+
+#History

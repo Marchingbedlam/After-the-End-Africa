@@ -1,0 +1,15 @@
+# County Title
+title = c_abuja
+
+# Settlements
+max_settlements = 3
+
+b_abuja_1 = castle
+b_abuja_2 = temple
+b_abuja_3 = city
+
+# Misc
+culture = pijin
+religion = sunni
+
+#History

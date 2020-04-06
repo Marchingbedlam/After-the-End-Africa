@@ -1,0 +1,15 @@
+# County Title
+title = c_parakou
+
+# Settlements
+max_settlements = 3
+
+b_parakou_1 = castle
+b_parakou_2 = temple
+b_parakou_3 = city
+
+# Misc
+culture = bariba
+religion = catholic
+
+#History

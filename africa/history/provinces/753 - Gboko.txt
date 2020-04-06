@@ -1,0 +1,15 @@
+# County Title
+title = c_gboko
+
+# Settlements
+max_settlements = 3
+
+b_gboko_1 = castle
+b_gboko_2 = temple
+b_gboko_3 = city
+
+# Misc
+culture = tiv
+religion = anglican
+
+#History

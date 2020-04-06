@@ -1,0 +1,15 @@
+# County Title
+title = c_nikki
+
+# Settlements
+max_settlements = 3
+
+b_nikki_1 = castle
+b_nikki_2 = temple
+b_nikki_3 = city
+
+# Misc
+culture = bariba
+religion = sunni
+
+#History

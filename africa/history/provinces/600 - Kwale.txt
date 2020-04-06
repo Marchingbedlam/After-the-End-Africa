@@ -1,0 +1,15 @@
+# County Title
+title = c_kwale
+
+# Settlements
+max_settlements = 3
+
+b_kwale_1 = castle
+b_kwale_2 = temple
+b_kwale_3 = city
+
+# Misc
+culture = igbo
+religion = catholic
+
+#History

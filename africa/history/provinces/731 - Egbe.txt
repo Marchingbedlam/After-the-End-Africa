@@ -1,0 +1,15 @@
+# County Title
+title = c_egbe
+
+# Settlements
+max_settlements = 3
+
+b_egbe_1 = castle
+b_egbe_2 = temple
+b_egbe_3 = city
+
+# Misc
+culture = yoruba
+religion = anglican #yoruba
+
+#History

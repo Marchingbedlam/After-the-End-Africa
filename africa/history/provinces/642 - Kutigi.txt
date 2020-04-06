@@ -1,0 +1,15 @@
+# County Title
+title = c_kutigi
+
+# Settlements
+max_settlements = 3
+
+b_kutigi_1 = castle
+b_kutigi_2 = temple
+b_kutigi_3 = city
+
+# Misc
+culture = nupe
+religion = sunni
+
+#History

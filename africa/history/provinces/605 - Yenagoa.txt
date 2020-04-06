@@ -1,0 +1,15 @@
+# County Title
+title = c_yenagoa
+
+# Settlements
+max_settlements = 3
+
+b_yenagoa_1 = castle
+b_yenagoa_2 = temple
+b_yenagoa_3 = city
+
+# Misc
+culture = ijo
+religion = anglican
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title = c_ilorin
+
+# Settlements
+max_settlements = 3
+
+b_ilorin_1 = castle
+b_ilorin_2 = temple
+b_ilorin_3 = city
+
+# Misc
+culture = pijin
+religion = sunni #yoruba
+
+#History

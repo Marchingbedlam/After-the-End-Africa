@@ -1,0 +1,15 @@
+# County Title
+title = c_serti
+
+# Settlements
+max_settlements = 3
+
+b_serti_1 = castle
+b_serti_2 = temple
+b_serti_3 = city
+
+# Misc
+culture = dakoid
+religion = anglican
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title = c_potiskum
+
+# Settlements
+max_settlements = 3
+
+b_potiskum_1 = castle
+b_potiskum_2 = temple
+b_potiskum_3 = city
+
+# Misc
+culture = kanuri
+religion = sunni
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title = c_mokwa
+
+# Settlements
+max_settlements = 3
+
+b_mokwa_1 = castle
+b_mokwa_2 = temple
+b_mokwa_3 = city
+
+# Misc
+culture = nupe
+religion = sunni
+
+#History

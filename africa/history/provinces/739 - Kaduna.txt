@@ -1,0 +1,15 @@
+# County Title
+title = c_kaduna
+
+# Settlements
+max_settlements = 3
+
+b_kaduna_1 = castle
+b_kaduna_2 = temple
+b_kaduna_3 = city
+
+# Misc
+culture = pijin
+religion = sunni
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title = c_bama
+
+# Settlements
+max_settlements = 3
+
+b_bama_1 = castle
+b_bama_2 = temple
+b_bama_3 = city
+
+# Misc
+culture = kanuri
+religion = sunni
+
+#History

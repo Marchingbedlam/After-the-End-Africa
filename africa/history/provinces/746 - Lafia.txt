@@ -1,0 +1,15 @@
+# County Title
+title = c_lafia
+
+# Settlements
+max_settlements = 3
+
+b_lafia_1 = castle
+b_lafia_2 = temple
+b_lafia_3 = city
+
+# Misc
+culture = pijin
+religion = anglican
+
+#History

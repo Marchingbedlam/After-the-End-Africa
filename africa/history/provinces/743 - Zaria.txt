@@ -1,0 +1,15 @@
+# County Title
+title = c_zaria
+
+# Settlements
+max_settlements = 3
+
+b_zaria_1 = castle
+b_zaria_2 = temple
+b_zaria_3 = city
+
+# Misc
+culture = hausa
+religion = sunni
+
+#History

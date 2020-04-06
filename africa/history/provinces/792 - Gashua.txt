@@ -1,0 +1,15 @@
+# County Title
+title = c_gashua
+
+# Settlements
+max_settlements = 3
+
+b_gashua_1 = castle
+b_gashua_2 = temple
+b_gashua_3 = city
+
+# Misc
+culture = kanuri
+religion = sunni
+
+#History

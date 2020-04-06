@@ -1,0 +1,15 @@
+# County Title
+title = c_minna
+
+# Settlements
+max_settlements = 3
+
+b_minna_1 = castle
+b_minna_2 = temple
+b_minna_3 = city
+
+# Misc
+culture = gbagi
+religion = sunni
+
+#History
