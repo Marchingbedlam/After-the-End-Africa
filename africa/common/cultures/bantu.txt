@@ -3,7 +3,7 @@ bantu = {
 	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
 	graphical_cultures = { muslimgfx }
 	
-	bubi = {
+	bubi={
 		color = { 0.5 0.5 0.1 }
 		
 		graphical_cultures = { westafricangfx africangfx }
@@ -39,7 +39,7 @@ bantu = {
 		from_dynasty_prefix = "de "
 	}
 	
-	dakoid = {
+	dakoid={
 		color = { 0.64 0.54 0.68 }
 		
 		graphical_cultures = { westafricangfx africangfx }
@@ -78,7 +78,7 @@ bantu = {
 		}
 	}
 	
-	grassfields = {
+	grassfields={
 		color = { 0.78 0.60 0.41 }
 		
 		graphical_cultures = { westafricangfx africangfx }
@@ -117,7 +117,7 @@ bantu = {
 		}
 	}
 	
-	mambiloid = {
+	mambiloid={
 		color = { 0.51 0.63 0.85 }
 		
 		graphical_cultures = { westafricangfx africangfx }
@@ -156,7 +156,7 @@ bantu = {
 		}
 	}
 	
-	tiv = {
+	tiv={
 		color = { 0.88 0.57 0.71 }
 		
 		graphical_cultures = { westafricangfx africangfx }
@@ -193,5 +193,50 @@ bantu = {
 			Chioma Chizoba Ebele Ekene Ekenedilichukwu Fumnanya Funanya Ndidi Ngozi Nkechi Nkechinyere Nkemdilim Nkiru 
 			Nkiruka Nneka Nnenna Nnenne Nwanneka Ogechi Ogechukwukama Oluchi Onyeka Onyekachi Onyekachukwu Udo Uzoma
 		}
+	}
+	kongo={
+		color = { 0.5 0.5 0.1 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Abel André_Andrew
+			Bernard
+			Daniel
+			Elelo
+			Fernando_Ferdinand
+			Gandu Garcia Gilbert Gyembe
+			Henrique_Henry
+			Joaquim_Joachim Joseph
+			Kembo Kiditu Konzo Kotodi
+			Lamyr Liel Loubendou Louis Lukeni
+			Mambou Manuel_Emmanuel Masaka Matadi Mayangi Miala Miguel_Michael Mpanzu Mvemba Mvika
+			Nanga Ndozau_John Ngouli Nimi Nkanga Nkelian Nkenge Nkumbi Nkuwu Nlaza Nlenke Nombo Nsangu Nsona Ntenda Ntinu Ntumba Nzaou Nzassi Nzenze Nzinga
+			Pedro_Peter
+			Salvador Sylvester
+			Tekenge Trigo
+		}
+		
+		female_names = {
+			Amelia Anna_Anne
+			Cecilia
+			Eva
+			Fudi
+			Ignacia Isabel
+			Joana
+			Kengé
+			Lélo Luisa_Louise Lusana
+			Malisbète Mamaye Marcella Maria_Mary Martha Mwessi
+			Nèle Nienzi Nsengo
+			Tchitoula Touba
+			Virginia Vuzilia
+			Yala
+		}
+
+		from_dynasty_prefix = "de "
+		male_patronym = "a "
+		female_patronym = "a "
+		prefix = yes 
 	}
 }

@@ -10,12 +10,12 @@ mande = {
 		
 		male_names = {
 			Abou-Bekr_Abu-Bakr
-			Bassi
+			Bamoi Bassi Boucari_Bakr
 			Diobé
 			Famaga Fodiya_Foday
 			Ibrahima_Abraham
 			Jaylani
-			Karamba Karang Kaya-Magha Kéré-Mori
+			Karamba Karang Kaya-Magha Kéré-Mori Konamadou
 		 	Mahmudou-Foday Mamadou_Mohammed
 			Salim
 			Tunka

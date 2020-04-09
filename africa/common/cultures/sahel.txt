@@ -10,7 +10,7 @@ sahel = {
 		
 		male_names = {
 			Abbas "Abdallahi Yanka" "Abder Rahman"_Abdul-Rahman "Abdul Bokar" Abdulkadir Abdullahi_Abdullah "Abdullahi Barau" "Abdu Tukudu" Abubakar_Abu-Bakr "Abu Bakar Atiqu" Adamu_Adam Addafini "Ado Bayero" Ahmadu_Ahmed "Ahmadu Atiku" "Ahmadu Rufai" Aliyu_Ali Aliyu-Babba_Ali-Baba "Aliyu Karami" Amiru_Amir Atiku Ayuba_Job
-			"Bakon Dare" Banja Barau Bashar_Bashir Belarabe_Bilarab Biran
+			"Bakon Dare" Banja Barau Bashar_Bashir Belarabe_Bilarab Biran Bukari_Bakr
 			Cellou
 			Dasuki Dawuda_David Diakho Doundou
 			Faruk Fodio_Foday
@@ -21,10 +21,10 @@ sahel = {
 			"Kabir Umar" Karami Karamokho Kasso Khalilu_Khalil Konko Kwairanga
 			Lawan Lukudi
 			Mayaki Mallam "Mallam Ishaku" "Mallam Musa" "Mallam Zaki" "Maynassara Maji" Modibo "Modibo Adama" Muhammadu_Mohammed "Muhammadu Attahiru" "Muhammadu Bello" "Muhammadu Dikko" "Muhammadu Maccido" "Muhammadu Maiturare" "Muhammadu Sanusi" "Muhammadu Tambari" "Muhammadu Tukur" Muhamman Mu'azu "Mu'azu Ahmadu" Murtala Musa_Moses Musdafa_Mustafa
-			Nassourou Na'uka Njal Njidda Nuhu_Nuh
+			Nassourou_Nasr Na'uka Njal Njidda Nuhu_Nuh
 			"Qadir Zaylani"
 			Rilwanu_Rilwan Rufai
-			Sa'adu_Said Saifulayi Sandu Shehu Shu'aybu_Shuayb Siddiq Sulaymanu_Solomon Subande Sulu
+			Sa'adu_Said Saifulayi Sandu Shehu_Sheikh Shu'aybu_Shuayb Siddiq Sulaymanu_Solomon Subande Sulu
 			Tamsir Tenguella Tidiani Tierno Tukur
 			Umaru_Omar Usman_Osman "Usman Bokari" "Usman Shehu" "Usman Yero" 
 			Yacine_Yassin Yamuza Yaqubu_Jacob Yaro Yusufu_Joseph
@@ -41,7 +41,7 @@ sahel = {
 			Maimuna Mariama_Mary
 			Nyako
 			Rawiya
-			Samira
+			Samira Sara_Sarah
 			Tabara
 			Umu_Umm
 		}
@@ -58,15 +58,15 @@ sahel = {
 		color = { 0.9 1 1.1 }
 		
 		male_names = {
-			Abdule_Abdullah Ahmedu_Ahmed Alassane_Alhassan Ali Amaguime Atame
-			Bakari_Abu-Bakr
+			Abdulahi_Abdullah Abdule_Abdul Abojo Ahmedu_Ahmed Alassane_Alhassan Ali Amaguime Atame
+			Bakari_Bakr Belco Boubacar_Abu-Bakr
 			Daouda_David
 			Gouno
 			Haroun_Aaron
 			Ibrahim_Abraham
 			Mamadou_Mohammed Moulaye_Mulay Moustapha_Mustafa
 			Ogotemeli
-			Sedou_Seydou Suleymane_Solomon
+			Sedou_Seydou Sekou_Sheikh Suleymane_Solomon
 			Yambo Youssouf_Joseph
 		}
 		female_names = {
@@ -227,17 +227,20 @@ sahel = {
 		
 		male_names = {
 			Abdarahman_Abdul-Rahman Abdelkérim_Abdul-Karim
-			Banhoula Behoroum
-			Djelassem Djimra
+			Banhoula Behoroum Burkomanda
+			Dalai Djelassem Djimra
 			Félix_Felix 
+			Gaourang
 			Jean_John Joseph 
 			Koibla
-			Mahamat_Mohammed Milarew Mogaye
-			Ndikenan Negue N'Garta
+			Loel
+			Mahamat_Mohammed Malam Milarew Mogaye
+			Ndikenan Negue Ngarmaba Ngarmane N'Garta
 			Pascal 
 			Rimdaga Ronelngar 
-
-			Gaourang Burkomanda Urada Loel Dalai Wanja Ngarmane Ngarmaba Malam Saboun 
+			Saboun
+			Urada
+			Wanja
 		}
 		female_names = {
 			Marie_Mary

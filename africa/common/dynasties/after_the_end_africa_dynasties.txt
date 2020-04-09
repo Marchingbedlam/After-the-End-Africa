@@ -301,6 +301,9 @@
 1302018 = {name ="Gaminé" culture=soninke }
 1302019 = {name ="Nomboné" culture=soninke }
 1302020 = {name ="Bituguno" culture=soninke }
+1302021 = {name ="Djennepo" culture=soninke }
+1302022 = {name ="Kouroumanse" culture=soninke }
+1302023 = {name ="Sao" culture=soninke }
 
 1401000 = {name ="Traoré" culture=manding }
 1401001 = {name ="Diawara" culture=manding }
@@ -485,6 +488,10 @@
 1407004 = {name ="Ouologuem" culture=dogon }
 1407005 = {name ="Koyo" culture=dogon }
 1407006 = {name ="Dolu" culture=dogon }
+1407007 = {name ="Teriku" culture=dogon }
+1407008 = {name ="Sodanga" culture=dogon }
+1407009 = {name ="Alagala" culture=dogon }
+1407010 = {name ="Togotoy" culture=dogon }
 
 1408000 = {name ="Ngakinar" culture=sara }   ##Sara/Bagirmi?
 1408001 = {name ="Odingar" culture=sara }
@@ -1094,6 +1101,88 @@
 1518043 = {name ="Boneke" culture=bubi }
 1518044 = {name ="Boho" culture=bubi }
 1518045 = {name ="Ruiché" culture=bubi }
+
+1519000 = {name ="Nekaka" culture=kongo }
+1519001 = {name ="Nguele" culture=kongo }
+1519002 = {name ="dos Reis Magros" culture=kongo }
+1519003 = {name ="Longo" culture=kongo }
+1519004 = {name ="Valle das Lagrimas" culture=kongo }
+1519005 = {name ="de Nóbrega" culture=kongo }
+1519006 = {name ="Langu" culture=kongo }
+1519007 = {name ="Chikussu" culture=kongo }
+1519008 = {name ="Tchibota" culture=kongo }
+1519009 = {name ="Loemba" culture=kongo }
+1519010 = {name ="Djembo" culture=kongo }
+1519011 = {name ="Miyakou" culture=kongo }
+1519012 = {name ="Tchicaya" culture=kongo }
+1519013 = {name ="Pongo" culture=kongo }
+1519014 = {name ="Raposo" culture=kongo }
+1519015 = {name ="Lando" culture=kongo }
+1519016 = {name ="Kwilu" culture=kongo }
+1519017 = {name ="Pembellot" culture=kongo }
+1519018 = {name ="de Mbula" culture=kongo }
+1519019 = {name ="Kimpanzu" culture=kongo }
+1519020 = {name ="Kinlaza" culture=kongo }
+1519021 = {name ="Água Rosada" culture=kongo }
+1519022 = {name ="de Leao" culture=kongo }
+1519023 = {name ="Kibala" culture=kongo }
+1519024 = {name ="Barbuda" culture=kongo }
+1519025 = {name ="Mboumbou" culture=kongo }
+1519026 = {name ="Goma" culture=kongo }
+1519027 = {name ="Mzinga e Donga" culture=kongo }
+1519028 = {name ="Yanzi" culture=kongo }
+1519029 = {name ="Bouiti" culture=kongo }
+1519030 = {name ="Mangafou" culture=kongo }
+1519031 = {name ="Mbatchi" culture=kongo }
+1519032 = {name ="Roberto Afonso" culture=kongo }
+1519033 = {name ="Bouanga" culture=kongo }
+1519034 = {name ="Mvemba e Tona" culture=kongo }
+1519035 = {name ="Panzou" culture=kongo }
+1519036 = {name ="Boumba" culture=kongo }
+1519037 = {name ="Makaya" culture=kongo }
+1519038 = {name ="Tchizinga" culture=kongo }
+1519039 = {name ="Mpopi" culture=kongo }
+1519040 = {name ="Makosso" culture=kongo }
+1519041 = {name ="Mavoungou" culture=kongo }
+1519042 = {name ="Tchibayi" culture=kongo }
+1519043 = {name ="Tchiali" culture=kongo }
+1519044 = {name ="Boulolo" culture=kongo }
+1519045 = {name ="Soungou" culture=kongo }
+1519046 = {name ="Koutana" culture=kongo }
+1519047 = {name ="de Vista" culture=kongo }
+1519048 = {name ="Portella" culture=kongo }
+1519049 = {name ="Louzingou" culture=kongo }
+1519050 = {name ="Demauzer" culture=kongo }
+1519051 = {name ="Fayette" culture=kongo }
+1519052 = {name ="Lafadère" culture=kongo }
+1519053 = {name ="Bayonne" culture=kongo }
+1519054 = {name ="Sulveyi" culture=kongo }
+1519055 = {name ="Vita" culture=kongo }
+1519056 = {name ="Téléman" culture=kongo }
+1519057 = {name ="Nkussu" culture=kongo }
+1519058 = {name ="Ngulungu" culture=kongo }
+1519059 = {name ="Likounzi" culture=kongo }
+1519060 = {name ="Ntetchi" culture=kongo }
+1519061 = {name ="Barros" culture=kongo }
+1519062 = {name ="Diasiwa" culture=kongo }
+1519063 = {name ="Félix" culture=kongo }
+1519064 = {name ="Lianzi" culture=kongo }
+1519065 = {name ="Loendo" culture=kongo }
+1519066 = {name ="Guimbi" culture=kongo }
+1519067 = {name ="Niambi" culture=kongo }
+1519068 = {name ="de Vuzi" culture=kongo }
+1519069 = {name ="Kokolo" culture=kongo }
+1519070 = {name ="Poati" culture=kongo }
+1519071 = {name ="Lopes" culture=kongo }
+1519072 = {name ="Diakenga" culture=kongo }
+1519073 = {name ="Kivitidi" culture=kongo }
+1519074 = {name ="Jeronimo Kutsitsi" culture=kongo }
+1519075 = {name ="Tomba" culture=kongo }
+1519076 = {name ="Monte Calvario" culture=kongo }
+1519077 = {name ="Vubu" culture=kongo }
+1519078 = {name ="Kialunda" culture=kongo }
+1519079 = {name ="Kanza" culture=kongo }
+1519080 = {name ="Mwe di Malila" culture=kongo }
 
 1841000 = {name ="Pieh" culture=mende }
 1841001 = {name ="Demby" culture=mende }
