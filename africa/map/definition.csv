@@ -148,7 +148,7 @@ province;red;green;blue;x;x
 147;130;93;77;Tongomayel;x
 148;162;94;64;Liptougou;x
 149;197;117;83;Partiaga;x
-150;176;118;94;Kirikiri;x #?????
+150;176;118;94;Kirikiri;x
 151;;;;;x
 152;;;;;x
 153;;;;;x
@@ -450,7 +450,7 @@ province;red;green;blue;x;x
 449;93;168;89;Brazzaville;x
 450;20;148;14;Ngabe;x
 451;69;199;63;Lefini;x
-452;17;193;123;Lekana;x
+452;252;58;58;Nelspruit;x
 453;14;113;39;Abala;x
 454;85;105;79;Gamboma;x
 455;63;180;64;Okoyo;x
@@ -458,7 +458,7 @@ province;red;green;blue;x;x
 457;110;137;23;Makoua;x
 458;25;135;47;Liranga;x
 459;62;215;59;Ewo;x
-460;181;230;29;Lossi;x
+460;252;34;34;Nkomazi;x
 461;109;199;51;Ouesso;x
 462;33;145;31;Impfondo;x
 463;124;212;61;Chaillu;x
@@ -797,7 +797,7 @@ province;red;green;blue;x;x
 796;164;160;116;Brass;x
 797;145;176;186;Gamboru;x
 798;222;214;3;Yambio;x
-799;67;251;18;Kapoeta;x
+799;189;55;85;Sabie;x
 800;107;29;241;Junqoley-Boma;x
 801;141;63;249;Latjoor;x
 802;218;233;224;Juba;x
@@ -835,7 +835,7 @@ province;red;green;blue;x;x
 834;186;213;27;Kgatleng;x
 835;175;152;135;Kweneng;x
 836;173;194;195;Kgalagadi South;x
-837;255;222;169;Kgalagadi North;x
+837;212;193;215;Kgalagadi North;x
 838;39;155;139;Cuango-Luzamba;x
 839;147;214;209;Dundo;x
 840;115;98;157;Bungo;x
@@ -851,7 +851,7 @@ province;red;green;blue;x;x
 850;9;254;3;Cacolo;x
 851;41;160;9;Saurimo;x
 852;222;119;159;Dala;x
-853;98;95;255;Namacunde;x
+853;98;95;225;Namacunde;x
 854;178;43;147;Cuvelai;x
 855;51;149;148;Cahama;x
 856;97;174;176;Ombadja;x
@@ -876,7 +876,7 @@ province;red;green;blue;x;x
 875;247;168;22;Bentiaba;x
 876;90;118;20;Tombua;x
 877;143;225;87;Mocamedes;x
-878;39;68;135;Chiange;x
+878;37;68;135;Chiange;x
 879;111;248;156;Lubango;x
 880;139;123;180;Baia Farta;x
 881;184;229;29;Chongoroi;x
@@ -945,7 +945,7 @@ province;red;green;blue;x;x
 944;251;93;154;Sanga;x
 945;219;87;123;N'gauma;x
 946;92;27;94;Marrupa;x
-947;90;49;189;Majune;x
+947;80;49;189;Majune;x
 948;249;237;45;Manhica;x
 949;149;132;133;Matutuine;x
 950;26;218;156;Guija;x
@@ -971,7 +971,7 @@ province;red;green;blue;x;x
 970;12;21;160;Mutare;x
 971;146;196;81;Chipinge;x
 972;92;217;161;Nyanga;x
-973;92;217;161;Bindura;x
+973;7;186;64;Bindura;x
 974;226;117;49;Muzarabani;x
 975;51;123;172;Bulawayo;x
 976;121;86;123;Lupane;x
@@ -985,7 +985,7 @@ province;red;green;blue;x;x
 984;252;65;80;Mangochi;x
 985;117;127;171;Dedza;x
 986;35;126;170;Kusungu;x
-987;35;126;170;Chitipa;x
+987;255;86;86;Kruger;x
 988;224;140;87;Nkhata Bay;x
 989;145;108;105;Nkhotakhota;x
 990;222;118;13;Lilongwe;x
@@ -1101,7 +1101,7 @@ province;red;green;blue;x;x
 1100;124;205;224;Bukavu;x
 1101;210;40;28;Kalehe;x
 1102;198;206;169;Mwenga;x
-1103;198;206;169;Mahagi;x
+1103;183;144;93;Omaheke;x
 1104;88;233;158;Faradje;x
 1105;132;147;111;Dungu;x
 1106;199;13;105;Ango;x
@@ -1214,7 +1214,7 @@ province;red;green;blue;x;x
 1213;80;164;229;Al Manaqil;x
 1214;42;201;253;Kurnuk;x
 1215;105;210;172;Magwi;x
-1216;143;183;122;Kidepo;x
+1216;143;183;122;Kapoeta;x
 1217;237;141;148;Yei;x
 1218;24;203;39;Yirol;x
 1219;226;71;113;Kabkabiya;x
@@ -1222,158 +1222,158 @@ province;red;green;blue;x;x
 1221;181;192;239;Melut;x
 1222;242;177;186;Nakfa;x
 1223;97;25;199;Abacheri;x
-1224;;;;;x
-1225;;;;;x
-1226;;;;;x
-1227;;;;;x
-1228;;;;;x
-1229;;;;;x
-1230;;;;;x
-1231;;;;;x
-1232;;;;;x
-1233;;;;;x
-1234;;;;;x
-1235;;;;;x
-1236;;;;;x
-1237;;;;;x
-1238;;;;;x
-1239;;;;;x
-1240;;;;;x
-1241;;;;;x
-1242;;;;;x
-1243;;;;;x
-1244;;;;;x
-1245;;;;;x
-1246;;;;;x
-1247;;;;;x
-1248;;;;;x
-1249;;;;;x
-1250;;;;;x
-1251;;;;;x
-1252;;;;;x
-1253;;;;;x
-1254;;;;;x
-1255;;;;;x
-1256;;;;;x
-1257;;;;;x
-1258;;;;;x
-1259;;;;;x
-1260;;;;;x
-1261;;;;;x
-1262;;;;;x
-1263;;;;;x
-1264;;;;;x
-1265;;;;;x
-1266;;;;;x
-1267;;;;;x
-1268;;;;;x
-1269;;;;;x
-1270;;;;;x
-1271;;;;;x
-1272;;;;;x
-1273;;;;;x
-1274;;;;;x
-1275;;;;;x
-1276;;;;;x
-1277;;;;;x
-1278;;;;;x
-1279;;;;;x
-1280;;;;;x
-1281;;;;;x
-1282;;;;;x
-1283;;;;;x
-1284;;;;;x
-1285;;;;;x
-1286;;;;;x
-1287;;;;;x
-1288;;;;;x
-1289;;;;;x
-1290;;;;;x
-1291;;;;;x
-1292;;;;;x
-1293;;;;;x
-1294;;;;;x
-1295;;;;;x
-1296;;;;;x
-1297;;;;;x
-1298;;;;;x
-1299;;;;;x
-1300;;;;;x
-1301;;;;;x
-1302;;;;;x
-1303;;;;;x
-1304;;;;;x
-1305;;;;;x
-1306;;;;;x
-1307;;;;;x
-1308;;;;;x
-1309;;;;;x
-1310;;;;;x
-1311;;;;;x
-1312;;;;;x
-1313;;;;;x
-1314;;;;;x
-1315;;;;;x
-1316;;;;;x
-1317;;;;;x
-1318;;;;;x
-1319;;;;;x
-1320;;;;;x
-1321;;;;;x
-1322;;;;;x
-1323;;;;;x
-1324;;;;;x
-1325;;;;;x
-1326;;;;;x
-1327;;;;;x
-1328;;;;;x
-1329;;;;;x
-1330;;;;;x
-1331;;;;;x
-1332;;;;;x
-1333;;;;;x
-1334;;;;;x
-1335;;;;;x
-1336;;;;;x
-1337;;;;;x
-1338;;;;;x
-1339;;;;;x
-1340;;;;;x
-1341;;;;;x
-1342;;;;;x
-1343;;;;;x
-1344;;;;;x
-1345;;;;;x
-1346;;;;;x
-1347;;;;;x
-1348;;;;;x
-1349;;;;;x
-1350;;;;;x
-1351;;;;;x
-1352;;;;;x
-1353;;;;;x
-1354;;;;;x
-1355;;;;;x
-1356;;;;;x
-1357;;;;;x
-1358;;;;;x
-1359;;;;;x
-1360;;;;;x
-1361;;;;;x
-1362;;;;;x
-1363;;;;;x
-1364;;;;;x
-1365;;;;;x
-1366;;;;;x
-1367;;;;;x
-1368;;;;;x
-1369;;;;;x
-1370;;;;;x
-1371;;;;;x
-1372;;;;;x
-1373;;;;;x
-1374;;;;;x
-1375;;;;;x
+1224;255;72;64;Cape Town;x
+1225;225;223;6;Port Elizabeth;x
+1226;163;161;7;East London;x
+1227;9;119;0;Durban;x
+1228;19;67;15;KwaDukuza;x
+1229;10;83;4;Hibberdene;x
+1230;6;75;0;Port Shepstone;x
+1231;217;89;79;Stellenbosch;x
+1232;104;16;1;Vredenburg;x
+1233;145;31;17;Piketberg;x
+1234;92;3;1;Winterhoek;x
+1235;99;1;1;Vredendal;x
+1236;65;179;85;Kamiesburg;x
+1237;65;207;85;Nama Khoi;x
+1238;20;140;92;Khara Hais;x
+1239;65;194;85;Richtersveld;x
+1240;60;202;85;Karoo Hoogland;x
+1241;65;192;80;Khai-Ma;x
+1242;48;154;96;Hantam;x
+1243;7;100;17;Mier;x
+1244;7;87;17;Kai Garib;x
+1245;46;113;22;Kheis;x
+1246;109;144;46;Tsantsabane;x
+1247;4;92;20;Kgatelopele;x
+1248;32;53;20;Moshaweng;x
+1249;29;138;119;Ga-Segonyana;x
+1250;20;131;27;Dikgatlong;x
+1251;47;85;39;Sol Plaatje;x
+1252;127;222;28;Emthanjeni;x
+1253;94;165;37;Kareeberg;x
+1254;17;233;6;Renosterberg;x
+1255;38;91;8;Thembelihle;x
+1256;47;177;109;Umsobomvu;x
+1257;18;235;7;Ubuntu;x
+1258;11;225;0;Siyathemba;x
+1259;0;255;45;Siyancuma;x
+1260;142;161;0;Kagisano-Molopo;x
+1261;43;28;215;Polokwane;x
+1262;6;9;70;Lepelle-Nkumpi;x
+1263;5;57;106;Blouberg;x
+1264;8;12;81;Molemole;x
+1265;111;118;240;Makhado;x
+1266;72;141;247;Musina;x
+1267;135;140;242;Thulamela;x
+1268;104;122;208;Ba-Phalaborwa;x
+1269;69;77;234;Greater Giyani;x
+1270;89;97;230;Greater Tzaneen;x
+1271;140;143;185;Fetakgomo-Tubatse;x
+1272;151;152;176;Makhuduthamaga;x
+1273;169;171;210;Elias Motsoaledi;x
+1274;57;54;200;Thabazimbi;x
+1275;13;10;200;Lephalale;x
+1276;56;108;134;Bela-Bela;x
+1277;25;33;178;Mogalakwena;x
+1278;13;20;159;Modimolle;x
+1279;66;233;53;Richards Bay;x
+1280;54;248;38;Pietermaritzburg;x
+1281;215;239;37;Pretoria;x
+1282;137;255;103;Bronkhorstspruit;x
+1283;80;239;34;Vereeniging;x
+1284;74;123;59;Soweto;x
+1285;69;140;25;Johannesburg;x
+1286;238;254;119;Potchefstroom;x
+1287;188;185;156;Matlosana;x
+1288;163;47;47;Berea;x
+1289;196;31;31;Maseru;x
+1290;194;34;34;Leribe;x
+1291;213;29;29;Mohale's Hoek;x
+1292;181;7;7;Mafeteng;x
+1293;231;23;23;Thaba-Tseka;x
+1294;161;9;9;Mokhotlong;x
+1295;122;55;42;Hermanus;x
+1296;120;50;47;Cape Agulhas;x
+1297;191;22;6;Hessequa;x
+1298;235;84;79;Langeberg;x
+1299;214;89;91;Breede;x
+1300;209;22;14;Oudtshoorn;x
+1301;227;19;6;George;x
+1302;209;14;14;South Cape;x
+1303;202;142;142;Laingsburg;x
+1304;195;135;150;Prince Albert;x
+1305;220;145;135;Beaufort West;x
+1306;83;95;7;Kou-Kamma;x
+1307;105;101;16;Blue Crane;x
+1308;158;108;44;Makana;x
+1309;123;88;34;Uitenhage;x
+1310;142;173;102;Camdeboo;x
+1311;105;119;21;Baviaans;x
+1312;247;239;143;Nkonkobe;x
+1313;255;255;4;Morgans Bay;x
+1314;237;250;9;Mbhashe;x
+1315;248;248;155;Mthatha;x
+1316;245;224;196;Port St Johns;x
+1317;240;239;90;Umzimvubu;x
+1318;250;249;96;Matatiele;x
+1319;148;246;140;Kokstad;x
+1320;159;254;152;Ingwe;x
+1321;55;222;42;uMngeni;x
+1322;112;250;101;Ladysmith;x
+1323;76;171;223;Maluti-a-Phofung;x
+1324;50;61;145;Bethlehem;x
+1325;36;49;147;Setsoto;x
+1326;1;20;164;Bloemfontein;x
+1327;190;197;252;Mohokare;x
+1328;17;133;8;Ulundi;x
+1329;187;194;248;Letsemeng;x
+1330;90;137;86;Mtubatuba;x
+1331;76;151;70;Sibayi;x
+1332;29;197;16;KwaDukuza;x
+1333;184;255;178;Newcastle;x
+1334;80;127;77;Dundee;x
+1335;33;153;24;Vryheid;x
+1336;21;141;11;Paulpietersburg;x
+1337;93;137;89;Umvoti;x
+1338;196;69;244;Lubombo;x
+1339;133;122;201;Hhohho;x
+1340;152;40;194;Manzini;x
+1341;240;51;156;Shiselweni;x
+1342;169;57;57;Albert Luthuli;x
+1343;220;69;13;Thembisile Hani;x
+1344;252;12;12;Emalahleni;x
+1345;227;9;9;Emakhazeni;x
+1346;196;83;83;Standerton;x
+1347;184;69;69;Ermelo;x
+1348;197;71;71;Piet Retief;x
+1349;210;217;96;Inxuba Yethemba;x
+1350;210;196;106;Enoch Mgijima;x
+1351;210;214;116;Lady Frere;x
+1352;196;200;114;Engcobo;x
+1353;178;186;243;Kopanong;x
+1354;129;129;12;Walter Sisulu;x
+1355;152;110;5;Senqu;x
+1356;131;130;17;Elundini;x
+1357;252;238;30;Amahlathi;x
+1358;3;20;151;Mafube;x
+1359;3;17;123;Ngwathe;x
+1360;8;25;152;Moqhaka;x
+1361;73;152;239;Matjhabeng;x
+1362;45;70;251;Nala;x
+1363;76;96;247;Masilonyana;x
+1364;27;108;202;Tswelopele;x
+1365;51;75;255;Tokologo;x
+1366;107;122;0;Mamusa;x
+1367;197;173;4;Greater Taung;x
+1368;118;133;3;Vryburg;x
+1369;100;106;58;Ditsobotla;x
+1370;139;92;91;Mahikeng;x
+1371;99;106;52;Moses Kotane;x
+1372;112;119;66;Rustenburg;x
+1373;126;172;146;Mahalapye;x
+1374;92;103;86;Bobonong;x
+1375;109;63;74;Makgadikgadi;x
 1376;;;;;x
 1377;;;;;x
 1378;;;;;x

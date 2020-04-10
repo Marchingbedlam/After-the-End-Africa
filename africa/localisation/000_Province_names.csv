@@ -449,7 +449,7 @@ PROV448;Mayama;;;;;;;;;x
 PROV449;Brazzaville;;;;;;;;;x
 PROV450;Ngabé;;;;;;;;;x
 PROV451;Léfini;;;;;;;;;x
-PROV452;Lékana;;;;;;;;;x
+PROV452;Nelspruit;;;;;;;;;x
 PROV453;Abala;;;;;;;;;x
 PROV454;Gamboma;;;;;;;;;x
 PROV455;Okoyo;;;;;;;;;x
@@ -457,7 +457,7 @@ PROV456;Owando;;;;;;;;;x
 PROV457;Makoua;;;;;;;;;x
 PROV458;Liranga;;;;;;;;;x
 PROV459;Ewo;;;;;;;;;x
-PROV460;Lossi;;;;;;;;;x
+PROV460;Nkomazi;;;;;;;;;x
 PROV461;Ouésso;;;;;;;;;x
 PROV462;Impfondo;;;;;;;;;x
 PROV463;Chaillu;;;;;;;;;x
@@ -797,7 +797,7 @@ PROV795;Serti;Serti;Serti;;;;;;;;;x
 PROV796;Brass;Brass;Brass;;;;;;;;;x
 PROV797;Gamboru;Gamboru;Gamboru;;;;;;;;;x
 PROV798;Yambio;;;;;;;;;x
-PROV799;Kapoeta;;;;;;;;;x
+PROV799;Sabie;;;;;;;;;x
 PROV800;Junqoley-Boma;;;;;;;;;x
 PROV801;Latjoor;;;;;;;;;x
 PROV802;Juba;;;;;;;;;x
@@ -985,7 +985,7 @@ PROV983;Zomba;;;;;;;;;x
 PROV984;Mangochi;;;;;;;;;x
 PROV985;Dedza;;;;;;;;;x
 PROV986;Kusungu;;;;;;;;;x
-PROV987;Chitipa;;;;;;;;;x
+PROV987;Kruger;;;;;;;;;x
 PROV988;Nkhata Bay;;;;;;;;;x
 PROV989;Nkhotakhota;;;;;;;;;x
 PROV990;Lilongwe;;;;;;;;;x
@@ -1101,7 +1101,7 @@ PROV1099;Fizi;;;;;;;;;x
 PROV1100;Bukavu;;;;;;;;;x
 PROV1101;Kalehe;;;;;;;;;x
 PROV1102;Mwenga;;;;;;;;;x
-PROV1103;Mahagi;;;;;;;;;x
+PROV1103;Omaheke;;;;;;;;;x
 PROV1104;Faradje;;;;;;;;;x
 PROV1105;Dungu;;;;;;;;;x
 PROV1106;Ango;;;;;;;;;x
@@ -1214,7 +1214,7 @@ PROV1212;Gereida;;;;;;;;;x
 PROV1213;Al Manaqil;;;;;;;;;x
 PROV1214;Kurnuk;;;;;;;;;x
 PROV1215;Magwi;;;;;;;;;x
-PROV1216;Kidepo;;;;;;;;;x
+PROV1216;Kapoeta;;;;;;;;;x
 PROV1217;Yei;;;;;;;;;x
 PROV1218;Yirol;;;;;;;;;x
 PROV1219;Kabkabiya;;;;;;;;;x
@@ -1222,158 +1222,158 @@ PROV1220;Wawa;;;;;;;;;x
 PROV1221;Melut;;;;;;;;;x
 PROV1222;Nakfa;;;;;;;;;x
 PROV1223;Abacheri;;;;;;;;;x
-PROV1224;;;;;;;;;;x
-PROV1225;;;;;;;;;;x
-PROV1226;;;;;;;;;;x
-PROV1227;;;;;;;;;;x
-PROV1228;;;;;;;;;;x
-PROV1229;;;;;;;;;;x
-PROV1230;;;;;;;;;;x
-PROV1231;;;;;;;;;;x
-PROV1232;;;;;;;;;;x
-PROV1233;;;;;;;;;;x
-PROV1234;;;;;;;;;;x
-PROV1235;;;;;;;;;;x
-PROV1236;;;;;;;;;;x
-PROV1237;;;;;;;;;;x
-PROV1238;;;;;;;;;;x
-PROV1239;;;;;;;;;;x
-PROV1240;;;;;;;;;;x
-PROV1241;;;;;;;;;;x
-PROV1242;;;;;;;;;;x
-PROV1243;;;;;;;;;;x
-PROV1244;;;;;;;;;;x
-PROV1245;;;;;;;;;;x
-PROV1246;;;;;;;;;;x
-PROV1247;;;;;;;;;;x
-PROV1248;;;;;;;;;;x
-PROV1249;;;;;;;;;;x
-PROV1250;;;;;;;;;;x
-PROV1251;;;;;;;;;;x
-PROV1252;;;;;;;;;;x
-PROV1253;;;;;;;;;;x
-PROV1254;;;;;;;;;;x
-PROV1255;;;;;;;;;;x
-PROV1256;;;;;;;;;;x
-PROV1257;;;;;;;;;;x
-PROV1258;;;;;;;;;;x
-PROV1259;;;;;;;;;;x
-PROV1260;;;;;;;;;;x
-PROV1261;;;;;;;;;;x
-PROV1262;;;;;;;;;;x
-PROV1263;;;;;;;;;;x
-PROV1264;;;;;;;;;;x
-PROV1265;;;;;;;;;;x
-PROV1266;;;;;;;;;;x
-PROV1267;;;;;;;;;;x
-PROV1268;;;;;;;;;;x
-PROV1269;;;;;;;;;;x
-PROV1270;;;;;;;;;;x
-PROV1271;;;;;;;;;;x
-PROV1272;;;;;;;;;;x
-PROV1273;;;;;;;;;;x
-PROV1274;;;;;;;;;;x
-PROV1275;;;;;;;;;;x
-PROV1276;;;;;;;;;;x
-PROV1277;;;;;;;;;;x
-PROV1278;;;;;;;;;;x
-PROV1279;;;;;;;;;;x
-PROV1280;;;;;;;;;;x
-PROV1281;;;;;;;;;;x
-PROV1282;;;;;;;;;;x
-PROV1283;;;;;;;;;;x
-PROV1284;;;;;;;;;;x
-PROV1285;;;;;;;;;;x
-PROV1286;;;;;;;;;;x
-PROV1287;;;;;;;;;;x
-PROV1288;;;;;;;;;;x
-PROV1289;;;;;;;;;;x
-PROV1290;;;;;;;;;;x
-PROV1291;;;;;;;;;;x
-PROV1292;;;;;;;;;;x
-PROV1293;;;;;;;;;;x
-PROV1294;;;;;;;;;;x
-PROV1295;;;;;;;;;;x
-PROV1296;;;;;;;;;;x
-PROV1297;;;;;;;;;;x
-PROV1298;;;;;;;;;;x
-PROV1299;;;;;;;;;;x
-PROV1300;;;;;;;;;;x
-PROV1301;;;;;;;;;;x
-PROV1302;;;;;;;;;;x
-PROV1303;;;;;;;;;;x
-PROV1304;;;;;;;;;;x
-PROV1305;;;;;;;;;;x
-PROV1306;;;;;;;;;;x
-PROV1307;;;;;;;;;;x
-PROV1308;;;;;;;;;;x
-PROV1309;;;;;;;;;;x
-PROV1310;;;;;;;;;;x
-PROV1311;;;;;;;;;;x
-PROV1312;;;;;;;;;;x
-PROV1313;;;;;;;;;;x
-PROV1314;;;;;;;;;;x
-PROV1315;;;;;;;;;;x
-PROV1316;;;;;;;;;;x
-PROV1317;;;;;;;;;;x
-PROV1318;;;;;;;;;;x
-PROV1319;;;;;;;;;;x
-PROV1320;;;;;;;;;;x
-PROV1321;;;;;;;;;;x
-PROV1322;;;;;;;;;;x
-PROV1323;;;;;;;;;;x
-PROV1324;;;;;;;;;;x
-PROV1325;;;;;;;;;;x
-PROV1326;;;;;;;;;;x
-PROV1327;;;;;;;;;;x
-PROV1328;;;;;;;;;;x
-PROV1329;;;;;;;;;;x
-PROV1330;;;;;;;;;;x
-PROV1331;;;;;;;;;;x
-PROV1332;;;;;;;;;;x
-PROV1333;;;;;;;;;;x
-PROV1334;;;;;;;;;;x
-PROV1335;;;;;;;;;;x
-PROV1336;;;;;;;;;;x
-PROV1337;;;;;;;;;;x
-PROV1338;;;;;;;;;;x
-PROV1339;;;;;;;;;;x
-PROV1340;;;;;;;;;;x
-PROV1341;;;;;;;;;;x
-PROV1342;;;;;;;;;;x
-PROV1343;;;;;;;;;;x
-PROV1344;;;;;;;;;;x
-PROV1345;;;;;;;;;;x
-PROV1346;;;;;;;;;;x
-PROV1347;;;;;;;;;;x
-PROV1348;;;;;;;;;;x
-PROV1349;;;;;;;;;;x
-PROV1350;;;;;;;;;;x
-PROV1351;;;;;;;;;;x
-PROV1352;;;;;;;;;;x
-PROV1353;;;;;;;;;;x
-PROV1354;;;;;;;;;;x
-PROV1355;;;;;;;;;;x
-PROV1356;;;;;;;;;;x
-PROV1357;;;;;;;;;;x
-PROV1358;;;;;;;;;;x
-PROV1359;;;;;;;;;;x
-PROV1360;;;;;;;;;;x
-PROV1361;;;;;;;;;;x
-PROV1362;;;;;;;;;;x
-PROV1363;;;;;;;;;;x
-PROV1364;;;;;;;;;;x
-PROV1365;;;;;;;;;;x
-PROV1366;;;;;;;;;;x
-PROV1367;;;;;;;;;;x
-PROV1368;;;;;;;;;;x
-PROV1369;;;;;;;;;;x
-PROV1370;;;;;;;;;;x
-PROV1371;;;;;;;;;;x
-PROV1372;;;;;;;;;;x
-PROV1373;;;;;;;;;;x
-PROV1374;;;;;;;;;;x
-PROV1375;;;;;;;;;;x
+PROV1224;Cape Town;;;;;;;;;x
+PROV1225;Port Elizabeth;;;;;;;;;x
+PROV1226;East London;;;;;;;;;x
+PROV1227;Durban;;;;;;;;;x
+PROV1228;KwaDukuza;;;;;;;;;x
+PROV1229;Hibberdene;;;;;;;;;x
+PROV1230;Port Shepstone;;;;;;;;;x
+PROV1231;Stellenbosch;;;;;;;;;x
+PROV1232;Vredenburg;;;;;;;;;x
+PROV1233;Piketberg;;;;;;;;;x
+PROV1234;Winterhoek;;;;;;;;;x
+PROV1235;Vredendal;;;;;;;;;x
+PROV1236;Kamiesburg;;;;;;;;;x
+PROV1237;Nama Khoi;;;;;;;;;x
+PROV1238;Khara Hais;;;;;;;;;x
+PROV1239;Richtersveld;;;;;;;;;x
+PROV1240;Karoo Hoogland;;;;;;;;;x
+PROV1241;Khai-Ma;;;;;;;;;x
+PROV1242;Hantam;;;;;;;;;x
+PROV1243;Mier;;;;;;;;;x
+PROV1244;Kai Garib;;;;;;;;;x
+PROV1245;Kheis;;;;;;;;;x
+PROV1246;Tsantsabane;;;;;;;;;x
+PROV1247;Kgatelopele;;;;;;;;;x
+PROV1248;Moshaweng;;;;;;;;;x
+PROV1249;Ga-Segonyana;;;;;;;;;x
+PROV1250;Dikgatlong;;;;;;;;;x
+PROV1251;Sol Plaatje;;;;;;;;;x
+PROV1252;Emthanjeni;;;;;;;;;x
+PROV1253;Kareeberg;;;;;;;;;x
+PROV1254;Renosterberg;;;;;;;;;x
+PROV1255;Thembelihle;;;;;;;;;x
+PROV1256;Umsobomvu;;;;;;;;;x
+PROV1257;Ubuntu;;;;;;;;;x
+PROV1258;Siyathemba;;;;;;;;;x
+PROV1259;Siyancuma;;;;;;;;;x
+PROV1260;Kagisano-Molopo;;;;;;;;;x
+PROV1261;Polokwane;;;;;;;;;x
+PROV1262;Lepelle-Nkumpi;;;;;;;;;x
+PROV1263;Blouberg;;;;;;;;;x
+PROV1264;Molemole;;;;;;;;;x
+PROV1265;Makhado;;;;;;;;;x
+PROV1266;Musina;;;;;;;;;x
+PROV1267;Thulamela;;;;;;;;;x
+PROV1268;Ba-Phalaborwa;;;;;;;;;x
+PROV1269;Greater Giyani;;;;;;;;;x
+PROV1270;Greater Tzaneen;;;;;;;;;x
+PROV1271;Fetakgomo-Tubatse;;;;;;;;;x
+PROV1272;Makhuduthamaga;;;;;;;;;x
+PROV1273;Elias Motsoaledi;;;;;;;;;x
+PROV1274;Thabazimbi;;;;;;;;;x
+PROV1275;Lephalale;;;;;;;;;x
+PROV1276;Bela-Bela;;;;;;;;;x
+PROV1277;Mogalakwena;;;;;;;;;x
+PROV1278;Modimolle;;;;;;;;;x
+PROV1279;Richards Bay;;;;;;;;;x
+PROV1280;Pietermaritzburg;;;;;;;;;x
+PROV1281;Pretoria;;;;;;;;;x
+PROV1282;Bronkhorstspruit;;;;;;;;;x
+PROV1283;Vereeniging;;;;;;;;;x
+PROV1284;Soweto;;;;;;;;;x
+PROV1285;Johannesburg;;;;;;;;;x
+PROV1286;Potchefstroom;;;;;;;;;x
+PROV1287;Matlosana;;;;;;;;;x
+PROV1288;Berea;;;;;;;;;x
+PROV1289;Maseru;;;;;;;;;x
+PROV1290;Leribe;;;;;;;;;x
+PROV1291;Mohale's Hoek;;;;;;;;;x
+PROV1292;Mafeteng;;;;;;;;;x
+PROV1293;Thaba-Tseka;;;;;;;;;x
+PROV1294;Mokhotlong;;;;;;;;;x
+PROV1295;Hermanus;;;;;;;;;x
+PROV1296;Cape Agulhas;;;;;;;;;x
+PROV1297;Hessequa;;;;;;;;;x
+PROV1298;Langeberg;;;;;;;;;x
+PROV1299;Breede;;;;;;;;;x
+PROV1300;Oudtshoorn;;;;;;;;;x
+PROV1301;George;;;;;;;;;x
+PROV1302;South Cape;;;;;;;;;x
+PROV1303;Laingsburg;;;;;;;;;x
+PROV1304;Prince Albert;;;;;;;;;x
+PROV1305;Beaufort West;;;;;;;;;x
+PROV1306;Kou-Kamma;;;;;;;;;x
+PROV1307;Blue Crane;;;;;;;;;x
+PROV1308;Makana;;;;;;;;;x
+PROV1309;Uitenhage;;;;;;;;;x
+PROV1310;Camdeboo;;;;;;;;;x
+PROV1311;Baviaans;;;;;;;;;x
+PROV1312;Nkonkobe;;;;;;;;;x
+PROV1313;Morgans Bay;;;;;;;;;x
+PROV1314;Mbhashe;;;;;;;;;x
+PROV1315;Mthatha;;;;;;;;;x
+PROV1316;Port St. Johns;;;;;;;;;x
+PROV1317;Umzimvubu;;;;;;;;;x
+PROV1318;Matatiele;;;;;;;;;x
+PROV1319;Kokstad;;;;;;;;;x
+PROV1320;Ingwe;;;;;;;;;x
+PROV1321;uMngeni;;;;;;;;;x
+PROV1322;Ladysmith;;;;;;;;;x
+PROV1323;Maluti-a-Phofung;;;;;;;;;x
+PROV1324;Bethlehem;;;;;;;;;x
+PROV1325;Setsoto;;;;;;;;;x
+PROV1326;Bloemfontein;;;;;;;;;x
+PROV1327;Mohokare;;;;;;;;;x
+PROV1328;Ulundi;;;;;;;;;x
+PROV1329;Letsemeng;;;;;;;;;x
+PROV1330;Mtubatuba;;;;;;;;;x
+PROV1331;Sibayi;;;;;;;;;x
+PROV1332;KwaDukuza;;;;;;;;;x
+PROV1333;Newcastle;;;;;;;;;x
+PROV1334;Dundee;;;;;;;;;x
+PROV1335;Vryheid;;;;;;;;;x
+PROV1336;Paulpietersburg;;;;;;;;;x
+PROV1337;Umvoti;;;;;;;;;x
+PROV1338;Lubombo;;;;;;;;;x
+PROV1339;Hhohho;;;;;;;;;x
+PROV1340;Manzini;;;;;;;;;x
+PROV1341;Shiselweni;;;;;;;;;x
+PROV1342;Albert Luthuli;;;;;;;;;x
+PROV1343;Thembisile Hani;;;;;;;;;x
+PROV1344;Emalahleni;;;;;;;;;x
+PROV1345;Emakhazeni;;;;;;;;;x
+PROV1346;Standerton;;;;;;;;;x
+PROV1347;Ermelo;;;;;;;;;x
+PROV1348;Piet Retief;;;;;;;;;x
+PROV1349;Inxuba Yethemba;;;;;;;;;x
+PROV1350;Enoch Mgijima;;;;;;;;;x
+PROV1351;Lady Frere;;;;;;;;;x
+PROV1352;Engcobo;;;;;;;;;x
+PROV1353;Kopanong;;;;;;;;;x
+PROV1354;Walter Sisulu;;;;;;;;;x
+PROV1355;Senqu;;;;;;;;;x
+PROV1356;Elundini;;;;;;;;;x
+PROV1357;Amahlathi;;;;;;;;;x
+PROV1358;Mafube;;;;;;;;;x
+PROV1359;Ngwathe;;;;;;;;;x
+PROV1360;Moqhaka;;;;;;;;;x
+PROV1361;Matjhabeng;;;;;;;;;x
+PROV1362;Nala;;;;;;;;;x
+PROV1363;Masilonyana;;;;;;;;;x
+PROV1364;Tswelopele;;;;;;;;;x
+PROV1365;Tokologo;;;;;;;;;x
+PROV1366;Mamusa;;;;;;;;;x
+PROV1367;Greater Taung;;;;;;;;;x
+PROV1368;Vryburg;;;;;;;;;x
+PROV1369;Ditsobotla;;;;;;;;;x
+PROV1370;Mahikeng;;;;;;;;;x
+PROV1371;Moses Kotane;;;;;;;;;x
+PROV1372;Rustenburg;;;;;;;;;x
+PROV1373;Mahalapye;;;;;;;;;x
+PROV1374;Bobonong;;;;;;;;;x
+PROV1375;Makgadikgadi;;;;;;;;;x
 PROV1376;;;;;;;;;;x
 PROV1377;;;;;;;;;;x
 PROV1378;;;;;;;;;;x
