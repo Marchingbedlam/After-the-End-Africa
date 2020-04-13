@@ -588,8 +588,8 @@ PROV587;Ondo;Ondo;Ondo;;;;;;;;;x
 PROV588;Akure;Akure;Akure;;;;;;;;;x
 PROV589;Owo;Owo;Owo;;;;;;;;;x
 PROV590;East Gonja;;;;;;;;;;;x
-PROV591;;;;;;;;;;;;x
-PROV592;;;;;;;;;;;;x
+PROV591;Assin;;;;;;;;;;;x
+PROV592;Amenfi;;;;;;;;;;;x
 PROV593;Benin;Benin;Benin;;;;;;;;;x
 PROV594;Ewu;Ewu;Ewu;;;;;;;;;x
 PROV595;Ughelli;Ughelli;Ughelli;;;;;;;;;x
@@ -660,11 +660,11 @@ PROV659;Katsina;Katsina;Katsina;;;;;;;;;x
 PROV660;Anka;Anka;Anka;;;;;;;;;x
 PROV661;Wasagu;Wasagu;Wasagu;;;;;;;;;x
 PROV662;Birnin Gwari;Birnin Gwari;Birnin Gwari;;;;;;;;;x
-PROV663;;;;;;;;;;;;x
+PROV663;Djenné;;;;;;;;;;;x
 PROV664;Tureta;Tureta;Tureta;;;;;;;;;x
 PROV665;Kadiolo;;;;;;;;;;;x
 PROV666;Kuta;Kuta;Kuta;;;;;;;;;x
-PROV667;;;;;;;;;;;;x
+PROV667;Koulikoro;;;;;;;;;;;x
 PROV668;Ping;;;;;;;;;;;x
 PROV669;Minna;Minna;Minna;;;;;;;;;x
 PROV670;Kwali;Kwali;Kwali;;;;;;;;;x
@@ -1412,7 +1412,7 @@ PROV1410;Soum;;;;;;;;;x
 PROV1411;Passoré;;;;;;;;;x
 PROV1412;Zoundwéogo;;;;;;;;;x
 PROV1413;Boulgou;;;;;;;;;x
-PROV1414;;;;;;;;;;x
+PROV1414;Moramanga;;;;;;;;;x
 PROV1415;;;;;;;;;;x
 PROV1416;;;;;;;;;;x
 PROV1417;;;;;;;;;;x

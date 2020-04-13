@@ -511,7 +511,7 @@ province;red;green;blue;x;x
 510;207;153;15;Wayi;x
 511;207;108;10;Mamdi;x
 512;157;85;4;Zakouma;x
-513;188;161;19;Barh Signaka;;x
+513;188;161;19;Barh Signaka;x
 514;157;99;34;Abtouyour;x
 515;227;216;53;Guera;x
 516;227;156;53;Iro;x
@@ -589,8 +589,8 @@ province;red;green;blue;x;x
 588;160;97;143;Akure;x
 589;161;146;177;Owo;x
 590;179;176;122;East Gonja;x
-591;254;252;104;;x
-592;185;134;32;;x
+591;254;252;104;Assin;x
+592;185;134;32;Amenfi;x
 593;172;190;188;Benin;x
 594;159;208;150;Ewu;x
 595;124;189;151;Ughelli;x
@@ -661,11 +661,11 @@ province;red;green;blue;x;x
 660;64;139;179;Anka;x
 661;64;104;179;Wasagu;x
 662;120;122;145;Birnin Gwari;x
-663;213;117;7;;x
+663;213;117;7;Djenne;x
 664;61;98;145;Tureta;x
 665;225;96;84;Kadiolo;x
 666;72;132;145;Kuta;x
-667;231;208;198;;x
+667;231;208;198;Koulikoro;x
 668;179;197;202;Ping;x
 669;85;120;113;Minna;x
 670;38;138;148;Kwali;x
@@ -1412,7 +1412,7 @@ province;red;green;blue;x;x
 1411;246;148;113;Passore;x
 1412;235;152;30;Zoundweogo;x
 1413;223;166;116;Boulgou;x
-1414;;;;;x
+1414;120;175;79;Moramanga;x
 1415;;;;;x
 1416;;;;;x
 1417;;;;;x
