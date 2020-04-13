@@ -25,7 +25,7 @@ PROV24;Mamou;Mamou;Mamou;;;;;;;;;x
 PROV25;Dubréka;Dubréka;Dubréka;;;;;;;;;x
 PROV26;Kindia;Kindia;Kindia;;;;;;;;;x
 PROV27;Fria;Fria;Fria;;;;;;;;;x
-PROV28;;;;;;;;;;;;x
+PROV28;Danane;;;;;;;;;;;x
 PROV29;Boffa;Boffa;Boffa;;;;;;;;;x
 PROV30;Télimélé;Télimélé;Télimélé;;;;;;;;;x
 PROV31;Gaoual;Gaoual;Gaoual;;;;;;;;;x
@@ -81,8 +81,8 @@ PROV80;Nara;Nara;Nara;;;;;;;;;x
 PROV81;Kolokani;Kolokani;Kolokani;;;;;;;;;x
 PROV82;Banamba;Banamba;Banamba;;;;;;;;;x
 PROV83;Bamako;Bamako;Bamako;;;;;;;;;x
-PROV84;Dioilla;Dioilla;Dioilla;;;;;;;;;x
-PROV85;Bougouni;Bougouni;Bougouni;;;;;;;;;x
+PROV84;Bougouni;;;;;;;;;;;x
+PROV85;Yanfolila;;;;;;;;;;;x
 PROV86;Koutiala;Koutiala;Koutiala;;;;;;;;;x
 PROV87;Sikasso;Sikasso;Sikasso;;;;;;;;;x
 PROV88;Kadiolo;Kadiolo;Kadiolo;;;;;;;;;x
@@ -90,9 +90,9 @@ PROV89;Ségou;Ségou;Ségou;;;;;;;;;x
 PROV90;Macina;Macina;Macina;;;;;;;;;x
 PROV91;San;San;San;;;;;;;;;x
 PROV92;Timbuktu;Timbuktu;Timbuktu;;;;;;;;;x
-PROV93;Mopti;Mopti;Mopti;;;;;;;;;x
+PROV93;Bandiagara;;;;;;;;;;;x
 PROV94;Mandoro;Mandoro;Mandoro;;;;;;;;;x
-PROV95;Gao;Gao;Gao;;;;;;;;;x
+PROV95;Gourma Rharous;;;;;;;;;;;x
 PROV96;Garou;Garou;Garou;;;;;;;;;x
 PROV97;Ansongo;Ansongo;Ansongo;;;;;;;;;x
 PROV98;Nawa;Nawa;Nawa;;;;;;;;;x
@@ -129,16 +129,16 @@ PROV128;Kintampo;Kintampo;Kintampo;;;;;;;;;x
 PROV129;Sampa;Sampa;Sampa;;;;;;;;;x
 PROV130;Bui;Bui;Bui;;;;;;;;;x
 PROV131;Mpaha;Mpaha;Mpaha;;;;;;;;;x
-PROV132;Salaga;Salaga;Salaga;;;;;;;;;x
+PROV132;Tamale;Tamale;Tamale;;;;;;;;;x
 PROV133;Oti;Oti;Oti;;;;;;;;;x
 PROV134;Yendi;Yendi;Yendi;;;;;;;;;x
-PROV135;Tamale;Tamale;Tamale;;;;;;;;;x
+PROV135;Mamprusi;;;;;;;;;;;x
 PROV136;Bolgatanga;Bolgatanga;Bolgatanga;;;;;;;;;x
 PROV137;Bawku;Bawku;Bawku;;;;;;;;;x
 PROV138;Bontioli;Bontioli;Bontioli;;;;;;;;;x
 PROV139;Ouagadougou;Ouagadougou;Ouagadougou;;;;;;;;;x
 PROV140;Tumu;Tumu;Tumu;;;;;;;;;x
-PROV141;Koudoungou;Koudoungou;Koudoungou;;;;;;;;;x
+PROV141;Banwa;;;;;;;;;;;x
 PROV142;Ouahigouya;Ouahigouya;Ouahigouya;;;;;;;;;x
 PROV143;Bay;Bay;Bay;;;;;;;;;x
 PROV144;Sanmatenga;Sanmatenga;Sanmatenga;;;;;;;;;x
@@ -217,7 +217,7 @@ PROV216;Betioky-Atsimo;;;;;;;;;x
 PROV217;Taolagnaro;;;;;;;;;x
 PROV218;Ihorombe;;;;;;;;;x
 PROV219;Atsimo-Atsinanana;;;;;;;;;x
-PROV220;Haute Matsiatra;;;;;;;;;x
+PROV220;Fianarantsoa;;;;;;;;;x
 PROV221;Vatovavy-Fitovinany;;;;;;;;;x
 PROV222;Amoron'i Mania;;;;;;;;;x
 PROV223;Vakinankaratra;;;;;;;;;x
@@ -377,7 +377,7 @@ PROV376;Nyong-et-So'o;;;;;;;;;x
 PROV377;Mfoumou;;;;;;;;;x
 PROV378;Kellé;;;;;;;;;x
 PROV379;Sanaga-Maritime;;;;;;;;;x
-PROV380;Fianarantsoa;;;;;;;;;x
+PROV380;;;;;;;;;;x
 PROV381;Moungo;;;;;;;;;x
 PROV382;Douala;;;;;;;;;x
 PROV383;Ndé;;;;;;;;;x
@@ -391,10 +391,10 @@ PROV390;Grassfields;;;;;;;;;x
 PROV391;Sambava;;;;;;;;;x
 PROV392;Pangar;;;;;;;;;x
 PROV393;Bamenda;;;;;;;;;x
-PROV394;;;;;;;;;;x
+PROV394;Boboye;;;;;;;;;x
 PROV395;Boyo;;;;;;;;;x
 PROV396;Mahabo;;;;;;;;;x
-PROV397;;;;;;;;;;x
+PROV397;Diema;;;;;;;;;x
 PROV398;Koupé-Manengouba;;;;;;;;;x
 PROV399;Fako;;;;;;;;;x
 PROV400;Etulá;;;;;;;;;x
@@ -542,7 +542,7 @@ PROV541;Zarmaganda;;;;;;;;;x
 PROV542;Filingue;;;;;;;;;x
 PROV543;Niamey;;;;;;;;;x
 PROV544;Say;;;;;;;;;x
-PROV545;Dosso;;;;;;;;;x
+PROV545;Gaya;;;;;;;;;x
 PROV546;Dogondoutchi;;;;;;;;;x
 PROV547;Birnin Konni;;;;;;;;;x
 PROV548;Tahoua;;;;;;;;;x
@@ -583,28 +583,28 @@ PROV582;Ado-Ekiti;Ado-Ekiti;Ado-Ekiti;;;;;;;;;x
 PROV583;Ibadan;Ibadan;Ibadan;;;;;;;;;x
 PROV584;Abeokuta;Abeokuta;Abeokuta;;;;;;;;;x
 PROV585;Ijebu;Ijebu;Ijebu;;;;;;;;;x
-PROV586;Bontioli;Bontioli;Bontioli;;;;;;;;;x
+PROV586;Diébougou;;;;;;;;;;;x
 PROV587;Ondo;Ondo;Ondo;;;;;;;;;x
 PROV588;Akure;Akure;Akure;;;;;;;;;x
 PROV589;Owo;Owo;Owo;;;;;;;;;x
-PROV590;;;;;;;;;;;;x
+PROV590;East Gonja;;;;;;;;;;;x
 PROV591;;;;;;;;;;;;x
 PROV592;;;;;;;;;;;;x
 PROV593;Benin;Benin;Benin;;;;;;;;;x
 PROV594;Ewu;Ewu;Ewu;;;;;;;;;x
 PROV595;Ughelli;Ughelli;Ughelli;;;;;;;;;x
-PROV596;;;;;;;;;;;;x
-PROV597;;;;;;;;;;;;x
+PROV596;Bouafle;;;;;;;;;;;x
+PROV597;Gonja;;;;;;;;;;;x
 PROV598;Asaba;Asaba;Asaba;;;;;;;;;x
 PROV599;Ontisha;Ontisha;Ontisha;;;;;;;;;x
 PROV600;Kwale;Kwale;Kwale;;;;;;;;;x
-PROV601;;;;;;;;;;;;x
+PROV601;Yamoussoukro;;;;;;;;;;;x
 PROV602;Enugu;Enugu;Enugu;;;;;;;;;x
 PROV603;Nsukka;Nsukka;Nsukka;;;;;;;;;x
 PROV604;Abaleke;Abaleke;Abaleke;;;;;;;;;x
 PROV605;Yenagoa;Yenagoa;Yenagoa;;;;;;;;;x
-PROV606;;;;;;;;;;;;x
-PROV607;;;;;;;;;;;;x
+PROV606;Adzope;;;;;;;;;;;x
+PROV607;Kénédougou;;;;;;;;;;;x
 PROV608;Owerri;Owerri;Owerri;;;;;;;;;x
 PROV609;Ugep;Ugep;Ugep;;;;;;;;;x
 PROV610;Aba;Aba;Aba;;;;;;;;;x
@@ -617,7 +617,7 @@ PROV616;Nikki;Nikki;Nikki;;;;;;;;;x
 PROV617;Parakou;Parakou;Parakou;;;;;;;;;x
 PROV618;Uyo;Uyo;Uyo;;;;;;;;;x
 PROV619;Calabar;Calabar;Calabar;;;;;;;;;x
-PROV620;;;;;;;;;;;;x
+PROV620;Koudougou;;;;;;;;;;;x
 PROV621;Ikom;Ikom;Ikom;;;;;;;;;x
 PROV622;Idah;Idah;Idah;;;;;;;;;x
 PROV623;Potiskum;Potiskum;Potiskum;;;;;;;;;x
@@ -648,13 +648,13 @@ PROV647;Ogou;;;;;;;;;;;x
 PROV648;Bukkuyum;Bukkuyum;Bukkuyum;;;;;;;;;x
 PROV649;Kozah;;;;;;;;;;;x
 PROV650;Gwadabawa;Gwadabawa;Gwadabawa;;;;;;;;;x
-PROV651;;;;;;;;;;;;x
+PROV651;Hombori;;;;;;;;;;;x
 PROV652;Darazo;Darazo;Darazo;;;;;;;;;x
 PROV653;Goronyo;Goronyo;Goronyo;;;;;;;;;x
 PROV654;Dutse;Dutse;Dutse;;;;;;;;;x
 PROV655;Shinkafi;Shinkafi;Shinkafi;;;;;;;;;x
 PROV656;Gusau;Gusau;Gusau;;;;;;;;;x
-PROV657;;;;;;;;;;;;x
+PROV657;Kolondiéba;;;;;;;;;;;x
 PROV658;Kankara;Kankara;Kankara;;;;;;;;;x
 PROV659;Katsina;Katsina;Katsina;;;;;;;;;x
 PROV660;Anka;Anka;Anka;;;;;;;;;x
@@ -662,7 +662,7 @@ PROV661;Wasagu;Wasagu;Wasagu;;;;;;;;;x
 PROV662;Birnin Gwari;Birnin Gwari;Birnin Gwari;;;;;;;;;x
 PROV663;;;;;;;;;;;;x
 PROV664;Tureta;Tureta;Tureta;;;;;;;;;x
-PROV665;;;;;;;;;;;;x
+PROV665;Kadiolo;;;;;;;;;;;x
 PROV666;Kuta;Kuta;Kuta;;;;;;;;;x
 PROV667;;;;;;;;;;;;x
 PROV668;Ping;;;;;;;;;;;x
@@ -681,8 +681,8 @@ PROV680;Pèrèrè;Pèrèrè;Pèrèrè;;;;;;;;;x
 PROV681;Wa;;;;;;;;;;;x
 PROV682;Aplahoué;Aplahoué;Aplahoué;;;;;;;;;x
 PROV683;Ouidah;Ouidah;Ouidah;;;;;;;;;x
-PROV684;;;;;;;;;;;;x
-PROV685;;;;;;;;;;;;x
+PROV684;Bobo-Dioulasso;;;;;;;;;;;x
+PROV685;Ganzourgou;;;;;;;;;;;x
 PROV686;Iwoye;Iwoye;Iwoye;;;;;;;;;x
 PROV687;Ningi;Ningi;Ningi;;;;;;;;;x
 PROV688;Bantè;Bantè;Bantè;;;;;;;;;x
@@ -690,9 +690,9 @@ PROV689;Tchaourou;Tchaourou;Tchaourou;;;;;;;;;x
 PROV690;Ayete;Ayete;Ayete;;;;;;;;;x
 PROV691;Igbeti;Igbeti;Igbeti;;;;;;;;;x
 PROV692;Ogbomosho;Ogbomosho;Ogbomosho;;;;;;;;;x
-PROV693;;;;;;;;;;;;x
+PROV693;Oubritenga;;;;;;;;;;;x
 PROV694;Iwo;Iwo;Iwo;;;;;;;;;x
-PROV695;;;;;;;;;;;;x
+PROV695;Koforidua;;;;;;;;;;;x
 PROV696;Osogbo;Osogbo;Osogbo;;;;;;;;;x
 PROV697;Owu-Isin;Owu-Isin;Owu-Isin;;;;;;;;;x
 PROV698;Share;Share;Share;;;;;;;;;x
@@ -728,10 +728,10 @@ PROV727;Khorixas;;;;;;;;;x
 PROV728;Epupa;;;;;;;;;x
 PROV729;Ruakana;;;;;;;;;x
 PROV730;Otamanzi;;;;;;;;;x
-PROV731;Hobatere;;;;;;;;;x
+PROV731;Mopti;;;;;;;;;x
 PROV731;;;;;;;;;;;;x
 PROV732;Okitipupa;Okitipupa;Okitipupa;;;;;;;;;x
-PROV733;;;;;;;;;;;;x
+PROV733;Kati;;;;;;;;;;;x
 PROV734;Abuja;;;;;;;;;;;x
 PROV735;Nasarawa;Nasarawa;Nasarawa;;;;;;;;;x
 PROV736;Damatura;Damatura;Damatura;;;;;;;;;x
@@ -761,7 +761,7 @@ PROV759;Bali;Bali;Bali;;;;;;;;;x
 PROV760;Mutum Biyu;Mutum Biyu;Mutum Biyu;;;;;;;;;x
 PROV761;Otjinene;;;;;;;;;;;x
 PROV762;Jalingo;Jalingo;Jalingo;;;;;;;;;x
-PROV763;;;;;;;;;;;;x
+PROV763;Ouallam;;;;;;;;;;;x
 PROV764;Numan;Numan;Numan;;;;;;;;;x
 PROV765;Yola;Yola;Yola;;;;;;;;;x
 PROV766;Ganye;Ganye;Ganye;;;;;;;;;x
@@ -774,8 +774,8 @@ PROV772;Bauchi;Bauchi;Bauchi;;;;;;;;;x
 PROV773;Gumel;Gumel;Gumel;;;;;;;;;x
 PROV774;Maun;;;;;;;;;;;x
 PROV775;Batsari;Batsari;Batsari;;;;;;;;;x
-PROV776;;;;;;;;;;;;x
-PROV777;;;;;;;;;;;;x
+PROV776;Tessaoua;;;;;;;;;;;x
+PROV777;Maradi;;;;;;;;;;;x
 PROV778;Gwarzo;Gwarzo;Gwarzo;;;;;;;;;x
 PROV779;Kano;Kano;Kano;;;;;;;;;x
 PROV780;Rano;Rano;Rano;;;;;;;;;x
@@ -792,9 +792,9 @@ PROV790;Kukawa;Kukawa;Kukawa;;;;;;;;;x
 PROV791;Nguru;Nguru;Nguru;;;;;;;;;x
 PROV792;Gashua;Gashua;Gashua;;;;;;;;;x
 PROV793;Oguma;Oguma;Oguma;;;;;;;;;x
-PROV794;;;;;;;;;;;;x
+PROV794;Keita;;;;;;;;;;;x
 PROV795;Serti;Serti;Serti;;;;;;;;;x
-PROV796;;;;;;;;;;;;x
+PROV796;Dosso;;;;;;;;;;;x
 PROV797;Gamboru;Gamboru;Gamboru;;;;;;;;;x
 PROV798;Yambio;;;;;;;;;x
 PROV799;Sabie;;;;;;;;;x
@@ -1101,7 +1101,7 @@ PROV1099;Fizi;;;;;;;;;x
 PROV1100;Bukavu;;;;;;;;;x
 PROV1101;Kalehe;;;;;;;;;x
 PROV1102;Mwenga;;;;;;;;;x
-PROV1103;;;;;;;;;;x
+PROV1103;Gobabis;;;;;;;;;x
 PROV1104;Faradje;;;;;;;;;x
 PROV1105;Dungu;;;;;;;;;x
 PROV1106;Ango;;;;;;;;;x
@@ -1396,8 +1396,8 @@ PROV1394;Mahagi;;;;;;;;;x
 PROV1395;Kakuma;;;;;;;;;x
 PROV1396;Sibiloi;;;;;;;;;x
 PROV1397;Gao;;;;;;;;;x
-PROV1398;Dire;;;;;;;;;x
-PROV1399;Afram Plains;;;;;;;;;x
+PROV1398;Diré;;;;;;;;;x
+PROV1399;Kwahu;;;;;;;;;x
 PROV1400;Oshwe;;;;;;;;;x
 PROV1401;Chigamane;;;;;;;;;x
 PROV1402;Mavume;;;;;;;;;x
@@ -1407,11 +1407,11 @@ PROV1405;Nametil;;;;;;;;;x
 PROV1406;Mueda;;;;;;;;;x
 PROV1407;Garsen;;;;;;;;;x
 PROV1408;Mombasa;;;;;;;;;x
-PROV1409;;;;;;;;;;x
-PROV1410;;;;;;;;;;x
-PROV1411;;;;;;;;;;x
-PROV1412;;;;;;;;;;x
-PROV1413;;;;;;;;;;x
+PROV1409;Sekyere;;;;;;;;;x
+PROV1410;Soum;;;;;;;;;x
+PROV1411;Passoré;;;;;;;;;x
+PROV1412;Zoundwéogo;;;;;;;;;x
+PROV1413;Boulgou;;;;;;;;;x
 PROV1414;;;;;;;;;;x
 PROV1415;;;;;;;;;;x
 PROV1416;;;;;;;;;;x
