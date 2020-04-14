@@ -1,14 +1,13 @@
-# c_iffou
 
 # County Title
-title = c_iffou
+title = c_aboisso
 
 # Settlements
 max_settlements = 3
 
-b_iffou = castle
-b_iffou_2 = city
-b_iffou_3 = temple
+b_sud_comoe = castle
+b_sud_comoe_2 = city
+b_sud_comoe_3 = temple
 
 # Misc
 culture = baoule

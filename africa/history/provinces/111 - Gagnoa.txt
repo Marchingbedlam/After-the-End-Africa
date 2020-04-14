@@ -1,14 +1,13 @@
-# c_gbokle
 
 # County Title
-title = c_gbokle
+title = c_gagnoa
 
 # Settlements
 max_settlements = 3
 
-b_gbokle = castle
-b_gbokle_2 = city
-b_gbokle_3 = temple
+b_goh = castle
+b_goh_2 = city
+b_goh_3 = temple
 
 # Misc
 culture = kru

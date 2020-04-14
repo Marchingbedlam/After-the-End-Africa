@@ -219,7 +219,7 @@ e_sahel = {
 				b_sagatta_gueth_SN = {}
 				b_keur_momar_saurr_SN = {}
 			}
-			c_saint_louis = { # 69
+			c_saint_louis = {
 				color={ 68 68 19 }
 				color2={ 255 255 255 }
 

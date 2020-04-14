@@ -1,5 +1,5 @@
 # County Title
-title = c_ogoja
+title = c_koudougou
 
 # Settlements
 max_settlements = 3

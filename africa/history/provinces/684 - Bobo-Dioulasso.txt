@@ -1,5 +1,5 @@
 # County Title
-title = c_allada
+title = c_bobo_dioulasso
 
 # Settlements
 max_settlements = 3

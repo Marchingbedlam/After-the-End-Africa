@@ -1,14 +1,13 @@
-# c_goh
 
 # County Title
-title = c_goh
+title = c_sassandra
 
 # Settlements
 max_settlements = 3
 
-b_goh = castle
-b_goh_2 = city
-b_goh_3 = temple
+b_gbokle = castle
+b_gbokle_2 = city
+b_gbokle_3 = temple
 
 # Misc
 culture = kru

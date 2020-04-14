@@ -1,5 +1,5 @@
 # County Title
-title = c_awgu
+title = c_adzope
 
 # Settlements
 max_settlements = 3

@@ -1,7 +1,6 @@
-# c_koudoungou
 
 # County Title
-title = c_koudoungou
+title = c_banwa
 
 # Settlements
 max_settlements = 3

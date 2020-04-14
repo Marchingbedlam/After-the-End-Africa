@@ -1,7 +1,6 @@
-# c_nawa
 
 # County Title
-title = c_nawa
+title = c_soubre
 
 # Settlements
 max_settlements = 3

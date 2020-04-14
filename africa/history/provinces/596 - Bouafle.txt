@@ -1,5 +1,5 @@
 # County Title
-title = c_nembe
+title = c_bouafle
 
 # Settlements
 max_settlements = 3

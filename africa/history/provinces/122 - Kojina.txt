@@ -1,7 +1,6 @@
-# c_tano
 
 # County Title
-title = c_tano
+title = c_kojina
 
 # Settlements
 max_settlements = 3

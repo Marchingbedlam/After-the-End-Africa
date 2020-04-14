@@ -1,7 +1,6 @@
-# c_bui
 
 # County Title
-title = c_bui
+title = c_bouna
 
 # Settlements
 max_settlements = 3

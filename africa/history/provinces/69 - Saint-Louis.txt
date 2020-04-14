@@ -1,7 +1,6 @@
-# c_dagana
 
 # County Title
-title = c_dagana
+title = c_saint_louis
 
 # Settlements
 max_settlements = 3
