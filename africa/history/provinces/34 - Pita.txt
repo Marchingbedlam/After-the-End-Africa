@@ -1,15 +1,14 @@
-# c_ouahigouya
 
 # County Title
-title = c_ouahigouya
+title = c_pita
 
 # Settlements
 max_settlements = 3
 
-b_ouahigouya = tribal
+b_labe_GN = tribal
 
 # Misc
-culture = mossi
+culture = susu
 religion = sunni
 
 #History

@@ -1,5 +1,5 @@
 # County Title
-title = c_umuahia
+title = c_kenedougou
 
 # Settlements
 max_settlements = 3

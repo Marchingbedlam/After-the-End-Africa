@@ -6,7 +6,7 @@ province;red;green;blue;x;x
 5;165;46;46;Grand Bassa;x
 6;121;52;52;Monrovia;x
 7;169;80;80;Nimba;x
-8;209;104;104;Grand Gedeh;x
+8;209;104;104;Gedeh;x
 9;142;50;50;Gee;x
 10;162;59;59;Bong;x
 11;111;38;38;Macenta;x
@@ -84,7 +84,7 @@ province;red;green;blue;x;x
 83;111;94;42;Bamako;x
 84;191;167;88;Bougouni;x
 85;146;128;72;Yanfolila;x
-86;151;136;87;Barouéli;x
+86;151;136;87;Baroueli;x
 87;152;130;61;Koutiala;x
 88;143;129;84;Sikasso;x
 89;143;124;63;Segou;x
@@ -92,7 +92,7 @@ province;red;green;blue;x;x
 91;124;105;48;San;x
 92;176;135;79;Timbuktu;x
 93;133;98;50;Bandiagara;x
-94;157;107;39;Mandoro;x
+94;157;107;39;Koro;x
 95;157;118;64;Gourma Rharous;x
 96;160;112;48;Garou;x
 97;176;117;37;Ansongo;x
@@ -140,12 +140,12 @@ province;red;green;blue;x;x
 139;207;186;116;Ouagadougou;x
 140;255;201;0;Tumu;x
 141;169;145;72;Banwa;x
-142;131;113;54;Ouahigouya;x
-143;205;171;65;Bay;x
+142;131;113;54;Mouhoun;x
+143;205;171;65;Sourou;x
 144;175;113;87;Sanmatenga;x
 145;117;78;61;Markoye;x
 146;156;80;48;Fono;x
-147;130;93;77;Tongomayel;x
+147;130;93;77;Yatenga;x
 148;162;94;64;Liptougou;x
 149;197;117;83;Partiaga;x
 150;176;118;94;Kirikiri;x

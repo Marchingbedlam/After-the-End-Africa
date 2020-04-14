@@ -1,12 +1,12 @@
 # c_mbacke
 
 # County Title
-title = c_mbacke
+title = c_diourbel
 
 # Settlements
 max_settlements = 3
 
-b_mbacke_SN = castle
+b_diourbel_SN = castle
 b_taif_SN = city
 b_kael_SN = temple
 

@@ -1,12 +1,12 @@
 # County Title
-title = c_kuara-nomada
+title = c_hombori
 
 # Settlements
 max_settlements = 3
 
-b_kuara-nomada_1 = castle
-b_kuara-nomada_2 = temple
-b_kuara-nomada_3 = city
+b_birnin_konni_1 = castle
+b_birnin_konni_2 = temple
+b_birnin_konni_3 = city
 
 # Misc
 culture = hausa

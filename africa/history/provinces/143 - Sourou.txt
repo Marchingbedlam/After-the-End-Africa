@@ -1,15 +1,16 @@
-# c_tongomayel
 
 # County Title
-title = c_tongomayel
+title = c_sourou
 
 # Settlements
 max_settlements = 3
 
-b_tongomayel = tribal
+b_bay = castle
+b_bay_2 = city
+b_bay_3 = temple
 
 # Misc
-culture = mossi
+culture = dogon
 religion = sunni
 
 #History

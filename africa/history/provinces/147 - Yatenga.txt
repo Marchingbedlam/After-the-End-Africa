@@ -1,17 +1,14 @@
-# c_bay
 
 # County Title
-title = c_bay
+title = c_yatenga
 
 # Settlements
 max_settlements = 3
 
-b_bay = castle
-b_bay_2 = city
-b_bay_3 = temple
+b_tongomayel = tribal
 
 # Misc
-culture = dogon
+culture = mossi
 religion = sunni
 
 #History

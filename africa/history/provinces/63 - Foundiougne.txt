@@ -1,7 +1,6 @@
-# c_fatick
 
 # County Title
-title = c_fatick
+title = c_foundiougne
 
 # Settlements
 max_settlements = 3

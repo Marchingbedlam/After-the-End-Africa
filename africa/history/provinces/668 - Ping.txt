@@ -1,5 +1,5 @@
 # County Title
-title = c_abuja
+title = c_ping
 
 # Settlements
 max_settlements = 3

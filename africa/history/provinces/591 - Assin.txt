@@ -1,5 +1,5 @@
 # County Title
-title = c_warri
+title = c_assin
 
 # Settlements
 max_settlements = 3

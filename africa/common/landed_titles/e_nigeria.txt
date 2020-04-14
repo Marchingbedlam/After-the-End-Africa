@@ -2477,7 +2477,7 @@ e_nigeria = {
 					b_abomey_3 = {
 					}
 				}
-				c_lokossa = { #681
+				c_wa = {
 					color={ 163 110 164 }
 					color2={ 255 255 255 }
 					

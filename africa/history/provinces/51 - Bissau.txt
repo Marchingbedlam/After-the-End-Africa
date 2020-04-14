@@ -1,7 +1,7 @@
 # c_cacheu
 
 # County Title
-title = c_cacheu
+title = c_bissau
 
 # Settlements
 max_settlements = 3

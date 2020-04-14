@@ -1,5 +1,5 @@
 # County Title
-title = c_soleja
+title = c_koulikoro
 
 # Settlements
 max_settlements = 3

@@ -1,7 +1,6 @@
-# c_goudiry
 
 # County Title
-title = c_goudiry
+title = c_bakel
 
 # Settlements
 max_settlements = 3

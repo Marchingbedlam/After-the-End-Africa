@@ -1,7 +1,7 @@
 # c_kebemer
 
 # County Title
-title = c_kebemer
+title = c_louga
 
 # Settlements
 max_settlements = 3

@@ -1,13 +1,15 @@
 # County Title
-title = c_menchum
+title = c_wa
 
 # Settlements
 max_settlements = 3
 
-b_menchum = castle
+b_lokossa_1 = castle
+b_lokossa_2 = temple
+b_lokossa_3 = city
 
 # Misc
-culture = kpelle
+culture = ewe
 religion = catholic
 
 #History

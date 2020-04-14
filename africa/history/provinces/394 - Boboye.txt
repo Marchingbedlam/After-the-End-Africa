@@ -1,15 +1,13 @@
 # County Title
-title = c_awka
+title = c_boboye
 
 # Settlements
 max_settlements = 3
 
-b_awka_1 = castle
-b_awka_2 = temple
-b_awka_3 = city
+b_menchum = castle
 
 # Misc
-culture = igbo
+culture = kpelle
 religion = catholic
 
 #History

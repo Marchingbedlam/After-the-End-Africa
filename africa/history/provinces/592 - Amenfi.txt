@@ -1,5 +1,5 @@
 # County Title
-title = c_agbor
+title = c_amenfi
 
 # Settlements
 max_settlements = 3

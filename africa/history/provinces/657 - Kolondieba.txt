@@ -1,12 +1,12 @@
 # County Title
-title = c_magami
+title = c_kolondieba
 
 # Settlements
 max_settlements = 3
 
-b_magami_1 = castle
-b_magami_2 = temple
-b_magami_3 = city
+b_kuara-nomada_1 = castle
+b_kuara-nomada_2 = temple
+b_kuara-nomada_3 = city
 
 # Misc
 culture = hausa

@@ -1,7 +1,6 @@
-# c_gbeke
 
 # County Title
-title = c_gbeke
+title = c_bouake
 
 # Settlements
 max_settlements = 3

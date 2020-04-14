@@ -1,5 +1,5 @@
 # County Title
-title = c_zing
+title = c_ouallam
 
 # Settlements
 max_settlements = 3

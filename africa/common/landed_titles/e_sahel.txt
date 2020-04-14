@@ -42,7 +42,7 @@ e_sahel = {
 				b_caravela_GW = {}
 				b_orango_GW = {}
 			}
-			c_cacheu = { # 51
+			c_bissau = { # 51
 				color={ 104 92 36 }
 				color2={ 255 255 255 }
 				
@@ -187,10 +187,11 @@ e_sahel = {
 				b_mbelbouck_SN = {}
 				b_darou_minam_SN = {}
 			}
-			c_mbacke = { # 67
+			c_diourbel = { # 67
 				color={ 144 139 45 }
 				color2={ 255 255 255 }
 				
+				b_diourbel_SN = {}
 				b_mbacke_SN = {}
 				b_taif_SN = {}
 				b_ndame_SN = {}
@@ -206,7 +207,7 @@ e_sahel = {
 			
 			capital = 68 # c_kebemer
 			
-			c_kebemer = { # 68
+			c_louga = { # 68
 				color={ 107 107 44 }
 				color2={ 255 255 255 }
 				
@@ -218,13 +219,10 @@ e_sahel = {
 				b_sagatta_gueth_SN = {}
 				b_keur_momar_saurr_SN = {}
 			}
-			c_dagana = { # 69
+			c_saint_louis = { # 69
 				color={ 68 68 19 }
 				color2={ 255 255 255 }
 
-				kwi = "Saint-Louis"
-				krio = "Saint-Louis"
-				
 				b_dagana_SN = {}
 				b_saint_louis_SN = {}
 				b_richard_toll_SN = {}
@@ -374,7 +372,7 @@ e_sahel = {
 				b_khombole_SN = {}
 				b_kayar_SN = {}
 			}
-			c_fatick = { # 62
+			c_foundiougne = { # 62
 				color={ 124 124 32 }
 				color2={ 255 255 255 }
 				

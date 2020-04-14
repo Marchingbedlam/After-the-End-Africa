@@ -1,0 +1,15 @@
+# County Title
+title = c_yamoussoukro
+
+# Settlements
+max_settlements = 3
+
+b_awka_1 = castle
+b_awka_2 = temple
+b_awka_3 = city
+
+# Misc
+culture = igbo
+religion = catholic
+
+#History

@@ -1,15 +1,14 @@
-# c_labe
 
 # County Title
-title = c_labe
+title = c_mouhoun
 
 # Settlements
 max_settlements = 3
 
-b_labe_GN = tribal
+b_ouahigouya = tribal
 
 # Misc
-culture = susu
+culture = mossi
 religion = sunni
 
 #History

@@ -1,7 +1,7 @@
 # c_mandoro
 
 # County Title
-title = c_mandoro
+title = c_koro
 
 # Settlements
 max_settlements = 3

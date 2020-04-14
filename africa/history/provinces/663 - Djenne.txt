@@ -1,12 +1,12 @@
 # County Title
-title = c_birnin_konni
+title = c_djenne
 
 # Settlements
 max_settlements = 3
 
-b_birnin_konni_1 = castle
-b_birnin_konni_2 = temple
-b_birnin_konni_3 = city
+b_magami_1 = castle
+b_magami_2 = temple
+b_magami_3 = city
 
 # Misc
 culture = hausa
