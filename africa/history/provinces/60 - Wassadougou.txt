@@ -1,14 +1,11 @@
-# c_dioilla
 
 # County Title
-title = c_dioilla
+title = c_wassadougou
 
 # Settlements
 max_settlements = 3
 
-b_dioilla = castle
-b_dioilla_2 = city
-b_dioilla_3 = temple
+b_wassadougou = castle
 
 # Misc
 culture = manding

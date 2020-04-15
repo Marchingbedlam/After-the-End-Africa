@@ -1,0 +1,14 @@
+
+# County Title
+title = c_korhogo
+
+# Settlements
+max_settlements = 3
+
+b_korhogo = tribal
+
+# Misc
+culture = senufo
+religion = sunni
+
+#History

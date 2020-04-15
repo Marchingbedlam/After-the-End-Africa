@@ -1,10 +1,10 @@
 # County Title
-title = c_donga
+title = c_manyu
 
 # Settlements
 max_settlements = 3
 
-b_donga = castle
+b_bamenda = castle
 
 # Misc
 culture = kpelle

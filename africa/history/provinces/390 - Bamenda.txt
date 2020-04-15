@@ -1,10 +1,10 @@
 # County Title
-title = c_nde
+title = c_bamenda
 
 # Settlements
 max_settlements = 3
 
-b_nde = castle
+b_grassfields = castle
 
 # Misc
 culture = kpelle

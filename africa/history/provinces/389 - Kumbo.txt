@@ -1,10 +1,10 @@
 # County Title
-title = c_kadei
+title = c_kumbo
 
 # Settlements
 max_settlements = 3
 
-b_kadei = castle
+b_donga = castle
 
 # Misc
 culture = kpelle

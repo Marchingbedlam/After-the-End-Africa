@@ -1,15 +1,14 @@
-# c_hambol
 
 # County Title
-title = c_hambol
+title = c_dioila
 
 # Settlements
 max_settlements = 3
 
-b_hambol = tribal
+b_dioila = castle
 
 # Misc
-culture = senufo
+culture = manding
 religion = sunni
 
 #History

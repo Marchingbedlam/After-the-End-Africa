@@ -1,0 +1,14 @@
+
+# County Title
+title = c_kerouane
+
+# Settlements
+max_settlements = 3
+
+b_kerouane = tribal
+
+# Misc
+culture = manding
+religion = sunni
+
+#History

@@ -1,0 +1,14 @@
+
+# County Title
+title = c_yanfolila
+
+# Settlements
+max_settlements = 3
+
+b_yanfolila = castle
+
+# Misc
+culture = manding
+religion = sunni
+
+#History

@@ -1,5 +1,4 @@
 ###########Cultures###########
-
 asante;Asante;;;;;;;;;;;;;x
 baoule;Baoulé;;;;;;;;;;;;;x
 bubi;Bubi;;;;;;;;;;;;;x
@@ -26,7 +25,42 @@ temne;Temne;;;;;;;;;;;;;x
 tuareg;Tuareg;;;;;;;;;;;;;x
 verdean;Verdean;;;;;;;;;;;;;x
 wolof;Wolof;;;;;;;;;;;;;x
-
+senegambian;Senegambian;;;;;;;;;;;;;x
+Sahel;Sahel;;;;;;;;;;;;;x
+dogon;Dogon;;;;;;;;;;;;;x
+mande;Mande;;;;;;;;;;;;;x
+akan;Akan;;;;;;;;;;;;;x
+##Religions
+libertarian;Libertarian;;;;;;;;;;;;;x
+pan_african;Pan-African;;;;;;;;;;;;;x
+anglican;Anglican;;;;;;;;;;;;;x
+ubuntu;Ubuntu;;;;;;;;;;;;;x
+brethren;Brethren;;;;;;;;;;;;;x
+pirate;Pirate;;;;;;;;;;;;;x
+nautical;Nautical;;;;;;;;;;;;;x
+umojan;Umojan;;;;;;;;;;;;;x
 ##Gods
+GOD_INDEPENDENCE;Independence;;;;;;;;;;;;;x
+GOD_PROSPERITY;Prosperity;;;;;;;;;;;;;x
+GOD_JUSTICE;Justice;;;;;;;;;;;;;x
+GOD_OUR_LADY;Our Lady;;;;;;;;;;;;;x
+GOD_MONROE;Monroe;;;;;;;;;;;;;x
+THE_FOUNDERS;the Founders;;;;;;;;;;;;;x
 GOD_JOHN_BROWN;John Brown;;;;;;;;;;;;;x
+THE_FIRESTONE;the Firestone;;;;;;;;;;;;;x
+THE_TRAITORS;the Traitors;;;;;;;;;;;;;x
 THE_ENSLAVERS;the Enslavers;;;;;;;;;;;;;x
+LIBERATION_WAR;Liberation War;;;;;;;;;;;;;x
+THE_MONROE_DOCTRINE;the Monroe Doctrine;;;;;;;;;;;;;x
+JUDGE;Judge;;;;;;;;;;;;;x
+PATRIOTISM;Patriotism;;;;;;;;;;;;;x
+GOD_LIBERTY;Liberty;;;;;;;;;;;;;x
+THE_HANGMAN;the Hangman;;;;;;;;;;;;;x
+DAVY_JONES;Davy Jones;;;;;;;;;;;;;x
+GOD_THE_SEA_HAG;the Sea Hag;;;;;;;;;;;;;x
+GOD_NEPTUNE;Neptune;;;;;;;;;;;;;x
+GOD_AGWE;Agwe;;;;;;;;;;;;;x
+GOD_MANANNAN_MAC_LIR;Manannan Mac Lir;;;;;;;;;;;;;x
+THE_CODE;the Code;;;;;;;;;;;;;x
+PRIEST;Priest;;;;;;;;;;;;;x
+LIGHTBRINGER;Lightbringer;;;;;;;;;;;;;x

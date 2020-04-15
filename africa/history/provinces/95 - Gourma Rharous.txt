@@ -1,0 +1,14 @@
+
+# County Title
+title = c_gourma_rharous
+
+# Settlements
+max_settlements = 3
+
+b_gourma_rharous = castle
+
+# Misc
+culture = fulbe
+religion = sunni
+
+#History

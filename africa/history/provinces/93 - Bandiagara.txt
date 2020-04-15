@@ -1,0 +1,14 @@
+
+# County Title
+title = c_bandiagara
+
+# Settlements
+max_settlements = 3
+
+b_bandiagara = castle
+
+# Misc
+culture = fulbe
+religion = sunni
+
+#History

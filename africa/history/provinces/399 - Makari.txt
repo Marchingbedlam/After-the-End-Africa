@@ -1,5 +1,5 @@
 # County Title
-title = c_fako
+title = c_makari
 
 # Settlements
 max_settlements = 3

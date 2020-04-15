@@ -1,10 +1,10 @@
 # County Title
-title = c_grassfields
+title = c_yokadouma
 
 # Settlements
 max_settlements = 3
 
-b_grassfields = castle
+b_mpem_et_djim = castle
 
 # Misc
 culture = kpelle

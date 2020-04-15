@@ -1,13 +1,14 @@
+
 # County Title
-title = c_boyo
+title = c_agboville
 
 # Settlements
 max_settlements = 3
 
-b_boyo = castle
+b_agboville = castle
 
 # Misc
-culture = kpelle
+culture = baoule
 religion = catholic
 
 #History

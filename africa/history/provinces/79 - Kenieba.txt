@@ -1,0 +1,14 @@
+
+# County Title
+title = c_kenieba
+
+# Settlements
+max_settlements = 3
+
+b_kenieba = castle
+
+# Misc
+culture = wolof
+religion = sunni
+
+#History

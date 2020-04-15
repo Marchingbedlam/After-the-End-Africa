@@ -1,0 +1,14 @@
+
+# County Title
+title = c_baroueli
+
+# Settlements
+max_settlements = 3
+
+b_baroueli = castle
+
+# Misc
+culture = fulbe
+religion = sunni
+
+#History

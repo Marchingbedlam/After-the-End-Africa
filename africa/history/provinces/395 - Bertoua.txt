@@ -1,0 +1,13 @@
+# County Title
+title = c_bertoua
+
+# Settlements
+max_settlements = 3
+
+b_boyo = castle
+
+# Misc
+culture = kpelle
+religion = catholic
+
+#History

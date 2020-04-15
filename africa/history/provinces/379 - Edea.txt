@@ -1,10 +1,10 @@
 # County Title
-title = c_bamenda
+title = c_edea
 
 # Settlements
 max_settlements = 3
 
-b_bamenda = castle
+b_sanaga_maritime = castle
 
 # Misc
 culture = kpelle

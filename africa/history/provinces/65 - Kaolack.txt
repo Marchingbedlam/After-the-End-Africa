@@ -1,0 +1,14 @@
+
+# County Title
+title = c_kaolack
+
+# Settlements
+max_settlements = 3
+
+b_kaolack = castle
+
+# Misc
+culture = wolof
+religion = sunni
+
+#History

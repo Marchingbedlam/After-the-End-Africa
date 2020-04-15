@@ -1,10 +1,10 @@
 # County Title
-title = c_sanaga_maritime
+title = c_batouri
 
 # Settlements
 max_settlements = 3
 
-b_sanaga_maritime = castle
+b_kadei = castle
 
 # Misc
 culture = kpelle
