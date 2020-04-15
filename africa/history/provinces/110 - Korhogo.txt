@@ -3,7 +3,7 @@
 title = c_korhogo
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_korhogo = tribal
 

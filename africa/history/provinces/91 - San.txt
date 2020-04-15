@@ -4,11 +4,11 @@
 title = c_san
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_san = castle
-b_san_2 = city
-b_san_3 = temple
+b_somo = city
+b_yangasso = temple
 
 # Misc
 culture = dogon

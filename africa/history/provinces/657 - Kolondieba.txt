@@ -2,11 +2,11 @@
 title = c_kolondieba
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_kuara-nomada_1 = castle
-b_kuara-nomada_2 = temple
-b_kuara-nomada_3 = city
+b_kolondieba = castle
+b_bougoula = temple
+b_tousseguela = city
 
 # Misc
 culture = hausa

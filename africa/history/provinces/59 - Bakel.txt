@@ -5,9 +5,9 @@ title = c_bakel
 # Settlements
 max_settlements = 3
 
-b_goudiry_SN = castle
-b_kothiary_SN = city
-b_bakel_SN = temple
+b_bakel = castle
+b_ballou = city
+b_goudiri = temple
 
 # Misc
 culture = soninke

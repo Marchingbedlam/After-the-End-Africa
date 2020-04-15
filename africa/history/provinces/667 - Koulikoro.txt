@@ -2,11 +2,11 @@
 title = c_koulikoro
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_soleja_1 = castle
-b_soleja_2 = temple
-b_soleja_3 = city
+b_koulikoro = castle
+b_katibougou = temple
+b_koula = city
 
 # Misc
 culture = gbagi

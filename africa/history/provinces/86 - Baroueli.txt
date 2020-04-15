@@ -3,9 +3,10 @@
 title = c_baroueli
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_baroueli = castle
+b_konobougou = temple
 
 # Misc
 culture = fulbe

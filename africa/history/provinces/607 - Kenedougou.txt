@@ -2,11 +2,10 @@
 title = c_kenedougou
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_umuahia_1 = castle
-b_umuahia_2 = temple
-b_umuahia_3 = city
+b_orodara = castle
+b_samorogouan = temple
 
 # Misc
 culture = igbo

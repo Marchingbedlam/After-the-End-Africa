@@ -1,14 +1,14 @@
-# c_kabadougou
 
 # County Title
-title = c_kabadougou
+title = c_boundiali
 
 # Settlements
 max_settlements = 3
 
-b_kabadougou = tribal
+b_boundiali = tribal
+
 # Misc
-culture = manding
+culture = senufo
 religion = sunni
 
 #History

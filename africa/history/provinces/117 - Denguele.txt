@@ -1,12 +1,10 @@
-
 # County Title
-title = c_yanfolila
+title = c_denguele
 
 # Settlements
 max_settlements = 4
 
-b_yanfolila = castle
-b_borela = temple
+b_odienne = tribal
 
 # Misc
 culture = manding

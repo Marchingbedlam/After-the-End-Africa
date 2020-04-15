@@ -3,9 +3,11 @@
 title = c_dioila
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_dioila = castle
+b_gouana = city
+b_fana = temple
 
 # Misc
 culture = manding

@@ -1,12 +1,11 @@
-# c_poro
 
 # County Title
-title = c_poro
+title = c_boundiali
 
 # Settlements
 max_settlements = 3
 
-b_poro = tribal
+b_boundiali = tribal
 
 # Misc
 culture = senufo

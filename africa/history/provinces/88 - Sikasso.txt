@@ -4,11 +4,11 @@
 title = c_sikasso
 
 # Settlements
-max_settlements = 3
+max_settlements = 5
 
 b_sikasso = castle
-b_sikasso_2 = city
-b_sikasso_3 = temple
+b_missirikoro = city
+b_zanferebougou = temple
 
 # Misc
 culture = senufo

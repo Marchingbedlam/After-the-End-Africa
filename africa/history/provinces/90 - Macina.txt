@@ -4,11 +4,11 @@
 title = c_macina
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_macina = castle
-b_macina_2 = city
-b_macina_3 = temple
+b_boky_were = city
+b_diena = temple
 
 # Misc
 culture = manding

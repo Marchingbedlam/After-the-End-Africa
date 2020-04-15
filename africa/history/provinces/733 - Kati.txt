@@ -1,12 +1,12 @@
-
 # County Title
-title = c_yanfolila
+title = c_kati
 
 # Settlements
 max_settlements = 4
 
-b_yanfolila = castle
-b_borela = temple
+b_kati = castle
+b_dio_gare = city
+b_faladie = temple
 
 # Misc
 culture = manding

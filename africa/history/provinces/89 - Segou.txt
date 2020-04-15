@@ -4,11 +4,11 @@
 title = c_segou
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_segou = castle
-b_segou_2 = city
-b_segou_3 = temple
+b_souba = city
+b_konodimini = temple
 
 # Misc
 culture = manding
