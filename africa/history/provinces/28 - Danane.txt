@@ -1,0 +1,14 @@
+
+# County Title
+title = c_danane
+
+# Settlements
+max_settlements = 3
+
+b_danane = tribal
+
+# Misc
+culture = fulbe
+religion = sunni
+
+#History

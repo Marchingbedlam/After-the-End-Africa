@@ -12,7 +12,7 @@ b_careysburg_LR = castle
 b_bensonville_LR = city
 
 # Misc
-culture = liberian
+culture = kwi
 religion = libertarian
 
 #History
