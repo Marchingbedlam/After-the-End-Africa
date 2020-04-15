@@ -239,4 +239,190 @@ bantu = {
 		female_patronym = "a "
 		prefix = yes 
 	}
+	fang={
+		color = { 0.5 0.5 0.1 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Alain_Alan Ámery André_Andrew Ángel_Angel Anselmo_Anselm Anthony Aristide Armand Armengol Arsène Augustin_Augustine Avelin Axel Aymardo
+			Basil Benedict Benjamin Bienvenudo Boris Bruno Buenaventure_Bonaventure
+			Cándide_Candide Carlos_Carl Casimir Claude Clément_Clement Cosme
+			Daniel David Didier Dieudono Donat_Donatus	
+			Edmundo_Edmund Eloy Emerick Emiliano_Aemilius Enrique_Henry Erwin Eusebio_Eusebius
+			Fabián_Fabian Fabrice Federick_Frederick Felipe_Philip Florencio_Florence Franck_Francis
+			Gabriel Gregorio_Gregory Gustavo_Gustav
+			Ivan
+			Jacinto Jesús_Jesus Jorge_George José_Joseph Juan_John Jules
+			Lázaro_Lazarus Leandro_Leander Léon_Leon Lino Luis
+			Manuel_Emmanuel Mario_Marius Martin Miguel_Michael
+			Oscar
+			Pascual_Pascal Pedro_Peter Plácido
+			Ramónd_Raymond Reginald Rémy Ricard_Richard Roben_Ruben Romarick Ruslán
+			Salomón_Solomon Salvador Santiago Severo_Severus Silvestre_Sylvester Stéphane_Stephen
+			Teodore_Theodore Térence_Terence Tomás_Thomas Trinidad
+			Vicente_Vincent Victor
+			Wenceslao Wilfried_Wilfred
+			Yannick Yves
+		}
+		
+		female_names = {
+			Ángela_Angela
+			Catilina Constancia_Constance
+			Danièle_Daniela
+			Edna Esperanza
+			Flor
+			Genoveva
+			Lucrecia
+			Maria_Mary Milagrosa Montserrat
+			Nadège
+			Raquel_Rachel Regina Rita Rose
+		}
+	}
+	sawa={
+		color = { 0.5 0.5 0.1 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Adolphe_Adolf Albert Alexander Aloys
+			Betote
+			Dibongo Dika
+			Ebele Ekambi Ekwala Elame Emmanuel Eric Ernest Essaka Ewale Ewonde Eyum
+			Fike Francis
+			Herman
+			Isuwu
+			Jacob James Jean-Alain Jean-Marie Jean-Maxime Jean-Paul Jean-Pierre Joseph
+			Kum Kuo Kwa Kwane
+			Lobé Lock Louis
+			Mapoka Mase Mbape Mbedi Mbimbi Mbongo Meinrad Mokule Monanga Moukoko Mpondo Mukonga Mulabe
+			Ndumbé Ngando Ngie Ngombe
+			Patrick Paul Priso
+			René Roger Roudolphe_Rudolph
+			Samuel
+			Walter William Woloa
+		}
+		
+		female_names = {
+			Charlotte Constance
+			Elsa
+			Hemley
+			Kanya
+			Léonora
+		}
+	}
+	zulu={
+		color = { 0.5 0.5 0.1 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Albert Alfred Amos Andrew Archibald Ayanda
+			Bafana Baldwin Benedict Bhambatha Bheki Bhekizizwe Bhekokwakhe Bhekumuzi Bizwekhaya Bongani Bonginkosi Brighton Busani Butho
+			Cetshwayo Clive Cyprian
+			Dabulamanzi Dennis Dingane Duduzani Dumisani Dunstan
+			Edmund Edward Emmanuel Ernest
+			Freedom
+			Gideon Goodwill Gumede
+			Hamilton Headman Henry Herbert
+			Isaac Isaiah Israel
+			Jabulani Jackson Jacob Jama Jeffrey_Geoffrey John Johnson Joseph Josiah
+			Khaya Khulubuse Khuthazani Knowledge Kwenzokuhle
+			Lawrence Lethukuthula Lewis_Louis Lindokuhle Lucas Lunga Lungelo Luyanda Luzumana
+			Mabhuti Mafika Mageba Magema Magwaza Makhosonke Malandela Mangosuthu Maphita Maphumzana Masikomahle Masoja Maxwell Mbongaleni Mbongeni Mbulelo Mbuyiseni Mbuyazi Mcwayizeni Mdudzi Menzi Mhlangana Mhlengi Mkhonzeni Mkhuleko Mlungisi Moruti Moses Mpande Mpangazitha Muziwakhe Mxolisi Mzilikazi
+			Ndaba Ndlela Ndoda Nhlanhla Nicholas Njabulo Nkayishana Nkonzo Nkosinkulu Nongalaza Nsikayasizwe Ntokozo Ntombela Ntshingwayo
+			Obed Oldjohn Oliver Oswald
+			Patrick Peter Phendulani Philip Phumelele Phumuzu Phunga Phuthuma Pixley
+			Raymond Reginald Richard Robert Roland Rolfes Russell
+			Samkelo Sandile Saul Senzangakhona Senzo Shadrach Shaka Shiyani Shlobosenkosi Shobeni Sibusiso Sigujana Sihlangu Sihle Silindile Simakahle Siphiwe Siyabonga Sojiyisa Solomon Somizi Steven_Stephen
+			Takalani Thabiso Thamsanqa Themba Thephilus Thokozani Tholakele Thomas Thulani Thuthukile Tshangana Twoboys
+			Umhlangana Umthonga Utimuni
+			Velenkosini Vusi
+			Winston Wiseman
+			Zamani Zanefa Zibhebhu Zwakele Zwelithini
+		}
+		
+		female_names = {
+			Amanda
+			Bathabile Bukhosibemvelo Buthle
+			Charlotte Clarice Constance
+			Dawn Dorothy
+			Florence
+			Gertrude Gugu Gugulethu
+			Hlengiwe
+			Jessica
+			Kelly Khanyi
+			Leleti Linda Lomkhosi
+			Magogo Makoti Mantfombi Mboxela Minenhle Mkabayi Mukelile
+			Nandi Ngqumbazi Nkosazana Nokutela Nomantshali Nombuso Nomkhosi Nomonde Nompumelelo Nomzamo Nonkululeko Nqobangothando Ntandoyenkosi Ntandoyesizwe Ntombizosuthu Nxumalo
+			Olive
+			Pearl Phila Phindiwe Phumzile Portia Pretty
+			Ruth
+			Sibongile Sibusile Silomo Sinethemba Sizakeke Sophie_Sophia
+			Thandeka Thandekile Thandiwe Thando Thelma Thishiwe Thuso Tryphina
+			Veronica Victoria
+			Winifred
+			Zandile Zanele Zodwa Zola
+		}
+
+		male_patronym = "ka"
+		female_patronym = "ka"
+		prefix = yes 
+	}
+	xhosa={
+		color = { 0.5 0.5 0.1 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Abner Akhumzi Alcott Alfred Alphin Anathi Andile Archibald Arnold Ashby Atandwa Ayanda Azenathi
+			Barney Bennet Bernard Bhomoyi Bhongolwethu Bhurhu Bongani Bonginkosi Bonisile Bubele Bulelani Buyelekhaya
+			Campbell Cecil Ceduma Charles Chumani Clarence
+			Daliza Davidson Derrick Desmond Dingaan Duma Dumehleli Dumisa
+			Ebenezer Edward Enoch
+			Faku Falo Fikile Fumanekile
+			Gcaleka George Gibson Godfrey Gonya Govan Griffith Gugile Gwebi'nkumbi Gwede
+			Harrington Henry Hintsa Hlomla Hlumelo
+			Isaac
+			James Joab John Jonguxolo Joshua
+			Khawuta
+			Lennox Leslie Lethuxolo Lewanika Lindile Lindokuhle Lonwabo Looksmart Loyiso Ludumo Lusanda Lusapho Lwandile Lwazi
+			Makgatho Makhanda Makhenkesi Malashe Malusi Mangaliso Maqoma Martin Masizole Matthew Maxanjana Maxhob'ayakhawuleza Maxwell Mazubiko Mbombini Mbulelo Mbuso Mbuyiseli Mcebisi Mdushane Membathisi Mkhanyiseli Mkhuseli Mhlobo Milner Mlawu Mlibo Mluleki Mlungisi Moeletsi Mongameli Mongezi Monwabisi Moses Mnikelo Mpisekhaya Mvume Mvuyo Mxolisi Mzimvubu Mzonke Mzwanele
+			Ncedile Ndaba Ndlambe Nelson Ngconde Ngqika Ngubengcuka Njongonkulu Nkosinathi Nkosiphendule Nkosiyabo Nqoko Ntsikana Nyameko Nyaniso
+			Odwa Oliver Oscar Oupa
+			Patrick Pearce Peter Phakamile Philemon Phumelele Phumulo
+			Qaqambile Qaqawuli
+			Raymond Reginald Rharhabe Richard Robert Rolihlahla
+			Sabata Sakumzi Samson Samuel Sandile Sarhili Sicelo Sidney Sigcawu Siphelele Siphiwo Sipho Sitembele Siyabulela Sizwe Skwenene Sparrow Stanley Stephen
+			Tembeka Terence Thabo Thandathu Thando Themba Thembekile Thembelani Thembinkosi Thembisile Thozamile Tiyo Trevor
+			Velile Vusi Vusumzi Vuyisile
+			Walter Washington Watu Wellington William Wilton Winston Wiseman
+			Xolani Xolilizwe
+			Yanga
+			Zabonke Zenith Zola Zwelakhe Zweledinga Zwelentlanga Zwelidumile Zwelinzima Zwelivelile Zwelonke
+		}
+		
+		female_names = {
+			Abigail Adelaide Albertina Amanda Annie_Anne Asanda
+			Baleka Brenda Busiswa Buyelwa
+			Cecilia
+			Dora
+			Evelyn
+			Gladys
+			Hlubi
+			Leah Letitia Lindiwe Lulama Lungisa Luthando
+			Makaziwe Mandisa Margaret Mildred Miriam Muriel
+			Nambitha Ndileka Nobesuthu Nofinishi Nokugcina Noluvuyo Nomafrench Nomaindia Nomalizo Nomgcobo Nomhle Nomkhitha Nomonde Nomzamo Nonkosi Nonkululeko Nontetha Nosimo Nosipho Nosiviwe Noxolo
+			Pamela Petronella Phyllis Pumeza
+			Simphiwe Sindiwe Stella
+			Thandiswa Thulisile Tokozile
+			Vatiswa Victoria
+			Winifred
+			Zenande Zenani Zikhona Zimkhitha Zindziswa Zingiswa Zolani Zoleka Zonke Zozibini Zukisa
+		}
+	}
 }

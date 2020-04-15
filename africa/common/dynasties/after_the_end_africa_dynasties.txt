@@ -363,8 +363,8 @@
 1401055 = {name ="Tounkara" culture=manding }
 1401056 = {name ="Kamissoko" culture=manding }
 1401057 = {name ="Maridiata" culture=manding }
-1511058 = {name ="Cissoko" culture=manding }
-1511059 = {name ="Koité" culture=manding }
+1401058 = {name ="Cissoko" culture=manding }
+1401059 = {name ="Koité" culture=manding }
 1401060 = {name ="Sangoulé" culture=manding }
 1401061 = {name ="Boro" culture=manding }
 1401062 = {name ="Soro" culture=manding }
@@ -1183,6 +1183,77 @@
 1519078 = {name ="Kialunda" culture=kongo }
 1519079 = {name ="Kanza" culture=kongo }
 1519080 = {name ="Mwe di Malila" culture=kongo }
+
+1521000 = {name ="Ondo" culture=fang }
+1521001 = {name ="Mba" culture=fang }
+1521002 = {name ="Bodjedi" culture=fang }
+1521003 = {name ="Owono" culture=fang }
+1521004 = {name ="Sima" culture=fang }
+1521005 = {name ="Ngua" culture=fang }
+1521006 = {name ="Envela" culture=fang }
+1521007 = {name ="Akeng" culture=fang }
+1521008 = {name ="Mahua" culture=fang }
+1521009 = {name ="Oyé" culture=fang }
+1521010 = {name ="Asué" culture=fang }
+1521011 = {name ="Mangue" culture=fang }
+1521012 = {name ="Elá" culture=fang }
+1521013 = {name ="Esangui" culture=fang }
+1521014 = {name ="Mayé" culture=fang }
+1521015 = {name ="Nfubea" culture=fang }
+1521016 = {name ="Ndong" culture=fang }
+1521017 = {name ="Edu" culture=fang }
+1521018 = {name ="Nkogo" culture=fang }
+1521019 = {name ="Mitogo" culture=fang }
+1521020 = {name ="Obono" culture=fang }
+1521021 = {name ="Aguong" culture=fang }
+1521022 = {name ="Enzema" culture=fang }
+1521023 = {name ="Mbomio" culture=fang }
+1521024 = {name ="Anvene" culture=fang }
+1521025 = {name ="Ebang" culture=fang }
+1521026 = {name ="Nseng" culture=fang }
+1521027 = {name ="Abegue" culture=fang }
+1521028 = {name ="Eyene" culture=fang }
+1521029 = {name ="Edjang" culture=fang }
+1521030 = {name ="Nzang" culture=fang }
+1521031 = {name ="Nkene" culture=fang }
+1521032 = {name ="Angüe" culture=fang }
+1521033 = {name ="Obamé" culture=fang }
+1521034 = {name ="Nchama" culture=fang }
+1521035 = {name ="Obela" culture=fang }
+1521036 = {name ="Nvomo" culture=fang }
+1521037 = {name ="Obiang" culture=fang }
+1521038 = {name ="Nguéma" culture=fang }
+1521039 = {name ="Eneme" culture=fang }
+1521040 = {name ="Mbasogo" culture=fang }
+
+1522000 = {name ="Deido" culture=sawa }
+1522001 = {name ="Bell" culture=sawa }
+1522002 = {name ="Akwa" culture=sawa }
+1522003 = {name ="Priso" culture=sawa }
+1522004 = {name ="Bonabela" culture=sawa }
+1522005 = {name ="Ebele" culture=sawa }
+1522006 = {name ="Bonaku" culture=sawa }
+1522007 = {name ="Njo" culture=sawa }
+1522008 = {name ="Bonaberi" culture=sawa }
+1522009 = {name ="Bonadoo" culture=sawa }
+1522010 = {name ="Joss" culture=sawa }
+1522011 = {name ="Mandessi" culture=sawa }
+1522012 = {name ="Etia" culture=sawa }
+1522013 = {name ="Mpessa" culture=sawa }
+1522014 = {name ="Manga" culture=sawa }
+1522015 = {name ="Makundu" culture=sawa }
+1522016 = {name ="Musuka" culture=sawa }
+1522017 = {name ="Bila" culture=sawa }
+1522018 = {name ="Njala" culture=sawa }
+1522019 = {name ="Kotto" culture=sawa }
+1522020 = {name ="Likenye" culture=sawa }
+1522021 = {name ="Mbonjo" culture=sawa }
+1522022 = {name ="Miano" culture=sawa }
+1522023 = {name ="Moudiki" culture=sawa }
+1522024 = {name ="Etone" culture=sawa }
+1522025 = {name ="Mboma" culture=sawa }
+1522026 = {name ="Mbela" culture=sawa }
+1522027 = {name ="Mbassi" culture=sawa }
 
 1841000 = {name ="Pieh" culture=mende }
 1841001 = {name ="Demby" culture=mende }
@@ -2230,7 +2301,7 @@
 2222125 = { name="Humboldt" culture=sudwester }
 2222126 = { name="Brocherhoff" culture=sudwester }
 2222127 = { name="Vedder" culture=sudwester }
-2222128 = { name="Zaugg" culture=sudwester }
+2222128 = { name="Faber" culture=sudwester }
 2222129 = { name="Zwölfaxing" culture=sudwester }
 2222130 = { name="Wölfkastel" culture=sudwester }
 
@@ -2486,7 +2557,7 @@
 2227023 = { name="van der Sluys" culture=afrikaner }
 2227024 = { name="Louw" culture=afrikaner }
 2227025 = { name="Viljoen" culture=afrikaner }
-2227026 = { name="Fourie" culture=afrikaner }
+2227026 = { name="Fourié" culture=afrikaner }
 2227027 = { name="van Rensburg" culture=afrikaner }
 2227028 = { name="de Graaff" culture=afrikaner }
 2227029 = { name="Fugard" culture=afrikaner }
@@ -2511,6 +2582,66 @@
 2227048 = { name="van der Linde" culture=afrikaner }
 2227049 = { name="van Blerk" culture=afrikaner }
 2227050 = { name="van Oudtshoorn" culture=afrikaner }
+2227051 = { name="Smuts" culture=afrikaner }
+2227052 = { name="du Randt" culture=afrikaner }
+2227053 = { name="Wessels" culture=afrikaner }
+2227054 = { name="Joubert" culture=afrikaner }
+2227055 = { name="Claerhout" culture=afrikaner }
+2227056 = { name="Theron" culture=afrikaner }
+2227057 = { name="Donges" culture=afrikaner }
+2227058 = { name="Wepenaar" culture=afrikaner }
+2227059 = { name="van den Bergh" culture=afrikaner }
+2227060 = { name="Bourdillon" culture=afrikaner }
+2227061 = { name="Lutjeharms" culture=afrikaner }
+2227062 = { name="Pienaar" culture=afrikaner }
+2227063 = { name="Rossouw" culture=afrikaner }
+2227064 = { name="van der Heever" culture=afrikaner }
+2227065 = { name="Odendaal" culture=afrikaner }
+2227066 = { name="Neethling" culture=afrikaner }
+2227067 = { name="van Biljon" culture=afrikaner }
+2227068 = { name="van Dyk" culture=afrikaner }
+2227069 = { name="Swanepoel" culture=afrikaner }
+2227070 = { name="Schonegevel" culture=afrikaner }
+2227071 = { name="Reitz" culture=afrikaner }
+2227072 = { name="du Plessis" culture=afrikaner }
+2227073 = { name="Meyer" culture=afrikaner }
+2227074 = { name="de Kock" culture=afrikaner }
+2227075 = { name="de Beer" culture=afrikaner }
+2227076 = { name="van Schalkwyk" culture=afrikaner }
+2227077 = { name="Blomkamp" culture=afrikaner }
+2227078 = { name="Groenewald" culture=afrikaner }
+2227079 = { name="van der Walt" culture=afrikaner }
+2227080 = { name="Stofberg" culture=afrikaner }
+2227081 = { name="Beyers" culture=afrikaner }
+2227082 = { name="Schoeman" culture=afrikaner }
+2227083 = { name="Oosthuizen" culture=afrikaner }
+2227084 = { name="Venter" culture=afrikaner }
+2227085 = { name="van Staden" culture=afrikaner }
+2227086 = { name="Niehaus" culture=afrikaner }
+2227087 = { name="Steynberg" culture=afrikaner }
+2227088 = { name="Armand" culture=afrikaner }
+2227089 = { name="Niemandt" culture=afrikaner }
+2227090 = { name="Ekerold" culture=afrikaner }
+2227091 = { name="Tregardt" culture=afrikaner }
+2227092 = { name="Moerdijk" culture=afrikaner }
+2227093 = { name="van Wouw" culture=afrikaner }
+2227094 = { name="Kriel" culture=afrikaner }
+2227095 = { name="Naudé" culture=afrikaner }
+2227096 = { name="van der Dussen" culture=afrikaner }
+2227097 = { name="Bergsma" culture=afrikaner }
+2227098 = { name="van der Westhuizen" culture=afrikaner }
+2227099 = { name="Korsten" culture=afrikaner }
+2227100 = { name="Pistorius" culture=afrikaner }
+2227101 = { name="Bekker" culture=afrikaner }
+2227102 = { name="Visser" culture=afrikaner }
+2227103 = { name="Rautenbach" culture=afrikaner }
+2227104 = { name="Jonker" culture=afrikaner }
+2227105 = { name="Liebenberg" culture=afrikaner }
+2227106 = { name="Klopper" culture=afrikaner }
+2227107 = { name="de Jaeger" culture=afrikaner }
+2227108 = { name="van Rheede" culture=afrikaner }
+2227109 = { name="Brits" culture=afrikaner }
+2227110 = { name="La Grange" culture=afrikaner }
 
 2228000 = { name="Philander" culture=griqua }
 2228001 = { name="van Rooi" culture=griqua }

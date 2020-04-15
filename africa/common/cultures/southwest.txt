@@ -9,19 +9,19 @@ namibian = {
 		color = { 0.4 0.4 0.3 }
 
 		male_names = {
-			Abel Abraham Adolf Albert Alexei_Alexis Alfred Anton_Anthony Arnold August Axel
+			Abel Abraham Adolf Albert Alexei_Alexis Alfred Anton_Anthony Arnold August_Augustus Axel
 			Barnim Benedikt_Benedict Bernard Björn Bogislaw Borwin Burkhard 
-			Calle_Carl Casimir Casper Chlodwig Clemens Cornelius 
+			Calle_Charles Casimir Casper Chlodwig Clemens_Clement Cornelius 
 			Dawid_David Detlef Dieter Dirk Dorian 
-			Ebenezer Eberhard Eckbert Eduard_Edward Egon Ehrenfried Emil Enno Ephraim Erastus Erwin Ehrik_Eric Ernst_Ernest Ewald Ewilastus_Evilastus
+			Ebenezer Eberhard Eckbert Eduard_Edward Egon Ehrenfried Emil_Aemilius Enno Ephraim Erastus Erwin Ehrik_Eric Ernst_Ernest Ewald Ewilastus_Evilastus
 			Fabarius Fedor_Theodore Ferdinand Filalethes Filippus_Philip Fillemon_Philemon Franziskus_Francis Friedhelm Friedrich_Frederick Fritz_Frederick
 			Gerhard_Gerard Gerson Gideon Giserich Goswin Gotthelf Gottlob_Gottlieb Günther Gustaf_Gustav 
-			Hanjorge Hanno Harald_Harold Hartmann Hellmut Hendrik_Henry Henning Henk_Henry Hermann_Herman Horst Hubertus_Hubert 
-			Isaak_Isaac Isenbard Ishmael
+			Hanjorge Hanno Hans Harald_Harold Hartmann Hellmut Henning Henk_Henry Hermann_Herman Horst Hubertus_Hubert 
+			Immanuel_Emmanuel Isaak_Isaac Isenbard Ishmael
 			Jakobus_Jacob Jesko Joachim Johannes_John Jörg_George Josef_Joseph  
 			Kamil_Camille Kayetan_Gaetan Klaus_Nicholas Kolmann Konrad_Conrad Kristof_Christopher Kurt
-			Lamprecht Leberecht Leonhard_Leonard Liborius Llewellinus_Llewellyn Lorenz_Lawrence Lothar Ludovik_Louis Lukas_Lucas 
-			Magnus Manfred Marius Martinus_Martin Matthäus_Matthew Maximilian Moritz 
+			Lamprecht Leberecht Leonhard_Leonard Liborius Lewellinus_Llewellyn Lorenz_Lawrence Lothar Ludovik_Louis Lukas_Lucas 
+			Magnus Manfred Marius Martinus_Martin Matthäus_Matthew Maximilian Moritz_Maurice
 			Nikanor  
 			Olbricht Oliwer_Oliver Oltwig Onufry Ortwinus Oskar_Oscar Otto 
 			Paulus_Paul Pieter_Peter Pribislaw 
@@ -30,7 +30,7 @@ namibian = {
 			Tertius Theofelus Theopoldt Thimoteus_Timothey Thomas Torsten Tycho 
 			Veicht_Vitus Viktor_Victor
 			Ulrich
-			Walther_Walter Wartislaus Wendelinus_Wendel Wenzeslaus Werner Wilbard Wilhelm_William Wilko Winrich Woldemar_Valdemar Wolfgang Wolfram
+			Walther_Walter Wartislaus Wendelinus_Wendel Wenzeslaus_Wenzel Werner Wilbard Wilhelm_William Wilko Winrich Woldemar_Valdemar Wolfgang Wolfram
 			Yorck
 			Zisse Zygmund_Sigmund 
 		}
@@ -303,41 +303,42 @@ namibian = {
 		color = { 0.4 0.4 0.3 }
 
 		male_names = {
-			Adriaan_Adrian Alwyn Andries_Andrew Arno 
+			Abraham Adriaan_Adrian Altus Alwyn Andries_Andrew Anton_Anthony Arno 
 			Barend Bertus_Albert 
-			Christiaan_Christian Christoffel Coenraad_Conrad Constand_Constantine Cornelius 
-			Etienne_Stephen Eugene 
-			Daniël_Daniel Dewaldt Dirk 
-			Francois_Francis 
+			Casper Christiaan_Christian Christoffel Coenraad_Conrad Constand_Constantine Cornelius 
+			Etienne_Stephen Ernst_Ernest Eugène_Eugene
+			Daniël_Daniel David Deon Dewaldt Dirk 
+			Francois_Francis Frederik_Frederick
 			Gabriël_Gabriel Gérard_Gerard Gerrit Gideon Guy Gysbert 
-			Karel_Carl Kobus_Jacob
-			Hendrik_Henry Herculaas_Hercules 
+			Karel_Carl
+			Hendrik_Henry Henning Herculaas_Hercules Hermanus_Herman
 			Izak_Isaac 
-			Jacques Jan_John Jandré
+			Jacobus_Jacob Jacques Jan_John Jandré Joost Josef_Joseph
 			Laurens_Lawrence Leon_Leo Louis 
-			Marcel Marius Marthinus_Martin Morné
-			Nicolaas_Nicholas 
+			Magnus Marcel Marius Marthinus_Martin Michael Morné
+			Neil Nicolaas_Nicholas 
 			Ockert Oscar
-			Philip Piet_Peter
+			Paul Philip Piet_Peter
 			Quartus 
-			Rabian Renaud Riaan_Ryan Roelof Rynhardt_Reinhard
+			Rabian Raoul Regardt Renaud Riaan_Ryan Robey_Robert Roelof Ruan Ryk_Richard Rynhardt_Reinhard
 			Schalk Skipper Stephanus_Stephen Sybrand 
-			Theuns Troyden 
-			Wessel Wicus Willem_William Wynand 
-			Zhivago 
+			Theo_Theodore Theuns Thinus Tjaart Troyden 
+			Wessel Wikus Willem_William Wynand 
 		}
 		
 		female_names = {
-			Adele Anika Anneline Antjie Antoinette
+			Adele Anika Anneline Anoeschka Antjie Antoinette
 			Behati 
-			Charlize Cornelia 
+			Charlize Christine Cornelia 
 			Danila 
 			Elizabeth Elsa Esther 
-			Grazjyna 
+			Glynis Grazjyna 
+			Helene_Helen
 			Inez Ingrid Isabel 
-			Johanna 
+			Johanna_Joan
+			Karin_Karen
 			Liezel 
-			Magdalena Marie_Maria Marike Marissa Miemsie 
+			Magdalena Margaret Marie_Maria Marike Marissa Miemsie 
 			Natalie
 			Rozelle 
 			Sandra_Alexandra Sarie Simoné_Simone Sonja
