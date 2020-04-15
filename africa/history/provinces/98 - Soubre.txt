@@ -5,9 +5,7 @@ title = c_soubre
 # Settlements
 max_settlements = 3
 
-b_nawa = castle
-b_nawa_2 = city
-b_nawa_3 = temple
+b_soubre = castle
 
 # Misc
 culture = kru

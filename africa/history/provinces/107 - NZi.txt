@@ -4,11 +4,11 @@
 title = c_nzi
 
 # Settlements
-max_settlements = 3
+max_settlements = 5
 
-b_nzi = castle
-b_nzi_2 = city
-b_nzi_3 = temple
+b_dimbokro = castle
+b_toumodi = city
+b_tiemokoro = temple
 
 # Misc
 culture = baoule

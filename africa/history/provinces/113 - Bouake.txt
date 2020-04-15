@@ -3,11 +3,9 @@
 title = c_bouake
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_gbeke = castle
-b_gbeke_2 = city
-b_gbeke_3 = temple
+b_bouake = castle
 
 # Misc
 culture = baoule

@@ -4,9 +4,7 @@ title = c_bouafle
 # Settlements
 max_settlements = 3
 
-b_nembe_1 = castle
-b_nembe_2 = temple
-b_nembe_3 = city
+b_bouafle = castle
 
 # Misc
 culture = ijo

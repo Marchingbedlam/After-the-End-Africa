@@ -5,9 +5,7 @@ title = c_sassandra
 # Settlements
 max_settlements = 3
 
-b_gbokle = castle
-b_gbokle_2 = city
-b_gbokle_3 = temple
+b_sassandra = castle
 
 # Misc
 culture = kru

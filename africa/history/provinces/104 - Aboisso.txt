@@ -1,13 +1,11 @@
-
 # County Title
 title = c_aboisso
 
 # Settlements
 max_settlements = 3
 
-b_sud_comoe = castle
-b_sud_comoe_2 = city
-b_sud_comoe_3 = temple
+b_aboisso = castle
+b_ayame = temple
 
 # Misc
 culture = baoule

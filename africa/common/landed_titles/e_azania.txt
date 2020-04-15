@@ -2,17 +2,14 @@ e_azania = {
 	color={ 200 34 94 }
 	color2={ 255 255 20 }
 	
-					
 	k_namibia = {
 		color={ 0 53 148 }
 		color2={ 255 255 255 }
-						
 						
 		d_erongo = {
 			color={ 0 53 205 }
 			color2={ 255 255 255 }
 
-							
 			c_ezorongondo = {
 				color={ 0 53 148 }
 				color2={ 255 255 255 }

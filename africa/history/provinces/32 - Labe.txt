@@ -1,11 +1,11 @@
 
 # County Title
-title = c_lelouma
+title = c_labe
 
 # Settlements
 max_settlements = 3
 
-b_lelouma = tribal
+b_labe_GN = tribal
 
 # Misc
 culture = fulbe

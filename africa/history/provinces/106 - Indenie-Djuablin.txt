@@ -1,14 +1,12 @@
-# c_indenie_djuablin
-
 # County Title
 title = c_indenie_djuablin
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_indenie_djuablin = castle
-b_indenie_djuablin_2 = city
-b_indenie_djuablin_3 = temple
+b_abengourou = castle
+b_akouaba = city
+b_aprompronou = temple
 
 # Misc
 culture = baoule

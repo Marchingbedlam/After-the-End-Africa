@@ -4,11 +4,12 @@
 title = c_abidjan
 
 # Settlements
-max_settlements = 3
+max_settlements = 6
 
 b_abidjan = castle
-b_abidjan_2 = city
-b_abidjan_3 = temple
+b_anyama = city
+b_adake = temple
+b_songon_agban = castle
 
 # Misc
 culture = baoule

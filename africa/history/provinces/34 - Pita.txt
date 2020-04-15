@@ -5,7 +5,7 @@ title = c_pita
 # Settlements
 max_settlements = 3
 
-b_labe_GN = tribal
+b_pita = tribal
 
 # Misc
 culture = susu

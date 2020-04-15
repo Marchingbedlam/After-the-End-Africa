@@ -1,13 +1,11 @@
-
 # County Title
 title = c_gagnoa
 
 # Settlements
 max_settlements = 3
 
-b_goh = castle
-b_goh_2 = city
-b_goh_3 = temple
+b_gagnoa = castle
+b_guiberoua = city
 
 # Misc
 culture = kru

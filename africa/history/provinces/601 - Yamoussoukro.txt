@@ -2,11 +2,11 @@
 title = c_yamoussoukro
 
 # Settlements
-max_settlements = 3
+max_settlements = 6
 
-b_awka_1 = castle
-b_awka_2 = temple
-b_awka_3 = city
+b_yamoussoukro = castle
+b_lolobo = city
+b_zatta = temple
 
 # Misc
 culture = igbo
