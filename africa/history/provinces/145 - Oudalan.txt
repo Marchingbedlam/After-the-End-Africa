@@ -1,11 +1,10 @@
-
 # County Title
-title = c_banwa
+title = c_oudalan
 
 # Settlements
-max_settlements = 4
+max_settlements = 3
 
-b_solenzo = tribal
+b_markoye = tribal
 
 # Misc
 culture = mossi

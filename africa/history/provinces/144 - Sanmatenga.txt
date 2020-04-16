@@ -1,12 +1,10 @@
-# c_sanmatenga
-
 # County Title
 title = c_sanmatenga
 
 # Settlements
-max_settlements = 3
+max_settlements = 5
 
-b_sanmatenga = tribal
+b_kaya = tribal
 
 # Misc
 culture = mossi

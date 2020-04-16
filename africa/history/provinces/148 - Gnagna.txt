@@ -1,12 +1,10 @@
-# c_liptougou
-
 # County Title
-title = c_liptougou
+title = c_gnagna 
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_liptougou = tribal
+b_bogande = tribal
 
 # Misc
 culture = mossi

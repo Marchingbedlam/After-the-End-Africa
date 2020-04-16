@@ -1,12 +1,10 @@
-# c_fono
-
 # County Title
-title = c_fono
+title = c_gourma
 
 # Settlements
 max_settlements = 3
 
-b_fono = tribal
+b_fada_ngourma = tribal
 
 # Misc
 culture = mossi

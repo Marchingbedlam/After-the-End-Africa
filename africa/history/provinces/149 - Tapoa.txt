@@ -6,7 +6,7 @@ title = c_partiaga
 # Settlements
 max_settlements = 3
 
-b_partiaga = tribal
+b_diapaga = tribal
 
 # Misc
 culture = mossi

@@ -1,12 +1,10 @@
-# c_markoye
-
 # County Title
-title = c_markoye
+title = c_diebougou
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_markoye = tribal
+b_diebougou = tribal
 
 # Misc
 culture = mossi

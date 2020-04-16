@@ -1,12 +1,10 @@
-# c_kirikiri
-
 # County Title
-title = c_kirikiri
+title = c_comoe
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_kirikiri = tribal
+b_banfora = tribal
 
 # Misc
 culture = mossi

@@ -2,11 +2,11 @@
 title = c_wa
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_lokossa_1 = castle
-b_lokossa_2 = temple
-b_lokossa_3 = city
+b_wa = castle
+b_charia = temple
+b_kaleo = city
 
 # Misc
 culture = ewe

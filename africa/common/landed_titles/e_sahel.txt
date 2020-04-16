@@ -771,10 +771,13 @@ e_sahel = {
 				b_timbuktu = {}
 				b_bourem_inali = {}
 			}
-			c_west_gao = {
+			c_gourma_rharous = {
 				color={ 176 117 37 }
 				color2={ 255 255 255 }
 				
+				b_gourma_rharous = {}
+				b_banikane = {}
+				b_baoundo = {}
 				b_gorom = {}
 				b_dinde = {}
 				b_abdou_salem = {}
@@ -792,7 +795,7 @@ e_sahel = {
 				b_aouzourou = {}
 				b_ansongo = {}
 			}
-			c_garou = {
+			c_bandiagara = {
 				color={ 160 112 48 }
 				color2={ 255 255 255 }
 				
@@ -827,6 +830,31 @@ e_sahel = {
 				b_payona = {}
 				b_wangala = {}
 				b_diambacourou = {}
+			}
+			c_garou = {
+				color={ 151 54 25 }
+				color2={ 255 255 255 }
+				
+				b_bambara_maounde = {}
+				b_kaykay = {}
+				b_sareyamou = {}
+				b_torkya = {}
+				b_ngouma = {}
+				b_dabara = {}
+				b_sarafere = {}
+			}
+			c_dire = {
+				color={ 171 144 90 }
+				color2={ 255 255 255 }
+				
+				b_dire = {}
+				b_tonka = {}
+				b_niafunke = {}
+				b_soumpi = {}
+				b_dianke = {}
+				b_gargando = {}
+				b_mbouna = {}
+				b_goundam = {}
 			}
 			c_tenenkou = {
 				color={ 126 148 110 }
@@ -913,6 +941,66 @@ e_sahel = {
 				b_karpala = {}
 				b_kossodo = {}
 				b_ganben = {}
+			}
+			c_passore = {
+				color={ 125 111 36 }
+				color2={ 255 255 255 }
+				
+				b_yako = {}
+				b_kogola = {}
+				b_bibiou = {}
+				b_bougoule = {}
+				b_bourki = {}
+				b_koaken = {}
+				b_gourcy = {}
+			}
+			c_diebougou = {
+				color={ 124 141 111 }
+				color2={ 255 255 255 }
+				
+				b_diebougou = {}
+				b_milpo = {}
+				b_dano = {}
+				b_bondigui = {}
+				b_mougue = {}
+				b_hounde = {}
+				b_bereba = {}
+			}
+			c_bobo_dioulasso = {
+				color={ 85 115 163 }
+				color2={ 255 255 255 }
+				
+				b_bobo_dioulasso = {}
+				b_moami = {}
+				b_peni = {}
+				b_satiri = {}
+				b_larama = {}
+				b_kofila = {}
+				b_bama = {}
+			}
+			c_mouhoun = {
+				color={ 102 126 125 }
+				color2={ 255 255 255 }
+				
+				b_dedougou = {}
+				b_ouarkoy = {}
+				b_kosso = {}
+				b_pompoi = {}
+				b_da = {}
+				b_safane = {}
+				b_tiena = {}
+			}
+			c_banwa = {
+				color={ 155 192 152 }
+				color2={ 255 255 255 }
+				
+				b_solenzo = {}
+				b_tansila = {}
+				b_dokui = {}
+				b_nouna = {}
+				b_barani = {}
+				b_djibasso = {}
+				b_yallo = {}
 			}
 			c_koudougou = {
 				color={ 169 145 72 }
@@ -1067,92 +1155,80 @@ e_sahel = {
 				color={ 175 113 87 }
 				color2={ 255 255 255 }
 				
-				b_sanmatenga = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
+				b_kaya = {}
+				b_boussouma = {}
+				b_korsimoro = {}
+				b_barsalogho = {}
+				b_biyou = {}
+				b_pissila = {}
+				b_nahi = {}
 			}
-			c_fono = { # 146
+			c_komandjari = { # 146
 				color={ 156 80 48 }
 				color2={ 255 255 255 }
 				
-				b_fono = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
+				b_gayeri = {}
+				b_soferi = {}
+				b_tyena = {}
+				b_bossongri = {}
+				b_kirikiri = {}
+				b_kontiana = {}
+				b_aligaga = {}
 			}
-			c_markoye = { # 145
+			c_oudalan = { # 145
 				color={ 117 78 61 }
 				color2={ 255 255 255 }
 				
 				b_markoye = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-			}
-			c_tongomayel = { # 147
-				color={ 130 93 77 }
-				color2={ 255 255 255 }
-				
-				b_tongomayel = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
+				b_gorom_gorom = {}
+				b_oursi = {}
+				b_falagountou = {}
+				b_dori = {}
+				b_gorgadji = {}
+				b_deou = {}
 			}
 		}
 		d_gourma = {
 			color={ 172 84 69 }
 			color2={ 255 255 255 }
 			
-			capital = 148 # c_liptougou
+			capital = 148 # Gnagna
 			
-			c_liptougou = { # 148
+			c_gnagna = { # 148
 				color={ 162 94 64 }
 				color2={ 255 255 255 }
 				
-				b_liptougou = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
+				b_bogande = {}
+				b_leoura = {}
+				b_piela = {}
+				b_bilanga = {}
+				b_nindangou = {}
+				b_manni = {}
+				b_kokou = {}
 			}
-			c_kirikiri = { # 150
+			c_gourma = {
 				color={ 176 118 94 }
 				color2={ 255 255 255 }
 				
-				b_kirikiri = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
+				b_fada_ngourma = {}
+				b_tambiga = {}
+				b_yamba = {}
+				b_diabo = {}
+				b_singu = {}
+				b_pama = {}
+				b_arli = {}
 			}
-			c_partiaga = { # 149
+			c_tapoa = { # 149
 				color={ 197 117 83 }
 				color2={ 255 255 255 }
 				
 				b_partiaga = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
+				b_diapaga = {}
+				b_tansarga = {}
+				b_kantchari = {}
+				b_dibiti = {}
+				b_logobou = {}
+				b_arly = {}
 			}
 		}
 		d_tillaberi = {

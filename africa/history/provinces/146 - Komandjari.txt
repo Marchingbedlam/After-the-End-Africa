@@ -1,12 +1,10 @@
-# c_bontioli
-
 # County Title
-title = c_bontioli
+title = c_komandjari
 
 # Settlements
-max_settlements = 4
+max_settlements = 3
 
-b_bontioli = tribal
+b_gayeri = tribal
 
 # Misc
 culture = mossi

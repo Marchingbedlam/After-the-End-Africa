@@ -2,11 +2,12 @@
 title = c_bobo_dioulasso
 
 # Settlements
-max_settlements = 3
+max_settlements = 6
 
-b_allada_1 = castle
-b_allada_2 = temple
-b_allada_3 = city
+b_bobo_dioulasso = castle
+b_moami = temple
+b_larama = city
+b_kofila = city
 
 # Misc
 culture = fon

@@ -4,11 +4,9 @@
 title = c_garou
 
 # Settlements
-max_settlements = 3
+max_settlements = 2
 
-b_garou = castle
-b_garou_2 = city
-b_garou_3 = temple
+b_bambara_maounde = castle
 
 # Misc
 culture = fulbe

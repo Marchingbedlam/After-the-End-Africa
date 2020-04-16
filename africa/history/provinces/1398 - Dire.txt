@@ -1,11 +1,10 @@
-
 # County Title
-title = c_banwa
+title = c_dire
 
 # Settlements
-max_settlements = 4
+max_settlements = 6
 
-b_solenzo = tribal
+b_dire = tribal
 
 # Misc
 culture = mossi

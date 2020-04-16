@@ -1318,43 +1318,43 @@ e_guinea = {
 			color={ 227 199 35 }
 			color2={ 255 255 255 }
 			
-			capital = 138 # c_bontioli
+			capital = 138 # Comoe
 			
-			c_bontioli = { # 138
+			c_comoe = { # 138
 				color={ 237 189 40 }
 				color2={ 255 255 255 }
 				
-				b_bontioli = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
+				b_banfora = {}
+				b_mangodara = {}
+				b_koutoura = {}
+				b_kouere = {}
+				b_dandougou = {}
+				b_ouo = {}
+				b_degue_degue = {}
 			}
-			c_tumu = { # 140
+			c_ping = {
+				color={ 222 145 122 }
+				color2={ 255 255 255 }
+				
+				b_ping = {}
+				b_sabuli = {}
+				b_kanbaa = {}
+				b_lawra = {}
+				b_jeffisi = {}
+				b_desima = {}
+				b_tumu = {}
+			}
+			c_wa = {
 				color={ 255 201 0 }
 				color2={ 255 255 255 }
 				
-				b_tumu = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-			}
-			c_ouahigouya = { # 142
-				color={ 131 113 54 }
-				color2={ 255 255 255 }
-				
-				b_ouahigouya = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
+				b_wa = {}
+				b_charia = {}
+				b_siriyiri = {}
+				b_kaleo = {}
+				b_sambo = {}
+				b_mengwe = {}
+				b_baayiri = {}
 			}
 		}
 		d_mouhoun = {

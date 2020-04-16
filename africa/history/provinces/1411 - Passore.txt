@@ -1,14 +1,13 @@
 # County Title
-title = c_ping
+title = c_passore
 
 # Settlements
 max_settlements = 4
 
-b_ping = castle
-b_sabuli = temple
+b_yako = tribal
 
 # Misc
-culture = pijin
+culture = mossi
 religion = sunni
 
 #History
