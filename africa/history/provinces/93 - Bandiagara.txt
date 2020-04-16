@@ -6,6 +6,7 @@ title = c_bandiagara
 max_settlements = 3
 
 b_bandiagara = castle
+b_walia = temple
 
 # Misc
 culture = fulbe

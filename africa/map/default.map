@@ -18,7 +18,7 @@ externals = {
 }
 
 # Atlantic 1
-sea_zones = { 1500 1556 }
+sea_zones = { 1500 1559 }
 
 ocean_region = {	
 	sea_zones = { 1 } # Atlantic/Indian Ocean

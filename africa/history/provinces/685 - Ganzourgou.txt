@@ -1,0 +1,15 @@
+# County Title
+title = c_ganzougou
+
+# Settlements
+max_settlements = 4
+
+b_zorgho = castle
+b_mogtedo = temple
+b_meguet = city
+
+# Misc
+culture = yoruba
+religion = anglican #yoruba
+
+#History

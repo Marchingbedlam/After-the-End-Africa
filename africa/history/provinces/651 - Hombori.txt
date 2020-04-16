@@ -4,9 +4,8 @@ title = c_hombori
 # Settlements
 max_settlements = 3
 
-b_birnin_konni_1 = castle
-b_birnin_konni_2 = temple
-b_birnin_konni_3 = city
+b_hombori = castle
+b_kormi = temple
 
 # Misc
 culture = hausa

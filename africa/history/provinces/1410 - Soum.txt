@@ -1,15 +1,13 @@
 # County Title
-title = c_koro
+title = c_soum
 
 # Settlements
 max_settlements = 4
 
-b_koro = castle
-b_bankass = city
-b_yadianga = temple
+b_djibo = tribal
 
 # Misc
-culture = fulbe
+culture = mossi
 religion = sunni
 
 #History

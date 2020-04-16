@@ -3,9 +3,9 @@
 title = c_yatenga
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_tongomayel = tribal
+b_ouahigouya = tribal
 
 # Misc
 culture = mossi

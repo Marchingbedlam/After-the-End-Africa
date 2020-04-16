@@ -1,0 +1,15 @@
+# County Title
+title = c_sissili
+
+# Settlements
+max_settlements = 4
+
+b_leo = castle
+b_poin = temple
+b_dangue = city
+
+# Misc
+culture = fon
+religion = catholic
+
+#History

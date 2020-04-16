@@ -1,0 +1,15 @@
+# County Title
+title = c_boulgou
+
+# Settlements
+max_settlements = 4
+
+b_tenkdogo = castle
+b_bane = city
+b_sangha = temple
+
+# Misc
+culture = manding
+religion = sunni
+
+#History

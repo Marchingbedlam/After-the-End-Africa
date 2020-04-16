@@ -1,11 +1,11 @@
 # County Title
-title = c_gao
+title = c_west_gao
 
 # Settlements
-max_settlements = 3
+max_settlements = 2
 
-b_gao = castle
-b_bourem = city
+b_gorom = castle
+b_dinde = city
 
 # Misc
 culture = tuareg

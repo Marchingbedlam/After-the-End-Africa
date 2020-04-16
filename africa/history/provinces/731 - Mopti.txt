@@ -4,11 +4,11 @@
 title = c_mopti
 
 # Settlements
-max_settlements = 3
+max_settlements = 5
 
 b_mopti = castle
-b_mopti_2 = city
-b_mopti_3 = temple
+b_manako = city
+b_barkinelbi = temple
 
 # Misc
 culture = fulbe

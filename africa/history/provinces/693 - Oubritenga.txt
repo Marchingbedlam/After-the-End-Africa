@@ -1,0 +1,15 @@
+# County Title
+title = c_oubritenga
+
+# Settlements
+max_settlements = 4
+
+b_ziniare = castle
+b_dapelogo = temple
+b_masre = city
+
+# Misc
+culture = yoruba
+religion = anglican #yoruba
+
+#History

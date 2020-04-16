@@ -1,15 +1,14 @@
 # County Title
-title = c_koro
+title = c_zoundweogo
 
 # Settlements
 max_settlements = 4
 
-b_koro = castle
-b_bankass = city
-b_yadianga = temple
+b_manga = castle
+b_nobere = city
 
 # Misc
-culture = fulbe
+culture = manding
 religion = sunni
 
 #History

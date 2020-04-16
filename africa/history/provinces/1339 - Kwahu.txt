@@ -1,0 +1,15 @@
+# County Title
+title = c_kwahu
+
+# Settlements
+max_settlements = 4
+
+b_nkawkaw = city
+b_atibie = castle
+b_obomeng = temple
+
+# Misc
+culture = ga
+religion = anglican
+
+#History

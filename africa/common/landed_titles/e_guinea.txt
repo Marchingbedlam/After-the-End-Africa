@@ -1332,37 +1332,11 @@ e_guinea = {
 				b_ = {}
 				b_ = {}
 			}
-			c_ouagadougou = { # 139
-				color={ 207 186 116 }
-				color2={ 255 255 255 }
-				
-				b_ouagadougou = {}
-				b_pissy = {}
-				b_kosyam = {}
-				b_bangre = {}
-				b_kilwin = {}
-				b_sandogo = {}
-				b_karpala = {}
-				b_kossodo = {}
-				b_ganben = {}
-			}
 			c_tumu = { # 140
 				color={ 255 201 0 }
 				color2={ 255 255 255 }
 				
 				b_tumu = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-			}
-			c_koudoungou = { # 141
-				color={ 169 145 72 }
-				color2={ 255 255 255 }
-				
-				b_koudoungou = {}
 				b_ = {}
 				b_ = {}
 				b_ = {}
@@ -1579,6 +1553,18 @@ e_guinea = {
 				b_oterkpalu = {}
 				b_sikaben = {}
 				b_hlum = {}
+			}
+			c_kwahu = {
+				color={ 165 142 72 }
+				color2={ 255 255 255 }
+				
+				b_nkawkaw = {}
+				b_atibie = {}
+				b_obomeng = {}
+				b_mpraeso = {}
+				b_nkwatia = {}
+				b_jejeti = {}
+				b_kwahu_tafo = {}
 			}
 			c_sekyere = {
 				color={ 116 158 110 }

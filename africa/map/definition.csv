@@ -95,7 +95,7 @@ province;red;green;blue;x;x
 94;157;107;39;Koro;x
 95;157;118;64;Gourma Rharous;x
 96;160;112;48;Garou;x
-97;176;117;37;Ansongo;x
+97;176;117;37;West Gao;x
 98;112;165;19;Soubre;x
 99;98;150;4;San-Pedro;x
 100;125;180;26;Sassandra;x
@@ -117,7 +117,7 @@ province;red;green;blue;x;x
 116;128;171;22;Boundiali;x
 117;106;136;34;Denguele;x
 118;66;84;24;Worodougou;x
-119;151;124;39;Elmini;x
+119;151;124;39;Cape Coast;x
 120;194;160;52;Sunyani;x
 121;122;105;51;Nzema;x
 122;220;190;96;Kojina;x
@@ -1555,9 +1555,9 @@ province;red;green;blue;x;x
 1554;18;222;187;Red Sea;x
 1555;2;181;161;Arabian Coast;x
 1556;144;205;183;Sudanese Coast;x
-1557;;;;;x
-1558;;;;;x
-1559;;;;;x
+1557;144;242;192;Seychelles;x
+1558;42;209;131;Seychelles;x
+1559;54;168;131;Seychelles;x
 1560;;;;;x
 1561;;;;;x
 1562;;;;;x
