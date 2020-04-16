@@ -1,10 +1,10 @@
 # County Title
-title = c_mfoundi
+title = c_yaounde
 
 # Settlements
 max_settlements = 3
 
-b_mfoundi = castle
+b_yaounde = castle
 
 # Misc
 culture = kpelle

@@ -4,7 +4,7 @@ title = c_nyong_et_soo
 # Settlements
 max_settlements = 3
 
-b_nyong_et_soo = castle
+b_mbalmayo = castle
 
 # Misc
 culture = kpelle

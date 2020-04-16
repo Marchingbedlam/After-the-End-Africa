@@ -4,7 +4,7 @@ title = c_ocean
 # Settlements
 max_settlements = 3
 
-b_ocean = castle
+b_kribi = castle
 
 # Misc
 culture = kpelle

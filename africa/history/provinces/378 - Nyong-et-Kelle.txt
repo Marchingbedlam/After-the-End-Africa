@@ -1,10 +1,10 @@
 # County Title
-title = c_ebolowa
+title = c_nyong_et_kelle
 
 # Settlements
 max_settlements = 3
 
-b_nde = castle
+b_eseka = castle
 
 # Misc
 culture = kpelle

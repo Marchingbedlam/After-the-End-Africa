@@ -1,10 +1,10 @@
 # County Title
-title = c_kelle
+title = c_nyong_et_mfoumou
 
 # Settlements
 max_settlements = 3
 
-b_kelle = castle
+b_akonolinga = castle
 
 # Misc
 culture = kpelle

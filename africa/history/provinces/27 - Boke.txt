@@ -1,0 +1,14 @@
+# County Title
+title = c_boke
+
+# Settlements
+max_settlements = 3
+
+b_boke_GN = castle
+b_bintimodiya_GN = city
+
+# Misc
+culture = guinensi
+religion = catholic
+
+#History

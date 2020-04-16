@@ -1,10 +1,10 @@
 # County Title
-title = c_edea
+title = c_mvila
 
 # Settlements
 max_settlements = 3
 
-b_sanaga_maritime = castle
+b_ebolowa = castle
 
 # Misc
 culture = kpelle

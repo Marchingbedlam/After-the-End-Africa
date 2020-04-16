@@ -1,10 +1,10 @@
 # County Title
-title = c_mfoumou
+title = c_ebolowa
 
 # Settlements
 max_settlements = 3
 
-b_mfoumou = castle
+b_ambam = castle
 
 # Misc
 culture = kpelle

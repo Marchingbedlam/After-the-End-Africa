@@ -4,7 +4,7 @@ title = c_moungo
 # Settlements
 max_settlements = 3
 
-b_moungo = castle
+b_loum = castle
 
 # Misc
 culture = kpelle

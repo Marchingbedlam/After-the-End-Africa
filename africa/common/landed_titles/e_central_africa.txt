@@ -64,11 +64,11 @@ e_central_africa = {
 
 				b_faro = {}
 			}
-			c_rey = {
+			c_mayo_rey = {
 				color={ 197 170 255 }
 				color2={ 255 255 255 }
 
-				b_rey = {}
+				b_tchollire = {}
 			}
 		}
 		d_adamawa = {
@@ -140,6 +140,24 @@ e_central_africa = {
 
 				b_nki_bek = {}
 			}
+			c_bertoua = {
+				color={ 121 224 251 }
+				color2={ 255 255 255 }
+
+				b_bertoua = {}
+			}
+			c_yokadouma = {
+				color={ 172 222 156 }
+				color2={ 255 255 255 }
+
+				b_yokadouma = {}
+			}
+			c_batouri = {
+				color={ 171 227 224 }
+				color2={ 255 255 255 }
+
+				b_batouri = {}
+			}
 		}
 		d_campo = {
 			color={ 100 200 150 }
@@ -149,19 +167,49 @@ e_central_africa = {
 				color={ 137 255 147 }
 				color2={ 255 255 255 }
 
-				b_dja_et_lobo = {}
+				b_sangmelima = {}
+				b_oding = {}
+				b_olounou = {}
+				b_mbouma = {}
+				b_djoum = {}
+				b_nkpwang = {}
+				b_oveng = {}
 			}
 			c_mvila = {
 				color={ 54 188 132 }
 				color2={ 255 255 255 }
 
-				b_mvila = {}
+				b_ebolowa = {}
+				b_efoulan = {}
+				b_melangue = {}
+				b_nemeyong = {}
+				b_akom = {}
+				b_assosseng = {}
+				b_mvangue = {}
+			}
+			c_valee_du_ntem = {
+				color={ 54 188 132 }
+				color2={ 255 255 255 }
+
+				b_ambam = {}
+				b_mbout = {}
+				b_maan = {}
+				b_byane = {}
+				b_messama = {}
+				b_mefo = {}
+				b_aban_minkoo = {}
 			}
 			c_ocean = {
 				color={ 95 206 160 }
 				color2={ 255 255 255 }
 
-				b_ocean = {}
+				b_kribi = {}
+				b_grand_batanga = {}
+				b_lohendje = {}
+				b_adjap = {}
+				b_fifinda = {}
+				b_londgi = {}
+				b_asouk = {}
 			}
 		}
 		d_sanaga = {
@@ -203,29 +251,53 @@ e_central_africa = {
 			color={ 80 80 20 }
 			color2={ 255 255 255 }
 		
-			c_mfoundi = {
+			c_yaounde = {
 				color={ 255 212 145 }
 				color2={ 255 255 255 }
 
-				b_mfoundi = {}
+				b_yaounde = {}
+				b_mbankomo = {}
+				b_soa = {}
+				b_lebot = {}
+				b_nkolafamba = {}
+				b_mfou = {}
+				b_akono = {}
 			}
 			c_nyong_et_soo = {
 				color={ 255 195 0 }
 				color2={ 255 255 255 }
 
-				b_nyong_et_soo = {}
+				b_mbalmayo = {}
+				b_mangueme = {}
+				b_biwong_bane = {}
+				b_ngomedzap = {}
+				b_nkolbewa = {}
+				b_abang = {}
+				b_nkolmetat = {}
 			}
-			c_mfoumou = {
+			c_nyong_et_mfoumou = {
 				color={ 255 136 0 }
 				color2={ 255 255 255 }
 
-				b_mfoumou = {}
+				b_akonolinga = {}
+				b_abem = {}
+				b_mfoumassi = {}
+				b_ekoua = {}
+				b_emini = {}
+				b_ayos = {}
+				b_endom = {}
 			}
-			c_kelle = {
+			c_nyong_et_kelle = {
 				color={ 255 231 17 }
 				color2={ 255 255 255 }
 
-				b_kelle = {}
+				b_eseka = {}
+				b_messondo = {}
+				b_biyouha = {}
+				b_mandjog = {}
+				b_bot_makak = {}
+				b_matomb = {}
+				b_boumnyebel = {}
 			}
 		}
 		d_wouri = {
@@ -236,25 +308,37 @@ e_central_africa = {
 				color={ 193 88 13 }
 				color2={ 255 255 255 }
 
-				b_sanaga_maritime = {}
-			}
-			c_nkam = {
-				color={ 158 69 78 }
-				color2={ 255 255 255 }
-
-				b_nkam = {}
+				b_edea = {}
+				b_mouanko = {}
+				b_dizangue = {}
+				b_makondo = {}
+				b_pouma = {}
+				b_ngambe = {}
+				b_menges = {}
 			}
 			c_moungo = {
 				color={ 229 134 66 }
 				color2={ 255 255 255 }
 
-				b_moungo = {}
+				b_loum = {}
+				b_kumba = {}
+				b_muyuka = {}
+				b_mbanga = {}
+				b_ekona = {}
+				b_nkongsamba = {}
+				b_melong = {}
 			}
 			c_douala = {
 				color={ 158 92 45 }
 				color2={ 255 255 255 }
 
 				b_douala = {}
+				b_bonaberi = {}
+				b_bomono = {}
+				b_dibombari = {}
+				b_nkapa = {}
+				b_kompina = {}
+				b_deido = {}
 			}
 		}
 		d_tsugning = {
@@ -296,6 +380,18 @@ e_central_africa = {
 				color2={ 255 255 255 }
 
 				b_massangam = {}
+			}
+			c_bafoussam = {
+				color={ 69 221 85 }
+				color2={ 255 255 255 }
+
+				b_bafoussam = {}
+			}
+			c_kumbo = {
+				color={ 52 155 25 }
+				color2={ 255 255 255 }
+
+				b_kumbo = {}
 			}
 		}
 	}
