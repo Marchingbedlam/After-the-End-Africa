@@ -2,11 +2,11 @@
 title = c_amenfi
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_agbor_1 = castle
-b_agbor_2 = temple
-b_agbor_3 = city
+b_achichere = castle
+b_pensanom = temple
+b_beposo = city
 
 # Misc
 culture = urhobo

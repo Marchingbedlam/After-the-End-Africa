@@ -1,12 +1,10 @@
-# c_bolgatanga
-
 # County Title
-title = c_bolgatanga
+title = c_east_gonja
 
 # Settlements
 max_settlements = 4
 
-b_bolgatanga = tribal
+b_salaga = tribal
 
 # Misc
 culture = dagomba

@@ -4,9 +4,9 @@
 title = c_worodougou
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_worodougou = tribal
+b_seguela = tribal
 
 # Misc
 culture = manding

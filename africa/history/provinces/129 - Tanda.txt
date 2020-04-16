@@ -1,12 +1,13 @@
+
 # County Title
-title = c_kojina
+title = c_tanda
 
 # Settlements
 max_settlements = 4
 
-b_kojina = castle
-b_buaku = city
-b_kwafukaa = temple
+b_tanda = castle
+b_sandeque = city
+b_sanlo = temple
 
 # Misc
 culture = asante

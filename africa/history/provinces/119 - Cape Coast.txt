@@ -1,0 +1,15 @@
+# County Title
+title = c_cape_coast
+
+# Settlements
+max_settlements = 5
+
+b_cape_coast = castle
+b_mankessim = city
+b_agona_swedru = temple
+
+# Misc
+culture = fante
+religion = anglican
+
+#History

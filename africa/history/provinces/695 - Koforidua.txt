@@ -1,0 +1,15 @@
+# County Title
+title = c_koforidua
+
+# Settlements
+max_settlements = 5
+
+b_koforidua = castle
+b_nkurakan = temple
+b_amanase = city
+
+# Misc
+culture = yoruba
+religion = anglican #yoruba
+
+#History

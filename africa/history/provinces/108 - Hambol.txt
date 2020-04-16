@@ -1,12 +1,11 @@
-# c_kong
 
 # County Title
-title = c_kong
+title = c_hambol
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_kong = tribal
+b_niakaramandougou = tribal
 
 # Misc
 culture = senufo

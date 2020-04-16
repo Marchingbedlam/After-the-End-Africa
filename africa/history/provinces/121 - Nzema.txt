@@ -1,15 +1,15 @@
 # County Title
-title = c_kojina
+title = c_nzema
 
 # Settlements
 max_settlements = 4
 
-b_kojina = castle
-b_buaku = city
-b_kwafukaa = temple
+b_nzulezu = castle
+b_ahobre = city
+b_kanga = temple
 
 # Misc
-culture = asante
+culture = fante
 religion = anglican
 
 #History

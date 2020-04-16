@@ -4,11 +4,12 @@
 title = c_accra
 
 # Settlements
-max_settlements = 3
+max_settlements = 6
 
 b_accra = city
-b_accra_2 = city
-b_accra_3 = temple
+b_tema = castle
+b_madina = temple
+b_lapaz = city
 
 # Misc
 culture = ga

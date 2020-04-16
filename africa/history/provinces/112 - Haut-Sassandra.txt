@@ -2,11 +2,10 @@
 title = c_haut_sassandra
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_seguela = castle
-b_kato = city
-b_kani = temple
+b_daloa = castle
+b_vavoua = city
 
 # Misc
 culture = kru

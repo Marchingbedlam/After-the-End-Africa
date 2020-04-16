@@ -1,12 +1,12 @@
 # County Title
-title = c_kojina
+title = c_afram_plains
 
 # Settlements
 max_settlements = 4
 
-b_kojina = castle
-b_buaku = city
-b_kwafukaa = temple
+b_donkorkrom = castle
+b_tease = city
+b_dedeso = temple
 
 # Misc
 culture = asante

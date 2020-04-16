@@ -1,12 +1,11 @@
-# c_bawku
 
 # County Title
-title = c_bawku
+title = c_kpendjal
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_bawku = tribal
+b_mandouri = tribal
 
 # Misc
 culture = dagomba

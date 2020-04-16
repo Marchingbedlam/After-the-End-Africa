@@ -103,7 +103,7 @@ province;red;green;blue;x;x
 102;91;141;0;Abidjan;x
 103;113;139;60;Agboville;x
 104;99;135;29;Aboisso;x
-105;114;157;35;M'Bahiakro;x
+105;114;157;35;MBahiakro;x
 106;89;128;15;Indenie-Djuablin;x
 107;103;124;41;NZi;x
 108;108;136;39;Hambol;x
@@ -119,11 +119,11 @@ province;red;green;blue;x;x
 118;66;84;24;Worodougou;x
 119;151;124;39;Elmini;x
 120;194;160;52;Sunyani;x
-121;122;105;51;Nzulezo;x
+121;122;105;51;Nzema;x
 122;220;190;96;Kojina;x
 123;167;141;57;Kumasi;x
 124;185;151;45;Atakampe;x
-125;122;104;45;Digya;x
+125;122;104;45;Afram Plains;x
 126;131;107;29;Todzie;x
 127;143;128;80;Accra;x
 128;111;91;27;Kintampo;x
@@ -135,7 +135,7 @@ province;red;green;blue;x;x
 134;146;116;25;Yendi;x
 135;169;141;51;Mamprusi;x
 136;197;173;94;Bolgatanga;x
-137;138;122;71;Bawku;x
+137;138;122;71;Kpendjal;x
 138;237;189;40;Bontioli;x
 139;207;186;116;Ouagadougou;x
 140;255;201;0;Tumu;x

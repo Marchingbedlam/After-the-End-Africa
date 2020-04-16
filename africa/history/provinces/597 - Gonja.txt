@@ -1,12 +1,10 @@
-# c_salaga
-
 # County Title
-title = c_salaga
+title = c_gonja
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_salaga = tribal
+b_buipe = tribal
 
 # Misc
 culture = dagomba

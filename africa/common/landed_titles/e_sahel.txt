@@ -453,8 +453,12 @@ e_sahel = {
 				color2={ 255 255 255 }
 				
 				b_kita = {}
-				b_kita_2 = {}
-				b_kita_3 = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
 			}
 			c_bafoulabe = { # 79
 				color={ 161 137 62 }
@@ -469,16 +473,24 @@ e_sahel = {
 				color2={ 255 255 255 }
 				
 				b_diema = {}
-				b_diema_2 = {}
-				b_diema_3 = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
 			}
 			c_kayes = { # 77
 				color={ 173 143 52 }
 				color2={ 255 255 255 }
 				
 				b_kayes = {}
-				b_kayes_2 = {}
-				b_kayes_3 = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
 			}
 		}
 		d_bamako = {
@@ -534,18 +546,6 @@ e_sahel = {
 				b_zeguere = {}
 				b_toutiala = {}
 				b_kidiana = {}
-			}
-			c_denguele = {
-				color={ 121 152 56 }
-				color2={ 255 255 255 }
-				
-				b_odienne = {}
-				b_zievaso = {}
-				b_tieme = {}
-				b_kimbirila = {}
-				b_samatiglia = {}
-				b_mafele = {}
-				b_goulia = {}
 			}
 			c_dioila = {
 				color={ 191 167 88 }
@@ -640,16 +640,24 @@ e_sahel = {
 				color2={ 255 255 255 }
 				
 				b_banamba = {}
-				b_banamba_2 = {}
-				b_banamba_3 = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
 			}
 			c_kolokani = { # 81
 				color={ 131 105 21 }
 				color2={ 255 255 255 }
 				
 				b_kolokani = {}
-				b_kolokani_2 = {}
-				b_kolokani_3 = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
 			}
 		}
 		d_segou = {
@@ -773,48 +781,72 @@ e_sahel = {
 				color2={ 255 255 255 }
 				
 				b_timbuktu = {}
-				b_timbuktu_2 = {}
-				b_timbuktu_3 = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
 			}
 			c_ansongo = { # 97
 				color={ 176 117 37 }
 				color2={ 255 255 255 }
 				
 				b_ansongo = {}
-				b_ansongo_2 = {}
-				b_ansongo_3 = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
 			}
 			c_gao = { # 95
 				color={ 157 118 64 }
 				color2={ 255 255 255 }
 				
 				b_gao = {}
-				b_gao_2 = {}
-				b_gao_3 = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
 			}
 			c_garou = { # 96
 				color={ 160 112 48 }
 				color2={ 255 255 255 }
 				
 				b_garou = {}
-				b_garou_2 = {}
-				b_garou_3 = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
 			}
 			c_mandoro = { # 94
 				color={ 157 107 39 }
 				color2={ 255 255 255 }
 				
 				b_mandoro = {}
-				b_mandoro_2 = {}
-				b_mandoro_3 = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
 			}
 			c_mopti = { # 93
 				color={ 133 98 50 }
 				color2={ 255 255 255 }
 				
 				b_mopti = {}
-				b_mopti_2 = {}
-				b_mopti_3 = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
 			}
 		}
 		d_kidal = {
@@ -898,32 +930,48 @@ e_sahel = {
 				color2={ 255 255 255 }
 				
 				b_sanmatenga = {}
-				b_sanmatenga_2 = {}
-				b_sanmatenga_3 = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
 			}
 			c_fono = { # 146
 				color={ 156 80 48 }
 				color2={ 255 255 255 }
 				
 				b_fono = {}
-				b_fono_2 = {}
-				b_fono_3 = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
 			}
 			c_markoye = { # 145
 				color={ 117 78 61 }
 				color2={ 255 255 255 }
 				
 				b_markoye = {}
-				b_markoye_2 = {}
-				b_markoye_3 = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
 			}
 			c_tongomayel = { # 147
 				color={ 130 93 77 }
 				color2={ 255 255 255 }
 				
 				b_tongomayel = {}
-				b_tongomayel_2 = {}
-				b_tongomayel_3 = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
 			}
 		}
 		d_gourma = {
@@ -937,24 +985,36 @@ e_sahel = {
 				color2={ 255 255 255 }
 				
 				b_liptougou = {}
-				b_liptougou_2 = {}
-				b_liptougou_3 = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
 			}
 			c_kirikiri = { # 150
 				color={ 176 118 94 }
 				color2={ 255 255 255 }
 				
 				b_kirikiri = {}
-				b_kirikiri_2 = {}
-				b_kirikiri_3 = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
 			}
 			c_partiaga = { # 149
 				color={ 197 117 83 }
 				color2={ 255 255 255 }
 				
 				b_partiaga = {}
-				b_partiaga_2 = {}
-				b_partiaga_3 = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
 			}
 		}
 		d_tillaberi = {
@@ -1844,36 +1904,72 @@ e_sahel = {
 				color2={ 255 255 255 }
 
 				b_logone_et_chari = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
 			}
 			c_sava = {
 				color={ 175 174 72 }
 				color2={ 255 255 255 }
 
 				b_sava = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
 			}
 			c_tsanaga = {
 				color={ 239 219 165 }
 				color2={ 255 255 255 }
 
 				b_tsanaga = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
 			}
 			c_diamare = {
 				color={ 239 229 115 }
 				color2={ 255 255 255 }
 
 				b_diamare = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
 			}
 			c_kani = {
 				color={ 253 255 193 }
 				color2={ 255 255 255 }
 
 				b_kani = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
 			}
 			c_danay = {
 				color={ 255 255 150 }
 				color2={ 255 255 255 }
 
 				b_danay = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
+				b_ = {}
 			}
 		}
 		d_guera = {

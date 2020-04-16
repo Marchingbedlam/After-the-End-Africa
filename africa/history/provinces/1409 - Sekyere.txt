@@ -1,12 +1,12 @@
 # County Title
-title = c_assin
+title = c_sekyere
 
 # Settlements
 max_settlements = 4
 
-b_dunkwa_on_offin = castle
-b_agyempoma = temple
-b_twifo_praso = city
+b_aframso = castle
+b_ejura = temple
+b_nsuta = city
 
 # Misc
 culture = pijin
