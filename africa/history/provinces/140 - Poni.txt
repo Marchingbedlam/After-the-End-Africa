@@ -1,12 +1,10 @@
-# c_tumu
-
 # County Title
-title = c_tumu
+title = c_poni
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_tumu = tribal
+b_gaoua = tribal
 
 # Misc
 culture = mossi

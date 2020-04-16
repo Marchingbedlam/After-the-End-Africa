@@ -1,7 +1,5 @@
-# c_partiaga
-
 # County Title
-title = c_partiaga
+title = c_tapoa
 
 # Settlements
 max_settlements = 3

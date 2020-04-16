@@ -1332,6 +1332,18 @@ e_guinea = {
 				b_ouo = {}
 				b_degue_degue = {}
 			}
+			c_poni = {
+				color={ 156 121 26 }
+				color2={ 255 255 255 }
+				
+				b_gaoua = {}
+				b_kampti = {}
+				b_bobeta = {}
+				b_wiho = {}
+				b_kanba = {}
+				b_nako = {}
+				b_loropeni = {}
+			}
 			c_ping = {
 				color={ 222 145 122 }
 				color2={ 255 255 255 }
