@@ -14,45 +14,33 @@ e_nigeria = {
 					color={ 108 179 173 }
 					color2={ 255 255 255 }
 					
-					b_bali_1 = {
-					}
-					b_bali_2 = {
-					}
-					b_bali_3 = {
-					}
+					b_bali_1 = {}
+					b_bali_2 = {}
+					b_bali_3 = {}
 				}
 				c_ganye = {
 					color={ 53 106 132 }
 					color2={ 255 255 255 }
 					
-					b_ganye_1 = {
-					}
-					b_ganye_2 = {
-					}
-					b_ganye_3 = {
-					}
+					b_ganye_1 = {}
+					b_ganye_2 = {}
+					b_ganye_3 = {}
 				}
 				c_gembu = {
 					color={ 105 142 169 }
 					color2={ 255 255 255 }
 					
-					b_gembu_1 = {
-					}
-					b_gembu_2 = {
-					}
-					b_gembu_3 = {
-					}
+					b_gembu_1 = {}
+					b_gembu_2 = {}
+					b_gembu_3 = {}
 				}
 				c_serti = {
 					color={ 82 154 173 }
 					color2={ 255 255 255 }
 					
-					b_serti_1 = {
-					}
-					b_serti_2 = {
-					}
-					b_serti_3 = {
-					}
+					b_serti_1 = {}
+					b_serti_2 = {}
+					b_serti_3 = {}
 				}
 		}
 		d_jalingo = {
@@ -63,45 +51,33 @@ e_nigeria = {
 					color={ 75 149 195 }
 					color2={ 255 255 255 }
 					
-					b_jalingo_1 = {
-					}
-					b_jalingo_2 = {
-					}
-					b_jalingo_3 = {
-					}
+					b_jalingo_1 = {}
+					b_jalingo_2 = {}
+					b_jalingo_3 = {}
 				}
 				c_lau = {
 					color={ 119 149 148 }
 					color2={ 255 255 255 }
 					
-					b_lau_1 = {
-					}
-					b_lau_2 = {
-					}
-					b_lau_3 = {
-					}
+					b_lau_1 = {}
+					b_lau_2 = {}
+					b_lau_3 = {}
 				}
 				c_zing = {
 					color={ 75 149 147 }
 					color2={ 255 255 255 }
 					
-					b_zing_1 = {
-					}
-					b_zing_2 = {
-					}
-					b_zing_3 = {
-					}
+					b_zing_1 = {}
+					b_zing_2 = {}
+					b_zing_3 = {}
 				}
 				c_numan = {
 					color={ 79 109 148 }
 					color2={ 255 255 255 }
 					
-					b_numan_1 = {
-					}
-					b_numan_2 = {
-					}
-					b_numan_3 = {
-					}
+					b_numan_1 = {}
+					b_numan_2 = {}
+					b_numan_3 = {}
 				}
 		}
 		d_taraba = {
@@ -112,34 +88,25 @@ e_nigeria = {
 					color={ 82 104 132 }
 					color2={ 255 255 255 }
 					
-					b_wukari_1 = {
-					}
-					b_wukari_2 = {
-					}
-					b_wukari_3 = {
-					}
+					b_wukari_1 = {}
+					b_wukari_2 = {}
+					b_wukari_3 = {}
 				}
 				c_takum = {
 					color={ 86 142 139 }
 					color2={ 255 255 255 }
 					
-					b_takum_1 = {
-					}
-					b_takum_2 = {
-					}
-					b_takum_3 = {
-					}
+					b_takum_1 = {}
+					b_takum_2 = {}
+					b_takum_3 = {}
 				}
 				c_mutum_biyu = {
 					color={ 89 110 148 }
 					color2={ 255 255 255 }
 					
-					b_mutum_biyu_1 = {
-					}
-					b_mutum_biyu_2 = {
-					}
-					b_mutum_biyu_3 = {
-					}
+					b_mutum_biyu_1 = {}
+					b_mutum_biyu_2 = {}
+					b_mutum_biyu_3 = {}
 				}
 		}
 		d_yola = {
@@ -150,34 +117,25 @@ e_nigeria = {
 					color={ 39 118 167 }
 					color2={ 255 255 255 }
 					
-					b_yola_1 = {
-					}
-					b_yola_2 = {
-					}
-					b_yola_3 = {
-					}
+					b_yola_1 = {}
+					b_yola_2 = {}
+					b_yola_3 = {}
 				}
 				c_girei = {
 					color={ 76 107 126 }
 					color2={ 255 255 255 }
 					
-					b_girei_1 = {
-					}
-					b_girei_2 = {
-					}
-					b_girei_3 = {
-					}
+					b_girei_1 = {}
+					b_girei_2 = {}
+					b_girei_3 = {}
 				}
 				c_mubi = {
 					color={ 58 96 126 }
 					color2={ 255 255 255 }
 					
-					b_mubi_1 = {
-					}
-					b_mubi_2 = {
-					}
-					b_mubi_3 = {
-					}
+					b_mubi_1 = {}
+					b_mubi_2 = {}
+					b_mubi_3 = {}
 				}
 		}
 	}
@@ -199,45 +157,33 @@ e_nigeria = {
 					color={ 113 109 161 }
 					color2={ 255 255 255 }
 					
-					b_kandi_1 = {
-					}
-					b_kandi_2 = {
-					}
-					b_kandi_3 = {
-					}
+					b_kandi_1 = {}
+					b_kandi_2 = {}
+					b_kandi_3 = {}
 				}
 				c_malanville = { #673
 					color={ 135 145 208 }
 					color2={ 255 255 255 }
 					
-					b_malanville_1 = {
-					}
-					b_malanville_2 = {
-					}
-					b_malanville_3 = {
-					}
+					b_malanville_1 = {}
+					b_malanville_2 = {}
+					b_malanville_3 = {}
 				}
 				c_segbana = { #676
 					color={ 135 116 120 }
 					color2={ 255 255 255 }
 					
-					b_segbana_1 = {
-					}
-					b_segbana_2 = {
-					}
-					b_segbana_3 = {
-					}
+					b_segbana_1 = {}
+					b_segbana_2 = {}
+					b_segbana_3 = {}
 				}
 				c_banikoara = { #677
 					color={ 90 71 151 }
 					color2={ 255 255 255 }
 					
-					b_banikoara_1 = {
-					}
-					b_banikoara_2 = {
-					}
-					b_banikoara_3 = {
-					}
+					b_banikoara_1 = {}
+					b_banikoara_2 = {}
+					b_banikoara_3 = {}
 				}
 		}
 			
@@ -251,34 +197,25 @@ e_nigeria = {
 					color={ 135 113 189 }
 					color2={ 255 255 255 }
 					
-					b_bussa_1 = {
-					}
-					b_bussa_2 = {
-					}
-					b_bussa_3 = {
-					}
+					b_bussa_1 = {}
+					b_bussa_2 = {}
+					b_bussa_3 = {}
 				}
 				c_kaiama = { #674
 					color={ 126 88 124 }
 					color2={ 255 255 255 }
 					
-					b_kaiama_1 = {
-					}
-					b_kaiama_2 = {
-					}
-					b_kaiama_3 = {
-					}
+					b_kaiama_1 = {}
+					b_kaiama_2 = {}
+					b_kaiama_3 = {}
 				}
 				c_busuru = { #675
 					color={ 135 129 157 }
 					color2={ 255 255 255 }
 					
-					b_busuru_1 = {
-					}
-					b_busuru_2 = {
-					}
-					b_busuru_3 = {
-					}
+					b_busuru_1 = {}
+					b_busuru_2 = {}
+					b_busuru_3 = {}
 				}
 		}
 			
@@ -292,34 +229,25 @@ e_nigeria = {
 					color={ 139 110 148 }
 					color2={ 255 255 255 }
 					
-					b_nikki_1 = {
-					}
-					b_nikki_2 = {
-					}
-					b_nikki_3 = {
-					}
+					b_nikki_1 = {}
+					b_nikki_2 = {}
+					b_nikki_3 = {}
 				}
 				c_bembereke = { #679
 					color={ 168 108 176 }
 					color2={ 255 255 255 }
 					
-					b_bembereke_1 = {
-					}
-					b_bembereke_2 = {
-					}
-					b_bembereke_3 = {
-					}
+					b_bembereke_1 = {}
+					b_bembereke_2 = {}
+					b_bembereke_3 = {}
 				}
 				c_gougougon = { #678
 					color={ 106 116 176 }
 					color2={ 255 255 255 }
 					
-					b_gougougon_1 = {
-					}
-					b_gougougon_2 = {
-					}
-					b_gougougon_3 = {
-					}
+					b_gougougon_1 = {}
+					b_gougougon_2 = {}
+					b_gougougon_3 = {}
 				}
 		}
 			
@@ -333,34 +261,25 @@ e_nigeria = {
 					color={ 129 135 181 }
 					color2={ 255 255 255 }
 					
-					b_parakou_1 = {
-					}
-					b_parakou_2 = {
-					}
-					b_parakou_3 = {
-					}
+					b_parakou_1 = {}
+					b_parakou_2 = {}
+					b_parakou_3 = {}
 				}
 				c_perere = { #680
 					color={ 113 106 142 }
 					color2={ 255 255 255 }
 					
-					b_perere_1 = {
-					}
-					b_perere_2 = {
-					}
-					b_perere_3 = {
-					}
+					b_perere_1 = {}
+					b_perere_2 = {}
+					b_perere_3 = {}
 				}
 				c_djougou = { #613
 					color={ 100 110 138 }
 					color2={ 255 255 255 }
 					
-					b_djougou_1 = {
-					}
-					b_djougou_2 = {
-					}
-					b_djougou_3 = {
-					}
+					b_djougou_1 = {}
+					b_djougou_2 = {}
+					b_djougou_3 = {}
 				}
 		}
 	}
@@ -380,45 +299,33 @@ e_nigeria = {
 					color={ 93 148 154 }
 					color2={ 255 255 255 }
 					
-					b_bauchi_1 = {
-					}
-					b_bauchi_2 = {
-					}
-					b_bauchi_3 = {
-					}
+					b_bauchi_1 = {}
+					b_bauchi_2 = {}
+					b_bauchi_3 = {}
 				}
 				c_bogoro = {
 					color={ 139 157 198 }
 					color2={ 255 255 255 }
 					
-					b_bogoro_1 = {
-					}
-					b_bogoro_2 = {
-					}
-					b_bogoro_3 = {
-					}
+					b_bogoro_1 = {}
+					b_bogoro_2 = {}
+					b_bogoro_3 = {}
 				}
 				c_alkaleri = {
 					color={ 68 100 113 }
 					color2={ 255 255 255 }
 					
-					b_alkaleri_1 = {
-					}
-					b_alkaleri_2 = {
-					}
-					b_alkaleri_3 = {
-					}
+					b_alkaleri_1 = {}
+					b_alkaleri_2 = {}
+					b_alkaleri_3 = {}
 				}
 				c_darazo = {
 					color={ 106 106 154 }
 					color2={ 255 255 255 }
 					
-					b_darazo_1 = {
-					}
-					b_darazo_2 = {
-					}
-					b_darazo_3 = {
-					}
+					b_darazo_1 = {}
+					b_darazo_2 = {}
+					b_darazo_3 = {}
 				}
 		}
 		d_bunga = {
@@ -429,34 +336,25 @@ e_nigeria = {
 					color={ 117 183 159 }
 					color2={ 255 255 255 }
 					
-					b_katagum_1 = {
-					}
-					b_katagum_2 = {
-					}
-					b_katagum_3 = {
-					}
+					b_katagum_1 = {}
+					b_katagum_2 = {}
+					b_katagum_3 = {}
 				}
 				c_yana = {
 					color={ 93 145 176 }
 					color2={ 255 255 255 }
 					
-					b_yana_1 = {
-					}
-					b_yana_2 = {
-					}
-					b_yana_3 = {
-					}
+					b_yana_1 = {}
+					b_yana_2 = {}
+					b_yana_3 = {}
 				}
 				c_dutse = {
 					color={ 53 94 101 }
 					color2={ 255 255 255 }
 					
-					b_dutse_1 = {
-					}
-					b_dutse_2 = {
-					}
-					b_dutse_3 = {
-					}
+					b_dutse_1 = {}
+					b_dutse_2 = {}
+					b_dutse_3 = {}
 				}
 		}
 		d_gombe = {
@@ -467,34 +365,25 @@ e_nigeria = {
 					color={ 132 164 167 }
 					color2={ 255 255 255 }
 					
-					b_gombe_1 = {
-					}
-					b_gombe_2 = {
-					}
-					b_gombe_3 = {
-					}
+					b_gombe_1 = {}
+					b_gombe_2 = {}
+					b_gombe_3 = {}
 				}
 				c_dukku = {
 					color={ 50 129 106 }
 					color2={ 255 255 255 }
 					
-					b_dukku_1 = {
-					}
-					b_dukku_2 = {
-					}
-					b_dukku_3 = {
-					}
+					b_dukku_1 = {}
+					b_dukku_2 = {}
+					b_dukku_3 = {}
 				}
 				c_kaltungo = {
 					color={ 64 131 135 }
 					color2={ 255 255 255 }
 					
-					b_kaltungo_1 = {
-					}
-					b_kaltungo_2 = {
-					}
-					b_kaltungo_3 = {
-					}
+					b_kaltungo_1 = {}
+					b_kaltungo_2 = {}
+					b_kaltungo_3 = {}
 				}
 		}
 		d_gusau = {
@@ -507,45 +396,33 @@ e_nigeria = {
 					color={ 92 130 139 }
 					color2={ 255 255 255 }
 					
-					b_gusau_1 = {
-					}
-					b_gusau_2 = {
-					}
-					b_gusau_3 = {
-					}
+					b_gusau_1 = {}
+					b_gusau_2 = {}
+					b_gusau_3 = {}
 				}
 				c_shinkafi = { #655
 					color={ 92 167 155 }
 					color2={ 255 255 255 }
 					
-					b_shinkafi_1 = {
-					}
-					b_shinkafi_2 = {
-					}
-					b_shinkafi_3 = {
-					}
+					b_shinkafi_1 = {}
+					b_shinkafi_2 = {}
+					b_shinkafi_3 = {}
 				}
 				c_tureta = { #664
 					color={ 61 98 145 }
 					color2={ 255 255 255 }
 					
-					b_tureta_1 = {
-					}
-					b_tureta_2 = {
-					}
-					b_tureta_3 = {
-					}
+					b_tureta_1 = {}
+					b_tureta_2 = {}
+					b_tureta_3 = {}
 				}
 				c_kuara-nomada = { #657
 					color={ 94 108 139 }
 					color2={ 255 255 255 }
 					
-					b_kuara-nomada_1 = {
-					}
-					b_kuara-nomada_2 = {
-					}
-					b_kuara-nomada_3 = {
-					}
+					b_kuara-nomada_1 = {}
+					b_kuara-nomada_2 = {}
+					b_kuara-nomada_3 = {}
 				}
 		}
 		d_kaduna = {
@@ -556,34 +433,25 @@ e_nigeria = {
 					color={ 72 90 157 }
 					color2={ 255 255 255 }
 					
-					b_kaduna_1 = {
-					}
-					b_kaduna_2 = {
-					}
-					b_kaduna_3 = {
-					}
+					b_kaduna_1 = {}
+					b_kaduna_2 = {}
+					b_kaduna_3 = {}
 				}
 				c_zaria = {
 					color={ 99 117 183 }
 					color2={ 255 255 255 }
 					
-					b_zaria_1 = {
-					}
-					b_zaria_2 = {
-					}
-					b_zaria_3 = {
-					}
+					b_zaria_1 = {}
+					b_zaria_2 = {}
+					b_zaria_3 = {}
 				}
 				c_birnin_gwari = {
 					color={ 120 122 145 }
 					color2={ 255 255 255 }
 					
-					b_birnin_gwari_1 = {
-					}
-					b_birnin_gwari_2 = {
-					}
-					b_birnin_gwari_3 = {
-					}
+					b_birnin_gwari_1 = {}
+					b_birnin_gwari_2 = {}
+					b_birnin_gwari_3 = {}
 				}
 		}
 		d_kano = {
@@ -594,45 +462,33 @@ e_nigeria = {
 					color={ 67 105 129 }
 					color2={ 255 255 255 }
 					
-					b_kano_1 = {
-					}
-					b_kano_2 = {
-					}
-					b_kano_3 = {
-					}
+					b_kano_1 = {}
+					b_kano_2 = {}
+					b_kano_3 = {}
 				}
 				c_rano = {
 					color={ 80 113 120 }
 					color2={ 255 255 255 }
 					
-					b_rano_1 = {
-					}
-					b_rano_2 = {
-					}
-					b_rano_3 = {
-					}
+					b_rano_1 = {}
+					b_rano_2 = {}
+					b_rano_3 = {}
 				}
 				c_bichi = {
 					color={ 80 113 120 }
 					color2={ 255 255 255 }
 					
-					b_bichi_1 = {
-					}
-					b_bichi_2 = {
-					}
-					b_bichi_3 = {
-					}
+					b_bichi_1 = {}
+					b_bichi_2 = {}
+					b_bichi_3 = {}
 				}
 				c_gwarzo = {
 					color={ 44 142 139 }
 					color2={ 255 255 255 }
 					
-					b_gwarzo_1 = {
-					}
-					b_gwarzo_2 = {
-					}
-					b_gwarzo_3 = {
-					}
+					b_gwarzo_1 = {}
+					b_gwarzo_2 = {}
+					b_gwarzo_3 = {}
 				}
 		}
 		d_katsina = {
@@ -645,45 +501,33 @@ e_nigeria = {
 					color={ 64 97 126 }
 					color2={ 255 255 255 }
 					
-					b_katsina_1 = {
-					}
-					b_katsina_2 = {
-					}
-					b_katsina_3 = {
-					}
+					b_katsina_1 = {}
+					b_katsina_2 = {}
+					b_katsina_3 = {}
 				}
 				c_batsari = { #775
 					color={ 32 58 123 }
 					color2={ 255 255 255 }
 					
-					b_batsari_1 = {
-					}
-					b_batsari_2 = {
-					}
-					b_batsari_3 = {
-					}
+					b_batsari_1 = {}
+					b_batsari_2 = {}
+					b_batsari_3 = {}
 				}
 				c_kankara = { #658
 					color={ 92 110 155 }
 					color2={ 255 255 255 }
 					
-					b_kankara_1 = {
-					}
-					b_kankara_2 = {
-					}
-					b_kankara_3 = {
-					}
+					b_kankara_1 = {}
+					b_kankara_2 = {}
+					b_kankara_3 = {}
 				}
 				c_funtua = { #742
 					color={ 100 154 208 }
 					color2={ 255 255 255 }
 					
-					b_funtua_1 = {
-					}
-					b_funtua_2 = {
-					}
-					b_funtua_3 = {
-					}
+					b_funtua_1 = {}
+					b_funtua_2 = {}
+					b_funtua_3 = {}
 				}
 		}
 		d_kazaure = {
@@ -694,45 +538,33 @@ e_nigeria = {
 					color={ 81 128 132 }
 					color2={ 255 255 255 }
 					
-					b_kazaure_1 = {
-					}
-					b_kazaure_2 = {
-					}
-					b_kazaure_3 = {
-					}
+					b_kazaure_1 = {}
+					b_kazaure_2 = {}
+					b_kazaure_3 = {}
 				}
 				c_daura = {
 					color={ 118 152 195 }
 					color2={ 255 255 255 }
 					
-					b_daura_1 = {
-					}
-					b_daura_2 = {
-					}
-					b_daura_3 = {
-					}
+					b_daura_1 = {}
+					b_daura_2 = {}
+					b_daura_3 = {}
 				}
 				c_garki = {
 					color={ 64 125 176 }
 					color2={ 255 255 255 }
 					
-					b_garki_1 = {
-					}
-					b_garki_2 = {
-					}
-					b_garki_3 = {
-					}
+					b_garki_1 = {}
+					b_garki_2 = {}
+					b_garki_3 = {}
 				}
 				c_gumel = {
 					color={ 94 142 208 }
 					color2={ 255 255 255 }
 					
-					b_gumel_1 = {
-					}
-					b_gumel_2 = {
-					}
-					b_gumel_3 = {
-					}
+					b_gumel_1 = {}
+					b_gumel_2 = {}
+					b_gumel_3 = {}
 				}
 		}
 		d_kebbi = {
@@ -745,45 +577,33 @@ e_nigeria = {
 					color={ 80 126 147 }
 					color2={ 255 255 255 }
 					
-					b_birnin_kebbi_1 = {
-					}
-					b_birnin_kebbi_2 = {
-					}
-					b_birnin_kebbi_3 = {
-					}
+					b_birnin_kebbi_1 = {}
+					b_birnin_kebbi_2 = {}
+					b_birnin_kebbi_3 = {}
 				}
 				c_bunza = { #632
 					color={ 77 162 161 }
 					color2={ 255 255 255 }
 					
-					b_bunza_1 = {
-					}
-					b_bunza_2 = {
-					}
-					b_bunza_3 = {
-					}
+					b_bunza_1 = {}
+					b_bunza_2 = {}
+					b_bunza_3 = {}
 				}
 				c_dakingari = { #635
 					color={ 39 61 123 }
 					color2={ 255 255 255 }
 					
-					b_dakingari_1 = {
-					}
-					b_dakingari_2 = {
-					}
-					b_dakingari_3 = {
-					}
+					b_dakingari_1 = {}
+					b_dakingari_2 = {}
+					b_dakingari_3 = {}
 				}
 				c_koko = { #637
 					color={ 82 151 179 }
 					color2={ 255 255 255 }
 					
-					b_koko_1 = {
-					}
-					b_koko_2 = {
-					}
-					b_koko_3 = {
-					}
+					b_koko_1 = {}
+					b_koko_2 = {}
+					b_koko_3 = {}
 				}
 		}
 		d_ningi = {
@@ -794,45 +614,33 @@ e_nigeria = {
 					color={ 67 152 173 }
 					color2={ 255 255 255 }
 					
-					b_ningi_1 = {
-					}
-					b_ningi_2 = {
-					}
-					b_ningi_3 = {
-					}
+					b_ningi_1 = {}
+					b_ningi_2 = {}
+					b_ningi_3 = {}
 				}
 				c_sanga = { #631
 					color={ 75 96 164 }
 					color2={ 255 255 255 }
 					
-					b_sanga_1 = {
-					}
-					b_sanga_2 = {
-					}
-					b_sanga_3 = {
-					}
+					b_sanga_1 = {}
+					b_sanga_2 = {}
+					b_sanga_3 = {}
 				}
 				c_soba = { #631
 					color={ 76 108 212 }
 					color2={ 255 255 255 }
 					
-					b_soba_1 = {
-					}
-					b_soba_2 = {
-					}
-					b_soba_3 = {
-					}
+					b_soba_1 = {}
+					b_soba_2 = {}
+					b_soba_3 = {}
 				}
 				c_tudun_wada = { #631
 					color={ 64 139 181 }
 					color2={ 255 255 255 }
 					
-					b_tudun_wada_1 = {
-					}
-					b_tudun_wada_2 = {
-					}
-					b_tudun_wada_3 = {
-					}
+					b_tudun_wada_1 = {}
+					b_tudun_wada_2 = {}
+					b_tudun_wada_3 = {}
 				}
 		}
 		d_rima = {
@@ -845,34 +653,25 @@ e_nigeria = {
 					color={ 111 157 197 }
 					color2={ 255 255 255 }
 					
-					b_gwadabawa_1 = {
-					}
-					b_gwadabawa_2 = {
-					}
-					b_gwadabawa_3 = {
-					}
+					b_gwadabawa_1 = {}
+					b_gwadabawa_2 = {}
+					b_gwadabawa_3 = {}
 				}
 				c_goronyo = { #653
 					color={ 117 117 206 }
 					color2={ 255 255 255 }
 					
-					b_goronyo_1 = {
-					}
-					b_goronyo_2 = {
-					}
-					b_goronyo_3 = {
-					}
+					b_goronyo_1 = {}
+					b_goronyo_2 = {}
+					b_goronyo_3 = {}
 				}
 				c_birnin_konni = { #651
 					color={ 104 101 145 }
 					color2={ 255 255 255 }
 					
-					b_birnin_konni_1 = {
-					}
-					b_birnin_konni_2 = {
-					}
-					b_birnin_konni_3 = {
-					}
+					b_birnin_konni_1 = {}
+					b_birnin_konni_2 = {}
+					b_birnin_konni_3 = {}
 				}
 		}
 		d_sokoto = {
@@ -885,45 +684,33 @@ e_nigeria = {
 					color={ 71 101 145 }
 					color2={ 255 255 255 }
 					
-					b_sokoto_1 = {
-					}
-					b_sokoto_2 = {
-					}
-					b_sokoto_3 = {
-					}
+					b_sokoto_1 = {}
+					b_sokoto_2 = {}
+					b_sokoto_3 = {}
 				}
 				c_argungu = { #630
 					color={ 84 123 176 }
 					color2={ 255 255 255 }
 					
-					b_argungu_1 = {
-					}
-					b_argungu_2 = {
-					}
-					b_argungu_3 = {
-					}
+					b_argungu_1 = {}
+					b_argungu_2 = {}
+					b_argungu_3 = {}
 				}
 				c_shagari = { #647
 					color={ 59 107 161 }
 					color2={ 255 255 255 }
 					
-					b_shagari_1 = {
-					}
-					b_shagari_2 = {
-					}
-					b_shagari_3 = {
-					}
+					b_shagari_1 = {}
+					b_shagari_2 = {}
+					b_shagari_3 = {}
 				}
 				c_augi = { #649
 					color={ 89 112 134 }
 					color2={ 255 255 255 }
 					
-					b_augi_1 = {
-					}
-					b_augi_2 = {
-					}
-					b_augi_3 = {
-					}
+					b_augi_1 = {}
+					b_augi_2 = {}
+					b_augi_3 = {}
 				}
 		}
 		d_zamfara = {
@@ -936,56 +723,41 @@ e_nigeria = {
 					color={ 59 52 161 }
 					color2={ 255 255 255 }
 					
-					b_bukkuyum_1 = {
-					}
-					b_bukkuyum_2 = {
-					}
-					b_bukkuyum_3 = {
-					}
+					b_bukkuyum_1 = {}
+					b_bukkuyum_2 = {}
+					b_bukkuyum_3 = {}
 				}
 				c_wasagu = { #661
 					color={ 64 104 179 }
 					color2={ 255 255 255 }
 					
-					b_wasagu_1 = {
-					}
-					b_wasagu_2 = {
-					}
-					b_wasagu_3 = {
-					}
+					b_wasagu_1 = {}
+					b_wasagu_2 = {}
+					b_wasagu_3 = {}
 				}
 				c_anka = { #660
 					color={ 64 139 179 }
 					color2={ 255 255 255 }
 					
-					b_anka_1 = {
-					}
-					b_anka_2 = {
-					}
-					b_anka_3 = {
-					}
+					b_anka_1 = {}
+					b_anka_2 = {}
+					b_anka_3 = {}
 				}
 				c_magami = { #663
 					color={ 61 122 145 }
 					color2={ 255 255 255 }
 					
-					b_magami_1 = {
-					}
-					b_magami_2 = {
-					}
-					b_magami_3 = {
-					}
+					b_magami_1 = {}
+					b_magami_2 = {}
+					b_magami_3 = {}
 				}
 				c_zuru = {
 					color={ 95 132 179 }
 					color2={ 255 255 255 }
 					
-					b_zuru_1 = {
-					}
-					b_zuru_2 = {
-					}
-					b_zuru_3 = {
-					}
+					b_zuru_1 = {}
+					b_zuru_2 = {}
+					b_zuru_3 = {}
 				}
 		}
 	}
@@ -1007,45 +779,33 @@ e_nigeria = {
 					color={ 135 180 109 }
 					color2={ 255 255 255 }
 					
-					b_asaba_1 = {
-					}
-					b_asaba_2 = {
-					}
-					b_asaba_3 = {
-					}
+					b_asaba_1 = {}
+					b_asaba_2 = {}
+					b_asaba_3 = {}
 				}
 				c_onitsha = { #599
 					color={ 127 214 163 }
 					color2={ 255 255 255 }
 					
-					b_onitsha_1 = {
-					}
-					b_onitsha_2 = {
-					}
-					b_onitsha_3 = {
-					}
+					b_onitsha_1 = {}
+					b_onitsha_2 = {}
+					b_onitsha_3 = {}
 				}
 				c_kwale = { #600
 					color={ 186 214 163 }
 					color2={ 255 255 255 }
 					
-					b_kwale_1 = {
-					}
-					b_kwale_2 = {
-					}
-					b_kwale_3 = {
-					}
+					b_kwale_1 = {}
+					b_kwale_2 = {}
+					b_kwale_3 = {}
 				}
 				c_awka = { #601
 					color={ 71 173 104 }
 					color2={ 255 255 255 }
 					
-					b_awka_1 = {
-					}
-					b_awka_2 = {
-					}
-					b_awka_3 = {
-					}
+					b_awka_1 = {}
+					b_awka_2 = {}
+					b_awka_3 = {}
 				}
 		}
 		
@@ -1059,23 +819,17 @@ e_nigeria = {
 					color={ 172 190 188 }
 					color2={ 255 255 255 }
 					
-					b_benin_1 = {
-					}
-					b_benin_2 = {
-					}
-					b_benin_3 = {
-					}
+					b_benin_1 = {}
+					b_benin_2 = {}
+					b_benin_3 = {}
 				}	
 				c_ewu = { #594
 					color={ 159 208 150 }
 					color2={ 255 255 255 }
 					
-					b_ewu_1 = {
-					}
-					b_ewu_2 = {
-					}
-					b_ewu_3 = {
-					}
+					b_ewu_1 = {}
+					b_ewu_2 = {}
+					b_ewu_3 = {}
 				}
 		}
 		
@@ -1089,45 +843,33 @@ e_nigeria = {
 					color={ 126 120 81 }
 					color2={ 255 255 255 }
 					
-					b_aba_1 = {
-					}
-					b_aba_2 = {
-					}
-					b_aba_3 = {
-					}
+					b_aba_1 = {}
+					b_aba_2 = {}
+					b_aba_3 = {}
 				}
 				c_port_harcourt = { #611
 					color={ 83 120 81 }
 					color2={ 255 255 255 }
 					
-					b_port_harcourt_1 = {
-					}
-					b_port_harcourt_2 = {
-					}
-					b_port_harcourt_3 = {
-					}
+					b_port_harcourt_1 = {}
+					b_port_harcourt_2 = {}
+					b_port_harcourt_3 = {}
 				}
 				c_emohua = { #612
 					color={ 181 195 123 }
 					color2={ 255 255 255 }
 					
-					b_emohua_1 = {
-					}
-					b_emohua_2 = {
-					}
-					b_emohua_3 = {
-					}
+					b_emohua_1 = {}
+					b_emohua_2 = {}
+					b_emohua_3 = {}
 				}
 				c_bonny = { #794
 					color={ 115 167 88 }
 					color2={ 255 255 255 }
 					
-					b_bonny_1 = {
-					}
-					b_bonny_2 = {
-					}
-					b_bonny_3 = {
-					}
+					b_bonny_1 = {}
+					b_bonny_2 = {}
+					b_bonny_3 = {}
 				}
 		}
 		
@@ -1141,34 +883,25 @@ e_nigeria = {
 					color={ 161 177 140 }
 					color2={ 255 255 255 }
 					
-					b_sapele_1 = {
-					}
-					b_sapele_2 = {
-					}
-					b_sapele_3 = {
-					}
+					b_sapele_1 = {}
+					b_sapele_2 = {}
+					b_sapele_3 = {}
 				}
 				c_warri = { #591
 					color={ 126 148 137 }
 					color2={ 255 255 255 }
 					
-					b_warri_1 = {
-					}
-					b_warri_2 = {
-					}
-					b_warri_3 = {
-					}
+					b_warri_1 = {}
+					b_warri_2 = {}
+					b_warri_3 = {}
 				}
 				c_agbor = { #592
 					color={ 126 177 164 }
 					color2={ 255 255 255 }
 					
-					b_agbor_1 = {
-					}
-					b_agbor_2 = {
-					}
-					b_agbor_3 = {
-					}
+					b_agbor_1 = {}
+					b_agbor_2 = {}
+					b_agbor_3 = {}
 				}
 		}
 		
@@ -1182,34 +915,25 @@ e_nigeria = {
 					color={ 129 173 154 }
 					color2={ 255 255 255 }
 					
-					b_enugu_1 = {
-					}
-					b_enugu_2 = {
-					}
-					b_enugu_3 = {
-					}
+					b_enugu_1 = {}
+					b_enugu_2 = {}
+					b_enugu_3 = {}
 				}
 				c_nsukka = { #603
 					color={ 121 143 120 }
 					color2={ 255 255 255 }
 					
-					b_nsukka_1 = {
-					}
-					b_nsukka_2 = {
-					}
-					b_nsukka_3 = {
-					}
+					b_nsukka_1 = {}
+					b_nsukka_2 = {}
+					b_nsukka_3 = {}
 				}
 				c_abakaliki = { #604
 					color={ 155 183 113 }
 					color2={ 255 255 255 }
 					
-					b_abakaliki_1 = {
-					}
-					b_abakaliki_2 = {
-					}
-					b_abakaliki_3 = {
-					}
+					b_abakaliki_1 = {}
+					b_abakaliki_2 = {}
+					b_abakaliki_3 = {}
 				}
 		}
 		
@@ -1223,34 +947,25 @@ e_nigeria = {
 					color={ 111 158 129 }
 					color2={ 255 255 255 }
 					
-					b_idah_1 = {
-					}
-					b_idah_2 = {
-					}
-					b_idah_3 = {
-					}
+					b_idah_1 = {}
+					b_idah_2 = {}
+					b_idah_3 = {}
 				}
 				c_oguma = { #793
 					color={ 77 148 116 }
 					color2={ 255 255 255 }
 					
-					b_oguma_1 = {
-					}
-					b_oguma_2 = {
-					}
-					b_oguma_3 = {
-					}
+					b_oguma_1 = {}
+					b_oguma_2 = {}
+					b_oguma_3 = {}
 				}
 				c_ankpa = { #624
 					color={ 135 145 107 }
 					color2={ 255 255 255 }
 					
-					b_ankpa_1 = {
-					}
-					b_ankpa_2 = {
-					}
-					b_ankpa_3 = {
-					}
+					b_ankpa_1 = {}
+					b_ankpa_2 = {}
+					b_ankpa_3 = {}
 				}
 		}
 		
@@ -1264,34 +979,25 @@ e_nigeria = {
 					color={ 90 145 89 }
 					color2={ 255 255 255 }
 					
-					b_awgu_1 = {
-					}
-					b_awgu_2 = {
-					}
-					b_awgu_3 = {
-					}
+					b_awgu_1 = {}
+					b_awgu_2 = {}
+					b_awgu_3 = {}
 				}
 				c_umuahia = { #607
 					color={ 170 173 154 }
 					color2={ 255 255 255 }
 					
-					b_umuahia_1 = {
-					}
-					b_umuahia_2 = {
-					}
-					b_umuahia_3 = {
-					}
+					b_umuahia_1 = {}
+					b_umuahia_2 = {}
+					b_umuahia_3 = {}
 				}
 				c_owerri = { #608
 					color={ 129 173 154 }
 					color2={ 255 255 255 }
 					
-					b_owerri_1 = {
-					}
-					b_owerri_2 = {
-					}
-					b_owerri_3 = {
-					}
+					b_owerri_1 = {}
+					b_owerri_2 = {}
+					b_owerri_3 = {}
 				}
 		}
 		
@@ -1305,56 +1011,41 @@ e_nigeria = {
 					color={ 124 189 151 }
 					color2={ 255 255 255 }
 					
-					b_ughelli_1 = {
-					}
-					b_ughelli_2 = {
-					}
-					b_ughelli_3 = {
-					}
+					b_ughelli_1 = {}
+					b_ughelli_2 = {}
+					b_ughelli_3 = {}
 				}
 				c_nembe = { #596
 					color={ 153 200 183 }
 					color2={ 255 255 255 }
 					
-					b_nembe_1 = {
-					}
-					b_nembe_2 = {
-					}
-					b_nembe_3 = {
-					}
+					b_nembe_1 = {}
+					b_nembe_2 = {}
+					b_nembe_3 = {}
 				}
 				c_sagbama = { #597
 					color={ 121 137 121 }
 					color2={ 255 255 255 }
 					
-					b_sagbama_1 = {
-					}
-					b_sagbama_2 = {
-					}
-					b_sagbama_3 = {
-					}
+					b_sagbama_1 = {}
+					b_sagbama_2 = {}
+					b_sagbama_3 = {}
 				}
 				c_yenagoa = { #605
 					color={ 187 200 179 }
 					color2={ 255 255 255 }
 					
-					b_yenagoa_1 = {
-					}
-					b_yenagoa_2 = {
-					}
-					b_yenagoa_3 = {
-					}
+					b_yenagoa_1 = {}
+					b_yenagoa_2 = {}
+					b_yenagoa_3 = {}
 				}
 				c_brass = { #796
 					color={ 164 160 116 }
 					color2={ 255 255 255 }
 					
-					b_brass_1 = {
-					}
-					b_brass_2 = {
-					}
-					b_brass_3 = {
-					}
+					b_brass_1 = {}
+					b_brass_2 = {}
+					b_brass_3 = {}
 				}
 		}
 		
@@ -1368,45 +1059,33 @@ e_nigeria = {
 					color={ 120 194 181 }
 					color2={ 255 255 255 }
 					
-					b_lokoja_1 = {
-					}
-					b_lokoja_2 = {
-					}
-					b_lokoja_3 = {
-					}
+					b_lokoja_1 = {}
+					b_lokoja_2 = {}
+					b_lokoja_3 = {}
 				}
 				c_kabba = { #251
 					color={ 74 135 116 }
 					color2={ 255 255 255 }
 					
-					b_kabba_1 = {
-					}
-					b_kabba_2 = {
-					}
-					b_kabba_3 = {
-					}
+					b_kabba_1 = {}
+					b_kabba_2 = {}
+					b_kabba_3 = {}
 				}
 				c_okene = { #252
 					color={ 106 135 126 }
 					color2={ 255 255 255 }
 					
-					b_okene_1 = {
-					}
-					b_okene_2 = {
-					}
-					b_okene_3 = {
-					}
+					b_okene_1 = {}
+					b_okene_2 = {}
+					b_okene_3 = {}
 				}
 				c_koton_karfe = { #672
 					color={ 65 118 123 }
 					color2={ 255 255 255 }
 					
-					b_koton_karfe_1 = {
-					}
-					b_koton_karfe_2 = {
-					}
-					b_koton_karfe_3 = {
-					}
+					b_koton_karfe_1 = {}
+					b_koton_karfe_2 = {}
+					b_koton_karfe_3 = {}
 				}
 		}
 	}
@@ -1425,23 +1104,17 @@ e_nigeria = {
 					color={ 94 142 136 }
 					color2={ 255 255 255 }
 					
-					b_nguru_1 = {
-					}
-					b_nguru_2 = {
-					}
-					b_nguru_3 = {
-					}
+					b_nguru_1 = {}
+					b_nguru_2 = {}
+					b_nguru_3 = {}
 				}
 				c_gashua = {
 					color={ 65 142 179 }
 					color2={ 255 255 255 }
 					
-					b_gashua_1 = {
-					}
-					b_gashua_2 = {
-					}
-					b_gashua_3 = {
-					}
+					b_gashua_1 = {}
+					b_gashua_2 = {}
+					b_gashua_3 = {}
 				}
 		}
 		d_biu = {
@@ -1452,23 +1125,17 @@ e_nigeria = {
 					color={ 70 139 157 }
 					color2={ 255 255 255 }
 					
-					b_biu_1 = {
-					}
-					b_biu_2 = {
-					}
-					b_biu_3 = {
-					}
+					b_biu_1 = {}
+					b_biu_2 = {}
+					b_biu_3 = {}
 				}
 				c_damboa = {
 					color={ 57 113 151 }
 					color2={ 255 255 255 }
 					
-					b_damboa_1 = {
-					}
-					b_damboa_2 = {
-					}
-					b_damboa_3 = {
-					}
+					b_damboa_1 = {}
+					b_damboa_2 = {}
+					b_damboa_3 = {}
 				}
 		}
 		d_borno = {
@@ -1479,45 +1146,45 @@ e_nigeria = {
 					color={ 90 124 126 }
 					color2={ 255 255 255 }
 					
-					b_maiduguri_1 = {
-					}
-					b_maiduguri_2 = {
-					}
-					b_maiduguri_3 = {
-					}
+					b_maiduguri_1 = {}
+					b_maiduguri_2 = {}
+					b_maiduguri_3 = {}
 				}
 				c_kukawa = {
 					color={ 48 123 126 }
 					color2={ 255 255 255 }
 					
-					b_kukawa_1 = {
-					}
-					b_kukawa_2 = {
-					}
-					b_kukawa_3 = {
-					}
+					b_kukawa_1 = {}
+					b_kukawa_2 = {}
+					b_kukawa_3 = {}
 				}
 				c_bama = {
 					color={ 80 161 167 }
 					color2={ 255 255 255 }
 					
-					b_bama_1 = {
-					}
-					b_bama_2 = {
-					}
-					b_bama_3 = {
-					}
+					b_bama_1 = {}
+					b_bama_2 = {}
+					b_bama_3 = {}
+				}
+				c_makari = {
+					color={ 124 156 112 }
+					color2={ 255 255 255 }
+					
+					b_makari = {}
+					b_belgede = {}
+					b_ngouma = {}
+					b_hile_halifa = {}
+					b_alek = {}
+					b_massaki = {}
+					b_nogram = {}
 				}
 				c_gamboru = {
 					color={ 145 176 186 }
 					color2={ 255 255 255 }
 					
-					b_gamboru_1 = {
-					}
-					b_gamboru_2 = {
-					}
-					b_gamboru_3 = {
-					}
+					b_gamboru_1 = {}
+					b_gamboru_2 = {}
+					b_gamboru_3 = {}
 				}
 		}
 		d_yobe = {
@@ -1528,34 +1195,25 @@ e_nigeria = {
 					color={ 74 101 167 }
 					color2={ 255 255 255 }
 					
-					b_potiskum_1 = {
-					}
-					b_potiskum_2 = {
-					}
-					b_potiskum_3 = {
-					}
+					b_potiskum_1 = {}
+					b_potiskum_2 = {}
+					b_potiskum_3 = {}
 				}
 				c_damatura = {
 					color={ 101 135 167 }
 					color2={ 255 255 255 }
 					
-					b_damatura_1 = {
-					}
-					b_damatura_2 = {
-					}
-					b_damatura_3 = {
-					}
+					b_damatura_1 = {}
+					b_damatura_2 = {}
+					b_damatura_3 = {}
 				}
 				c_fika = {
 					color={ 70 94 139 }
 					color2={ 255 255 255 }
 					
-					b_fika_1 = {
-					}
-					b_fika_2 = {
-					}
-					b_fika_3 = {
-					}
+					b_fika_1 = {}
+					b_fika_2 = {}
+					b_fika_3 = {}
 				}
 		}
 	}
@@ -1572,34 +1230,25 @@ e_nigeria = {
 					color={ 57 113 164 }
 					color2={ 255 255 255 }
 					
-					b_abuja_1 = {
-					}
-					b_abuja_2 = {
-					}
-					b_abuja_3 = {
-					}
+					b_abuja_1 = {}
+					b_abuja_2 = {}
+					b_abuja_3 = {}
 				}
 				c_soleja = {
 					color={ 48 95 98 }
 					color2={ 255 255 255 }
 					
-					b_soleja_1 = {
-					}
-					b_soleja_2 = {
-					}
-					b_soleja_3 = {
-					}
+					b_soleja_1 = {}
+					b_soleja_2 = {}
+					b_soleja_3 = {}
 				}
 				c_kwali = {
 					color={ 38 138 148 }
 					color2={ 255 255 255 }
 					
-					b_kwali_1 = {
-					}
-					b_kwali_2 = {
-					}
-					b_kwali_3 = {
-					}
+					b_kwali_1 = {}
+					b_kwali_2 = {}
+					b_kwali_3 = {}
 				}
 		}
 		d_benue = {
@@ -1610,45 +1259,33 @@ e_nigeria = {
 					color={ 73 145 138 }
 					color2={ 255 255 255 }
 					
-					b_lafia_1 = {
-					}
-					b_lafia_2 = {
-					}
-					b_lafia_3 = {
-					}
+					b_lafia_1 = {}
+					b_lafia_2 = {}
+					b_lafia_3 = {}
 				}
 				c_makurdi = {
 					color={ 96 130 186 }
 					color2={ 255 255 255 }
 					
-					b_makurdi_1 = {
-					}
-					b_makurdi_2 = {
-					}
-					b_makurdi_3 = {
-					}
+					b_makurdi_1 = {}
+					b_makurdi_2 = {}
+					b_makurdi_3 = {}
 				}
 				c_katsina_ala = {
 					color={ 72 158 179 }
 					color2={ 255 255 255 }
 					
-					b_katsina_ala_1 = {
-					}
-					b_katsina_ala_2 = {
-					}
-					b_katsina_ala_3 = {
-					}
+					b_katsina_ala_1 = {}
+					b_katsina_ala_2 = {}
+					b_katsina_ala_3 = {}
 				}
 				c_gboko = {
 					color={ 65 101 161 }
 					color2={ 255 255 255 }
 					
-					b_gboko_1 = {
-					}
-					b_gboko_2 = {
-					}
-					b_gboko_3 = {
-					}
+					b_gboko_1 = {}
+					b_gboko_2 = {}
+					b_gboko_3 = {}
 				}
 		}
 		d_bida = {
@@ -1659,34 +1296,25 @@ e_nigeria = {
 					color={ 52 107 176 }
 					color2={ 255 255 255 }
 					
-					b_bida_1 = {
-					}
-					b_bida_2 = {
-					}
-					b_bida_3 = {
-					}
+					b_bida_1 = {}
+					b_bida_2 = {}
+					b_bida_3 = {}
 				}
 				c_minna = {
 					color={ 85 120 113 }
 					color2={ 255 255 255 }
 					
-					b_minna_1 = {
-					}
-					b_minna_2 = {
-					}
-					b_minna_3 = {
-					}
+					b_minna_1 = {}
+					b_minna_2 = {}
+					b_minna_3 = {}
 				}
 				c_zungeru = {
 					color={ 92 132 126 }
 					color2={ 255 255 255 }
 					
-					b_zungeru_1 = {
-					}
-					b_zungeru_2 = {
-					}
-					b_zungeru_3 = {
-					}
+					b_zungeru_1 = {}
+					b_zungeru_2 = {}
+					b_zungeru_3 = {}
 				}
 		}
 		d_idomaland = {
@@ -1697,23 +1325,17 @@ e_nigeria = {
 					color={ 76 120 145 }
 					color2={ 255 255 255 }
 					
-					b_otukpo_1 = {
-					}
-					b_otukpo_2 = {
-					}
-					b_otukpo_3 = {
-					}
+					b_otukpo_1 = {}
+					b_otukpo_2 = {}
+					b_otukpo_3 = {}
 				}
 				c_doma = {
 					color={ 89 176 164 }
 					color2={ 255 255 255 }
 					
-					b_doma_1 = {
-					}
-					b_doma_2 = {
-					}
-					b_doma_3 = {
-					}
+					b_doma_1 = {}
+					b_doma_2 = {}
+					b_doma_3 = {}
 				}
 		}
 		d_kachia = {
@@ -1724,34 +1346,25 @@ e_nigeria = {
 					color={ 79 123 173 }
 					color2={ 255 255 255 }
 					
-					b_kachia_1 = {
-					}
-					b_kachia_2 = {
-					}
-					b_kachia_3 = {
-					}
+					b_kachia_1 = {}
+					b_kachia_2 = {}
+					b_kachia_3 = {}
 				}
 				c_kagoro = {
 					color={ 105 164 173 }
 					color2={ 255 255 255 }
 					
-					b_kagoro_1 = {
-					}
-					b_kagoro_2 = {
-					}
-					b_kagoro_3 = {
-					}
+					b_kagoro_1 = {}
+					b_kagoro_2 = {}
+					b_kagoro_3 = {}
 				}
 				c_kuta = {
 					color={ 72 132 145 }
 					color2={ 255 255 255 }
 					
-					b_kuta_1 = {
-					}
-					b_kuta_2 = {
-					}
-					b_kuta_3 = {
-					}
+					b_kuta_1 = {}
+					b_kuta_2 = {}
+					b_kuta_3 = {}
 				}
 		}
 		d_kontagora = {
@@ -1762,56 +1375,41 @@ e_nigeria = {
 					color={ 123 151 179 }
 					color2={ 255 255 255 }
 					
-					b_kontagora_1 = {
-					}
-					b_kontagora_2 = {
-					}
-					b_kontagora_3 = {
-					}
+					b_kontagora_1 = {}
+					b_kontagora_2 = {}
+					b_kontagora_3 = {}
 				}
 				c_yelwa = {
 					color={ 148 151 179 }
 					color2={ 255 255 255 }
 					
-					b_yelwa_1 = {
-					}
-					b_yelwa_2 = {
-					}
-					b_yelwa_3 = {
-					}
+					b_yelwa_1 = {}
+					b_yelwa_2 = {}
+					b_yelwa_3 = {}
 				}
 				c_rijau = {
 					color={ 123 120 179 }
 					color2={ 255 255 255 }
 					
-					b_rijau_1 = {
-					}
-					b_rijau_2 = {
-					}
-					b_rijau_3 = {
-					}
+					b_rijau_1 = {}
+					b_rijau_2 = {}
+					b_rijau_3 = {}
 				}
 				c_kagara = {
 					color={ 82 110 116 }
 					color2={ 255 255 255 }
 					
-					b_kagara_1 = {
-					}
-					b_kagara_2 = {
-					}
-					b_kagara_3 = {
-					}
+					b_kagara_1 = {}
+					b_kagara_2 = {}
+					b_kagara_3 = {}
 				}
 				c_tegina = {
 					color={ 84 161 158 }
 					color2={ 255 255 255 }
 					
-					b_tegina_1 = {
-					}
-					b_tegina_2 = {
-					}
-					b_tegina_3 = {
-					}
+					b_tegina_1 = {}
+					b_tegina_2 = {}
+					b_tegina_3 = {}
 				}
 		}
 		d_mokwa = {
@@ -1822,34 +1420,25 @@ e_nigeria = {
 					color={ 50 81 120 }
 					color2={ 255 255 255 }
 					
-					b_mokwa_1 = {
-					}
-					b_mokwa_2 = {
-					}
-					b_mokwa_3 = {
-					}
+					b_mokwa_1 = {}
+					b_mokwa_2 = {}
+					b_mokwa_3 = {}
 				}
 				c_kutigi = {
 					color={ 73 82 145 }
 					color2={ 255 255 255 }
 					
-					b_kutigi_1 = {
-					}
-					b_kutigi_2 = {
-					}
-					b_kutigi_3 = {
-					}
+					b_kutigi_1 = {}
+					b_kutigi_2 = {}
+					b_kutigi_3 = {}
 				}
 				c_pategi = {
 					color={ 51 128 154 }
 					color2={ 255 255 255 }
 					
-					b_pategi_1 = {
-					}
-					b_pategi_2 = {
-					}
-					b_pategi_3 = {
-					}
+					b_pategi_1 = {}
+					b_pategi_2 = {}
+					b_pategi_3 = {}
 				}
 		}
 		d_nasarawa = {
@@ -1860,45 +1449,33 @@ e_nigeria = {
 					color={ 70 164 201 }
 					color2={ 255 255 255 }
 					
-					b_keffi_1 = {
-					}
-					b_keffi_2 = {
-					}
-					b_keffi_3 = {
-					}
+					b_keffi_1 = {}
+					b_keffi_2 = {}
+					b_keffi_3 = {}
 				}
 				c_nasarawa = {
 					color={ 93 137 154 }
 					color2={ 255 255 255 }
 					
-					b_nasarawa_1 = {
-					}
-					b_nasarawa_2 = {
-					}
-					b_nasarawa_3 = {
-					}
+					b_nasarawa_1 = {}
+					b_nasarawa_2 = {}
+					b_nasarawa_3 = {}
 				}
 				c_akwanga = {
 					color={ 91 154 176 }
 					color2={ 255 255 255 }
 					
-					b_akwanga_1 = {
-					}
-					b_akwanga_2 = {
-					}
-					b_akwanga_3 = {
-					}
+					b_akwanga_1 = {}
+					b_akwanga_2 = {}
+					b_akwanga_3 = {}
 				}
 				c_wamba = {
 					color={ 106 179 160 }
 					color2={ 255 255 255 }
 					
-					b_wamba_1 = {
-					}
-					b_wamba_2 = {
-					}
-					b_wamba_3 = {
-					}
+					b_wamba_1 = {}
+					b_wamba_2 = {}
+					b_wamba_3 = {}
 				}
 		}
 		d_plateau = {
@@ -1909,45 +1486,33 @@ e_nigeria = {
 					color={ 120 145 208 }
 					color2={ 255 255 255 }
 					
-					b_jos_1 = {
-					}
-					b_jos_2 = {
-					}
-					b_jos_3 = {
-					}
+					b_jos_1 = {}
+					b_jos_2 = {}
+					b_jos_3 = {}
 				}
 				c_wase = {
 					color={ 94 86 157 }
 					color2={ 255 255 255 }
 					
-					b_wase_1 = {
-					}
-					b_wase_2 = {
-					}
-					b_wase_3 = {
-					}
+					b_wase_1 = {}
+					b_wase_2 = {}
+					b_wase_3 = {}
 				}
 				c_pankshin = {
 					color={ 135 124 157 }
 					color2={ 255 255 255 }
 					
-					b_pankshin_1 = {
-					}
-					b_pankshin_2 = {
-					}
-					b_pankshin_3 = {
-					}
+					b_pankshin_1 = {}
+					b_pankshin_2 = {}
+					b_pankshin_3 = {}
 				}
 				c_shendam = {
 					color={ 125 173 208 }
 					color2={ 255 255 255 }
 					
-					b_shendam_1 = {
-					}
-					b_shendam_2 = {
-					}
-					b_shendam_3 = {
-					}
+					b_shendam_1 = {}
+					b_shendam_2 = {}
+					b_shendam_3 = {}
 				}
 		}
 	}
@@ -1968,34 +1533,25 @@ e_nigeria = {
 					color={ 164 150 208 }
 					color2={ 255 255 255 }
 					
-					b_ikare-akoko_1 = {
-					}
-					b_ikare-akoko_2 = {
-					}
-					b_ikare-akoko_3 = {
-					}
+					b_ikare-akoko_1 = {}
+					b_ikare-akoko_2 = {}
+					b_ikare-akoko_3 = {}
 				}
 				c_akure = { #588
 					color={ 160 97 143 }
 					color2={ 255 255 255 }
 					
-					b_akure_1 = {
-					}
-					b_akure_2 = {
-					}
-					b_akure_3 = {
-					}
+					b_akure_1 = {}
+					b_akure_2 = {}
+					b_akure_3 = {}
 				}
 				c_owo = { #589
 					color={ 161 146 177 }
 					color2={ 255 255 255 }
 					
-					b_owo_1 = {
-					}
-					b_owo_2 = {
-					}
-					b_owo_3 = {
-					}
+					b_owo_1 = {}
+					b_owo_2 = {}
+					b_owo_3 = {}
 				}
 		}
 		d_dahomey = {
@@ -2008,45 +1564,33 @@ e_nigeria = {
 					color={ 181 121 161 }
 					color2={ 255 255 255 }
 					
-					b_porto_novo_1 = {
-					}
-					b_porto_novo_2 = {
-					}
-					b_porto_novo_3 = {
-					}
+					b_porto_novo_1 = {}
+					b_porto_novo_2 = {}
+					b_porto_novo_3 = {}
 				}
 				c_ketu = { #573
 					color={ 145 86 130 }
 					color2={ 255 255 255 }
 					
-					b_ketu_1 = {
-					}
-					b_ketu_2 = {
-					}
-					b_ketu_3 = {
-					}
+					b_ketu_1 = {}
+					b_ketu_2 = {}
+					b_ketu_3 = {}
 				}
 				c_ouidah = { #683
 					color={ 135 113 183 }
 					color2={ 255 255 255 }
 					
-					b_ouidah_1 = {
-					}
-					b_ouidah_2 = {
-					}
-					b_ouidah_3 = {
-					}
+					b_ouidah_1 = {}
+					b_ouidah_2 = {}
+					b_ouidah_3 = {}
 				}
 				c_allada = { #684
 					color={ 154 100 149 }
 					color2={ 255 255 255 }
 					
-					b_allada_1 = {
-					}
-					b_allada_2 = {
-					}
-					b_allada_3 = {
-					}
+					b_allada_1 = {}
+					b_allada_2 = {}
+					b_allada_3 = {}
 				}
 		}
 		d_dassa = {
@@ -2059,34 +1603,25 @@ e_nigeria = {
 					color={ 197 135 181 }
 					color2={ 255 255 255 }
 					
-					b_dassa_1 = {
-					}
-					b_dassa_2 = {
-					}
-					b_dassa_3 = {
-					}
+					b_dassa_1 = {}
+					b_dassa_2 = {}
+					b_dassa_3 = {}
 				}
 				c_sokode = { #573
 					color={ 183 161 90 }
 					color2={ 255 255 255 }
 					
-					b_sokode_1 = {
-					}
-					b_sokode_2 = {
-					}
-					b_sokode_3 = {
-					}
+					b_sokode_1 = {}
+					b_sokode_2 = {}
+					b_sokode_3 = {}
 				}
 				c_bante = { #688
 					color={ 113 126 205 }
 					color2={ 255 255 255 }
 					
-					b_bante_1 = {
-					}
-					b_bante_2 = {
-					}
-					b_bante_3 = {
-					}
+					b_bante_1 = {}
+					b_bante_2 = {}
+					b_bante_3 = {}
 				}
 		}
 		d_ekiti = {
@@ -2099,34 +1634,25 @@ e_nigeria = {
 					color={ 147 118 134 }
 					color2={ 255 255 255 }
 					
-					b_ado-ekiti_1 = {
-					}
-					b_ado-ekiti_2 = {
-					}
-					b_ado-ekiti_3 = {
-					}
+					b_ado-ekiti_1 = {}
+					b_ado-ekiti_2 = {}
+					b_ado-ekiti_3 = {}
 				}
 				c_ilesa = { #695
 					color={ 162 124 167 }
 					color2={ 255 255 255 }
 					
-					b_ilesa_1 = {
-					}
-					b_ilesa_2 = {
-					}
-					b_ilesa_3 = {
-					}
+					b_ilesa_1 = {}
+					b_ilesa_2 = {}
+					b_ilesa_3 = {}
 				}
 				c_egbe = { #731
 					color={ 189 133 161 }
 					color2={ 255 255 255 }
 					
-					b_egbe_1 = {
-					}
-					b_egbe_2 = {
-					}
-					b_egbe_3 = {
-					}
+					b_egbe_1 = {}
+					b_egbe_2 = {}
+					b_egbe_3 = {}
 				}
 		}
 		d_ibadan = {
@@ -2139,45 +1665,33 @@ e_nigeria = {
 					color={ 146 103 145 }
 					color2={ 255 255 255 }
 					
-					b_iseyin_1 = {
-					}
-					b_iseyin_2 = {
-					}
-					b_iseyin_3 = {
-					}
+					b_iseyin_1 = {}
+					b_iseyin_2 = {}
+					b_iseyin_3 = {}
 				}
 				c_oyo = { #578
 					color={ 156 122 161 }
 					color2={ 255 255 255 }
 					
-					b_oyo_1 = {
-					}
-					b_oyo_2 = {
-					}
-					b_oyo_3 = {
-					}
+					b_oyo_1 = {}
+					b_oyo_2 = {}
+					b_oyo_3 = {}
 				}
 				c_ibadan = { #583
 					color={ 173 114 145 }
 					color2={ 255 255 255 }
 					
-					b_ibadan_1 = {
-					}
-					b_ibadan_2 = {
-					}
-					b_ibadan_3 = {
-					}
+					b_ibadan_1 = {}
+					b_ibadan_2 = {}
+					b_ibadan_3 = {}
 				}
 				c_ogbomosho = { #692
 					color={ 183 106 171 }
 					color2={ 255 255 255 }
 					
-					b_ogbomosho_1 = {
-					}
-					b_ogbomosho_2 = {
-					}
-					b_ogbomosho_3 = {
-					}
+					b_ogbomosho_1 = {}
+					b_ogbomosho_2 = {}
+					b_ogbomosho_3 = {}
 				}
 		}
 		d_ife = {
@@ -2190,45 +1704,33 @@ e_nigeria = {
 					color={ 142 127 144 }
 					color2={ 255 255 255 }
 					
-					b_ife_1 = {
-					}
-					b_ife_2 = {
-					}
-					b_ife_3 = {
-					}
+					b_ife_1 = {}
+					b_ife_2 = {}
+					b_ife_3 = {}
 				}
 				c_ejigbo = { #693
 					color={ 186 120 165 }
 					color2={ 255 255 255 }
 					
-					b_ejigbo_1 = {
-					}
-					b_ejigbo_2 = {
-					}
-					b_ejigbo_3 = {
-					}
+					b_ejigbo_1 = {}
+					b_ejigbo_2 = {}
+					b_ejigbo_3 = {}
 				}
 				c_iwo = { #694
 					color={ 161 149 156 }
 					color2={ 255 255 255 }
 					
-					b_iwo_1 = {
-					}
-					b_iwo_2 = {
-					}
-					b_iwo_3 = {
-					}
+					b_iwo_1 = {}
+					b_iwo_2 = {}
+					b_iwo_3 = {}
 				}
 				c_osogbo = { #696
 					color={ 184 123 192 }
 					color2={ 255 255 255 }
 					
-					b_osogbo_1 = {
-					}
-					b_osogbo_2 = {
-					}
-					b_osogbo_3 = {
-					}
+					b_osogbo_1 = {}
+					b_osogbo_2 = {}
+					b_osogbo_3 = {}
 				}
 		}
 		d_ilorin = {
@@ -2241,23 +1743,17 @@ e_nigeria = {
 					color={ 146 104 137 }
 					color2={ 255 255 255 }
 					
-					b_ilorin_1 = {
-					}
-					b_ilorin_2 = {
-					}
-					b_ilorin_3 = {
-					}
+					b_ilorin_1 = {}
+					b_ilorin_2 = {}
+					b_ilorin_3 = {}
 				}
 				c_owu-isin = { #697
 					color={ 121 86 139 }
 					color2={ 255 255 255 }
 					
-					b_owu-isin_1 = {
-					}
-					b_owu-isin_2 = {
-					}
-					b_owu-isin_3 = {
-					}
+					b_owu-isin_1 = {}
+					b_owu-isin_2 = {}
+					b_owu-isin_3 = {}
 				}
 		}
 		d_kwara = {
@@ -2270,23 +1766,17 @@ e_nigeria = {
 					color={ 136 133 161 }
 					color2={ 255 255 255 }
 					
-					b_igbeti_1 = {
-					}
-					b_igbeti_2 = {
-					}
-					b_igbeti_3 = {
-					}
+					b_igbeti_1 = {}
+					b_igbeti_2 = {}
+					b_igbeti_3 = {}
 				}
 				c_share = { #698
 					color={ 170 119 167 }
 					color2={ 255 255 255 }
 					
-					b_share_1 = {
-					}
-					b_share_2 = {
-					}
-					b_share_3 = {
-					}
+					b_share_1 = {}
+					b_share_2 = {}
+					b_share_3 = {}
 				}
 		}
 		d_lagos = {
@@ -2299,45 +1789,33 @@ e_nigeria = {
 					color={ 167 131 156 }
 					color2={ 255 255 255 }
 					
-					b_lagos_1 = {
-					}
-					b_lagos_2 = {
-					}
-					b_lagos_3 = {
-					}
+					b_lagos_1 = {}
+					b_lagos_2 = {}
+					b_lagos_3 = {}
 				}
 				c_cotonou = { #567
 					color={ 164 84 108 }
 					color2={ 255 255 255 }
 					
-					b_cotonou_1 = {
-					}
-					b_cotonou_2 = {
-					}
-					b_cotonou_3 = {
-					}
+					b_cotonou_1 = {}
+					b_cotonou_2 = {}
+					b_cotonou_3 = {}
 				}
 				c_ijebu = { #585
 					color={ 143 114 145 }
 					color2={ 255 255 255 }
 					
-					b_ijebu_1 = {
-					}
-					b_ijebu_2 = {
-					}
-					b_ijebu_3 = {
-					}
+					b_ijebu_1 = {}
+					b_ijebu_2 = {}
+					b_ijebu_3 = {}
 				}
 				c_badagry = { #685
 					color={ 135 82 139 }
 					color2={ 255 255 255 }
 					
-					b_badagry_1 = {
-					}
-					b_badagry_2 = {
-					}
-					b_badagry_3 = {
-					}
+					b_badagry_1 = {}
+					b_badagry_2 = {}
+					b_badagry_3 = {}
 				}
 		}
 		d_ogun = {
@@ -2350,23 +1828,17 @@ e_nigeria = {
 					color={ 175 98 144 }
 					color2={ 255 255 255 }
 					
-					b_abeokuta_1 = {
-					}
-					b_abeokuta_2 = {
-					}
-					b_abeokuta_3 = {
-					}
+					b_abeokuta_1 = {}
+					b_abeokuta_2 = {}
+					b_abeokuta_3 = {}
 				}
 				c_iwoye = { #686
 					color={ 161 100 169 }
 					color2={ 255 255 255 }
 					
-					b_iwoye_1 = {
-					}
-					b_iwoye_2 = {
-					}
-					b_iwoye_3 = {
-					}
+					b_iwoye_1 = {}
+					b_iwoye_2 = {}
+					b_iwoye_3 = {}
 				}
 		}
 		d_ondo = {
@@ -2379,34 +1851,25 @@ e_nigeria = {
 					color={ 167 131 156 }
 					color2={ 255 255 255 }
 					
-					b_ondo_1 = {
-					}
-					b_ondo_2 = {
-					}
-					b_ondo_3 = {
-					}
+					b_ondo_1 = {}
+					b_ondo_2 = {}
+					b_ondo_3 = {}
 				}
 				c_odigbo = { #733
 					color={ 149 137 189 }
 					color2={ 255 255 255 }
 					
-					b_odigbo_1 = {
-					}
-					b_odigbo_2 = {
-					}
-					b_odigbo_3 = {
-					}
+					b_odigbo_1 = {}
+					b_odigbo_2 = {}
+					b_odigbo_3 = {}
 				}
 				c_okitipupa = { #732
 					color={ 220 165 227 }
 					color2={ 255 255 255 }
 					
-					b_okitipupa_1 = {
-					}
-					b_okitipupa_2 = {
-					}
-					b_okitipupa_3 = {
-					}
+					b_okitipupa_1 = {}
+					b_okitipupa_2 = {}
+					b_okitipupa_3 = {}
 				}
 		}
 		d_onko = {
@@ -2419,45 +1882,33 @@ e_nigeria = {
 					color={ 138 87 127 }
 					color2={ 255 255 255 }
 					
-					b_shaki_1 = {
-					}
-					b_shaki_2 = {
-					}
-					b_shaki_3 = {
-					}
+					b_shaki_1 = {}
+					b_shaki_2 = {}
+					b_shaki_3 = {}
 				}
 				c_igboho = { #580
 					color={ 145 116 172 }
 					color2={ 255 255 255 }
 					
-					b_igboho_1 = {
-					}
-					b_igboho_2 = {
-					}
-					b_igboho_3 = {
-					}
+					b_igboho_1 = {}
+					b_igboho_2 = {}
+					b_igboho_3 = {}
 				}
 				c_tchaourou = { #689
 					color={ 176 124 162 }
 					color2={ 255 255 255 }
 					
-					b_tchaourou_1 = {
-					}
-					b_tchaourou_2 = {
-					}
-					b_tchaourou_3 = {
-					}
+					b_tchaourou_1 = {}
+					b_tchaourou_2 = {}
+					b_tchaourou_3 = {}
 				}
 				c_ayete = { #690
 					color={ 179 83 192 }
 					color2={ 255 255 255 }
 					
-					b_ayete_1 = {
-					}
-					b_ayete_2 = {
-					}
-					b_ayete_3 = {
-					}
+					b_ayete_1 = {}
+					b_ayete_2 = {}
+					b_ayete_3 = {}
 				}
 		}
 		d_zou = {
@@ -2470,34 +1921,25 @@ e_nigeria = {
 					color={ 177 87 132 }
 					color2={ 255 255 255 }
 					
-					b_abomey_1 = {
-					}
-					b_abomey_2 = {
-					}
-					b_abomey_3 = {
-					}
+					b_abomey_1 = {}
+					b_abomey_2 = {}
+					b_abomey_3 = {}
 				}
 				c_wa = {
 					color={ 163 110 164 }
 					color2={ 255 255 255 }
 					
-					b_lokossa_1 = {
-					}
-					b_lokossa_2 = {
-					}
-					b_lokossa_3 = {
-					}
+					b_lokossa_1 = {}
+					b_lokossa_2 = {}
+					b_lokossa_3 = {}
 				}
 				c_aplahoue = { #682
 					color={ 144 82 145 }
 					color2={ 255 255 255 }
 					
-					b_aplahoue_1 = {
-					}
-					b_aplahoue_2 = {
-					}
-					b_aplahoue_3 = {
-					}
+					b_aplahoue_1 = {}
+					b_aplahoue_2 = {}
+					b_aplahoue_3 = {}
 				}
 		}
 	}

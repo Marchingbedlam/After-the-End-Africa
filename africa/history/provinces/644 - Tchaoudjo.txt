@@ -1,0 +1,14 @@
+# County Title
+title = c_tchaoudjo
+
+# Settlements
+max_settlements = 3
+
+b_sokode = castle
+b_babde = temple
+
+# Misc
+culture = gbagi
+religion = sunni
+
+#History

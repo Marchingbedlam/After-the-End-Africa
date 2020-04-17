@@ -1,0 +1,15 @@
+# County Title
+title = c_ogou
+
+# Settlements
+max_settlements = 4
+
+b_atakpame = castle
+b_glei = temple
+b_illama = city
+
+# Misc
+culture = hausa
+religion = sunni
+
+#History

@@ -1,0 +1,13 @@
+# County Title
+title = c_mayo_rey
+
+# Settlements
+max_settlements = 3
+
+b_rey = castle
+
+# Misc
+culture = kpelle
+religion = catholic
+
+#History

@@ -892,24 +892,12 @@ e_guinea = {
 				color2={ 255 255 255 }
 				
 				b_poro = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
 			}
 			c_kabadougou = { # 117
 				color={ 106 136 34 }
 				color2={ 255 255 255 }
 				
 				b_kabadougou = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
 			}
 			c_worodougou = { # 118
 				color={ 66 84 24 }
@@ -1380,36 +1368,18 @@ e_guinea = {
 				color2={ 255 255 255 }
 				
 				b_kintampo = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
 			}
 			c_bui = { # 130
 				color={ 198 173 91 }
 				color2={ 255 255 255 }
 				
 				b_bui = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
 			}
 			c_mpaha = { # 131
 				color={ 214 178 59 }
 				color2={ 255 255 255 }
 				
 				b_mpaha = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
 			}
 			c_tanda = {
 				color={ 160 135 55 }
@@ -1540,36 +1510,18 @@ e_guinea = {
 				color2={ 255 255 255 }
 				
 				b_salaga = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
 			}
 			c_oti = { # 133
 				color={ 149 126 51 }
 				color2={ 255 255 255 }
 				
 				b_oti = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
 			}
 			c_yendi = { # 134
 				color={ 146 116 25 }
 				color2={ 255 255 255 }
 				
 				b_yendi = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
 			}
 			c_dankpen = {
 				color={ 168 127 84 }

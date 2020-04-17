@@ -453,12 +453,6 @@ e_sahel = {
 				color2={ 255 255 255 }
 				
 				b_kita = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
 			}
 			c_bafoulabe = { # 79
 				color={ 161 137 62 }
@@ -473,24 +467,12 @@ e_sahel = {
 				color2={ 255 255 255 }
 				
 				b_diema = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
 			}
 			c_kayes = { # 77
 				color={ 173 143 52 }
 				color2={ 255 255 255 }
 				
 				b_kayes = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
 			}
 		}
 		d_bamako = {
@@ -640,24 +622,12 @@ e_sahel = {
 				color2={ 255 255 255 }
 				
 				b_banamba = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
 			}
 			c_kolokani = { # 81
 				color={ 131 105 21 }
 				color2={ 255 255 255 }
 				
 				b_kolokani = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
 			}
 		}
 		d_segou = {
@@ -2118,72 +2088,36 @@ e_sahel = {
 				color2={ 255 255 255 }
 
 				b_logone_et_chari = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
 			}
 			c_sava = {
 				color={ 175 174 72 }
 				color2={ 255 255 255 }
 
 				b_sava = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
 			}
 			c_tsanaga = {
 				color={ 239 219 165 }
 				color2={ 255 255 255 }
 
 				b_tsanaga = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
 			}
 			c_diamare = {
 				color={ 239 229 115 }
 				color2={ 255 255 255 }
 
 				b_diamare = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
 			}
 			c_kani = {
 				color={ 253 255 193 }
 				color2={ 255 255 255 }
 
 				b_kani = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
 			}
 			c_danay = {
 				color={ 255 255 150 }
 				color2={ 255 255 255 }
 
 				b_danay = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
 			}
 		}
 		d_guera = {

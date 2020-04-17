@@ -26,10 +26,45 @@ tuareg;Tuareg;;;;;;;;;;;;;x
 verdean;Verdean;;;;;;;;;;;;;x
 wolof;Wolof;;;;;;;;;;;;;x
 senegambian;Senegambian;;;;;;;;;;;;;x
-Sahel;Sahel;;;;;;;;;;;;;x
+sahel;Sahel;;;;;;;;;;;;;x
 dogon;Dogon;;;;;;;;;;;;;x
-mande;Mande;;;;;;;;;;;;;x
+mande;Mandé;;;;;;;;;;;;;x
 akan;Akan;;;;;;;;;;;;;x
+bantu;Bantu;;;;;;;;;;;;;x
+sahrawi;Sahrawi;;;;;;;;;;;;;x
+haratin;Haratin;;;;;;;;;;;;;x
+yoruba;Yoruba;;;;;;;;;;;;;x
+yoruboid;Yoruboid;;;;;;;;;;;;;x
+gur;Gur;;;;;;;;;;;;;x
+bariba;Bariba;;;;;;;;;;;;;x
+grassfields;Grassfields;;;;;;;;;;;;;x
+nupe;Nupe;;;;;;;;;;;;;x
+igbo;Igbo;;;;;;;;;;;;;x
+nupoid;Nupoid;;;;;;;;;;;;;x
+cross_river;Cross River;;;;;;;;;;;;;x
+cross_river_group;Cross River;;;;;;;;;;;;;x
+tiv;Tiv;;;;;;;;;;;;;x
+pijin;Pijin;;;;;;;;;;;;;x
+krio_group;Krio;;;;;;;;;;;;;x
+damara;Damara;;;;;;;;;;;;;x
+namibian;Namibian;;;;;;;;;;;;;x
+gurunsi;Gurunsi;;;;;;;;;;;;;x
+gbagi;Gbagi;;;;;;;;;;;;;x
+fon;Fon;;;;;;;;;;;;;x
+ijo;Ijo;;;;;;;;;;;;;x
+gbe;Gbe;;;;;;;;;;;;;x
+malagasy;Malagasy;;;;;;;;;;;;;x
+platoid;Platoid;;;;;;;;;;;;;x
+mambiloid;Mambiloid;;;;;;;;;;;;;x
+kainji;Kainji;;;;;;;;;;;;;x
+bole;Bole;;;;;;;;;;;;;x
+bura_higi;Bura-Higi;;;;;;;;;;;;;x
+dakoid;Dakoid;;;;;;;;;;;;;x
+angas;Angas;;;;;;;;;;;;;x
+edo;Edo;;;;;;;;;;;;;x
+edoid;Edoid;;;;;;;;;;;;;x
+west_chadic;West Chadic;;;;;;;;;;;;;x
+plateau;Plateau;;;;;;;;;;;;;x
 ##Religions
 libertarian;Libertarian;;;;;;;;;;;;;x
 pan_african;Pan-African;;;;;;;;;;;;;x
@@ -64,3 +99,5 @@ GOD_MANANNAN_MAC_LIR;Manannan Mac Lir;;;;;;;;;;;;;x
 THE_CODE;the Code;;;;;;;;;;;;;x
 PRIEST;Priest;;;;;;;;;;;;;x
 LIGHTBRINGER;Lightbringer;;;;;;;;;;;;;x
+##Misc
+steppe;Savannah;;;;;;;;;;;;;x

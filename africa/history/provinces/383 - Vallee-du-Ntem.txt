@@ -1,5 +1,5 @@
 # County Title
-title = c_ebolowa
+title = c_vallee_du_ntem
 
 # Settlements
 max_settlements = 3

@@ -1,0 +1,15 @@
+# County Title
+title = c_vo
+
+# Settlements
+max_settlements = 4
+
+b_vogan = castle
+b_aneho = temple
+b_grand_popo = city
+
+# Misc
+culture = nupe
+religion = anglican
+
+#History

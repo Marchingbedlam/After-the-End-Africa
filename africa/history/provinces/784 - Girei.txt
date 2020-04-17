@@ -9,7 +9,7 @@ b_girei_2 = temple
 b_girei_3 = city
 
 # Misc
-culture = bura-higi
+culture = bura_higi
 religion = sunni
 
 #History

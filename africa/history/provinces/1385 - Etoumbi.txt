@@ -1,0 +1,13 @@
+# County Title
+title = c_etoumbi
+
+# Settlements
+max_settlements = 3
+
+b_etoumbi = castle
+
+# Misc
+culture = kpelle
+religion = catholic
+
+#History

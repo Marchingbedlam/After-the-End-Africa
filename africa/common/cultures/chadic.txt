@@ -230,7 +230,7 @@ central_chadic = {
 	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
 	graphical_cultures = { muslimgfx }
 	
-	bura-higi = {
+	bura_higi = {
 		color = { 0.33 0.33 0.62 }
 		
 		graphical_cultures = { westafricangfx africangfx }

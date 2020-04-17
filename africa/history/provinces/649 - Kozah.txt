@@ -1,0 +1,15 @@
+# County Title
+title = c_kozah
+
+# Settlements
+max_settlements = 4
+
+b_kara = castle
+b_lassa = temple
+b_niamtougou = city
+
+# Misc
+culture = hausa
+religion = sunni
+
+#History
