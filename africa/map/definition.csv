@@ -122,9 +122,9 @@ province;red;green;blue;x;x
 121;122;105;51;Nzema;x
 122;220;190;96;Kojina;x
 123;167;141;57;Kumasi;x
-124;185;151;45;Atakampe;x
+124;185;151;45;Wawa;x
 125;122;104;45;Afram Plains;x
-126;131;107;29;Todzie;x
+126;131;107;29;Hohoe;x
 127;143;128;80;Accra;x
 128;111;91;27;Kintampo;x
 129;160;135;55;Tanda;x
@@ -567,12 +567,12 @@ province;red;green;blue;x;x
 566;167;131;156;Lagos;x
 567;164;47;105;Sissili;x
 568;181;121;151;Porto Novo;x
-569;182;135;25;Notse;x
-570;170;157;25;Lome;x
+569;182;135;25;Lome;x
+570;170;157;25;Tongu;x
 571;177;87;132;Abomey;x
 572;145;86;130;Ketu;x
 573;183;161;90;Sokode;x
-574;168;127;84;Kara;x
+574;168;127;84;Dankpen;x
 575;197;135;181;Dassa;x
 576;138;97;127;Shaki;x
 577;146;103;145;Iseyin;x
@@ -639,7 +639,7 @@ province;red;green;blue;x;x
 638;123;120;179;Rijau;x
 639;123;151;179;Kontagora;x
 640;50;81;120;Mokwa;x
-641;227;225;236;Vogan;x
+641;227;225;236;Vo;x
 642;73;82;145;Kutigi;x
 643;117;183;159;Katagum;x
 644;216;57;53;Tchaoudjo;x
@@ -1218,7 +1218,7 @@ province;red;green;blue;x;x
 1217;237;141;148;Yei;x
 1218;24;203;39;Yirol;x
 1219;226;71;113;Kabkabiya;x
-1220;205;67;51;Wawa;x
+1220;205;67;51;;x
 1221;181;192;239;Melut;x
 1222;242;177;186;Nakfa;x
 1223;97;25;199;Abacheri;x

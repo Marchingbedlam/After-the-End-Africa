@@ -4,7 +4,7 @@ title = c_batouri
 # Settlements
 max_settlements = 3
 
-b_kadei = castle
+b_batouri = castle
 
 # Misc
 culture = kpelle

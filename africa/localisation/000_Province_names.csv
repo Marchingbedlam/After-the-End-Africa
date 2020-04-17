@@ -121,9 +121,9 @@ PROV120;Sunyani;Sunyani;Sunyani;;;;;;;;;x
 PROV121;Nzema;;;;;;;;;;;x
 PROV122;Kojina;;;;;;;;;;;x
 PROV123;Kumasi;Kumasi;Kumasi;;;;;;;;;x
-PROV124;Atakampe;Atakampe;Atakampe;;;;;;;;;x
+PROV124;Wawa;;;;;;;;;;;x
 PROV125;Afram Plains;;;;;;;;;;;x
-PROV126;Todzie;Todzie;Todzie;;;;;;;;;x
+PROV126;Hohoe;;;;;;;;;;;x
 PROV127;Accra;Accra;Accra;;;;;;;;;x
 PROV128;Kintampo;Kintampo;Kintampo;;;;;;;;;x
 PROV129;Tanda;;;;;;;;;;;x
@@ -566,12 +566,12 @@ PROV565;Kaouar;;;;;;;;;x
 PROV566;Lagos;Lagos;Lagos;;;;;;;;;x
 PROV567;Sissili;;;;;;;;;;;x
 PROV568;Porto Novo;Porto Novo;Porto Novo;;;;;;;;;x
-PROV569;Notsé;Notsé;Notsé;;;;;;;;;x
-PROV570;Lomé;Lomé;Lomé;;;;;;;;;x
+PROV569;Lomé;;;;;;;;;;;x
+PROV570;Tongu;;;;;;;;;;;x
 PROV571;Abomey;Abomey;Abomey;;;;;;;;;x
 PROV572;Ketou;Ketou;Ketou;;;;;;;;;x
 PROV573;Sokodé;Sokodé;Sokodé;;;;;;;;;x
-PROV574;Kara;Kara;Kara;;;;;;;;;x
+PROV574;Dankpen;;;;;;;;;;;x
 PROV575;Dassa;Dassa;Dassa;;;;;;;;;x
 PROV576;Shaki;Shaki;Shaki;;;;;;;;;x
 PROV577;Iseyin;Iseyin;Iseyin;;;;;;;;;x
@@ -638,7 +638,7 @@ PROV637;Yelwa;Yelwa;Yelwa;;;;;;;;;x
 PROV638;Rijau;Rijau;Rijau;;;;;;;;;x
 PROV639;Kontagora;Kontagora;Kontagora;;;;;;;;;x
 PROV640;Mokwa;Mokwa;Mokwa;;;;;;;;;x
-PROV641;Bida;Bida;Bida;;;;;;;;;x
+PROV641;Vo;;;;;;;;;;;x
 PROV642;;;;;;;;;;;;x
 PROV643;Katagum;Katagum;Katagum;;;;;;;;;x
 PROV644;Tchaoudjo;;;;;;;;;;;x
@@ -1218,7 +1218,7 @@ PROV1216;Kapoeta;;;;;;;;;x
 PROV1217;Yei;;;;;;;;;x
 PROV1218;Yirol;;;;;;;;;x
 PROV1219;Kabkabiya;;;;;;;;;x
-PROV1220;Wawa;;;;;;;;;x
+PROV1220;;;;;;;;;;x
 PROV1221;Melut;;;;;;;;;x
 PROV1222;Nakfa;;;;;;;;;x
 PROV1223;Abacheri;;;;;;;;;x

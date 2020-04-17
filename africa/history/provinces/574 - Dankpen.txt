@@ -1,0 +1,14 @@
+# County Title
+title = c_dankpen
+
+# Settlements
+max_settlements = 4
+
+b_guerin_kouka = castle
+b_naware = temple
+
+# Misc
+culture = gurunsi
+religion = sunni
+
+#History

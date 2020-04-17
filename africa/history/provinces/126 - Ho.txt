@@ -1,14 +1,12 @@
-# c_todzie
 
 # County Title
-title = c_todzie
+title = c_ho
 
 # Settlements
 max_settlements = 3
 
-b_todzie = castle
-b_todzie_2 = city
-b_todzie_3 = temple
+b_ho = castle
+b_hohoe = temple
 
 # Misc
 culture = ewe

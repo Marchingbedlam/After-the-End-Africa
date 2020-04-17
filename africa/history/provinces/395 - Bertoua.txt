@@ -4,7 +4,7 @@ title = c_bertoua
 # Settlements
 max_settlements = 3
 
-b_boyo = castle
+b_bertoua = castle
 
 # Misc
 culture = kpelle

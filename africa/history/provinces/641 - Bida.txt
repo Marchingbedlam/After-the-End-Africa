@@ -1,12 +1,12 @@
 # County Title
-title = c_bida
+title = c_vo
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_bida_1 = castle
-b_bida_2 = temple
-b_bida_3 = city
+b_vogan = castle
+b_aneho = temple
+b_grand_popo = city
 
 # Misc
 culture = nupe

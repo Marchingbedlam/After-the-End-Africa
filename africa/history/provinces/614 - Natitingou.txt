@@ -2,11 +2,11 @@
 title = c_natitingou
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_natitingou_1 = castle
-b_natitingou_2 = temple
-b_natitingou_3 = city
+b_natitingou = castle
+b_manta = temple
+b_borogourou = city
 
 # Misc
 culture = dagomba #loads of other options

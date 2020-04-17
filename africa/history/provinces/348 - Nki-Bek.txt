@@ -4,7 +4,7 @@ title = c_nki_bek
 # Settlements
 max_settlements = 3
 
-b_nki_bek = castle
+b_ngolla = castle
 
 # Misc
 culture = kpelle

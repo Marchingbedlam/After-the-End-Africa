@@ -114,49 +114,85 @@ e_central_africa = {
 				color={ 255 236 30 }
 				color2={ 255 255 255 }
 
-				b_lom_et_djerem = {}
+				b_ndokayo = {}
+				b_garga_sarali = {}
+				b_oudou = {}
+				b_betare_oya = {}
+				b_woumbou = {}
+				b_borongo = {}
+				b_mombal = {}
 			}
 			c_haut_nyong = {
 				color={ 255 255 71 }
 				color2={ 255 255 255 }
 
-				b_haut_nyong = {}
+				b_abong_mbang = {}
+				b_djouyaya = {}
+				b_motcheboum = {}
+				b_mindourou = {}
+				b_mboma = {}
+				b_doume = {}
+				b_mbama = {}
 			}
 			c_boumba_et_ngoko = {
 				color={ 255 241 117 }
 				color2={ 255 255 255 }
 
-				b_boumba_et_ngoko = {}
-			}
-			c_kadei = {
-				color={ 218 164 37 }
-				color2={ 255 255 255 }
-
-				b_kadei = {}
+				b_salapoumbe = {}
+				b_mekel = {}
+				b_bangue = {}
+				b_lokomo = {}
+				b_yanga = {}
+				b_goumela = {}
+				b_moloundou = {}
 			}
 			c_nki_bek = {
 				color={ 144 204 209 }
 				color2={ 255 255 255 }
 
-				b_nki_bek = {}
+				b_ngolla = {}
+				b_diadom = {}
+				b_masso = {}
+				b_messok = {}
+				b_lomie = {}
+				b_mbalam = {}
+				b_akas = {}
 			}
 			c_bertoua = {
 				color={ 121 224 251 }
 				color2={ 255 255 255 }
 
 				b_bertoua = {}
+				b_kagama = {}
+				b_ndoumbi = {}
+				b_mandjou = {}
+				b_boulembe = {}
+				b_ndem_nam = {}
+				b_dimako = {}
 			}
 			c_yokadouma = {
 				color={ 172 222 156 }
 				color2={ 255 255 255 }
 
 				b_yokadouma = {}
+				b_massea = {}
+				b_ngato = {}
+				b_gribe = {}
+				b_mbol = {}
+				b_gribi = {}
+				b_mgola = {}
 			}
 			c_batouri = {
 				color={ 171 227 224 }
 				color2={ 255 255 255 }
 
 				b_batouri = {}
+				b_ngangam = {}
+				b_ngoura = {}
+				b_badongwe = {}
+				b_garoua_sambe = {}
+				b_banbala = {}
+				b_kenzou = {}
 			}
 		}
 		d_campo = {

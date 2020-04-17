@@ -1428,56 +1428,105 @@ e_guinea = {
 			color={ 177 97 32 }
 			color2={ 255 255 255 }
 			
-			allow = {
-			}
-			capital = 570 # c_lome
+			capital = 569 # c_lome
 			
-			c_atakampe = { # 124
+			c_wawa = {
 				color={ 185 151 45 }
 				color2={ 255 255 255 }
 				
-				b_atakampe = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
+				b_badou = {}
+				b_aveho = {}
+				b_godzo = {}
+				b_dzogbegan = {}
+				b_tomegbe = {}
+				b_klabe = {}
+				b_kpalime = {}
 			}
-			c_todzie = { # 126
+			c_ho = {
 				color={ 131 107 29 }
 				color2={ 255 255 255 }
 				
-				b_todzie = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
+				b_ho = {}
+				b_hohoe = {}
+				b_gbi_wegbe = {}
+				b_golokwati = {}
+				b_matse = {}
+				b_kpando = {}
+				b_jasikan = {}
 			}
-			c_notse = { # 569
+			c_tongu = {
 				color={ 182 135 25 }
 				color2={ 255 255 255 }
 				
-				b_notse_1 = {
-				}
-				b_notse_2 = {
-				}
-				b_notse_3 = {
-				}
+				b_akatsi = {}
+				b_anloga = {}
+				b_klikor_agbozume = {}
+				b_dzodze = {}
+				b_mafi_kumase = {}
+				b_apeguso = {}
+				b_ave_dakpa = {}
+				b_sogakope = {}
 			}
-			c_lome = { # 570
+			c_lome = {
 				color={ 170 157 25 }
 				color2={ 255 255 255 }
 				
-				b_lome_1 = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
+				b_lome = {}
+				b_agbelouve = {}
+				b_kovie = {}
+				b_foret_d_lili = {}
+				b_keve = {}
+				b_akepe = {}
+				b_agouenive = {}
+			}
+			c_vo = {
+				color={ 125 111 52 }
+				color2={ 255 255 255 }
+				
+				b_vogan = {}
+				b_aneho = {}
+				b_togoville = {}
+				b_grand_popo = {}
+				b_tabligo = {}
+				b_kouve = {}
+				b_zafi = {}
+			}
+			c_ogou = {
+				color={ 152 135 61 }
+				color2={ 255 255 255 }
+				
+				b_atakpame = {}
+				b_glei = {}
+				b_illama = {}
+				b_alale = {}
+				b_wahala = {}
+				b_notse = {}
+				b_kpedome = {}
+			}
+			c_tchaoudjo = {
+				color={ 121 162 26 }
+				color2={ 255 255 255 }
+				
+				b_sokode = {}
+				b_babde = {}
+				b_koloware = {}
+				b_agoulou = {}
+				b_azaza = {}
+				b_tchalo = {}
+				b_tchamba = {}
+			}
+			c_kozah = {
+				color={ 87 121 62 }
+				color2={ 255 255 255 }
+				
+				b_kara = {}
+				b_lassa = {}
+				b_niamtougou = {}
+				b_bafilo = {}
+				b_kpagouda = {}
+				b_kande = {}
+				b_agbassa = {}
+				b_aloum = {}
 			}
 		}
 		d_oti = {
@@ -1522,17 +1571,30 @@ e_guinea = {
 				b_ = {}
 				b_ = {}
 			}
-			c_kara = { # 574
+			c_dankpen = {
 				color={ 168 127 84 }
 				color2={ 255 255 255 }
 				
-				b_kara = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
-				b_ = {}
+				b_guerin_kouka = {}
+				b_naware = {}
+				b_bitchabe = {}
+				b_kalanga = {}
+				b_kitoman = {}
+				b_bassassin = {}
+				b_bassar = {}
+			}
+			c_natitingou = {
+				color={ 195 141 114 }
+				color2={ 255 255 255 }
+				
+				b_natitingou = {}
+				b_manta = {}
+				b_perma = {}
+				b_dakou = {}
+				b_pehonko = {}
+				b_borogourou = {}
+				b_tanse = {}
+				b_kouande = {}
 			}
 		}
 		d_volta = {

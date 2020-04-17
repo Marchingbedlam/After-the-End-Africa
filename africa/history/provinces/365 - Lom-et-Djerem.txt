@@ -4,7 +4,7 @@ title = c_lom_et_djerem
 # Settlements
 max_settlements = 3
 
-b_lom_et_djerem = castle
+b_ndokayo = castle
 
 # Misc
 culture = kpelle

@@ -4,7 +4,7 @@ title = c_boumba_et_ngoko
 # Settlements
 max_settlements = 3
 
-b_boumba_et_ngoko = castle
+b_salapoumbe = castle
 
 # Misc
 culture = kpelle

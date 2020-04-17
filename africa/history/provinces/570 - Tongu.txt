@@ -1,12 +1,11 @@
 # County Title
-title = c_wawa
+title = c_tongu
 
 # Settlements
 max_settlements = 4
 
-b_badou = castle
-b_aveho = city
-b_godzo = temple
+b_akatsi = castle
+b_anloga = temple
 
 # Misc
 culture = ewe
