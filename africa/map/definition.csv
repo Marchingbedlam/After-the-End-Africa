@@ -198,7 +198,7 @@ province;red;green;blue;x;x
 197;246;35;118;Masindi;x
 198;128;188;246;Nile;x
 199;175;215;146;Amuru;x
-200;129;116;245;Comoros;x
+200;129;116;245;Grande Comore;x
 201;197;148;124;Mayotte;x
 202;222;173;132;Reunion;x
 203;224;68;184;Mauritius;x
@@ -1012,11 +1012,11 @@ province;red;green;blue;x;x
 1011;170;65;150;Kapiri Mposhi;x
 1012;249;14;231;Mwinilunga;x
 1013;160;199;245;Zambezi;x
-1014;103;66;13;Mufumbwe;x
+1014;103;66;13;Kasempa;x
 1015;174;205;10;Itezhi Tezhi;x
 1016;144;145;57;Kazungula;x
 1017;243;162;55;Choma;x
-1018;104;2;12;Mazabuka;x
+1018;104;2;12;Siavonga;x
 1019;79;2;114;Kaoma;x
 1020;200;238;187;Senanga;x
 1021;157;172;98;Mongu;x
@@ -1413,9 +1413,9 @@ province;red;green;blue;x;x
 1412;235;152;30;Zoundweogo;x
 1413;223;166;116;Boulgou;x
 1414;120;175;79;Moramanga;x
-1415;151;194;53;;x
-1416;126;49;20;;x
-1417;176;40;144;;x
+1415;151;194;53;Mufumbwe;x
+1416;126;49;20;Mpongwe;x
+1417;176;40;144;Mazabuka;x
 1418;92;163;107;Kismayo;x
 1419;58;73;207;Afmadow;x
 1420;98;145;51;Middle Juba;x
@@ -1432,7 +1432,7 @@ province;red;green;blue;x;x
 1431;19;107;51;Ceelbuur;x
 1432;121;59;16;Haradhere;x
 1433;74;183;179;Hobyo;x
-1434;236;234;150;Galkayo;x
+1434;236;234;160;Galkayo;x
 1435;74;113;183;Nugaal;x
 1436;222;83;51;Karkaar;x
 1437;92;14;90;Guardafui;x
@@ -1440,7 +1440,7 @@ province;red;green;blue;x;x
 1439;92;114;139;Badhan;x
 1440;36;198;83;Erigavo;x
 1441;169;71;82;Khaatumo;x
-1442;198;36;58;Sool;x
+1442;198;36;54;Sool;x
 1443;21;72;99;Buuhoodle;x
 1444;151;166;72;Burco;x
 1445;80;64;4;Berbera;x
@@ -1448,11 +1448,11 @@ province;red;green;blue;x;x
 1447;63;69;123;Awdal;x
 1448;19;31;107;Bakool;x
 1449;27;107;19;Beledweyne;x
-1450;;;;;x
-1451;;;;;x
-1452;;;;;x
-1453;;;;;x
-1454;;;;;x
+1450;171;106;99;Moheli;x
+1451;226;103;6;Anjouan;x
+1452;200;173;133;Grande Terre;x
+1453;249;85;17;Socotra;x
+1454;157;232;195;Farasan;x
 1455;;;;;x
 1456;;;;;x
 1457;;;;;x
