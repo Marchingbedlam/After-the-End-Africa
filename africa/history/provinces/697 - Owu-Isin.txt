@@ -1,5 +1,5 @@
 # County Title
-title = c_owu-isin
+title = c_owu_isin
 
 # Settlements
 max_settlements = 3

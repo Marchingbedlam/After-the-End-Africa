@@ -1,5 +1,5 @@
 # County Title
-title = c_ado-ekiti
+title = c_ado_ekiti
 
 # Settlements
 max_settlements = 3

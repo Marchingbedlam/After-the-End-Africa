@@ -1,5 +1,5 @@
 # County Title
-title = c_ikare-akoko
+title = c_ikare_akoko
 
 # Settlements
 max_settlements = 3

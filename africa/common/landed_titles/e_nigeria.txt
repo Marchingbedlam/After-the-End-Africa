@@ -416,7 +416,7 @@ e_nigeria = {
 					b_tureta_2 = {}
 					b_tureta_3 = {}
 				}
-				c_kuara-nomada = { #657
+				c_kuara_nomada = { #657
 					color={ 94 108 139 }
 					color2={ 255 255 255 }
 					
@@ -1529,7 +1529,7 @@ e_nigeria = {
 
 			capital = 588 # c_akure
 				
-				c_ikare-akoko = {
+				c_ikare_akoko = {
 					color={ 164 150 208 }
 					color2={ 255 255 255 }
 					
@@ -1630,7 +1630,7 @@ e_nigeria = {
 
 			capital = 582 # c_ado-ekiti
 				
-				c_ado-ekiti = { #582
+				c_ado_ekiti = { #582
 					color={ 147 118 134 }
 					color2={ 255 255 255 }
 					
@@ -1747,7 +1747,7 @@ e_nigeria = {
 					b_ilorin_2 = {}
 					b_ilorin_3 = {}
 				}
-				c_owu-isin = { #697
+				c_owu_isin = { #697
 					color={ 121 86 139 }
 					color2={ 255 255 255 }
 					
@@ -1894,14 +1894,6 @@ e_nigeria = {
 					b_igboho_2 = {}
 					b_igboho_3 = {}
 				}
-				c_tchaourou = { #689
-					color={ 176 124 162 }
-					color2={ 255 255 255 }
-					
-					b_tchaourou_1 = {}
-					b_tchaourou_2 = {}
-					b_tchaourou_3 = {}
-				}
 				c_ayete = { #690
 					color={ 179 83 192 }
 					color2={ 255 255 255 }
@@ -1924,14 +1916,6 @@ e_nigeria = {
 					b_abomey_1 = {}
 					b_abomey_2 = {}
 					b_abomey_3 = {}
-				}
-				c_wa = {
-					color={ 163 110 164 }
-					color2={ 255 255 255 }
-					
-					b_lokossa_1 = {}
-					b_lokossa_2 = {}
-					b_lokossa_3 = {}
 				}
 				c_aplahoue = { #682
 					color={ 144 82 145 }

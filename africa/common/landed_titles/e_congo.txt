@@ -68,58 +68,37 @@ e_congo = {
 				color={ 117 72 61 }
 				color2={ 255 255 255 }
 				
-				b_oyem_GA = }
-				}
-				b_bissok_GA = }
-				}
-				b_nkolabona_GA = }
-				}
-				b_bolossoville_GA = }
-				}
-				b_assok_ngomo_GA = }
-				}
-				b_mafak_GA = }
-				}
-				b_zangue_GA = }
-				}
+				b_oyem_GA = {}
+				b_bissok_GA = {}
+				b_nkolabona_GA = {}
+				b_bolossoville_GA = {}
+				b_assok_ngomo_GA = {}
+				b_mafak_GA = {}
+				b_zangue_GA = {}
 			}
 			c_haut_ntem = {
 				color={ 124 49 13 }
 				color2={ 255 255 255 }
 				
-				b_minvoul_GA = }
-				}
-				b_momo_GA = }
-				}
-				b_eboman_GA = }
-				}
-				b_mfagne_GA = }
-				}
-				b_vama_GA = }
-				}
-				b_andokasi_GA = }
-				}
-				b_bilo_GA = }
-				}
+				b_minvoul_GA = {}
+				b_momo_GA = {}
+				b_eboman_GA = {}
+				b_mfagne_GA = {}
+				b_vama_GA = {}
+				b_andokasi_GA = {}
+				b_bilo_GA = {}
 			}
 			c_okano = {
 				color={121 96 85 }
 				color2={ 255 255 255 }
 				
-				b_mitzic_GA = }
-				}
-				b_medouneu_GA = }
-				}
-				b_ekan_GA = }
-				}
-				b_lalara_GA = }
-				}
-				b_aveng_GA = }
-				}
-				b_avom_GA = }
-				}
-				b_eyene_GA = }
-				}
+				b_mitzic_GA = {}
+				b_medouneu_GA = {}
+				b_ekan_GA = {}
+				b_lalara_GA = {}
+				b_aveng_GA = {}
+				b_avom_GA = {}
+				b_eyene_GA = {}
 			}
 		}
 		d_estuaire = {
@@ -130,58 +109,37 @@ e_congo = {
 				color={ 77 20 9}
 				color2={ 255 255 255 }
 				
-				b_kougouleu_GA = }
-				}
-				b_kango_GA = }
-				}
-				b_zoulameyong_GA = }
-				}
-				b_anzem_GA = }
-				}
-				b_bibolo_GA = }
-				}
-				b_assoka_GA = }
-				}
-				b_oyan_GA = }
-				}
+				b_kougouleu_GA = {}
+				b_kango_GA = {}
+				b_zoulameyong_GA = {}
+				b_anzem_GA = {}
+				b_bibolo_GA = {}
+				b_assoka_GA = {}
+				b_oyan_GA = {}
 			}
 			c_noya = {
 				color={ 93 20 6 }
 				color2={ 255 255 255 }
 				
-				b_cocobeach_GA = }
-				}
-				b_milembie_GA = }
-				}
-				b_mekina_GA = }
-				}
-				b_myang_GA = }
-				}
-				b_okola_GA = }
-				}
-				b_angouma_GA = }
-				}
-				b_nzog_bour_GA = }
-				}
+				b_cocobeach_GA = {}
+				b_milembie_GA = {}
+				b_mekina_GA = {}
+				b_myang_GA = {}
+				b_okola_GA = {}
+				b_angouma_GA = {}
+				b_nzog_bour_GA = {}
 			}
 			c_libreville = {
 				color={ 120 55 43}
 				color2={ 255 255 255 }
 				
-				b_ntoum_GA = }
-				}
-				b_libreville_GA = }
-				}
-				b_owendo_GA = }
-				}
-				b_nkoltang_GA = }
-				}
-				b_mont_bouet_GA = }
-				}
-				b_sahoue_GA = }
-				}
-				b_nombakele_GA = }
-				}
+				b_ntoum_GA = {}
+				b_libreville_GA = {}
+				b_owendo_GA = {}
+				b_nkoltang_GA = {}
+				b_mont_bouet_GA = {}
+				b_sahoue_GA = {}
+				b_nombakele_GA = {}
 			}
 		}
 		d_nyanga = {
