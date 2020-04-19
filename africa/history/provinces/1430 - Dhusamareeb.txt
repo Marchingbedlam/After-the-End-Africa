@@ -1,0 +1,15 @@
+# County Title
+title = c_dhusamareeb
+
+# Settlements
+max_settlements = 4
+
+b_adado = castle
+b_dhusamareeb = city
+b_guriceel = temple
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

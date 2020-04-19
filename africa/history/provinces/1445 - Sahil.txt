@@ -1,0 +1,15 @@
+# County Title
+title = c_sahil
+
+# Settlements
+max_settlements = 4
+
+b_shiikh = castle
+b_berbera = city
+b_bulaxaar = temple
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

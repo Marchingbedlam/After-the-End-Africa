@@ -1,0 +1,15 @@
+# County Title
+title = c_erigavo
+
+# Settlements
+max_settlements = 4
+
+b_el_afweyn = castle
+b_erigavo = city
+b_xiis = temple
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

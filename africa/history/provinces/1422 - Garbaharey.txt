@@ -1,0 +1,15 @@
+# County Title
+title = c_garbaharey
+
+# Settlements
+max_settlements = 4
+
+b_luuq = castle
+b_garbaharey = city
+b_dooloow = temple
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

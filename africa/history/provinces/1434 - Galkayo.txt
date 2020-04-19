@@ -1,0 +1,15 @@
+# County Title
+title = c_galkayo
+
+# Settlements
+max_settlements = 4
+
+b_galdogob = castle
+b_galkayo = city
+b_galinsoor = temple
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

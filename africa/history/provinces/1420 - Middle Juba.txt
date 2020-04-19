@@ -1,0 +1,15 @@
+# County Title
+title = c_middle_juba
+
+# Settlements
+max_settlements = 4
+
+b_buaale = castle
+b_saakow = city
+b_salagle = temple
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

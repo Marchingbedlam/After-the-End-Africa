@@ -1,0 +1,15 @@
+# County Title
+title = c_bosaso
+
+# Settlements
+max_settlements = 4
+
+b_qandala = castle
+b_bosaso = city
+b_ufeyn = temple
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

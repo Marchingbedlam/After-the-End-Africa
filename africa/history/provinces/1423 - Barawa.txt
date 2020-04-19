@@ -1,0 +1,15 @@
+# County Title
+title = c_barawa
+
+# Settlements
+max_settlements = 5
+
+b_sablaale = castle
+b_barawa = city
+b_kurtunwarey = temple
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

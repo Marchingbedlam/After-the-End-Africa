@@ -1,0 +1,16 @@
+# County Title
+title = c_merca
+
+# Settlements
+max_settlements = 6
+
+b_qoryooley = castle
+b_merca = city
+b_janaale = temple
+b_gendershe = castle
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

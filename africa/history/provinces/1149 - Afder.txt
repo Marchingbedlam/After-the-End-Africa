@@ -1,0 +1,14 @@
+# County Title
+title = c_afder
+
+# Settlements
+max_settlements = 3
+
+b_hargelle = castle
+b_cherti = temple
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

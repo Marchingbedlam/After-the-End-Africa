@@ -1,0 +1,15 @@
+# County Title
+title = c_kismayo
+
+# Settlements
+max_settlements = 4
+
+b_jamaame = castle
+b_kismayo = city
+b_ras_kamboni = temple
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

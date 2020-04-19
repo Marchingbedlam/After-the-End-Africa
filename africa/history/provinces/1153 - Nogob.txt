@@ -1,0 +1,13 @@
+# County Title
+title = c_nogob
+
+# Settlements
+max_settlements = 3
+
+b_fiq = castle
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

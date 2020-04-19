@@ -1,0 +1,14 @@
+# County Title
+title = c_el_buur
+
+# Settlements
+max_settlements = 3
+
+b_el_dhere = castle
+b_el_buur = city
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

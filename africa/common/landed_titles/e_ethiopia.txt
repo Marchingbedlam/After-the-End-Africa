@@ -1,0 +1,526 @@
+e_ethiopia = {
+	color={ 200 34 94 }
+	color2={ 255 255 20 }
+	
+	k_somalia = {
+		color={ 0 53 148 }
+		color2={ 255 255 255 }
+						
+		d_jubaland = {
+			color={ 92 163 107 }
+			color2={ 255 255 255 }
+
+			c_kismayo = {
+				color={ 92 163 107 }
+				color2={ 255 255 255 }
+					
+				b_kismayo = {}
+				b_jamaame = {}
+				b_ras_kamboni = {}
+				b_koyama = {}
+				b_goobweyn = {}
+				b_yoontoy = {}
+				b_turdo = {}
+			}
+			c_afmadow = {
+				color={ 58 73 207 }
+				color2={ 255 255 255 }
+					
+				b_afmadow = {}
+				b_xagar = {}
+				b_dhobley = {}
+				b_hosingow = {}
+				b_bilis_qooqaani = {}
+				b_tabda = {}
+				b_bibi = {}
+			}
+			c_middle_juba = {
+				color={ 98 145 51 }
+				color2={ 255 255 255 }
+					
+				b_buaale = {}
+				b_saakow = {}
+				b_jilib = {}
+				b_salagle = {}
+				b_dujuma = {}
+				b_haramka = {}
+				b_baytul_amiin = {}
+			}
+		}
+		d_gedo = {
+			color={ 92 163 107 }
+			color2={ 255 255 255 }
+
+			c_bardhere = {
+				color={ 203 212 29 }
+				color2={ 255 255 255 }
+					
+				b_bardhere = {}
+				b_el_wak = {}
+				b_kurman = {}
+				b_fafahdun = {}
+				b_el_mergis = {}
+				b_hareeri = {}
+				b_anoole = {}
+			}
+			c_garbaharey = {
+				color={ 58 73 207 }
+				color2={ 255 255 255 }
+					
+				b_garbaharey = {}
+				b_luuq = {}
+				b_beled_hawo = {}
+				b_dooloow = {}
+				b_geedweyne = {}
+				b_buurdhuubo = {}
+				b_madiino = {}
+			}
+		}
+		d_koofur_orsi = {
+			color={ 92 163 107 }
+			color2={ 255 255 255 }
+
+			c_baay = {
+				color={ 212 71 134 }
+				color2={ 255 255 255 }
+					
+				b_baidoa = {}
+				b_dinsoor = {}
+				b_buurhakaba = {}
+				b_berdaale = {}
+				b_qansaxdheere = {}
+				b_xabaalo_barbar = {}
+				b_goof_gaduud = {}
+			}
+			c_bakool = {
+				color={ 19 31 107 }
+				color2={ 255 255 255 }
+					
+				b_xuddur = {}
+				b_waajid = {}
+				b_tiyeegloow = {}
+				b_yeed = {}
+				b_el_barde = {}
+				b_quarjoome = {}
+				b_rabdhuure = {}
+			}
+		}
+		d_banaadir = {
+			color={ 92 163 107 }
+			color2={ 255 255 255 }
+
+			c_mogadishu = {
+				color={ 38 110 102 }
+				color2={ 255 255 255 }
+					
+				b_mogadishu = {}
+				b_afgooye = {}
+				b_lafoole = {}
+				b_wanlaweyn = {}
+				b_dharkenley = {}
+				b_kaaraan = {}
+				b_wardhigley = {}
+			}
+			c_barawa = {
+				color={ 236 211 120 }
+				color2={ 255 255 255 }
+					
+				b_barawa = {}
+				b_buulo_mareer = {}
+				b_kurtunwarey = {}
+				b_dhayo = {}
+				b_diblay = {}
+				b_dayanley = {}
+				b_sablaale = {}
+			}
+			c_merca = {
+				color={ 212 145 71 }
+				color2={ 255 255 255 }
+					
+				b_merca = {}
+				b_qoryooley = {}
+				b_janaale = {}
+				b_gendershe = {}
+				b_golweyn = {}
+				b_awdhagle = {}
+				b_shalan_boot = {}
+			}
+			c_shabeellaha = {
+				color={ 206 163 3 }
+				color2={ 255 255 255 }
+					
+				b_jowhaar = {}
+				b_balcad = {}
+				b_adale = {}
+				b_aadan_yabaal = {}
+				b_dinlaabe = {}
+				b_mahaday_weyne = {}
+				b_ceel_bacad = {}
+			}
+		}
+		d_hiiraan = {
+			color={ 92 163 107 }
+			color2={ 255 255 255 }
+
+			c_buuloburde = {
+				color={ 44 16 83 }
+				color2={ 255 255 255 }
+					
+				b_buuloburde = {}
+				b_jalalaqsi = {}
+				b_aboorey = {}
+				b_muqakoori = {}
+				b_mukayle = {}
+				b_buqdaaqable = {}
+				b_mahas = {}
+			}
+			c_beledweyne = {
+				color={ 44 16 83 }
+				color2={ 255 255 255 }
+					
+				b_beledweyne = {}
+				b_matabaan = {}
+				b_el_ali = {}
+				b_farlibaax = {}
+				b_feerfeer = {}
+				b_jawiil = {}
+				b_beer_gadiid = {}
+			}
+		}
+		d_galmudug = {
+			color={ 92 163 107 }
+			color2={ 255 255 255 }
+
+			c_dhusamareeb = {
+				color={ 26 141 182 }
+				color2={ 255 255 255 }
+					
+				b_dhusamareeb = {}
+				b_adado = {}
+				b_abudwak = {}
+				b_guriceel = {}
+				b_godinlabe = {}
+				b_mareer_gur = {}
+				b_baxdo = {}
+			}
+			c_el_buur = {
+				color={ 19 107 51 }
+				color2={ 255 255 255 }
+					
+				b_el_buur = {}
+				b_el_dhere = {}
+				b_gal_hareeri = {}
+				b_wabxo = {}
+				b_derri = {}
+				b_ris = {}
+				b_xaaji_iman = {}
+			}
+			c_haradhere = {
+				color={ 121 59 16 }
+				color2={ 255 255 255 }
+					
+				b_haradhere = {}
+				b_qeycad = {}
+				b_dabagalo = {}
+				b_geedaley = {}
+				b_xinlabi = {}
+				b_qaydaro = {}
+				b_wisil = {}
+			}
+			c_hobyo = {
+				color={ 74 183 179 }
+				color2={ 255 255 255 }
+					
+				b_hobyo = {}
+				b_jaribaan = {}
+				b_budbud = {}
+				b_garacad = {}
+				b_bacaadweyne = {}
+				b_el_dibir = {}
+				b_el_gula = {}
+			}
+			c_galkayo = {
+				color={ 236 234 160 }
+				color2={ 255 255 255 }
+					
+				b_galkayo = {}
+				b_galdogob = {}
+				b_galinsoor = {}
+				b_banderadley = {}
+				b_xarfo = {}
+				b_beyra = {}
+				b_saaxo = {}
+			}
+		}
+		d_puntland = {
+			color={ 92 163 107 }
+			color2={ 255 255 255 }
+
+			c_nugaal = {
+				color={ 74 113 183 }
+				color2={ 255 255 255 }
+					
+				b_garoowe = {}
+				b_eyl = {}
+				b_buurtinle = {}
+				b_dangorayo = {}
+				b_godobjiraan = {}
+				b_gori_rit = {}
+				b_jallam = {}
+			}
+			c_karkaar = {
+				color={ 222 83 51 }
+				color2={ 255 255 255 }
+					
+				b_qardho = {}
+				b_bandar_beyla = {}
+				b_rako_raaxo = {}
+				b_xiriiro = {}
+				b_dahan = {}
+				b_yake = {}
+				b_samaysa_dheer = {}
+			}
+			c_guardafui = {
+				color={ 92 14 90 }
+				color2={ 255 255 255 }
+					
+				b_alula = {}
+				b_iskushuban = {}
+				b_xaabo = {}
+				b_bereeda = {}
+				b_bargaal = {}
+				b_geesaley = {}
+				b_xaafuun = {}
+			}
+			c_bosaso = {
+				color={ 46 81 53 }
+				color2={ 255 255 255 }
+					
+				b_bosaso = {}
+				b_qandala = {}
+				b_ufeyn = {}
+				b_el_dahir = {}
+				b_jurile = {}
+				b_armo = {}
+				b_kob_dehad = {}
+			}
+		}
+		d_sanaag = {
+			color={ 92 163 107 }
+			color2={ 255 255 255 }
+
+			c_badhan = {
+				color={ 92 114 139 }
+				color2={ 255 255 255 }
+					
+				b_badhan = {}
+				b_heylaan = {}
+				b_las_khorey = {}
+				b_hadaaftimo = {}
+				b_dhahar = {}
+				b_el_buh = {}
+				b_buraan = {}
+			}
+			c_erigavo = {
+				color={ 36 198 83 }
+				color2={ 255 255 255 }
+					
+				b_erigavo = {}
+				b_el_afweyn = {}
+				b_xiis = {}
+				b_maydh = {}
+				b_dararweyne = {}
+				b_garadag = {}
+				b_yubbe = {}
+			}
+			c_khaatumo = {
+				color={ 169 71 82 }
+				color2={ 255 255 255 }
+					
+				b_taleh = {}
+				b_xudun = {}
+				b_god_alo = {}
+				b_boame = {}
+				b_tukarak = {}
+				b_xalin = {}
+				b_shahda = {}
+			}
+			c_sool = {
+				color={ 198 36 54 }
+				color2={ 255 255 255 }
+					
+				b_las_anod = {}
+				b_aynaba = {}
+				b_saaxdheer = {}
+				b_adhi_cadeeye = {}
+				b_yagori = {}
+				b_oog = {}
+				b_gowsaweyne = {}
+			}
+		}
+		d_togdheer = {
+			color={ 92 163 107 }
+			color2={ 255 255 255 }
+
+			c_buuhoodle = {
+				color={ 21 72 99 }
+				color2={ 255 255 255 }
+					
+				b_buuhoodle = {}
+				b_widhwidh = {}
+				b_ceegaag = {}
+				b_horufadhi = {}
+				b_megagle = {}
+				b_qoorlugud = {}
+				b_sool_joogto = {}
+			}
+			c_burao = {
+				color={ 151 166 72 }
+				color2={ 255 255 255 }
+					
+				b_burao = {}
+				b_oodweyne = {}
+				b_dhoqoshay = {}
+				b_qoryale = {}
+				b_durksi = {}
+				b_gedi_han = {}
+				b_balidhiig = {}
+			}
+		}
+		d_somaliland = {
+			color={ 92 163 107 }
+			color2={ 255 255 255 }
+
+			c_sahil = {
+				color={ 80 64 4 }
+				color2={ 255 255 255 }
+					
+				b_berbera = {}
+				b_shiikh = {}
+				b_bulaxaar = {}
+				b_laas_ciidle = {}
+				b_xagal = {}
+				b_abdaal = {}
+				b_daarbuduq = {}
+			}
+			c_hargeysa = {
+				color={ 58 140 182 }
+				color2={ 255 255 255 }
+					
+				b_hargeysa = {}
+				b_gabiley = {}
+				b_baligubadle = {}
+				b_dhabolaq = {}
+				b_wajale = {}
+				b_dilla = {}
+				b_kalabaydh = {}
+			}
+			c_awdal = {
+				color={ 63 69 123 }
+				color2={ 255 255 255 }
+					
+				b_boorama = {}
+				b_zeila = {}
+				b_lughaya = {}
+				b_baki = {}
+				b_asha_addo = {}
+				b_jidhi = {}
+				b_quljeed = {}
+			}
+		}
+		d_ogaden = {
+			color={ 92 163 107 }
+			color2={ 255 255 255 }
+
+			c_dollo = {
+				color={ 250 103 220 }
+				color2={ 255 255 255 }
+					
+				b_warder = {}
+				b_danot = {}
+				b_bokh = {}
+				b_galaadi = {}
+				b_dudub = {}
+				b_wanagsan = {}
+				b_domo = {}
+			}
+			c_jarar = {
+				color={ 227 136 10 }
+				color2={ 255 255 255 }
+					
+				b_degehabur = {}
+				b_daroor = {}
+				b_awaare = {}
+				b_gashamo = {}
+				b_gunagado = {}
+				b_dhagaxmadow = {}
+				b_birqod = {}
+			}
+			c_fafan = {
+				color={ 253 242 107 }
+				color2={ 255 255 255 }
+					
+				b_jijiga = {}
+				b_awbare = {}
+				b_kebri_beyah = {}
+				b_harshin = {}
+				b_tuli_guled = {}
+				b_gursum = {}
+				b_handew = {}
+			}
+			c_korahe = {
+				color={ 183 183 90 }
+				color2={ 255 255 255 }
+					
+				b_kebri_dehar = {}
+				b_shekosh = {}
+				b_debeweyin = {}
+				b_geregube = {}
+				b_magaalow_cusub = {}
+				b_hanan = {}
+			}
+			c_afder = {
+				color={ 131 230 215 }
+				color2={ 255 255 255 }
+					
+				b_hargelle = {}
+				b_cherti = {}
+				b_imi = {}
+				b_el_kere = {}
+				b_baarey = {}
+				b_bogol = {}
+				b_dolobay = {}
+			}
+			c_shabelle = {
+				color={ 11 186 99 }
+				color2={ 255 255 255 }
+					
+				b_gode = {}
+				b_kelafo = {}
+				b_mustahil = {}
+				b_beercaano = {}
+				b_adadle = {}
+				b_gumer = {}
+				b_dagnerrei = {}
+			}
+			c_nogob = {
+				color={ 38 204 130 }
+				color2={ 255 255 255 }
+					
+				b_fiq = {}
+				b_segeg = {}
+				b_hamero = {}
+				b_mayumuluka = {}
+				b_lagahida = {}
+				b_salahad = {}
+				b_gerbo = {}
+			}
+			c_shilabo = {
+				color={ 86 89 201 }
+				color2={ 255 255 255 }
+					
+				b_shilabo = {}
+			}
+		}
+	}
+}

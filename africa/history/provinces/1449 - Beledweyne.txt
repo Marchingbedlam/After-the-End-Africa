@@ -1,0 +1,15 @@
+# County Title
+title = c_beledweyne
+
+# Settlements
+max_settlements = 4
+
+b_matabaan = castle
+b_beledweyne = city
+b_el_ali = temple
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

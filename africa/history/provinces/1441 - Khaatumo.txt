@@ -1,0 +1,14 @@
+# County Title
+title = c_khaatumo
+
+# Settlements
+max_settlements = 3
+
+b_taleh = castle
+b_xudun = city
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

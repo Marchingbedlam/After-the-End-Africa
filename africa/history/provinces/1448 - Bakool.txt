@@ -1,0 +1,15 @@
+# County Title
+title = c_bakool
+
+# Settlements
+max_settlements = 4
+
+b_waajid = castle
+b_xuddur = city
+b_tiyeegloow = temple
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

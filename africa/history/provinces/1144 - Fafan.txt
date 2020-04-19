@@ -1,0 +1,15 @@
+# County Title
+title = c_fafan
+
+# Settlements
+max_settlements = 4
+
+b_kebri_beyah = castle
+b_jijiga = city
+b_awbare = temple
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

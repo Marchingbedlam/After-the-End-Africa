@@ -1,0 +1,15 @@
+# County Title
+title = c_badhan
+
+# Settlements
+max_settlements = 4
+
+b_badhan = castle
+b_las_khorey = city
+b_heylaan = temple
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

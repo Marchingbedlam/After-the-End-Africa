@@ -1,0 +1,13 @@
+# County Title
+title = c_dollo
+
+# Settlements
+max_settlements = 3
+
+b_warder = castle
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

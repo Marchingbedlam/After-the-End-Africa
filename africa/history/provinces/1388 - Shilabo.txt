@@ -1,0 +1,13 @@
+# County Title
+title = c_shilabo
+
+# Settlements
+max_settlements = 3
+
+b_shilabo = castle
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

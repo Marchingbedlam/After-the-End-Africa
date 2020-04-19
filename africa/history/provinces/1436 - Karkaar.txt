@@ -1,0 +1,14 @@
+# County Title
+title = c_karkaar
+
+# Settlements
+max_settlements = 4
+
+b_qardho = castle
+b_bandar_beyla = city
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

@@ -1,0 +1,14 @@
+# County Title
+title = c_bardhere
+
+# Settlements
+max_settlements = 3
+
+b_bardhere = castle
+b_el_wak = city
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

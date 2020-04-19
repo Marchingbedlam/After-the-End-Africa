@@ -1,0 +1,15 @@
+# County Title
+title = c_hargeysa
+
+# Settlements
+max_settlements = 5
+
+b_gabiley = castle
+b_hargeysa = city
+b_baligubadle = temple
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

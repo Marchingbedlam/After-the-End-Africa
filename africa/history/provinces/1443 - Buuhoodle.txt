@@ -1,0 +1,14 @@
+# County Title
+title = c_buuhoodle
+
+# Settlements
+max_settlements = 3
+
+b_buuhoodle = castle
+b_widhwidh = city
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

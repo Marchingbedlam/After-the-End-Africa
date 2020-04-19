@@ -1,0 +1,13 @@
+# County Title
+title = c_korahe
+
+# Settlements
+max_settlements = 3
+
+b_kebri_dehar = castle
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

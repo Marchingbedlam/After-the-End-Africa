@@ -1,0 +1,14 @@
+# County Title
+title = c_shabelle
+
+# Settlements
+max_settlements = 3
+
+b_kelafo = castle
+b_gode = city
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title = c_burao
+
+# Settlements
+max_settlements = 4
+
+b_dhoqoshay = castle
+b_burao = city
+b_oodweyne = temple
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

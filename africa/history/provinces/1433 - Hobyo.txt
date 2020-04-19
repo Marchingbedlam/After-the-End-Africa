@@ -1,0 +1,15 @@
+# County Title
+title = c_hobyo
+
+# Settlements
+max_settlements = 4
+
+b_garacad = castle
+b_hobyo = city
+b_budbud = temple
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

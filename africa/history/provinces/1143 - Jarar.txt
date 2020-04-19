@@ -1,0 +1,14 @@
+# County Title
+title = c_jarar
+
+# Settlements
+max_settlements = 3
+
+b_daroor = castle
+b_degehabur = temple
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

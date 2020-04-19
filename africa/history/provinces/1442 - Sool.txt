@@ -1,0 +1,14 @@
+# County Title
+title = c_sool
+
+# Settlements
+max_settlements = 4
+
+b_aynaba = castle
+b_las_anod = city
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

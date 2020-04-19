@@ -1,0 +1,15 @@
+# County Title
+title = c_baay
+
+# Settlements
+max_settlements = 4
+
+b_dinsoor = castle
+b_baidoa = city
+b_buurhakaba = temple
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

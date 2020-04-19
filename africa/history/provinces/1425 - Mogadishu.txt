@@ -1,0 +1,16 @@
+# County Title
+title = c_mogadishu
+
+# Settlements
+max_settlements = 7
+
+b_wardhigley = castle
+b_mogadishu = city
+b_wanlaweyn = temple
+b_afgooye = city
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

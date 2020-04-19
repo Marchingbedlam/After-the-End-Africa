@@ -1,0 +1,14 @@
+# County Title
+title = c_afmadow
+
+# Settlements
+max_settlements = 3
+
+b_dhobley = castle
+b_afmadow = temple
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

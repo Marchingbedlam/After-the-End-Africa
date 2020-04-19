@@ -1,0 +1,13 @@
+# County Title
+title = c_buuloburde
+
+# Settlements
+max_settlements = 2
+
+b_buuloburde = castle
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

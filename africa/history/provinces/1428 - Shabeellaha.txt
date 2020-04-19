@@ -1,0 +1,15 @@
+# County Title
+title = c_shabeellaha
+
+# Settlements
+max_settlements = 4
+
+b_balcad = castle
+b_jowhar = city
+b_adale = temple
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

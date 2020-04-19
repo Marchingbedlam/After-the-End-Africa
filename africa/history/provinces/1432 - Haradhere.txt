@@ -1,0 +1,14 @@
+# County Title
+title = c_haradhere
+
+# Settlements
+max_settlements = 3
+
+b_qeycad = castle
+b_haradhere = city
+
+# Misc
+culture = somali
+religion = sunni
+
+#History

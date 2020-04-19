@@ -1,0 +1,61 @@
+###ÄNSI
+cushitic = {
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { muslimgfx }
+	
+	somali = {
+		graphical_cultures = { africangfx westafricangfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.2 0.2 0.1 }
+
+		male_names = {
+			Aadan Aadangurey Abshir Abukar_Abu-Bakr Amiin_Amin Axmed_Ahmed Ayuub_Job
+			Baashe Barkhad Bashiir_Bashir Bootaan Buraale Burci
+			Caamir_Amir Cabdi Cabdicasiis_Abdul-Aziz Cabdikariim_Abdul-Karim Cabdimaliik_Abdul-Malik Cabdinuur Cabdiqaadir_Abdul-Qadir Cabdiqaasim_Abdul-Qasim Cabdiqani Cabdirashiid_Abdul-Rashid Cabdiraxmaan_Abdul-Rahman Cabdirisaaq Cabdisalaan Cabdishakuur Cabdiweli Cabdixakiin_Abdul-Hakim Cabdullaahi Cabdulle_Abdullah Cali_Ali Ciise_Jesus Cilmi_Elman Cismaan_Osman Cumar_Omar
+			Daahir Daaud_David Deeq Dheere Dhuxul Diriyeh
+			Faqrudiin Farxaan_Farhan Faysal_Faisal Fuaad_Fuad
+			Geraad Gurey Guuleed
+			Ibraahim_Abraham Ismaaciil_Ishmael
+			Jaale Jaamac Jamaal_Jamal Jaylaani Jimaale
+			Keynaan Khalif
+			Liibaan
+			Macalin Madoobe Maxamed_Muhammad Maxbuub Maxfuud Maxmuud_Mahmud Mooge Mukhtaar_Mukhtar Mustafa Muuse_Moses
+			Nuur_Nur Nuuradiin
+			Odowaa
+			Qaasim_Qasim Qorane
+			Raage
+			Saalim_Salim Sacad_Saad Saciid_Said Sakariye_Zachary Salaad Saleeban_Solomon Shariif_Sharif Sheekh_Sheikh Sheekhnuur Siyaad Suuldaan
+			Ugaas
+			Warsame
+			Xaashi Xasan_Hasan Xasanuur Xuseen_Hussein
+			Yaasiin_Yasin Yaxye_John Yurub Yuusuf_Joseph
+		}
+		female_names = {
+			Aamina_Amina Anisa Asli Ayaan
+			Barni
+			Caasha Caraweelo
+			Deeqa
+			Faarax_Farah Fadumo_Fatima Fadxiya_Fathia Falis Fartuun Farxiiyo Fowsiyo_Fawzia
+			Hibaaq Hodan
+			Idil Ifraax Ilhan Ilwaad
+			Jawaahir
+			Khadiija_Khadija Khadra
+			Laadan Leyla
+			Maryan_Mary Muna
+			Nasra Nimco Nuuriya_Nuria
+			Saado Saciida_Saida Sahra Shaadiyya Shukraan Suleekha
+			Ubax
+			Waris Warsan
+			Xaawo_Hawa Xaliima_Halima Xanan_Hanan Xasna_Hasna
+			Yasmiin_Yasmin Yusuur
+			Zakiya Zara
+		}
+		
+		founder_named_dynasties = yes
+		dukes_called_kings = yes
+
+		modifier = default_culture_modifier
+	}
+
+}
