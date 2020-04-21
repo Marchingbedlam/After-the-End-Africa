@@ -1,0 +1,14 @@
+# County Title
+title = c_masi_manimba
+
+# Settlements
+max_settlements = 3
+
+b_mosango = castle
+b_masi_manimba = city
+
+# Misc
+culture = kongo
+religion = catholic
+
+#History

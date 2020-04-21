@@ -1,0 +1,14 @@
+# County Title
+title = c_gungu
+
+# Settlements
+max_settlements = 3
+
+b_gungu = castle
+b_kilembe = temple
+
+# Misc
+culture = kongo
+religion = catholic
+
+#History

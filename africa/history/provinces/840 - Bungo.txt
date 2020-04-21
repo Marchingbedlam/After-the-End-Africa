@@ -1,0 +1,15 @@
+# County Title
+title = c_bungo
+
+# Settlements
+max_settlements = 4
+
+b_damba = castle
+b_bungo = city
+b_luzunda = temple
+
+# Misc
+culture = kongo
+religion = catholic
+
+#History

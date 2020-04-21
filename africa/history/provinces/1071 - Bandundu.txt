@@ -1,0 +1,14 @@
+# County Title
+title = c_bandundu
+
+# Settlements
+max_settlements = 3
+
+b_bandundu = castle
+b_kwamouth = temple
+
+# Misc
+culture = kongo
+religion = catholic
+
+#History

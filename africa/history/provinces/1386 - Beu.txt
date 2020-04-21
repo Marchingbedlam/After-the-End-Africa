@@ -1,0 +1,15 @@
+# County Title
+title = c_beu
+
+# Settlements
+max_settlements = 4
+
+b_maquela_do_zombo = castle
+b_beu = city
+b_buengas = temple
+
+# Misc
+culture = kongo
+religion = catholic
+
+#History

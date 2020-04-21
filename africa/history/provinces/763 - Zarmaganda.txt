@@ -2,7 +2,7 @@
 title = c_zarmaganda
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_bani_bangou_NE = castle
 b_ouallam_NE = city

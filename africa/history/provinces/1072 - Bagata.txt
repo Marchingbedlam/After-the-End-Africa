@@ -1,0 +1,14 @@
+# County Title
+title = c_bagata
+
+# Settlements
+max_settlements = 3
+
+b_falunda = castle
+b_bagata = city
+
+# Misc
+culture = kongo
+religion = catholic
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title = c_boma
+
+# Settlements
+max_settlements = 4
+
+b_tshela = castle
+b_boma = city
+b_muanda = temple
+
+# Misc
+culture = kongo
+religion = catholic
+
+#History

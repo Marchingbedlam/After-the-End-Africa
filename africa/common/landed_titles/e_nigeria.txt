@@ -1,5 +1,5 @@
-e_nigeria = {
-	color={ 0 53 148 }
+e_north_nigeria = {
+	color={ 148 53 0 }
 	color2={ 255 255 20 }
 	
 	k_adamawa = {
@@ -762,6 +762,436 @@ e_nigeria = {
 		}
 	}
 	
+	k_kanuriland = {
+		color={ 201 130 194 }
+		color2={ 255 255 255 }
+		
+		culture = kanuri
+		
+		d_bede = {
+			color={ 186 144 189 }
+			color2={ 255 255 255 }
+				
+				c_nguru = {
+					color={ 94 142 136 }
+					color2={ 255 255 255 }
+					
+					b_nguru_1 = {}
+					b_nguru_2 = {}
+					b_nguru_3 = {}
+				}
+				c_gashua = {
+					color={ 65 142 179 }
+					color2={ 255 255 255 }
+					
+					b_gashua_1 = {}
+					b_gashua_2 = {}
+					b_gashua_3 = {}
+				}
+		}
+		d_biu = {
+			color={ 60 48 59 }
+			color2={ 255 255 255 }
+				
+				c_biu = {
+					color={ 70 139 157 }
+					color2={ 255 255 255 }
+					
+					b_biu_1 = {}
+					b_biu_2 = {}
+					b_biu_3 = {}
+				}
+				c_damboa = {
+					color={ 57 113 151 }
+					color2={ 255 255 255 }
+					
+					b_damboa_1 = {}
+					b_damboa_2 = {}
+					b_damboa_3 = {}
+				}
+		}
+		d_borno = {
+			color={ 128 62 102 }
+			color2={ 255 255 255 }
+				
+				c_maiduguri = {
+					color={ 90 124 126 }
+					color2={ 255 255 255 }
+					
+					b_maiduguri_1 = {}
+					b_maiduguri_2 = {}
+					b_maiduguri_3 = {}
+				}
+				c_kukawa = {
+					color={ 48 123 126 }
+					color2={ 255 255 255 }
+					
+					b_kukawa_1 = {}
+					b_kukawa_2 = {}
+					b_kukawa_3 = {}
+				}
+				c_bama = {
+					color={ 80 161 167 }
+					color2={ 255 255 255 }
+					
+					b_bama_1 = {}
+					b_bama_2 = {}
+					b_bama_3 = {}
+				}
+				c_makari = {
+					color={ 124 156 112 }
+					color2={ 255 255 255 }
+					
+					b_makari = {}
+					b_belgede = {}
+					b_ngouma = {}
+					b_hile_halifa = {}
+					b_alek = {}
+					b_massaki = {}
+					b_nogram = {}
+				}
+				c_gamboru = {
+					color={ 145 176 186 }
+					color2={ 255 255 255 }
+					
+					b_gamboru_1 = {}
+					b_gamboru_2 = {}
+					b_gamboru_3 = {}
+				}
+		}
+		d_yobe = {
+			color={ 120 79 125 }
+			color2={ 255 255 255 }
+				
+				c_potiskum = {
+					color={ 74 101 167 }
+					color2={ 255 255 255 }
+					
+					b_potiskum_1 = {}
+					b_potiskum_2 = {}
+					b_potiskum_3 = {}
+				}
+				c_damatura = {
+					color={ 101 135 167 }
+					color2={ 255 255 255 }
+					
+					b_damatura_1 = {}
+					b_damatura_2 = {}
+					b_damatura_3 = {}
+				}
+				c_fika = {
+					color={ 70 94 139 }
+					color2={ 255 255 255 }
+					
+					b_fika_1 = {}
+					b_fika_2 = {}
+					b_fika_3 = {}
+				}
+		}
+	}
+	k_middle_belt = {
+		color={ 165 85 87 }
+		color2={ 255 255 255 }
+		
+		d_abuja = {
+			color={ 194 81 75 }
+			color2={ 255 255 255 }
+			
+				c_abuja = {
+					color={ 57 113 164 }
+					color2={ 255 255 255 }
+					
+					b_abuja_1 = {}
+					b_abuja_2 = {}
+					b_abuja_3 = {}
+				}
+				c_soleja = {
+					color={ 48 95 98 }
+					color2={ 255 255 255 }
+					
+					b_soleja_1 = {}
+					b_soleja_2 = {}
+					b_soleja_3 = {}
+				}
+				c_kwali = {
+					color={ 38 138 148 }
+					color2={ 255 255 255 }
+					
+					b_kwali_1 = {}
+					b_kwali_2 = {}
+					b_kwali_3 = {}
+				}
+		}
+		d_benue = {
+			color={ 135 63 97 }
+			color2={ 255 255 255 }
+			
+				c_lafia = {
+					color={ 73 145 138 }
+					color2={ 255 255 255 }
+					
+					b_lafia_1 = {}
+					b_lafia_2 = {}
+					b_lafia_3 = {}
+				}
+				c_makurdi = {
+					color={ 96 130 186 }
+					color2={ 255 255 255 }
+					
+					b_makurdi_1 = {}
+					b_makurdi_2 = {}
+					b_makurdi_3 = {}
+				}
+				c_katsina_ala = {
+					color={ 72 158 179 }
+					color2={ 255 255 255 }
+					
+					b_katsina_ala_1 = {}
+					b_katsina_ala_2 = {}
+					b_katsina_ala_3 = {}
+				}
+				c_gboko = {
+					color={ 65 101 161 }
+					color2={ 255 255 255 }
+					
+					b_gboko_1 = {}
+					b_gboko_2 = {}
+					b_gboko_3 = {}
+				}
+		}
+		d_bida = {
+			color={ 50 37 58 }
+			color2={ 255 255 255 }
+			
+				c_bida = {
+					color={ 52 107 176 }
+					color2={ 255 255 255 }
+					
+					b_bida_1 = {}
+					b_bida_2 = {}
+					b_bida_3 = {}
+				}
+				c_minna = {
+					color={ 85 120 113 }
+					color2={ 255 255 255 }
+					
+					b_minna_1 = {}
+					b_minna_2 = {}
+					b_minna_3 = {}
+				}
+				c_zungeru = {
+					color={ 92 132 126 }
+					color2={ 255 255 255 }
+					
+					b_zungeru_1 = {}
+					b_zungeru_2 = {}
+					b_zungeru_3 = {}
+				}
+		}
+		d_idomaland = {
+			color={ 118 40 57 }
+			color2={ 255 255 255 }
+			
+				c_otukpo = {
+					color={ 76 120 145 }
+					color2={ 255 255 255 }
+					
+					b_otukpo_1 = {}
+					b_otukpo_2 = {}
+					b_otukpo_3 = {}
+				}
+				c_doma = {
+					color={ 89 176 164 }
+					color2={ 255 255 255 }
+					
+					b_doma_1 = {}
+					b_doma_2 = {}
+					b_doma_3 = {}
+				}
+		}
+		d_kachia = {
+			color={ 211 104 142 }
+			color2={ 255 255 255 }
+			
+				c_kachia = {
+					color={ 79 123 173 }
+					color2={ 255 255 255 }
+					
+					b_kachia_1 = {}
+					b_kachia_2 = {}
+					b_kachia_3 = {}
+				}
+				c_kagoro = {
+					color={ 105 164 173 }
+					color2={ 255 255 255 }
+					
+					b_kagoro_1 = {}
+					b_kagoro_2 = {}
+					b_kagoro_3 = {}
+				}
+				c_kuta = {
+					color={ 72 132 145 }
+					color2={ 255 255 255 }
+					
+					b_kuta_1 = {}
+					b_kuta_2 = {}
+					b_kuta_3 = {}
+				}
+		}
+		d_kontagora = {
+			color={ 165 96 121 }
+			color2={ 255 255 255 }
+			
+				c_kontagora = {
+					color={ 123 151 179 }
+					color2={ 255 255 255 }
+					
+					b_kontagora_1 = {}
+					b_kontagora_2 = {}
+					b_kontagora_3 = {}
+				}
+				c_yelwa = {
+					color={ 148 151 179 }
+					color2={ 255 255 255 }
+					
+					b_yelwa_1 = {}
+					b_yelwa_2 = {}
+					b_yelwa_3 = {}
+				}
+				c_rijau = {
+					color={ 123 120 179 }
+					color2={ 255 255 255 }
+					
+					b_rijau_1 = {}
+					b_rijau_2 = {}
+					b_rijau_3 = {}
+				}
+				c_kagara = {
+					color={ 82 110 116 }
+					color2={ 255 255 255 }
+					
+					b_kagara_1 = {}
+					b_kagara_2 = {}
+					b_kagara_3 = {}
+				}
+				c_tegina = {
+					color={ 84 161 158 }
+					color2={ 255 255 255 }
+					
+					b_tegina_1 = {}
+					b_tegina_2 = {}
+					b_tegina_3 = {}
+				}
+		}
+		d_mokwa = {
+			color={ 213 81 118 }
+			color2={ 255 255 255 }
+			
+				c_mokwa = {
+					color={ 50 81 120 }
+					color2={ 255 255 255 }
+					
+					b_mokwa_1 = {}
+					b_mokwa_2 = {}
+					b_mokwa_3 = {}
+				}
+				c_kutigi = {
+					color={ 73 82 145 }
+					color2={ 255 255 255 }
+					
+					b_kutigi_1 = {}
+					b_kutigi_2 = {}
+					b_kutigi_3 = {}
+				}
+				c_pategi = {
+					color={ 51 128 154 }
+					color2={ 255 255 255 }
+					
+					b_pategi_1 = {}
+					b_pategi_2 = {}
+					b_pategi_3 = {}
+				}
+		}
+		d_nasarawa = {
+			color={ 239 136 104 }
+			color2={ 255 255 255 }
+			
+				c_keffi = {
+					color={ 70 164 201 }
+					color2={ 255 255 255 }
+					
+					b_keffi_1 = {}
+					b_keffi_2 = {}
+					b_keffi_3 = {}
+				}
+				c_nasarawa = {
+					color={ 93 137 154 }
+					color2={ 255 255 255 }
+					
+					b_nasarawa_1 = {}
+					b_nasarawa_2 = {}
+					b_nasarawa_3 = {}
+				}
+				c_akwanga = {
+					color={ 91 154 176 }
+					color2={ 255 255 255 }
+					
+					b_akwanga_1 = {}
+					b_akwanga_2 = {}
+					b_akwanga_3 = {}
+				}
+				c_wamba = {
+					color={ 106 179 160 }
+					color2={ 255 255 255 }
+					
+					b_wamba_1 = {}
+					b_wamba_2 = {}
+					b_wamba_3 = {}
+				}
+		}
+		d_plateau = {
+			color={ 48 20 42 }
+			color2={ 255 255 255 }
+			
+				c_jos = {
+					color={ 120 145 208 }
+					color2={ 255 255 255 }
+					
+					b_jos_1 = {}
+					b_jos_2 = {}
+					b_jos_3 = {}
+				}
+				c_wase = {
+					color={ 94 86 157 }
+					color2={ 255 255 255 }
+					
+					b_wase_1 = {}
+					b_wase_2 = {}
+					b_wase_3 = {}
+				}
+				c_pankshin = {
+					color={ 135 124 157 }
+					color2={ 255 255 255 }
+					
+					b_pankshin_1 = {}
+					b_pankshin_2 = {}
+					b_pankshin_3 = {}
+				}
+				c_shendam = {
+					color={ 125 173 208 }
+					color2={ 255 255 255 }
+					
+					b_shendam_1 = {}
+					b_shendam_2 = {}
+					b_shendam_3 = {}
+				}
+		}
+	}
+}
+e_south_nigeria = {
+	color={ 0 53 148 }
+	color2={ 255 255 20 }
+	
 	k_igboland = {
 		color={ 130 205 212 }
 		color2={ 255 255 255 }
@@ -1086,433 +1516,6 @@ e_nigeria = {
 					b_koton_karfe_1 = {}
 					b_koton_karfe_2 = {}
 					b_koton_karfe_3 = {}
-				}
-		}
-	}
-	
-	k_kanuriland = {
-		color={ 201 130 194 }
-		color2={ 255 255 255 }
-		
-		culture = kanuri
-		
-		d_bede = {
-			color={ 186 144 189 }
-			color2={ 255 255 255 }
-				
-				c_nguru = {
-					color={ 94 142 136 }
-					color2={ 255 255 255 }
-					
-					b_nguru_1 = {}
-					b_nguru_2 = {}
-					b_nguru_3 = {}
-				}
-				c_gashua = {
-					color={ 65 142 179 }
-					color2={ 255 255 255 }
-					
-					b_gashua_1 = {}
-					b_gashua_2 = {}
-					b_gashua_3 = {}
-				}
-		}
-		d_biu = {
-			color={ 60 48 59 }
-			color2={ 255 255 255 }
-				
-				c_biu = {
-					color={ 70 139 157 }
-					color2={ 255 255 255 }
-					
-					b_biu_1 = {}
-					b_biu_2 = {}
-					b_biu_3 = {}
-				}
-				c_damboa = {
-					color={ 57 113 151 }
-					color2={ 255 255 255 }
-					
-					b_damboa_1 = {}
-					b_damboa_2 = {}
-					b_damboa_3 = {}
-				}
-		}
-		d_borno = {
-			color={ 128 62 102 }
-			color2={ 255 255 255 }
-				
-				c_maiduguri = {
-					color={ 90 124 126 }
-					color2={ 255 255 255 }
-					
-					b_maiduguri_1 = {}
-					b_maiduguri_2 = {}
-					b_maiduguri_3 = {}
-				}
-				c_kukawa = {
-					color={ 48 123 126 }
-					color2={ 255 255 255 }
-					
-					b_kukawa_1 = {}
-					b_kukawa_2 = {}
-					b_kukawa_3 = {}
-				}
-				c_bama = {
-					color={ 80 161 167 }
-					color2={ 255 255 255 }
-					
-					b_bama_1 = {}
-					b_bama_2 = {}
-					b_bama_3 = {}
-				}
-				c_makari = {
-					color={ 124 156 112 }
-					color2={ 255 255 255 }
-					
-					b_makari = {}
-					b_belgede = {}
-					b_ngouma = {}
-					b_hile_halifa = {}
-					b_alek = {}
-					b_massaki = {}
-					b_nogram = {}
-				}
-				c_gamboru = {
-					color={ 145 176 186 }
-					color2={ 255 255 255 }
-					
-					b_gamboru_1 = {}
-					b_gamboru_2 = {}
-					b_gamboru_3 = {}
-				}
-		}
-		d_yobe = {
-			color={ 120 79 125 }
-			color2={ 255 255 255 }
-				
-				c_potiskum = {
-					color={ 74 101 167 }
-					color2={ 255 255 255 }
-					
-					b_potiskum_1 = {}
-					b_potiskum_2 = {}
-					b_potiskum_3 = {}
-				}
-				c_damatura = {
-					color={ 101 135 167 }
-					color2={ 255 255 255 }
-					
-					b_damatura_1 = {}
-					b_damatura_2 = {}
-					b_damatura_3 = {}
-				}
-				c_fika = {
-					color={ 70 94 139 }
-					color2={ 255 255 255 }
-					
-					b_fika_1 = {}
-					b_fika_2 = {}
-					b_fika_3 = {}
-				}
-		}
-	}
-	
-	k_middle_belt = {
-		color={ 165 85 87 }
-		color2={ 255 255 255 }
-		
-		d_abuja = {
-			color={ 194 81 75 }
-			color2={ 255 255 255 }
-			
-				c_abuja = {
-					color={ 57 113 164 }
-					color2={ 255 255 255 }
-					
-					b_abuja_1 = {}
-					b_abuja_2 = {}
-					b_abuja_3 = {}
-				}
-				c_soleja = {
-					color={ 48 95 98 }
-					color2={ 255 255 255 }
-					
-					b_soleja_1 = {}
-					b_soleja_2 = {}
-					b_soleja_3 = {}
-				}
-				c_kwali = {
-					color={ 38 138 148 }
-					color2={ 255 255 255 }
-					
-					b_kwali_1 = {}
-					b_kwali_2 = {}
-					b_kwali_3 = {}
-				}
-		}
-		d_benue = {
-			color={ 135 63 97 }
-			color2={ 255 255 255 }
-			
-				c_lafia = {
-					color={ 73 145 138 }
-					color2={ 255 255 255 }
-					
-					b_lafia_1 = {}
-					b_lafia_2 = {}
-					b_lafia_3 = {}
-				}
-				c_makurdi = {
-					color={ 96 130 186 }
-					color2={ 255 255 255 }
-					
-					b_makurdi_1 = {}
-					b_makurdi_2 = {}
-					b_makurdi_3 = {}
-				}
-				c_katsina_ala = {
-					color={ 72 158 179 }
-					color2={ 255 255 255 }
-					
-					b_katsina_ala_1 = {}
-					b_katsina_ala_2 = {}
-					b_katsina_ala_3 = {}
-				}
-				c_gboko = {
-					color={ 65 101 161 }
-					color2={ 255 255 255 }
-					
-					b_gboko_1 = {}
-					b_gboko_2 = {}
-					b_gboko_3 = {}
-				}
-		}
-		d_bida = {
-			color={ 50 37 58 }
-			color2={ 255 255 255 }
-			
-				c_bida = {
-					color={ 52 107 176 }
-					color2={ 255 255 255 }
-					
-					b_bida_1 = {}
-					b_bida_2 = {}
-					b_bida_3 = {}
-				}
-				c_minna = {
-					color={ 85 120 113 }
-					color2={ 255 255 255 }
-					
-					b_minna_1 = {}
-					b_minna_2 = {}
-					b_minna_3 = {}
-				}
-				c_zungeru = {
-					color={ 92 132 126 }
-					color2={ 255 255 255 }
-					
-					b_zungeru_1 = {}
-					b_zungeru_2 = {}
-					b_zungeru_3 = {}
-				}
-		}
-		d_idomaland = {
-			color={ 118 40 57 }
-			color2={ 255 255 255 }
-			
-				c_otukpo = {
-					color={ 76 120 145 }
-					color2={ 255 255 255 }
-					
-					b_otukpo_1 = {}
-					b_otukpo_2 = {}
-					b_otukpo_3 = {}
-				}
-				c_doma = {
-					color={ 89 176 164 }
-					color2={ 255 255 255 }
-					
-					b_doma_1 = {}
-					b_doma_2 = {}
-					b_doma_3 = {}
-				}
-		}
-		d_kachia = {
-			color={ 211 104 142 }
-			color2={ 255 255 255 }
-			
-				c_kachia = {
-					color={ 79 123 173 }
-					color2={ 255 255 255 }
-					
-					b_kachia_1 = {}
-					b_kachia_2 = {}
-					b_kachia_3 = {}
-				}
-				c_kagoro = {
-					color={ 105 164 173 }
-					color2={ 255 255 255 }
-					
-					b_kagoro_1 = {}
-					b_kagoro_2 = {}
-					b_kagoro_3 = {}
-				}
-				c_kuta = {
-					color={ 72 132 145 }
-					color2={ 255 255 255 }
-					
-					b_kuta_1 = {}
-					b_kuta_2 = {}
-					b_kuta_3 = {}
-				}
-		}
-		d_kontagora = {
-			color={ 165 96 121 }
-			color2={ 255 255 255 }
-			
-				c_kontagora = {
-					color={ 123 151 179 }
-					color2={ 255 255 255 }
-					
-					b_kontagora_1 = {}
-					b_kontagora_2 = {}
-					b_kontagora_3 = {}
-				}
-				c_yelwa = {
-					color={ 148 151 179 }
-					color2={ 255 255 255 }
-					
-					b_yelwa_1 = {}
-					b_yelwa_2 = {}
-					b_yelwa_3 = {}
-				}
-				c_rijau = {
-					color={ 123 120 179 }
-					color2={ 255 255 255 }
-					
-					b_rijau_1 = {}
-					b_rijau_2 = {}
-					b_rijau_3 = {}
-				}
-				c_kagara = {
-					color={ 82 110 116 }
-					color2={ 255 255 255 }
-					
-					b_kagara_1 = {}
-					b_kagara_2 = {}
-					b_kagara_3 = {}
-				}
-				c_tegina = {
-					color={ 84 161 158 }
-					color2={ 255 255 255 }
-					
-					b_tegina_1 = {}
-					b_tegina_2 = {}
-					b_tegina_3 = {}
-				}
-		}
-		d_mokwa = {
-			color={ 213 81 118 }
-			color2={ 255 255 255 }
-			
-				c_mokwa = {
-					color={ 50 81 120 }
-					color2={ 255 255 255 }
-					
-					b_mokwa_1 = {}
-					b_mokwa_2 = {}
-					b_mokwa_3 = {}
-				}
-				c_kutigi = {
-					color={ 73 82 145 }
-					color2={ 255 255 255 }
-					
-					b_kutigi_1 = {}
-					b_kutigi_2 = {}
-					b_kutigi_3 = {}
-				}
-				c_pategi = {
-					color={ 51 128 154 }
-					color2={ 255 255 255 }
-					
-					b_pategi_1 = {}
-					b_pategi_2 = {}
-					b_pategi_3 = {}
-				}
-		}
-		d_nasarawa = {
-			color={ 239 136 104 }
-			color2={ 255 255 255 }
-			
-				c_keffi = {
-					color={ 70 164 201 }
-					color2={ 255 255 255 }
-					
-					b_keffi_1 = {}
-					b_keffi_2 = {}
-					b_keffi_3 = {}
-				}
-				c_nasarawa = {
-					color={ 93 137 154 }
-					color2={ 255 255 255 }
-					
-					b_nasarawa_1 = {}
-					b_nasarawa_2 = {}
-					b_nasarawa_3 = {}
-				}
-				c_akwanga = {
-					color={ 91 154 176 }
-					color2={ 255 255 255 }
-					
-					b_akwanga_1 = {}
-					b_akwanga_2 = {}
-					b_akwanga_3 = {}
-				}
-				c_wamba = {
-					color={ 106 179 160 }
-					color2={ 255 255 255 }
-					
-					b_wamba_1 = {}
-					b_wamba_2 = {}
-					b_wamba_3 = {}
-				}
-		}
-		d_plateau = {
-			color={ 48 20 42 }
-			color2={ 255 255 255 }
-			
-				c_jos = {
-					color={ 120 145 208 }
-					color2={ 255 255 255 }
-					
-					b_jos_1 = {}
-					b_jos_2 = {}
-					b_jos_3 = {}
-				}
-				c_wase = {
-					color={ 94 86 157 }
-					color2={ 255 255 255 }
-					
-					b_wase_1 = {}
-					b_wase_2 = {}
-					b_wase_3 = {}
-				}
-				c_pankshin = {
-					color={ 135 124 157 }
-					color2={ 255 255 255 }
-					
-					b_pankshin_1 = {}
-					b_pankshin_2 = {}
-					b_pankshin_3 = {}
-				}
-				c_shendam = {
-					color={ 125 173 208 }
-					color2={ 255 255 255 }
-					
-					b_shendam_1 = {}
-					b_shendam_2 = {}
-					b_shendam_3 = {}
 				}
 		}
 	}
@@ -1925,6 +1928,148 @@ e_nigeria = {
 					b_aplahoue_2 = {}
 					b_aplahoue_3 = {}
 				}
+		}
+	}
+	k_ambazonia = {
+		color={ 150 150 110 }
+		color2={ 255 255 255 }
+
+		d_calabar = {
+			color={ 55 114 120 }
+			color2={ 255 255 255 }	
+			
+			c_calabar = {
+				color={ 77 108 113 }
+				color2={ 255 255 255 }
+				
+				b_calabar_1 = {}
+				b_calabar_2 = {}
+				b_calabar_3 = {}
+			}
+			c_uyo = {
+				color={ 0 155 132 }
+				color2={ 255 255 255 }
+				
+				b_uyo_1 = {}
+				b_uyo_2 = {}
+				b_uyo_3 = {}
+			}
+			c_ugep = {
+				color={ 90 110 89 }
+				color2={ 255 255 255 }
+				
+				b_ugep_1 = {}
+				b_ugep_2 = {}
+				b_ugep_3 = {}
+			}
+			c_ndian = {
+				color={ 188 100 182 }
+				color2={ 255 255 255 }
+
+				b_ndian = {}
+			}
+		}
+		d_cross_river = {
+			color={ 140 179 169 }
+			color2={ 255 255 255 }	
+			
+			c_ogoja = {
+				color={ 97 151 113 }
+				color2={ 255 255 255 }
+				
+				b_ogoja_1 = {}
+				b_ogoja_2 = {}
+				b_ogoja_3 = {}
+			}
+			c_akamkpa = {
+				color={ 55 161 116 }
+				color2={ 255 255 255 }
+				
+				b_akamkpa_1 = {}
+				b_akamkpa_2 = {}
+				b_akamkpa_3 = {}
+			}
+			c_ikom = {
+				color={ 125 148 142 }
+				color2={ 255 255 255 }
+				
+				b_ikom_1 = {}
+				b_ikom_2 = {}
+				b_ikom_3 = {}
+			}
+			c_vande_ikya = {
+				color={ 109 172 176 }
+				color2={ 255 255 255 }
+				
+				b_vande_ikya_1 = {}
+				b_vande_ikya_2 = {}
+				b_vande_ikya_3 = {}
+			}
+			c_menchum = {
+				color={ 123 174 209 }
+				color2={ 255 255 255 }
+
+				b_menchum = {
+				}
+			}
+		}
+		d_oku = {
+			color={ 130 180 200 }
+			color2={ 255 255 255 }
+			
+			c_donga = {
+				color={ 137 137 136 }
+				color2={ 255 255 255 }
+
+				b_donga = {}
+			}
+			c_grassfields = {
+				color={ 137 126 126 }
+				color2={ 255 255 255 }
+
+				b_grassfields = {}
+			}
+			c_ngo_ketunjia = {
+				color={ 183 181 183 }
+				color2={ 255 255 255 }
+
+				b_ngo_ketunjia = {}
+			}
+			c_bamenda = {
+				color={ 144 204 209 }
+				color2={ 255 255 255 }
+
+				b_bamenda = {}
+			}
+			c_boyo = {
+				color={ 188 188 186 }
+				color2={ 255 255 255 }
+
+				b_boyo = {}
+			}
+		}
+		d_korup = {
+			color={ 200 140 200 }
+			color2={ 255 255 255 }
+			
+			c_manyu = {
+				color={ 255 135 247 }
+				color2={ 255 255 255 }
+
+				b_manyu = {}
+			}
+			c_koupe_manengouba = {
+				color={ 215 122 255 }
+				color2={ 255 255 255 }
+
+				b_koupe_manengouba = {}
+			}
+			c_fako = {
+				color={ 255 45 171 }
+				color2={ 255 255 255 }
+
+				b_fako = {}
+			}
 		}
 	}
 }

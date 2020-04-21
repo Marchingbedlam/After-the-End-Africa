@@ -1,0 +1,15 @@
+# County Title
+title = c_nzeto
+
+# Settlements
+max_settlements = 4
+
+b_tomboco = castle
+b_nzeto = city
+b_quimavongo = temple
+
+# Misc
+culture = kongo
+religion = catholic
+
+#History

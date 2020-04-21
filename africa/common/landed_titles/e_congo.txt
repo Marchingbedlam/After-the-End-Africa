@@ -679,5 +679,342 @@ e_congo = {
 				b_impfondo = {}
 			}
 		}
+		d_cabinda = {
+			color={ 60 130 60 }
+			color2={ 255 255 255 }
+
+			c_cabinda = {
+				color={ 251 134 99 }
+				color2={ 255 255 255 }
+
+				kongo = "Tsiowa"
+
+				b_cabinda = {}
+				b_malembo = {}
+				b_tando_zinze = {}
+				b_cacongo = {}
+				b_buco_zau = {}
+				b_belize = {}
+				b_landana = {}
+			}
+			c_boma = {
+				color={ 95 218 103 }
+				color2={ 255 255 255 }
+
+				b_boma = {}
+				b_muanda = {}
+				b_lukula = {}
+				b_tshela = {}
+				b_seke_banza = {}
+				b_kinzau_mvuete = {}
+				b_inga = {}
+			}
+			c_luozi = {
+				color={ 207 223 190 }
+				color2={ 255 255 255 }
+
+				b_luozi = {}
+				b_kilanda = {}
+				b_pioka = {}
+				b_kibunzi = {}
+				b_mangembo = {}
+				b_sangila = {}
+				b_lukunga = {}
+			}
+		}
+	}
+	k_congo = {
+		color={ 50 110 170 }
+		color2={ 255 255 255 }
+
+		d_kongo_central = {
+			color={ 50 110 50 }
+			color2={ 255 255 255 }
+
+			c_matadi = {
+				color={ 16 4 251 }
+				color2={ 255 255 255 }
+
+				b_matadi = {}
+				b_songololo = {}
+				b_kimpese = {}
+				b_lufu = {}
+				b_mpete = {}
+				b_kuyi = {}
+				b_tombagadio = {}
+			}
+			c_mbanza_ngungu = {
+				color={ 39 41 168 }
+				color2={ 255 255 255 }
+
+				b_mbanza_ngungu = {}
+				b_kolo_fuma = {}
+				b_inkisi = {}
+				b_nkamba = {}
+				b_kwilu_ngongo = {}
+				b_kuzi = {}
+				b_tumba = {}
+			}
+			c_madimba = {
+				color={ 14 198 205 }
+				color2={ 255 255 255 }
+
+				b_madimba = {}
+				b_kasangulu = {}
+				b_bailleux = {}
+				b_mbanza_mboma = {}
+				b_mingadi = {}
+				b_kiteke = {}
+				b_kikosi = {}
+			}
+			c_kinshasa = {
+				color={ 16 4 251 }
+				color2={ 255 255 255 }
+
+				b_gombe = {}
+				b_kinshasa = {}
+				b_lukunga = {}
+				b_funa = {}
+				b_mont_amba = {}
+				b_tshangu = {}
+				b_limete = {}
+			}
+		}
+		d_kwango = {
+			color={ 50 110 50 }
+			color2={ 255 255 255 }
+
+			c_kasongo_lunda = {
+				color={ 234 212 245 }
+				color2={ 255 255 255 }
+
+				b_kasongo_lunda = {}
+				b_mawanga = {}
+				b_kibunda = {}
+				b_swa_tenda = {}
+				b_kingulu = {}
+				b_mwana_muyomba = {}
+				b_kizamba = {}
+			}
+			c_kahemba = {
+				color={ 43 55 225 }
+				color2={ 255 255 255 }
+
+				b_kahemba = {}
+				b_mwendjila = {}
+				b_ka_nguya = {}
+				b_kakima = {}
+				b_kudi = {}
+				b_kulindji = {}
+				b_kandji_kandji = {}
+			}
+			c_feshi = {
+				color={ 14 198 205 }
+				color2={ 255 255 255 }
+
+				b_feshi = {}
+				b_katini = {}
+				b_ganaketi = {}
+				b_kobo = {}
+				b_mukoso = {}
+				b_kikawa = {}
+				b_kabama = {}
+			}
+			c_kenge = {
+				color={ 239 39 78 }
+				color2={ 255 255 255 }
+
+				b_kenge = {}
+				b_popokabaka = {}
+				b_ngunzi = {}
+				b_lufunu = {}
+				b_bwanzima = {}
+				b_mukila = {}
+				b_kimbele = {}
+			}
+		}
+		d_kwilu = {
+			color={ 30 160 60 }
+			color2={ 255 255 255 }
+
+			c_bandundu = {
+				color={ 13 25 4 }
+				color2={ 255 255 255 }
+
+				b_bandundu = {}
+				b_bokala = {}
+				b_kwamouth = {}
+				b_masia_mbio = {}
+				b_tua = {}	
+				b_kima = {}
+				b_nganda = {}
+			}
+			c_bagata = {
+				color={ 12 23 146 }
+				color2={ 255 255 255 }
+
+				b_bagata = {}
+				b_falunda = {}
+				b_zaba = {}
+				b_kinzia = {}
+				b_djuma = {}
+				b_pana = {}
+				b_bokumi = {}
+			}
+			c_kikwit = {
+				color={ 170 58 166 }
+				color2={ 255 255 255 }
+
+				b_kikwit = {}
+				b_bulungu = {}
+				b_kipuka = {}
+				b_kilungu_djimba = {}
+				b_kimputu = {}
+				b_musangu = {}
+				b_kazamba = {}
+			}
+			c_idiofa = {
+				color={ 67 13 104 }
+				color2={ 255 255 255 }
+
+				b_idiofa = {}
+				b_dibaya_lubwe = {}
+				b_mangai = {}
+				b_matende = {}
+				b_kalo = {}
+				b_panu = {}
+				b_mbulu = {}
+			}
+			c_gungu = {
+				color={ 173 174 97 }
+				color2={ 255 255 255 }
+
+				b_gungu = {}
+				b_kilembe = {}
+				b_mukedi = {}
+				b_kakobola = {}
+				b_mongai = {}
+				b_bata = {}
+				b_sadi = {}
+			}
+			c_masi_manimba = {
+				color={ 255 197 83 }
+				color2={ 255 255 255 }
+
+				b_masi_manimba = {}
+				b_masumuna = {}
+				b_mosango = {}
+				b_kinzenga = {}
+				b_kisala = {}
+				b_yeye = {}
+				b_kumbi_makopa = {}
+			}
+		}
+		d_zaire = {
+			color={ 50 110 50 }
+			color2={ 255 255 255 }
+
+			c_soyo = {
+				color={ 142 6 68 }
+				color2={ 255 255 255 }
+
+				b_porto_rico = {}
+				b_soyo = {}
+				b_manga_grande = {}
+				b_noqui = {}
+				b_cavuge = {}
+				b_lucata = {}
+				b_quinquengue = {}
+			}
+			c_mbanza_kongo = {
+				color={ 179 67 159 }
+				color2={ 255 255 255 }
+
+				b_cuimba = {}
+				b_mbanza_kongo = {}
+				b_evua = {}
+				b_belem = {}
+				b_salve = {}
+				b_banza_quiende = {}
+				b_lemo = {}
+			}
+			c_nzeto = {
+				color={ 220 126 107 }
+				color2={ 255 255 255 }
+
+				b_tomboco = {}
+				b_nzeto = {}
+				b_quimavongo = {}
+				b_mucula = {}
+				b_quimaria = {}
+				b_cana = {}
+				b_bessa_monteiro = {}
+			}
+		}
+		d_uige = {
+			color={ 50 110 50 }
+			color2={ 255 255 255 }
+
+			c_bungo = {
+				color={ 142 6 68 }
+				color2={ 255 255 255 }
+
+				b_bungo = {}
+				b_damba = {}
+				b_luzunda = {}
+				b_demba = {}
+				b_regedoria_do_caindo = {}
+				b_quicunguri = {}
+				b_banza_cabouco = {}
+			}
+			c_quimbele = {
+				color={ 179 67 159 }
+				color2={ 255 255 255 }
+
+				b_milunga = {}
+				b_quimbele = {}
+				b_macocola = {}
+				b_sanza_pombo = {}
+				b_zassucula = {}
+				b_vengueta = {}
+				b_uamba = {}
+			}
+			c_songo = {
+				color={ 63 228 49 }
+				color2={ 255 255 255 }
+
+				b_ambuila = {}
+				b_songo = {}
+				b_banza_lende = {}
+				b_nova_caipemba = {}
+				b_bembe = {}
+				b_xamindele = {}
+				b_quimaquire = {}
+			}
+			c_uige = {
+				color={ 145 133 107 }
+				color2={ 255 255 255 }
+
+				b_quitexe = {}
+				b_uige = {}
+				b_negage = {}
+				b_cazanga = {}
+				b_puri = {}
+				b_vista_alegre = {}
+				b_ganacamano = {}
+			}
+			c_beu = {
+				color={ 85 215 108 }
+				color2={ 255 255 255 }
+
+				b_buengas = {}
+				b_beu = {}
+				b_maquela_do_zombo = {}
+				b_dimbo = {}
+				b_quibocolo = {}
+				b_palavala = {}
+				b_cassanga = {}
+			}
+		}
 	}
 }

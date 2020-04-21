@@ -1,0 +1,15 @@
+# County Title
+title = c_quimbele
+
+# Settlements
+max_settlements = 4
+
+b_milunga = castle
+b_quimbele = city
+b_macocola = temple
+
+# Misc
+culture = kongo
+religion = catholic
+
+#History

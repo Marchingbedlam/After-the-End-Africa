@@ -1205,17 +1205,29 @@ e_sahel = {
 			color={ 182 98 78 }
 			color2={ 255 255 255 }
 
-			c_tillaberi = {
+			c_tera = {
 				color={ 182 118 118 }
 				color2={ 255 255 255 }
 
 				b_tera_NE = {}
-				b_tillaberi_NE = {}
-				b_ayourou_NE = {}
+				b_yatakala_NE = {}
+				b_kokorou_NE = {}
 				b_bankilare_NE = {}
-				b_anzourou_NE = {}
+				b_namaro_NE = {}
 				b_dargol_NE = {}
 				b_gotheye_NE = {}
+			}
+			c_tillaberi = {
+				color={ 182 118 118 }
+				color2={ 255 255 255 }
+
+				b_dessa_NE = {}
+				b_tillaberi_NE = {}
+				b_ayourou_NE = {}
+				b_kourteye_NE = {}
+				b_anzourou_NE = {}
+				b_farje_NE = {}
+				b_yassan_NE = {}
 			}
 			c_zarmaganda = {
 				color={ 147 112 98 }

@@ -1,0 +1,15 @@
+# County Title
+title = c_kenge
+
+# Settlements
+max_settlements = 4
+
+b_kenge = castle
+b_popokabaka = city
+b_ngunzi = temple
+
+# Misc
+culture = kongo
+religion = catholic
+
+#History

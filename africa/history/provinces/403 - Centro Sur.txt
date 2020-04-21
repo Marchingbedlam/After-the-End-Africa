@@ -9,7 +9,7 @@ b_niefang_GQ = city
 b_acurenam_GQ = temple
 
 # Misc
-culture = kpelle
+culture = fang
 religion = catholic
 
 #History

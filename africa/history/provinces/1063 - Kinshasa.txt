@@ -1,0 +1,17 @@
+# County Title
+title = c_kinshasa
+
+# Settlements
+max_settlements = 7
+
+b_gombe = castle
+b_kinshasa = city
+b_mont_amba = temple
+b_lukunga = city
+b_tshangu = temple
+
+# Misc
+culture = kpelle
+religion = catholic
+
+#History

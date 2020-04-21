@@ -9,7 +9,7 @@ b_mongomo_GQ = city
 b_nsork_GQ = temple
 
 # Misc
-culture = kpelle
+culture = fang
 religion = catholic
 
 #History

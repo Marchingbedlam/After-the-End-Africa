@@ -1,0 +1,15 @@
+# County Title
+title = c_uige
+
+# Settlements
+max_settlements = 5
+
+b_quitexe = castle
+b_uige = city
+b_negage = temple
+
+# Misc
+culture = kongo
+religion = catholic
+
+#History

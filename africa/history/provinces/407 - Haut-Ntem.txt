@@ -8,7 +8,7 @@ b_minvoul_GA = castle
 b_momo_GA = city
 
 # Misc
-culture = kpelle
+culture = fang
 religion = catholic
 
 #History

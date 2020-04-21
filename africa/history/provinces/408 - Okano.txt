@@ -9,7 +9,7 @@ b_mitzic_GA = city
 b_lalara_GA = temple
 
 # Misc
-culture = kpelle
+culture = fang
 religion = catholic
 
 #History

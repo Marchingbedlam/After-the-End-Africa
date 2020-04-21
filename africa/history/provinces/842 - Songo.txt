@@ -1,0 +1,14 @@
+# County Title
+title = c_songo
+
+# Settlements
+max_settlements = 3
+
+b_ambuila = castle
+b_songo = city
+
+# Misc
+culture = kongo
+religion = catholic
+
+#History

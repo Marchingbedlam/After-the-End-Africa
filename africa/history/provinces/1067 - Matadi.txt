@@ -1,0 +1,15 @@
+# County Title
+title = c_matadi
+
+# Settlements
+max_settlements = 4
+
+b_songololo = castle
+b_matadi = city
+b_kimpese = temple
+
+# Misc
+culture = kongo
+religion = catholic
+
+#History

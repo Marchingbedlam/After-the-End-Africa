@@ -7,7 +7,7 @@ max_settlements = 4
 b_pointe_noire = castle
 
 # Misc
-culture = kpelle
+culture = kongo
 religion = catholic
 
 #History

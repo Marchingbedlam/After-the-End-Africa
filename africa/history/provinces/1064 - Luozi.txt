@@ -1,0 +1,14 @@
+# County Title
+title = c_luozi
+
+# Settlements
+max_settlements = 3
+
+b_kilanda = castle
+b_luozi = city
+
+# Misc
+culture = kongo
+religion = catholic
+
+#History

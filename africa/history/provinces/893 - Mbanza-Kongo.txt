@@ -1,0 +1,15 @@
+# County Title
+title = c_mbanza_kongo
+
+# Settlements
+max_settlements = 4
+
+b_cuimba = castle
+b_mbanza_kongo = city
+b_belem = temple
+
+# Misc
+culture = kongo
+religion = catholic
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title = c_mbanza_ngungu
+
+# Settlements
+max_settlements = 4
+
+b_kolo_fuma = castle
+b_mbanza_ngungu = city
+b_inkisi = temple
+
+# Misc
+culture = kongo
+religion = catholic
+
+#History

@@ -1,0 +1,197 @@
+1963000={
+	name="Zarumi"
+	dynasty=1409000
+	culture=hausa
+	religion=sunni
+	father=1963003
+	trait=crippled
+	trait=brave
+	trait=gamer
+	trait=gregarious
+	trait=ambitious
+	trait=ruthless
+	trait=deceitful
+	trait=patient
+	trait=intricate_webweaver
+
+	2618.4.19={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1963001={
+	name="Sani Ahmad"
+	dynasty=1409000
+	culture=hausa
+	religion=sunni
+	father=1963002
+	trait=proud
+	trait=zealous
+	trait=brave
+	trait=honorable
+	trait=ambitious
+	trait=diligent
+	trait=hunter
+	trait=skilled_tactician
+
+	2638.9.14={ birth=yes }
+	2660.1.1={ death=yes }
+}
+1963002={
+	name="Munzali"
+	dynasty=1409000
+	culture=hausa
+	religion=sunni
+	father=1963003
+	trait=proud
+	trait=zealous
+	trait=brave
+	trait=strong
+	trait=ambitious
+	trait=rude
+	trait=wroth
+	trait=skilled_tactician
+
+	2614.6.20={ birth=yes }
+	2655.1.1={ death=yes }
+}
+1963003={
+	name="Ahmad Ali"
+	dynasty=1409000
+	culture=hausa
+	religion=sunni
+
+	trait=proud
+	trait=lustful
+	trait=patient
+	trait=envious
+	trait=ambitious
+	trait=diligent
+	trait=thrifty_clerk
+
+	2583.12.5={ birth=yes }
+	2640.1.1={ death=yes }
+}
+1963004={
+	name="Ado Ahmad"
+	dynasty=1409000
+	culture=hausa
+	religion=sunni
+	father=1963003
+	trait=humble
+	trait=duelist
+	trait=brave
+	trait=content
+	trait=wroth
+	trait=cynical
+	trait=tough_soldier
+
+	2620.2.24={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1963005={
+	name="Muhammadu"
+	dynasty=1409000
+	culture=hausa
+	religion=sunni
+	father=1963003
+	trait=faqih
+	trait=erudite
+	trait=mystic
+	trait=zealous
+	trait=charitable
+	trait=just
+	trait=martial_cleric
+
+	2622.8.23={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1963006={
+	name="Bilkisu"
+	female=yes
+	dynasty=1409000
+	culture=hausa
+	religion=sunni
+	father=1963003
+	trait=lustful
+	trait=wroth
+	trait=cruel
+	trait=arbitrary
+	trait=duelist
+	trait=ruthless
+	trait=skilled_tactician
+
+	2625.7.4={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1963007={
+	name="Abdulmalik"
+	dynasty=1409000
+	culture=hausa
+	religion=sunni
+	father=1963003
+	trait=brave
+	trait=content
+	trait=honorable
+	trait=kind
+	trait=drunkard
+	trait=charitable
+	trait=slothful
+	trait=lustful
+	trait=tough_soldier
+
+	2628.3.16={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1963008={
+	name="Hadiza"
+	female=yes
+	dynasty=1409000
+	culture=hausa
+	religion=sunni
+	father=1963003
+	trait=ambitious
+	trait=diligent
+	trait=cruel
+	trait=just
+	trait=cynical
+	trait=grey_eminence
+
+	2629.11.2={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1963009={
+	name="Zaynab"
+	female=yes
+	dynasty=1409000
+	culture=hausa
+	religion=sunni
+	father=1963003
+	trait=fair
+	trait=poet
+	trait=charitable
+	trait=chaste
+	trait=zealous
+	trait=family_person
+	trait=martial_cleric
+
+	2631.6.15={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1963010={
+	name="Ramat"
+	dynasty=1409000
+	culture=hausa
+	religion=sunni
+	father=1963003
+	trait=homosexual
+	trait=architect
+	trait=diligent
+	trait=patient
+	trait=temperate
+	trait=shy
+	trait=rude
+	trait=stubborn
+	trait=fortune_builder
+
+	2634.7.11={ birth=yes }
+	2700.1.1={ death=yes }
+}

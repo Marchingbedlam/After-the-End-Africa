@@ -1,0 +1,15 @@
+# County Title
+title = c_idiofa
+
+# Settlements
+max_settlements = 4
+
+b_mangai = castle
+b_idiofa = city
+b_dibaya_lubwe = temple
+
+# Misc
+culture = kongo
+religion = catholic
+
+#History

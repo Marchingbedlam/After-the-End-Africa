@@ -21,7 +21,7 @@ sahel = {
 			"Kabir Umar" Karami Karamokho Kasso Khalilu_Khalil Konko Kwairanga
 			Lawan Lukudi
 			Mayaki Mallam "Mallam Ishaku" "Mallam Musa" "Mallam Zaki" "Maynassara Maji" Modibo "Modibo Adama" Muhammadu_Mohammed "Muhammadu Attahiru" "Muhammadu Bello" "Muhammadu Dikko" "Muhammadu Maccido" "Muhammadu Maiturare" "Muhammadu Sanusi" "Muhammadu Tambari" "Muhammadu Tukur" Muhamman Mu'azu "Mu'azu Ahmadu" Murtala Musa_Moses Musdafa_Mustafa
-			Nassourou_Nasr Na'uka Njal Njidda Nuhu_Nuh
+			Nassourou_Nasr Na'uka Njal Njidda Nuhu_Noah
 			"Qadir Zaylani"
 			Rilwanu_Rilwan Rufai
 			Sa'adu_Said Saifulayi Sandu Shehu_Sheikh Shu'aybu_Shuayb Siddiq Sulaymanu_Solomon Subande Sulu

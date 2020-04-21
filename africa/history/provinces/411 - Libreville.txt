@@ -10,7 +10,7 @@ b_mont_bouet_GA = temple
 b_owendo_GA = city
 
 # Misc
-culture = kpelle
+culture = fang
 religion = catholic
 
 #History

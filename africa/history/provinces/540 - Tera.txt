@@ -1,0 +1,15 @@
+# County Title
+title = c_tera
+
+# Settlements
+max_settlements = 3
+
+b_yatakala_NE = castle
+b_tera_NE = city
+b_bankilare_NE = temple
+
+# Misc
+culture = songhai
+religion = sunni
+
+#History

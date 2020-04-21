@@ -1,0 +1,14 @@
+# County Title
+title = c_soyo
+
+# Settlements
+max_settlements = 4
+
+b_porto_rico = castle
+b_soyo = city
+
+# Misc
+culture = kongo
+religion = catholic
+
+#History

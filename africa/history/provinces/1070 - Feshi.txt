@@ -1,0 +1,14 @@
+# County Title
+title = c_feshi
+
+# Settlements
+max_settlements = 3
+
+b_feshi = castle
+b_ganaketi = temple
+
+# Misc
+culture = kongo
+religion = catholic
+
+#History

@@ -391,7 +391,7 @@ PROV390;Bamenda;;;;;;;;;x
 PROV391;Sambava;;;;;;;;;x
 PROV392;Pangar;;;;;;;;;x
 PROV393;Manyu;;;;;;;;;x
-PROV394;Boboye;;;;;;;;;x
+PROV394;;;;;;;;;;x
 PROV395;Bertoua;;;;;;;;;x
 PROV396;Mahabo;;;;;;;;;x
 PROV397;Diema;;;;;;;;;x
@@ -537,8 +537,8 @@ PROV536;Kanem;;;;;;;;;x
 PROV537;Ennedi;;;;;;;;;x
 PROV538;Borkou;;;;;;;;;x
 PROV539;Tibesti;;;;;;;;;x
-PROV540;Tillabéri;;;;;;;;;x
-PROV541;Zarmaganda;;;;;;;;;x
+PROV540;Téra;;;;;;;;;x
+PROV541;Tillabéri;;;;;;;;;x
 PROV542;Filingue;;;;;;;;;x
 PROV543;Niamey;;;;;;;;;x
 PROV544;Say;;;;;;;;;x
@@ -729,7 +729,6 @@ PROV728;Epupa;;;;;;;;;x
 PROV729;Ruakana;;;;;;;;;x
 PROV730;Otamanzi;;;;;;;;;x
 PROV731;Mopti;;;;;;;;;x
-PROV731;;;;;;;;;;;;x
 PROV732;Okitipupa;Okitipupa;Okitipupa;;;;;;;;;x
 PROV733;Kati;;;;;;;;;;;x
 PROV734;Abuja;;;;;;;;;;;x
@@ -761,7 +760,7 @@ PROV759;Bali;Bali;Bali;;;;;;;;;x
 PROV760;Mutum Biyu;Mutum Biyu;Mutum Biyu;;;;;;;;;x
 PROV761;Otjinene;;;;;;;;;;;x
 PROV762;Jalingo;Jalingo;Jalingo;;;;;;;;;x
-PROV763;Ouallam;;;;;;;;;;;x
+PROV763;Zarmaganda;;;;;;;;;;;x
 PROV764;Numan;Numan;Numan;;;;;;;;;x
 PROV765;Yola;Yola;Yola;;;;;;;;;x
 PROV766;Ganye;Ganye;Ganye;;;;;;;;;x

@@ -1,0 +1,15 @@
+# County Title
+title = c_madimba
+
+# Settlements
+max_settlements = 4
+
+b_kasangulu = castle
+b_madimba = city
+b_bailleux = temple
+
+# Misc
+culture = kongo
+religion = catholic
+
+#History

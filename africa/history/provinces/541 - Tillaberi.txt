@@ -4,7 +4,7 @@ title = c_tillaberi
 # Settlements
 max_settlements = 4
 
-b_tera_NE = castle
+b_anzourou_NE = castle
 b_tillaberi_NE = city
 b_ayourou_NE = temple
 

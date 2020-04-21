@@ -392,7 +392,7 @@ province;red;green;blue;x;x
 391;218;80;86;Sambava;x
 392;247;208;79;Pangar;x
 393;144;204;209;Manyu;x
-394;162;37;32;Boboye;x
+394;;;;;x
 395;188;188;186;Bertoua;x
 396;96;78;181;Mahabo;x
 397;122;139;22;Diema;x
@@ -538,8 +538,8 @@ province;red;green;blue;x;x
 537;181;42;17;Ennedi;x
 538;234;66;35;Borkou;x
 539;176;65;15;Tibesti;x
-540;182;118;118;Tillaberi;x ##Niger
-541;147;112;98;Zarmaganda;x
+540;182;118;118;Tera;x ##Niger
+541;147;112;98;Tillaberi;x
 542;135;78;78;Filingue;x
 543;194;168;157;Niamey;x
 544;144;128;115;Say;x
@@ -761,7 +761,7 @@ province;red;green;blue;x;x
 760;89;111;148;Mutum Biyu;x
 761;241;104;186;Otjinene;x
 762;75;149;195;Jalingo;x
-763;226;16;36;Ouallam;x
+763;226;16;36;Zarmaganda;x
 764;79;109;148;Numan;x
 765;39;118;167;Yola;x
 766;53;106;132;Ganye;x

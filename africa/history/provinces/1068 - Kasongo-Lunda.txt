@@ -1,0 +1,14 @@
+# County Title
+title = c_kasongo_lunda
+
+# Settlements
+max_settlements = 3
+
+b_mawanga = castle
+b_kasongo_lunda = city
+
+# Misc
+culture = kongo
+religion = catholic
+
+#History

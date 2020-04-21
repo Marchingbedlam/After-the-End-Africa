@@ -1,0 +1,15 @@
+# County Title
+title = c_cabinda
+
+# Settlements
+max_settlements = 4
+
+b_malembo = castle
+b_cabinda = city
+b_cacongo = temple
+
+# Misc
+culture = kongo
+religion = catholic
+
+#History

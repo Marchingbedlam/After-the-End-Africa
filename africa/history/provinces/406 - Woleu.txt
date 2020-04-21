@@ -9,7 +9,7 @@ b_bissok_GA = city
 b_nkolabona_GA = temple
 
 # Misc
-culture = kpelle
+culture = fang
 religion = catholic
 
 #History

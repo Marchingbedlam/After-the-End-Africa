@@ -1,0 +1,15 @@
+# County Title
+title = c_kikwit
+
+# Settlements
+max_settlements = 4
+
+b_kilungu_djimba = castle
+b_kikwit = city
+b_kipuka = temple
+
+# Misc
+culture = kongo
+religion = catholic
+
+#History

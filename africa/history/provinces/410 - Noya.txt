@@ -8,7 +8,7 @@ b_milembie_GA = castle
 b_cocobeach_GA = city
 
 # Misc
-culture = kpelle
+culture = fang
 religion = catholic
 
 #History

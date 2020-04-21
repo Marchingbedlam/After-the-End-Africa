@@ -1,0 +1,14 @@
+# County Title
+title = c_kahemba
+
+# Settlements
+max_settlements = 3
+
+b_kahemba = castle
+b_mwendjila = temple
+
+# Misc
+culture = kongo
+religion = catholic
+
+#History
