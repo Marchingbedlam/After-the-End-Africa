@@ -415,7 +415,6 @@ e_guinea = {
 			color={ 41 130 96 }
 			color2={ 255 255 255 }
 			
-			}
 			capital = 42 # c_faranah
 			
 			c_faranah = { # 42
