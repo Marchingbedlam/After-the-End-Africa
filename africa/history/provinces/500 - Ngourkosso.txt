@@ -9,7 +9,7 @@ b_benoye_TD = city
 b_saar_gogne_TD = temple
 
 # Misc
-culture = kpelle
+culture = sara
 religion = catholic
 
 #History

@@ -615,4 +615,69 @@ bantu = {
 			Zenande Zenani Zikhona Zimkhitha Zindziswa Zingiswa Zolani Zoleka Zonke Zozibini Zukisa
 		}
 	}
+	lozi={
+		color = { 0.66 0.66 0.22 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Aggrey Akashambatwa Akelumbela Akufuna Albert Alikunda
+			Boniface
+			Charles
+			Daniel
+			Egerton Eustace
+			George Godwin
+			Hastings
+			Ilukuyi Ilute Imasiku Imbua Ingulamwa Imwiko Inyambo
+			John
+			Kaluwe Kusiyo
+			Levy Lewanika Liswaniso Litali Liwale Lubosi Lutangu
+			Mambili Martin Mbanga Mbikusita Mbololo Mishake Mokamba Monambeza Mubukwanu Mukela Mulambwa Musiwa Mutumwenu Mwanagala Mwanambinyi Mwanawina Mwananyanda Mwangala
+			Namiluko Natamoyo Ndangwa Nevers Ngalama Ngela Ngombala Njekwa Nyambe
+			Osbert
+			Richard
+			Santulu Sebetwane Sebitwane Sekeletu Sepopa Sesane Shemakone Sekeletu Sekgoma Sikufule Silumelume Simata Simbotwe Sipopa
+			Thaddeus
+			Walusiku Wamulimungwa
+			Yeta Yubya
+		}
+		
+		female_names = {
+			Doreen
+			Inonge
+			Kandundu Kapelwa Katoka
+			Mamochisane Mbuymamwambwa Mbuywana Monambeza
+			Namoyowa Notulu
+			Setlutlu
+		}
+	}
+	kavango={
+		color = { 1.16 0.61 0.07 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Bonifatius_Boniface
+			Domingo_Dominic
+			Elijah Eugene
+			Haingura
+			Ignatius
+			John Joseph
+			Kandjimi Kassian Kayengoma
+			Linus Luben
+			Marco_Mark Maurus Mbuna Muduva Muhera Mulyata
+			Nandundu Nyangana
+			Raphael
+			Samuel Sebastian Shimwemwe Shirongo Sivute
+			Tjitunga
+		}
+		
+		female_names = {
+			Kanuni
+			Petrina
+			Regina Rosa_Rose Rosalia
+		}
+	}
 }

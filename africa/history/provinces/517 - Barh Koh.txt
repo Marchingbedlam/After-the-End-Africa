@@ -9,7 +9,7 @@ b_sarh_TD = city
 b_korbol_TD = temple
 
 # Misc
-culture = kpelle
+culture = sara
 religion = catholic
 
 #History

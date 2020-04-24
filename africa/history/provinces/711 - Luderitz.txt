@@ -9,7 +9,7 @@ b_luderitz_NA = city
 b_pomona_NA =temple
 
 # Misc
-culture = kpelle
+culture = nama
 religion = catholic
 
 #History

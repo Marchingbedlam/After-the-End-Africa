@@ -1,0 +1,15 @@
+# County Title
+title = c_walvis_bay
+
+# Settlements
+max_settlements = 4
+
+b_langstrand_NA = castle
+b_walvis_bay_NA = city
+b_dolfynstrand_NA = temple
+
+# Misc
+culture = sudwester
+religion = catholic
+
+#History

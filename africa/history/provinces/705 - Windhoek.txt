@@ -10,7 +10,7 @@ b_cimbebasia_NA = temple
 b_katutura_NA = city
 
 # Misc
-culture = sudwester
+culture = ovambo
 religion = catholic
 
 #History

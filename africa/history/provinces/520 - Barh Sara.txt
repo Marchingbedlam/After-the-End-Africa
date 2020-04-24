@@ -9,7 +9,7 @@ b_dembo_TD = city
 b_bouna_TD = temple
 
 # Misc
-culture = kpelle
+culture = sara
 religion = catholic
 
 #History

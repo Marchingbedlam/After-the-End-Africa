@@ -8,7 +8,7 @@ b_noordoewer_NA = castle
 b_vioolsdrif_NA = temple
 
 # Misc
-culture = kpelle
+culture = nama
 religion = catholic
 
 #History

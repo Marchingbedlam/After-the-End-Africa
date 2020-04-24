@@ -9,7 +9,7 @@ b_lolobo = city
 b_zatta = temple
 
 # Misc
-culture = igbo
+culture = baoule
 religion = catholic
 
 #History

@@ -8,7 +8,7 @@ b_kalkfeld_NA = castle
 b_hochfeld_NA = temple
 
 # Misc
-culture = kpelle
+culture = damara
 religion = catholic
 
 #History

@@ -9,7 +9,7 @@ b_bessao_TD = city
 b_mbaikoro_TD = temple
 
 # Misc
-culture = kpelle
+culture = sara
 religion = catholic
 
 #History

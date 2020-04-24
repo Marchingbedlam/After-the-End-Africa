@@ -8,7 +8,7 @@ b_gagnoa = castle
 b_guiberoua = city
 
 # Misc
-culture = kru
+culture = baoule
 religion = catholic
 
 #History

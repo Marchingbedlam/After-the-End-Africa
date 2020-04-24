@@ -10,9 +10,12 @@ e_azania = {
 			color={ 0 53 205 }
 			color2={ 255 255 255 }
 
-			c_ezorongondo = {
+			c_walvis_bay = {
 				color={ 0 53 148 }
 				color2={ 255 255 255 }
+
+				afrikaner="Walvisbaai"
+				sudwester="Walfischbucht"
 					
 				b_langstrand_NA = {}
 				b_walvis_bay_NA = {}
@@ -78,6 +81,8 @@ e_azania = {
 			c_windhoek = {
 				color={ 153 87 64 }
 				color2={ 255 255 255 }
+
+				sudwester="Windhuk"
 				
 				b_klein_windhoek_NA = {}
 				b_windhoek_NA = {}
@@ -197,6 +202,8 @@ e_azania = {
 			c_karasburg = {
 				color={ 168 122 69 }
 				color2={ 255 255 255 }
+
+				afrikaner="Kalkfontein"
 				
 				b_karasburg_NA = {}
 				b_grunau_NA = {}
@@ -402,7 +409,7 @@ e_azania = {
 				b_ongandjera_NA = {}
 				b_okalonga_NA = {}
 			}
-			c_hobatere = {
+			c_kamanjab = {
 				color={ 104 83 57 }
 				color2={ 255 255 255 }
 				

@@ -9,7 +9,7 @@ b_koumra_TD = city
 b_bebopen_TD = temple
 
 # Misc
-culture = kpelle
+culture = sara
 religion = catholic
 
 #History

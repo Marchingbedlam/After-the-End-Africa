@@ -9,7 +9,7 @@ b_rundu_NA = city
 b_kahenge_NA = temple
 
 # Misc
-culture = kpelle
+culture = kavango
 religion = catholic
 
 #History

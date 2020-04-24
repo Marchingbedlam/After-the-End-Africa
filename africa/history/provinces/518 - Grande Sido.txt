@@ -9,7 +9,7 @@ b_maro_TD = city
 b_danamadji_TD = temple
 
 # Misc
-culture = kpelle
+culture = sara
 religion = catholic
 
 #History

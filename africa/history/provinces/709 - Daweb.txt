@@ -8,7 +8,7 @@ b_duwisib_NA = castle
 b_matlahohe_NA = city
 
 # Misc
-culture = kpelle
+culture = nama
 religion = catholic
 
 #History

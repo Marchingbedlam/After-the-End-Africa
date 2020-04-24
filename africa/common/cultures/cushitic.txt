@@ -1,4 +1,4 @@
-###ÄNSI
+###NOT ANSI UTF SUPPOSED TO BE UTF
 cushitic = {
 	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
 	graphical_cultures = { muslimgfx }
@@ -52,7 +52,6 @@ cushitic = {
 			Zakiya Zara
 		}
 		
-		founder_named_dynasties = yes
 		dukes_called_kings = yes
 
 		modifier = default_culture_modifier

@@ -9,7 +9,7 @@ b_aboudeia_TD = city
 b_am_habile_TD = temple
 
 # Misc
-culture = kpelle
-religion = catholic
+culture = baggara
+religion = sunni
 
 #History

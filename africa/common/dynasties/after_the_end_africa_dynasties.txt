@@ -1437,6 +1437,46 @@
 1526029 = {name ="Kassoma" culture=ovimbundu }
 1526030 = {name ="Antunes" culture=ovimbundu }
 
+1527000 = {name ="Kalonga" culture=lozi }
+1527001 = {name ="Noyoo" culture=lozi }
+1527002 = {name ="Wina" culture=lozi }
+1527003 = {name ="Sifu" culture=lozi }
+1527004 = {name ="Muyongo" culture=lozi }
+1527005 = {name ="Simasiku" culture=lozi }
+1527006 = {name ="Bebi" culture=lozi }
+1527007 = {name ="Muhinda" culture=lozi }
+1527008 = {name ="Kololo" culture=lozi }
+1527009 = {name ="Lifasi" culture=lozi }
+1527010 = {name ="Simata" culture=lozi }
+1527011 = {name ="Samboma" culture=lozi }
+1527012 = {name ="Puteho" culture=lozi }
+1527013 = {name ="Mulupa" culture=lozi }
+1527014 = {name ="Mwilima" culture=lozi }
+1527015 = {name ="Likanyi" culture=lozi }
+1527016 = {name ="Ndala" culture=lozi }
+1527017 = {name ="Makendano" culture=lozi }
+1527018 = {name ="Mazila" culture=lozi }
+1527019 = {name ="Wamulwa" culture=lozi }
+1527020 = {name ="Lisulo" culture=lozi }
+1527021 = {name ="Sikota" culture=lozi }
+1527022 = {name ="Mmembe" culture=lozi }
+1527023 = {name ="Sinyinda" culture=lozi }
+1527024 = {name ="Situmbeko" culture=lozi }
+1527025 = {name ="Manyando" culture=lozi }
+1527026 = {name ="Mwenda" culture=lozi }
+
+1528000 = {name ="Manuere" culture=kavango }
+1528001 = {name ="Hausiku" culture=kavango }
+1528002 = {name ="Mberema" culture=kavango }
+1528003 = {name ="Shiyambi" culture=kavango }
+1528004 = {name ="Kamwanga" culture=kavango }
+1528005 = {name ="Shashipapo" culture=kavango }
+1528006 = {name ="Nekaro" culture=kavango }
+1528007 = {name ="Dinyando" culture=kavango }
+1528008 = {name ="Ngurare" culture=kavango }
+1528009 = {name ="Majavero" culture=kavango }
+1528010 = {name ="Mutorwa" culture=kavango }
+
 1841000 = {name ="Pieh" culture=mende }
 1841001 = {name ="Demby" culture=mende }
 1841002 = {name ="Margai" culture=mende }
