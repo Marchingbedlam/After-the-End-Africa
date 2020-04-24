@@ -1,0 +1,15 @@
+# County Title
+title = c_mocamedes
+
+# Settlements
+max_settlements = 4
+
+b_sacomar = castle
+b_mocamedes = city
+b_bibala = temple
+
+# Misc
+culture = herero
+religion = catholic
+
+#History

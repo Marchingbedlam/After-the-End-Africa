@@ -24,7 +24,7 @@ west_african = {
 			Pennon 
 			Saigbe Soeh-Tehpoe 
 			Tagbedi Teh Togar Togba
-			Wadé Wlateh
+			Wadeh Wlateh
 			Yenseloh 
 		}
 		

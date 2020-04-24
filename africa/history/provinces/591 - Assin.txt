@@ -9,7 +9,7 @@ b_agyempoma = temple
 b_twifo_praso = city
 
 # Misc
-culture = pijin
+culture = fante
 religion = anglican
 
 #History

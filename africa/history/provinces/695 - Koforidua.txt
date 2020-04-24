@@ -9,7 +9,7 @@ b_nkurakan = temple
 b_amanase = city
 
 # Misc
-culture = yoruba
+culture = asante
 religion = anglican #yoruba
 
 #History

@@ -1017,4 +1017,404 @@ e_congo = {
 			}
 		}
 	}
+	k_angola = {
+		color={ 122 22 2 }
+		color2={ 255 255 255 }
+
+		d_bengo = {
+			color={ 45 90 30 }
+			color2={ 255 255 255 }
+
+			c_ambriz = {
+				color={ 111 86 90 }
+				color2={ 255 255 255 }
+
+				b_bela_vista = {}
+				b_ambriz = {}
+				b_quimuala = {}
+				b_capulo = {}
+				b_catacanha = {}
+				b_yembe = {}
+				b_quibumbe = {}
+			}
+			c_luanda = {
+				color={ 135 209 77 }
+				color2={ 255 255 255 }
+
+				b_belas = {}
+				b_luanda = {}
+				b_cazenga = {}
+				b_cacuaco = {}
+				b_kilamba = {}
+				b_ingombota = {}
+				b_sambizanga = {}
+			}
+			c_quicama = {
+				color={ 114 181 53 }
+				color2={ 255 255 255 }
+
+				b_cabo_ledo = {}
+				b_muxima = {}
+				b_quixinge = {}
+				b_demba_chio = {}
+				b_mumbondo = {}
+				b_lucala = {}
+				b_sangano = {}
+			}
+			c_cazengo = {
+				color={ 81 97 64 }
+				color2={ 255 255 255 }
+
+				b_dondo = {}
+				b_ndalatando = {}
+				b_quibaxe = {}
+				b_golungo_alto = {}
+				b_pango_aluquem = {}
+				b_lucala = {}
+				b_bula_atumba = {}
+			}
+			c_ambaca = {
+				color={ 9 213 9 }
+				color2={ 255 255 255 }
+
+				b_bolongongo = {}
+				b_camabatela = {}
+				b_quiculungo = {}
+				b_samba_caju = {}
+				b_luque = {}
+				b_gastao = {}
+				b_zonzo = {}
+			}
+		}
+		d_cuanza = {
+			color={ 45 90 30 }
+			color2={ 255 255 255 }
+
+			c_amboim = {
+				color={ 128 187 121 }
+				color2={ 255 255 255 }
+
+				b_gabela = {}
+				b_porto_amboim = {}
+				b_quilenda = {}
+				b_cada = {}
+				b_capanga = {}
+				b_calele = {}
+				b_hengue = {}
+			}
+			c_sumbe = {
+				color={ 111 224 45 }
+				color2={ 255 255 255 }
+
+				b_quicombo = {}
+				b_sumbe = {}
+				b_seles = {}
+				b_uku = {}
+				b_cuacra = {}
+				b_cuio = {}
+				b_jombe = {}
+			}
+			c_ebo = {
+				color={ 42 95 238 }
+				color2={ 255 255 255 }
+
+				b_ebo = {}
+				b_uaco_cungo = {}
+				b_cassongue = {}
+				b_chitue = {}
+				b_massango = {}
+				b_menga = {}
+				b_kambunde = {}
+			}
+			c_quibala = {
+				color={ 252 82 148 }
+				color2={ 255 255 255 }
+
+				b_libolo = {}
+				b_quibala = {}
+				b_calulo = {}
+				b_catofe = {}
+				b_kimilina = {}
+				b_munenga = {}
+				b_kizou = {}
+			}
+			c_mussende = {
+				color={ 205 198 123 }
+				color2={ 255 255 255 }
+
+				b_haco = {}
+				b_mussende = {}
+				b_sao_lucas = {}
+				b_quienha = {}
+				b_camaca = {}
+				b_quarenta = {}
+				b_bola = {}
+			}
+		}
+		d_malanje = {
+			color={ 50 110 50 }
+			color2={ 255 255 255 }
+
+			c_calandula = {
+				color={ 17 89 229 }
+				color2={ 255 255 255 }
+
+				b_caombo = {}
+				b_calandula = {}
+				b_cateco_cangola = {}
+				b_cuale = {}
+				b_nhoca = {}
+				b_bangalo = {}
+				b_nambua = {}
+			}
+			c_mucari = {
+				color={ 144 127 81 }
+				color2={ 255 255 255 }
+
+				b_marimba = {}
+				b_mucari = {}	
+				b_milando = {}
+				b_quela = {}
+				b_xandel = {}
+				b_mangando = {}
+				b_combo = {}
+			}
+			c_malanje = {
+				color={ 73 150 91 }
+				color2={ 255 255 255 }
+
+				b_pungo_andongo = {}
+				b_malanje = {}
+				b_cacuso = {}
+				b_cangandala = {}
+				b_capanda = {}
+				b_fazenda_holanda = {}
+				b_lombe = {}
+			}
+			c_quirima = {
+				color={ 118 208 76 }
+				color2={ 255 255 255 }
+
+				b_cambundi_catembo = {}
+				b_quirima = {}
+				b_luquembo = {}
+				b_nzango_ambete = {}
+				b_dumba = {}
+				b_chirili = {}
+				b_sautar = {}
+			}
+		}
+		d_benguela = {
+			color={ 50 110 50 }
+			color2={ 255 255 255 }
+
+			c_baia_farta = {
+				color={ 139 123 180 }
+				color2={ 255 255 255 }
+
+				b_dombe_grande = {}
+				b_baia_farta = {}
+				b_cimo = {}
+				b_chiome = {}
+				b_camucua = {}
+				b_chamume = {}
+				b_luacho = {}
+			}
+			c_chongoroi = {
+				color={ 184 229 29 }
+				color2={ 255 255 255 }
+
+				b_caimbambo = {}
+				b_chongoroi = {}
+				b_caparolo = {}
+				b_madombes = {}
+				b_solo = {}
+				b_cabongo = {}
+				b_calucula = {}
+			}
+			c_ganda = {
+				color={ 17 218 170 }
+				color2={ 255 255 255 }
+
+				b_cubal = {}
+				b_ganda = {}
+				b_babaera = {}
+				b_alto_catumbela = {}
+				b_capaca = {}
+				b_chikuma = {}
+				b_domingos = {}
+			}
+			c_lobito = {
+				color={ 176 255 168 }
+				color2={ 255 255 255 }
+
+				b_bocoio = {}
+				b_lobito = {}
+				b_balombo = {}
+				b_kasseque = {}
+				b_canjala = {}
+				b_colango = {}
+				b_chila = {}
+			}
+			c_benguela = {
+				color={ 101 65 35 }
+				color2={ 255 255 255 }
+
+				b_catumbela = {}
+				b_benguela = {}
+				b_caota = {}
+				b_civite = {}
+				b_chimelundo = {}
+				b_bamba_do_bissonde = {}
+				b_capurulo = {}
+			}
+		}
+		d_namibe = {
+			color={ 50 110 50 }
+			color2={ 255 255 255 }
+
+			c_bentiaba = {
+				color={ 247 168 22 }
+				color2={ 255 255 255 }
+
+				b_camacuio = {}
+				b_bentiaba = {}
+				b_lucira = {}
+				b_chingo = {}
+				b_chinquite = {}
+				b_sao_nicolau = {}
+				b_capira = {}
+			}
+			c_tombua = {
+				color={ 90 118 20 }
+				color2={ 255 255 255 }
+
+				b_virei = {}
+				b_tombua = {}
+				b_embala = {}
+				b_contensil = {}
+				b_santa_rosa = {}
+				b_nonguai = {}
+				b_tambor = {}
+			}
+			c_mocamedes = {
+				color={ 143 225 87 }
+				color2={ 255 255 255 }
+
+				b_sacomar = {}
+				b_mocamedes = {}
+				b_bibala = {}
+				b_caraculo = {}
+				b_cuto = {}
+				b_giraul = {}
+				b_cambongue = {}
+			}
+		}
+		d_huambo = {
+			color={ 50 110 50 }
+			color2={ 255 255 255 }
+
+			c_bailundo = {
+				color={ 133 195 85 }
+				color2={ 255 255 255 }
+
+				b_londuimbali = {}
+				b_bailundo = {}
+				b_bimbe = {}
+				b_alto_hama = {}
+				b_ussoque = {}
+				b_mungo = {}
+				b_vila_franca = {}
+			}
+			c_caala = {
+				color={ 194 88 125 }
+				color2={ 255 255 255 }
+
+				b_longonjo = {}
+				b_caala = {}
+				b_ukuma = {}
+				b_ekunha = {}
+				b_lepi = {}
+				b_catata = {}
+				b_cuima = {}
+			}
+			c_huambo = {
+				color={ 4 151 52 }
+				color2={ 255 255 255 }
+
+				b_pinheiro = {}
+				b_huambo = {}
+				b_katchiungo = {}
+				b_boas_aguas = {}
+				b_chipuri = {}
+				b_cruzeiro = {}
+				b_caiengue = {}
+			}
+		}
+		d_bie = {
+			color={ 50 110 50 }
+			color2={ 255 255 255 }
+
+			c_andulo = {
+				color={ 31 87 208 }
+				color2={ 255 255 255 }
+
+				b_nharea = {}
+				b_andulo = {}
+				b_lubia = {}
+				b_buanga = {}
+				b_calucinga = {}
+				b_chiengue = {}
+				b_imbocole = {}
+			}
+			c_cuemba = {
+				color={ 217 114 85 }
+				color2={ 255 255 255 }
+
+				b_cuemba = {}
+				b_luando = {}
+				b_munhango = {}
+				b_chiuca = {}
+				b_cuiva = {}
+				b_napasso = {}
+				b_cambongua = {}
+			}
+			c_camacupa = {
+				color={ 76 152 16 }
+				color2={ 255 255 255 }
+
+				b_catabola = {}
+				b_camacupa = {}
+				b_chissamba = {}
+				b_cuio = {}
+				b_sohicengo = {}
+				b_chiumba = {}
+				b_unguaio = {}
+			}
+			c_cuito = {
+				color={ 27 104 138 }
+				color2={ 255 255 255 }
+
+				b_chinguar = {}
+				b_cuito = {}
+				b_cunhinga = {}
+				b_chipeta = {}
+				b_kunji = {}
+				b_kassenge = {}
+				b_cangala = {}
+			}
+			c_chitembo = {
+				color={ 53 210 83 }
+				color2={ 255 255 255 }
+
+				b_mutumbo = {}
+				b_chitembo = {}
+				b_mumbue = {}
+				b_candingo = {}
+				b_matata = {}
+				b_cauololo = {}
+				b_mocunha = {}
+			}
+		}
+	}
 }

@@ -1,0 +1,15 @@
+# County Title
+title = c_benguela
+
+# Settlements
+max_settlements = 5
+
+b_catumbela = castle
+b_benguela = city
+b_caota = temple
+
+# Misc
+culture = ovimbundu
+religion = catholic
+
+#History

@@ -1,0 +1,16 @@
+# County Title
+title = c_malanje
+
+# Settlements
+max_settlements = 5
+
+b_pungo_andongo = castle
+b_malanje = city
+b_cacuso = temple
+b_cangandala = temple
+
+# Misc
+culture = ambundu
+religion = catholic
+
+#History

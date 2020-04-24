@@ -1,0 +1,15 @@
+# County Title
+title = c_sumbe
+
+# Settlements
+max_settlements = 4
+
+b_quicombo = castle
+b_sumbe = city
+b_seles = temple
+
+# Misc
+culture = ambundu
+religion = catholic
+
+#History

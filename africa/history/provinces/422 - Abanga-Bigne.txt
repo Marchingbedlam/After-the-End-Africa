@@ -9,7 +9,7 @@ b_ndjole_GA = city
 b_anonebere_GA = temple
 
 # Misc
-culture = kpelle
+culture = fang
 religion = catholic
 
 #History

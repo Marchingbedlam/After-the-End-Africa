@@ -9,7 +9,7 @@ b_glei = temple
 b_illama = city
 
 # Misc
-culture = hausa
+culture = ewe
 religion = sunni
 
 #History

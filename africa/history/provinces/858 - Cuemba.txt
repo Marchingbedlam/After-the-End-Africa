@@ -1,0 +1,15 @@
+# County Title
+title = c_cuemba
+
+# Settlements
+max_settlements = 4
+
+b_luando = castle
+b_cuemba = city
+b_munhango = temple
+
+# Misc
+culture = ovimbundu
+religion = catholic
+
+#History

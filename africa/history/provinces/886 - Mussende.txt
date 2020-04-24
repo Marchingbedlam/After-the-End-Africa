@@ -1,0 +1,14 @@
+# County Title
+title = c_mussende
+
+# Settlements
+max_settlements = 3
+
+b_haco = castle
+b_mussende = city
+
+# Misc
+culture = ambundu
+religion = catholic
+
+#History

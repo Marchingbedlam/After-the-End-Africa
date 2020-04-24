@@ -1,0 +1,15 @@
+# County Title
+title = c_huambo
+
+# Settlements
+max_settlements = 5
+
+b_pinheiro = castle
+b_huambo = city
+b_katchiungo = temple
+
+# Misc
+culture = ovimbundu
+religion = catholic
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title = c_amboim
+
+# Settlements
+max_settlements = 4
+
+b_gabela = castle
+b_porto_amboim = city
+b_quilenda = temple
+
+# Misc
+culture = ambundu
+religion = catholic
+
+#History

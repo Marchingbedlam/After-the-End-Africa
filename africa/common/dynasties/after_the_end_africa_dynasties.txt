@@ -513,6 +513,7 @@
 1408017 = {name ="Doumagoum" culture=sara }
 1408018 = {name ="Ndoumangar" culture=sara }
 1408019 = {name ="Yoadimnadji" culture=sara }
+1408024 = {name ="Patassé" culture=sara }
 
 1408020 = {name ="Ermanala" culture=sara }
 1408021 = {name ="Tadlele" culture=sara }
@@ -1166,7 +1167,7 @@
 
 1519000 = {name ="Nekaka" culture=kongo }
 1519001 = {name ="Nguele" culture=kongo }
-1519002 = {name ="dos Reis Magros" culture=kongo }
+1519002 = {name ="dos Reis Magos" culture=kongo }
 1519003 = {name ="Longo" culture=kongo }
 1519004 = {name ="Valle das Lagrimas" culture=kongo }
 1519005 = {name ="de Nóbrega" culture=kongo }
@@ -1245,6 +1246,26 @@
 1519078 = {name ="Kialunda" culture=kongo }
 1519079 = {name ="Kanza" culture=kongo }
 1519080 = {name ="Mwe di Malila" culture=kongo }
+1519081 = {name ="Youlou" culture=kongo }
+1519082 = {name ="Massamba" culture=kongo }
+1519083 = {name ="Tchibambelela" culture=kongo }
+1519084 = {name ="Bernard" culture=kongo }
+1519085 = {name ="Koléla" culture=kongo }
+1519086 = {name ="Ntsoni" culture=kongo }
+1519087 = {name ="Gangbo" culture=kongo }
+1519088 = {name ="Mabiala" culture=kongo }
+1519089 = {name ="Robredo" culture=kongo }
+1519090 = {name ="Nlemvo" culture=kongo }
+1519091 = {name ="Obenga" culture=kongo }
+1519092 = {name ="Nsai" culture=kongo }
+1519093 = {name ="Bastos" culture=kongo }
+1519094 = {name ="Luemba" culture=kongo }
+1519095 = {name ="Lukengo" culture=kongo }
+1519096 = {name ="Yengo" culture=kongo }
+1519097 = {name ="Diakondua" culture=kongo }
+1519098 = {name ="Lukombo" culture=kongo }
+1519099 = {name ="Makanzu" culture=kongo }
+1519100 = {name ="Jordao" culture=kongo }
 
 1521000 = {name ="Ondo" culture=fang }
 1521001 = {name ="Mba" culture=fang }
@@ -1316,6 +1337,105 @@
 1522025 = {name ="Mboma" culture=sawa }
 1522026 = {name ="Mbela" culture=sawa }
 1522027 = {name ="Mbassi" culture=sawa }
+
+1523000 = {name ="Ondimba" culture=teke }
+1523001 = {name ="Kama" culture=teke }
+1523002 = {name ="Lissouba" culture=teke }
+1523003 = {name ="Ganao" culture=teke }
+1523004 = {name ="Nguempio" culture=teke }
+1523005 = {name ="Ngalla" culture=teke }
+1523006 = {name ="Ngoie" culture=teke }
+1523007 = {name ="Nzoubou" culture=teke }
+1523008 = {name ="Mombele" culture=teke }
+1523009 = {name ="Mouyabi" culture=teke }
+1523010 = {name ="Bongo" culture=teke }
+1523011 = {name ="Moukala" culture=teke }
+
+1524000 = {name ="Kalingo" culture=zande }
+1524001 = {name ="Bakundo" culture=zande }
+1524002 = {name ="Vongara" culture=zande }
+1524003 = {name ="Ngumbé" culture=zande }
+1524004 = {name ="Balingi" culture=zande }
+1524005 = {name ="Ngbadimo" culture=zande }
+1524006 = {name ="Bakpara" culture=zande }
+1524007 = {name ="Déricoyard" culture=zande }
+1524008 = {name ="Bagua" culture=zande }
+1524009 = {name ="Batiko" culture=zande }
+1524010 = {name ="Gbembara" culture=zande }
+1524011 = {name ="Gbutu" culture=zande }
+1524012 = {name ="Vukida" culture=zande }
+1524013 = {name ="Badala" culture=zande }
+1524014 = {name ="Kowé" culture=zande }
+1524015 = {name ="Bananga" culture=zande }
+1524016 = {name ="Gbambi" culture=zande }
+1524017 = {name ="Ubali" culture=zande }
+1524018 = {name ="Miangba" culture=zande }
+1524019 = {name ="Barambo" culture=zande }
+1524020 = {name ="Miteli" culture=zande }
+1524021 = {name ="Kpura" culture=zande }
+1524022 = {name ="Vundukura" culture=zande }
+1524023 = {name ="Bandogo" culture=zande }
+1524024 = {name ="Votombo" culture=zande }
+1524025 = {name ="Baiwo" culture=zande }
+1524026 = {name ="Giti" culture=zande }
+1524027 = {name ="Bawoyo" culture=zande }
+1524028 = {name ="Vokili" culture=zande }
+1524029 = {name ="Bafuta" culture=zande }
+1524030 = {name ="Bozanga" culture=zande }
+
+1525000 = {name ="de Pontes" culture=ambundu }
+1525001 = {name ="Guterres" culture=ambundu }
+1525002 = {name ="Quinguanda" culture=ambundu }
+1525003 = {name ="Kulaxingo" culture=ambundu }
+1525004 = {name ="Aspirante" culture=ambundu }
+1525005 = {name ="da Cunha" culture=ambundu }
+1525006 = {name ="Ndongo" culture=ambundu }
+1525007 = {name ="Araújo" culture=ambundu }
+1525008 = {name ="Matamba" culture=ambundu }
+1525009 = {name ="Paulino" culture=ambundu }
+1525010 = {name ="Fazenda" culture=ambundu }
+1525011 = {name ="Diniz" culture=ambundu }
+1525012 = {name ="Van-Dúnem" culture=ambundu }
+1525013 = {name ="Brandão" culture=ambundu }
+1525014 = {name ="Lebo" culture=ambundu }
+1525015 = {name ="Kanini" culture=ambundu }
+1525016 = {name ="Bento" culture=ambundu }
+1525017 = {name ="Rescova" culture=ambundu }
+1525018 = {name ="Ervedosa" culture=ambundu }
+1525019 = {name ="Feijó" culture=ambundu }
+1525020 = {name ="Xitu" culture=ambundu }
+
+1526000 = {name ="Cachitiopolo" culture=ovimbundu }
+1525001 = {name ="Tchongonga" culture=ambundu }
+1525002 = {name ="Kalupeteca" culture=ambundu }
+1525003 = {name ="Jamba" culture=ambundu }
+1526004 = {name ="Savimbi" culture=ovimbundu }
+1526005 = {name ="Malheiro" culture=ovimbundu }
+1526006 = {name ="Chivukuvuku" culture=ovimbundu }
+1526007 = {name ="Amões" culture=ovimbundu }
+1526008 = {name ="Samakuva" culture=ovimbundu }
+1526009 = {name ="Chingunji" culture=ovimbundu }
+1526010 = {name ="Chipalavela" culture=ovimbundu }
+1526011 = {name ="Mbalundu" culture=ovimbundu }
+1526012 = {name ="Simões" culture=ovimbundu }
+1526013 = {name ="Yekenha" culture=ovimbundu }
+1526014 = {name ="Ningi" culture=ovimbundu }
+1526015 = {name ="Hamukuya" culture=ovimbundu }
+1526016 = {name ="Ngunga" culture=ovimbundu }
+1526017 = {name ="Moco" culture=ovimbundu }
+1526018 = {name ="Sakala" culture=ovimbundu }
+1526019 = {name ="Kamuenho" culture=ovimbundu }
+1526020 = {name ="Sachiambo" culture=ovimbundu }
+1526021 = {name ="das Chagas" culture=ovimbundu }
+1526022 = {name ="Tchocondoca" culture=ovimbundu }
+1526023 = {name ="Falcão" culture=ovimbundu }
+1526024 = {name ="Valiangula" culture=ovimbundu }
+1526025 = {name ="Muhongo" culture=ovimbundu }
+1526026 = {name ="Dáskalos" culture=ovimbundu }
+1526027 = {name ="Tchatuvela" culture=ovimbundu }
+1526028 = {name ="Bassovava" culture=ovimbundu }
+1526029 = {name ="Kassoma" culture=ovimbundu }
+1526030 = {name ="Antunes" culture=ovimbundu }
 
 1841000 = {name ="Pieh" culture=mende }
 1841001 = {name ="Demby" culture=mende }
@@ -1390,6 +1510,34 @@
 1844018 = {name ="Katana" culture=senufo }
 1844019 = {name ="Tiembogo" culture=senufo }
 1844020 = {name ="Pélifor" culture=senufo }
+
+1845000 = {name ="Boganda" culture=gbaya }
+1845001 = {name ="Yokowo" culture=gbaya }
+1845002 = {name ="Iniabodé" culture=gbaya }
+1845003 = {name ="Mumba" culture=gbaya }
+1845004 = {name ="Bozizé" culture=gbaya }
+1845005 = {name ="Okolania" culture=gbaya }
+1845006 = {name ="Yabouza" culture=gbaya }
+1845007 = {name ="Dacko" culture=gbaya }
+1845008 = {name ="Lakoué" culture=gbaya }
+1845009 = {name ="Domitien" culture=gbaya }
+1845010 = {name ="Gbezera" culture=gbaya }
+1845011 = {name ="Tiangaye" culture=gbaya }
+1845012 = {name ="Ayandho" culture=gbaya }
+1845013 = {name ="Bria" culture=gbaya }
+1845014 = {name ="Lebouder" culture=gbaya }
+1845015 = {name ="Kolingba" culture=gbaya }
+1845016 = {name ="Yangouvonda" culture=gbaya }
+1845017 = {name ="Mbalanga" culture=gbaya }
+1845018 = {name ="Belkine" culture=gbaya }
+1845019 = {name ="Ziguélé" culture=gbaya }
+1845020 = {name ="Nguendet" culture=gbaya }
+1845021 = {name ="Nzabakomada" culture=gbaya }
+1845022 = {name ="Dagoulou" culture=gbaya }
+1845023 = {name ="Koziadé" culture=gbaya }
+1845024 = {name ="Sato" culture=gbaya }
+1845025 = {name ="Banza" culture=gbaya }
+1845026 = {name ="Démafouth" culture=gbaya }
 
 1866000 = {name ="Waris" culture=dagomba }
 1866001 = {name ="Mahama" culture=dagomba }
@@ -1599,6 +1747,13 @@
 1895019 = {name ="Houngnikpo" culture=fon }
 1895020 = {name ="Ahouanmenou" culture=fon }
 1895021 = {name ="Ajahoutonon" culture=fon }
+1895022 = {name ="Hounsinou" culture=fon }
+1895023 = {name ="Zogbin" culture=fon }
+1895024 = {name ="Ajavon" culture=fon }
+1895025 = {name ="Langanfin" culture=fon }
+1895026 = {name ="Dedjalagni" culture=fon }
+1895027 = {name ="Gunhu-Hugnon" culture=fon }
+1895028 = {name ="Agasuvi" culture=fon }
 
 1899000 = {name ="Gbeho" culture=ewe }
 1899001 = {name ="Baëta" culture=ewe }

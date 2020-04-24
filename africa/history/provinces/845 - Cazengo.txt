@@ -1,0 +1,15 @@
+# County Title
+title = c_cazengo
+
+# Settlements
+max_settlements = 4
+
+b_dondo = castle
+b_ndalatando = city
+b_golungo_alto = temple
+
+# Misc
+culture = ambundu
+religion = catholic
+
+#History

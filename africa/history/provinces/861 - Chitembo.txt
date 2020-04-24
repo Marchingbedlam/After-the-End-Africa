@@ -1,0 +1,15 @@
+# County Title
+title = c_chitembo
+
+# Settlements
+max_settlements = 4
+
+b_mutumbo = castle
+b_chitembo = city
+b_mumbue = temple
+
+# Misc
+culture = ovimbundu
+religion = catholic
+
+#History

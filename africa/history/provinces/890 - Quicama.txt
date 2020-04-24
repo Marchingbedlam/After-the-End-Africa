@@ -1,0 +1,15 @@
+# County Title
+title = c_quicama
+
+# Settlements
+max_settlements = 4
+
+b_cabo_ledo = castle
+b_muxima = city
+b_quixinge = temple
+
+# Misc
+culture = ambundu
+religion = catholic
+
+#History

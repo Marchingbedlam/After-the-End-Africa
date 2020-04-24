@@ -61,7 +61,7 @@ province;red;green;blue;x;x
 60;97;97;15;Wassadougou;x
 61;81;81;21;Thies;x
 62;124;124;32;Foundiougne;x
-63;;;;;x
+63;222;101;103;Ahafo Ano;x
 64;122;122;28;Kaffrine;x
 65;112;112;41;Kaolack;x
 66;89;85;32;Janjanbureh;x
@@ -842,8 +842,8 @@ province;red;green;blue;x;x
 841;230;233;181;Quimbele;x
 842;63;228;49;Songo;x
 843;145;133;107;Uige;x
-844;9;213;9;Cambambe;x
-845;81;97;64;Ndalatando;x
+844;9;213;9;Ambaca;x
+845;81;97;64;Cazengo;x
 846;17;89;229;Calandula;x
 847;144;127;81;Mucari;x
 848;73;150;91;Malanje;x
@@ -859,7 +859,7 @@ province;red;green;blue;x;x
 858;217;114;85;Cuemba;x
 859;76;152;16;Camacupa;x
 860;27;104;138;Cuito;x
-861;53;210;83;Bembe;x
+861;53;210;83;Chitembo;x
 862;157;118;45;Luacano;x
 863;161;177;77;Leua;x
 864;184;206;251;Luena;x

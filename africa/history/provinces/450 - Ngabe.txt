@@ -7,7 +7,7 @@ max_settlements = 3
 b_ngabe = castle
 
 # Misc
-culture = kpelle
+culture = teke
 religion = catholic
 
 #History

@@ -195,3 +195,21 @@
 	2634.7.11={ birth=yes }
 	2700.1.1={ death=yes }
 }
+1963020={
+	name="Abubakar"
+	dynasty=0
+	culture=fulbe
+	religion=sunni
+
+	2621.5.22={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1963050={
+	name="Ozolua"
+	dynasty=0
+	culture=edo
+	religion=catholic
+
+	2642.12.11={ birth=yes }
+	2700.1.1={ death=yes }
+}

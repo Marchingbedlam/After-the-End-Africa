@@ -1,0 +1,15 @@
+# County Title
+title = c_bentiaba
+
+# Settlements
+max_settlements = 4
+
+b_camacuio = castle
+b_bentiaba = city
+b_lucira = temple
+
+# Misc
+culture = ovimbundu
+religion = catholic
+
+#History

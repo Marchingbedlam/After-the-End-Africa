@@ -1,0 +1,15 @@
+# County Title
+title = c_bailundo
+
+# Settlements
+max_settlements = 4
+
+b_londuimbali = castle
+b_bailundo = city
+b_alto_hama = temple
+
+# Misc
+culture = ovimbundu
+religion = catholic
+
+#History

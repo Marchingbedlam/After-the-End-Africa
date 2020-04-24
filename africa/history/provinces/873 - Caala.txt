@@ -1,0 +1,15 @@
+# County Title
+title = c_caala
+
+# Settlements
+max_settlements = 4
+
+b_longonjo = castle
+b_caala = city
+b_ukuma = temple
+
+# Misc
+culture = ovimbundu
+religion = catholic
+
+#History

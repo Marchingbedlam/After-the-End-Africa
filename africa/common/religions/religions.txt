@@ -188,8 +188,8 @@ pan_african = {
 	libertarian = {
 		graphical_culture = muslimgfx
 		
-		icon = 13
-		heresy_icon = 14
+		icon = 4
+		heresy_icon = 4
 		
 		color = { 0.3 0.3 0.8 }
 		
@@ -246,8 +246,8 @@ pirate = {
 	brethren = { # pirates!
 		graphical_culture = norsegfx
 
-		icon = 10
-		heresy_icon = 11
+		icon = 5
+		heresy_icon = 5
 		
 		color = { 0.3 0.2 0.2 }
 

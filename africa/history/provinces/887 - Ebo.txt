@@ -1,0 +1,15 @@
+# County Title
+title = c_ebo
+
+# Settlements
+max_settlements = 4
+
+b_ebo = castle
+b_uaco_cungo = city
+b_cassongue = temple
+
+# Misc
+culture = ambundu
+religion = catholic
+
+#History

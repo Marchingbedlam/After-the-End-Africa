@@ -1,0 +1,16 @@
+# County Title
+title = c_luanda
+
+# Settlements
+max_settlements = 6
+
+b_belas = castle
+b_luanda = city
+b_cazenga = temple
+b_cacuaco = city
+
+# Misc
+culture = ambundu
+religion = catholic
+
+#History

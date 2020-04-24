@@ -1,0 +1,14 @@
+# County Title
+title = c_tombua
+
+# Settlements
+max_settlements = 3
+
+b_virei = castle
+b_tombua = city
+
+# Misc
+culture = herero
+religion = catholic
+
+#History

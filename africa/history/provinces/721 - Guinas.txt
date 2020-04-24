@@ -8,7 +8,7 @@ b_oshivelo_NA = castle
 b_tsumeb_NA = city
 
 # Misc
-culture = kpelle
+culture = ovambo
 religion = catholic
 
 #History

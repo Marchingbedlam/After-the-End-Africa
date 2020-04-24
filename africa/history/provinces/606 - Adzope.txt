@@ -9,7 +9,7 @@ b_awgu_2 = temple
 b_awgu_3 = city
 
 # Misc
-culture = igbo
+culture = baoule
 religion = anglican
 
 #History

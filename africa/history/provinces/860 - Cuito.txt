@@ -1,0 +1,15 @@
+# County Title
+title = c_cuito
+
+# Settlements
+max_settlements = 4
+
+b_chinguar = castle
+b_cuito = city
+b_cunhinga = temple
+
+# Misc
+culture = ovimbundu
+religion = catholic
+
+#History

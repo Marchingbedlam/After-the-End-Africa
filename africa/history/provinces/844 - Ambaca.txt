@@ -1,0 +1,15 @@
+# County Title
+title = c_ambaca
+
+# Settlements
+max_settlements = 4
+
+b_bolongongo = castle
+b_camabatela = city
+b_quiculungo = temple
+
+# Misc
+culture = ambundu
+religion = catholic
+
+#History

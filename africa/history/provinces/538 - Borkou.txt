@@ -7,7 +7,7 @@ max_settlements = 1
 b_faya_largeau_TD = castle
 
 # Misc
-culture = kpelle
+culture = toubou
 religion = catholic
 
 #History

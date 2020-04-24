@@ -1,0 +1,15 @@
+# County Title
+title = c_quibala
+
+# Settlements
+max_settlements = 4
+
+b_libolo = castle
+b_quibala = city
+b_calula = temple
+
+# Misc
+culture = ambundu
+religion = catholic
+
+#History

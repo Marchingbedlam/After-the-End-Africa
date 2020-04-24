@@ -1,0 +1,15 @@
+# County Title
+title = c_ambriz
+
+# Settlements
+max_settlements = 4
+
+b_bela_vista = castle
+b_ambriz = city
+b_quimuala = temple
+
+# Misc
+culture = kongo
+religion = catholic
+
+#History

@@ -1,0 +1,14 @@
+# County Title
+title = c_andulo
+
+# Settlements
+max_settlements = 3
+
+b_nharea = castle
+b_andulo = city
+
+# Misc
+culture = ovimbundu
+religion = catholic
+
+#History

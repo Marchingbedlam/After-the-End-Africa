@@ -9,7 +9,7 @@ b_aneho = temple
 b_grand_popo = city
 
 # Misc
-culture = nupe
+culture = ewe
 religion = anglican
 
 #History

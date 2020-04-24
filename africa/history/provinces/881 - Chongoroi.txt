@@ -1,0 +1,14 @@
+# County Title
+title = c_chongoroi
+
+# Settlements
+max_settlements = 3
+
+b_chongoroi = castle
+b_caimbambo = temple
+
+# Misc
+culture = ovimbundu
+religion = catholic
+
+#History

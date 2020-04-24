@@ -1,0 +1,15 @@
+# County Title
+title = c_ganda
+
+# Settlements
+max_settlements = 4
+
+b_cubal = castle
+b_ganda = city
+b_babaera = temple
+
+# Misc
+culture = ovimbundu
+religion = catholic
+
+#History

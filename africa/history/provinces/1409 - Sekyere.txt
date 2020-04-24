@@ -9,7 +9,7 @@ b_ejura = temple
 b_nsuta = city
 
 # Misc
-culture = pijin
+culture = asante
 religion = anglican
 
 #History

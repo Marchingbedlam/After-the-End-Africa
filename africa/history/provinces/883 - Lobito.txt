@@ -1,0 +1,15 @@
+# County Title
+title = c_lobito
+
+# Settlements
+max_settlements = 4
+
+b_bocoio = castle
+b_lobito = city
+b_balombo = temple
+
+# Misc
+culture = ovimbundu
+religion = catholic
+
+#History

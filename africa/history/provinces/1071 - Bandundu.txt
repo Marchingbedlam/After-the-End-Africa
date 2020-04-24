@@ -8,7 +8,7 @@ b_bandundu = castle
 b_kwamouth = temple
 
 # Misc
-culture = kongo
+culture = teke
 religion = catholic
 
 #History

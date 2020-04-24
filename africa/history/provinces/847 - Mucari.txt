@@ -1,0 +1,15 @@
+# County Title
+title = c_mucari
+
+# Settlements
+max_settlements = 4
+
+b_marimba = castle
+b_mucari = city
+b_milando = temple
+
+# Misc
+culture = ambundu
+religion = catholic
+
+#History

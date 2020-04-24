@@ -195,42 +195,44 @@ bantu = {
 		}
 	}
 	kongo={
-		color = { 0.5 0.5 0.1 }
+		color = { 0.22 1.36 0.64 }
 		
 		graphical_cultures = { westafricangfx africangfx }
 		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
-			Abel André_Andrew
+			Abel Afonso_Alphonse Álvaro Ambrósio André_Andrew
 			Bernard
 			Daniel
 			Elelo
-			Fernando_Ferdinand
+			Fernando_Ferdinand Fulbert
 			Gandu Garcia Gilbert Gyembe
 			Henrique_Henry
 			Joaquim_Joachim Joseph
-			Kembo Kiditu Konzo Kotodi
+			Kakengo Kasuta Keise Kembo Kiditu Kitama Konzo Kotodi
 			Lamyr Liel Loubendou Louis Lukeni
-			Mambou Manuel_Emmanuel Masaka Matadi Mayangi Miala Miguel_Michael Mpanzu Mvemba Mvika
-			Nanga Ndozau_John Ngouli Nimi Nkanga Nkelian Nkenge Nkumbi Nkuwu Nlaza Nlenke Nombo Nsangu Nsona Ntenda Ntinu Ntumba Nzaou Nzassi Nzenze Nzinga
-			Pedro_Peter
+			Mambou Manuel_Emmanuel Masaka Matadi Mateus_Matthew Matondo Mayangi Mbemba Miala Miguel_Michael Mpanzu Mvika
+			Nanga Ndembe Ndozau_John Ngouli Nimi Nkanga Nkelian Nkenge Nkumbi Nkuwu Nlaza Nlenke Nombo Nsangu Nsona Ntenda Ntinu Nzaou Nzassi Nzenze Nzinga
+			Petelo_Peter
 			Salvador Sylvester
-			Tekenge Trigo
+			Tekenge Théophile_Theophilus Trigo
+			Waldemar_Valdemar
 		}
 		
 		female_names = {
-			Amelia Anna_Anne
-			Cecilia
-			Eva
+			Amelia Anna_Anne Aqualtune
+			Caterina_Catherine Cecilia Christina
+			Elena_Helen Eva
 			Fudi
 			Ignacia Isabel
 			Joana
 			Kengé
-			Lélo Luisa_Louise Lusana
-			Malisbète Mamaye Marcella Maria_Mary Martha Mwessi
-			Nèle Nienzi Nsengo
+			Lélo Leonor_Eleanor Lucia Luisa_Louise Lusana
+			Malisbète Malundama Mamaye Marcella Maria_Mary Martha Mwessi
+			Nèle Nienzi Njinga Nsengo Nsukula Ntumba
+			Potencia
 			Tchitoula Touba
-			Virginia Vuzilia
+			Violante Virginia Vuzilia
 			Yala
 		}
 
@@ -240,7 +242,7 @@ bantu = {
 		prefix = yes 
 	}
 	fang={
-		color = { 0.5 0.5 0.1 }
+		color = { 0.5 0.6 0.3 }
 		
 		graphical_cultures = { westafricangfx africangfx }
 		secondary_event_pictures = bedouin_arabic
@@ -281,7 +283,7 @@ bantu = {
 		}
 	}
 	sawa={
-		color = { 0.5 0.5 0.1 }
+		color = { 0.4 0.5 0.2 }
 		
 		graphical_cultures = { westafricangfx africangfx }
 		secondary_event_pictures = bedouin_arabic
@@ -313,8 +315,196 @@ bantu = {
 			Léonora
 		}
 	}
+	teke={
+		color = { 0.2 0.3 0.1 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Adrien_Adrian Alain_alan Albert Auguste_Augustus
+			Bernard
+			Charles
+			David
+			Ilo
+			Omar
+			Pascal
+		}
+		
+		female_names = {
+			Marie_Mary
+			Ngalifourou
+		}
+	}
+	zande={
+		color = { 0.8 0.9 0.7 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Agaba Akengai Angbele Ango Asigbara
+			Badiyo Bafuka Bafurumai Bagbandara Bagboro Bagilisa Bagundusu Baikpolo Baipuru Bakangai Bakekpe Bakiyanda Bakorodi Bamboti Bangbi Banginzegino Bangoya Bangumbiyo Basa Basongoda Bauli Bavurubele Bazamangi Bazeria Bazingbi Bazo Beka Bewadi Biemangi Bima Binikpele Binza Boemi Bogua Bokweyo Boli Boro Borugba Bugwa Bungi Bungusue Busia
+			Dakaya Dekuku Dika Duli
+			Eliwa Eno Ezo
+			Faki Fataki Fuge Funa
+			Gaimu Galimbara Gamanzu Gambavunu Gambi Gamu Gangura Gbagidi Gbalia Gbate Gbifi Gbile Gbudwe Gita Gongosi Gumba Gunde Gundusu Gwa
+			Ima
+			Kamisa Kamundi Kana Kangu Kanimara Keletu Kipa Kpotogara Kpoyo Kuasi Kulewoka Kurami Kurumbise Kuruwiso
+			Laimu Lebe Lengozi Limbasa Liwa
+			Mabenge Mabura Madiri Mai Makisa Maku Malingindo Mambanga Mange Manguru Maruka Masumbu Mazegebe Mbadabu Mbangana Mbazua Mbitimo Mboli Mingemi Mongbi Mopoi Mosanabamo Muduba Murungba Muzelenga
+			Nagaza Ndani Ndegu Ndima Ndoruma Ndukpe Nganayo Ngangi Ngatua Ngbakai Ngbamboli Ngbandarungba Ngbanzi Ngbasumba Ngbeka Ngbikadi Ngbutuma Ngenzi Ngere Ngima Ngindo Ngoliyo Ngora Nguasu Nunge Nyeki Nzaniwe Nzo
+			Ongosi
+			Pakwiyo Pasuda Pelembata Pereke Pupuakondo
+			Raliyo Ravura Renzi Rikita Risasi Rokomboli Rufula Rungbakpoto
+			Sabiru Sagara Sakita Sanango Sasa Singiya Sisiru Songomboso Sukutu
+			Tali Tangili Tembura Tikima Tombo
+			Ukwe Umboiko Urudimo
+			Wanangba Wando Wangu Welegine
+			Yakpati Yangiliya Yango Yepu
+			Zabia Zai Zakala Zamoma Zangbaberu Zaza Zebu Zegi Zemoi Zengendi Zingbondo Zingbwadu Zogozogo Zoli
+		}
+		
+		female_names = {
+			Dunge
+			Naduru Nagbakoyo
+		}
+	}
+	gbaya={
+		color = { 0.51 0.77 0.41 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Abel Alexandre_Alexander Alexandre-Ferdinand André_Andrew André-Dieudonné Ange-Félix Anicet-Georges Anicet-Richard Antoine_Anthony
+			Barthélemy_Bartholomew Béranger-Aymard Bernard Bruno Bruno-Nazaire
+			Casimir Célestin_Celestine Charlemagne Charles Christophe_Christopher Clovis Constantin_Constantine
+			David Dobogon
+			Édouard_Edward Élie_Elijah Eloge Enoch Eudes_Otto
+			Faustin-Archange Ferdinand Firmin
+			Gabriel Georges_George Goduine_Godwin
+			Henri_Henry
+			Jacques-Henri Jean_John Jean-Barthélémy Jean-Bédel Jean-Charles Jean-Jacques Jean-Luc Jean-Parfait Jean-Paul Jean-Pierre Jean-Serge Jérôme_Jerome Joseph Josué_Joshua
+			Leroy Lionel
+			Magloire Maixant Manassé Marcelin Martin Michel_Michael Mindogon
+			Nicolas_Nicholas
+			Paul Pierre
+			Raphaël_Raphael Raymond Régis Robert Romuald
+			Saint-Cyr Simplice Sylvestre_Sylvester
+			Timothée_Timothy
+		}
+		
+		female_names = {
+			Adeline Adrienne_Adriana
+			Bertille-Mallorie Brigitte_Bridget
+			Catherine
+			Elisabeth_Elizabeth Estelle-Marguerite
+			Hyacinthe
+			Josephine
+			Lucienne
+			Marguerite_Margaret Marie_Mary Marie-Joëlle Marie-Reine Martine
+			Nathalie_Natalie Nicole
+			Philomene
+			Sylvie_Sylvia
+		}
+	}
+	ambundu={
+		color = { 0.94 0.86 0.16 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Abel Adriano_Adrian Afonso_Alphonse Agostinho_Augustine Alberto_Albert Alexandre_Alexander Alfredo_Alfred António_Anthony Armando Avelino
+			Bornito
+			César_Caesar Cristóvão_Christopher
+			Daniel Desidério Domingos_Dominic
+			Eduardo_Edward Eugénio_Eugene Eusébio_Eusebius
+			Fernando_Ferdinand Filipe_Philip Flávio_Flavius Francisco_Francis
+			Henrique_Henry Higino Hari
+			Ilídio
+			João_John Joaquim_Joachim Jofre_Geoffrey Jorge_George José_Joseph
+			Kambamba Kambolo Kilombo Kiluanji
+			Lúcio_Lucius Luís_Louis
+			Manuel_Emmanuel Mário_Marius Mbande Mwongo 
+			Ndambi Norberto_Norbert
+			Oscar
+			Paulo_Paul Pedro_Peter
+			Ricardo_Richard Roberto_Robert Rui
+			Salviano Sequeira
+			Viriato
+			Wilson
+		}
+		
+		female_names = {
+			Adelina Albina Aldina Amélia_Amelia Ana_Anne Anabela_Anabelle Angélica_Angelica Ansia
+			Barbara
+			Carolina_Caroline
+			Faustina Filomena
+			Jacinta Juliana
+			Kamana Kifunji
+			Matilde_Matilda Mukambu Murili
+			Nzingha
+			Palmira Paula
+			Rosa_Rose
+			Vera Verónica_Veronica
+		}
+
+		from_dynasty_prefix = "de "
+		male_patronym = "kia "
+		female_patronym = "kia "
+		prefix = yes 
+	}
+	ovimbundu={
+		color = { 0.46 0.78 0.9 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Abel Adriano_Adrian Aires Alberto_Albert Alcides Alicerces Almerindo Américo Amilcar_Hamilcar Anastácio_Anastasius Aníbal_Hannibal António_Anthony Arlindo Armindo Augusto_Augustus
+			Bartolomeu_Bartholomew Bongue Bonji
+			Carlos_Charles
+			David Demosthenes Domingos_Dominic
+			Eduardo_Edward Ekongoliohombo Ekuikui Elias_Elijah Ernesto_Ernest Estanislau_Stanislav Estêvão_Stephen Eugenio_Eugene
+			Fernando_Ferdinand Filipe_Philip Francisco_Francis Frederico_Frederick
+			Henrique_Henry Hundungulo
+			Inácio_Ignatius Isaías_Isaiah 
+			Jahulo Jeremias_Jeremiah João_John Jonas Jonatão_Jonathan Jorge_George José_Joseph Jungulo
+			Kalandula Kangovi Kapoko Katiavala
+			Livongue Lote Luís_Louis
+			Marcolino Miguel_Michael Moma Musitu Mutu
+			Ngundji Numa
+			Paulo_Paul Pedro_Peter
+			Rafael_Raphael Raul
+			Salomão_Solomon Samandalu Sebastião_Sebastian Sócrates_Socrates Sousa
+			Tchinendele Tchingui Tchisende
+			Utondosi
+			Valentim_Valentine Vasovava
+			Wilson
+			Zacarias_Zachary
+		}
+		
+		female_names = {
+			Albertina Alda Amélia_Amelia Astrida_Astrid
+			Cândida
+			Eunice
+			Filomena
+			Gabriela
+			Joana_Joan Josefa Judith Juliana
+			Leila
+			Margarida_Margaret Maria_Mary
+			Rebeca_Rebecca Rosália
+		}
+
+		from_dynasty_prefix = "de "
+		male_patronym = "kia "
+		female_patronym = "kia "
+		prefix = yes 
+	}
 	zulu={
-		color = { 0.5 0.5 0.1 }
+		color = { 0.7 0.3 0.1 }
 		
 		graphical_cultures = { westafricangfx africangfx }
 		secondary_event_pictures = bedouin_arabic
@@ -373,7 +563,7 @@ bantu = {
 		prefix = yes 
 	}
 	xhosa={
-		color = { 0.5 0.5 0.1 }
+		color = { 0.6 0.4 0.2 }
 		
 		graphical_cultures = { westafricangfx africangfx }
 		secondary_event_pictures = bedouin_arabic

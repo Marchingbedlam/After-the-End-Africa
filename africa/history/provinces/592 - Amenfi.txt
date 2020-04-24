@@ -9,7 +9,7 @@ b_pensanom = temple
 b_beposo = city
 
 # Misc
-culture = urhobo
+culture = fante
 religion = anglican
 
 #History

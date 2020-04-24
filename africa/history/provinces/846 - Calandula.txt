@@ -1,0 +1,15 @@
+# County Title
+title = c_calandula
+
+# Settlements
+max_settlements = 4
+
+b_caombo = castle
+b_calandula = city
+b_cateco_cangola = temple
+
+# Misc
+culture = ambundu
+religion = catholic
+
+#History

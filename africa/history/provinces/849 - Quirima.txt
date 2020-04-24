@@ -1,0 +1,15 @@
+# County Title
+title = c_quirima
+
+# Settlements
+max_settlements = 4
+
+b_cambundi_catembo = castle
+b_quirima = city
+b_luquembo = temple
+
+# Misc
+culture = ambundu
+religion = catholic
+
+#History

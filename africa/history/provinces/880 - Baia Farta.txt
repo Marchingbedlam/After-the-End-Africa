@@ -1,0 +1,14 @@
+# County Title
+title = c_baia_farta
+
+# Settlements
+max_settlements = 3
+
+b_dombe_grande = castle
+b_baia_farta = city
+
+# Misc
+culture = ovimbundu
+religion = catholic
+
+#History

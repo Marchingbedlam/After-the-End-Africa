@@ -8,7 +8,7 @@ b_boke_GN = castle
 b_bintimodiya_GN = city
 
 # Misc
-culture = guinensi
+culture = susu
 religion = catholic
 
 #History

@@ -38,6 +38,32 @@ k_dagbon = {
 		always = no
 	}
 }
+k_sokoto = {
+	color = { 146 62 176 }
+	color2= { 255 255 255 }
+	capital = 134 #Yendi
+
+	culture = fulbe
+
+	title = "Amir-ul-Momineen"
+
+	allow = {
+		always = no
+	}
+}
+k_edo = {
+	color = { 146 62 176 }
+	color2= { 255 255 255 }
+	capital = 134 #Yendi
+
+	culture = edo
+
+	title = "Oba"
+
+	allow = {
+		always = no
+	}
+}
 
 ##Empires
 e_manden = {

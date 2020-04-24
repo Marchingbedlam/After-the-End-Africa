@@ -11,7 +11,7 @@ b_lukunga = city
 b_tshangu = temple
 
 # Misc
-culture = kpelle
+culture = teke
 religion = catholic
 
 #History

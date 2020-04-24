@@ -1,0 +1,15 @@
+# County Title
+title = c_camacupa
+
+# Settlements
+max_settlements = 4
+
+b_catabola = castle
+b_camacupa = city
+b_chissamba = temple
+
+# Misc
+culture = ovimbundu
+religion = catholic
+
+#History

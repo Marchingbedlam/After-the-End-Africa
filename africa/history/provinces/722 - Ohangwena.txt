@@ -9,7 +9,7 @@ b_eenhana_NA = city
 b_oshikango_NA = temple
 
 # Misc
-culture = kpelle
+culture = ovambo
 religion = catholic
 
 #History

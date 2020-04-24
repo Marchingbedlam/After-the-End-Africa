@@ -114,9 +114,17 @@ gbe = {
 			
 		male_names = {
 			
-			Agaja Doaklin Gangnihessou Dakodonou Houebadja Akaba Tegbessou Kpengla Agonglo Adandozan Ghezo Glele 
-			Behanzin Agoli-agbo Aidododo Togni-ahoussou Agolli-Agbo Houédogni Kokpon Te-Agdanlin Dosu Agbo Sassa Huffon 
-			Adoma Tomo
+			Adandozan Adjakpa Adoma Agaja Agassou Agbami Agbangba Agbo Agoli-Agbo Agonglo Aidododo Akaba Ayohwan Aysan Azoton
+			Badohou Béhanzin
+			Dakodonou Dèkpon Djihento Do-Aklin Dogan Dogbari Dosu
+			Gakpe Gangnihessou Ganhwa Gbénon Ghezo Glélé
+			Houebadja Houédogni Hufon Huéze Hunungungu
+			Kanfon Kokpon Kpengla Kpodégbé
+			Mitodaho
+			Sagbadjou Sassa Sindje
+			Te-Agdanlin Tegbessou Tezifon Togni-Ahoussou Tomo Toyon
+			Zinga
+			 
 			
 			Adrah Adranyi Afefa Afelete Afetsi Agbe Agbeko Agbemabiase Agbemafle Agbenyo Agbesi Aghbenyefia Akorfala Akpe Akpenamawu Akpene Amedoamegboe Amenyo Ametame Ametefe Amevinya Amewu Aseye Awoe
 			Banini Bedzo Blewu Bubune Butsorme Butsormekpor
