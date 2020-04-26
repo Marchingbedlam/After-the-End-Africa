@@ -9,6 +9,6 @@ b_las_anod = city
 
 # Misc
 culture = somali
-religion = sunni
+religion = ashari
 
 #History

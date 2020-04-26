@@ -10,6 +10,6 @@ b_dukku_3 = city
 
 # Misc
 culture = hausa
-religion = sunni
+religion = ashari
 
 #History

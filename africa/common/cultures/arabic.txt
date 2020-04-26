@@ -379,7 +379,7 @@ arabic = {
 		female_patronym = "Mint "
 		prefix = yes 
 	}
-	omani = {
+	umani = {
 		graphical_cultures = { westafricangfx arabicgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		

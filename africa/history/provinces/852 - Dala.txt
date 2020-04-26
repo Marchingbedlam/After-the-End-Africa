@@ -1,0 +1,15 @@
+# County Title
+title = c_dala
+
+# Settlements
+max_settlements = 4
+
+b_muconda = castle
+b_dala = city
+b_biula = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

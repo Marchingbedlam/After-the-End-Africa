@@ -2,7 +2,7 @@
 	name="Amadou"
 	dynasty=1877005
 	culture=mossi
-	religion=sunni
+	religion=ashari
 
 	trait=proud
 	trait=brave
@@ -16,7 +16,7 @@
 	name="Louckmane"
 	dynasty=1877016
 	culture=mossi
-	religion=sunni
+	religion=ashari
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
@@ -25,7 +25,7 @@
 	name="Saïdou"
 	dynasty=1405001
 	culture=songhai
-	religion=sunni
+	religion=ashari
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
@@ -34,7 +34,7 @@
 	name="Kourita"
 	dynasty=1877015
 	culture=mossi
-	religion=sunni
+	religion=ashari
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
@@ -43,7 +43,7 @@
 	name="Souleymane"
 	dynasty=1877021
 	culture=mossi
-	religion=sunni
+	religion=ashari
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
@@ -52,7 +52,7 @@
 	name="Kasém"
 	dynasty=1877016
 	culture=mossi
-	religion=sunni
+	religion=ashari
 	father=1453001
 
 	2650.1.1={ birth=yes }

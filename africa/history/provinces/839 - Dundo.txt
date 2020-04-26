@@ -1,0 +1,15 @@
+# County Title
+title = c_dundo
+
+# Settlements
+max_settlements = 4
+
+b_nzagi = castle
+b_dundo = city
+b_portugalia = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

@@ -12,6 +12,6 @@ b_dembakane_SN = temple
 
 # Misc
 culture = soninke
-religion = sunni
+religion = ashari
 
 #History

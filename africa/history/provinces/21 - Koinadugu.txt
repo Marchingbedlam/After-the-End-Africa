@@ -12,6 +12,6 @@ b_falaba_SL = temple
 
 # Misc
 culture = fulbe
-religion = sunni
+religion = ashari
 
 #History

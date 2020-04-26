@@ -12,6 +12,6 @@ b_yangasso = temple
 
 # Misc
 culture = dogon
-religion = sunni
+religion = ashari
 
 #History

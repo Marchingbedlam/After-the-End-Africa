@@ -1,0 +1,15 @@
+# County Title
+title = c_ombadja
+
+# Settlements
+max_settlements = 4
+
+b_humbe = castle
+b_xangongo = city
+b_ombala_yo_mungo = temple
+
+# Misc
+culture = ovambo
+religion = catholic
+
+#History

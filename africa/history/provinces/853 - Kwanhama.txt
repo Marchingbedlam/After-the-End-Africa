@@ -1,0 +1,15 @@
+# County Title
+title = c_kwanhama
+
+# Settlements
+max_settlements = 4
+
+b_namacunde = castle
+b_ondjiva = city
+b_evale = temple
+
+# Misc
+culture = ovambo
+religion = catholic
+
+#History

@@ -10,6 +10,6 @@ b_djouna_TD = temple
 
 # Misc
 culture = baggara
-religion = sunni
+religion = ashari
 
 #History

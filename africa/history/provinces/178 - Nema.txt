@@ -8,6 +8,6 @@ b_nema_MR = tribal
 
 # Misc
 culture = manding
-religion = sunni
+religion = ashari
 
 #History

@@ -8,6 +8,6 @@ b_kebri_dehar = castle
 
 # Misc
 culture = somali
-religion = sunni
+religion = ashari
 
 #History

@@ -10,6 +10,6 @@ b_yelwa_3 = city
 
 # Misc
 culture = kainji
-religion = sunni
+religion = ashari
 
 #History

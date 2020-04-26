@@ -9,7 +9,7 @@ b_rehoboth_NA = city
 b_klein_aub_NA = temple
 
 # Misc
-culture = griqua
+culture = capeman
 religion = catholic
 
 #History

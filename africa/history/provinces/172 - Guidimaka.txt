@@ -8,6 +8,6 @@ b_selibaby_MR = tribal
 
 # Misc
 culture = fulbe
-religion = sunni
+religion = ashari
 
 #History

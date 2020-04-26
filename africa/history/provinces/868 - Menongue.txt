@@ -1,0 +1,15 @@
+# County Title
+title = c_menongue
+
+# Settlements
+max_settlements = 4
+
+b_cuchi = castle
+b_menongue = city
+b_longa = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

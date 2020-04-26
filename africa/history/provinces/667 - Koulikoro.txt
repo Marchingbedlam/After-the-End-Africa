@@ -10,6 +10,6 @@ b_koula = city
 
 # Misc
 culture = gbagi
-religion = sunni
+religion = ashari
 
 #History

@@ -10,6 +10,6 @@ b_sokode_3 = city
 
 # Misc
 culture = gurunsi
-religion = sunni
+religion = ashari
 
 #History

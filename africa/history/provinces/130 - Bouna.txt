@@ -9,6 +9,6 @@ b_bui = tribal
 
 # Misc
 culture = senufo
-religion = sunni
+religion = ashari
 
 #History

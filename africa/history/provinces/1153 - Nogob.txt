@@ -8,6 +8,6 @@ b_fiq = castle
 
 # Misc
 culture = somali
-religion = sunni
+religion = ashari
 
 #History

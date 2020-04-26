@@ -11,6 +11,6 @@ b_foundiougne_SN = temple
 
 # Misc
 culture = wolof
-religion = sunni
+religion = ashari
 
 #History

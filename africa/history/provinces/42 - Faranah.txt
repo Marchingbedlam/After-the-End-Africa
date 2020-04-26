@@ -10,6 +10,6 @@ b_faranah_GN = tribal
 
 # Misc
 culture = manding
-religion = sunni
+religion = ashari
 
 #History

@@ -10,6 +10,6 @@ b_ufeyn = temple
 
 # Misc
 culture = somali
-religion = sunni
+religion = ashari
 
 #History

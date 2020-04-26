@@ -10,6 +10,6 @@ b_bulaxaar = temple
 
 # Misc
 culture = somali
-religion = sunni
+religion = ashari
 
 #History

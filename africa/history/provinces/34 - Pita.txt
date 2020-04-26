@@ -9,6 +9,6 @@ b_pita = tribal
 
 # Misc
 culture = susu
-religion = sunni
+religion = ashari
 
 #History

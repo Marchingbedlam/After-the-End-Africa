@@ -8,6 +8,6 @@ b_tintane_MR = tribal
 
 # Misc
 culture = soninke
-religion = sunni
+religion = ashari
 
 #History

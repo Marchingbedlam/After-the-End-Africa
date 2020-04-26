@@ -2,7 +2,7 @@
 	name="Ibrahim"
 	dynasty=1401013
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401004
 	martial=6
 	diplomacy=6
@@ -22,7 +22,7 @@
 	name="Ahmed"
 	dynasty=1401013
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401000
 	martial=6
 	diplomacy=6
@@ -39,7 +39,7 @@
 	name="Ouli"
 	dynasty=1401013
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401000
 
 	2650.8.19={ birth=yes }
@@ -49,7 +49,7 @@
 	name="Bory"
 	dynasty=1401013
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401000
 
 	2653.9.19={ birth=yes }
@@ -59,7 +59,7 @@
 	name="Ouli"
 	dynasty=1401013
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401005
 
 	2590.1.1={ birth=yes }
@@ -69,7 +69,7 @@
 	name="Ahmed"
 	dynasty=1401013
 	culture=manding
-	religion=sunni
+	religion=ashari
 
 	2570.1.1={ birth=yes }
 	2630.1.1={ death=yes }
@@ -78,7 +78,7 @@
 	name="Daouda"
 	dynasty=1401013
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401004
 
 	2626.1.1={ birth=yes }
@@ -88,7 +88,7 @@
 	name="Iyad"
 	dynasty=1444035
 	culture=tuareg
-	religion=sunni
+	religion=ashari
 
 	2625.1.1={ birth=yes }
 	2700.1.1={ death=yes }
@@ -97,7 +97,7 @@
 	name="Kaocen"
 	dynasty=1444035
 	culture=tuareg
-	religion=sunni
+	religion=ashari
 	father=1401007
 
 	2645.1.1={ birth=yes }
@@ -108,7 +108,7 @@
 	female=yes
 	dynasty=1444035
 	culture=tuareg
-	religion=sunni
+	religion=ashari
 	father=1401007
 
 	2650.1.1={ birth=yes }
@@ -118,7 +118,7 @@
 	name="Ouezzin"
 	dynasty=1401005
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401020
 
 	2630.1.1={ birth=yes }
@@ -128,7 +128,7 @@
 	name="Sakoura"
 	dynasty=1401011
 	culture=manding
-	religion=sunni
+	religion=ashari
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
@@ -137,7 +137,7 @@
 	name="Ballaké"
 	dynasty=1401010
 	culture=manding
-	religion=sunni
+	religion=ashari
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
@@ -146,7 +146,7 @@
 	name="Mamadou"
 	dynasty=1401018
 	culture=manding
-	religion=sunni
+	religion=ashari
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
@@ -155,7 +155,7 @@
 	name="Modibo"
 	dynasty=1401002
 	culture=manding
-	religion=sunni
+	religion=ashari
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
@@ -164,7 +164,7 @@
 	name="Abou-Bekr"
 	dynasty=1302006
 	culture=soninke
-	religion=sunni
+	religion=ashari
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
@@ -173,7 +173,7 @@
 	name="Denan"
 	dynasty=1844003
 	culture=senufo
-	religion=sunni
+	religion=ashari
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
@@ -183,7 +183,7 @@
 	name="Moussa"
 	dynasty=1401005
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401021
 
 	2605.1.1={ birth=yes }
@@ -193,7 +193,7 @@
 	name="Ousmane"
 	dynasty=1401005
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401022
 
 	2585.1.1={ birth=yes }
@@ -203,7 +203,7 @@
 	name="Ouezzin"
 	dynasty=1401005
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401023
 
 	2570.1.1={ birth=yes }
@@ -213,7 +213,7 @@
 	name="Youssouf"
 	dynasty=1401005
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401024
 
 	2540.1.1={ birth=yes }
@@ -223,7 +223,7 @@
 	name="Djibril"
 	dynasty=1401005
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401025
 
 	2510.1.1={ birth=yes }
@@ -233,7 +233,7 @@
 	name="Moussa"
 	dynasty=1401005
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401026
 
 	2490.1.1={ birth=yes }
@@ -243,7 +243,7 @@
 	name="Moussa"
 	dynasty=1401005
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401027
 
 	2465.1.1={ birth=yes }
@@ -253,7 +253,7 @@
 	name="Boucader"
 	dynasty=1401005
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401028
 
 	trait=brave
@@ -266,7 +266,7 @@
 	name="Oumar"
 	dynasty=1401005
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401029
 
 	trait=cynical
@@ -280,7 +280,7 @@
 	name="Hamadoun"
 	dynasty=1401005
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401030
 
 	trait=strong
@@ -295,7 +295,7 @@
 	name="Boucader Bakari"
 	dynasty=1401005
 	culture=manding
-	religion=sunni
+	religion=ashari
 
 	trait=quick
 	trait=ambitious
@@ -311,7 +311,7 @@
 	name="Soundiata" #Sundiata Keita
 	dynasty=1401004
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401106
 
 	trait=legendary
@@ -327,7 +327,7 @@
 	name="Ouli" #Uli I Keita
 	dynasty=1401004
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401100
 
 	trait=legendary
@@ -343,7 +343,7 @@
 	name="Ouati" #Wati Keita
 	dynasty=1401004
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401100
 
 	trait=legendary
@@ -356,7 +356,7 @@
 	name="Khalifa" #Khalifa Keita
 	dynasty=1401004
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401100
 
 	trait=legendary
@@ -371,7 +371,7 @@
 	name="Abubakari" #Abubakari I Keita
 	dynasty=1401004
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401106
 
 	trait=legendary
@@ -384,7 +384,7 @@
 	name="Sakoura" #Mansa Sakura
 	dynasty=1401051
 	culture=manding
-	religion=sunni
+	religion=ashari
 
 	trait=legendary
 	trait=ambitious
@@ -399,7 +399,7 @@
 	name="Naré-Maghann" #father of Sundiata
 	dynasty=1401004
 	culture=manding
-	religion=sunni
+	religion=ashari
 
 	trait=legendary
 
@@ -411,7 +411,7 @@
 	female=yes
 	dynasty=1401004
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401106
 
 	trait=legendary
@@ -423,7 +423,7 @@
 	name="Gao" #Gao I Keita
 	dynasty=1401004
 	culture=manding
-	religion=sunni
+	religion=ashari
 	mother=1401107
 
 	trait=legendary
@@ -435,7 +435,7 @@
 	name="Mari-Djata Mohammed Gao" #Mansa Mohammed ibn Gao, changed name so numbers work
 	dynasty=1401004
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401108
 
 	trait=legendary
@@ -447,7 +447,7 @@
 	name="Abubakari" #Abubakari II Keita
 	dynasty=1401004
 	culture=manding
-	religion=sunni
+	religion=ashari
 	mother=1401107
 
 	trait=legendary
@@ -467,7 +467,7 @@
 	name="Faga-Laye" #son of Abubakari I
 	dynasty=1401004
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401104
 
 	trait=legendary
@@ -479,7 +479,7 @@
 	name="Moussa" #Mansa Musa 
 	dynasty=1401004
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401111
 
 	trait=legendary
@@ -498,7 +498,7 @@
 	name="Maghan" #Maghan I Keita
 	dynasty=1401004
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401112
 
 	trait=legendary
@@ -510,7 +510,7 @@
 	name="Souleymane" #Souleymane Keita
 	dynasty=1401004
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401111
 
 	trait=legendary
@@ -525,7 +525,7 @@
 	name="Camba" #Camba Keita
 	dynasty=1401004
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401114
 
 	trait=legendary
@@ -537,7 +537,7 @@
 	name="Mari-Djata" #Mari-Djata II Keita
 	dynasty=1401004
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401113
 
 	trait=legendary
@@ -552,7 +552,7 @@
 	name="Moussa" #Musa II Keita
 	dynasty=1401004
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401116
 
 	trait=legendary
@@ -565,7 +565,7 @@
 	name="Maghan" #Maghan II Keita
 	dynasty=1401004
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401116
 
 	trait=legendary
@@ -577,7 +577,7 @@
 	name="Sandaki" #Mansa Sandaki
 	dynasty=1401057
 	culture=manding
-	religion=sunni
+	religion=ashari
 
 	trait=legendary
 	trait=ambitious
@@ -595,7 +595,7 @@
 	name="Mamadou" #Mahmud I Keita
 	dynasty=1401004
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401116
 
 	trait=legendary
@@ -607,7 +607,7 @@
 	name="Moussa" #Musa III Keita
 	dynasty=1401004
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401120
 
 	trait=legendary
@@ -620,7 +620,7 @@
 	name="Ouli" #Ouli II Keita
 	dynasty=1401004
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401120
 
 	trait=legendary
@@ -633,7 +633,7 @@
 	name="Mamadou" #Mamadou II Keita
 	dynasty=1401004
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401122
 
 	trait=legendary
@@ -646,7 +646,7 @@
 	name="Mamadou" #Mahmud III Keita
 	dynasty=1401004
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401123
 
 	trait=legendary
@@ -658,7 +658,7 @@
 	name="Abubakari" #civil war, did not reign
 	dynasty=1401004
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401124
 
 	trait=legendary
@@ -670,7 +670,7 @@
 	name="Mamadou" #Mahmud IV Keita
 	dynasty=1401004
 	culture=manding
-	religion=sunni
+	religion=ashari
 	father=1401125
 
 	trait=legendary

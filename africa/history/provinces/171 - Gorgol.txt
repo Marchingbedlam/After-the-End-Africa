@@ -8,6 +8,6 @@ b_kaedi_MR = tribal
 
 # Misc
 culture = wolof
-religion = sunni
+religion = ashari
 
 #History

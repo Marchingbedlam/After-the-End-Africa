@@ -10,6 +10,6 @@ b_ife_3 = city
 
 # Misc
 culture = yoruba
-religion = sunni
+religion = ashari
 
 #History

@@ -2,7 +2,7 @@
 	name="Chérif"
 	dynasty=1511007
 	culture=wolof
-	religion=sunni
+	religion=ashari
 	trait=scholarly_theologian
 
 	2630.1.1={ birth=yes }
@@ -12,7 +12,7 @@
 	name="Njekeh"
 	dynasty=1512016
 	culture=serer
-	religion=sunni
+	religion=ashari
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
@@ -21,7 +21,7 @@
 	name="Louis-Ali"
 	dynasty=1513003
 	culture=jola
-	religion=sunni
+	religion=ashari
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
@@ -30,7 +30,7 @@
 	name="Cellou"
 	dynasty=1406030
 	culture=fulbe
-	religion=sunni
+	religion=ashari
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
@@ -55,7 +55,7 @@
 	name="Aram Bakar"
 	dynasty=1511008
 	culture=wolof
-	religion=sunni
+	religion=ashari
 
 	trait=zealous
 
@@ -75,7 +75,7 @@
 	name="Junaidu"
 	dynasty=1406036
 	culture=fulbe
-	religion=sunni
+	religion=ashari
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
@@ -84,7 +84,7 @@
 	name="Sérébandjougou"
 	dynasty=1401022
 	culture=manding
-	religion=sunni
+	religion=ashari
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }

@@ -8,6 +8,6 @@ b_zouerat_MR = tribal
 
 # Misc
 culture = sahrawi
-religion = sunni
+religion = ashari
 
 #History

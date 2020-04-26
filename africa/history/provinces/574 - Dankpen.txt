@@ -9,6 +9,6 @@ b_naware = temple
 
 # Misc
 culture = gurunsi
-religion = sunni
+religion = ashari
 
 #History

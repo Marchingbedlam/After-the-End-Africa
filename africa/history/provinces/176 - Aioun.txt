@@ -8,6 +8,6 @@ b_ayoun_el_atrous_MR = tribal
 
 # Misc
 culture = sahrawi
-religion = sunni
+religion = ashari
 
 #History

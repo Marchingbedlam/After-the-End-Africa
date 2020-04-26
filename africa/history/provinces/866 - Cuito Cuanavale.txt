@@ -1,0 +1,15 @@
+# County Title
+title = c_cuito_cuanavale
+
+# Settlements
+max_settlements = 4
+
+b_mavinga = castle
+b_cuito_cuanavale = city
+b_milenge = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

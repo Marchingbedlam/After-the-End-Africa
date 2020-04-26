@@ -12,6 +12,6 @@ b_pikine_SN = temple
 
 # Misc
 culture = wolof
-religion = sunni
+religion = ashari
 
 #History

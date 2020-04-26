@@ -1,0 +1,15 @@
+# County Title
+title = c_luau
+
+# Settlements
+max_settlements = 4
+
+b_luacano = castle
+b_luau = city
+b_cuasa = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

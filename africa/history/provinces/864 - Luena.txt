@@ -1,0 +1,15 @@
+# County Title
+title = c_luena
+
+# Settlements
+max_settlements = 4
+
+b_lucusse = castle
+b_luena = city
+b_santo_caloto = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

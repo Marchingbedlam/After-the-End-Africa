@@ -1185,7 +1185,7 @@
 	name="Kpoh" 
 	dynasty=1844017
 	culture=senufo
-	religion=sunni
+	religion=ashari
 
 	2630.1.1={birth=yes}
 	2700.1.1={death=yes}
@@ -1194,7 +1194,7 @@
 	name="Burzambo" 
 	dynasty=1866002
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 
 	2630.1.1={birth=yes}
 	2700.1.1={death=yes}
@@ -1203,7 +1203,7 @@
 	name="Issahaku" 
 	dynasty=1866009
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 
 	2630.1.1={birth=yes}
 	2700.1.1={death=yes}
@@ -1215,7 +1215,7 @@
 	name="Gbewa" #Legendary founder of Dagbon
 	dynasty=9000
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 
 	trait=legendary
 	trait=occluded
@@ -1227,7 +1227,7 @@
 	name="Mahamadu" #Mahama I Korgu, so numbers work out right
 	dynasty=1866029
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 
 	trait=legendary
 	trait=occluded
@@ -1239,7 +1239,7 @@
 	name="Andani" #Andani I Jangbariga, so numbers work out right
 	dynasty=1866028
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 
 	trait=legendary
 	trait=occluded
@@ -1251,7 +1251,7 @@
 	name="Yakubu" #Yakubu I Abudu (had to be one of them)
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 
 	trait=legendary
 	trait=occluded
@@ -1265,7 +1265,7 @@
 	name="Abdulai" #Abdulai I Abudu 
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500303
 
 	trait=legendary
@@ -1278,7 +1278,7 @@
 	name="Andani" #Andani I Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500303
 
 	trait=legendary
@@ -1291,7 +1291,7 @@
 	name="Darimani" #Andani II Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500303
 
 	trait=legendary
@@ -1304,7 +1304,7 @@
 	name="Alasani" #Alasani I Abudu 
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500304
 
 	trait=legendary
@@ -1317,7 +1317,7 @@
 	name="Abukari" #Abukari I Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500305
 
 	trait=legendary
@@ -1330,7 +1330,7 @@
 	name="Abdulai" #Abdulai II Abudu 
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500307
 
 	trait=legendary
@@ -1343,7 +1343,7 @@
 	name="Mahamadu" #Mahama II Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500305
 
 	trait=legendary
@@ -1356,7 +1356,7 @@
 	name="Mahamadu" #Mahama III Abudu 
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500309
 
 	trait=legendary
@@ -1369,7 +1369,7 @@
 	name="Abdulai" #Abdulai III Abudu 
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500311
 
 	trait=legendary
@@ -1383,7 +1383,7 @@
 	name="Andani" #Andani III Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500310
 
 	trait=legendary
@@ -1396,7 +1396,7 @@
 	name="Mahamadu" #Mahama IV Abudu 
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500312
 
 	trait=legendary
@@ -1409,7 +1409,7 @@
 	name="Yakubu" #Yakubu II Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500313
 
 	trait=legendary
@@ -1422,7 +1422,7 @@
 	name="Abukari" #Abukari II Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500310
 
 	trait=legendary
@@ -1435,7 +1435,7 @@
 	name="Abdulai" #Abdulai IV Abudu, FIRST POST EVENT FAKE PERSON
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500314
 
 	trait=legendary
@@ -1448,7 +1448,7 @@
 	name="Yakubu" #Yakubu III Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500316
 
 	trait=legendary
@@ -1461,7 +1461,7 @@
 	name="Alasani" #Alasani II Abudu 
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500317
 
 	trait=legendary
@@ -1474,7 +1474,7 @@
 	name="Mahamadu" #Mahamadu V Abudu 
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500319
 
 	trait=legendary
@@ -1487,7 +1487,7 @@
 	name="Mahamadu" #Mahamadu VI Abudu
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500320
 
 	trait=legendary
@@ -1500,7 +1500,7 @@
 	name="Umaru" #Umaru I Abudu 
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500320
 
 	trait=legendary
@@ -1513,7 +1513,7 @@
 	name="Andani" #Andani IV Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500318
 
 	trait=legendary
@@ -1526,7 +1526,7 @@
 	name="Yakubu" #Yakubu IV Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500323
 
 	trait=legendary
@@ -1539,7 +1539,7 @@
 	name="Mahamadu" #Mahamadu VII Abudu
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500322
 
 	trait=legendary
@@ -1552,7 +1552,7 @@
 	name="Abukari" #Abukari III Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500324
 
 	trait=legendary
@@ -1565,7 +1565,7 @@
 	name="Abdulai" #Abdulai V Abudu
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500325
 
 	trait=legendary
@@ -1578,7 +1578,7 @@
 	name="Sidiku" #Sidiku I Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500326
 
 	trait=legendary
@@ -1591,7 +1591,7 @@
 	name="Mahamadu" #Mahamadu VIII Abudu
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500327
 
 	trait=legendary
@@ -1604,7 +1604,7 @@
 	name="Yakubu" #Yakubu V Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500328
 
 	trait=legendary
@@ -1617,7 +1617,7 @@
 	name="Abdulai" #Abdulai VI Abudu
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500329
 
 	trait=legendary
@@ -1630,7 +1630,7 @@
 	name="Yakubu" #Yakubu VI Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500330
 
 	trait=legendary
@@ -1643,7 +1643,7 @@
 	name="Inusah" #Inusah I Abudu
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500331
 
 	trait=legendary
@@ -1656,7 +1656,7 @@
 	name="Mahamadu" #Mahama IX Abudu
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500333
 
 	trait=legendary
@@ -1669,7 +1669,7 @@
 	name="Abukari" #Abukari IV Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500332
 
 	trait=legendary
@@ -1682,7 +1682,7 @@
 	name="Inusah" #Inusah II Abudu
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500333
 
 	trait=legendary
@@ -1695,7 +1695,7 @@
 	name="Andani" #Andani V Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500332
 
 	trait=legendary
@@ -1708,7 +1708,7 @@
 	name="Abdulai" #Abdulai VII Abudu
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500336
 
 	trait=legendary
@@ -1721,7 +1721,7 @@
 	name="Yakubu" #Yakubu VII Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500337
 
 	trait=legendary
@@ -1734,7 +1734,7 @@
 	name="Abdulai" #Abdulai VIII Abudu
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500338
 
 	trait=legendary
@@ -1747,7 +1747,7 @@
 	name="Yakubu" #Yakubu VIII Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500339
 
 	trait=legendary
@@ -1760,7 +1760,7 @@
 	name="Fusheni" #Fusheni I Abudu, End of legendary rulers?
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500340
 
 	2300.1.1={birth=yes}
@@ -1770,7 +1770,7 @@
 	name="Yakubu" #Yakubu IX Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500341
 
 	2290.1.1={birth=yes}
@@ -1780,7 +1780,7 @@
 	name="Alasani" #Alasani III Abudu
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500342
 
 	2324.1.1={birth=yes}
@@ -1790,7 +1790,7 @@
 	name="Yakubu" #Yakubu X Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500343
 
 	2333.1.1={birth=yes}
@@ -1800,7 +1800,7 @@
 	name="Zongma" #Zongma I Abudu
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500344
 
 	2348.1.1={birth=yes}
@@ -1810,7 +1810,7 @@
 	name="Yakubu" #Yakubu XI Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500345
 
 	2350.1.1={birth=yes}
@@ -1820,7 +1820,7 @@
 	name="Mahamadu" #Mahamadu X Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500347
 
 	2375.1.1={birth=yes}
@@ -1830,7 +1830,7 @@
 	name="Abdulai" #Abdulai IX Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500347
 
 	2378.1.1={birth=yes}
@@ -1840,7 +1840,7 @@
 	name="Yakubu" #Yakubu XII Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500349
 
 	2400.1.1={birth=yes}
@@ -1850,7 +1850,7 @@
 	name="Saeed" #Saeed I Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500347
 
 	2380.1.1={birth=yes}
@@ -1860,7 +1860,7 @@
 	name="Andani" #Andani VI Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500351
 
 	2416.1.1={birth=yes}
@@ -1870,7 +1870,7 @@
 	name="Inusah" #Inusah Abudu, never king
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500344
 
 	2352.1.1={birth=yes}
@@ -1880,7 +1880,7 @@
 	name="Abdulai" #Abdulai Abudu, never king
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500353
 
 	2370.1.1={birth=yes}
@@ -1890,7 +1890,7 @@
 	name="Fusheni" #Fusheni II Abudu
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500354
 
 	2394.1.1={birth=yes}
@@ -1900,7 +1900,7 @@
 	name="Yakubu" #Yakubu XIII Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500352
 
 	2440.1.1={birth=yes}
@@ -1910,7 +1910,7 @@
 	name="Abukari" #Abukari V Abudu
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500355
 
 	2450.1.1={birth=yes}
@@ -1920,7 +1920,7 @@
 	name="Yakubu" #Yakubu XIV Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500356
 
 	2465.1.1={birth=yes}
@@ -1930,7 +1930,7 @@
 	name="Fusheni" #Fusheni III Abudu
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500357
 
 	2470.1.1={birth=yes}
@@ -1940,7 +1940,7 @@
 	name="Andani" #Andani VII Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500358
 
 	2490.1.1={birth=yes}
@@ -1950,7 +1950,7 @@
 	name="Zongma" #Zongma II Abudu
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500359
 
 	2489.1.1={birth=yes}
@@ -1960,7 +1960,7 @@
 	name="Andani" #Andani VIII Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500360
 
 	2528.1.1={birth=yes}
@@ -1970,7 +1970,7 @@
 	name="Abdulai" #Abdulai X Abudu
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500361
 
 	2520.1.1={birth=yes}
@@ -1980,7 +1980,7 @@
 	name="Yakubu" #Yakubu XV Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500362
 
 	2548.1.1={birth=yes}
@@ -1990,7 +1990,7 @@
 	name="Fusheni Abdulai" #Fusheni IV Abudu
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500363
 
 	2555.1.1={birth=yes}
@@ -2000,7 +2000,7 @@
 	name="Fusheni Abukari" #Fusheni V Abudu
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500363
 
 	2580.1.1={birth=yes}
@@ -2010,7 +2010,7 @@
 	name="Yakubu" #Yakubu XVI Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500364
 
 	2572.1.1={birth=yes}
@@ -2020,7 +2020,7 @@
 	name="Abukari" #Abukari VI Abudu
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500366
 
 	2600.1.1={birth=yes}
@@ -2030,7 +2030,7 @@
 	name="Yakubu" #Yakubu XVII Andani 
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500367
 
 	2600.1.1={birth=yes}
@@ -2040,7 +2040,7 @@
 	name="Mahamadu" #Mahama XI Andani , current king
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500369
 
 	trait=strong
@@ -2058,7 +2058,7 @@
 	name="Andani" #Andani prince
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500369
 
 	trait=content
@@ -2073,7 +2073,7 @@
 	name="Yakubu" #Andani prince
 	dynasty=1866021
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500369
 
 	trait=quick
@@ -2086,7 +2086,7 @@
 	name="Abukari" #Abudu prince
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500368
 
 	trait=slothful
@@ -2102,7 +2102,7 @@
 	name="Zongma Mahama" #Abudu prince
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500373
 
 	2652.1.1={birth=yes}
@@ -2112,7 +2112,7 @@
 	name="Yiri Yusuf" #Abudu prince
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500373
 
 	2655.1.1={birth=yes}
@@ -2122,7 +2122,7 @@
 	name="Zongma" #Abudu prince
 	dynasty=1866016
 	culture=dagomba
-	religion=sunni
+	religion=ashari
 	father=1500368
 
 	trait=cruel

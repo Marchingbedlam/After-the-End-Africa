@@ -417,7 +417,7 @@ bantu = {
 			
 		male_names = {
 			Abel Adriano_Adrian Afonso_Alphonse Agostinho_Augustine Alberto_Albert Alexandre_Alexander Alfredo_Alfred António_Anthony Armando Avelino
-			Bornito
+			Bernardo_Bernard Bornito
 			César_Caesar Cristóvão_Christopher
 			Daniel Desidério Domingos_Dominic
 			Eduardo_Edward Eugénio_Eugene Eusébio_Eusebius
@@ -438,7 +438,7 @@ bantu = {
 		}
 		
 		female_names = {
-			Adelina Albina Aldina Amélia_Amelia Ana_Anne Anabela_Anabelle Angélica_Angelica Ansia
+			Adelina Albertina Albina Aldina Amélia_Amelia Ana_Anne Anabela_Anabelle Angélica_Angelica Ansia
 			Barbara
 			Carolina_Caroline
 			Faustina Filomena
@@ -448,6 +448,7 @@ bantu = {
 			Nzingha
 			Palmira Paula
 			Rosa_Rose
+			Teresa_Theresa
 			Vera Verónica_Veronica
 		}
 
@@ -464,10 +465,10 @@ bantu = {
 			
 		male_names = {
 			Abel Adriano_Adrian Aires Alberto_Albert Alcides Alicerces Almerindo Américo Amilcar_Hamilcar Anastácio_Anastasius Aníbal_Hannibal António_Anthony Arlindo Armindo Augusto_Augustus
-			Bartolomeu_Bartholomew Bongue Bonji
+			Bartolomeu_Bartholomew Bernardo_Bernard Bongue Bonji
 			Carlos_Charles
 			David Demosthenes Domingos_Dominic
-			Eduardo_Edward Ekongoliohombo Ekuikui Elias_Elijah Ernesto_Ernest Estanislau_Stanislav Estêvão_Stephen Eugenio_Eugene
+			Eduardo_Edward Eguerreiro Ekongoliohombo Ekuikui Elias_Elijah Ernesto_Ernest Estanislau_Stanislav Estêvão_Stephen Eugenio_Eugene
 			Fernando_Ferdinand Filipe_Philip Francisco_Francis Frederico_Frederick
 			Henrique_Henry Hundungulo
 			Inácio_Ignatius Isaías_Isaiah 
@@ -481,7 +482,7 @@ bantu = {
 			Salomão_Solomon Samandalu Sebastião_Sebastian Sócrates_Socrates Sousa
 			Tchinendele Tchingui Tchisende
 			Utondosi
-			Valentim_Valentine Vasovava
+			Valentim_Valentine Vasovava Vigílio
 			Wilson
 			Zacarias_Zachary
 		}
@@ -494,8 +495,9 @@ bantu = {
 			Gabriela
 			Joana_Joan Josefa Judith Juliana
 			Leila
-			Margarida_Margaret Maria_Mary
+			Marcelina Margarida_Margaret Maria_Mary
 			Rebeca_Rebecca Rosália
+			Teresa_Theresa
 		}
 
 		from_dynasty_prefix = "de "

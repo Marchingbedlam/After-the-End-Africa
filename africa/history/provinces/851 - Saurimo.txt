@@ -1,0 +1,14 @@
+# County Title
+title = c_saurimo
+
+# Settlements
+max_settlements = 4
+
+b_pimbe = castle
+b_saurimo = city
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

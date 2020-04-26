@@ -10,6 +10,6 @@ b_baligubadle = temple
 
 # Misc
 culture = somali
-religion = sunni
+religion = ashari
 
 #History

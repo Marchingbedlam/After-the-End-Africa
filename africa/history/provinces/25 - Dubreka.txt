@@ -12,6 +12,6 @@ b_dixinn_GN = temple
 
 # Misc
 culture = susu
-religion = sunni
+religion = ashari
 
 #History

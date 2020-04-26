@@ -851,21 +851,21 @@ province;red;green;blue;x;x
 850;9;254;3;Cacolo;x
 851;41;160;9;Saurimo;x
 852;222;119;159;Dala;x
-853;98;95;225;Namacunde;x
+853;98;95;225;Kwanhama;x
 854;178;43;147;Cuvelai;x
-855;51;149;148;Cahama;x
+855;51;149;148;Kuroka;x
 856;97;174;176;Ombadja;x
 857;31;87;208;Andulo;x
 858;217;114;85;Cuemba;x
 859;76;152;16;Camacupa;x
 860;27;104;138;Cuito;x
 861;53;210;83;Chitembo;x
-862;157;118;45;Luacano;x
+862;157;118;45;Luau;x
 863;161;177;77;Leua;x
 864;184;206;251;Luena;x
-865;136;215;6;Cangamba;x
+865;136;215;6;Luchazes;x
 866;43;55;102;Cuito Cuanavale;x
-867;177;68;30;Savate;x
+867;177;68;30;Dirico;x
 868;107;168;252;Menongue;x
 869;245;101;71;Chipindo;x
 870;234;147;245;Matala;x
@@ -876,7 +876,7 @@ province;red;green;blue;x;x
 875;247;168;22;Bentiaba;x
 876;90;118;20;Tombua;x
 877;143;225;87;Mocamedes;x
-878;37;68;135;Chiange;x
+878;37;68;135;Gambos;x
 879;111;248;156;Lubango;x
 880;139;123;180;Baia Farta;x
 881;184;229;29;Chongoroi;x
@@ -894,10 +894,10 @@ province;red;green;blue;x;x
 893;179;67;159;Mbanza-Kongo;x
 894;142;6;68;Soyo;x
 895;135;209;77;Luanda;x
-896;10;250;154;Mavinga;x
+896;;;;;x
 897;121;23;91;Alto Zambeze;x
-898;116;131;46;Lumbala-Nguimbo;x
-899;174;250;162;Rivungo;x
+898;116;131;46;Lumbala Nguimbo;x
+899;;;;;x
 900;32;63;14;Macia;x
 901;241;99;30;Massingir;x
 902;201;210;185;Xai-Xai;x

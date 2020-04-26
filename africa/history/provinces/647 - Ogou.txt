@@ -10,6 +10,6 @@ b_illama = city
 
 # Misc
 culture = ewe
-religion = sunni
+religion = ashari
 
 #History

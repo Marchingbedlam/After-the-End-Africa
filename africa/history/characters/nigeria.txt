@@ -2,7 +2,7 @@
 	name="Zarumi"
 	dynasty=1409000
 	culture=hausa
-	religion=sunni
+	religion=ashari
 	father=1963003
 	trait=crippled
 	trait=brave
@@ -21,7 +21,7 @@
 	name="Sani Ahmad"
 	dynasty=1409000
 	culture=hausa
-	religion=sunni
+	religion=ashari
 	father=1963002
 	trait=proud
 	trait=zealous
@@ -39,7 +39,7 @@
 	name="Munzali"
 	dynasty=1409000
 	culture=hausa
-	religion=sunni
+	religion=ashari
 	father=1963003
 	trait=proud
 	trait=zealous
@@ -57,7 +57,7 @@
 	name="Ahmad Ali"
 	dynasty=1409000
 	culture=hausa
-	religion=sunni
+	religion=ashari
 
 	trait=proud
 	trait=lustful
@@ -74,7 +74,7 @@
 	name="Ado Ahmad"
 	dynasty=1409000
 	culture=hausa
-	religion=sunni
+	religion=ashari
 	father=1963003
 	trait=humble
 	trait=duelist
@@ -91,7 +91,7 @@
 	name="Muhammadu"
 	dynasty=1409000
 	culture=hausa
-	religion=sunni
+	religion=ashari
 	father=1963003
 	trait=faqih
 	trait=erudite
@@ -109,7 +109,7 @@
 	female=yes
 	dynasty=1409000
 	culture=hausa
-	religion=sunni
+	religion=ashari
 	father=1963003
 	trait=lustful
 	trait=wroth
@@ -126,7 +126,7 @@
 	name="Abdulmalik"
 	dynasty=1409000
 	culture=hausa
-	religion=sunni
+	religion=ashari
 	father=1963003
 	trait=brave
 	trait=content
@@ -146,7 +146,7 @@
 	female=yes
 	dynasty=1409000
 	culture=hausa
-	religion=sunni
+	religion=ashari
 	father=1963003
 	trait=ambitious
 	trait=diligent
@@ -163,7 +163,7 @@
 	female=yes
 	dynasty=1409000
 	culture=hausa
-	religion=sunni
+	religion=ashari
 	father=1963003
 	trait=fair
 	trait=poet
@@ -180,7 +180,7 @@
 	name="Ramat"
 	dynasty=1409000
 	culture=hausa
-	religion=sunni
+	religion=ashari
 	father=1963003
 	trait=homosexual
 	trait=architect
@@ -199,7 +199,7 @@
 	name="Abubakar"
 	dynasty=0
 	culture=fulbe
-	religion=sunni
+	religion=ashari
 
 	2621.5.22={ birth=yes }
 	2700.1.1={ death=yes }

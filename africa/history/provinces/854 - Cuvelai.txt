@@ -1,0 +1,14 @@
+# County Title
+title = c_cuvelai
+
+# Settlements
+max_settlements = 3
+
+b_cuvelai = castle
+b_mupa = temple
+
+# Misc
+culture = ovambo
+religion = catholic
+
+#History

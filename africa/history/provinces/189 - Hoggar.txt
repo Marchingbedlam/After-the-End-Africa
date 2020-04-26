@@ -8,6 +8,6 @@ b_tamanrasset_DZ = tribal
 
 # Misc
 culture = tuareg
-religion = sunni
+religion = ashari
 
 #History

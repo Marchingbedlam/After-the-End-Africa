@@ -10,6 +10,6 @@ b_konobougou = temple
 
 # Misc
 culture = fulbe
-religion = sunni
+religion = ashari
 
 #History

@@ -12,6 +12,6 @@ b_bansang_GM = temple
 
 # Misc
 culture = manding
-religion = sunni
+religion = ashari
 
 #History

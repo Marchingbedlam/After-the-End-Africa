@@ -8,6 +8,6 @@ b_gaoua = tribal
 
 # Misc
 culture = mossi
-religion = sunni
+religion = ashari
 
 #History

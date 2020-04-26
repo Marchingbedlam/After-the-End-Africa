@@ -1,0 +1,15 @@
+# County Title
+title = c_gambos
+
+# Settlements
+max_settlements = 4
+
+b_chibemba = castle
+b_chiange = city
+b_bilaiambundo = temple
+
+# Misc
+culture = ovimbundu
+religion = catholic
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title = c_caluquembe
+
+# Settlements
+max_settlements = 4
+
+b_quilengues = castle
+b_caluquembe = city
+b_caconda = temple
+
+# Misc
+culture = ovimbundu
+religion = catholic
+
+#History

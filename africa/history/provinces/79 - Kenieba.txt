@@ -9,6 +9,6 @@ b_kenieba = castle
 
 # Misc
 culture = wolof
-religion = sunni
+religion = ashari
 
 #History

@@ -1,7 +1,7 @@
 1917000={
 	name="Choukri"
 	culture=haratin
-	religion=sunni
+	religion=ashari
 	dynasty=1917004
 
 	trait=ugly
@@ -21,7 +21,7 @@
 1917001={
 	name="Taghiyoulla"
 	culture=haratin
-	religion=sunni
+	religion=ashari
 	dynasty=1917004
 
 	trait=clubfooted

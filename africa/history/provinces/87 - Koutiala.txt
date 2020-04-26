@@ -12,6 +12,6 @@ b_zangasso = temple
 
 # Misc
 culture = manding
-religion = sunni
+religion = ashari
 
 #History

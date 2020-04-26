@@ -8,6 +8,6 @@ b_shilabo = castle
 
 # Misc
 culture = somali
-religion = sunni
+religion = ashari
 
 #History

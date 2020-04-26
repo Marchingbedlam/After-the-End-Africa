@@ -8,6 +8,6 @@ b_tessalit_ML = tribal
 
 # Misc
 culture = tuareg
-religion = sunni
+religion = ashari
 
 #History

@@ -8,6 +8,5 @@ b_dakhla_EH = tribal
 
 # Misc
 culture = sahrawi
-religion = sunni
-
+religion = ashari
 #History

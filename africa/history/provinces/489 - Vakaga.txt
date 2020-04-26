@@ -8,6 +8,6 @@ b_vakaga = castle
 
 # Misc
 culture = baggara
-religion = sunni
+religion = ashari
 
 #History

@@ -10,6 +10,6 @@ b_segbana_3 = city
 
 # Misc
 culture = bariba
-religion = sunni
+religion = ashari
 
 #History

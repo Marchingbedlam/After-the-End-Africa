@@ -10,6 +10,6 @@ b_guriceel = temple
 
 # Misc
 culture = somali
-religion = sunni
+religion = ashari
 
 #History

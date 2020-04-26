@@ -1,0 +1,15 @@
+# County Title
+title = c_lumbala_nguimbo
+
+# Settlements
+max_settlements = 4
+
+b_lumai = castle
+b_lumbala_nguimbo = city
+b_macai = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

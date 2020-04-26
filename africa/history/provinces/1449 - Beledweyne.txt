@@ -10,6 +10,6 @@ b_el_ali = temple
 
 # Misc
 culture = somali
-religion = sunni
+religion = ashari
 
 #History

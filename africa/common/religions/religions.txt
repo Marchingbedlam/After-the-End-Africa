@@ -87,7 +87,7 @@ muslim = {
 		Aisha Zaynab 
 	}
 
-	sunni = {
+	ashari = {
 		graphical_culture = muslimgfx
 
 		icon = 2
@@ -120,7 +120,7 @@ muslim = {
 		uses_decadence = no
 		uses_jizya_tax = yes
 
-		#intermarry = sunni
+		#intermarry = ashari
 	}
 }
 

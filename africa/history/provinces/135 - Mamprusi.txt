@@ -9,6 +9,6 @@ b_wulugu = tribal
 
 # Misc
 culture = dagomba
-religion = sunni
+religion = ashari
 
 #History

@@ -149,7 +149,7 @@
 	name="Sinan" 
 	dynasty=1844015
 	culture=senufo
-	religion=sunni
+	religion=ashari
 	
 	2630.1.1={birth=yes}
 	2700.1.1={death=yes}

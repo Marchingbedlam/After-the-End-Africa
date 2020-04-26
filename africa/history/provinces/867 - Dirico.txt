@@ -1,0 +1,15 @@
+# County Title
+title = c_dirico
+
+# Settlements
+max_settlements = 4
+
+b_dirico = castle
+b_calai = city
+b_cuangar = temple
+
+# Misc
+culture = kavango
+religion = catholic
+
+#History

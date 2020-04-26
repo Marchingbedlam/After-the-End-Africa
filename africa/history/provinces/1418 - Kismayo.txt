@@ -10,6 +10,6 @@ b_ras_kamboni = temple
 
 # Misc
 culture = somali
-religion = sunni
+religion = ashari
 
 #History

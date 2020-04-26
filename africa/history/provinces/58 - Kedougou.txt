@@ -12,6 +12,6 @@ b_saraya_SN = temple
 
 # Misc
 culture = manding
-religion = sunni
+religion = ashari
 
 #History

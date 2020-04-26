@@ -10,6 +10,6 @@ b_yadianga = temple
 
 # Misc
 culture = fulbe
-religion = sunni
+religion = ashari
 
 #History

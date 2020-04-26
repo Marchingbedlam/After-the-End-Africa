@@ -9,6 +9,6 @@ b_kaolack = castle
 
 # Misc
 culture = wolof
-religion = sunni
+religion = ashari
 
 #History

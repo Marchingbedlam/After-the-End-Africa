@@ -11,6 +11,6 @@ b_gouecke_GN = city
 
 # Misc
 culture = kpelle
-religion = sunni
+religion = ashari
 
 #History

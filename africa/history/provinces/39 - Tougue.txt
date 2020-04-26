@@ -9,6 +9,6 @@ b_tougue_GN = tribal
 
 # Misc
 culture = fulbe
-religion = sunni
+religion = ashari
 
 #History

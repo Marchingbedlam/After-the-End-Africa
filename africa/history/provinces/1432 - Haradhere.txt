@@ -9,6 +9,6 @@ b_haradhere = city
 
 # Misc
 culture = somali
-religion = sunni
+religion = ashari
 
 #History

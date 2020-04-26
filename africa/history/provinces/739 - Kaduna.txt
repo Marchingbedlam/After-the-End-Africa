@@ -10,6 +10,6 @@ b_kaduna_3 = city
 
 # Misc
 culture = pijin
-religion = sunni
+religion = ashari
 
 #History

@@ -9,6 +9,6 @@ b_gourma_rharous = castle
 
 # Misc
 culture = fulbe
-religion = sunni
+religion = ashari
 
 #History

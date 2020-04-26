@@ -1,0 +1,14 @@
+# County Title
+title = c_luchazes
+
+# Settlements
+max_settlements = 3
+
+b_tempue = castle
+b_kangamba = city
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

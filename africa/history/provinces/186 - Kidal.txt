@@ -8,6 +8,5 @@ b_kidal_ML = tribal
 
 # Misc
 culture = tuareg
-religion = sunni
-
+religion = ashari
 #History

@@ -1,0 +1,15 @@
+# County Title
+title = c_chipindo
+
+# Settlements
+max_settlements = 4
+
+b_capelongo = castle
+b_chipindo = city
+b_techamutete = temple
+
+# Misc
+culture = ovimbundu
+religion = catholic
+
+#History

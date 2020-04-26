@@ -9,6 +9,6 @@ b_babde = temple
 
 # Misc
 culture = gbagi
-religion = sunni
+religion = ashari
 
 #History

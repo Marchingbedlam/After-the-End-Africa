@@ -1,0 +1,15 @@
+# County Title
+title = c_leua
+
+# Settlements
+max_settlements = 4
+
+b_leua = castle
+b_lumeje_kameia = city
+b_camanongue = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

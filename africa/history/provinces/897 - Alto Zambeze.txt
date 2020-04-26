@@ -1,0 +1,14 @@
+# County Title
+title = c_alto_zambeze
+
+# Settlements
+max_settlements = 3
+
+b_cacande = castle
+b_cazombo = city
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

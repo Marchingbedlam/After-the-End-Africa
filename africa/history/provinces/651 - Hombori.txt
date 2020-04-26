@@ -9,6 +9,6 @@ b_kormi = temple
 
 # Misc
 culture = hausa
-religion = sunni
+religion = ashari
 
 #History

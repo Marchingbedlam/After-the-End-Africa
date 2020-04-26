@@ -1,0 +1,14 @@
+# County Title
+title = c_cacolo
+
+# Settlements
+max_settlements = 3
+
+b_cacolo = castle
+b_mamiei = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

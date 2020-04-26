@@ -9,6 +9,6 @@ b_walia = temple
 
 # Misc
 culture = fulbe
-religion = sunni
+religion = ashari
 
 #History

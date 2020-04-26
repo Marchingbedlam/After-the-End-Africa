@@ -10,6 +10,6 @@ b_yana_3 = city
 
 # Misc
 culture = bole
-religion = sunni
+religion = ashari
 
 #History

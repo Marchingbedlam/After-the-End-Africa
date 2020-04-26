@@ -9,6 +9,6 @@ b_mandouri = tribal
 
 # Misc
 culture = dagomba
-religion = sunni
+religion = ashari
 
 #History

@@ -10,6 +10,6 @@ b_ayourou_NE = temple
 
 # Misc
 culture = songhai
-religion = sunni
+religion = ashari
 
 #History

@@ -12,6 +12,6 @@ b_bamako_3 = temple
 
 # Misc
 culture = manding
-religion = sunni
+religion = ashari
 
 #History

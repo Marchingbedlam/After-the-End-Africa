@@ -8,6 +8,6 @@ b_maghta_lahjar_MR = tribal
 
 # Misc
 culture = haratin
-religion = sunni
+religion = ashari
 
 #History

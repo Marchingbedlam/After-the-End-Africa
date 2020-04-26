@@ -169,7 +169,7 @@
 	name="Arouna"
 	dynasty=1841016
 	culture=mende
-	religion=sunni
+	religion=ashari
 	martial=4
 	diplomacy=3
 	stewardship=4
@@ -190,7 +190,7 @@
 	name="Birama"
 	dynasty=1201002
 	culture=kpelle
-	religion=sunni
+	religion=ashari
 	martial=5
 	diplomacy=4
 	stewardship=1
@@ -431,7 +431,7 @@
 	name="Akbar" #Freetown patricians
 	dynasty=1841009 #Lansana
 	culture=mende
-	religion=sunni
+	religion=ashari
 	
 	2620.4.11={birth=yes}
 	2700.1.1={death=yes}
@@ -440,7 +440,7 @@
 	name="Ernest" #Freetown patricians
 	dynasty=1301005 #Sesay
 	culture=temne
-	religion=sunni
+	religion=ashari
 	
 	2620.4.11={birth=yes}
 	2700.1.1={death=yes}
@@ -471,7 +471,7 @@
 	name="Foday" 
 	dynasty=1301007
 	culture=temne
-	religion=sunni
+	religion=ashari
 	
 	2620.4.11={birth=yes}
 	2700.1.1={death=yes}
@@ -480,7 +480,7 @@
 	name="Mohamed"
 	dynasty=1841016
 	culture=mende
-	religion=sunni
+	religion=ashari
 	father=1000113
 	trait=martial_cleric 
 	trait=cynical
@@ -494,7 +494,7 @@
 	name="Joseph"
 	dynasty=1841016
 	culture=mende
-	religion=sunni
+	religion=ashari
 	father=1000113
 	trait=tough_soldier
 	trait=zealous	
@@ -506,7 +506,7 @@
 	name="Islam"
 	dynasty=1841016
 	culture=mende
-	religion=sunni
+	religion=ashari
 	father=1000113
 	trait=tough_soldier 
 	trait=strong
@@ -522,7 +522,7 @@
 	name="Solomon"
 	dynasty=1841016
 	culture=mende
-	religion=sunni
+	religion=ashari
 	father=1000113
 	trait=martial_cleric 
 	trait=kind
@@ -536,7 +536,7 @@
 	name="Muzaffar"
 	dynasty=1841016
 	culture=mende
-	religion=sunni
+	religion=ashari
 	father=1000113
 	trait=misguided_warrior 
 	trait=slow
@@ -985,7 +985,7 @@
 	name="Wallace" #Freetown patricians
 	dynasty=1002027 #Hamilton
 	culture=krio
-	religion=sunni
+	religion=ashari
 	father=1000172
 	
 	2548.1.1={birth=yes}
@@ -1015,7 +1015,7 @@
 	name="Melville" #Freetown patricians
 	dynasty=1002027 #Hamilton
 	culture=krio
-	religion=sunni
+	religion=ashari
 	father=1000172
 	
 	2561.1.1={birth=yes}
@@ -1085,7 +1085,7 @@
 	name="William" #Freetown patricians
 	dynasty=1002027 #Hamilton
 	culture=krio
-	religion=sunni
+	religion=ashari
 	father=1000177
 	
 	2584.1.1={birth=yes}
@@ -1095,7 +1095,7 @@
 	name="Canning" #Freetown patricians
 	dynasty=1002027 #Hamilton
 	culture=krio
-	religion=sunni
+	religion=ashari
 	father=1000184
 	
 	2610.1.1={birth=yes}
@@ -1105,7 +1105,7 @@
 	name="Walpole" #Freetown patricians
 	dynasty=1002027 #Hamilton
 	culture=krio
-	religion=sunni
+	religion=ashari
 	father=1000185
 	
 	2640.1.1={birth=yes}
@@ -1115,7 +1115,7 @@
 	name="Compton" #Freetown patricians
 	dynasty=1002027 #Hamilton
 	culture=krio
-	religion=sunni
+	religion=ashari
 	father=1000185
 	
 	2646.1.1={birth=yes}
@@ -1125,7 +1125,7 @@
 	name="Shelburne" #Freetown patricians
 	dynasty=1002027 #Hamilton
 	culture=krio
-	religion=sunni
+	religion=ashari
 	father=1000185
 	
 	2650.1.1={birth=yes}

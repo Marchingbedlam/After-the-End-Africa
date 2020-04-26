@@ -11,6 +11,6 @@ b_yendi_2 = temple
 
 # Misc
 culture = dagomba
-religion = sunni
+religion = ashari
 
 #History

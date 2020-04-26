@@ -10,6 +10,6 @@ b_sangha = temple
 
 # Misc
 culture = manding
-religion = sunni
+religion = ashari
 
 #History

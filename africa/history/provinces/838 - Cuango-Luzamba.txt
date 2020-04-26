@@ -1,0 +1,15 @@
+# County Title
+title = c_cuango_luzamba
+
+# Settlements
+max_settlements = 4
+
+b_xa_muteba = castle
+b_cuango_luzamba = city
+b_capenda_camulemba = temple
+
+# Misc
+culture = noculture
+religion = catholic
+
+#History

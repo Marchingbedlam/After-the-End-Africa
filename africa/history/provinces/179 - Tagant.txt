@@ -8,6 +8,6 @@ b_tidjikja_MR = tribal
 
 # Misc
 culture = sahrawi
-religion = sunni
+religion = ashari
 
 #History

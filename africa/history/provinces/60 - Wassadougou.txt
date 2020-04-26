@@ -9,6 +9,6 @@ b_wassadougou = castle
 
 # Misc
 culture = manding
-religion = sunni
+religion = ashari
 
 #History

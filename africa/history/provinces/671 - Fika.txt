@@ -10,6 +10,6 @@ b_fika_3 = city
 
 # Misc
 culture = kanuri
-religion = sunni
+religion = ashari
 
 #History

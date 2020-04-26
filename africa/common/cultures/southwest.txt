@@ -85,17 +85,17 @@ namibian = {
 			Darius Dimbulukeni Drauhot 
 			Eero Elago Elifas Epafras Ephraim Erkki Evilastus 
 			Fanuel Festus Filippus_Philip Frans_Francis Fredinad_Ferdinand 
-			Hafeni Heiko Henock_Enoch Hidipo Hifikepunye Homateni Hosea_Joseph 
+			Hafeni Haikukutu Heiko Henock_Enoch Hidipo Hifikepunye Homateni Hosea_Joseph 
 			Iipinge Iiyambo Immanuel_Emmanuel 
 			Jafet_Japeth Jairus Januarie Jariretundu Jesaya John Julius Juuso_Joseph 
-			Kai Kambonde Kauko Kiljana Kondjeni Kotokeni Kristof_Christopher Kulaumone
+			Kai Kambonde Kauko Kawengeko Kiljana Kondjeni Kotokeni Kristof_Christopher Kulaumone
 			Leevi Lobard Lyomukunda 
 			Malakia_Malachi Manasseh Mandume Matheus_Matthew Megameno Mekondjo Melkisedek Mikko_Michael Mwaala Mweukefina
-			Nahas Nangolo Natangwe Ndeshipanda Ndilimani Nehale Nico_Nicholas Nghilifa  
+			Nahas Namhadi Nangolo Natangwe Ndeshipanda Ndilimani Nehale Nico_Nicholas Nghilifa  
 			Panduleni Passa_Pascal Phillemon Polis Pondo 
-			Sadrak_Shadrach Sakaria_Zachary Shaanika Shilongo Simaneka Sondaha Suikanen  
+			Sadrak_Shadrach Sakaria_Zachary Shaanika Sheefeni Shilongo Shitenhu Simaneka Sondaha Suikanen  
 			Tangeni Tauno Teemus_Nicodemus Tegelela Thikameni Tobias Toivo Tuhafeni Tutaleni 
-			Uko Urho Uushona 
+			Ueyulu Uko Urho Uushona 
 			Vaino Vilhelm_William Vulikeni 
 		}
 
@@ -360,35 +360,53 @@ namibian = {
 		modifier = default_culture_modifier
 	}
 		
-	griqua = {
+	capeman = {
 		graphical_cultures = { germangfx }
 
 		color = { 0.4 0.4 0.3 }
 
 		male_names = {
-			Adam Albert Allan Athol 
-			Clyde Cornelius
-			Edward Errol
-			Hans Hermanus_Hermann 
-			Ian Ignatius
-			James John
-			Kurt 
-			Leroy Lionel
-			Marcus 
-			Neville Nikolaus_Nicholas 
+			Abdullah Abubaker_Abu-Bakr Adam Alaric Albert Allan Alton Andre_Andrew Archibald Ashwin Athol 
+			Cedric Charles Cheslin Clayton Clyde Conrad Cornelius
+			Damian Delron Dennis_Denis Duncan
+			Edward Elton Errol
+			Fabian Fadluraghman Farid Franklin
+			Granwald
+			Hans Harold Hermanus_Hermann Herschel
+			Ian Ignatius Ivan
+			James Jeremy_Jeremiah John Jonathan
+			Kenneth Kermit Kurt 
+			Lance Leroy Lionel
+			Marcus Moeneeb_Munib Mustafa
+			Nazeer_Nasr Neville Nikolaus_Nicholas Nizaam
 			Omar 
 			Percy Petrus_Peter Pius
-			Reginald Richard 
-			Stanton 
-			Trevor
+			Quinton
+			Reeza Reginald Richard Robert Roger Russell
+			Salman_Solomon Selwyn Stanton 
+			Tawfeeq_Tawfiq Terence Trevor Tyrone
 			Vernon 
 			Wayde Wilfred Willem_William 
 		}
 		
 		female_names = {
-			Lucie_Lucia
-			Nora
+			Amy Ashley
+			Candice
+			Danielle Diana_Diane
+			Evonne
+			Faye
+			Geraldine
+			Hazel
+			Liesl Lucie_Lucia Lynne
+			Mary Mary-Anne
+			Natalie Nora
 			Ottilé
+			Patricia Phillippa
+			Quanita
+			Rozena
+			Tracey
+			Vinette
+			Zainunnisa Zelda Zoe
 		}
 
 		from_dynasty_prefix = "van "

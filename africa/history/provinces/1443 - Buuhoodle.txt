@@ -9,6 +9,6 @@ b_widhwidh = city
 
 # Misc
 culture = somali
-religion = sunni
+religion = ashari
 
 #History

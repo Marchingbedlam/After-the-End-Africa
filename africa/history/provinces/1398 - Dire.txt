@@ -8,6 +8,6 @@ b_dire = tribal
 
 # Misc
 culture = mossi
-religion = sunni
+religion = ashari
 
 #History

@@ -12,6 +12,6 @@ b_kita_3 = temple
 
 # Misc
 culture = soninke
-religion = sunni
+religion = ashari
 
 #History

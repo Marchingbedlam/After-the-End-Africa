@@ -1,0 +1,15 @@
+# County Title
+title = c_matala
+
+# Settlements
+max_settlements = 4
+
+b_quipungo = castle
+b_matala = city
+b_folgares = temple
+
+# Misc
+culture = ovimbundu
+religion = catholic
+
+#History

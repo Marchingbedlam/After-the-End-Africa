@@ -10,6 +10,6 @@ b_bolgatanga = tribal
 
 # Misc
 culture = dagomba
-religion = sunni
+religion = ashari
 
 #History

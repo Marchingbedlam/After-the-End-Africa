@@ -9,6 +9,6 @@ b_el_wak = city
 
 # Misc
 culture = somali
-religion = sunni
+religion = ashari
 
 #History

@@ -12,6 +12,6 @@ b_yonibana_SL = temple
 
 # Misc
 culture = temne
-religion = sunni
+religion = ashari
 
 #History

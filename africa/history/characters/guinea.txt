@@ -2,7 +2,7 @@
 	name="Sumanguru"
 	dynasty=1202011
 	culture=susu
-	religion=sunni
+	religion=ashari
 
 	trait=giant
 	trait=strong
@@ -17,7 +17,7 @@
 	name="Murtala"
 	dynasty=1406012
 	culture=fulbe
-	religion=sunni
+	religion=ashari
 
 	trait=cruel
 	trait=strong
@@ -32,7 +32,7 @@
 	name="Dioncounda"
 	dynasty=1401012
 	culture=manding
-	religion=sunni
+	religion=ashari
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
@@ -41,7 +41,7 @@
 	name="Mouke"
 	dynasty=1202013
 	culture=susu
-	religion=sunni
+	religion=ashari
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
@@ -50,7 +50,7 @@
 	name="Toumani"
 	dynasty=1401003
 	culture=manding
-	religion=sunni
+	religion=ashari
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
@@ -59,7 +59,7 @@
 	name="Umaru"
 	dynasty=1301014
 	culture=temne
-	religion=sunni
+	religion=ashari
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
@@ -68,7 +68,7 @@
 	name="Yamuza"
 	dynasty=1406018
 	culture=fulbe
-	religion=sunni
+	religion=ashari
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
@@ -77,7 +77,7 @@
 	name="Muammar"
 	dynasty=1406012
 	culture=fulbe
-	religion=sunni
+	religion=ashari
 	father=1222001
 
 	2642.1.1={ birth=yes }
@@ -87,7 +87,7 @@
 	name="Mu'azu"
 	dynasty=1406012
 	culture=fulbe
-	religion=sunni
+	religion=ashari
 	father=1222001
 
 	2645.1.1={ birth=yes }
@@ -97,7 +97,7 @@
 	name="Muhamman"
 	dynasty=1406012
 	culture=fulbe
-	religion=sunni
+	religion=ashari
 	father=1222001
 
 	2648.1.1={ birth=yes }
@@ -107,7 +107,7 @@
 	name="Murtala"
 	dynasty=1406012
 	culture=fulbe
-	religion=sunni
+	religion=ashari
 	father=1222007
 
 	2660.1.1={ birth=yes }

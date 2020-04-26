@@ -1,0 +1,15 @@
+# County Title
+title = c_kuroka
+
+# Settlements
+max_settlements = 4
+
+b_onkokwa = castle
+b_cahama = city
+b_otchinjau = temple
+
+# Misc
+culture = ovambo
+religion = catholic
+
+#History

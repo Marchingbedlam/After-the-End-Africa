@@ -57,12 +57,12 @@ b_meheux= {
 
 b_lansana = {
 	culture = mende
-	religion = sunni
+	religion = ashari
 }
 
 b_sesay = {
 	culture = temne
-	religion = sunni
+	religion = ashari
 }
 
 b_parkes = {

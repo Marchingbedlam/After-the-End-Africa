@@ -10,6 +10,6 @@ b_ganye_3 = city
 
 # Misc
 culture = dakoid
-religion = sunni #native religion
+religion = ashari #native religion
 
 #History

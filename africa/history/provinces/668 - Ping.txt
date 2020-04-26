@@ -9,6 +9,6 @@ b_sabuli = temple
 
 # Misc
 culture = pijin
-religion = sunni
+religion = ashari
 
 #History

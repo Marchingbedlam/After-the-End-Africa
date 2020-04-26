@@ -11,6 +11,6 @@ b_kollo_NE = city
 
 # Misc
 culture = songhai
-religion = sunni
+religion = ashari
 
 #History

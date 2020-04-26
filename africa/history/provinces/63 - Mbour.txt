@@ -12,6 +12,6 @@ b_nguekhokh_SN = temple
 
 # Misc
 culture = serer
-religion = sunni
+religion = ashari
 
 #History

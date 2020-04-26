@@ -9,6 +9,6 @@ b_nobere = city
 
 # Misc
 culture = manding
-religion = sunni
+religion = ashari
 
 #History

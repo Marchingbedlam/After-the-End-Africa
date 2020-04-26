@@ -12,6 +12,6 @@ b_zanferebougou = temple
 
 # Misc
 culture = senufo
-religion = sunni
+religion = ashari
 
 #History

@@ -12,6 +12,6 @@ b_binkolo_SL = temple
 
 # Misc
 culture = temne
-religion = sunni
+religion = ashari
 
 #History

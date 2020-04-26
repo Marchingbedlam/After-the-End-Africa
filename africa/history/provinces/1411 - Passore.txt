@@ -8,6 +8,6 @@ b_yako = tribal
 
 # Misc
 culture = mossi
-religion = sunni
+religion = ashari
 
 #History

@@ -8,6 +8,6 @@ b_timbedra_MR = tribal
 
 # Misc
 culture = manding
-religion = sunni
+religion = ashari
 
 #History

@@ -8,6 +8,6 @@ b_djibo = tribal
 
 # Misc
 culture = mossi
-religion = sunni
+religion = ashari
 
 #History

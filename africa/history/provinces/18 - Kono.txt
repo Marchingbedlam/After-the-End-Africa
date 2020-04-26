@@ -12,6 +12,6 @@ b_yengema_SL = temple
 
 # Misc
 culture = mende
-religion = sunni
+religion = ashari
 
 #History
