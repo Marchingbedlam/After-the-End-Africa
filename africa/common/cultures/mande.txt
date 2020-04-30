@@ -9,22 +9,27 @@ mande = {
 		color = { 0.8 0.7 0 }
 		
 		male_names = {
-			Abou-Bekr_Abu-Bakr
+			Abou-Bekr_Abu-Bakr Alassane_Alhassan Ali Alpha Amadou_Ahmed
 			Bamoi Bassi Boucari_Bakr
-			Diobé
+			Cheick_Sheikh
+			Diobé Djelimady Djibril_Gabriel Doumbi
 			Famaga Fodiya_Foday
+			Hamane
 			Ibrahima_Abraham
 			Jaylani
 			Karamba Karang Kaya-Magha Kéré-Mori Konamadou
-		 	Mahmudou-Foday Mamadou_Mohammed
-			Salim
-			Tunka
+		 	Mahmudou-Foday Mamadou_Mohammed Mambaye Moussa_Moses
+			Oumar_Omar
+			Sadio Salim Samory Sékou_Sheikh
+			Tiébilé Tunka
+			Yaya_John
 		}
 		female_names = {
 			Aminata Aoua
 			Bintou
 			Djeneba Djenly Djiré
 			Halima
+			Kandia
 			Mariam_Mary
 			Nafissa Nyako
 			Safiatou_Safia Sogolon
@@ -70,8 +75,7 @@ mande = {
 		color = { 0.8 0.8 0.2 }
 		
 		male_names = {
-			Abdichi-Moké Abdou_Abdul Abdoulaye_Abdullah Abdou-Razack_Abdul-Razzaq Ahmed Alamouta Alassane_Al-Hassan Ali_Ali
-			Abubakari_Abu-Bakr
+			Abdichi-Moké Abdou_Abdul Abdoulaye_Abdullah Abdou-Razack_Abdul-Razzaq Abubakari_Abu-Bakr Ahmed Alamouta Alassane_Al-Hassan Ali_Ali
 			Ballaké Benkano_Benkan Boubacar_Abu-Bakr Boucader_Abdul-Kadir Boureima Bréhima
 			Camba Cheick_Sheikh Choguel
 			Dankaran Daouda_David Dinkoro Dioncounda Django Djelimady Djibril_Gabriel Doula Doumbia Dramane
@@ -84,7 +88,7 @@ mande = {
 			Maghan Malick_Malik Mamadou_Mohammed Mamari Mansong Mari-Djata Moctar_Mukhtar Modibo Mory Moulé_Mulay Mountaga Moussa_Moses Moustapha_Mustafa
 			Nfamara Ngolo Nianta 
 			Ouli_Wali Ouati Ouezzin Oumar_Omar Ousmane_Osman
-			Sadio Saifou Saikou Sakoura Sambou Samory Sandaki Sékou Sekouba Sérébandjougou Sidiki_Siddiq Sidi-Yaya Souleymane_Solomon Soumaïla Soumana Soundiata Soungalo
+			Sadio Saifou Saikou Sakoura Sambou Samory Sandaki Sékou_Sheikh Sekouba Sérébandjougou Sidiki_Siddiq Sidi-Yaya Souleymane_Solomon Soumaïla Soumana Soundiata Soungalo
 			Téréba Tiéfing Tiemoko Toumani
 			Yaya_John Yoro Younoussi_Jonah Youssouf_Joseph
 			Zenka

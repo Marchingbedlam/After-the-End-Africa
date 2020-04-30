@@ -10,20 +10,20 @@ senegambian = {
 		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
-			Abdoulaye_Abdullah Ahmad_Ahmed Alboury Ali "Aram Bakar" Assane_Hasan
-			Bakan-Tam Birayam Blaise Borso Bukaar_Abu-Bakr Buri-Nyabu
+			"Abdou Ahad" Abdoulaye_Abdullah Abdourahmane_Abdul-Rahman "Abdou Xaadir" Adama_Adam Ahmadou_Ahmed Alboury Ali "Aram Bakar" Assane_Hasan
+			Bachir_Bashir Bakan-Tam Birayam Blaise Borso Bukaar_Abu-Bakr Buri-Nyabu
 			Cheick_Sheikh Chérif_Sharif
 			Détié-Fou Diogal Djibril_Gabriel Dyakher Dyelen
 			Eter
-			"Fara Penda"
+			Fallilou "Fara Penda"
 			Gireun Gorgui
 			Ibrahim_Abraham Isa_Jesus
 			Khaari Kumba
 			Latir "Lat Jor" Lat-Kodu Laye Louis
-			Maalik_Malik Maalixuri Mbarick Mbaye "Mö Maalik"
+			Maalik_Malik Maalixuri Mahram Mbarick Mbaye "Mö Maalik" Mouhamadou_Muhammad Moukhtar_Mukhtar Mountakha Moustafaa_Mustafa
 			Ndiadian Niokhor Njak 
 			Ousmane_Osman
-			Saayodo Sakhéwère
+			Saayodo Sakhéwère Saliou
 			Tanor Teg-Rella Tende Tyukuli
 			Xerfi Xuri
 			Yaago Yérim Yoro Youssou
@@ -46,7 +46,7 @@ senegambian = {
 		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
-			Abdoulaye_Abdullah Abdourahmane Alassane_Alhassan Albert Alfred Alieu_Ali Assane_Hassan
+			Abdoulaye_Abdullah Abdourahmane_Abdul-Rahman Alassane_Alhassan Albert Alfred Alieu_Ali Assane_Hassan
 			"Bai Modi" Biram Boukar_Abu-Bakr Boureh
 			Cham Cheick_Sheikh Chérif_Sharif
 			Dawda_David
@@ -82,18 +82,18 @@ senegambian = {
 		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
-			Abdoulie_Abdullah Abdul-Aziz Afansu Alasanne_Alhassan Alexandre_Alexander Ambroise_Ambrose Antoine_Anthony Augustin
+			Abdoulie_Abdullah Abdul-Aziz Abibou Afansu Alasanne_Alhassan Alexandre_Alexander Aliou_Ali Amadou_Ahmed Ambroise_Ambrose Antoine_Anthony Augustin_Augustine
 			Bacary_Abu-Bakr Bassiro Bernard Boulai
 			Caesar
-			Ellibah
-			Djinabo Djiremo
+			Djasson Djinabo Djiremo
+			Ebou Ekona Ellibah
 			Farimang
-			Houlio Houmandrissah
+			Haruna_Aaron Houlio Houmandrissah
 			Idrissa_Idris
-			James Jemus Jules Junkung
-			Lang
-			Mamadou_Mohammed Maxient Malang Moulaye_Mulay
-			Nierikoun 
+			James Jean-Bosco Jemus Jules Junkung
+			Landing Lang
+			Malick_Malik Mamadou_Mohammed Maxient Malang Modou Moulaye_Mulay Moussa_Moses Moustapha_Mustafa
+			Nfamara Nierikoun 
 			Olivier_Oliver Ousainou_Hussayn Ousmane_Osman
 			Pierre_Peter
 			Robert

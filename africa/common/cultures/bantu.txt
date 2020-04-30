@@ -201,14 +201,14 @@ bantu = {
 		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
-			Abel Afonso_Alphonse Álvaro Ambrósio André_Andrew
+			Abel Afonso_Alphonse Álvaro Ambrósio André_Andrew Artur_Arthur
 			Bernard
 			Daniel
 			Elelo
 			Fernando_Ferdinand Fulbert
 			Gandu Garcia Gilbert Gyembe
 			Henrique_Henry
-			Joaquim_Joachim Joseph
+			Joaquim_Joachim Jorge_George Joseph
 			Kakengo Kasuta Keise Kembo Kiditu Kitama Konzo Kotodi
 			Lamyr Liel Loubendou Louis Lukeni
 			Mambou Manuel_Emmanuel Masaka Matadi Mateus_Matthew Matondo Mayangi Mbemba Miala Miguel_Michael Mpanzu Mvika
@@ -235,6 +235,8 @@ bantu = {
 			Violante Virginia Vuzilia
 			Yala
 		}
+
+		dukes_called_kings = yes
 
 		from_dynasty_prefix = "de "
 		male_patronym = "a "
@@ -422,10 +424,11 @@ bantu = {
 			Daniel Desidério Domingos_Dominic
 			Eduardo_Edward Eugénio_Eugene Eusébio_Eusebius
 			Fernando_Ferdinand Filipe_Philip Flávio_Flavius Francisco_Francis
+			Guilherme_William
 			Henrique_Henry Higino Hari
-			Ilídio
+			Ilídio Inene
 			João_John Joaquim_Joachim Jofre_Geoffrey Jorge_George José_Joseph
-			Kambamba Kambolo Kilombo Kiluanji
+			Kambamba Kambolo Kasenda Kilombo Kiluanji
 			Lúcio_Lucius Luís_Louis
 			Manuel_Emmanuel Mário_Marius Mbande Mwongo 
 			Ndambi Norberto_Norbert
@@ -504,6 +507,32 @@ bantu = {
 		male_patronym = "kia "
 		female_patronym = "kia "
 		prefix = yes 
+	}
+	lunda={
+		color = { 0.2 0.3 0.1 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Chikuta
+			Ferdinand
+			Imbe
+			Kalanyi Kalomba Kalunga Kamasa Kamweje Kasela Kihengo Kitumba
+			Lubame Lukala
+			Malenge Mateyu_Matthew Mbumba Moise_Moses Mujinga Mwanya
+			Ngonga Ngunza Ngwangwa Njinje Nowa_Noah
+			Petulu_Peter
+			Sampweji Sylvester
+		}
+		
+		female_names = {
+			Chikuta
+			Kalomba Kasela
+			Luwi
+			Marie_Mary Mujinga
+			Nyampweji
+		}
 	}
 	zulu={
 		color = { 0.7 0.3 0.1 }

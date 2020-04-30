@@ -9,7 +9,7 @@ b_matadjana_TD = city
 b_tine_TD = temple
 
 # Misc
-culture = kpelle
-religion = catholic
+culture = zaghawa
+religion = ashari
 
 #History

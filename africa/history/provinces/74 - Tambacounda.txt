@@ -12,6 +12,6 @@ b_makacolibantang_SN = temple
 
 # Misc
 culture = manding
-religion = ashari
+religion = mouride
 
 #History

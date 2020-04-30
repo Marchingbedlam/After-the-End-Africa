@@ -7,7 +7,7 @@ max_settlements = 3
 b_aleg_MR = tribal
 
 # Misc
-culture = wolof
+culture = fulbe
 religion = ashari
 
 #History

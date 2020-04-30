@@ -8,7 +8,7 @@ max_settlements = 3
 b_kaolack = castle
 
 # Misc
-culture = wolof
-religion = ashari
+culture = serer
+religion = mouride
 
 #History

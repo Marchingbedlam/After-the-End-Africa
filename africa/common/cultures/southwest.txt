@@ -310,10 +310,10 @@ namibian = {
 			Daniël_Daniel David Deon Dewaldt Dirk 
 			Francois_Francis Frederik_Frederick
 			Gabriël_Gabriel Gérard_Gerard Gerrit Gideon Guy Gysbert 
-			Karel_Carl
+			Karel_Carl Koos_Jacob
 			Hendrik_Henry Henning Herculaas_Hercules Hermanus_Herman
 			Izak_Isaac 
-			Jacobus_Jacob Jacques Jan_John Jandré Joost Josef_Joseph
+			Jacobus_Jacob Jacques Jan_John Jan-Jaap Jandré Joost Josef_Joseph
 			Laurens_Lawrence Leon_Leo Louis 
 			Magnus Marcel Marius Marthinus_Martin Michael Morné
 			Neil Nicolaas_Nicholas 
@@ -420,5 +420,72 @@ namibian = {
 		mother_name_chance = 10
 
 		modifier = default_culture_modifier
+	}
+	angloid = {
+		graphical_cultures = { westafricangfx englishgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.55 0.5 0.3 }
+
+		male_names = {
+			Alistair Allan Andrew Anthony Arnold Arthur Athol
+			Bruce Byron
+			Calvin Cecil Charles Christopher Clarence Clement Clifford Clive Clyde Colin Craig
+			David Denis Desmond Donovan Duncan
+			Edmund Edward Edwin Elmer Eric Ernest Errol Eustace Evelyn
+			Frederick Fulton
+			Gavin Geoffrey George Gerald Graham Grant Gregory Guy
+			Harold Henry Herbert Hilary Horace Hugo_Hugh
+			Jack_John James Jeremy_Jeremiah Jonathan Joseph Justin
+			Kevin Kingsley
+			Lambert Leander Lennox Leslie Lloyd Lyndon
+			Malcolm Mark Martin Marshall Matthew Michael Morton Murray Myles
+			Nelson Neville Nicholas Norman
+			Oswald
+			Patrick Paul Percy
+			Raymond Reginald Rhett Richard Robert Roger Roland Ronald Rufane
+			Sean Stephen
+			Terence Theophilus Thomas Timothy Trevor
+			Verney Victor
+			Watkin Wilbur Wilfred William Winston Wrexham
+			Xavier
+		}
+		
+		female_names = {
+			Anne Anthea
+			Barbara Bernadette
+			Candice Catharine Charlene
+			Diane Doris
+			Edna Ethel
+			Frances
+			Georgina
+			Heidi
+			Jennifer
+			Kathleen
+			Mary Megan Michelle Moira
+			Nadine Nicole
+			Olivia
+			Phyllis
+			Rosalyn Roxanne
+			Stella
+		}
+
+		from_dynasty_prefix = ""
+
+		baron_titles_hidden = yes
+		count_titles_hidden = yes
+
+		modifier = default_culture_modifier
+
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+
+		allow_looting = yes
+		seafarer = yes
 	}
 }

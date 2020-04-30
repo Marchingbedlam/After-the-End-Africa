@@ -9,7 +9,7 @@ b_mongo_TD = city
 b_niergui_TD = temple
 
 # Misc
-culture = kpelle
-religion = catholic
+culture = zaghawa
+religion = ashari
 
 #History

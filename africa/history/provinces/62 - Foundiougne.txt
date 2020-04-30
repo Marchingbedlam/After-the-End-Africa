@@ -10,7 +10,7 @@ b_gossas_SN = city
 b_foundiougne_SN = temple
 
 # Misc
-culture = wolof
-religion = ashari
+culture = serer
+religion = mouride
 
 #History

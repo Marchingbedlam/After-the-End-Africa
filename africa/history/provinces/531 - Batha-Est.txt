@@ -9,7 +9,7 @@ b_assinet_TD = city
 b_haraze_djombo_kibet_TD = temple
 
 # Misc
-culture = kpelle
-religion = catholic
+culture = zaghawa
+religion = ashari
 
 #History

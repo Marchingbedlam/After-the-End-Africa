@@ -8,6 +8,6 @@ b_faya_largeau_TD = castle
 
 # Misc
 culture = toubou
-religion = catholic
+religion = ashari
 
 #History

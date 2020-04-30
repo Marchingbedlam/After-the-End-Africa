@@ -8,6 +8,6 @@ b_amdjarass_TD = castle
 
 # Misc
 culture = toubou
-religion = catholic
+religion = ashari
 
 #History

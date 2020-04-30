@@ -50,7 +50,7 @@ b_agyemang = {
 }
 
 ##Freetown
-b_meheux= {
+b_finney_conteh = {
 	culture = krio
 	religion = anglican
 }

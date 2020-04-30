@@ -3,6 +3,7 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-2660.1.1={
-	holder=1522007
+2600.1.1={
+	liege=d_thies
+	holder=1522003
 }

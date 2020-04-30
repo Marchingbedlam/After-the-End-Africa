@@ -341,45 +341,46 @@ west_african = {
 		color = { 0.5 0.6 1 }
 		
 		male_names = {
-			Abraham Adolphus_Adolf Africanus Albert Alexander Alfred Ambrose Andrew Archibald Arthur Athanasius Azariah
-			Campbell Cecil Clapham Claudius Clifford Coleridge Cornelius Christopher Cyril
+			Abiodun Abraham Adolphus_Adolf Africanus Akintola Albert Alexander Alfred Ambrose Andrew Archibald Arthur Athanasius Austin Ayodele  Azariah
+			Campbell Cato Cecil Charlie_Charles Chernor Clapham Claudius Clifford Coleridge Cornelius Christian Christopher Crispin Cyril
 			Barnabas Belisarius Beresford Bernard Broughton
 			Daniel David Desmond
-			Ebenezer Edmund Edward Egerton Eldred Elliott Ephraim Ernest Etheldred Eustace
-			Farquhar Felix Franklyn_Franklin Fraser Frederick
-			Gaston George Gorham 
+			Ebenezer Edmund Edward Egerton Eldred Elliott Emeric Emmerson Ephraim Ernest Esegragbo Etheldred Eustace
+			Farquhar Farrell Felix Franklyn_Franklin Fraser Frederick
+			Gaston George Gershon Gorham 
 			Henry Herbert Hezekiah Horace
-			Ignatius Isaac Ishmael
-			James John Josiah
+			Ignatius Isaac Ishmael Israel Ivan
+			Jack_John James John Josiah
 			Kenneth
-			Leighton Lemuel Leopold Leroy
-			Maurice Mayfield Melvine Milton Montgomery Moses
+			Leighton Lemuel Lenrie Leopold Leroy
+			Macormack Mallan Mansa-Musa Maurice Mayfield Melvine Michael Milton Montgomery Moses
 			Nathaniel Nelson
-			Obadiah Onesimus Oswald
+			Obadiah Ogunlade Onesimus Oswald
 			Percy Peter Probyn
 			Raymond Reginald Richard Robinson Rodney Rudolph
-			Samuel Septimus Solomon Somerset Sylvester
+			Samuel Sarway Septimus Siaka Somerset Sooliman_Solomon Sorious Sylvanus Sylvester
 			Terence Theophilus Thomas
 			Victor
-			Wallace Wellesley Wilfred William Willoughby Wilmot Wilward Winstanley
+			Wallace Warren Wellesley Whitfield Wilfred William Willoughby Wilmot Wilward Winstanley
 			
-			Abbas Abdulaziz_Abdul-Aziz Abdullah Abu-Bakar_Abu-Bakr Ahmed Alhassan Ali Hassan_Hasan Idris Mohamed_Mohammed Murad Mustapha_Mustafa Omar Said
+			Abbas Abdulaziz_Abdul-Aziz Abdullah Abu-Bakar_Abu-Bakr Ahmed Alhassan Ali Faisal Farid Hassan_Hasan Idris Jamil Khalil Mohamed_Mohammed Murad Mustapha_Mustafa Omar Said
 		}
 		
 		female_names = {
-			Adelaide
+			Adelaide Admire Agnes Alice Amelia Aminata Angela Anne Anne-Marie Avril
 			Bernadette
-			Cassandra Christiana Constance 
-			Daisy
-			Edna Elizabeth_Elisabeth Esther Eunice
-			Fannyann Frances Frederica
-			Gladys Grace Gwendolen
+			Cassandra Catherine Christiana Claudia Constance 
+			Daisy Daphne Doris
+			Edna Eleanor Elizabeth_Elisabeth Esther Eunice
+			Fanny-Ann Fatima Frances Frederica
+			Gertrude Gladys Grace Gwendolen
 			Hannah
-			Irene
-			June
-			Kathleen
-			Linda
-			Margaret Mary
+			Irene Isha
+			Jeillo Jennifer Judy Julia June
+			Kathleen Kezia
+			Latilewa Linda
+			Margaret Mary Matilda Muriel
+			Olayinka
 			Patricia Penelope
 			Rebecca Rosalind
 			Stella Sylvia

@@ -125,7 +125,7 @@
 1002020 = { name="Fewry" culture=krio }
 1002021 = { name="Perkins" culture=krio }
 1002022 = { name="Hope" culture=krio }
-1002023 = { name="Meheux" culture=krio }
+1002023 = { name="Finney-Conteh" culture=krio }
 1002024 = { name="Garber" culture=krio }
 1002025 = { name="Parkes" culture=krio }
 1002026 = { name="Barber" culture=krio }
@@ -200,9 +200,9 @@
 1002093 = { name="Wyndham" culture=krio }
 1002094 = { name="Robinson-Turay" culture=krio }
 1002095 = { name="Branche" culture=krio }
-1002096 = { name="de-la-Zouche" culture=krio }
+1002096 = { name="Marlow" culture=krio }
 1002097 = { name="Benjamin" culture=krio }
-1002098 = { name="DeSaille" culture=krio }
+1002098 = { name="Kurtz" culture=krio }
 1002099 = { name="Karefa-Smart" culture=krio }
 1002100 = { name="Joko-Smart" culture=krio }
 
@@ -964,6 +964,10 @@
 1511018 = {name ="Sakho" culture=wolof }
 1511019 = {name ="M'Boup" culture=wolof }
 1511020 = {name ="Ndiouck" culture=wolof }
+1511021 = {name ="Bousso" culture=wolof }
+1511022 = {name ="Lô" culture=wolof }
+1511023 = {name ="Guèye" culture=wolof }
+1511024 = {name ="Nder" culture=wolof }
 
 1512000 = {name ="Njie" culture=serer }
 1512001 = {name ="Joof" culture=serer }
@@ -986,6 +990,10 @@
 1512018 = {name ="Dièye" culture=serer }
 1512019 = {name ="Guelowar" culture=serer }
 1511020 = {name ="Seck" culture=serer }
+1511021 = {name ="Ba" culture=serer }
+1511022 = {name ="Djilobodji" culture=serer }
+1511023 = {name ="Niasse" culture=serer }
+1511024 = {name ="M'Bengue" culture=serer }
 
 1513000 = {name ="Diedhiou" culture=jola }
 1513001 = {name ="Atepa" culture=jola }
@@ -1004,7 +1012,7 @@
 1513014 = {name ="Assin" culture=jola }
 1513015 = {name ="Diabone" culture=jola }
 1513016 = {name ="Sihang" culture=jola }
-1513017 = {name ="Sadio" culture=jola }
+1513017 = {name ="Sanneh" culture=jola }
 1513018 = {name ="Tombong" culture=jola }
 1513019 = {name ="Goudiaby" culture=jola }
 1513020 = {name ="Kujabi" culture=jola }
@@ -1013,6 +1021,17 @@
 1513023 = {name ="Ebil" culture=jola }
 1513024 = {name ="Diamacoune" culture=jola }
 1513025 = {name ="Lalo" culture=jola }
+1513026 = {name ="Gomis" culture=jola }
+1513027 = {name ="Mendy" culture=jola }
+1513028 = {name ="Decroix" culture=jola }
+1513029 = {name ="Badjie" culture=jola }
+1513030 = {name ="Boiro" culture=jola }
+1513031 = {name ="Biagy" culture=jola }
+1513032 = {name ="Jahateh" culture=jola }
+1513033 = {name ="Lanneu" culture=jola }
+1513034 = {name ="Sidebek" culture=jola }
+1513035 = {name ="Jallou" culture=jola }
+1513036 = {name ="Singhateh" culture=jola }
 
 1514000 = {name ="Ialá" culture=guinensi }
 1514001 = {name ="Na Waie" culture=guinensi }
@@ -1395,7 +1414,7 @@
 1525009 = {name ="Paulino" culture=ambundu }
 1525010 = {name ="Fazenda" culture=ambundu }
 1525011 = {name ="Diniz" culture=ambundu }
-1525012 = {name ="Van-Dúnem" culture=ambundu }
+1525012 = {name ="Van-Dúnem" culture=ambundu used_for_random=no }
 1525013 = {name ="Brandão" culture=ambundu }
 1525014 = {name ="Lebo" culture=ambundu }
 1525015 = {name ="Kanini" culture=ambundu }
@@ -1476,6 +1495,18 @@
 1528008 = {name ="Ngurare" culture=kavango }
 1528009 = {name ="Majavero" culture=kavango }
 1528010 = {name ="Mutorwa" culture=kavango }
+
+1529000 = {name ="Machado" culture=lunda }
+1529001 = {name ="Mutunda" culture=lunda }
+1529002 = {name ="Nguza" culture=lunda }
+1529003 = {name ="kia Wanga" culture=lunda }
+1529004 = {name ="Luiz" culture=lunda }
+1529005 = {name ="Tshombe" culture=lunda }
+1529006 = {name ="Ferreira" culture=lunda }
+1529007 = {name ="kia Shiba" culture=lunda }
+1529008 = {name ="Accacio" culture=lunda }
+1529009 = {name ="Velazco" culture=lunda }
+1529010 = {name ="ka Luhame" culture=lunda }
 
 1841000 = {name ="Pieh" culture=mende }
 1841001 = {name ="Demby" culture=mende }
@@ -1740,7 +1771,7 @@
 1408009 = {name ="Minnawi" culture=zaghawa }
 1408010 = {name ="Déby" culture=zaghawa }
 1408011 = {name ="Bashir" culture=zaghawa }
-1408012 = {name ="Arcuna" culture=zaghawa }
+1408012 = {name ="Arcua" culture=zaghawa }
 1408013 = {name ="Nassour" culture=zaghawa }
 1408014 = {name ="Anu" culture=zaghawa }
 1408015 = {name ="Abakaer" culture=zaghawa }
@@ -1748,6 +1779,8 @@
 1408017 = {name ="Syam" culture=zaghawa }
 1408018 = {name ="Okiramaj" culture=zaghawa }
 1408019 = {name ="Faki" culture=zaghawa }
+1408020 = {name ="Jamus" culture=zaghawa }
+1408021 = {name ="Garda" culture=zaghawa }
 
 1445000 = {name ="Togoïmi" culture=toubou }
 1445001 = {name ="Barka" culture=toubou }
@@ -2810,7 +2843,7 @@
 2227026 = { name="Fourié" culture=afrikaner }
 2227027 = { name="van Rensburg" culture=afrikaner }
 2227028 = { name="de Graaff" culture=afrikaner }
-2227029 = { name="Fugard" culture=afrikaner }
+2227029 = { name="Augard" culture=afrikaner }
 2227030 = { name="Boshoff" culture=afrikaner }
 2227031 = { name="van Vuuren" culture=afrikaner }
 2227032 = { name="du Toit" culture=afrikaner }
@@ -2964,6 +2997,58 @@
 2228058 = { name="Wicomb" culture=capeman }
 2228059 = { name="Appollis" culture=capeman }
 2228060 = { name="McClure" culture=capeman }
+
+2229000 = { name="Shuttleworth" culture=angloid }
+2228001 = { name="Weaving" culture=angloid }
+2228002 = { name="Nortimer" culture=angloid }
+2228003 = { name="Leakey" culture=angloid }
+2228004 = { name="Shepstone" culture=angloid }
+2228005 = { name="Essery" culture=angloid }
+2228006 = { name="Rattray" culture=angloid }
+2228007 = { name="Fordyce" culture=angloid }
+2228008 = { name="Broom" culture=angloid }
+2228009 = { name="Beauchamp" culture=angloid }
+2228010 = { name="Tredgold" culture=angloid }
+2228011 = { name="McNulty" culture=angloid }
+2228012 = { name="Fremantle" culture=angloid }
+2228013 = { name="Muldoon" culture=angloid }
+2228014 = { name="Smethurst" culture=angloid }
+2228015 = { name="Dunford" culture=angloid }
+2228016 = { name="Archer" culture=angloid }
+2228017 = { name="McCall" culture=angloid }
+2228018 = { name="Davy" culture=angloid }
+2228019 = { name="D'Urban" culture=angloid }
+2228020 = { name="Bennett" culture=angloid }
+2228021 = { name="Dennistoun" culture=angloid }
+2228022 = { name="Stimpson" culture=angloid }
+2228023 = { name="Pollock" culture=angloid }
+2228024 = { name="Montgomery" culture=angloid }
+2228025 = { name="Schuster" culture=angloid }
+2228026 = { name="Bassingthwaite" culture=angloid }
+2228027 = { name="Blackbeard" culture=angloid }
+2228028 = { name="Brenner" culture=angloid }
+2228029 = { name="Rathbone" culture=angloid }
+2228030 = { name="Matfield" culture=angloid }
+2228031 = { name="Stamps" culture=angloid }
+2228032 = { name="Fotheringham" culture=angloid }
+2228033 = { name="Keogh" culture=angloid }
+2228034 = { name="Markham" culture=angloid }
+2228035 = { name="Jenkinson" culture=angloid }
+2228036 = { name="Hosking" culture=angloid }
+2228037 = { name="Molteno" culture=angloid }
+2228038 = { name="Richardson" culture=angloid }
+2228039 = { name="Barberton" culture=angloid }
+2228040 = { name="Machanick" culture=angloid }
+2228041 = { name="Hillebrand" culture=angloid }
+2228042 = { name="Mitford" culture=angloid }
+2228043 = { name="Carter" culture=angloid }
+2228044 = { name="Hakewill-Smith" culture=angloid }
+2228045 = { name="Guest" culture=angloid }
+2228046 = { name="Clancey" culture=angloid }
+2228047 = { name="Rosslee" culture=angloid }
+2228048 = { name="Boddington" culture=angloid }
+2228049 = { name="Sutcliffe" culture=angloid }
+2228050 = { name="Chadwick" culture=angloid }
 
 2501000 = { name="Tsafendas" culture=mestico }
 2501001 = { name="Rangel" culture=mestico }

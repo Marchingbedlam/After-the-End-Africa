@@ -9,7 +9,7 @@ b_ati_TD = city
 b_djedda_TD = temple
 
 # Misc
-culture = kpelle
-religion = catholic
+culture = zaghawa
+religion = ashari
 
 #History

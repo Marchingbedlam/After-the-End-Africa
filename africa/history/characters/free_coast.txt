@@ -418,7 +418,7 @@
 
 1000126={
 	name="Daggley" #Freetown patricians
-	dynasty=1002023 #Meheux
+	dynasty=1002023 #Finney-Conteh
 	culture=krio
 	religion=anglican
 	trait=midas_touched
@@ -549,7 +549,7 @@
 	name="Ludlam" 
 	dynasty=1002037
 	culture=krio
-	religion=anglican
+	religion=ashari
 
 	
 	2603.1.1={birth=yes}
@@ -559,7 +559,7 @@
 	name="Edward" 
 	dynasty=1002037
 	culture=krio
-	religion=anglican
+	religion=ashari
 	father=1000137
 
 	trait=brave
@@ -582,10 +582,10 @@
 	2700.1.1={death=yes}
 }
 1000140={
-	name="Fitzgibbon" 
+	name="Abbas" 
 	dynasty=1002037
 	culture=krio
-	religion=anglican
+	religion=ashari
 	father=1000138
 	
 	2652.1.1={birth=yes}

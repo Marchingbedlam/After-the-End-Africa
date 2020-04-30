@@ -12,6 +12,6 @@ b_malem_hoddar_SN = temple
 
 # Misc
 culture = serer
-religion = ashari
+religion = mouride
 
 #History

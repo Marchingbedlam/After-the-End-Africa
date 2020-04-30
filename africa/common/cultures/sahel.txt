@@ -179,22 +179,25 @@ sahel = {
 		color = { 0.9 1 1.1 }
 		
 		male_names = {
-			Abbo Abdallah_Abdullah Abdul Adam
+			Abbo Abdallah_Abdullah Abdarahman_Abdul-Rahman Abdelkérim_Abdul-Karim Abdul Adam Ahmed Ali
 			Daoud_David Dillo
+			Eltahir
 			Gibril_Gabriel
-			Idriss_Idris
-			Khalil
-			Mahamat_Mohammed Mustafa
-			Omer_Omar
-			Saleh_Salah Suliman_Solomon
+			Hassan Hissène_Hussein
+			Ibrahim_Abraham Idriss_Idris Issa_Jesus
+			Khalil Khamis
+			Mahamat_Mohammed Moussa_Moses Mustafa
+			Omer_Omar Osman
+			Saleh_Salah Sharif Suliman_Solomon
 			Timane
+			Yaya_John Youssouf_Joseph
 		}
 		female_names = {
 			Bokheta
 			Hadurah Halima
-			Kadiga
-			Makka
-			Sumah
+			Kadiga Karima
+			Makka Mariam_Mary
+			Sarah Sumah
 		}
 	}
 	toubou = {
@@ -204,7 +207,7 @@ sahel = {
 		color = { 0.9 1 1.1 }
 		
 		male_names = {
-			Adam
+			Abdallah_Abdullah Abdarahman_Abdul-Rahman Abdelkérim_Abdul-Karim Abdul Adam
 			Goukouni
 			Hissène_Hussein
 			Issa_Jesus

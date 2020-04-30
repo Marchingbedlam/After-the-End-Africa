@@ -12,6 +12,6 @@ b_kael_SN = temple
 
 # Misc
 culture = serer
-religion = ashari
+religion = mouride
 
 #History

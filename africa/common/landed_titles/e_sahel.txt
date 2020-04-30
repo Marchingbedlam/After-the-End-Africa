@@ -147,18 +147,6 @@ e_sahel = {
 			
 			capital = 64 # c_koungheul
 			
-			c_koungheul = { # 64
-				color={ 122 122 28 }
-				color2={ 255 255 255 }
-				
-				b_koungheul_SN = {}
-				b_ida_mouride_SN = {}
-				b_lour_escale_SN = {}
-				b_koum_koum_SN = {}
-				b_dianke_souf_SN = {}
-				b_fass_thiekene_SN = {}
-				b_missirah_wadene_SN = {}
-			}
 			c_janjanbureh = { # 66
 				color={ 89 85 32 }
 				color2={ 255 255 255 }
@@ -408,18 +396,6 @@ e_sahel = {
 				b_karang_poste_SN = {}
 				b_diofior_SN = {}
 				b_passy_SN = {}
-			}
-			c_mbour = { # 63
-				color={ 125 125 80 }
-				color2={ 255 255 255 }
-				
-				b_mbour_SN = {}
-				b_joal_fadiouth_SN = {}
-				b_nguekhokh_SN = {}
-				b_thiadiaye_SN = {}
-				b_saly_portudal_SN = {}
-				b_ngaparou_SN = {}
-				b_popenguine_SN = {}
 			}
 			c_kaolack = {
 				color={ 100 141 110 }

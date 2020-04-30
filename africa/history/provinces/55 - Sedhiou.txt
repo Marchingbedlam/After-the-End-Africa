@@ -12,6 +12,6 @@ b_goudomp_SN = temple
 
 # Misc
 culture = jola
-religion = ashari
+religion = mouride
 
 #History

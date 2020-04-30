@@ -8,7 +8,7 @@ b_yao_TD = castle
 b_am_djenaba_TD = temple
 
 # Misc
-culture = kpelle
-religion = catholic
+culture = zaghawa
+religion = ashari
 
 #History

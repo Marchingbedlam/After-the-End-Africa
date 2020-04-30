@@ -12,6 +12,6 @@ b_brikama_GM = temple
 
 # Misc
 culture = jola
-religion = ashari
+religion = mouride
 
 #History

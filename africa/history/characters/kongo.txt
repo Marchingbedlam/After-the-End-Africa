@@ -1,0 +1,148 @@
+1390000={
+	name="Petelo"
+	culture=kongo
+	religion=kimbanguism
+	dynasty=1519004
+	trait=authoritative
+	trait=brave
+	trait=scholar
+	trait=just
+	trait=charitable
+	trait=zealous
+	trait=charitable
+	trait=diligent
+	trait=skilled_tactician
+	2638.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1390001={
+	name="Ndozau"
+	culture=kongo
+	religion=catholic
+	dynasty=1519002
+	trait=shy
+	trait=cynical
+	trait=deceitful
+	trait=cruel
+	trait=brave
+	trait=diligent
+	trait=chaste
+	trait=paranoid
+	trait=ambitious
+	trait=thrifty_clerk
+	2643.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1390002={
+	name="Coulo"
+	culture=kongo
+	religion=kimbanguism
+	dynasty=1519013
+	trait=zealous
+	trait=trusting
+	trait=patient
+	trait=honorable
+	trait=brave
+	trait=charitable
+	trait=strong
+	2630.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1390003={
+	name="Kambolo"
+	culture=ambundu
+	religion=catholic
+	dynasty=1525012
+	father=1390005
+	trait=twin
+	trait=quick
+	trait=ruthless
+	trait=just
+	trait=homosexual
+	trait=strategist
+	trait=deceitful
+	trait=ambitious
+	trait=proud
+	trait=briliant_tactician
+	2640.12.17={birth=yes}
+	2700.1.1={death=yes}
+}
+1390004={
+	name="Ana"
+	female=yes
+	culture=ambundu
+	religion=kimbanguism
+	dynasty=1525012
+	father=1390005
+	trait=twin
+	trait=duelist
+	trait=brave
+	trait=gregarious
+	trait=just
+	trait=diligent
+	trait=ambitious
+	trait=briliant_tactician
+	2640.12.17={birth=yes}
+	2700.1.1={death=yes}
+}
+1390005={
+	name="Guilherme"
+	culture=ambundu
+	religion=catholic
+	dynasty=1525012
+	father=1390006
+	2615.1.1={birth=yes}
+	2659.1.1={death=yes}
+}
+1390006={
+	name="Redondo"
+	culture=ambundu
+	religion=catholic
+	dynasty=1525012
+	2583.1.1={birth=yes}
+	2636.1.1={death=yes}
+}
+1390010={
+	name="Holden"
+	culture=krio
+	religion=catholic
+	dynasty=1002098
+	2589.1.1={birth=yes}
+	2655.1.1={death=yes}
+}
+1390011={
+	name="Manuel"
+	culture=kongo
+	religion=catholic
+	dynasty=1002098
+	father=1390010
+	2627.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1390011={
+	name="Joseph"
+	culture=kongo
+	religion=catholic
+	dynasty=1002098
+	father=1390011
+	2650.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1390011={
+	name="Jorge"
+	culture=kongo
+	religion=catholic
+	dynasty=1002098
+	father=1390011
+	2652.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1390011={
+	name="Artur"
+	culture=kongo
+	religion=catholic
+	dynasty=1002098
+	father=1390011
+	2655.1.1={birth=yes}
+	2700.1.1={death=yes}
+}

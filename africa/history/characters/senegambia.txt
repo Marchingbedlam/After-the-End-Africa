@@ -2,7 +2,11 @@
 	name="Chérif"
 	dynasty=1511007
 	culture=wolof
-	religion=ashari
+	religion=mouride
+	trait=scholar
+	trait=patient
+	trait=charitable
+	trait=honest
 	trait=scholarly_theologian
 
 	2630.1.1={ birth=yes }
@@ -12,7 +16,7 @@
 	name="Njekeh"
 	dynasty=1512016
 	culture=serer
-	religion=ashari
+	religion=mouride
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
@@ -21,7 +25,7 @@
 	name="Louis-Ali"
 	dynasty=1513003
 	culture=jola
-	religion=ashari
+	religion=mouride
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
@@ -30,7 +34,7 @@
 	name="Cellou"
 	dynasty=1406030
 	culture=fulbe
-	religion=ashari
+	religion=mouride
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
@@ -55,7 +59,7 @@
 	name="Aram Bakar"
 	dynasty=1511008
 	culture=wolof
-	religion=ashari
+	religion=mouride
 
 	trait=zealous
 
@@ -85,6 +89,17 @@
 	dynasty=1401022
 	culture=manding
 	religion=ashari
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1522009={
+	name="Momar"
+	dynasty=1512003
+	culture=serer
+	religion=mouride
+	trait=zealous
+	trait=ambitious
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
