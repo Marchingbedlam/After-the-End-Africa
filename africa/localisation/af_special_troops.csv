@@ -1,0 +1,8 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+
+handgunners;Handgunners;;;;;;;;;;;;;x
+handgunners_offensive;Handgunners Attack;;;;;;;;;;;;;x
+handgunners_defensive;Handgunners Defence;;;;;;;;;;;;;x
+handgunners_morale;Handgunners Morale;;;;;;;;;;;;;x
+handgunners_modifier;Combat Modifier boost to Handgunners Troops: $PERC$;;;;;;;;;;;;;x
+RETTYPE_CUL_HANDGUNNERS;Handgunner;;;;;;;;;;;;;x
