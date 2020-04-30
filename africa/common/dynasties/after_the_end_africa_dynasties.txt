@@ -1425,9 +1425,9 @@
 1525020 = {name ="Xitu" culture=ambundu }
 
 1526000 = {name ="Cachitiopolo" culture=ovimbundu }
-1525001 = {name ="Tchongonga" culture=ambundu }
-1525002 = {name ="Kalupeteca" culture=ambundu }
-1525003 = {name ="Jamba" culture=ambundu }
+1525001 = {name ="Tchongonga" culture=ovimbundu }
+1525002 = {name ="Kalupeteca" culture=ovimbundu }
+1525003 = {name ="Jamba" culture=ovimbundu }
 1526004 = {name ="Savimbi" culture=ovimbundu }
 1526005 = {name ="Malheiro" culture=ovimbundu }
 1526006 = {name ="Chivukuvuku" culture=ovimbundu }
@@ -1507,6 +1507,46 @@
 1529008 = {name ="Accacio" culture=lunda }
 1529009 = {name ="Velazco" culture=lunda }
 1529010 = {name ="ka Luhame" culture=lunda }
+1529011 = {name ="de Matos" culture=lunda }
+1529012 = {name ="Coquilombo" culture=lunda }
+1529013 = {name ="ka Kinzunzo" culture=lunda }
+1529014 = {name ="a Bangela" culture=lunda }
+1529015 = {name ="a Kafushe" culture=lunda }
+1529016 = {name ="ka Mulemba" culture=lunda }
+1529017 = {name ="a Tumba" culture=lunda }
+1529018 = {name ="ka Tembo" culture=lunda }
+1529019 = {name ="kia Hango" culture=lunda }
+1529020 = {name ="Ilunga" culture=lunda }
+1529021 = {name ="Yamba" culture=lunda }
+1529022 = {name ="Kapapula" culture=lunda }
+1529023 = {name ="Chinyanta" culture=lunda }
+1529024 = {name ="Nsofu" culture=lunda }
+1529025 = {name ="Misishi" culture=lunda }
+1529026 = {name ="Ngoma" culture=lunda }
+1529027 = {name ="Bowa" culture=lunda }
+1529028 = {name ="Mbeba" culture=lunda }
+1529029 = {name ="Mwewa" culture=lunda }
+1529030 = {name ="Kanyembo" culture=lunda }
+1529031 = {name ="Chinkonkole" culture=lunda }
+1529032 = {name ="Sunkutu" culture=lunda }
+1529033 = {name ="Mpemba" culture=lunda }
+1529034 = {name ="Muonga" culture=lunda }
+1529035 = {name ="Kasasa" culture=lunda }
+1529036 = {name ="Lukwesa" culture=lunda }
+1529037 = {name ="Ntemena" culture=lunda }
+1529038 = {name ="Munona" culture=lunda }
+1529039 = {name ="Mpanga" culture=lunda }
+1529040 = {name ="Mayi" culture=lunda }
+1529041 = {name ="Nankula" culture=lunda }
+1529042 = {name ="Kapekata" culture=lunda }
+1529043 = {name ="Kapumba" culture=lunda }
+1529044 = {name ="Ngombe" culture=lunda }
+1529045 = {name ="Keleka" culture=lunda }
+1529046 = {name ="Nsemba" culture=lunda }
+1529047 = {name ="Nganda" culture=lunda }
+1529048 = {name ="Mulundu" culture=lunda }
+1529049 = {name ="Lubunda" culture=lunda }
+1529050 = {name ="Kashiba" culture=lunda }
 
 1841000 = {name ="Pieh" culture=mende }
 1841001 = {name ="Demby" culture=mende }

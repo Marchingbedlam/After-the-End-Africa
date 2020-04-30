@@ -515,23 +515,29 @@ bantu = {
 		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
+			Apolo
+			Benjamin
 			Chikuta
+			Dauti Dongij
+			Elembe
 			Ferdinand
 			Imbe
-			Kalanyi Kalomba Kalunga Kamasa Kamweje Kasela Kihengo Kitumba
+			Jamwo
+			Kabuko Kahete Kakengo Kalanda Kalanyi Kalomba Kalunga Kamasa Kambunje Kampombwe Kamweje Kapenda Kasa Kasanje Kasela Kayombe Kibonde Kikata Kihengo Kinda Kitumba Kulembe
 			Lubame Lukala
-			Malenge Mateyu_Matthew Mbumba Moise_Moses Mujinga Mwanya
-			Ngonga Ngunza Ngwangwa Njinje Nowa_Noah
-			Petulu_Peter
-			Sampweji Sylvester
+			Maju Malenge Malundo Mateyu_Matthew Mbumba Mlonga Moise_Moses Muhungo Mujinga Mulundu Munkanta Musongo Mushota Mutombo Mwaku Mwanya Mwinempanda
+			Ndumba Ngonga Ngunza Ngwangwa Njinje Nkuba Noeji Nomwimbo Nowa_Noah
+			Pande Pascal Paul Petulu_Peter
+			Rodrigue_Roderick
+			Sampweji Shadreck_Shadrach Sylvester
 		}
 		
 		female_names = {
 			Chikuta
 			Kalomba Kasela
-			Luwi
+			Lueji Luwi
 			Marie_Mary Mujinga
-			Nyampweji
+			Nachituti Nyampweji
 		}
 	}
 	zulu={
