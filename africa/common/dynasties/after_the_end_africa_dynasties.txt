@@ -221,18 +221,47 @@
 1101012 = {name ="Taryonoh" culture=kru }
 1101013 = {name ="Dueh" culture=kru }
 1101014 = {name ="Boye" culture=kru }
-1101015 = {name ="Wisseh" culture=kru }
+1101015 = {name ="Wesseh" culture=kru }
 1101016 = {name ="Goe" culture=kru }
 1101017 = {name ="Carngbe" culture=kru }
 1101018 = {name ="Nagbe" culture=kru }
 1101019 = {name ="Sorwleh" culture=kru }
 1101020 = {name ="Geefie" culture=kru }
+1101021 = {name ="Sneh" culture=kru }
+1101022 = {name ="Minikon" culture=kru }
+1101023 = {name ="Nah" culture=kru }
+1101024 = {name ="Bropleh" culture=kru }
+1101025 = {name ="Nebo" culture=kru }
+1101026 = {name ="Kateh" culture=kru }
+1101027 = {name ="Toby" culture=kru }
+1101028 = {name ="Cheapoo" culture=kru }
+1101029 = {name ="Waylee" culture=kru }
+1101030 = {name ="Woyee" culture=kru }
+1101031 = {name ="Boley" culture=kru }
+1101032 = {name ="Blooah" culture=kru }
+1101033 = {name ="Djedje" culture=kru }
 
 1201000 = {name ="Sulunteh" culture=kpelle } 
 1201001 = {name ="Camara" culture=kpelle }
 1201002 = {name ="Suakoko" culture=kpelle }
 1201003 = {name ="Pogba" culture=kpelle }
 1201004 = {name ="Tokpa" culture=kpelle }
+1201005 = {name ="Lela" culture=kpelle }
+1201006 = {name ="Duma" culture=kpelle } 
+1201007 = {name ="Carney" culture=kpelle } 
+1201008 = {name ="Lapaeh" culture=kpelle }
+1201009 = {name ="Sankawulo" culture=kpelle } 
+1201010 = {name ="Kpomakpor" culture=kpelle }
+1201011 = {name ="Nargba" culture=kpelle }
+1201012 = {name ="Sengbeh" culture=kpelle }
+1201013 = {name ="Gbanassei" culture=kpelle } 
+1201014 = {name ="Womma" culture=kpelle }
+1201015 = {name ="Garlawolu" culture=kpelle }
+1201016 = {name ="Siakor" culture=kpelle }
+1201017 = {name ="George" culture=kpelle } 
+1201018 = {name ="Moniba" culture=kpelle } 
+1201019 = {name ="Gbabye" culture=kpelle }
+1201020 = {name ="Gbowee" culture=kpelle }
 
 1202000 = {name ="Dumbuya" culture=susu } 
 1202001 = {name ="Yumkella" culture=susu }
@@ -252,6 +281,32 @@
 1202015 = {name ="Gouly" culture=susu }
 1202016 = {name ="Mengueh" culture=susu }
 1202017 = {name ="Marrah" culture=susu }
+
+1203000 = {name ="Koutouan" culture=dan }
+1203001 = {name ="Yacouba" culture=dan }
+1203002 = {name ="Gankama" culture=dan }
+1203003 = {name ="Gbatu" culture=dan }
+1203004 = {name ="Zobaneay" culture=dan }
+1203005 = {name ="Vonleh" culture=dan }
+1203006 = {name ="Quiwonkpa" culture=dan }
+1203007 = {name ="Gbalazeh" culture=dan }
+1203008 = {name ="Blah" culture=dan }
+1203009 = {name ="Tingban" culture=dan }
+1203010 = {name ="Bartuah" culture=dan }
+1203011 = {name ="Korto" culture=dan }
+1203012 = {name ="Semandahn" culture=dan }
+1203013 = {name ="Ghegbeu" culture=dan }
+1203014 = {name ="Kramo" culture=dan }
+1203015 = {name ="Gruh" culture=dan }
+1203016 = {name ="Zeh" culture=dan }
+1203017 = {name ="Wrotue" culture=dan }
+1203018 = {name ="Kwagrue" culture=dan }
+1203019 = {name ="Yangean" culture=dan }
+1203020 = {name ="Zuagele" culture=dan }
+1203021 = {name ="Yileyon" culture=dan }
+1203022 = {name ="Zigbuo" culture=dan }
+1203023 = {name ="Bowah" culture=dan }
+1203024 = {name ="Kortimai" culture=dan }
 
 1301000 = {name ="Bangura" culture=temne }
 1301001 = {name ="Karim" culture=temne }
@@ -418,7 +473,7 @@
 1406006 = {name ="Sy" culture=fulbe }
 1406007 = {name ="Tall" culture=fulbe }
 1406008 = {name ="Ly" culture=fulbe }
-1406009 = {name ="Shagari" culture=fulbe }
+1406009 = {name ="M'Ballow" culture=fulbe }
 1406010 = {name ="Baldé" culture=fulbe }
 1406011 = {name ="Sall" culture=fulbe }
 1406012 = {name ="Wurie" culture=fulbe }
@@ -953,7 +1008,7 @@
 1511007 = {name ="Mbodj" culture=wolof }
 1511008 = {name ="Logar" culture=wolof }
 1511009 = {name ="Tedyek" culture=wolof }
-1511010 = {name ="Ndiaye" culture=wolof }
+1511010 = {name ="N'Diaye" culture=wolof }
 1511011 = {name ="Sembène" culture=wolof }
 1511012 = {name ="Baayo" culture=wolof }
 1511013 = {name ="Sosse" culture=wolof }
@@ -968,8 +1023,10 @@
 1511022 = {name ="Lô" culture=wolof }
 1511023 = {name ="Guèye" culture=wolof }
 1511024 = {name ="Nder" culture=wolof }
+1511025 = {name ="Niang" culture=wolof }
+1511026 = {name ="Sourang" culture=wolof }
 
-1512000 = {name ="Njie" culture=serer }
+1512000 = {name ="N'Jie" culture=serer }
 1512001 = {name ="Joof" culture=serer }
 1512002 = {name ="Faye" culture=serer }
 1512003 = {name ="Ngom" culture=serer }
@@ -994,6 +1051,8 @@
 1511022 = {name ="Djilobodji" culture=serer }
 1511023 = {name ="Niasse" culture=serer }
 1511024 = {name ="M'Bengue" culture=serer }
+1511025 = {name ="Ndoye" culture=serer }
+1511026 = {name ="Cham" culture=serer }
 
 1513000 = {name ="Diedhiou" culture=jola }
 1513001 = {name ="Atepa" culture=jola }
@@ -1188,7 +1247,7 @@
 1519001 = {name ="Nguele" culture=kongo }
 1519002 = {name ="dos Reis Magos" culture=kongo }
 1519003 = {name ="Longo" culture=kongo }
-1519004 = {name ="Valle das Lagrimas" culture=kongo }
+1519004 = {name ="de Valle das Lagrimas" culture=kongo }
 1519005 = {name ="de Nóbrega" culture=kongo }
 1519006 = {name ="Langu" culture=kongo }
 1519007 = {name ="Chikussu" culture=kongo }
@@ -1599,6 +1658,9 @@
 1841048 = {name ="Bhonapha" culture=mende }
 1841049 = {name ="Tejan" culture=mende }
 1841050 = {name ="Sandy" culture=mende }
+1841051 = {name ="Bukele" culture=mende }
+1841052 = {name ="Oponjo" culture=mende }
+1841053 = {name ="Kpadebah" culture=mende }
 
 1844000 = {name ="Soro" culture=senufo }
 1844001 = {name ="Tondosama" culture=senufo }

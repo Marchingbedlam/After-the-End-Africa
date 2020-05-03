@@ -1144,6 +1144,41 @@
 	2700.1.1={death=yes}
 }
 
+1500221={
+	name="Welbeck" 
+	dynasty=1504048
+	culture=fante
+	religion=anglican
+
+	trait=wroth
+	trait=skilled_tactician
+	trait=paranoid
+	trait=brave
+	trait=rude
+	trait=quick
+	trait=diligent
+
+	2641.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1500222={
+	name="Frefre" 
+	dynasty=1501026
+	culture=asante
+	religion=anglican
+
+	2630.3.8={birth=yes}
+	2700.1.1={death=yes}
+}
+1500223={
+	name="Torgbor" 
+	dynasty=1888007
+	culture=ga
+	religion=anglican
+
+	2630.3.8={birth=yes}
+	2700.1.1={death=yes}
+}
 1500225={
 	name="Opoku Ware" 
 	dynasty=1501023
@@ -1172,7 +1207,7 @@
 	2700.1.1={death=yes}
 }
 1500228={
-	name="Boachi" 
+	name="Kwasi Bodua" 
 	dynasty=1501037
 	culture=asante
 	religion=anglican

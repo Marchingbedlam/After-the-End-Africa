@@ -10,7 +10,7 @@ b_river_cess_LR = castle
 b_gozohn_LR = city
 
 # Misc
-culture = kwi
+culture = kru
 religion = libertarian
 
 #History

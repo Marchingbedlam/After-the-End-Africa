@@ -11,7 +11,7 @@ b_kahnple_LR = city
 b_ganta_LR = temple
 
 # Misc
-culture = kpelle
+culture = dan
 religion = libertarian
 
 #History

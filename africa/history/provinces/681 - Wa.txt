@@ -9,7 +9,7 @@ b_charia = temple
 b_kaleo = city
 
 # Misc
-culture = ewe
-religion = catholic
+culture = dagomba
+religion = ashari
 
 #History

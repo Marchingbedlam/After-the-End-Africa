@@ -8,7 +8,7 @@ b_ping = castle
 b_sabuli = temple
 
 # Misc
-culture = pijin
+culture = dagomba
 religion = ashari
 
 #History

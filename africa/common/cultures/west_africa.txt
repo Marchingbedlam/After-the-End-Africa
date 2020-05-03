@@ -10,21 +10,23 @@ west_african = {
 		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
-			Allen
-			Boakai Beyan Borforh Boryee
+			Abraham Allen
+			Boakai Bernard Beyan Borforh Boryee
 			Cadmael Charles
 			Didwho Dorley Dwe 
+			Ernest
 			Forkay 
 			Garmuyu Gblayee Gbwe George Gesue Gyude
-			Jlakon Joshua
-			Kaboo Kanyon 
+			Harris Henry
+			Jlakon Job Joshua
+			Kaboo Kanyon Konmla
 			Manneh Monon-Konmlan 
 			Nimene Nyennoh 
 			Oppong 
-			Pennon 
-			Saigbe Soeh-Tehpoe 
+			Paul Pennon 
+			Saigbe Samuel Soeh-Tehpoe 
 			Tagbedi Teh Togar Togba
-			Wadeh Wlateh
+			Wadeh Wesley William Wlateh Wuling
 			Yenseloh 
 		}
 		
@@ -270,19 +272,19 @@ west_african = {
 		male_names = {
 			Advertus Alfred Allen Amos Ansa Anthony_Anthony Arthur_Arthur Ashbury Augustus
 			Baimba Bashiel Benjamin Benoni Beverly Bhofal Bismarck Bonokai Boston Burgess Buyamah 
-			Cecil Charles_Charles Ciata Clarence 
+			Cecil Charles_Charles Ciata Clarence Cletus
 			Daniel_Daniel Dash Didwho Dunbar 
-			Edward_Edward Edwin Elijah_Elijah Emmanuel 
+			Eddington Edward_Edward Edwin Elijah_Elijah Emmanuel 
 			Filibuster Ford Fulton 
-			Gabriel Garretson Gbessi Gbotoe George_George Ghankay Gyude 
+			Gabriel Garretson Gbehzohngar Gbessi Gbotoe George_George Ghankay Gyude 
 			Hilary
 			Jallah James_James Jay Jenkins John_John Joseph_Joseph 
-			Kaijaah Kanneh Karmo Kayme Kemokai Kengbe Kermit Konowa Kpanna
-			Lamie Lorenzo_Lawrence Lott Louis_Louis Luma 
+			Kaijaah Kanneh Karmo Kayme Kemokai Kengbe Kermit Konowa Kpannah
+			Lafayette Lamie Lorenzo_Lawrence Lott Louis_Louis Lumah 
 			Madison Martin_Martin McArthur McKinley Melvin Momolu Monroe Moses 
 			Nathaniel 
 			Olmstead Othello 
-			Payne Pese 
+			Payne Peseh Preston
 			Quincy 
 			Reginald Richard
 			Samuel_Samuel Seh Sekou Shadrach Skirving Solomon_Solomon Stephen_Stephen

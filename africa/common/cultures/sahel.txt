@@ -41,7 +41,7 @@ sahel = {
 			Maimuna Mariama_Mary
 			Nyako
 			Rawiya
-			Samira Sara_Sarah
+			Samira Sara_Sarah Sarjo
 			Tabara
 			Umu_Umm
 		}

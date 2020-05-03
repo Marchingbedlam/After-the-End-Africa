@@ -11,7 +11,7 @@ b_edina_LR = castle
 b_harbel_LR = temple
 
 # Misc
-culture = kwi
+culture = kru
 religion = libertarian
 
 #History

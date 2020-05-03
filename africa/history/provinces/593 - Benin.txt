@@ -9,7 +9,7 @@ b_benin_2 = temple
 b_benin_3 = city
 
 # Misc
-culture = pijin
+culture = edo
 religion = anglican
 
 #History

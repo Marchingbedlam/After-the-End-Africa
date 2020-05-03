@@ -133,7 +133,7 @@
 	2700.1.1={death=yes}
 }
 1800013={
-	name="Wadé" # Cotedivoire
+	name="Vakoun" # Cotedivoire
 	dynasty=1101010
 	culture=kru
 	religion=catholic

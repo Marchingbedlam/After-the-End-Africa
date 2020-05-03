@@ -8,7 +8,7 @@ b_duekoue = castle
 b_guiglo = temple
 
 # Misc
-culture = manding
+culture = dan
 religion = libertarian
 
 #History

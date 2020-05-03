@@ -8,7 +8,7 @@ max_settlements = 3
 b_danane = tribal
 
 # Misc
-culture = fulbe
+culture = dan
 religion = ashari
 
 #History

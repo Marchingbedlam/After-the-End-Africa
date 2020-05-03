@@ -105,7 +105,7 @@
 1390010={
 	name="Holden"
 	culture=krio
-	religion=catholic
+	religion=kimbanguism
 	dynasty=1002098
 	2589.1.1={birth=yes}
 	2655.1.1={death=yes}
@@ -113,36 +113,60 @@
 1390011={
 	name="Manuel"
 	culture=kongo
-	religion=catholic
+	religion=kimbanguism
 	dynasty=1002098
 	father=1390010
 	2627.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
-1390011={
+1390012={
 	name="Joseph"
 	culture=kongo
-	religion=catholic
+	religion=kimbanguism
 	dynasty=1002098
 	father=1390011
 	2650.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
-1390011={
+1390013={
 	name="Jorge"
 	culture=kongo
-	religion=catholic
+	religion=kimbanguism
 	dynasty=1002098
 	father=1390011
 	2652.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
-1390011={
+1390014={
 	name="Artur"
 	culture=kongo
-	religion=catholic
+	religion=kimbanguism
 	dynasty=1002098
 	father=1390011
 	2655.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1390015={
+	name="Loubendou"
+	culture=kongo
+	religion=catholic
+	dynasty=1519005
+	2630.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1390016={
+	name="Garcia"
+	culture=kongo
+	religion=kimbanguism
+	dynasty=1519049
+	2630.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1390017={
+	name="Ngouli"
+	culture=kongo
+	religion=kimbanguism
+	dynasty=1519018
+	2630.1.1={birth=yes}
 	2700.1.1={death=yes}
 }

@@ -76,21 +76,21 @@ mande = {
 		
 		male_names = {
 			Abdichi-Moké Abdou_Abdul Abdoulaye_Abdullah Abdou-Razack_Abdul-Razzaq Abubakari_Abu-Bakr Ahmed Alamouta Alassane_Al-Hassan Ali_Ali
-			Ballaké Benkano_Benkan Boubacar_Abu-Bakr Boucader_Abdul-Kadir Boureima Bréhima
+			Ballaké Benkano_Benkan Bitòn Boubacar_Abu-Bakr Boucader_Abdul-Kadir Boureima Bréhima
 			Camba Cheick_Sheikh Choguel
-			Dankaran Daouda_David Dinkoro Dioncounda Django Djelimady Djibril_Gabriel Doula Doumbia Dramane
+			Dankaran Daouda_David Denba Dinkoro Dioncounda Django Djelimady Djibril_Gabriel Doula Doumbia Dramane
 			Falaba Famoudou Faséké Fodé_Foday
 			Gabou Gaoussou Garan
 			Hamadoun Haroun_Aaron Housseïni_Hussayn
 			Ibrahim_Abraham Idrissa Ismaïla_Ishmael
-			Kabiné Kafougouna Kalabi Kaladian Kassa Kélétigui
+			Kabiné Kafadyugu Kafougouna Kalabi Kaladian Kassa Kélétigui Kon-Maran
 			Lafiya Lahilatoul Lamine Lassana
 			Maghan Malick_Malik Mamadou_Mohammed Mamari Mansong Mari-Djata Moctar_Mukhtar Modibo Mory Moulé_Mulay Mountaga Moussa_Moses Moustapha_Mustafa
 			Nfamara Ngolo Nianta 
 			Ouli_Wali Ouati Ouezzin Oumar_Omar Ousmane_Osman
 			Sadio Saifou Saikou Sakoura Sambou Samory Sandaki Sékou_Sheikh Sekouba Sérébandjougou Sidiki_Siddiq Sidi-Yaya Souleymane_Solomon Soumaïla Soumana Soundiata Soungalo
-			Téréba Tiéfing Tiemoko Toumani
-			Yaya_John Yoro Younoussi_Jonah Youssouf_Joseph
+			Téréba Tiéfing Tiémoko Tonmassa Toumani Touro-Koro
+			Yaya_John Yoro Younoussi_John Youssouf_Joseph
 			Zenka
 		}
 		female_names = {
@@ -118,45 +118,47 @@ mande = {
 		color = { 0.7 0.7 0 }
 		
 		male_names = {
-			Abraham Armah
-			Boima-Konah Bonokai
-			Cammue Congbeh
-			Daniel Danoka Dikergai Dipaika Dolo 
+			Abraham Ansah Armah
+			Bai Baimba Boimah Boima-Konah Bonokai
+			Cammue Ciata Congbeh
+			Daniel Danoka David Dikergai Dipaika Dolo 
 			Enoch 
-			Foday Fortunate 
-			Garteh Gbamoquelli Gbili Gborlmenh Gboto Getei Gorpu
-			James-Dahn Joekpele 
-			Kaijah Kerkulah Kollie Konowa Kpakelah Kpangbah Kparsi Kumenwo
+			Fallah Foday Fortunate Franklin
+			Garteh Gbakolo Gbamoquelli Gbessi Gbili Gborlmenh Gbotoe Getei Ghankay Gorpu
+			Jahmale Jahn Jallah James-Dahn Joekpele Joseph
+			Kaijah Kanneh Karmo Kayme Kemokai Kengbeh Kerkulah Kollie Konowa Kpakelah Kpangbah Kpannah Kparsi Kumenwo
+			Lamie Lumah
 			Manhtee Manlomeni Momolu 
 			Nabo Na-Gba Nahn-Lelee Nopanu Nyagoi 
-			Paye 
+			Peseh Paye 
 			Quadir Quammeney 
-			Samuel Sando Saywo Siakoh Sulongoli Sulonteh 
+			Samuel Sando Saywo Seh Siakoh Sulongoli Sulonteh 
 			Tarwo Toimu Togba Tonorfasia
+			Varfee Varney
 			Wamah Warkpeh Whenbaye
 			Yakpazuah Yarkpawolo Yalapanukor Yala-Sei
-			Zaowolo  
+			Zolu Zaowolo  
 		}
 		female_names = {
 			Alayea
 			Bindu
-			Ciata Clara
+			Cianna Ciata Clara
 			Deenieh Denah
-			Fahnlohnee Famatta Fatima
+			Fahnlohnee Famatta Fatima Fofannah
 			Garmenh Gbarnia Guladia
 			Hawa
 			Isatta 
-			Jebbeh Jerelyn 
-			Kanny Kehper Kermoi Konah Korlkorl Korto Kwapageh 
+			Jabateh Jandi Jebbeh Jerelyn Jumah
+			Kanny Kehper Kermoi Konah Korlkorl Korto Kula Kumba Kwapageh 
 			Leemu Leesai Lekpele Lurpu
-			Mabasi Maima Mawen Mehnmah Menenina Miata 
-			Nbete Neenai Nowa Nulalee Nyamen Nyanpue Nyenquellah 
+			Mabasi Maima Massa Mawen Mehnmah Menenina Miata Musu
+			Nbete Neenai Nowa Nulalee Nyamen Nyanae Nyanpue Nyenquellah 
 			Pahn
-			Sianeh Suah
-			Tenneh Tina Tonia
+			Sianeh Somo Suah
+			Tatu Tenneh Tina Tonia
 			Weyatta Wokie
-			Yan-Gah 
-			Zoe
+			Yan-Gah Yassa Yattah
+			Zinnah Zoe 
 		}
 	}
 	mende = {
@@ -167,7 +169,7 @@ mande = {
 		
 		male_names = {
 			Albert Albert-Joe Allieu_Ali Alpha Amidu_Ahmed Andrew Arouna_Aaron Attouga Augustine
-			Bai-John Bai-Sorie Bai-Tom Banja Batilo Brima
+			Bai-John Bai-Sorie Bai-Tom Banja Batilo Boimah Brima
 			David David-John Dennis Duwalu
 			Edward Ekuma Emerson Emmanuel
 			Frederick
@@ -191,11 +193,12 @@ mande = {
 			Ellen Esther
 			Fatima
 			Isata
-			Jane
+			Jane Jebbeh
 			Komeh
-			Mary
+			Maima Mary
 			Nyarroh 
 			Sarah Shirley Soma
+			Tenneh
 			Wayetu
 			Yema Yoko
 		}
@@ -238,6 +241,47 @@ mande = {
 			Rahat Rakiatou Ranya
 			Safia
 			Zara_Zahra
+		}
+	}
+	dan = {
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.7 0.1 0.8 }
+		
+		male_names = {
+			Amos
+			Bhoyah Blahsue
+			Charles Collins
+			Dagobert David
+			Edward Emmanuel
+			Fiah Fong Francis Franklin
+			George Gilbert Glelulo Gnantin Gonlekpei Gonsahn Grougbay
+			Harley
+			Jackson Johnson Joseph Jucontee
+			Kipko Kortor
+			Luogon
+			Martin Monconjay Morais Moses
+			Nenwon Noah Nyanh Nyeayea
+			Paye
+			Robert
+			Samuel Saye Suah
+			Tarkpour Thomas
+			Wallace Wilton Wonbin
+			Yeanue Yormie
+			Zinneh Zokaya 
+		}
+		female_names = {
+			Bendu
+			Doris
+			Hawa
+			Kou
+			Lekpaseu Luolay
+			Martina Mary Michaela
+			Norn
+			Wonkehmi
+			Yah Yei
+			Zoe
 		}
 	}
 }
