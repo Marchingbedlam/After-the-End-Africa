@@ -3223,3 +3223,33 @@
 2501068 = { name="Mota e Cunha" culture=mestico }
 2501069 = { name="de Vasconcelos" culture=mestico }
 2501070 = { name="Novela" culture=mestico }
+
+2666000 = { name="Eweka" culture=edo }
+2666001 = { name="Oyegun" culture=edo }
+2666002 = { name="Obaseki" culture=edo }
+2666003 = { name="Igbineweka" culture=edo }
+2666004 = { name="Egharevba" culture=edo }
+2666005 = { name="Iluobe" culture=edo }
+2666006 = { name="Odaro" culture=edo }
+2666007 = { name="Layiwola" culture=edo }
+2666008 = { name="Ogbemudia" culture=edo }
+2666009 = { name="Ikpeba" culture=edo }
+2666010 = { name="Iyamu" culture=edo }
+2666011 = { name="Olowu" culture=edo }
+2666012 = { name="Oshodin" culture=edo }
+2666013 = { name="Arhebamen" culture=edo }
+2666014 = { name="Okunbo" culture=edo }
+2666015 = { name="Igbinedion" culture=edo }
+2666016 = { name="Momoh" culture=edo }
+2666017 = { name="Ighodaro" culture=edo }
+2666018 = { name="Emokpae" culture=edo }
+2666019 = { name="Idahosa" culture=edo }
+2666020 = { name="Uwaifo" culture=edo }
+2666021 = { name="Igbinovia" culture=edo }
+2666022 = { name="Odemwingie" culture=edo }
+2666023 = { name="Edokpolo" culture=edo }
+2666024 = { name="Osagie" culture=edo }
+2666025 = { name="Ize" culture=edo }
+2666026 = { name="Osazuwa" culture=edo }
+2666027 = { name="Guobadia" culture=edo }
+2666028 = { name="Igbafe" culture=edo }

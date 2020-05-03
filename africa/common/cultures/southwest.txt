@@ -298,7 +298,7 @@ namibian = {
 	}
 
 	afrikaner = {
-		graphical_cultures = { germangfx }
+		graphical_cultures = { frankishgfx }
 
 		color = { 0.4 0.4 0.3 }
 
@@ -361,7 +361,7 @@ namibian = {
 	}
 		
 	capeman = {
-		graphical_cultures = { germangfx }
+		graphical_cultures = { englishgfx }
 
 		color = { 0.4 0.4 0.3 }
 
@@ -372,7 +372,7 @@ namibian = {
 			Edward Elton Errol
 			Fabian Fadluraghman Farid Franklin
 			Granwald
-			Hans Harold Hermanus_Hermann Herschel
+			Hans Harold Hermanus_Herman Herschel
 			Ian Ignatius Ivan
 			James Jeremy_Jeremiah John Jonathan
 			Kenneth Kermit Kurt 

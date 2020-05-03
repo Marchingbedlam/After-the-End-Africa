@@ -206,7 +206,7 @@
 }
 1963050={
 	name="Ozolua"
-	dynasty=0
+	dynasty=2666000
 	culture=edo
 	religion=catholic
 
