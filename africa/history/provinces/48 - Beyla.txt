@@ -6,7 +6,7 @@ title = c_beyla
 # Settlements
 max_settlements = 3
 
-b_beyla_GN = tribal
+b_beyla_GN = castle
 
 # Misc
 culture = manding

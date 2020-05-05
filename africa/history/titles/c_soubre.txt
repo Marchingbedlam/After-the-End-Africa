@@ -4,6 +4,10 @@
 	law = succ_gavelkind
 }
 2660.1.1={
-	liege=d_zanzan
-	holder=1800002
+	holder=1800013
+	set_tribute_suzerain = {
+		who = d_lacs
+		type = default 
+	}
 }
+

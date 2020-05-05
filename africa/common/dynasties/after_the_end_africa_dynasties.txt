@@ -548,7 +548,7 @@
 1407009 = {name ="Alagala" culture=dogon }
 1407010 = {name ="Togotoy" culture=dogon }
 
-1408000 = {name ="Ngakinar" culture=sara }   ##Sara/Bagirmi?
+1408000 = {name ="Ngakinar" culture=sara }  
 1408001 = {name ="Odingar" culture=sara }
 1408002 = {name ="Tombalbaye" culture=sara }
 1408003 = {name ="Moungar" culture=sara }
@@ -568,12 +568,64 @@
 1408017 = {name ="Doumagoum" culture=sara }
 1408018 = {name ="Ndoumangar" culture=sara }
 1408019 = {name ="Yoadimnadji" culture=sara }
-1408024 = {name ="Patassé" culture=sara }
+1408020 = {name ="Patassé" culture=sara }
+1408021 = {name ="M'Barali" culture=sara }
+1408022 = {name ="Masrane" culture=sara }
+1408023 = {name ="Denodji" culture=sara }
+1408024 = {name ="Laoukein" culture=sara }
+1408025 = {name ="Benoudjita" culture=sara }
+1408026 = {name ="Ngass" culture=sara }
+1408027 = {name ="Dionnadji" culture=sara }
+1408028 = {name ="Goumba" culture=sara }
+1408029 = {name ="N'Guérékata" culture=sara }
+1408030 = {name ="Gossingar" culture=sara }
+1408031 = {name ="Ndôh" culture=sara }
+1408032 = {name ="Mbaïssanabé" culture=sara }
+1408030 = {name ="Nodjitolabaye" culture=sara }
+1408031 = {name ="Djimoguinan" culture=sara }
+1408032 = {name ="Orentangar" culture=sara }
+1408033 = {name ="Mantangar" culture=sara }
+1408034 = {name ="Ndilngar" culture=sara }
+1408035 = {name ="Djibia" culture=sara }
+1408036 = {name ="Nguirengar" culture=sara }
+1408037 = {name ="Kodingar" culture=sara }
+1408038 = {name ="Ndoringar" culture=sara }
+1408039 = {name ="Djimrangaye" culture=sara }
+1408040 = {name ="Adoumngar" culture=sara }
 
-1408020 = {name ="Ermanala" culture=sara }
-1408021 = {name ="Tadlele" culture=sara }
-1408022 = {name ="Ouaido" culture=sara }
-1408023 = {name ="Guelendouksia" culture=sara }
+1409000 = {name ="Ermanala" culture=bagirmi }
+1409001 = {name ="Tadlele" culture=bagirmi }
+1409002 = {name ="Kenga" culture=bagirmi }
+1409003 = {name ="Tourkounda" culture=bagirmi }
+1409004 = {name ="Patcha" culture=bagirmi }
+1409005 = {name ="Balkashé" culture=bagirmi }
+1409006 = {name ="Erbo" culture=bagirmi }
+1409007 = {name ="Absakin" culture=bagirmi }
+1409008 = {name ="Galma" culture=bagirmi }
+1409009 = {name ="Mboudou" culture=bagirmi }
+1409010 = {name ="Kadoum" culture=bagirmi }
+1409011 = {name ="Batoa" culture=bagirmi }
+1409012 = {name ="N'Guidjim" culture=bagirmi }
+1409013 = {name ="Burwa" culture=bagirmi }
+1409014 = {name ="Dalmawa" culture=bagirmi }
+1409015 = {name ="Tchalmawa" culture=bagirmi }
+1409016 = {name ="Wadawa" culture=bagirmi }
+1409017 = {name ="Djulwa" culture=bagirmi }
+1409018 = {name ="Kassawa" culture=bagirmi }
+1409019 = {name ="Gaswa" culture=bagirmi }
+1409020 = {name ="Madawa" culture=bagirmi }
+1409021 = {name ="Fadwa" culture=bagirmi }
+1409022 = {name ="Kiliti" culture=bagirmi }
+1409023 = {name ="Argumba" culture=bagirmi }
+1409024 = {name ="Homeida" culture=bagirmi }
+1409025 = {name ="Wazouna" culture=bagirmi }
+1409026 = {name ="Yaradoua" culture=bagirmi }
+1409027 = {name ="Boukar" culture=bagirmi }
+1409028 = {name ="Zalba" culture=bagirmi }
+1409029 = {name ="Lamana" culture=bagirmi }
+1409030 = {name ="Djougoultoum" culture=bagirmi }
+1409031 = {name ="Déchi" culture=bagirmi }
+1409032 = {name ="Zeitoun" culture=bagirmi }
 
 1409000 = {name ="Zazzaui" culture=hausa }
 1409001 = {name ="Babangida" culture=hausa }
@@ -1711,6 +1763,9 @@
 1845024 = {name ="Sato" culture=gbaya }
 1845025 = {name ="Banza" culture=gbaya }
 1845026 = {name ="Démafouth" culture=gbaya }
+1845027 = {name ="Ngakoutou" culture=gbaya }
+1845028 = {name ="Dérant" culture=gbaya }
+1845029 = {name ="Koudoussaragne" culture=gbaya }
 
 1866000 = {name ="Waris" culture=dagomba }
 1866001 = {name ="Mahama" culture=dagomba }
@@ -1798,6 +1853,13 @@
 1877031 = {name ="Totébaldbo" culture=mossi }
 1877032 = {name ="Yambasorgo" culture=mossi }
 1877033 = {name ="Tenganiama" culture=mossi }
+1877034 = {name ="Zida" culture=mossi }
+1877035 = {name ="Targnèbga" culture=mossi }
+1877036 = {name ="Soulga" culture=mossi }
+1877037 = {name ="Rimpazangdé" culture=mossi }
+1877038 = {name ="Ilboudou" culture=mossi }
+1877039 = {name ="Bassolé" culture=mossi }
+1877040 = {name ="Guissou" culture=mossi }
 
 1888000 = {name ="Lartey" culture=ga }
 1888001 = {name ="Nortey" culture=ga }
@@ -1883,6 +1945,9 @@
 1408019 = {name ="Faki" culture=zaghawa }
 1408020 = {name ="Jamus" culture=zaghawa }
 1408021 = {name ="Garda" culture=zaghawa }
+1408022 = {name ="Koty" culture=zaghawa }
+1408023 = {name ="Borgo" culture=zaghawa }
+1408024 = {name ="Chaïbo" culture=zaghawa }
 
 1445000 = {name ="Togoïmi" culture=toubou }
 1445001 = {name ="Barka" culture=toubou }
@@ -1899,6 +1964,12 @@
 1445012 = {name ="Kandamai" culture=toubou }
 1445013 = {name ="Tokh" culture=toubou }
 1445014 = {name ="Gaji" culture=toubou }
+1445015 = {name ="Sougoumi" culture=toubou }
+1445016 = {name ="Koudigan" culture=toubou }
+1445017 = {name ="Bolou" culture=toubou }
+1445018 = {name ="Mougoumi" culture=toubou }
+1445019 = {name ="Younousmi" culture=toubou }
+1445020 = {name ="Zene" culture=toubou }
 
 1895000 = {name ="Aladaxonou" culture=fon }
 1895001 = {name ="Sinzogan" culture=fon }
@@ -1929,6 +2000,18 @@
 1895026 = {name ="Dedjalagni" culture=fon }
 1895027 = {name ="Gunhu-Hugnon" culture=fon }
 1895028 = {name ="Agasuvi" culture=fon }
+1895029 = {name ="Ouibro" culture=fon }
+1895030 = {name ="Djogbenou" culture=fon }
+1895031 = {name ="Adoukonou" culture=fon }
+1895032 = {name ="Ahoyo" culture=fon }
+1895033 = {name ="Pliya" culture=fon }
+1895034 = {name ="Ahouéya" culture=fon }
+1895035 = {name ="Towedjé" culture=fon }
+1895036 = {name ="Tchomogo" culture=fon }
+1895037 = {name ="Lozès" culture=fon }
+1895038 = {name ="Hounkponou" culture=fon }
+1895039 = {name ="Zinkpè" culture=fon }
+1895040 = {name ="Dossou" culture=fon }
 
 1899000 = {name ="Gbeho" culture=ewe }
 1899001 = {name ="Baëta" culture=ewe }
@@ -2502,6 +2585,12 @@
 1918019 = {name ="Madbin" culture=baggara }
 1918020 = {name ="al-Himaydi" culture=baggara }
 1918021 = {name ="Daggash" culture=baggara }
+1918022 = {name ="Djadallah" culture=baggara }
+1918023 = {name ="Khérallah" culture=baggara }
+1918024 = {name ="Soubiane" culture=baggara }
+1918025 = {name ="al-Edjini" culture=baggara }
+1918026 = {name ="Kharachi" culture=baggara }
+1918027 = {name ="Djibrila" culture=baggara }
 
 1919000 = {name ="Al-Gheilani" culture=umani }
 1919001 = {name ="Al-Busaidi" culture=umani }

@@ -9,7 +9,7 @@ b_massakory_TD = city
 b_tourba_TD = temple
 
 # Misc
-culture = kpelle
+culture = kanuri
 religion = catholic
 
 #History

@@ -3,10 +3,10 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-2610.1.1={
-	holder=1800013
+2660.1.1={
+	holder=1800012
 	set_tribute_suzerain = {
-		who = d_marahoue
+		who = d_lacs
 		type = default 
 	}
 }

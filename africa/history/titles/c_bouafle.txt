@@ -3,7 +3,6 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-2600.1.1={	
-	liege=d_marahoue
-	holder=1800009
+2610.1.1={
+	holder=1800006
 }

@@ -10,7 +10,7 @@ b_mattru_jong_SL = castle
 b_bonthe_SL = city
 
 # Misc
-culture = mende
+culture = krio
 religion = libertarian
 
 #History

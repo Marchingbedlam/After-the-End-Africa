@@ -205,9 +205,9 @@
 	2670.1.14={death=yes}
 }
 1000115={
-	name="Momolu"
-	dynasty=1201004
-	culture=kpelle
+	name="Patrick"
+	dynasty=1841002
+	culture=mende
 	religion=libertarian
 	diplomacy=7
 	martial=1
@@ -222,25 +222,9 @@
 	2626.8.12={birth=yes}
 	2672.3.9={death=yes}
 }
-1000116={
-	name="Septimus"
-	dynasty=1841008
-	culture=mende
-	religion=libertarian
-	diplomacy=5
-	martial=4
-	stewardship=6
-	intrigue=6
-	learning=5
-	trait=fortune_builder
-	trait=schemer
-	trait=kind
-	trait=lustful
-	trait=just
-	trait=temperate
-	2629.9.9={birth=yes}
-	2671.2.10={death=yes}
-}
+
+##1000116
+
 1000117={
 	name=Mary
 	dynasty=9000

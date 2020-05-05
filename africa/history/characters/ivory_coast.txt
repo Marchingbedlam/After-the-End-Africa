@@ -88,7 +88,7 @@
 }
 1800009={
 	name="Pharace" #Cotedivoire
-	dynasty=1505032
+	dynasty=1505024
 	culture=baoule
 	religion=catholic
 
@@ -103,7 +103,7 @@
 }
 1800010={
 	name="Diezou" #Cotedivoire
-	dynasty=1505032
+	dynasty=1505024
 	culture=baoule
 	religion=catholic
 	father=1800009
@@ -149,6 +149,15 @@
 	name="Sinan" 
 	dynasty=1844015
 	culture=senufo
+	religion=ashari
+	
+	2630.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1800015={
+	name="Gonsahn" 
+	dynasty=1203004
+	culture=dan
 	religion=ashari
 	
 	2630.1.1={birth=yes}

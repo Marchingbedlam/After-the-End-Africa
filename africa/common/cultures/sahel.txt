@@ -229,23 +229,59 @@ sahel = {
 		color = { 0.9 1 1.1 }
 		
 		male_names = {
-			Abdarahman_Abdul-Rahman Abdelkérim_Abdul-Karim
-			Banhoula Behoroum Burkomanda
-			Dalai Djelassem Djimra
+			Abdarahman_Abdul-Rahman Abdelkérim_Abdul-Karim Abdoulaye_Abdullah Adoumadji Alladangar Asede
+			Banhoula Barde Behoroum Borogue
+			Charles Christian
+			Dayan David Desige Djelassem Djidabay Djimra
+			Edouard_Edward
 			Félix_Felix 
-			Gaourang
+			Hoguina
 			Jean_John Joseph 
-			Koibla
-			Loel
-			Mahamat_Mohammed Malam Milarew Mogaye
-			Ndikenan Negue Ngarmaba Ngarmane N'Garta
+			Kemtimay Kiniege Koibla Kuoliyo
+			Laige Loel Loubaheindé
+			Mahamat_Mohammed Malam Matthias_Matthew Mbadédjigué Mbakeygué Mbarague Mbasirangue Mbatoumgué Mbayargue Milarew Mogaye Moude Mougode Moujege Mouniro Moussa_Moses Moustapha_Mustafa
+			Ndikenan Ndolbai Negue Ngako Ngaral Ngariban Ngarmaba Ngarmane N'Garta N'Gartéri Nguetolabaye Niade Nodjimadji Noudjalta
 			Pascal 
 			Rimdaga Ronelngar 
-			Saboun
-			Urada
-			Wanja
+			Saboun Sebastian Séraphin Solengar
+			Toumge
+			Yande Yarg
 		}
 		female_names = {
+			Aïché_Aisha
+			Fatimé_Fatima
+			Khadidja
+			Marie_Mary
+			Sarah
+		}
+	}
+	bagirmi = {
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.1 0.8 0.2 }
+		
+		male_names = {
+			Abdoulaye_Abdullah Abdramane_Abdul-Rahman "Abdul Gashé" "Abdul Qadir" Ali "Ali Kaïdala" Araki
+			Balwa "Bayé Mortcho" Beïso Brahim_Abraham Burkomanda
+			Chagrami
+			Dalai Dikhona Djili Djourab Dogo "Dogo Arma" Dokkengué Dounouma
+			Gaourang
+			Hassan "Hassan Absakin"
+			Idriss_Idris Ismaïl_Ishmael Issa_Jesus
+			Kaïdala "Kaïdala Issa"
+			Loel Lubatko
+			Mahamat_Mohammed "Mahamat Abba" "Mahamat Absakin" "Mahamat Djourab" "Mahamat Gadaï" "Mahamat Madgashé" "Mahamat Mortcho" "Maïdakin Abami" Makhael_Michael "Mat Kurtu" Moussa_Moses "Moussa Mortcho"
+			N'gare Ngarmaba Ngarmane
+			Othman Oumar_Omar "Oumar Abba" "Oumar Mahamat" Ourada
+			Toubab
+			Waïma Wanja
+			Yahyah_John Youssouf_Joseph
+		}
+		female_names = {
+			Aïché_Aisha
+			Fatimé_Fatima
+			Khadidja
 			Marie_Mary
 			Sarah
 		}

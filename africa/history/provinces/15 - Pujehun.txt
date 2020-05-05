@@ -11,7 +11,7 @@ b_gandorhun_SL = city
 b_zimmi_SL = temple
 
 # Misc
-culture = kpelle
+culture = mende
 religion = libertarian
 
 #History

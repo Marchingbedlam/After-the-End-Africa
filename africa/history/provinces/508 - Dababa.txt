@@ -9,7 +9,7 @@ b_bokoro_TD = city
 b_ngama_TD = temple
 
 # Misc
-culture = kpelle
+culture = bagirmi
 religion = catholic
 
 #History

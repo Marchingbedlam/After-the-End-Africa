@@ -4,9 +4,9 @@
 	law = succ_gavelkind
 }
 2300.1.1={
-	liege=k_pepper_coast
+	liege=k_guinea
 }
-2660.1.4={
-	liege=d_freetown
-	holder = 1000116
+2660.1.1={
+	liege="d_freetown"
+	holder=1000130
 }
