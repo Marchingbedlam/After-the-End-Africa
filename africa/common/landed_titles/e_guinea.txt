@@ -412,7 +412,6 @@ e_guinea = {
 			color={ 41 130 96 }
 			color2={ 255 255 255 }
 			
-			}
 			capital = 42 # c_faranah
 			
 			c_faranah = { # 42
@@ -1532,20 +1531,15 @@ e_guinea = {
 				b_bassassin = {}
 				b_bassar = {}
 			}
-			c_natitingou = {
-				color={ 195 141 114 }
-				color2={ 255 255 255 }
-				
-				b_natitingou = {}
-				b_manta = {}
-				b_perma = {}
-				b_dakou = {}
-				b_pehonko = {}
-				b_borogourou = {}
-				b_tanse = {}
-				b_kouande = {}
+			c_sokode = { #573
+					color={ 183 161 90 }
+					color2={ 255 255 255 }
+					
+				b_sokode_1 = {}
+				b_sokode_2 = {}
+				b_sokode_3 = {}
+				}
 			}
-		}
 		d_volta = {
 			color={ 195 141 50 }
 			color2={ 255 255 255 }
