@@ -306,6 +306,24 @@
 	2380.1.1={ birth=yes }
 	2435.1.1={ death=yes }
 }
+1401031={
+	name="Django"
+	dynasty=1401023
+	culture=manding
+	religion=ashari
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1401032={
+	name="Youssouf"
+	dynasty=1302009
+	culture=soninke
+	religion=ashari
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
 
 1401100={
 	name="Soundiata" #Sundiata Keita

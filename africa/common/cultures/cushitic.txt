@@ -21,7 +21,7 @@ cushitic = {
 			Keynaan Khalif
 			Liibaan
 			Macalin Madoobe Maxamed_Muhammad Maxbuub Maxfuud Maxmuud_Mahmud Mooge Mukhtaar_Mukhtar Mustafa Muuse_Moses
-			Nuur_Nur Nuuradiin
+			Nadiif Nuur_Nur Nuuradiin
 			Odowaa
 			Qaasim_Qasim Qorane
 			Raage

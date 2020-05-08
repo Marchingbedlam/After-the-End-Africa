@@ -99,6 +99,7 @@ mande = {
 			Coulouba Coumba
 			Diané Diatigui Djeneba
 			Fatoumata Foune
+			Guimbé
 			Hamchétou
 			Kadidia Kaïdama Kamissa Kassi Koite Kolonkan
 			Macoucou Madina Maimouna Mariam_Mary

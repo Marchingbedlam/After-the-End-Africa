@@ -3,12 +3,6 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
-2300.1.1={
-	liege=k_mali
-}
-2650.1.1={
-	holder=1401000
-}
-2662.11.22={
-	holder=1401002
+2660.1.1={
+	holder=1401007
 }
