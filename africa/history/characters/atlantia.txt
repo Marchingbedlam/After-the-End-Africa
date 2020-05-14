@@ -245,7 +245,7 @@
 }
 1914022={
 	name="Hélder"
-	dynasty=1901001
+	dynasty=1901001 #Barbosa
 	culture=verdean
 	religion=brethren
 
@@ -258,6 +258,23 @@
 	trait=tough_soldier
 
 	2625.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1914023={
+	name="João Pedro"
+	dynasty=1901008 #Neves
+	culture=verdean
+	religion=brethren
+
+	trait=poet
+	trait=gregarious
+	trait=strong
+	trait=honest
+	trait=brave
+	trait=charitable
+	trait=tough_soldier
+
+	2632.1.1={ birth=yes }
 	2700.1.1={ death=yes }
 }
 1914200={
@@ -282,7 +299,7 @@
 }
 1914201={
 	name="Walme"
-	dynasty=1518000
+	dynasty=1518000 #Chicampo
 	culture=bubi
 	religion=catholic
 

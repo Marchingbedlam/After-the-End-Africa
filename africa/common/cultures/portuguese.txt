@@ -48,8 +48,6 @@ portuguese = {
 			Vera
 		}
 		from_dynasty_prefix = "de "
-		male_patronym = "es"
-		female_patronym = "es"
 		grammar_transform = spanish
 
 		modifier = default_culture_modifier
@@ -120,8 +118,6 @@ portuguese = {
 		}
 		
 		from_dynasty_prefix = "de "
-		male_patronym = "es"
-		female_patronym = "es"
 		grammar_transform = spanish
 
 		modifier = default_culture_modifier
@@ -186,8 +182,6 @@ portuguese = {
 		}
 
 		from_dynasty_prefix = "de "
-		male_patronym = "es"
-		female_patronym = "es"
 		grammar_transform = spanish
 	}
 	mestico = {
@@ -246,8 +240,6 @@ portuguese = {
 		}
 		
 		from_dynasty_prefix = "de "
-		male_patronym = "es"
-		female_patronym = "es"
 		grammar_transform = spanish
 
 		modifier = default_culture_modifier

@@ -1,0 +1,15 @@
+# County Title
+title = c_ahafo_ano
+
+# Settlements
+max_settlements = 5
+
+b_mankranso = castle
+b_tepa = city
+b_new_brosankro = temple
+
+# Misc
+culture = asante
+religion = anglican
+
+#History

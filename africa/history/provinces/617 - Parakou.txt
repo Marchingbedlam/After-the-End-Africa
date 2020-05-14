@@ -9,7 +9,7 @@ b_parakou_2 = temple
 b_parakou_3 = city
 
 # Misc
-culture = bariba
+culture = gurunsi
 religion = catholic
 
 #History

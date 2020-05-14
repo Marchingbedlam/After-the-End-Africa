@@ -1217,6 +1217,18 @@ e_guinea = {
 				b_twifo_praso = {}
 				b_foso = {}
 			}
+			c_ahafo_ano = {
+				color={ 222 101 103 }
+				color2={ 255 255 255 }
+				
+				b_mankranso = {}
+				b_tepa = {}
+				b_new_brosankro = {}
+				b_maabang = {}
+				b_kunsu = {}
+				b_anyinasuso = {}
+				b_akyerensua = {}
+			}
 		}
 		d_gambaga = {
 			color={ 179 131 56 }
@@ -1473,7 +1485,6 @@ e_guinea = {
 				color={ 121 162 26 }
 				color2={ 255 255 255 }
 				
-				b_sokode = {}
 				b_babde = {}
 				b_koloware = {}
 				b_agoulou = {}
@@ -1494,6 +1505,14 @@ e_guinea = {
 				b_agbassa = {}
 				b_aloum = {}
 			}
+			c_sokode = {
+				color={ 183 161 90 }
+				color2={ 255 255 255 }
+					
+					b_sokode_1 = {}
+					b_sokode_2 = {}
+					b_sokode_3 = {}
+				}
 		}
 		d_oti = {
 			color={ 159 157 71 }

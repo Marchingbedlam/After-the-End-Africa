@@ -1610,14 +1610,6 @@ e_south_nigeria = {
 					b_dassa_2 = {}
 					b_dassa_3 = {}
 				}
-				c_sokode = { #573
-					color={ 183 161 90 }
-					color2={ 255 255 255 }
-					
-					b_sokode_1 = {}
-					b_sokode_2 = {}
-					b_sokode_3 = {}
-				}
 				c_bante = { #688
 					color={ 113 126 205 }
 					color2={ 255 255 255 }
