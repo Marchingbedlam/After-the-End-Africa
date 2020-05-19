@@ -1,0 +1,13 @@
+# County Title
+title = c_ambatofinandrahana
+
+# Settlements
+max_settlements = 4
+
+b_ambatofinandrahana = tribal
+
+# Misc
+culture = malagasy
+religion = catholic
+
+#History

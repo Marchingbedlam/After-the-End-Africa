@@ -1,0 +1,13 @@
+# County Title
+title = c_ankazobe
+
+# Settlements
+max_settlements = 4
+
+b_ankazobe = tribal
+
+# Misc
+culture = malagasy
+religion = catholic
+
+#History

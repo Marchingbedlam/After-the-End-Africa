@@ -1,0 +1,13 @@
+# County Title
+title = c_morombe
+
+# Settlements
+max_settlements = 4
+
+b_morombe = tribal
+
+# Misc
+culture = malagasy
+religion = catholic
+
+#History

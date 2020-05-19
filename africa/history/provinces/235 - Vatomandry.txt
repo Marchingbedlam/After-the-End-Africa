@@ -1,0 +1,13 @@
+# County Title
+title = c_vatomandry
+
+# Settlements
+max_settlements = 4
+
+b_vatomandry = tribal
+
+# Misc
+culture = malagasy
+religion = catholic
+
+#History

@@ -1,0 +1,13 @@
+# County Title
+title = c_beloni_tsiribihina
+
+# Settlements
+max_settlements = 4
+
+b_belo_tsiribihina = tribal
+
+# Misc
+culture = malagasy
+religion = catholic
+
+#History

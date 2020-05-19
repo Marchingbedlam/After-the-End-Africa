@@ -1,0 +1,13 @@
+# County Title
+title = c_maintirano
+
+# Settlements
+max_settlements = 4
+
+b_maintirano = tribal
+
+# Misc
+culture = malagasy
+religion = catholic
+
+#History

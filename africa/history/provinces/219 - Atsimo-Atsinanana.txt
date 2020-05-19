@@ -1,0 +1,13 @@
+# County Title
+title = c_atsimo_atsinanana
+
+# Settlements
+max_settlements = 4
+
+b_farafagana = tribal
+
+# Misc
+culture = malagasy
+religion = catholic
+
+#History

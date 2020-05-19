@@ -1,0 +1,13 @@
+# County Title
+title = c_fianarantsoa
+
+# Settlements
+max_settlements = 4
+
+b_fianarantsoa = tribal
+
+# Misc
+culture = malagasy
+religion = catholic
+
+#History

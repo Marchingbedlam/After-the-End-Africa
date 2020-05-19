@@ -1,0 +1,13 @@
+# County Title
+title = c_morondava
+
+# Settlements
+max_settlements = 4
+
+b_morondava = tribal
+
+# Misc
+culture = malagasy
+religion = catholic
+
+#History

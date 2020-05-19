@@ -1,0 +1,13 @@
+# County Title
+title = c_madirovalo
+
+# Settlements
+max_settlements = 4
+
+b_madirovalo = tribal
+
+# Misc
+culture = malagasy
+religion = catholic
+
+#History

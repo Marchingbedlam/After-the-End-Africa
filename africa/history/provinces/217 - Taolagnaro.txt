@@ -1,0 +1,13 @@
+# County Title
+title = c_taolagnaro
+
+# Settlements
+max_settlements = 4
+
+b_taolagnaro = tribal
+
+# Misc
+culture = malagasy
+religion = catholic
+
+#History

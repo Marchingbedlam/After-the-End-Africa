@@ -1,0 +1,13 @@
+# County Title
+title = c_toliara
+
+# Settlements
+max_settlements = 4
+
+b_toliara = tribal
+
+# Misc
+culture = malagasy
+religion = catholic
+
+#History

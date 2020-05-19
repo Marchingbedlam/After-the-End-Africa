@@ -1,0 +1,13 @@
+# County Title
+title = c_betroka
+
+# Settlements
+max_settlements = 4
+
+b_betroka = tribal
+
+# Misc
+culture = malagasy
+religion = catholic
+
+#History

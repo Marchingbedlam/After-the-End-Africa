@@ -1,0 +1,13 @@
+# County Title
+title = c_mandritsara
+
+# Settlements
+max_settlements = 4
+
+b_mandritsara = tribal
+
+# Misc
+culture = malagasy
+religion = catholic
+
+#History

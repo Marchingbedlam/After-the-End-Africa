@@ -1,0 +1,13 @@
+# County Title
+title = c_analalava
+
+# Settlements
+max_settlements = 4
+
+b_ambodimandresy = tribal
+
+# Misc
+culture = malagasy
+religion = catholic
+
+#History

@@ -2,12 +2,12 @@
 title = c_sava
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_sava = castle
+b_antalaha = tribal
 
 # Misc
-culture = kpelle
+culture = malagasy
 religion = catholic
 
 #History

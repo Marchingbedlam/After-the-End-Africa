@@ -1,0 +1,13 @@
+# County Title
+title = c_fotadrevo
+
+# Settlements
+max_settlements = 4
+
+b_fotadrevo = tribal
+
+# Misc
+culture = malagasy
+religion = catholic
+
+#History

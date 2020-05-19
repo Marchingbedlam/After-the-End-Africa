@@ -1,0 +1,13 @@
+# County Title
+title = c_itasy
+
+# Settlements
+max_settlements = 4
+
+b_miarinarivo = tribal
+
+# Misc
+culture = malagasy
+religion = catholic
+
+#History

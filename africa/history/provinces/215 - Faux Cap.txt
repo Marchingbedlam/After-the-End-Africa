@@ -1,0 +1,13 @@
+# County Title
+title = c_faux_cap
+
+# Settlements
+max_settlements = 4
+
+b_faux_cap = tribal
+
+# Misc
+culture = malagasy
+religion = catholic
+
+#History

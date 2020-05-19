@@ -1,0 +1,13 @@
+# County Title
+title = c_besalampy
+
+# Settlements
+max_settlements = 4
+
+b_besalampy = tribal
+
+# Misc
+culture = malagasy
+religion = catholic
+
+#History

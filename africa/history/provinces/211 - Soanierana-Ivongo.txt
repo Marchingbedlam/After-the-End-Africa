@@ -1,0 +1,13 @@
+# County Title
+title = c_soanierana_ivongo
+
+# Settlements
+max_settlements = 4
+
+b_soanierana_ivongo = tribal
+
+# Misc
+culture = malagasy
+religion = catholic
+
+#History

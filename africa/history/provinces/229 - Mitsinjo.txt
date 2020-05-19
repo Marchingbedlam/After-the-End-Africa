@@ -1,0 +1,13 @@
+# County Title
+title = c_mitsinjo
+
+# Settlements
+max_settlements = 4
+
+b_mitsinjo = tribal
+
+# Misc
+culture = malagasy
+religion = catholic
+
+#History

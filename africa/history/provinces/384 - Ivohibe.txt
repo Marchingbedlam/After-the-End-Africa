@@ -1,0 +1,13 @@
+# County Title
+title = c_ivohibe
+
+# Settlements
+max_settlements = 4
+
+b_ivohibe = tribal
+
+# Misc
+culture = malagasy
+religion = catholic
+
+#History

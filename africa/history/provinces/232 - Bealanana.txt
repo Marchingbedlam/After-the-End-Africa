@@ -1,0 +1,13 @@
+# County Title
+title = c_bealanana
+
+# Settlements
+max_settlements = 4
+
+b_bealanana = tribal
+
+# Misc
+culture = malagasy
+religion = catholic
+
+#History

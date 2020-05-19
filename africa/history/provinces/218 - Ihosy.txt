@@ -1,0 +1,13 @@
+# County Title
+title = c_ihosy
+
+# Settlements
+max_settlements = 4
+
+b_ihosy = tribal
+
+# Misc
+culture = malagasy
+religion = catholic
+
+#History

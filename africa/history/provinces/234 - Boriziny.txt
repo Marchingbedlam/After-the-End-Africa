@@ -1,0 +1,13 @@
+# County Title
+title = c_boriziny
+
+# Settlements
+max_settlements = 4
+
+b_ampombibitika = tribal
+
+# Misc
+culture = malagasy
+religion = catholic
+
+#History

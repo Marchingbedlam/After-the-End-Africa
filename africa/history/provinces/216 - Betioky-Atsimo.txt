@@ -1,0 +1,13 @@
+# County Title
+title = c_betioky_atsimo
+
+# Settlements
+max_settlements = 4
+
+b_betioky = tribal
+
+# Misc
+culture = malagasy
+religion = catholic
+
+#History

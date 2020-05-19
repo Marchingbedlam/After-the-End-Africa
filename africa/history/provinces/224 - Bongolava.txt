@@ -1,0 +1,13 @@
+# County Title
+title = c_bongolava
+
+# Settlements
+max_settlements = 4
+
+b_tsiroanomandidy = tribal
+
+# Misc
+culture = malagasy
+religion = catholic
+
+#History

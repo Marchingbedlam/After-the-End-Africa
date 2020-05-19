@@ -1,0 +1,13 @@
+# County Title
+title = c_maroantsetra
+
+# Settlements
+max_settlements = 4
+
+b_maroantsetra = tribal
+
+# Misc
+culture = malagasy
+religion = catholic
+
+#History

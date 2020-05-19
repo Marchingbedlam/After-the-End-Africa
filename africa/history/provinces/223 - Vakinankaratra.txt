@@ -1,0 +1,13 @@
+# County Title
+title = c_vakinankaratra
+
+# Settlements
+max_settlements = 4
+
+b_antsirabe = tribal
+
+# Misc
+culture = malagasy
+religion = catholic
+
+#History
