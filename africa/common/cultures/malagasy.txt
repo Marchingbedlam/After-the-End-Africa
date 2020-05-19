@@ -1,0 +1,19 @@
+###ÄNSI
+malagasy_group = {
+	graphical_cultures = { muslimgfx }
+
+	malagasy = {
+		color = { 0.4 0.8 0.4 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+		secondary_event_pictures = bedouin_arabic
+			
+		male_names = {
+			Malagasy
+		}
+		
+		female_names = {
+			Femalagasy
+		}
+	}
+}
