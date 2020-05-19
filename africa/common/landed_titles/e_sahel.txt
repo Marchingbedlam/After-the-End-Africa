@@ -2077,12 +2077,6 @@ e_sahel = {
 
 				b_logone_et_chari = {}
 			}
-			c_sava = {
-				color={ 175 174 72 }
-				color2={ 255 255 255 }
-
-				b_sava = {}
-			}
 			c_tsanaga = {
 				color={ 239 219 165 }
 				color2={ 255 255 255 }

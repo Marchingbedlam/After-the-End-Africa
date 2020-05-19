@@ -1,241 +1,65 @@
 e_madagscar = {
-	color={ 200 200 200 }
+	color={ 40 200 90 }
 	color2={ 255 255 255 }
+	
+	capital = 225 #c_antananarivo
 			
 	k_madagascar = {
-		color={ 152 248 165 }
+		color={ 77 208 85 }
 		color2={ 255 255 255}
-
-		d_madagascar = {
-			color={ 104 242 146 }
+		
+		capital = 225 #c_antananarivo
+		
+		d_antananarivo = {
+			color={ 47 226 14 }
 			color2={ 255 255 255 }
+			
+			capital = 225 #c_antananarivo
 
-			c_maroantsetra = {
-				color={ 105 156 124 }
+			c_antananarivo = {
+				color={ 154 174 113 }
 				color2={ 255 255 255 }
 					
-				b_maroantsetra = {}
-				b_ambinanitelo = {}
-				b_tampolo = {}
-				b_manambolosy = {}
-				b_mananar_avaratra = {}
-				b_rantabe = {}
-				b_voloina = {}
-				b_ambanizana = {}
+				b_antananarivo = {}
+				b_talatamaty = {}
+				b_manjakandriana = {}
+				b_ambatomanga = {}
+				b_anjepy = {}
+				b_talata_volonondry = {}
+				b_ambohitrolomahitsy = {}
+				b_tsiafahy = {}
 			}
 
-			c_sava = {
-				color={ 105 156 124 }
+			c_vakinankaratra = {
+				color={ 131 191 154 }
 				color2={ 255 255 255 }
 					
-				b_antalaha = {}
-				b_ambalabe = {}
-				b_ambodipont_sahana = {}
-				b_ambohitralanana = {}
-				b_andapa = {}
-				b_ambodimanga = {}
-				b_vinanivao = {}
-				b_matsohely = {}
+				b_antsirabe = {}
+				b_ivato = {}
+				b_ambohimasina = {}
+				b_mandoto = {}
+				b_andravoahangy = {}
+				b_ambohibary = {}
+				b_antanifotsy = {}
+				b_ampitatafika = {}
 			}
 
-			c_sambava = {
-				color={ 105 156 124 }
+			c_itasy = {
+				color={ 134 226 111 }
 				color2={ 255 255 255 }
 					
-				b_sambava = {}
-				b_farahalana = {}
-				b_antindra = {}
-				b_bemanevika = {}
-				b_milanoa = {}
-				b_analovana = {}
-				b_fanambana = {}
-				b_antsahakilompaha = {}
+				b_miarinarivo = {}
+				b_ankisabe = {}
+				b_ampefy = {}
+				b_analavory = {}
+				b_soavinandriana = {}
+				b_mandiavato = {}
+				b_avironimamo = {}
+				b_imerintsiatosika = {}
 			}
-
-			c_antisiranana = {
-				color={ 105 156 124 }
-				color2={ 255 255 255 }
-					
-				b_antisiranana = {}
-				b_joffreville = {}
-				b_mangaoka = {}
-				b_bobasakoa = {}
-				b_mangaoka = {}
-				b_andranovondronina = {}
-				b_antsakoabe = {}
-				b_sadjoavato = {}
-			}
-
-			c_ambilobe = {
-				color={ 105 156 124 }
-				color2={ 255 255 255 }
-					
-				b_ambilobe = {}
-				b_ambanja = {}
-				b_bemaneviky = {}
-				b_ambaro = {}
-				b_hell_ville = {}
-				b_anaborano = {}
-				b_beramanja = {}
-				b_ambodibonara = {}
-			}
-
-			c_bealanana = {
-				color={ 105 156 124 }
-				color2={ 255 255 255 }
-					
-				b_bealanana = {}
-				b_ambatosia = {}
-				b_antsamaka = {}
-				b_ambalaromba = {}
-				b_antsakabary = {}
-				b_tsarahonenana = {}
-				b_befandriana = {}
-				b_antsahabe = {}
-			}
-
-			c_analalava = {
-				color={ 105 156 124 }
-				color2={ 255 255 255 }
-					
-				b_ambodimandresy = {}
-				b_befotaka = {}
-				b_antsohihy = {}
-				b_ankerika = {}
-				b_maromandia = {}
-				b_antonibe = {}
-				b_ambondro_ampasy = {}
-				b_antrema = {}
-			}
-
-			c_marovoay = {
-				color={ 105 156 124 }
-				color2={ 255 255 255 }
-					
-				b_marovoay = {}
-				b_mahajanga = {}
-				b_berivotra = {}
-				b_boanamary = {}
-				b_mariarano = {}
-				b_andranoboka = {}
-				b_manaratsandry = {}
-				b_amparihy = {}
-			}
-
-			c_mitsinjo = {
-				color={ 105 156 124 }
-				color2={ 255 255 255 }
-					
-				b_mitsinjo = {}
-				b_namakia = {}
-				b_androhibe = {}
-				b_soalala = {}
-				b_bekipay = {}
-				b_antseza = {}
-				b_ambarimaninga = {}
-				b_sarodrano = {}
-			}
-
-			c_madirovalo = {
-				color={ 105 156 124 }
-				color2={ 255 255 255 }
-					
-				b_madirovalo = {}
-				b_ankirihitra = {}
-				b_sitampiky = {}
-				b_sarodrano = {}
-				b_beamilaka = {}
-				b_tsaramandroso = {}
-				b_antanambazaha = {}
-				b_morafeno = {}
-			}
-
-			c_betsiboka = {
-				color={ 105 156 124 }
-				color2={ 255 255 255 }
-					
-				b_maevatanana = {}
-				b_madiromirafy = {}
-				b_antanimbary = {}
-				b_ambodiriana = {}
-				b_bekaratsaka = {}
-				b_mahatsinjo = {}
-				b_mahazoma = {}
-				b_betrandraka = {}
-			}
-
-			c_boriziny = {
-				color={ 105 156 124 }
-				color2={ 255 255 255 }
-					
-				b_ampombibitika = {}
-				b_tsarahasina = {}
-				b_leanja = {}
-				b_bekoratsaka = {}
-				b_anjiajia = {}
-				b_andranomeva = {}
-				b_tsararivotra = {}
-				b_tsaratanana = {}
-			}
-
-			c_mandritsara = {
-				color={ 105 156 124 }
-				color2={ 255 255 255 }
-					
-				b_mandritsara = {}
-				b_marotandrano = {}
-				b_andohajango = {}
-				b_kalandy = {}
-				b_ambodiadabo = {}
-				b_amborodolo = {}
-				b_ambalakirajy = {}
-				b_ankarongana = {}
-			}
-
-			c_aloatra_mangoro = {
-				color={ 105 156 124 }
-				color2={ 255 255 255 }
-					
-				b_amparafaravola = {}
-				b_tanambe = {}
-				b_anony = {}
-				b_andilamena = {}
-				b_amboavory = {}
-				b_antanimenabaka = {}
-				b_anororo = {}
-				b_imerimandroso = {}
-			}
-
-			c_soanierana_ivongo = {
-				color={ 105 156 124 }
-				color2={ 255 255 255 }
-					
-				b_soanierana_ivongo = {}
-				b_nosy_boraha = {}
-				b_ambodiampana = {}
-				b_ampasimbe = {}
-				b_ampasina_maningory = {}
-				b_vohipeno = {}
-				b_manompana = {}
-				b_ambodifototra = {}
-			}
-
-			c_toamasina = {
-				color={ 105 156 124 }
-				color2={ 255 255 255 }
-					
-				b_toamasina = {}
-				b_brickaville = {}
-				b_ambila_lemaitso = {}
-				b_mahavelona = {}
-				b_mahambo = {}
-				b_vavatenina = {}
-				b_anjahambe = {}
-				b_fenoarivo = {}
-			}
-
+			
 			c_ankazobe = {
-				color={ 105 156 124 }
+				color={ 134 194 142 }
 				color2={ 255 255 255 }
 					
 				b_ankazobe = {}
@@ -249,7 +73,7 @@ e_madagscar = {
 			}
 
 			c_bongolava = {
-				color={ 105 156 124 }
+				color={ 113 146 142 }
 				color2={ 255 255 255 }
 					
 				b_tsiroanomandidy = {}
@@ -257,41 +81,19 @@ e_madagscar = {
 				b_kiranomena = {}
 				b_saka = {}
 				b_andolofotsy = {}
-				b_miarinarivo = {}
 				b_bemahatazana = {}
 				b_mahasolo = {}
 			}
-
-			c_besalampy = {
-				color={ 105 156 124 }
-				color2={ 255 255 255 }
-					
-				b_besalampy = {}
-				b_bekodoka = {}
-				b_mahabibo = {}
-				b_soanenga = {}
-				b_sahondra = {}
-				b_mahabe = {}
-				b_antsahidoha_bebao = {}
-				b_andranomavo = {}
-			}
-
-			c_maintirano = {
-				color={ 105 156 124 }
-				color2={ 255 255 255 }
-					
-				b_maintirano = {}
-				b_bepea = {}
-				b_veromanga = {}
-				b_belitsaka = {}
-				b_tambohorano = {}
-				b_andabotoka = {}
-				b_antsalova = {}
-				b_ambinda = {}
-			}
+		}
+		
+		d_menabe = {
+			color={ 152 195 151 }
+			color2={ 255 255 255 }
+			
+			capital = 237 #c_morondava
 
 			c_beloni_tsiribihina = {
-				color={ 105 156 124 }
+				color={ 156 216 144 }
 				color2={ 255 255 255 }
 					
 				b_belo_tsiribihina = {}
@@ -304,78 +106,8 @@ e_madagscar = {
 				b_ankotrofosty = {}
 			}
 
-			c_itasy = {
-				color={ 105 156 124 }
-				color2={ 255 255 255 }
-					
-				b_miarinarivo = {}
-				b_ankisabe = {}
-				b_ampefy = {}
-				b_analavory = {}
-				b_soavinandriana = {}
-				b_mandiavato = {}
-				b_avironimamo = {}
-				b_imerintsiatosika = {}
-			}
-
-			c_antananarivo = {
-				color={ 105 156 124 }
-				color2={ 255 255 255 }
-					
-				b_antananarivo = {}
-				b_talatamaty = {}
-				b_manjakandriana = {}
-				b_ambatomanga = {}
-				b_anjepy = {}
-				b_talata_volonondry = {}
-				b_ambohitrolomahitsy = {}
-				b_tsiafahy = {}
-			}
-
-			c_moramanga = {
-				color={ 105 156 124 }
-				color2={ 255 255 255 }
-					
-				b_moramanga = {}
-				b_amboasary = {}
-				b_bembary = {}
-				b_adaingo = {}
-				b_anosibe_an_ala = {}
-				b_beparasy = {}
-				b_ambatomaro = {}
-				b_fierenana = {}
-			}
-
-			c_vatomandry = {
-				color={ 105 156 124 }
-				color2={ 255 255 255 }
-					
-				b_vatomandry = {}
-				b_maintinandry = {}
-				b_ilaka = {}
-				b_mahanoro = {}
-				b_ambodiharina = {}
-				b_marolambo = {}
-				b_masomeloka = {}
-				b_antanambao_manampotsy = {}
-			}
-
-			c_vakinankaratra = {
-				color={ 105 156 124 }
-				color2={ 255 255 255 }
-					
-				b_antsirabe = {}
-				b_ivato = {}
-				b_ambohimasina = {}
-				b_mandoto = {}
-				b_andravoahangy = {}
-				b_ambohibary = {}
-				b_antanifotsy = {}
-				b_ampitatafika = {}
-			}
-
 			c_morondava = {
-				color={ 105 156 124 }
+				color={ 110 226 144 }
 				color2={ 255 255 255 }
 					
 				b_morondava = {}
@@ -389,175 +121,27 @@ e_madagscar = {
 			}
 
 			c_mahabo = {
-				color={ 105 156 124 }
+				color={ 78 184 112 }
 				color2={ 255 255 255 }
 					
 				b_malaimbandy = {}
 				b_ambatohaly = {}
 				b_tsimazava = {}
-				b_befotaka = {}
 				b_ampasilava = {}
 				b_ankazoabo = {}
 				b_beronono = {}
 				b_ankilizato = {}
 			}
-
-			c_ambatofinandrahana = {
-				color={ 105 156 124 }
-				color2={ 255 255 255 }
-					
-				b_ambatofinandrahana = {}
-				b_mandrosonoro = {}
-				b_amborompotsy = {}
-				b_mangataboahangy = {}
-				b_ranotsara = {}
-				b_fitampito = {}
-				b_ambatomainty = {}
-				b_itremo = {}
-			}
-
-			c_amoroni_mania = {
-				color={ 105 156 124 }
-				color2={ 255 255 255 }
-					
-				b_ambositra = {}
-				b_ivato2 = {}
-				b_fandriana = {}
-				b_sandrandahy = {}
-				b_tsarazaza = {}
-				b_imito = {}
-				b_tangina = {}
-				b_andina = {}
-			}
-
-			c_vatovavy_fitovinany = {
-				color={ 105 156 124 }
-				color2={ 255 255 255 }
-					
-				b_mananjary = {}
-				b_anosimparihy = {}
-				b_vohilava = {}
-				b_ambodinonoka = {}
-				b_marokarima = {}
-				b_morafeno2 = {}
-				b_antsenavolo = {}
-				b_namorona = {}
-			}
-
-			c_manakara = {
-				color={ 105 156 124 }
-				color2={ 255 255 255 }
-					
-				b_manakara = {}
-				b_ambila = {}
-				b_ambahatrazo = {}
-				b_ifatsy = {}
-				b_andemaka = {}
-				b_amborondra = {}
-				b_bekatra = {}
-				b_lokomby = {}
-			}
-
-			c_fianarantsoa = {
-				color={ 105 156 124 }
-				color2={ 255 255 255 }
-					
-				b_fianarantsoa = {}
-				b_talata_ampano = {}
-				b_andranovorivato = {}
-				b_ambalavao = {}
-				b_ambondrona = {}
-				b_vohiposa = {}
-				b_ambalakindresy = {}
-				b_mahasoabe = {}
-			}
-
-			c_atsimo_atsinanana = {
-				color={ 105 156 124 }
-				color2={ 255 255 255 }
-					
-				b_farafagana = {}
-				b_anosivelo = {}
-				b_vangaindrano = {}
-				b_vohitrambo = {}
-				b_matanga = {}
-				b_manambondro = {}
-				b_ambatolava = {}
-				b_ranomena = {}
-			}
-
-			c_ivohibe = {
-				color={ 105 156 124 }
-				color2={ 255 255 255 }
-					
-				b_ivohibe = {}
-				b_andreaba = {}
-				b_ivongo = {}
-				b_maropaika = {}
-				b_andravindahy = {}
-				b_antambohobe = {}
-				b_iakora = {}
-				b_ranotsara_nord = {}
-			}
-
-			c_ihosy = {
-				color={ 105 156 124 }
-				color2={ 255 255 255 }
-					
-				b_ihosy = {}
-				b_zazafotsy = {}
-				b_ambatolahy = {}
-				b_ranohira = {}
-				b_ambia = {}
-				b_irina = {}
-				b_satrokala = {}
-				b_sahamboritra = {}
-			}
-
-			c_betroka = {
-				color={ 105 156 124 }
-				color2={ 255 255 255 }
-					
-				b_betroka = {}
-				b_vorokafitsa = {}
-				b_ivahona = {}
-				b_analamary = {}
-				b_jangany = {}
-				b_beliky = {}
-				b_ianakafy = {}
-				b_isoanala = {}
-			}
-
-			c_taolagnaro = {
-				color={ 105 156 124 }
-				color2={ 255 255 255 }
-					
-				b_taolagnaro = {}
-				b_ankaramena = {}
-				b_mahatalaky = {}
-				b_manambato = {}
-				b_ankaramanihy = {}
-				b_manantenina = {}
-				b_ranopiso = {}
-				b_ampasimena = {}
-			}
-
-			c_faux_cap = {
-				color={ 105 156 124 }
-				color2={ 255 255 255 }
-					
-				b_faux_cap = {}
-				b_ambovombe = {}
-				b_ambazoa = {}
-				b_tsiombe = {}
-				b_beloha = {}
-				b_ifotaka = {}
-				b_imanombo = {}
-				b_lavanono = {}
-			}
+		}
+		
+		d_atsimo_andrefana = {
+			color={ 108 202 156 }
+			color2={ 255 255 255 }
+			
+			capital = 213 #c_toliara
 
 			c_fotadrevo = {
-				color={ 105 156 124 }
+				color={ 101 210 152 }
 				color2={ 255 255 255 }
 					
 				b_fotadrevo = {}
@@ -571,7 +155,7 @@ e_madagscar = {
 			}
 
 			c_betioky_atsimo = {
-				color={ 105 156 124 }
+				color={ 132 201 147 }
 				color2={ 255 255 255 }
 					
 				b_betioky = {}
@@ -585,7 +169,7 @@ e_madagscar = {
 			}
 
 			c_toliara = {
-				color={ 105 156 124 }
+				color={ 75 226 94 }
 				color2={ 255 255 255 }
 					
 				b_toliara = {}
@@ -599,7 +183,7 @@ e_madagscar = {
 			}
 
 			c_morombe = {
-				color={ 105 156 124 }
+				color={ 139 232 131 }
 				color2={ 255 255 255 }
 					
 				b_morombe = {}
@@ -610,6 +194,500 @@ e_madagscar = {
 				b_befandriana_sud = {}
 				b_ambatomilo = {}
 				b_ambahikily = {}
+			}
+		}
+		
+		d_antsiranana = {
+			color={ 131 235 101 }
+			color2={ 255 255 255 }
+			
+			capital = 207 #c_antisiranana
+
+			c_antisiranana = {
+				color={ 151 199 114 }
+				color2={ 255 255 255 }
+					
+				b_antisiranana = {}
+				b_joffreville = {}
+				b_mangaoka = {}
+				b_bobasakoa = {}
+				b_andranovondronina = {}
+				b_antsakoabe = {}
+				b_sadjoavato = {}
+			}
+			
+			c_sava = {
+				color={ 145 193 134 }
+				color2={ 255 255 255 }
+					
+				b_antalaha = {}
+				b_ambalabe = {}
+				b_ambodipont_sahana = {}
+				b_ambohitralanana = {}
+				b_andapa = {}
+				b_ambodimanga = {}
+				b_vinanivao = {}
+				b_matsohely = {}
+			}
+
+			c_sambava = {
+				color={ 99 222 72 }
+				color2={ 255 255 255 }
+					
+				b_sambava = {}
+				b_farahalana = {}
+				b_antindra = {}
+				b_bemanevika = {}
+				b_milanoa = {}
+				b_analovana = {}
+				b_fanambana = {}
+				b_antsahakilompaha = {}
+			}
+
+			c_ambilobe = {
+				color={ 78 144 77 }
+				color2={ 255 255 255 }
+					
+				b_ambilobe = {}
+				b_ambanja = {}
+				b_bemaneviky = {}
+				b_ambaro = {}
+				b_hell_ville = {}
+				b_anaborano = {}
+				b_beramanja = {}
+				b_ambodibonara = {}
+			}
+		}
+
+		d_toamasina = {
+			color={ 82 202 99 }
+			color2={ 255 255 255 }
+			
+			capital = 212 #c_toamasina
+
+			c_toamasina = {
+				color={ 121 231 104 }
+				color2={ 255 255 255 }
+					
+				b_toamasina = {}
+				b_brickaville = {}
+				b_ambila_lemaitso = {}
+				b_mahavelona = {}
+				b_mahambo = {}
+				b_vavatenina = {}
+				b_anjahambe = {}
+				b_fenoarivo = {}
+			}
+			
+			c_aloatra_mangoro = {
+				color={ 100 172 100 }
+				color2={ 255 255 255 }
+					
+				b_amparafaravola = {}
+				b_tanambe = {}
+				b_anony = {}
+				b_andilamena = {}
+				b_amboavory = {}
+				b_antanimenabaka = {}
+				b_anororo = {}
+				b_imerimandroso = {}
+			}
+
+			c_moramanga = {
+				color={ 135 146 82 }
+				color2={ 255 255 255 }
+					
+				b_moramanga = {}
+				b_amboasary = {}
+				b_bembary = {}
+				b_adaingo = {}
+				b_anosibe_an_ala = {}
+				b_beparasy = {}
+				b_ambatomaro = {}
+				b_fierenana = {}
+			}
+
+			c_vatomandry = {
+				color={ 162 151 156 }
+				color2={ 255 255 255 }
+					
+				b_vatomandry = {}
+				b_maintinandry = {}
+				b_ilaka = {}
+				b_mahanoro = {}
+				b_ambodiharina = {}
+				b_marolambo = {}
+				b_masomeloka = {}
+				b_antanambao_manampotsy = {}
+			}
+		}
+
+		d_analanjirofo = {
+			color={ 134 245 124 }
+			color2={ 255 255 255 }
+			
+			capital = 210 #c_maroantsetra
+
+			c_maroantsetra = {
+				color={ 144 182 148 }
+				color2={ 255 255 255 }
+					
+				b_maroantsetra = {}
+				b_ambinanitelo = {}
+				b_tampolo = {}
+				b_manambolosy = {}
+				b_mananar_avaratra = {}
+				b_rantabe = {}
+				b_voloina = {}
+				b_ambanizana = {}
+			}
+
+			c_soanierana_ivongo = {
+				color={ 112 231 151 }
+				color2={ 255 255 255 }
+					
+				b_soanierana_ivongo = {}
+				b_nosy_boraha = {}
+				b_ambodiampana = {}
+				b_ampasimbe = {}
+				b_ampasina_maningory = {}
+				b_vohipeno = {}
+				b_manompana = {}
+				b_ambodifototra = {}
+			}
+		}
+
+		d_anosy = {
+			color={ 172 203 172 }
+			color2={ 255 255 255 }
+			
+			capital = 217 #c_taolagnaro
+
+			c_betroka = {
+				color={ 111 152 71 }
+				color2={ 255 255 255 }
+					
+				b_betroka = {}
+				b_vorokafitsa = {}
+				b_ivahona = {}
+				b_analamary = {}
+				b_jangany = {}
+				b_beliky = {}
+				b_ianakafy = {}
+				b_isoanala = {}
+			}
+
+			c_taolagnaro = {
+				color={ 86 172 131 }
+				color2={ 255 255 255 }
+					
+				b_taolagnaro = {}
+				b_ankaramena = {}
+				b_mahatalaky = {}
+				b_manambato = {}
+				b_ankaramanihy = {}
+				b_manantenina = {}
+				b_ranopiso = {}
+				b_ampasimena = {}
+			}
+
+			c_faux_cap = {
+				color={ 78 186 66 }
+				color2={ 255 255 255 }
+					
+				b_faux_cap = {}
+				b_ambovombe = {}
+				b_ambazoa = {}
+				b_tsiombe = {}
+				b_beloha = {}
+				b_ifotaka = {}
+				b_imanombo = {}
+				b_lavanono = {}
+			}
+		}
+		
+		d_boeny = {
+			color={ 86 176 110 }
+			color2={ 255 255 255 }
+			
+			capital = 230 #c_marovoay
+
+			c_marovoay = {
+				color={ 88 142 110 }
+				color2={ 255 255 255 }
+					
+				b_marovoay = {}
+				b_mahajanga = {}
+				b_berivotra = {}
+				b_boanamary = {}
+				b_mariarano = {}
+				b_andranoboka = {}
+				b_manaratsandry = {}
+				b_amparihy = {}
+			}
+
+			c_mitsinjo = {
+				color={ 56 154 94 }
+				color2={ 255 255 255 }
+					
+				b_mitsinjo = {}
+				b_namakia = {}
+				b_androhibe = {}
+				b_soalala = {}
+				b_bekipay = {}
+				b_antseza = {}
+				b_ambarimaninga = {}
+			}
+
+			c_madirovalo = {
+				color={ 102 128 122 }
+				color2={ 255 255 255 }
+					
+				b_madirovalo = {}
+				b_ankirihitra = {}
+				b_sitampiky = {}
+				b_sarodrano = {}
+				b_beamilaka = {}
+				b_tsaramandroso = {}
+				b_antanambazaha = {}
+				b_morafeno = {}
+			}
+
+			c_betsiboka = {
+				color={ 123 212 122 }
+				color2={ 255 255 255 }
+					
+				b_maevatanana = {}
+				b_madiromirafy = {}
+				b_antanimbary = {}
+				b_ambodiriana = {}
+				b_bekaratsaka = {}
+				b_mahatsinjo = {}
+				b_mahazoma = {}
+				b_betrandraka = {}
+			}
+		}
+		
+		d_sofia = {
+			color={ 124 169 90 }
+			color2={ 255 255 255 }
+			
+			capital = 234 #c_boriziny
+
+			c_bealanana = {
+				color={ 43 171 41 }
+				color2={ 255 255 255 }
+					
+				b_bealanana = {}
+				b_ambatosia = {}
+				b_antsamaka = {}
+				b_ambalaromba = {}
+				b_antsakabary = {}
+				b_tsarahonenana = {}
+				b_befandriana = {}
+				b_antsahabe = {}
+			}
+
+			c_analalava = {
+				color={ 89 145 77 }
+				color2={ 255 255 255 }
+					
+				b_ambodimandresy = {}
+				b_befotaka = {}
+				b_antsohihy = {}
+				b_ankerika = {}
+				b_maromandia = {}
+				b_antonibe = {}
+				b_ambondro_ampasy = {}
+				b_antrema = {}
+			}
+
+			c_boriziny = {
+				color={ 87 199 70 }
+				color2={ 255 255 255 }
+					
+				b_ampombibitika = {}
+				b_tsarahasina = {}
+				b_leanja = {}
+				b_bekoratsaka = {}
+				b_anjiajia = {}
+				b_andranomeva = {}
+				b_tsararivotra = {}
+				b_tsaratanana = {}
+			}
+
+			c_mandritsara = {
+				color={ 95 176 55 }
+				color2={ 255 255 255 }
+					
+				b_mandritsara = {}
+				b_marotandrano = {}
+				b_andohajango = {}
+				b_kalandy = {}
+				b_ambodiadabo = {}
+				b_amborodolo = {}
+				b_ambalakirajy = {}
+				b_ankarongana = {}
+			}
+		}
+		
+		d_fianarantsoa = {
+			color={ 95 124 152 }
+			color2={ 255 255 255 }
+			
+			capital = 220 #c_fianarantsoa
+
+			c_fianarantsoa = {
+				color={ 59 199 111 }
+				color2={ 255 255 255 }
+					
+				b_fianarantsoa = {}
+				b_talata_ampano = {}
+				b_andranovorivato = {}
+				b_ambalavao = {}
+				b_ambondrona = {}
+				b_vohiposa = {}
+				b_ambalakindresy = {}
+				b_mahasoabe = {}
+			}
+
+			c_ambatofinandrahana = {
+				color={ 101 123 87 }
+				color2={ 255 255 255 }
+					
+				b_ambatofinandrahana = {}
+				b_mandrosonoro = {}
+				b_amborompotsy = {}
+				b_mangataboahangy = {}
+				b_ranotsara = {}
+				b_fitampito = {}
+				b_ambatomainty = {}
+				b_itremo = {}
+			}
+
+			c_amoroni_mania = {
+				color={ 37 182 104 }
+				color2={ 255 255 255 }
+					
+				b_ambositra = {}
+				b_ivato2 = {}
+				b_fandriana = {}
+				b_sandrandahy = {}
+				b_tsarazaza = {}
+				b_imito = {}
+				b_tangina = {}
+				b_andina = {}
+			}
+			c_ivohibe = {
+				color={ 97 133 66 }
+				color2={ 255 255 255 }
+					
+				b_ivohibe = {}
+				b_andreaba = {}
+				b_ivongo = {}
+				b_maropaika = {}
+				b_andravindahy = {}
+				b_antambohobe = {}
+				b_iakora = {}
+				b_ranotsara_nord = {}
+			}
+
+			c_ihosy = {
+				color={ 98 166 120 }
+				color2={ 255 255 255 }
+					
+				b_ihosy = {}
+				b_zazafotsy = {}
+				b_ambatolahy = {}
+				b_ranohira = {}
+				b_ambia = {}
+				b_irina = {}
+				b_satrokala = {}
+				b_sahamboritra = {}
+			}
+		}
+		
+		d_manakara = {
+			color={ 153 242 124 }
+			color2={ 255 255 255 }
+			
+			capital = 387 #c_manakara
+
+			c_manakara = {
+				color={ 158 228 112 }
+				color2={ 255 255 255 }
+					
+				b_manakara = {}
+				b_ambila = {}
+				b_ambahatrazo = {}
+				b_ifatsy = {}
+				b_andemaka = {}
+				b_amborondra = {}
+				b_bekatra = {}
+				b_lokomby = {}
+			}
+
+			c_atsimo_atsinanana = {
+				color={ 100 170 111 }
+				color2={ 255 255 255 }
+					
+				b_farafagana = {}
+				b_anosivelo = {}
+				b_vangaindrano = {}
+				b_vohitrambo = {}
+				b_matanga = {}
+				b_manambondro = {}
+				b_ambatolava = {}
+				b_ranomena = {}
+			}
+			
+			c_vatovavy_fitovinany = {
+				color={ 85 199 98 }
+				color2={ 255 255 255 }
+					
+				b_mananjary = {}
+				b_anosimparihy = {}
+				b_vohilava = {}
+				b_ambodinonoka = {}
+				b_marokarima = {}
+				b_morafeno2 = {}
+				b_antsenavolo = {}
+				b_namorona = {}
+			}
+
+		}
+		d_melaky = {
+			color={ 135 251 164 }
+			color2={ 255 255 255 }
+
+			capital = 228 #c_besalampy
+
+			c_besalampy = {
+				color={ 135 224 159 }
+				color2={ 255 255 255 }
+					
+				b_besalampy = {}
+				b_bekodoka = {}
+				b_mahabibo = {}
+				b_soanenga = {}
+				b_sahondra = {}
+				b_mahabe = {}
+				b_antsahidoha_bebao = {}
+				b_andranomavo = {}
+			}
+
+			c_maintirano = {
+				color={ 123 195 85 }
+				color2={ 255 255 255 }
+					
+				b_maintirano = {}
+				b_bepea = {}
+				b_veromanga = {}
+				b_belitsaka = {}
+				b_tambohorano = {}
+				b_andabotoka = {}
+				b_antsalova = {}
+				b_ambinda = {}
 			}
 		}
 	}
