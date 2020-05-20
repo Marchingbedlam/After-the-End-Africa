@@ -67,6 +67,7 @@ west_chadic;West Chadic;;;;;;;;;;;;;x
 plateau;Plateau;;;;;;;;;;;;;x
 ##Religions
 libertarian;Libertarian;;;;;;;;;;;;;x
+libertarian_DESC;A religion native to the region of Liberia, Libertarianism focuses on the worship of the Goddess Liberty, who granted all men unalienable rights. Liberia it is said to have been founded by free slaves lead by the prophet Monroe from America to Africa in order to bring about freedom to the continent. Worship of the goddess includes her three faces Independence, prosperity, Freedom and the Founder-Saints.;;;;;;;;;;;;;x
 pan_african;Pan-African;;;;;;;;;;;;;x
 anglican;Anglican;;;;;;;;;;;;;x
 ubuntu;Ubuntu;;;;;;;;;;;;;x
@@ -100,6 +101,7 @@ GOD_AGWE;Agwe;;;;;;;;;;;;;x
 GOD_MANANNAN_MAC_LIR;Manannan Mac Lir;;;;;;;;;;;;;x
 THE_CODE;the Code;;;;;;;;;;;;;x
 PRIEST;Priest;;;;;;;;;;;;;x
+CHIEF_JUSTICE;Chief Justice;;;;;;;;;;;;;x
 LIGHTBRINGER;Lightbringer;;;;;;;;;;;;;x
 ##Misc
 steppe;Savannah;;;;;;;;;;;;;x
