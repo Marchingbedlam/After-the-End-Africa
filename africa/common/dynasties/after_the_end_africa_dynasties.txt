@@ -1,11 +1,11 @@
 ###ÄNSI
 
 1001000 = { name="Ross" culture=kwi } #Mix of Anglocized liberian groups
-1001001 = { name="King" culture = kwi } 
+1001001 = { name="Jackson" culture = kwi } 
 1001002 = { name="Eastman" culture = kwi }
 1001003 = { name="Tubman" culture = kwi }
 1001004 = { name="Grey" culture = kwi }
-1001005 = { name="Roberts" culture = kwi }
+1001005 = { name="Davis" culture = kwi }
 1001006 = { name="Benson" culture=kwi }
 1001007 = { name="Warner" culture=kwi }
 1001008 = { name="Payne" culture=kwi }
@@ -17,12 +17,12 @@
 1001014 = { name="Gibson" culture=kwi }
 1001015 = { name="Barclay" culture=kwi }
 1001016 = { name="Johnson" culture=kwi }
-1001017 = { name="Jackson" culture=kwi }
+1001017 = { name="McGill" culture=kwi }
 1001018 = { name="Greene" culture=kwi }
 1001019 = { name="Doe" culture=kwi }
 1001020 = { name="Taylor" culture=kwi }
 1001021 = { name="Roye" culture=kwi }
-1001022 = { name="McGill" culture=kwi }
+1001022 = { name="M'Critty" culture=kwi }
 1001023 = { name="Russwurm" culture=kwi }
 1001024 = { name="Drayton" culture=kwi }
 1001025 = { name="Cheeseman" culture=kwi }
@@ -87,7 +87,7 @@
 1001084 = { name="Graham" culture=kwi }
 1001085 = { name="Howard" culture=kwi }
 1001086 = { name="Cary" culture=kwi }
-1001087 = { name="Davis" culture=kwi }
+1001087 = { name="Monroe" culture=kwi }
 1001088 = { name="Teague" culture=kwi }
 1001089 = { name="Cooper" culture=kwi }
 1001090 = { name="Ayers" culture=kwi }
