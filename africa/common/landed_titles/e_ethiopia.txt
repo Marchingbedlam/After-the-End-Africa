@@ -9,7 +9,7 @@ e_ethiopia = {
 		somali="Soomaaliya"
 						
 		d_jubaland = {
-			color={ 92 163 107 }
+			color={ 77 162 207 }
 			color2={ 255 255 255 }
 
 			somali="Jubba"
@@ -56,7 +56,7 @@ e_ethiopia = {
 			}
 		}
 		d_gedo = {
-			color={ 92 163 107 }
+			color={ 99 101 202 }
 			color2={ 255 255 255 }
 
 			c_bardhere = {
@@ -85,7 +85,7 @@ e_ethiopia = {
 			}
 		}
 		d_koofur_orsi = {
-			color={ 92 163 107 }
+			color={ 122 156 223 }
 			color2={ 255 255 255 }
 
 			c_baay = {
@@ -114,7 +114,7 @@ e_ethiopia = {
 			}
 		}
 		d_banaadir = {
-			color={ 92 163 107 }
+			color={ 55 69 151 }
 			color2={ 255 255 255 }
 
 			c_mogadishu = {
@@ -173,7 +173,7 @@ e_ethiopia = {
 			}
 		}
 		d_hiiraan = {
-			color={ 92 163 107 }
+			color={ 88 121 171 }
 			color2={ 255 255 255 }
 
 			c_buuloburde = {
@@ -202,7 +202,7 @@ e_ethiopia = {
 			}
 		}
 		d_galmudug = {
-			color={ 92 163 107 }
+			color={ 111 101 145 }
 			color2={ 255 255 255 }
 
 			c_dhusamareeb = {
@@ -273,7 +273,7 @@ e_ethiopia = {
 			}
 		}
 		d_puntland = {
-			color={ 92 163 107 }
+			color={ 64 66 152 }
 			color2={ 255 255 255 }
 
 			c_nugaal = {
@@ -330,7 +330,7 @@ e_ethiopia = {
 			}
 		}
 		d_sanaag = {
-			color={ 92 163 107 }
+			color={ 91 84 199 }
 			color2={ 255 255 255 }
 
 			c_badhan = {
@@ -385,7 +385,7 @@ e_ethiopia = {
 			}
 		}
 		d_togdheer = {
-			color={ 92 163 107 }
+			color={ 87 96 251 }
 			color2={ 255 255 255 }
 
 			c_buuhoodle = {
@@ -416,7 +416,7 @@ e_ethiopia = {
 			}
 		}
 		d_somaliland = {
-			color={ 92 163 107 }
+			color={ 51 120 211 }
 			color2={ 255 255 255 }
 
 			c_sahil = {
@@ -459,7 +459,7 @@ e_ethiopia = {
 			}
 		}
 		d_ogaden = {
-			color={ 92 163 107 }
+			color={ 68 65 139 }
 			color2={ 255 255 255 }
 
 			c_dollo = {

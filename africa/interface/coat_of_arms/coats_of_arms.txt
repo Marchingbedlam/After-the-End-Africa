@@ -830,10 +830,6 @@ culture = {
 
 	templates = { 
 		"coa_plain_indian:1"
-		#"coa_party_per_fess:2"
-		#"coa_party_per_pale:2"
-		#"coa_party_per_cross:4"
-		#"coa_party_triangle:3"
 	}
 
 	color = {
@@ -887,11 +883,7 @@ culture = {
 	}
 
 	templates = { 
-		"coa_plain:1"
-		"coa_party_per_fess:2"
-		"coa_party_per_pale:2"
-		"coa_party_per_cross:4"
-		"coa_party_triangle:3"
+		"coa_plain_old:1"
 	}
 
 	color = {

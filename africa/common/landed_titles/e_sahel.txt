@@ -6,7 +6,7 @@ e_sahel = {
 	culture = senegambian
 	
 	k_senegambia = {
-		color={ 163 77 53 }
+		color={ 121 55 33 }
 		color2={ 255 255 255 }
 		
 		capital = 49 # c_oio
@@ -1858,12 +1858,6 @@ e_sahel = {
 				color2={ 255 255 255 }
 
 				b_logone_et_chari = {}
-			}
-			c_sava = {
-				color={ 175 174 72 }
-				color2={ 255 255 255 }
-
-				b_sava = {}
 			}
 			c_tsanaga = {
 				color={ 239 219 165 }
