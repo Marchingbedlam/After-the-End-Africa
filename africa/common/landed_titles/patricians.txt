@@ -2,7 +2,7 @@
 ### MERCHANT REPUBLIC PATRICIAN FAMILIES
 
 ## Monrovia
-b_king= {
+b_jackson= {
 	culture = kwi
 	religion = libertarian
 }
@@ -22,7 +22,7 @@ b_grey = {
 	religion = libertarian
 }
 
-b_roberts = {
+b_davis = {
 	culture = kwi
 	religion = libertarian
 }

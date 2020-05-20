@@ -17,7 +17,7 @@
 }
 171801={
 	name="Martin"
-	culture=british
+	culture=angloid
 	religion=anglican
 	trait=theologian
 	trait=zealous
@@ -36,16 +36,13 @@
 	2700.1.1={death=yes}
 }
 171822={
-	name="James Monroe" #
-	culture="liberian"
+	name="James" 
+	culture=kwi
 	occluded=yes
 	religion=libertarian
-	1758.5.28={
-		birth="1758.5.28"
-	}
-	1831.7.4={
-		death="1831.7.4"
-	}
+	dynasty=1001087
+	1758.5.28={birth=yes}
+	1831.7.4={death=yes}
 	trait=grey_eminence
 	trait=chaste
 	trait=temperate

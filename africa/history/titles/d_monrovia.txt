@@ -2,6 +2,9 @@
 1822‬.1.7={
 	holder=171822
 }
+1831.7.4={
+	holder=0
+}
 2300.1.1={
 	law = agnatic_succession
 	law = succ_gavelkind

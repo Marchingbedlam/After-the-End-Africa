@@ -4,9 +4,18 @@
 	culture=verdean
 	religion=catholic
 	father=1914007
+	martial=6
+	diplomacy=6
+	stewardship=4
+	intrigue=2
+	learning=2
 	trait=tough_soldier
 	trait=ambitious
 	trait=paranoid
+	trait=proud
+	trait=just
+	trait=patient
+	trait=ruthless
 
 	2627.7.24={ birth=yes }
 	2700.1.1={ death=yes }
@@ -290,6 +299,7 @@
 	trait=charitable
 	trait=brave
 	trait=proud
+	trait=sturdy
 	trait=skilled_tactician
 
 	2420.1.1={ birth=yes }
@@ -379,7 +389,7 @@
 	name=Henry
 	dynasty=9000
 	dna="hdchaabbhim"
-	culture=british
+	culture=angloid
 	religion=brethren
 	martial=5
 	diplomacy=5
