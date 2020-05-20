@@ -12,6 +12,6 @@ b_kolahun_LR = temple
 
 # Misc
 culture = kpelle
-religion = ashari
+religion = marabouti
 
 #History

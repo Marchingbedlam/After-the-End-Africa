@@ -11,7 +11,7 @@ b_ziena = city
 b_zangasso = temple
 
 # Misc
-culture = manding
-religion = ashari
+culture = senufo
+religion = tarikah
 
 #History

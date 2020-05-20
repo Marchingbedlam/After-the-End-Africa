@@ -10,6 +10,6 @@ b_rosso_MR = tribal
 
 # Misc
 culture = wolof
-religion = ashari
+religion = mouride
 
 #History

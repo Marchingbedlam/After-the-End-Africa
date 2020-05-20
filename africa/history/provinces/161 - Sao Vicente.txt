@@ -12,6 +12,6 @@ b_ribeira_brava_CV = temple
 
 # Misc
 culture = verdean
-religion = catholic
+religion = brethren
 
 #History

@@ -10,6 +10,6 @@ b_seguela = tribal
 
 # Misc
 culture = manding
-religion = ashari
+religion = catholic
 
 #History

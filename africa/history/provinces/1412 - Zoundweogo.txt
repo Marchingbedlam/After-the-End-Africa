@@ -8,7 +8,7 @@ b_manga = castle
 b_nobere = city
 
 # Misc
-culture = manding
-religion = ashari
+culture = mossi
+religion = tarikah
 
 #History

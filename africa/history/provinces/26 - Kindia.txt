@@ -11,7 +11,7 @@ b_friguiagbe_GN = city
 b_molota_GN = temple
 
 # Misc
-culture = temne
-religion = ashari
+culture = susu
+religion = tarikah
 
 #History

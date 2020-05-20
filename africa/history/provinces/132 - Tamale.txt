@@ -8,6 +8,6 @@ b_tamale = tribal
 
 # Misc
 culture = dagomba
-religion = ashari
+religion = tarikah
 
 #History

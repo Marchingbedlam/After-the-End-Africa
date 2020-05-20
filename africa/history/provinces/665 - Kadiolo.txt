@@ -12,6 +12,6 @@ b_diou = temple
 
 # Misc
 culture = senufo
-religion = ashari
+religion = tarikah
 
 #History

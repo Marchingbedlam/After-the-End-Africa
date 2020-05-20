@@ -13,6 +13,6 @@ b_kenie = city
 
 # Misc
 culture = manding
-religion = ashari
+religion = tarikah
 
 #History

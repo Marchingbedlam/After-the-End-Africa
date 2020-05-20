@@ -11,6 +11,6 @@ b_goudiri = temple
 
 # Misc
 culture = soninke
-religion = ashari
+religion = tarikah
 
 #History

@@ -12,6 +12,6 @@ b_barkinelbi = temple
 
 # Misc
 culture = fulbe
-religion = ashari
+religion = tarikah
 
 #History

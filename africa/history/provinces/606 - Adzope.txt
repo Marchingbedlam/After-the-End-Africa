@@ -10,6 +10,6 @@ b_awgu_3 = city
 
 # Misc
 culture = baoule
-religion = anglican
+religion = catholic
 
 #History

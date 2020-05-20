@@ -11,6 +11,6 @@ b_gassan = temple
 
 # Misc
 culture = dogon
-religion = ashari
+religion = tarikah
 
 #History

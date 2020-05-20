@@ -7,7 +7,7 @@ max_settlements = 3
 b_markoye = tribal
 
 # Misc
-culture = mossi
-religion = ashari
+culture = fulbe
+religion = tarikah
 
 #History

@@ -9,7 +9,7 @@ b_poin = temple
 b_dangue = city
 
 # Misc
-culture = fon
-religion = catholic
+culture = mossi
+religion = tarikah
 
 #History

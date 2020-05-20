@@ -10,6 +10,6 @@ b_macenta_GN = castle
 
 # Misc
 culture = manding
-religion = ashari
+religion = tarikah
 
 #History

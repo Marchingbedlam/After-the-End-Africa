@@ -10,6 +10,6 @@ b_djougou_3 = city
 
 # Misc
 culture = songhai
-religion = ashari
+religion = tarikah
 
 #History

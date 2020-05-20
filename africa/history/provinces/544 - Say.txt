@@ -10,6 +10,6 @@ b_torodi_NE = temple
 
 # Misc
 culture = songhai
-religion = ashari
+religion = tarikah
 
 #History

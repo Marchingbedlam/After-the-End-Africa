@@ -12,6 +12,6 @@ b_nara_3 = temple
 
 # Misc
 culture = soninke
-religion = ashari
+religion = tarikah
 
 #History

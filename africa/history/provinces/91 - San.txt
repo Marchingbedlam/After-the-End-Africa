@@ -11,7 +11,7 @@ b_somo = city
 b_yangasso = temple
 
 # Misc
-culture = dogon
-religion = ashari
+culture = manding
+religion = tarikah
 
 #History

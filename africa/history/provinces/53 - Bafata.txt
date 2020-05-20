@@ -10,6 +10,6 @@ b_bafata_GW = tribal
 
 # Misc
 culture = guinensi
-religion = ashari
+religion = mouride
 
 #History

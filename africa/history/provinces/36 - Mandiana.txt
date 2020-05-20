@@ -10,6 +10,6 @@ b_mandiana_GN = tribal
 
 # Misc
 culture = manding
-religion = ashari
+religion = tarikah
 
 #History

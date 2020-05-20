@@ -8,7 +8,7 @@ b_tanout_NE = castle
 b_oleleoua_NE = temple
 
 # Misc
-culture = kpelle
-religion = catholic
+culture = tuareg
+religion = ashari
 
 #History

@@ -10,6 +10,6 @@ b_dinguiraye_GN = tribal
 
 # Misc
 culture = manding
-religion = ashari
+religion = tarikah
 
 #History

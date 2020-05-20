@@ -8,6 +8,6 @@ b_diebougou = tribal
 
 # Misc
 culture = mossi
-religion = ashari
+religion = tarikah
 
 #History

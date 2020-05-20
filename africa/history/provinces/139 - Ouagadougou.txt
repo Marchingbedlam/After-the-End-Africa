@@ -10,6 +10,6 @@ b_ouagadougou = tribal
 
 # Misc
 culture = mossi
-religion = ashari
+religion = tarikah
 
 #History

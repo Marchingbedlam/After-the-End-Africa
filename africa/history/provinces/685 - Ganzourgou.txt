@@ -9,7 +9,7 @@ b_mogtedo = temple
 b_meguet = city
 
 # Misc
-culture = yoruba
-religion = anglican #yoruba
+culture = mossi
+religion = tarikah
 
 #History

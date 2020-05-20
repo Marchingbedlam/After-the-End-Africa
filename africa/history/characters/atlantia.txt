@@ -248,6 +248,7 @@
 	dynasty=1901001 #Barbosa
 	culture=verdean
 	religion=brethren
+	father=1914032
 
 	trait=one_eyed
 	trait=one_legged
@@ -276,6 +277,103 @@
 
 	2632.1.1={ birth=yes }
 	2700.1.1={ death=yes }
+}
+1914024={
+	name="Alberto"
+	dynasty=1901001 #Barbosa
+	culture=verdean
+	religion=brethren
+
+	trait=fair
+	trait=shrewd
+	trait=ambitious
+	trait=charitable
+	trait=brave
+	trait=proud
+	trait=skilled_tactician
+
+	2420.1.1={ birth=yes }
+	2471.1.1={ death=yes }
+}
+1914025={
+	name="Sebastião"
+	dynasty=1901001 #Barbosa
+	culture=verdean
+	religion=brethren
+	father=1914024
+
+	2444.1.1={ birth=yes }
+	2500.1.1={ death=yes }
+}
+1914026={
+	name="Aníbal"
+	dynasty=1901001 #Barbosa
+	culture=verdean
+	religion=brethren
+	father=1914025
+
+	2465.1.1={ birth=yes }
+	2522.1.1={ death=yes }
+}
+1914027={
+	name="Alberto"
+	dynasty=1901001 #Barbosa
+	culture=verdean
+	religion=brethren
+	father=1914026
+
+	2490.1.1={ birth=yes }
+	2557.1.1={ death=yes }
+}
+1914028={
+	name="Alberto"
+	dynasty=1901001 #Barbosa
+	culture=verdean
+	religion=brethren
+	father=1914027
+
+	2511.1.1={ birth=yes }
+	2570.1.1={ death=yes }
+}
+1914029={
+	name="Henrique"
+	dynasty=1901001 #Barbosa
+	culture=verdean
+	religion=brethren
+	father=1914028
+
+	2539.1.1={ birth=yes }
+	2590.1.1={ death=yes }
+}
+1914030={
+	name="Jerónimo"
+	dynasty=1901001 #Barbosa
+	culture=verdean
+	religion=brethren
+	father=1914029
+
+	2560.1.1={ birth=yes }
+	2615.1.1={ death=yes }
+}
+1914031={
+	name="Otelo"
+	dynasty=1901001 #Barbosa
+	culture=verdean
+	religion=brethren
+	father=1914030
+
+	2584.1.1={ birth=yes }
+	2646.1.1={ death=yes }
+}
+1914032={
+	name="António"
+	dynasty=1901001 #Barbosa
+	culture=verdean
+	religion=brethren
+	father=1914031
+
+	2600.1.1={ birth=yes }
+	2653.1.1={ death=yes }
 }
 1914200={
 	name=Henry

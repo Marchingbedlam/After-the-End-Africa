@@ -9,7 +9,6 @@ b_tahoua_NE = city
 b_bambay_NE = temple
 
 # Misc
-culture = kpelle
-religion = catholic
-
+culture = tuareg
+religion = ashari
 #History

@@ -8,6 +8,6 @@ b_buipe = tribal
 
 # Misc
 culture = dagomba
-religion = ashari
+religion = tarikah
 
 #History

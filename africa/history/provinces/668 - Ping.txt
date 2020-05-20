@@ -9,6 +9,6 @@ b_sabuli = temple
 
 # Misc
 culture = dagomba
-religion = ashari
+religion = tarikah
 
 #History

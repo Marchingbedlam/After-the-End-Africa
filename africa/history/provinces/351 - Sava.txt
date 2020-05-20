@@ -1,0 +1,13 @@
+# County Title
+title = c_sava
+
+# Settlements
+max_settlements = 3
+
+b_sava = castle
+
+# Misc
+culture = kpelle
+religion = catholic
+
+#History

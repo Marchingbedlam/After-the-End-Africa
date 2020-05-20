@@ -9,7 +9,7 @@ b_bane = city
 b_sangha = temple
 
 # Misc
-culture = manding
-religion = ashari
+culture = gurunsi
+religion = tarikah
 
 #History

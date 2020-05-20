@@ -12,6 +12,6 @@ b_oudalaye_SN = temple
 
 # Misc
 culture = fulbe
-religion = ashari
+religion = mouride
 
 #History

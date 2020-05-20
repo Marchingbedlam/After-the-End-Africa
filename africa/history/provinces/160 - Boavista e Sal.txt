@@ -11,6 +11,6 @@ b_palmeira_CV = city
 
 # Misc
 culture = verdean
-religion = catholic
+religion = brethren
 
 #History

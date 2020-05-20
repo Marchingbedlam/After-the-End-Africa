@@ -12,6 +12,6 @@ b_sikhourou_GN = temple
 
 # Misc
 culture = temne
-religion = ashari
+religion = tarikah
 
 #History

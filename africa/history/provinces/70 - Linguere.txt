@@ -11,7 +11,7 @@ b_dahra_SN = city
 b_mbeuleukhe_SN = temple
 
 # Misc
-culture = fulbe
+culture = wolof
 religion = mouride
 
 #History

@@ -8,7 +8,7 @@ b_mondo_TD = castle
 b_ngouri_TD = city
 
 # Misc
-culture = kpelle
-religion = catholic
+culture = kanuri
+religion = tarikah
 
 #History

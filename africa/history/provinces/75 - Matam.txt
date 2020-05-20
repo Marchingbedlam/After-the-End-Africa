@@ -12,6 +12,6 @@ b_thilogne_SN = temple
 
 # Misc
 culture = wolof
-religion = ashari
+religion = mouride
 
 #History

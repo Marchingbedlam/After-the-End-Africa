@@ -8,6 +8,6 @@ b_odienne = tribal
 
 # Misc
 culture = manding
-religion = ashari
+religion = tarikah
 
 #History

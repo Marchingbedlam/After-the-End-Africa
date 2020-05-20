@@ -47,9 +47,6 @@ sahel = {
 		}
 		
 
-		male_patronym = "dan "
-		female_patronym = "bint "
-		prefix = yes 
 	}
 	dogon = {
 		graphical_cultures = { westafricangfx africangfx }

@@ -9,7 +9,7 @@ b_madiama = temple
 b_kouakourou = city
 
 # Misc
-culture = hausa
-religion = ashari
+culture = songhai
+religion = tarikah
 
 #History

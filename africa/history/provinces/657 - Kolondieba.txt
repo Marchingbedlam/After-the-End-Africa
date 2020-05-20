@@ -9,7 +9,7 @@ b_bougoula = temple
 b_tousseguela = city
 
 # Misc
-culture = hausa
-religion = ashari
+culture = manding
+religion = tarikah
 
 #History

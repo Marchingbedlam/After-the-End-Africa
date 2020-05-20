@@ -12,6 +12,6 @@ b_kolokani_3 = temple
 
 # Misc
 culture = soninke
-religion = ashari
+religion = tarikah
 
 #History

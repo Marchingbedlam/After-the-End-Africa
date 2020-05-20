@@ -9,7 +9,7 @@ b_katibougou = temple
 b_koula = city
 
 # Misc
-culture = gbagi
-religion = ashari
+culture = manding
+religion = tarikah
 
 #History

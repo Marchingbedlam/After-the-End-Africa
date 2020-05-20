@@ -12,6 +12,6 @@ b_tougnifili_GN = temple
 
 # Misc
 culture = susu
-religion = ashari
+religion = tarikah
 
 #History

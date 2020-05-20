@@ -8,7 +8,7 @@ max_settlements = 3
 b_gourma_rharous = castle
 
 # Misc
-culture = fulbe
-religion = ashari
+culture = songhai
+religion = tarikah
 
 #History

@@ -8,6 +8,6 @@ b_aleg_MR = tribal
 
 # Misc
 culture = fulbe
-religion = ashari
+religion = mouride
 
 #History

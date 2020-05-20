@@ -9,7 +9,7 @@ b_bankass = city
 b_yadianga = temple
 
 # Misc
-culture = fulbe
-religion = ashari
+culture = dogon
+religion = tarikah
 
 #History

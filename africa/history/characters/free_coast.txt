@@ -169,7 +169,7 @@
 	name="Arouna"
 	dynasty=1841016
 	culture=mende
-	religion=ashari
+	religion=marabouti
 	martial=4
 	diplomacy=3
 	stewardship=4
@@ -464,7 +464,7 @@
 	name="Mohamed"
 	dynasty=1841016
 	culture=mende
-	religion=ashari
+	religion=marabouti
 	father=1000113
 	trait=martial_cleric 
 	trait=cynical
@@ -478,7 +478,7 @@
 	name="Joseph"
 	dynasty=1841016
 	culture=mende
-	religion=ashari
+	religion=marabouti
 	father=1000113
 	trait=tough_soldier
 	trait=zealous	
@@ -490,7 +490,7 @@
 	name="Islam"
 	dynasty=1841016
 	culture=mende
-	religion=ashari
+	religion=marabouti
 	father=1000113
 	trait=tough_soldier 
 	trait=strong
@@ -506,7 +506,7 @@
 	name="Solomon"
 	dynasty=1841016
 	culture=mende
-	religion=ashari
+	religion=marabouti
 	father=1000113
 	trait=martial_cleric 
 	trait=kind
@@ -520,7 +520,7 @@
 	name="Muzaffar"
 	dynasty=1841016
 	culture=mende
-	religion=ashari
+	religion=marabouti
 	father=1000113
 	trait=misguided_warrior 
 	trait=slow

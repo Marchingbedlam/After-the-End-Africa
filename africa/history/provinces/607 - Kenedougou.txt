@@ -8,7 +8,7 @@ b_orodara = castle
 b_samorogouan = temple
 
 # Misc
-culture = igbo
-religion = anglican
+culture = manding
+religion = tarikah
 
 #History

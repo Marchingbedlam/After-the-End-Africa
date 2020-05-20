@@ -7,7 +7,7 @@ max_settlements = 4
 b_gaoua = tribal
 
 # Misc
-culture = mossi
-religion = ashari
+culture = dagomba
+religion = tarikah
 
 #History

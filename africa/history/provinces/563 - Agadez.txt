@@ -9,7 +9,7 @@ b_agadez_NE = city
 b_in_gall_NE = temple
 
 # Misc
-culture = kpelle
-religion = catholic
+culture = tuareg
+religion = ashari
 
 #History

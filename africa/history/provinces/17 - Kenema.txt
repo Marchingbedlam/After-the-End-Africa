@@ -12,6 +12,6 @@ b_blama_SL = temple
 
 # Misc
 culture = mende
-religion = ashari
+religion = marabouti
 
 #History

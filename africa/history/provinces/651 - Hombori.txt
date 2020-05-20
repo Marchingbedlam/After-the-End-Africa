@@ -8,7 +8,7 @@ b_hombori = castle
 b_kormi = temple
 
 # Misc
-culture = hausa
-religion = ashari
+culture = songhai
+religion = tarikah
 
 #History

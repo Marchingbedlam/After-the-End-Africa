@@ -12,6 +12,6 @@ b_konodimini = temple
 
 # Misc
 culture = manding
-religion = ashari
+religion = tarikah
 
 #History

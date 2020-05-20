@@ -6,12 +6,12 @@ title = c_bafing
 # Settlements
 max_settlements = 3
 
-b_bafing = castle
-b_bafing_2 = city
-b_bafing_3 = temple
+b_touba = castle
+b_botoula = city
+b_koro = temple
 
 # Misc
 culture = manding
-religion = ashari
+religion = catholic
 
 #History

@@ -9,6 +9,6 @@ b_ouahigouya = tribal
 
 # Misc
 culture = mossi
-religion = ashari
+religion = tarikah
 
 #History

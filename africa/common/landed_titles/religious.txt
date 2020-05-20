@@ -60,9 +60,10 @@ k_catholic = {
 	
 	# Regnal names
 	male_names = {
-		Agapetus Alexander Anastasius Anatolius Benedictus Bonifatius Caelestinus Callistus Clemens Damasus Decimus Eugenius Felix Fidelis Formosus Franciscus Leo
-		Gregorius Hadrianus Honorius Innocentius Ioannes Iosephus Julius Lucius Marcellus Marinus Martinus
-		Nicolaus Nonus Octavius Pacificus Pascalis Paulus Pelagius Petrus Pius Primus Quartus Quintus Secundus Septimius Sergius Silvester Simplicius Sixtus Sphragidus Stephanus Tertius Theodorus Tridentinus Urbanus Victor 
+		Agapetus Alexander Anastasius Anatolius Augustinus Benedictus Bonifatius Caelestinus Caetanus Callistus Clemens Damasus Decimus Emmanuel Ephraim Eugenius Eusebius Evaristus Felix Fidelis Florentius Formosus Franciscus
+		Gregorius Hadrianus Honorius Iacomus Ignatius Ilidius Innocentius Ioannes Iosephus Julius Juvenalis Laurentius Leo Lucius Marcellus Marinus Martinus
+		Nicolaus Nonus Octavius Pacificus Pascalis Paulus Pelagius Petrus Philippus Pius Primus Quartus Quintus Raphael Sebastianus Secundus Septimius Seraphinus Sergius Silvester Simplicius Sixtus Sphragidus Stephanus 
+		Tertius Theodorus Urbanus Valentinus Victor 
 	}
 }
 k_anglican = {

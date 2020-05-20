@@ -8,7 +8,7 @@ b_gao = castle
 b_bourem = city
 
 # Misc
-culture = tuareg
+culture = songhai
 religion = ashari
 
 #History

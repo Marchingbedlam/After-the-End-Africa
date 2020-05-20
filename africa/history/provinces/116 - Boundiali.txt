@@ -9,6 +9,6 @@ b_boundiali = tribal
 
 # Misc
 culture = senufo
-religion = ashari
+religion = tarikah
 
 #History

@@ -9,7 +9,7 @@ b_maradi_NE = city
 b_madarounfa_NE = temple
 
 # Misc
-culture = kpelle
-religion = catholic
+culture = hausa
+religion = tarikah
 
 #History

@@ -9,6 +9,6 @@ b_niakaramandougou = tribal
 
 # Misc
 culture = senufo
-religion = ashari
+religion = catholic
 
 #History

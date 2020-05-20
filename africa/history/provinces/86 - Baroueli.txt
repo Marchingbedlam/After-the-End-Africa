@@ -9,7 +9,7 @@ b_baroueli = castle
 b_konobougou = temple
 
 # Misc
-culture = fulbe
-religion = ashari
+culture = manding
+religion = tarikah
 
 #History

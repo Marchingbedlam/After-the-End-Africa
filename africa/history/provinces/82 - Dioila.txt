@@ -11,6 +11,6 @@ b_fana = temple
 
 # Misc
 culture = manding
-religion = ashari
+religion = tarikah
 
 #History

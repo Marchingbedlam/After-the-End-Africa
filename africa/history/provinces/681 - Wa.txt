@@ -10,6 +10,6 @@ b_kaleo = city
 
 # Misc
 culture = dagomba
-religion = ashari
+religion = tarikah
 
 #History

@@ -10,6 +10,6 @@ b_mali_GN = tribal
 
 # Misc
 culture = fulbe
-religion = ashari
+religion = marabouti
 
 #History

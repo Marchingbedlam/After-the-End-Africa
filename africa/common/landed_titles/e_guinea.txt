@@ -744,13 +744,359 @@ e_guinea = {
 			}
 		}
 	}
-	k_ivory_coast = {
+	k_kong = {
 		color={ 142 135 34 }
 		color2={ 255 255 255 }
 		
 		capital = 98 # c_nawa
 		culture = kru
 		
+		d_denguele = {
+			color={ 138 161 27 }
+			color2={ 255 255 255 }
+			
+			capital = 116 # c_poro
+			
+			c_denguele = {
+				color={ 121 152 56 }
+				color2={ 255 255 255 }
+				
+				b_odienne = {}
+				b_zievaso = {}
+				b_tieme = {}
+				b_kimbirila = {}
+				b_samatiglia = {}
+				b_mafele = {}
+				b_goulia = {}
+			}
+			
+			c_poro = { # 116
+				color={ 128 171 22 }
+				color2={ 255 255 255 }
+				
+				b_poro = {}
+			}
+			c_kabadougou = { # 117
+				color={ 106 136 34 }
+				color2={ 255 255 255 }
+				
+				b_kabadougou = {}
+			}
+			c_worodougou = { # 118
+				color={ 66 84 24 }
+				color2={ 255 255 255 }
+				
+				b_seguela = {}
+				b_kato = {}
+				b_kani = {}
+				b_banandje = {}
+				b_morondo = {}
+				b_fadyadougou = {}
+				b_babien = {}
+			}
+		}
+		d_montagnes = {
+			color={ 137 159 30 }
+			color2={ 255 255 255 }
+			
+			capital = 114 # c_bafing
+			
+			c_bafing = {
+				color={ 127 169 25 }
+				color2={ 255 255 255 }
+				
+				b_touba = {}
+				b_botoula = {}
+				b_koro = {}
+				b_bianko = {}
+				b_gouekan = {}
+				b_niokosso = {}
+				b_nibila = {}
+			}
+			c_cavally = {
+				color={ 108 142 49 }
+				color2={ 255 255 255 }
+				
+				b_duekoue = {}
+				b_banhiei = {}
+				b_guiglo = {}
+				b_kaine = {}
+				b_zagne = {}
+				b_bangolo = {}
+				b_guezon = {}
+			}
+			c_danane = {
+				color={ 58 111 41 }
+				color2={ 255 255 255 }
+				
+				b_danane = {}
+				b_man = {}
+				b_daleu = {}
+				b_biankouma = {}
+				b_logouale = {}
+				b_zouan_hounien = {}
+				b_beapleu = {}
+			}
+		}
+		d_zanzan = {
+			color={ 118 126 44 }
+			color2={ 255 255 255 }
+			
+			capital = 108 # c_hambol
+			
+			c_hambol = {
+				color={ 108 136 39 }
+				color2={ 255 255 255 }
+				
+				b_niakaramandougou = {}
+				b_kafine = {}
+				b_noumouso = {}
+				b_nyemankaha = {}
+				b_katiola = {}
+				b_dabakala = {}
+				b_foumbolo = {}
+			}
+			c_ferkessedougou = {
+				color={ 123 141 69 }
+				color2={ 255 255 255 }
+				
+				b_ferkessedougou = {}
+				b_sikolo = {}
+				b_kouloukorosso = {}
+				b_koumbala = {}
+				b_kaouara = {}
+				b_diawala = {}
+				b_nasien = {}
+				b_kong = {}
+			}
+			c_bouna = {
+				color={ 114 151 25 }
+				color2={ 255 255 255 }
+				
+				b_bouna = {}
+				b_koitan_tehini = {}
+				b_medena = {}
+				b_latourgo = {}
+				b_zamou = {}
+				b_nougoa = {}
+				b_hevero = {}
+			}
+		}
+		d_poro = {
+			color={ 118 126 44 }
+			color2={ 255 255 255 }
+			
+			capital = 108 # c_hambol
+
+			c_korhogo = {
+				color={ 56 112 51 }
+				color2={ 255 255 255 }
+				
+				b_korhogo = {}
+				b_sologo = {}
+				b_dikodougou = {}
+				b_kadioha = {}
+				b_tarato = {}
+				b_kohaka = {}
+				b_nganon = {}
+			}
+			c_boundiali = {
+				color={ 111 86 55 }
+				color2={ 255 255 255 }
+				
+				b_boundiali = {}
+				b_bolona = {}
+				b_womon = {}
+				b_kolia = {}
+				b_guemou = {}
+				b_monongo = {}
+				b_mahale = {}
+			}
+			c_kadiolo = {
+				color={ 143 129 84 }
+				color2={ 255 255 255 }
+				
+				b_kadiolo = {}
+				b_zegoua = {}
+				b_diou = {}
+				b_fourou = {}
+				b_bananso = {}
+				b_kai = {}
+				b_loulouni = {}
+			}
+		}
+		d_kong = {
+			color={ 118 126 44 }
+			color2={ 255 255 255 }
+			
+			capital = 108 # c_hambol
+
+			c_bobo_dioulasso = {
+				color={ 85 115 163 }
+				color2={ 255 255 255 }
+				
+				b_bobo_dioulasso = {}
+				b_moami = {}
+				b_peni = {}
+				b_satiri = {}
+				b_larama = {}
+				b_kofila = {}
+				b_bama = {}
+			}
+			c_kenedougou = {
+				color={ 117 162 84 }
+				color2={ 255 255 255 }
+				
+				b_orodara = {}
+				b_samorogouan = {}
+				b_dialakoro = {}
+				b_faniga = {}
+				b_bleni = {}
+				b_ndorola = {}
+				b_kourouma = {}
+			}
+			c_comoe = { # 138
+				color={ 237 189 40 }
+				color2={ 255 255 255 }
+				
+				b_banfora = {}
+				b_mangodara = {}
+				b_koutoura = {}
+				b_kouere = {}
+				b_dandougou = {}
+				b_ouo = {}
+				b_degue_degue = {}
+			}
+		}
+	}
+	k_volta = {
+		color={ 181 94 54 }
+		color2={ 255 255 255 }
+		
+		capital = 119 # c_elmini
+		culture = akan
+		
+		d_eweland = {
+			color={ 177 97 32 }
+			color2={ 255 255 255 }
+			
+			capital = 569 # c_lome
+			
+			c_wawa = {
+				color={ 185 151 45 }
+				color2={ 255 255 255 }
+				
+				b_badou = {}
+				b_aveho = {}
+				b_godzo = {}
+				b_dzogbegan = {}
+				b_tomegbe = {}
+				b_klabe = {}
+				b_kpalime = {}
+			}
+			c_ho = {
+				color={ 131 107 29 }
+				color2={ 255 255 255 }
+				
+				b_ho = {}
+				b_hohoe = {}
+				b_gbi_wegbe = {}
+				b_golokwati = {}
+				b_matse = {}
+				b_kpando = {}
+				b_jasikan = {}
+			}
+			c_tongu = {
+				color={ 182 135 25 }
+				color2={ 255 255 255 }
+				
+				b_akatsi = {}
+				b_anloga = {}
+				b_klikor_agbozume = {}
+				b_dzodze = {}
+				b_mafi_kumase = {}
+				b_apeguso = {}
+				b_ave_dakpa = {}
+				b_sogakope = {}
+			}
+			c_lome = {
+				color={ 170 157 25 }
+				color2={ 255 255 255 }
+				
+				b_lome = {}
+				b_agbelouve = {}
+				b_kovie = {}
+				b_foret_d_lili = {}
+				b_keve = {}
+				b_akepe = {}
+				b_agouenive = {}
+			}
+			c_vo = {
+				color={ 125 111 52 }
+				color2={ 255 255 255 }
+				
+				b_vogan = {}
+				b_aneho = {}
+				b_togoville = {}
+				b_grand_popo = {}
+				b_tabligo = {}
+				b_kouve = {}
+				b_zafi = {}
+			}
+			c_ogou = {
+				color={ 152 135 61 }
+				color2={ 255 255 255 }
+				
+				b_atakpame = {}
+				b_glei = {}
+				b_illama = {}
+				b_alale = {}
+				b_wahala = {}
+				b_notse = {}
+				b_kpedome = {}
+			}
+			c_tchaoudjo = {
+				color={ 121 162 26 }
+				color2={ 255 255 255 }
+				
+				b_babde = {}
+				b_koloware = {}
+				b_agoulou = {}
+				b_azaza = {}
+				b_tchalo = {}
+				b_tchamba = {}
+			}
+			c_kozah = {
+				color={ 87 121 62 }
+				color2={ 255 255 255 }
+				
+				b_kara = {}
+				b_lassa = {}
+				b_niamtougou = {}
+				b_bafilo = {}
+				b_kpagouda = {}
+				b_kande = {}
+				b_agbassa = {}
+				b_aloum = {}
+			}
+			c_sokode = {
+				color={ 183 161 90 }
+				color2={ 255 255 255 }
+					
+					b_sokode_1 = {}
+					b_sokode_2 = {}
+					b_sokode_3 = {}
+				}
+			}
+		}
+	}
+	k_akanland = {
+		color={ 89 44 190 }
+		color2={ 255 255 255 }
+		
+		capital = 6
+		culture = asante
+
 		d_bas_sassandra = {
 			color={ 122 155 24 }
 			color2={ 255 255 255 }
@@ -864,50 +1210,6 @@ e_guinea = {
 				b_ketesso = {}
 			}
 		}
-		d_denguele = {
-			color={ 138 161 27 }
-			color2={ 255 255 255 }
-			
-			capital = 116 # c_poro
-			
-			c_denguele = {
-				color={ 121 152 56 }
-				color2={ 255 255 255 }
-				
-				b_odienne = {}
-				b_zievaso = {}
-				b_tieme = {}
-				b_kimbirila = {}
-				b_samatiglia = {}
-				b_mafele = {}
-				b_goulia = {}
-			}
-			
-			c_poro = { # 116
-				color={ 128 171 22 }
-				color2={ 255 255 255 }
-				
-				b_poro = {}
-			}
-			c_kabadougou = { # 117
-				color={ 106 136 34 }
-				color2={ 255 255 255 }
-				
-				b_kabadougou = {}
-			}
-			c_worodougou = { # 118
-				color={ 66 84 24 }
-				color2={ 255 255 255 }
-				
-				b_seguela = {}
-				b_kato = {}
-				b_kani = {}
-				b_banandje = {}
-				b_morondo = {}
-				b_fadyadougou = {}
-				b_babien = {}
-			}
-		}
 		d_lacs = {
 			color={ 124 147 40 }
 			color2={ 255 255 255 }
@@ -963,112 +1265,6 @@ e_guinea = {
 				b_banabo = {}
 				b_kotobi = {}
 			}
-		}
-		d_marahoue = {
-			color={ 112 147 8 }
-			color2={ 255 255 255 }
-			
-			capital = 111 # c_goh
-			
-			c_gagnoa = {
-				color={ 102 157 3 }
-				color2={ 255 255 255 }
-				
-				b_gagnoa = {}
-				b_guiberoua = {}
-				b_tipadipa = {}
-				b_seryo = {}
-				b_tonla = {}
-				b_bayota = {}
-				b_lakota = {}
-				b_sokouriberipalehoin = {}
-			}
-			c_soubre = {
-				color={ 70 95 26 }
-				color2={ 255 255 255 }
-				
-				b_soubre = {}
-				b_okrouyo = {}
-				b_yabayo = {}
-				b_zadieguhe = {}
-				b_braguhe = {}
-				b_grihiri = {}
-				b_tai = {}
-			}
-			c_haut_sassandra = {
-				color={ 88 127 17 }
-				color2={ 255 255 255 }
-				
-				b_daloa = {}
-				b_vavoua = {}
-				b_gamonia = {}
-				b_issia = {}
-				b_gonate = {}
-				b_broma = {}
-				b_babouifla = {}
-			}
-		}
-		d_montagnes = {
-			color={ 137 159 30 }
-			color2={ 255 255 255 }
-			
-			capital = 114 # c_bafing
-			
-			c_bafing = {
-				color={ 127 169 25 }
-				color2={ 255 255 255 }
-				
-				b_touba = {}
-				b_botoula = {}
-				b_koro = {}
-				b_bianko = {}
-				b_gouekan = {}
-				b_niokosso = {}
-				b_nibila = {}
-			}
-			c_cavally = {
-				color={ 108 142 49 }
-				color2={ 255 255 255 }
-				
-				b_duekoue = {}
-				b_banhiei = {}
-				b_guiglo = {}
-				b_kaine = {}
-				b_zagne = {}
-				b_bangolo = {}
-				b_guezon = {}
-			}
-			c_danane = {
-				color={ 58 111 41 }
-				color2={ 255 255 255 }
-				
-				b_danane = {}
-				b_man = {}
-				b_daleu = {}
-				b_biankouma = {}
-				b_logouale = {}
-				b_zouan_hounien = {}
-				b_beapleu = {}
-			}
-		}
-		d_zanzan = {
-			color={ 118 126 44 }
-			color2={ 255 255 255 }
-			
-			capital = 108 # c_hambol
-			
-			c_hambol = {
-				color={ 108 136 39 }
-				color2={ 255 255 255 }
-				
-				b_niakaramandougou = {}
-				b_kafine = {}
-				b_noumouso = {}
-				b_nyemankaha = {}
-				b_katiola = {}
-				b_dabakala = {}
-				b_foumbolo = {}
-			}
 			c_mbahiakro = {
 				color={ 108 136 39 }
 				color2={ 255 255 255 }
@@ -1081,40 +1277,7 @@ e_guinea = {
 				b_kouassikro = {}
 				b_kraya = {}
 			}
-			c_ferkessedougou = {
-				color={ 123 141 69 }
-				color2={ 255 255 255 }
-				
-				b_ferkessedougou = {}
-				b_sikolo = {}
-				b_kouloukorosso = {}
-				b_koumbala = {}
-				b_kaouara = {}
-				b_diawala = {}
-				b_nasien = {}
-				b_kong = {}
-			}
-			c_bouna = {
-				color={ 114 151 25 }
-				color2={ 255 255 255 }
-				
-				b_bouna = {}
-				b_koitan_tehini = {}
-				b_medena = {}
-				b_latourgo = {}
-				b_zamou = {}
-				b_nougoa = {}
-				b_hevero = {}
-			}
 		}
-	}
-	k_volta = {
-		color={ 181 94 54 }
-		color2={ 255 255 255 }
-		
-		capital = 119 # c_elmini
-		culture = akan
-		
 		d_ankobra = {
 			color={ 161 114 44 }
 			color2={ 255 255 255 }
@@ -1230,335 +1393,6 @@ e_guinea = {
 				b_akyerensua = {}
 			}
 		}
-		d_gambaga = {
-			color={ 179 131 56 }
-			color2={ 255 255 255 }
-			
-			capital = 135 # Mamprusi
-			
-			c_mamprusi = {
-				color={ 169 141 51 }
-				color2={ 255 255 255 }
-				
-				b_wulugu = {}
-				b_walewale = {}
-				b_gbimsi = {}
-				b_zangu = {}
-				b_yamah = {}
-				b_wiema = {}
-				b_kpasenkpe = {}
-			}
-			c_kpendjal = {
-				color={ 138 122 71 }
-				color2={ 255 255 255 }
-				
-				b_mandouri = {}
-				b_bogou = {}
-				b_lotogou = {}
-				b_ogaro = {}
-				b_nadioum = {}
-				b_ponio = {}
-				b_korbongou = {}
-			}
-			c_bolgatanga = { # 136
-				color={ 197 173 94 }
-				color2={ 255 255 255 }
-				
-				b_bolgatanga = {}
-				b_navrongo = {}
-				b_sandema = {}
-				b_tongo = {}
-				b_binaba = {}
-				b_zebilla = {}
-				b_bazua = {}
-			}
-			c_tamale = {
-				color={ 148 102 101 }
-				color2={ 255 255 255 }
-				
-				b_tamale = {}
-				b_savelugu = {}
-				b_tindan = {}
-				b_kumbungu = {}
-				b_adubiliyili = {}
-				b_nyankpala = {}
-				b_tolon = {}
-			}
-			c_gonja = {
-				color={ 103 141 135 }
-				color2={ 255 255 255 }
-				
-				b_buipe = {}
-				b_tamale_port = {}
-				b_mankpan = {}
-				b_fulfoso = {}
-				b_kebiesu = {}
-				b_larabanga = {}
-				b_mognori = {}
-				b_konkori = {}
-			}
-			c_east_gonja = {
-				color={ 124 111 140 }
-				color2={ 255 255 255 }
-				
-				b_salaga = {}
-				b_kpembe = {}
-				b_binjai = {}
-				b_old_makongo = {}
-				b_kalande = {}
-				b_kulupene = {}
-				b_palbe = {}
-			}
-		}
-		d_gaoua = {
-			color={ 227 199 35 }
-			color2={ 255 255 255 }
-			
-			capital = 138 # Comoe
-			
-			c_comoe = { # 138
-				color={ 237 189 40 }
-				color2={ 255 255 255 }
-				
-				b_banfora = {}
-				b_mangodara = {}
-				b_koutoura = {}
-				b_kouere = {}
-				b_dandougou = {}
-				b_ouo = {}
-				b_degue_degue = {}
-			}
-			c_poni = {
-				color={ 156 121 26 }
-				color2={ 255 255 255 }
-				
-				b_gaoua = {}
-				b_kampti = {}
-				b_bobeta = {}
-				b_wiho = {}
-				b_kanba = {}
-				b_nako = {}
-				b_loropeni = {}
-			}
-			c_ping = {
-				color={ 222 145 122 }
-				color2={ 255 255 255 }
-				
-				b_ping = {}
-				b_sabuli = {}
-				b_kanbaa = {}
-				b_lawra = {}
-				b_jeffisi = {}
-				b_desima = {}
-				b_tumu = {}
-			}
-			c_wa = {
-				color={ 255 201 0 }
-				color2={ 255 255 255 }
-				
-				b_wa = {}
-				b_charia = {}
-				b_siriyiri = {}
-				b_kaleo = {}
-				b_sambo = {}
-				b_mengwe = {}
-				b_baayiri = {}
-			}
-		}
-		d_mouhoun = {
-			color={ 121 81 32 }
-			color2={ 255 255 255 }
-			
-			capital = 128 # c_kintampo
-			
-			c_kintampo = { # 128
-				color={ 111 91 27 }
-				color2={ 255 255 255 }
-				
-				b_kintampo = {}
-			}
-			c_bui = { # 130
-				color={ 198 173 91 }
-				color2={ 255 255 255 }
-				
-				b_bui = {}
-			}
-			c_mpaha = { # 131
-				color={ 214 178 59 }
-				color2={ 255 255 255 }
-				
-				b_mpaha = {}
-			}
-			c_tanda = {
-				color={ 160 135 55 }
-				color2={ 255 255 255 }
-				
-				b_tanda = {}
-				b_sandeque = {}
-				b_sanlo = {}
-				b_bondoukou = {}
-				b_herebo = {}
-				b_koun_fao = {}
-				b_banhui = {}
-			}
-		}
-		d_eweland = {
-			color={ 177 97 32 }
-			color2={ 255 255 255 }
-			
-			capital = 569 # c_lome
-			
-			c_wawa = {
-				color={ 185 151 45 }
-				color2={ 255 255 255 }
-				
-				b_badou = {}
-				b_aveho = {}
-				b_godzo = {}
-				b_dzogbegan = {}
-				b_tomegbe = {}
-				b_klabe = {}
-				b_kpalime = {}
-			}
-			c_ho = {
-				color={ 131 107 29 }
-				color2={ 255 255 255 }
-				
-				b_ho = {}
-				b_hohoe = {}
-				b_gbi_wegbe = {}
-				b_golokwati = {}
-				b_matse = {}
-				b_kpando = {}
-				b_jasikan = {}
-			}
-			c_tongu = {
-				color={ 182 135 25 }
-				color2={ 255 255 255 }
-				
-				b_akatsi = {}
-				b_anloga = {}
-				b_klikor_agbozume = {}
-				b_dzodze = {}
-				b_mafi_kumase = {}
-				b_apeguso = {}
-				b_ave_dakpa = {}
-				b_sogakope = {}
-			}
-			c_lome = {
-				color={ 170 157 25 }
-				color2={ 255 255 255 }
-				
-				b_lome = {}
-				b_agbelouve = {}
-				b_kovie = {}
-				b_foret_d_lili = {}
-				b_keve = {}
-				b_akepe = {}
-				b_agouenive = {}
-			}
-			c_vo = {
-				color={ 125 111 52 }
-				color2={ 255 255 255 }
-				
-				b_vogan = {}
-				b_aneho = {}
-				b_togoville = {}
-				b_grand_popo = {}
-				b_tabligo = {}
-				b_kouve = {}
-				b_zafi = {}
-			}
-			c_ogou = {
-				color={ 152 135 61 }
-				color2={ 255 255 255 }
-				
-				b_atakpame = {}
-				b_glei = {}
-				b_illama = {}
-				b_alale = {}
-				b_wahala = {}
-				b_notse = {}
-				b_kpedome = {}
-			}
-			c_tchaoudjo = {
-				color={ 121 162 26 }
-				color2={ 255 255 255 }
-				
-				b_babde = {}
-				b_koloware = {}
-				b_agoulou = {}
-				b_azaza = {}
-				b_tchalo = {}
-				b_tchamba = {}
-			}
-			c_kozah = {
-				color={ 87 121 62 }
-				color2={ 255 255 255 }
-				
-				b_kara = {}
-				b_lassa = {}
-				b_niamtougou = {}
-				b_bafilo = {}
-				b_kpagouda = {}
-				b_kande = {}
-				b_agbassa = {}
-				b_aloum = {}
-			}
-			c_sokode = {
-				color={ 183 161 90 }
-				color2={ 255 255 255 }
-					
-					b_sokode_1 = {}
-					b_sokode_2 = {}
-					b_sokode_3 = {}
-				}
-		}
-		d_oti = {
-			color={ 159 157 71 }
-			color2={ 255 255 255 }
-			
-			capital = 132 # c_salaga
-			
-			c_salaga = { # 132
-				color={ 169 147 76 }
-				color2={ 255 255 255 }
-				
-				b_salaga = {}
-			}
-			c_oti = { # 133
-				color={ 149 126 51 }
-				color2={ 255 255 255 }
-				
-				b_oti = {}
-			}
-			c_yendi = { # 134
-				color={ 146 116 25 }
-				color2={ 255 255 255 }
-				
-				b_yendi = {}
-			}
-			c_dankpen = {
-				color={ 168 127 84 }
-				color2={ 255 255 255 }
-				
-				b_guerin_kouka = {}
-				b_naware = {}
-				b_bitchabe = {}
-				b_kalanga = {}
-				b_kitoman = {}
-				b_bassassin = {}
-				b_bassar = {}
-			}
-			c_sokode = { #573
-					color={ 183 161 90 }
-					color2={ 255 255 255 }
-					
-				b_sokode_1 = {}
-				b_sokode_2 = {}
-				b_sokode_3 = {}
-				}
-			}
 		d_volta = {
 			color={ 195 141 50 }
 			color2={ 255 255 255 }
@@ -1625,6 +1459,81 @@ e_guinea = {
 				b_forifori = {}
 				b_takorowatwen = {}
 				b_amankwa = {}
+			}
+		}
+		d_marahoue = {
+			color={ 112 147 8 }
+			color2={ 255 255 255 }
+			
+			capital = 111 # c_goh
+			
+			c_gagnoa = {
+				color={ 102 157 3 }
+				color2={ 255 255 255 }
+				
+				b_gagnoa = {}
+				b_guiberoua = {}
+				b_tipadipa = {}
+				b_seryo = {}
+				b_tonla = {}
+				b_bayota = {}
+				b_lakota = {}
+				b_sokouriberipalehoin = {}
+			}
+			c_soubre = {
+				color={ 70 95 26 }
+				color2={ 255 255 255 }
+				
+				b_soubre = {}
+				b_okrouyo = {}
+				b_yabayo = {}
+				b_zadieguhe = {}
+				b_braguhe = {}
+				b_grihiri = {}
+				b_tai = {}
+			}
+			c_haut_sassandra = {
+				color={ 88 127 17 }
+				color2={ 255 255 255 }
+				
+				b_daloa = {}
+				b_vavoua = {}
+				b_gamonia = {}
+				b_issia = {}
+				b_gonate = {}
+				b_broma = {}
+				b_babouifla = {}
+			}
+		}
+		d_mouhoun = {
+			color={ 121 81 32 }
+			color2={ 255 255 255 }
+			
+			capital = 128 # c_kintampo
+			
+			c_kintampo = { # 128
+				color={ 111 91 27 }
+				color2={ 255 255 255 }
+				
+				b_kintampo = {}
+			}
+			c_bui = { # 130
+				color={ 198 173 91 }
+				color2={ 255 255 255 }
+				
+				b_bui = {}
+			}
+			c_tanda = {
+				color={ 160 135 55 }
+				color2={ 255 255 255 }
+				
+				b_tanda = {}
+				b_sandeque = {}
+				b_sanlo = {}
+				b_bondoukou = {}
+				b_herebo = {}
+				b_koun_fao = {}
+				b_banhui = {}
 			}
 		}
 	}

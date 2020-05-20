@@ -8,7 +8,7 @@ max_settlements = 4
 b_mandouri = tribal
 
 # Misc
-culture = dagomba
-religion = ashari
+culture = gurunsi
+religion = tarikah
 
 #History

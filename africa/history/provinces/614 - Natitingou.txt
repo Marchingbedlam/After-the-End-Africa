@@ -9,7 +9,7 @@ b_manta = temple
 b_borogourou = city
 
 # Misc
-culture = dagomba #loads of other options
-religion = ashari #or native religion
+culture = dagomba
+religion = tarikah
 
 #History

@@ -10,6 +10,6 @@ b_borela = temple
 
 # Misc
 culture = manding
-religion = ashari
+religion = tarikah
 
 #History

@@ -11,6 +11,6 @@ b_yendi_2 = temple
 
 # Misc
 culture = dagomba
-religion = ashari
+religion = tarikah
 
 #History

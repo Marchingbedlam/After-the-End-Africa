@@ -9,7 +9,7 @@ b_dapelogo = temple
 b_masre = city
 
 # Misc
-culture = yoruba
-religion = anglican #yoruba
+culture = mossi
+religion = tarikah
 
 #History

@@ -10,7 +10,7 @@ b_larama = city
 b_kofila = city
 
 # Misc
-culture = fon
-religion = catholic #vodun
+culture = manding
+religion = tarikah
 
 #History

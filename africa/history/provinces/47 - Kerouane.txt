@@ -9,6 +9,6 @@ b_kerouane = tribal
 
 # Misc
 culture = manding
-religion = ashari
+religion = marabouti
 
 #History

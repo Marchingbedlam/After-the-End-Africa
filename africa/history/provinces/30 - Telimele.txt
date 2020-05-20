@@ -10,6 +10,6 @@ b_telimele_GN = tribal
 
 # Misc
 culture = susu
-religion = ashari
+religion = marabouti
 
 #History

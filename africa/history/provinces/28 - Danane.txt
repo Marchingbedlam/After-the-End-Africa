@@ -9,6 +9,6 @@ b_danane = tribal
 
 # Misc
 culture = dan
-religion = ashari
+religion = catholic
 
 #History

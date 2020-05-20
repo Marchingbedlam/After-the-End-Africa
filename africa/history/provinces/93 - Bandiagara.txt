@@ -8,7 +8,7 @@ b_bandiagara = castle
 b_walia = temple
 
 # Misc
-culture = fulbe
-religion = ashari
+culture = dogon
+religion = tarikah
 
 #History
