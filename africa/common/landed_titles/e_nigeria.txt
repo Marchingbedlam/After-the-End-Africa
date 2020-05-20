@@ -193,30 +193,47 @@ e_north_nigeria = {
 
 			capital = 628 # c_bussa
 			
-				c_bussa = { #628
-					color={ 135 113 189 }
-					color2={ 255 255 255 }
-					
-					b_bussa_1 = {}
-					b_bussa_2 = {}
-					b_bussa_3 = {}
-				}
-				c_kaiama = { #674
-					color={ 126 88 124 }
-					color2={ 255 255 255 }
-					
-					b_kaiama_1 = {}
-					b_kaiama_2 = {}
-					b_kaiama_3 = {}
-				}
-				c_busuru = { #675
-					color={ 135 129 157 }
-					color2={ 255 255 255 }
-					
-					b_busuru_1 = {}
-					b_busuru_2 = {}
-					b_busuru_3 = {}
-				}
+			c_bussa = { #628
+				color={ 135 113 189 }
+				color2={ 255 255 255 }
+				
+				b_bussa_1 = {}
+				b_bussa_2 = {}
+				b_bussa_3 = {}
+			}
+			c_kaiama = { #674
+				color={ 126 88 124 }
+				color2={ 255 255 255 }
+				
+				b_kaiama_1 = {}
+				b_kaiama_2 = {}
+				b_kaiama_3 = {}
+			}
+			c_busuru = { #675
+				color={ 135 129 157 }
+				color2={ 255 255 255 }
+				
+				b_busuru_1 = {}
+				b_busuru_2 = {}
+				b_busuru_3 = {}
+			}
+			c_natitingou = {
+				color={ 135 129 157 }
+				color2={ 255 255 255 }
+				
+				b_natitingou = {}
+				b_manta = {}
+				b_borogourou = {}
+			}
+			c_tchaourou = {
+				color={ 135 129 157 }
+				color2={ 255 255 255 }
+				
+				b_tchaourou_1 = {}
+				b_tchaourou_2 = {}
+				b_tchaourou_3 = {}
+			}
+			
 		}
 			
 		d_nikki = {
