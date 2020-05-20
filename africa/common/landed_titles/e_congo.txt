@@ -655,6 +655,12 @@ e_congo = {
 
 				b_ouesso = {}
 			}
+			c_etoumbi = {
+				color={ 159 182 74 }
+				color2={ 255 255 255 }
+
+				b_etoumbi = {}
+			}
 		}
 		d_likouala = {
 			color={ 30 130 60 }
