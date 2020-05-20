@@ -323,7 +323,7 @@ e_madagscar = {
 		}
 
 		d_analanjirofo = {
-			color={ 134 245 124 }
+			color={ 94 145 94 }
 			color2={ 255 255 255 }
 			
 			capital = 210 #c_maroantsetra
