@@ -1247,3 +1247,57 @@ d_togdheer_adj;Togdheer;;;;;;;;;;;;;x
 d_ogaden_adj;Somaliland;;;;;;;;;;;;;x
 d_yola_adj;Yola;;;;;;;;;;;;;x
 d_taraba_adj;Taraba;;;;;;;;;;;;;x
+d_bengo;Bengo;;;;;;;;;;;;;x
+d_cuanza;Cuanza;;;;;;;;;;;;;x
+d_malanje;Malanje;;;;;;;;;;;;;x
+d_benguela;Benguela;;;;;;;;;;;;;x
+d_namibe;Namibe;;;;;;;;;;;;;x
+d_huambo;Huambo;;;;;;;;;;;;;x
+d_bie;Bie;;;;;;;;;;;;;x
+d_moxico;Moxico;;;;;;;;;;;;;x
+d_cuando_cubango;Cuando Cubango;;;;;;;;;;;;;x
+d_huila;Huíla;;;;;;;;;;;;;x
+d_cunene;Cunene;;;;;;;;;;;;;x
+d_lunda;Lunda;;;;;;;;;;;;;x
+d_somaliland;Somaliland;;;;;;;;;;;;;x
+e_madagscar;Madagascar;;;;;;;;;;;;;x
+k_madagascar;Madagascar;;;;;;;;;;;;;x
+d_antananarivo;Antananarivo;;;;;;;;;;;;;x
+d_menabe;Menabe;;;;;;;;;;;;;x
+d_atsimo_andrefana;Atsimo-Andrefana;;;;;;;;;;;;;x
+d_antsiranana;Antsiranana;;;;;;;;;;;;;x
+d_analanjirofo;Analanjirofo;;;;;;;;;;;;;x
+d_anosy;Anosy;;;;;;;;;;;;;x
+d_boeny;Boeny;;;;;;;;;;;;;x
+d_sofia;Sofia;;;;;;;;;;;;;x
+d_fianarantsoa;Fianarantsoa;;;;;;;;;;;;;x
+d_manakara;Manakara;;;;;;;;;;;;;x
+d_melaky;Melaky;;;;;;;;;;;;;x
+e_north_nigeria;North Nigeria;;;;;;;;;;;;;x
+d_bengo_adj;Bengo;;;;;;;;;;;;;x
+d_cuanza_adj;Cuanza;;;;;;;;;;;;;x
+d_malanje_adj;Malanje;;;;;;;;;;;;;x
+d_benguela_adj;Benguela;;;;;;;;;;;;;x
+d_namibe_adj;Namibe;;;;;;;;;;;;;x
+d_huambo_adj;Huambo;;;;;;;;;;;;;x
+d_bie_adj;Bie;;;;;;;;;;;;;x
+d_moxico_adj;Moxico;;;;;;;;;;;;;x
+d_cuando_cubango_adj;Cuando Cubango;;;;;;;;;;;;;x
+d_huila_adj;Huíla;;;;;;;;;;;;;x
+d_cunene_adj;Cunene;;;;;;;;;;;;;x
+d_lunda_adj;Lunda;;;;;;;;;;;;;x
+d_somaliland_adj;Somaliland;;;;;;;;;;;;;x
+e_madagscar_adj;Madagascar;;;;;;;;;;;;;x
+k_madagascar_adj;Madagascar;;;;;;;;;;;;;x
+d_antananarivo_adj;Antananarivo;;;;;;;;;;;;;x
+d_menabe_adj;Menabe;;;;;;;;;;;;;x
+d_atsimo_andrefana_adj;Atsimo-Andrefana;;;;;;;;;;;;;x
+d_antsiranana_adj;Antsiranana;;;;;;;;;;;;;x
+d_analanjirofo_adj;Analanjirofo;;;;;;;;;;;;;x
+d_anosy_adj;Anosy;;;;;;;;;;;;;x
+d_boeny_adj;Boeny;;;;;;;;;;;;;x
+d_sofia_adj;Sofia;;;;;;;;;;;;;x
+d_fianarantsoa_adj;Fianarantsoa;;;;;;;;;;;;;x
+d_manakara_adj;Manakara;;;;;;;;;;;;;x
+d_melaky_adj;Melaky;;;;;;;;;;;;;x
+e_north_nigeria_adj;North Nigeria;;;;;;;;;;;;;x
