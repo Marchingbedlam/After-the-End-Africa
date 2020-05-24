@@ -90,7 +90,7 @@ bantu = {
 			Cornelius Claude
 			Didier
 			Ebai Emery Ernest
-			Fifen Fomukong Fongang Fontem Fonyuy Francis
+			Fifen Fomukong Fongang Fontem Fonyuy Francis Franklin
 			Gawolbe Gerald Geremi Ghounam
 			Jessic John
 			Kadji Kammogne Koagne Koutou
@@ -98,7 +98,7 @@ bantu = {
 			Mathias_Matthew Maurice Mbah Mbeikuo Mbinglo Mbiybe Mbombo Mbouombouo Mengap Michael Monjou
 			Nchare Nchifor Ndefru Ndeh Ngafin Ngbetnkom Ngapna Ngoran Ngouh Ngon Ngouhouo Ngouloure Ngoungoure Ngoupou Ngu Njimoluh Njitap Njoya Nsangou Nzante
 			Pascal Paul
-			Roussel_Russel
+			Rigobert Roussel_Russel
 			Salomon_Solomon Samuel Simon Stephen
 			Tandeng Tebo Theodore Thierry Thomas
 			Valery_Valerius Victor Vincent
@@ -166,35 +166,36 @@ bantu = {
 		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
-			Aondochimba Aondohimba 
-			Bem Boseda 
-			Gowon 
-			Teremun Tertsegha Tor Tyehimba 
-			Wandoo
-			
-			Amosa Kaytuhn Kemajou Kwamba Mbe Tohnain
-			
-			Builsa Babato Gazari Alfa Dyori Bako Laganfyela Ali Kokoroko Sabana Tyeba Pintyeba Karamoko Sapilem Nyambre Salma Korongo Koom Yamba Tigre
-			
-			Sapilem Nyambre Salma Korongo Koom Yamba Sorgo Tigre Dulugu Sawadogo Karfo Baongo Kutu Sanum Wobgo Mazi 
-			Sigiri Saaga Kugri Yadega Yolomfaogona Kourita Geda Wobgho Kango Saaga Kaongo Tuguri Korogo Ragongo Wobgo 
-			Nyambe Moogo Totebaldbo Yemde Sanum Woboga Piiyo Bulli Wedraogo Ligidi Kobga Gigma Dramani
+			Akawe Akiga Akperan Alfred Andyar Aper Atah Atom Aul Austin
+			Barnabas Benjamin
+			Daniel David Denen Dickson Dominic
+			Emmanuel
+			Fanendo
+			Gabriel George Gideon Gondo
+			Innocent Ioraer Iorzua Iyorchia Iyorgyer Iyorhyer Iyorkegh Iyorwuese
+			James John Joseph
+			Kaase
+			Lanem
+			Makir Mark Michael Moses Msugh
+			Orbiam Ornguga Ortese
+			Patrick Peter
+			Raphael
+			Samuel Sarwuan Sesugh Solomon Stephen
+			Tachia Tarzoor Terhemen Terna Terzungwe Theophilus Timothy Torwua Tsegba
+			Viashima Victor Vitalis
+			Zakary_Zachary
 		}
 		
 		female_names = {
-			Hembadoon 
-			Ityiarmbiamo Iverem 
-			Limber 
-			Mhnonum Mhonum Morihinze 
-			Shiminege 
-			Wandoo 
-			Yahimba
-			
-			Poko Kenga Adaeze Adanna Adannaya Akachi Akuchi Amaka Schiamaka Amara Amarachi Añuli Chi 
-			Chiamaka Chibueze Chibuike Chibuzo Chichi Chidi Chidiebere Chidiebube Chidiegwu Chidimma Chijindum Chika  
-			Chike Chikelu Chikere Chinasa Chinedu Chinonso Chinwe Chinweike Chinwendu Chinweuba Chinyelu Chinyere 
-			Chioma Chizoba Ebele Ekene Ekenedilichukwu Fumnanya Funanya Ndidi Ngozi Nkechi Nkechinyere Nkemdilim Nkiru 
-			Nkiruka Nneka Nnenna Nnenne Nwanneka Ogechi Ogechukwukama Oluchi Onyeka Onyekachi Onyekachukwu Udo Uzoma
+			Adeior
+			Cecilia
+			Elizabeth
+			Farida Fatima Francisca
+			Hembadoon
+			Ikpa
+			Juliana
+			Mary
+			Sophie Stephanie
 		}
 	}
 	kongo={
@@ -319,6 +320,10 @@ bantu = {
 			Kanya
 			Léonora
 		}
+
+		male_patronym = "a "
+		female_patronym = "a "
+		prefix = yes 
 	}
 	teke={
 		color = { 0.2 0.3 0.1 }
