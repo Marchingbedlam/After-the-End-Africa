@@ -9,7 +9,7 @@ b_okitipupa_2 = temple
 b_okitipupa_3 = city
 
 # Misc
-culture = yoruba
+culture = pijin
 religion = anglican #yoruba
 
 #History

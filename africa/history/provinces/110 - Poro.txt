@@ -1,12 +1,11 @@
-# c_ferkessedougou
 
 # County Title
-title = c_ferkessedougou
+title = c_poro
 
 # Settlements
 max_settlements = 4
 
-b_ferkessedougou = tribal
+b_korhogo = tribal
 
 # Misc
 culture = senufo

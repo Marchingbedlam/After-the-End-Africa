@@ -9,7 +9,7 @@ b_tegina_2 = temple
 b_tegina_3 = city
 
 # Misc
-culture = kainji
+culture = gbagi
 religion = ashari
 
 #History

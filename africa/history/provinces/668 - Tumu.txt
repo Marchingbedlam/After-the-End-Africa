@@ -1,5 +1,5 @@
 # County Title
-title = c_ping
+title = c_tumu
 
 # Settlements
 max_settlements = 4

@@ -1,14 +1,13 @@
-
 # County Title
-title = c_sassandra
+title = c_marahoue
 
 # Settlements
 max_settlements = 3
 
-b_sassandra = castle
+b_bouafle = castle
 
 # Misc
-culture = kru
+culture = dan
 religion = catholic
 
 #History

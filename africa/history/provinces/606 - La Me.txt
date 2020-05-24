@@ -1,12 +1,12 @@
-
 # County Title
-title = c_agboville
+title = c_la_me
 
 # Settlements
 max_settlements = 3
 
-b_agboville = castle
-b_offa = city
+b_awgu_1 = castle
+b_awgu_2 = temple
+b_awgu_3 = city
 
 # Misc
 culture = baoule

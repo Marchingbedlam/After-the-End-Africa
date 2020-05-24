@@ -9,7 +9,7 @@ b_yelwa_2 = temple
 b_yelwa_3 = city
 
 # Misc
-culture = kainji
+culture = nupe
 religion = ashari
 
 #History

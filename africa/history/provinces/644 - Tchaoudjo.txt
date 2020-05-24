@@ -8,7 +8,7 @@ b_sokode = castle
 b_babde = temple
 
 # Misc
-culture = gbagi
+culture = gurunsi
 religion = ashari
 
 #History

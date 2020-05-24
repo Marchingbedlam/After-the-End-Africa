@@ -1,11 +1,11 @@
 
 # County Title
-title = c_korhogo
+title = c_bounkani
 
 # Settlements
-max_settlements = 4
+max_settlements = 3
 
-b_korhogo = tribal
+b_bouna = tribal
 
 # Misc
 culture = senufo

@@ -1,14 +1,14 @@
+
 # County Title
-title = c_gagnoa
+title = c_tonkpi
 
 # Settlements
 max_settlements = 3
 
-b_gagnoa = castle
-b_guiberoua = city
+b_danane = tribal
 
 # Misc
-culture = kru
+culture = dan
 religion = catholic
 
 #History

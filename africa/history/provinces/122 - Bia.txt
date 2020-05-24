@@ -1,5 +1,5 @@
 # County Title
-title = c_kojina
+title = c_bia
 
 # Settlements
 max_settlements = 4

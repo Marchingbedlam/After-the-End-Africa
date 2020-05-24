@@ -1055,7 +1055,7 @@
 	name="Kwame Ofosu" #Kwame Ofosu I, current king
 	dynasty=1501143
 	culture=asante
-	religion=anglican
+	religion=akom
 	mother=1500082
 
 	trait=hunter
@@ -1071,7 +1071,7 @@
 	name="Osei Tutu" #current Prince
 	dynasty=1501143
 	culture=asante
-	religion=anglican
+	religion=akom
 	father=1500090
 
 	trait=erudite

@@ -7,7 +7,7 @@ max_settlements = 3
 b_donga = castle
 
 # Misc
-culture = kpelle
+culture = grassfields
 religion = catholic
 
 #History

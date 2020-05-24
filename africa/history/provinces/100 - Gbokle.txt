@@ -1,13 +1,14 @@
+
 # County Title
-title = c_bouafle
+title = c_gbokle
 
 # Settlements
 max_settlements = 3
 
-b_bouafle = castle
+b_sassandra = castle
 
 # Misc
-culture = dan
+culture = kru
 religion = catholic
 
 #History

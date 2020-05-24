@@ -1,5 +1,5 @@
 e_north_nigeria = {
-	color={ 148 53 0 }
+	color={ 0 53 148 }
 	color2={ 255 255 20 }
 	
 	k_adamawa = {
@@ -1206,7 +1206,7 @@ e_north_nigeria = {
 	}
 }
 e_south_nigeria = {
-	color={ 0 53 148 }
+	color={ 70 160 125 }
 	color2={ 255 255 20 }
 	
 	k_igboland = {
@@ -1233,6 +1233,8 @@ e_south_nigeria = {
 				c_onitsha = { #599
 					color={ 127 214 163 }
 					color2={ 255 255 255 }
+
+					holy_site = catholic
 					
 					b_onitsha_1 = {}
 					b_onitsha_2 = {}

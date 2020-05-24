@@ -1,5 +1,5 @@
 # County Title
-title = c_diebougou
+title = c_bougouriba
 
 # Settlements
 max_settlements = 4

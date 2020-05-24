@@ -1,11 +1,12 @@
+# c_ferkessedougou
 
 # County Title
-title = c_boundiali
+title = c_tchologo
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_boundiali = tribal
+b_ferkessedougou = tribal
 
 # Misc
 culture = senufo

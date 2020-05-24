@@ -1,11 +1,12 @@
 
 # County Title
-title = c_bouake
+title = c_iffou
 
 # Settlements
-max_settlements = 4
+max_settlements = 2
 
-b_bouake = castle
+b_mbahiakro = castle
+b_prikro = city
 
 # Misc
 culture = baoule

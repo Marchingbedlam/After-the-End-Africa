@@ -4,10 +4,10 @@ title = c_manyu
 # Settlements
 max_settlements = 3
 
-b_bamenda = castle
+b_manyu = castle
 
 # Misc
-culture = kpelle
+culture = grassfields
 religion = catholic
 
 #History

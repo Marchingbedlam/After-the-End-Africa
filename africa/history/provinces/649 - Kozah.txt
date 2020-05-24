@@ -9,7 +9,7 @@ b_lassa = temple
 b_niamtougou = city
 
 # Misc
-culture = hausa
+culture = gurunsi
 religion = ashari
 
 #History

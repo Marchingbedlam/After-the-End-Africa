@@ -1,13 +1,14 @@
 # County Title
-title = c_manyu
+title = c_goh
 
 # Settlements
 max_settlements = 3
 
-b_manyu = castle
+b_gagnoa = castle
+b_guiberoua = city
 
 # Misc
-culture = kpelle
+culture = kru
 religion = catholic
 
 #History

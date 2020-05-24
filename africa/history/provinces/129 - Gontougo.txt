@@ -1,6 +1,6 @@
 
 # County Title
-title = c_tanda
+title = c_gontougo
 
 # Settlements
 max_settlements = 4

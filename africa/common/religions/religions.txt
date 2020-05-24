@@ -454,3 +454,50 @@ pirate = {
 		
 	}
 }
+syncretic = {
+	has_coa_on_barony_only = yes
+	graphical_culture = westerngfx
+	playable = yes
+	hostile_within_group = yes
+	
+	color = { 0.6 0.7 0.1 }
+	
+	ai_convert_same_group = 2 # try to convert if ai_zeal is high
+	ai_convert_other_group = 1	# only if zealous
+	
+	akom = {
+		graphical_culture = westerngfx
+
+		icon = 11
+		heresy_icon = 12
+
+		color = { 0.1 0.6 0.7 }
+
+		crusade_name = CRUSADE
+		scripture_name = THE_BIBLE
+		priest_title = PRIEST
+		
+		high_god_name = GOD_NYAME
+		
+		god_names = {
+			GOD_ANANSI GOD_JESUS GOD_ASASE_YA GOD_ABOSOM
+		}
+		
+		evil_god_names = {
+			BONSAM LUCIFER THE_DEVIL
+		}
+
+		scripture_name = THE_HOLY_BOOK
+		priest_title = PRIEST
+		priests_can_marry = yes
+		allow_rivermovement = yes
+		allow_looting = yes
+		female_temple_holders = yes
+		max_consorts = 3
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 1
+		
+		#intermarry = akom
+	}
+}

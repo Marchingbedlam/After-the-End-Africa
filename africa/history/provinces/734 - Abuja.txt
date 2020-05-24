@@ -9,7 +9,7 @@ b_keffi_2 = temple
 b_keffi_3 = city
 
 # Misc
-culture = hausa
+culture = pijin
 religion = ashari
 
 #History

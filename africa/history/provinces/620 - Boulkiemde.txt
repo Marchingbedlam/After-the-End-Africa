@@ -1,5 +1,5 @@
 # County Title
-title = c_koudougou
+title = c_boulkiemde
 
 # Settlements
 max_settlements = 3

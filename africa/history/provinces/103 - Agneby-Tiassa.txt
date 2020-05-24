@@ -1,12 +1,12 @@
+
 # County Title
-title = c_adzope
+title = c_agneby_tiassa
 
 # Settlements
 max_settlements = 3
 
-b_awgu_1 = castle
-b_awgu_2 = temple
-b_awgu_3 = city
+b_agboville = castle
+b_offa = city
 
 # Misc
 culture = baoule

@@ -26,7 +26,7 @@ province;red;green;blue;x;x
 25;84;99;57;Dubreka;x
 26;93;117;51;Kindia;x
 27;119;140;54;Boke;x
-28;60;133;11;Danane;x
+28;60;133;11;Tonkpi;x
 29;81;95;38;Boffa;x
 30;121;146;46;Telimele;x
 31;82;98;35;Gaoual;x
@@ -96,39 +96,39 @@ province;red;green;blue;x;x
 95;157;118;64;Gourma Rharous;x
 96;160;112;48;Garou;x
 97;176;117;37;West Gao;x
-98;112;165;19;Soubre;x
+98;112;165;19;Nawa;x
 99;98;150;4;San-Pedro;x
-100;125;180;26;Sassandra;x
+100;125;180;26;Gbokle;x
 101;88;119;29;Loh-Djiboua;x
 102;91;141;0;Abidjan;x
-103;113;139;60;Agboville;x
+103;113;139;60;Agneby-Tiassa;x
 104;99;135;29;Aboisso;x
-105;114;157;35;MBahiakro;x
+105;114;157;35;Iffou;x
 106;89;128;15;Indenie-Djuablin;x
 107;103;124;41;NZi;x
 108;108;136;39;Hambol;x
-109;114;151;25;Ferkessedougou;x
-110;123;141;69;Korhogo;x
-111;102;157;3;Gagnoa;x
+109;114;151;25;Tchologo;x
+110;123;141;69;Poro;x
+111;102;157;3;Goh;x
 112;88;127;17;Haut-Sassandra;x
-113;70;95;26;Bouake;x
+113;70;95;26;Wawle;x
 114;127;169;25;Bafing;x
 115;108;142;49;Cavally;x
-116;128;171;22;Boundiali;x
+116;128;171;22;Bagoue;x
 117;106;136;34;Denguele;x
 118;66;84;24;Worodougou;x
 119;151;124;39;Cape Coast;x
 120;194;160;52;Sunyani;x
 121;122;105;51;Nzema;x
-122;220;190;96;Kojina;x
+122;220;190;96;Bia;x
 123;167;141;57;Kumasi;x
 124;185;151;45;Wawa;x
 125;122;104;45;Afram Plains;x
 126;131;107;29;Ho;x
 127;143;128;80;Accra;x
 128;111;91;27;Kintampo;x
-129;160;135;55;Tanda;x
-130;198;173;91;Bouna;x
+129;160;135;55;Gontougo;x
+130;198;173;91;Bounkani;x
 131;214;178;59;Mpaha;x
 132;169;147;76;Tamale;x
 133;149;126;51;Oti;x
@@ -584,7 +584,7 @@ province;red;green;blue;x;x
 583;173;114;145;Ibadan;x
 584;175;98;144;Abeokuta;x
 585;143;114;145;Ijebu;x
-586;172;94;62;Diebougou;x
+586;172;94;62;Bougouriba;x
 587;158;108;179;Ondo;x
 588;160;97;143;Akure;x
 589;161;146;177;Owo;x
@@ -594,7 +594,7 @@ province;red;green;blue;x;x
 593;172;190;188;Benin;x
 594;159;208;150;Ewu;x
 595;124;189;151;Ughelli;x
-596;100;160;173;Bouafle;x
+596;100;160;173;Marahoue;x
 597;221;162;100;Gonja;x
 598;135;180;109;Asaba;x
 599;127;214;163;Onitsha;x
@@ -604,7 +604,7 @@ province;red;green;blue;x;x
 603;121;143;120;Nsukka;x
 604;155;183;113;Abakaliki;x
 605;187;200;179;Yenagoa;x
-606;194;239;146;Adzope;x
+606;194;239;146;La Me;x
 607;143;53;36;Kenedougou;x
 608;129;173;154;Owerri;x
 609;90;110;89;Ugep;x
@@ -618,7 +618,7 @@ province;red;green;blue;x;x
 617;129;135;181;Parakou;x
 618;0;155;132;Uyo;x
 619;77;108;113;Calabar;x
-620;244;101;69;Koudougou;x
+620;244;101;69;Boulkiemde;x
 621;125;148;142;Ikom;x
 622;111;158;129;Idah;x
 623;74;101;167;Potiskum;x
@@ -666,7 +666,7 @@ province;red;green;blue;x;x
 665;225;96;84;Kadiolo;x
 666;72;132;145;Kuta;x
 667;231;208;198;Koulikoro;x
-668;179;197;202;Ping;x
+668;179;197;202;Tumu;x
 669;85;120;113;Minna;x
 670;38;138;148;Kwali;x
 671;70;94;139;Fika;x

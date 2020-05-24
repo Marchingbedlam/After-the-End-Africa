@@ -85,35 +85,38 @@ bantu = {
 		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
-			Aondochimba Aondohimba 
-			Bem Boseda 
-			Gowon 
-			Teremun Tertsegha Tor Tyehimba 
-			Wandoo
-			
-			Amosa Kaytuhn Kemajou Kwamba Mbe Tohnain
-			
-			Builsa Babato Gazari Alfa Dyori Bako Laganfyela Ali Kokoroko Sabana Tyeba Pintyeba Karamoko Sapilem Nyambre Salma Korongo Koom Yamba Tigre
-			
-			Sapilem Nyambre Salma Korongo Koom Yamba Sorgo Tigre Dulugu Sawadogo Karfo Baongo Kutu Sanum Wobgo Mazi 
-			Sigiri Saaga Kugri Yadega Yolomfaogona Kourita Geda Wobgho Kango Saaga Kaongo Tuguri Korogo Ragongo Wobgo 
-			Nyambe Moogo Totebaldbo Yemde Sanum Woboga Piiyo Bulli Wedraogo Ligidi Kobga Gigma Dramani
+			Abumbi Achidi Achirimbi Adolphe Alain_Alan Albert Angwafo Antoine_Anthony Armand Augustine
+			Bernard Bruno
+			Cornelius Claude
+			Didier
+			Ebai Emery Ernest
+			Fifen Fomukong Fongang Fontem Fonyuy Francis
+			Gawolbe Gerald Geremi Ghounam
+			Jessic John
+			Kadji Kammogne Koagne Koutou
+			Leonard
+			Mathias_Matthew Maurice Mbah Mbeikuo Mbinglo Mbiybe Mbombo Mbouombouo Mengap Michael Monjou
+			Nchare Nchifor Ndefru Ndeh Ngafin Ngbetnkom Ngapna Ngoran Ngouh Ngon Ngouhouo Ngouloure Ngoungoure Ngoupou Ngu Njimoluh Njitap Njoya Nsangou Nzante
+			Pascal Paul
+			Roussel_Russel
+			Salomon_Solomon Samuel Simon Stephen
+			Tandeng Tebo Theodore Thierry Thomas
+			Valery_Valerius Victor Vincent
+			Wiyghan
+			Zavier_Xavier
 		}
 		
 		female_names = {
-			Hembadoon 
-			Ityiarmbiamo Iverem 
-			Limber 
-			Mhnonum Mhonum Morihinze 
-			Shiminege 
-			Wandoo 
-			Yahimba
-			
-			Poko Kenga Adaeze Adanna Adannaya Akachi Akuchi Amaka Schiamaka Amara Amarachi Añuli Chi 
-			Chiamaka Chibueze Chibuike Chibuzo Chichi Chidi Chidiebere Chidiebube Chidiegwu Chidimma Chijindum Chika  
-			Chike Chikelu Chikere Chinasa Chinedu Chinonso Chinwe Chinweike Chinwendu Chinweuba Chinyelu Chinyere 
-			Chioma Chizoba Ebele Ekene Ekenedilichukwu Fumnanya Funanya Ndidi Ngozi Nkechi Nkechinyere Nkemdilim Nkiru 
-			Nkiruka Nneka Nnenna Nnenne Nwanneka Ogechi Ogechukwukama Oluchi Onyeka Onyekachi Onyekachukwu Udo Uzoma
+			Carine
+			Hilda
+			Isabelle
+			Mary
+			Ngwing
+			Okawa
+			Patricia
+			Stephanie
+			Victorine
+			Yvonne
 		}
 	}
 	

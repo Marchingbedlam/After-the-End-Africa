@@ -25,7 +25,7 @@ PROV24;Mamou;Mamou;Mamou;;;;;;;;;x
 PROV25;Dubréka;Dubréka;Dubréka;;;;;;;;;x
 PROV26;Kindia;Kindia;Kindia;;;;;;;;;x
 PROV27;Boké;;;;;;;;;;;x
-PROV28;Danané;;;;;;;;;;;x
+PROV28;Tonkpi;;;;;;;;;;;x
 PROV29;Boffa;Boffa;Boffa;;;;;;;;;x
 PROV30;Télimélé;Télimélé;Télimélé;;;;;;;;;x
 PROV31;Gaoual;Gaoual;Gaoual;;;;;;;;;x
@@ -95,39 +95,39 @@ PROV94;Koro;;;;;;;;;;;x
 PROV95;Gourma Rharous;;;;;;;;;;;x
 PROV96;Garou;Garou;Garou;;;;;;;;;x
 PROV97;West Gao;;;;;;;;;;;x
-PROV98;Soubré;;;;;;;;;;;x
+PROV98;Nawa;;;;;;;;;;;x
 PROV99;San-Pédro;San-Pédro;San-Pédro;;;;;;;;;x
-PROV100;Sassandra;;;;;;;;;;;x
+PROV100;Gbôklé;;;;;;;;;;;x
 PROV101;Lôh-Djiboua;;;;;;;;;;;x
 PROV102;Abidjan;Abidjan;Abidjan;;;;;;;;;x
-PROV103;Agboville;;;;;;;;;;;x
+PROV103;Agnéby-Tiassa;;;;;;;;;;;x
 PROV104;Aboisso;;;;;;;;;;;x
-PROV105;M'Bahiakro;;;;;;;;;;;x
+PROV105;Iffou;;;;;;;;;;;x
 PROV106;Indénié-Djuablin;Indénié-Djuablin;Indénié-Djuablin;;;;;;;;;x
 PROV107;N'Zi;N'Zi;N'Zi;;;;;;;;;x
 PROV108;Hambol;Hambol;Hambol;;;;;;;;;x
-PROV109;Ferkessédougou;;;;;;;;;;;x
-PROV110;Korhogo;;;;;;;;;;;x
-PROV111;Gagnoa;;;;;;;;;;;x
+PROV109;Tchologo;;;;;;;;;;;x
+PROV110;Poro;;;;;;;;;;;x
+PROV111;Gôh;;;;;;;;;;;x
 PROV112;Haut-Sassandra;Haut-Sassandra;Haut-Sassandra;;;;;;;;;x
-PROV113;Bouaké;;;;;;;;;;;x
+PROV113;Wawlè;;;;;;;;;;;x
 PROV114;Bafing;Bafing;Bafing;;;;;;;;;x
 PROV115;Cavally;Cavally;Cavally;;;;;;;;;x
-PROV116;Boundiali;;;;;;;;;;;x
+PROV116;Bagoué;;;;;;;;;;;x
 PROV117;Denguélé;;;;;;;;;;;x
 PROV118;Worodougou;Worodougou;Worodougou;;;;;;;;;x
 PROV119;Cape Coast;;;;;;;;;;;x
 PROV120;Sunyani;Sunyani;Sunyani;;;;;;;;;x
 PROV121;Nzema;;;;;;;;;;;x
-PROV122;Kojina;;;;;;;;;;;x
+PROV122;Bia;;;;;;;;;;;x
 PROV123;Kumasi;Kumasi;Kumasi;;;;;;;;;x
 PROV124;Wawa;;;;;;;;;;;x
 PROV125;Afram Plains;;;;;;;;;;;x
 PROV126;Ho;;;;;;;;;;;x
 PROV127;Accra;Accra;Accra;;;;;;;;;x
 PROV128;Kintampo;Kintampo;Kintampo;;;;;;;;;x
-PROV129;Tanda;;;;;;;;;;;x
-PROV130;Bouna;;;;;;;;;;;x
+PROV129;Gontougo;;;;;;;;;;;x
+PROV130;Bounkani;;;;;;;;;;;x
 PROV131;Mpaha;Mpaha;Mpaha;;;;;;;;;x
 PROV132;Tamale;Tamale;Tamale;;;;;;;;;x
 PROV133;Oti;Oti;Oti;;;;;;;;;x
@@ -135,7 +135,7 @@ PROV134;Yendi;Yendi;Yendi;;;;;;;;;x
 PROV135;Mamprusi;;;;;;;;;;;x
 PROV136;Bolgatanga;Bolgatanga;Bolgatanga;;;;;;;;;x
 PROV137;Kpendjal;;;;;;;;;;;x
-PROV138;Comoe;;;;;;;;;;;x
+PROV138;Comoé;;;;;;;;;;;x
 PROV139;Ouagadougou;Ouagadougou;Ouagadougou;;;;;;;;;x
 PROV140;Poni;;;;;;;;;;;x
 PROV141;Banwa;;;;;;;;;;;x
@@ -583,7 +583,7 @@ PROV582;Ado-Ekiti;Ado-Ekiti;Ado-Ekiti;;;;;;;;;x
 PROV583;Ibadan;Ibadan;Ibadan;;;;;;;;;x
 PROV584;Abeokuta;Abeokuta;Abeokuta;;;;;;;;;x
 PROV585;Ijebu;Ijebu;Ijebu;;;;;;;;;x
-PROV586;Diébougou;;;;;;;;;;;x
+PROV586;Bougouriba;;;;;;;;;;;x
 PROV587;Ondo;Ondo;Ondo;;;;;;;;;x
 PROV588;Akure;Akure;Akure;;;;;;;;;x
 PROV589;Owo;Owo;Owo;;;;;;;;;x
@@ -593,7 +593,7 @@ PROV592;Amenfi;;;;;;;;;;;x
 PROV593;Benin;Benin;Benin;;;;;;;;;x
 PROV594;Ewu;Ewu;Ewu;;;;;;;;;x
 PROV595;Ughelli;Ughelli;Ughelli;;;;;;;;;x
-PROV596;Bouaflé;;;;;;;;;;;x
+PROV596;Marahoué;;;;;;;;;;;x
 PROV597;Gonja;;;;;;;;;;;x
 PROV598;Asaba;Asaba;Asaba;;;;;;;;;x
 PROV599;Onitsha;Onitsha;Onitsha;;;;;;;;;x
@@ -603,7 +603,7 @@ PROV602;Enugu;Enugu;Enugu;;;;;;;;;x
 PROV603;Nsukka;Nsukka;Nsukka;;;;;;;;;x
 PROV604;Abaleke;Abaleke;Abaleke;;;;;;;;;x
 PROV605;Yenagoa;Yenagoa;Yenagoa;;;;;;;;;x
-PROV606;Adzope;;;;;;;;;;;x
+PROV606;La Mé;;;;;;;;;;;x
 PROV607;Kénédougou;;;;;;;;;;;x
 PROV608;Owerri;Owerri;Owerri;;;;;;;;;x
 PROV609;Ugep;Ugep;Ugep;;;;;;;;;x
@@ -617,7 +617,7 @@ PROV616;Nikki;Nikki;Nikki;;;;;;;;;x
 PROV617;Parakou;Parakou;Parakou;;;;;;;;;x
 PROV618;Uyo;Uyo;Uyo;;;;;;;;;x
 PROV619;Calabar;Calabar;Calabar;;;;;;;;;x
-PROV620;Koudougou;;;;;;;;;;;x
+PROV620;Boulkiemdé;;;;;;;;;;;x
 PROV621;Ikom;Ikom;Ikom;;;;;;;;;x
 PROV622;Idah;Idah;Idah;;;;;;;;;x
 PROV623;Potiskum;Potiskum;Potiskum;;;;;;;;;x
@@ -665,7 +665,7 @@ PROV664;Tureta;Tureta;Tureta;;;;;;;;;x
 PROV665;Kadiolo;;;;;;;;;;;x
 PROV666;Kuta;Kuta;Kuta;;;;;;;;;x
 PROV667;Koulikoro;;;;;;;;;;;x
-PROV668;Ping;;;;;;;;;;;x
+PROV668;Tumu;;;;;;;;;;;x
 PROV669;Minna;Minna;Minna;;;;;;;;;x
 PROV670;Kwali;Kwali;Kwali;;;;;;;;;x
 PROV671;Fika;Fika;Fika;;;;;;;;;x

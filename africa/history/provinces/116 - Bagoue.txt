@@ -1,11 +1,11 @@
 
 # County Title
-title = c_bouna
+title = c_bagoue
 
 # Settlements
 max_settlements = 3
 
-b_bui = tribal
+b_boundiali = tribal
 
 # Misc
 culture = senufo

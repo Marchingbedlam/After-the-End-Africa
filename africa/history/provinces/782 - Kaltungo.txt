@@ -9,7 +9,7 @@ b_kaltungo_2 = temple
 b_kaltungo_3 = city
 
 # Misc
-culture = bole
+culture = jukun
 religion = ashari
 
 #History

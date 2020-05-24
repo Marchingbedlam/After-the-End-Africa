@@ -1,14 +1,14 @@
 
 # County Title
-title = c_danane
+title = c_nawa
 
 # Settlements
 max_settlements = 3
 
-b_danane = tribal
+b_soubre = castle
 
 # Misc
-culture = dan
-religion = catholic
+culture = kru
+religion = libertarian
 
 #History

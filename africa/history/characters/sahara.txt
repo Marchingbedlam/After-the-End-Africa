@@ -3,6 +3,7 @@
 	culture=haratin
 	religion=ashari
 	dynasty=1917004
+	father=1917002 #El Hor
 
 	trait=ugly
 	trait=disfigured
@@ -22,7 +23,8 @@
 	name="Taghiyoulla"
 	culture=haratin
 	religion=ashari
-	dynasty=1917004
+	dynasty=1917004 #El Hor
+	father=1917002
 
 	trait=clubfooted
 	trait=cruel
@@ -33,5 +35,131 @@
 	trait=tough_soldier
 
 	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1917002={
+	name="Ouaghef"
+	culture=haratin
+	religion=ashari
+	dynasty=1917004 #El Hor
+
+	trait=ugly
+	trait=strong
+
+	2600.1.1={ birth=yes }
+	2655.1.1={ death=yes }
+}
+1917003={
+	name="El-Hassan"
+	culture=sahrawi
+	religion=ashari
+	dynasty=1916007 #Ould Es-Sweyih
+
+	trait=strong
+	trait=greedy
+	trait=lustful
+	trait=proud
+	trait=brave
+	trait=honorable
+	trait=stubborn
+	trait=just
+	trait=skilled_tactician
+
+	2621.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1917004={
+	name="El-Ouali"
+	culture=sahrawi
+	religion=ashari
+	dynasty=1916007 #Ould Es-Sweyih
+	father=1917003
+
+	trait=strong
+	trait=zealous
+	trait=honorable
+	trait=lustful
+	trait=wroth
+	trait=brave
+	trait=tough_soldier
+
+	2638.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1917005={
+	name="Sidahmed"
+	culture=sahrawi
+	religion=ashari
+	dynasty=1916007 #Ould Es-Sweyih
+	father=1917003
+
+	trait=patient
+	trait=honorable
+	trait=charitable
+	trait=honorable
+	trait=trusting
+	trait=brave
+	trait=tough_soldier
+
+	2640.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1917006={
+	name="El-Hassan"
+	culture=sahrawi
+	religion=ashari
+	dynasty=1916007 #Ould Es-Sweyih
+	father=1917003
+
+	trait=strong
+	trait=lustful
+	trait=charitable
+	trait=poet
+	trait=gregarious
+	trait=ambitious
+	trait=deceitful
+	trait=grey_eminence
+
+	2642.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1917007={
+	name="Elkouria"
+	female=yes
+	culture=sahrawi
+	religion=ashari
+	dynasty=1916007 #Ould Es-Sweyih
+	father=1917003
+
+	trait=strong
+	trait=cynical
+	trait=honorable
+	trait=chaste
+	trait=brave
+	trait=diligent
+	trait=ambitious
+	trait=skilled_tactician
+
+	2644.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1917008={
+	name="Abderrahmane"
+	culture=sahrawi
+	religion=ashari
+	dynasty=1916007 #Ould Es-Sweyih
+	father=1917003
+
+	trait=ruthless
+	trait=zealous
+	trait=cruel
+	trait=lustful
+	trait=patient
+	trait=deceitful
+	trait=paranoid
+	trait=ambitious
+	trait=tough_soldier
+
+	2646.1.1={ birth=yes }
 	2700.1.1={ death=yes }
 }
