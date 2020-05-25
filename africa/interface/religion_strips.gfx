@@ -3,16 +3,16 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_religion_icon_strip"
 		texturefile = "gfx\\interface\\religion_icon_strip.dds"
-		noOfFrames = 14
+		noOfFrames = 15
 	}
 	spriteType = {
 		name = "GFX_religion_icon_strip_small"
 		texturefile = "gfx\\interface\\religion_icon_strip_small.dds"
-		noOfFrames = 14
+		noOfFrames = 15
 	}
 	spriteType = {
 		name = "GFX_religion_icon_strip_big"
 		texturefile = "gfx\\interface\\religion_icon_strip_big.dds"
-		noOfFrames = 14
+		noOfFrames = 15
 	}
 }

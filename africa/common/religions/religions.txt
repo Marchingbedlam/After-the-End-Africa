@@ -468,8 +468,8 @@ syncretic = {
 	akom = {
 		graphical_culture = westerngfx
 
-		icon = 11
-		heresy_icon = 12
+		icon = 15
+		heresy_icon = 15
 
 		color = { 0.1 0.6 0.7 }
 
