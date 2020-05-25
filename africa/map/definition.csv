@@ -1455,49 +1455,49 @@ province;red;green;blue;x;x
 1454;157;232;195;Farasan;x
 1455;;;;;x
 1456;;;;;x
-1457;;;;;x
-1458;;;;;x
-1459;;;;;x
-1460;;;;;x
-1461;;;;;x
-1462;;;;;x
-1463;;;;;x
-1464;;;;;x
-1465;;;;;x
-1466;;;;;x
-1467;;;;;x
-1468;;;;;x
-1469;;;;;x
-1470;;;;;x
-1471;;;;;x
-1472;;;;;x
-1473;;;;;x
-1474;;;;;x
-1475;;;;;x
-1476;;;;;x
-1477;;;;;x
-1478;;;;;x
-1479;;;;;x
-1480;;;;;x
-1481;;;;;x
-1482;;;;;x
-1483;;;;;x
-1484;;;;;x
-1485;;;;;x
-1486;;;;;x
-1487;;;;;x
-1488;;;;;x
-1489;;;;;x
-1490;;;;;x
-1491;;;;;x
-1492;;;;;x
-1493;;;;;x
-1494;;;;;x
-1495;;;;;x
-1496;;;;;x
-1497;;;;;x
-1498;;;;;x
-1499;;;;;x
+1457;145;163;110;Congo River;x
+1458;183;132;132;Congo River;x
+1459;160;203;106;Congo River;x
+1460;246;215;50;Congo River;x
+1461;139;254;226;Congo River;x
+1462;220;141;72;Ubangi River;x
+1463;222;186;253;Ubangi River;x
+1464;143;206;172;Ubangi River;x
+1465;45;228;232;Congo River;x
+1466;100;255;115;Congo River;x
+1467;44;197;222;Congo River;x
+1468;91;237;236;Congo River;x
+1469;150;236;133;Chari River;x
+1470;113;160;199;Chari River;x
+1471;134;183;145;Logone River;x
+1472;140;186;148;Logone River;x
+1473;230;251;236;Mayo Kebbi River;x
+1474;225;231;15;Senegal River;x
+1475;242;206;186;Senegal River;x
+1476;175;210;176;Niger River;x
+1477;184;246;16;Niger River;x
+1478;209;220;117;Niger River;x
+1479;244;213;121;Niger River;x
+1480;234;223;75;Niger River;x
+1481;250;195;143;Niger River;x
+1482;72;222;118;Hawal River;x
+1483;108;234;211;Benue River;x
+1484;145;232;196;Benue River;x
+1485;171;230;207;Katsina Ala;x
+1486;232;209;177;Benue River;x
+1487;156;179;188;Niger River;x
+1488;206;160;132;Niger River;x
+1489;203;181;92;Niger River;x
+1490;234;224;217;Delta;x
+1491;225;218;243;Cross River;x
+1492;128;234;201;Rovuma River;x
+1493;140;217;241;Lurio River;x
+1494;75;220;131;Lurio River;x
+1495;217;67;142;Orange River;x
+1496;245;152;220;Orange River;x
+1497;53;219;224;Limpopo River;x
+1498;72;189;206;Limpopo River;x
+1499;102;225;193;Save River;x
 1500;50;200;186;Cape Verde Waters;x
 1501;116;240;240;Mauretanian Coast;x
 1502;126;254;223;Senegalese Coast;x
@@ -1558,67 +1558,67 @@ province;red;green;blue;x;x
 1557;144;242;192;Seychelles;x
 1558;42;209;131;Seychelles;x
 1559;54;168;131;Seychelles;x
-1560;;;;;x
-1561;;;;;x
-1562;;;;;x
-1563;;;;;x
-1564;;;;;x
-1565;;;;;x
-1566;;;;;x
-1567;;;;;x
-1568;;;;;x
-1569;;;;;x
-1570;;;;;x
-1571;;;;;x
-1572;;;;;x
-1573;;;;;x
-1574;;;;;x
-1575;;;;;x
-1576;;;;;x
-1577;;;;;x
-1578;;;;;x
-1579;;;;;x
-1580;;;;;x
-1581;;;;;x
-1582;;;;;x
-1583;;;;;x
-1584;;;;;x
-1585;;;;;x
-1586;;;;;x
-1587;;;;;x
-1588;;;;;x
-1589;;;;;x
-1590;;;;;x
-1591;;;;;x
-1592;;;;;x
-1593;;;;;x
-1594;;;;;x
-1595;;;;;x
-1596;;;;;x
-1597;;;;;x
-1598;;;;;x
-1599;;;;;x
-1600;;;;;x
-1601;;;;;x
-1602;;;;;x
-1603;;;;;x
-1604;;;;;x
-1605;;;;;x
-1606;;;;;x
-1607;;;;;x
-1608;;;;;x
-1609;;;;;x
-1610;;;;;x
-1611;;;;;x
-1612;;;;;x
-1613;;;;;x
-1614;;;;;x
-1615;;;;;x
-1616;;;;;x
-1617;;;;;x
-1618;;;;;x
-1619;;;;;x
-1620;;;;;x
+1560;160;214;30;Zambezi River;x
+1561;152;252;135;Zambezi River;x
+1562;114;189;230;Save River;x
+1563;178;156;12;Nwetwe Pan;x
+1564;134;82;191;Sua Pan;x
+1565;8;226;125;Ryasana Pan;x
+1566;182;239;192;Lake Ngami;x
+1567;19;189;173;Itezhi Tezhi;x
+1568;200;255;63;Lake Kariba;x
+1569;182;199;200;Cahora Bassa;x
+1570;225;252;182;Lake Bangweulu;x
+1571;206;214;39;Lake Mweru;x
+1572;218;211;111;Lake Mweru Wantipa;x
+1573;196;232;141;Lake Rukwa;x
+1574;182;226;200;Lake Tanganyika;x
+1575;251;168;186;Lake Kivu;x
+1576;116;250;8;Lake Sagara;x
+1577;85;221;145;Mtera;x
+1578;152;216;86;Lake Sulunga;x
+1579;218;213;155;Lake Malawi;x
+1580;195;237;80;Lake Malombe;x
+1581;195;181;198;Lake Chilwa;x
+1582;155;251;215;Lake Victoria;x
+1583;80;217;205;Lake Eyasi;x
+1584;208;231;103;Lake Kitangiri;x
+1585;161;213;31;Lake Manyara;x
+1586;189;183;119;Lake Burungi;x
+1587;146;209;248;Lake Natron;x
+1588;119;234;10;Lake Kyoga;x
+1589;86;202;197;Lake Albert;x
+1590;121;186;132;Lake George;x
+1591;172;215;22;Lake Edward;x
+1592;217;251;56;Lake Wamala;x
+1593;101;206;229;Lake Turkana;x
+1594;108;233;105;Lake Tumba;x
+1595;177;177;215;Lake Onague;x
+1596;191;254;126;Lake Volta;x
+1597;140;202;160;Lake Bosomtwe;x
+1598;248;220;48;Lake Kossou;x
+1599;57;243;118;Lake Buyo;x
+1600;92;211;153;Bafoulabe;x
+1601;119;182;6;Lake Rkiz;x
+1602;98;153;173;Tanda;x
+1603;128;201;133;Kamango;x
+1604;38;222;223;Niangay;x
+1605;205;216;137;Do;x
+1606;175;165;149;Chamo Lake;x
+1607;235;246;76;Abaya Lake;x
+1608;106;213;114;Lake Awasa;x
+1609;147;205;21;Koka Lake;x
+1610;163;180;143;Ziway Lake;x
+1611;140;229;185;Langano Lake;x
+1612;254;181;184;Shala Lake;x
+1613;82;220;149;Abijata Lake;x
+1614;70;254;244;Lake Caddabassa;x
+1615;94;157;236;Lake Abhe;x
+1616;5;215;23;Lake 'Assal;x
+1617;80;248;21;Lake Tana;x
+1618;12;253;96;Lake Baringo;x
+1619;27;210;72;Lake Naivasha;x
+1620;209;250;241;Masinga;x
 1621;;;;;x
 1622;;;;;x
 1623;;;;;x
