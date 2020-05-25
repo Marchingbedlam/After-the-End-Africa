@@ -4,7 +4,6 @@ sahel = {
 
 	fulbe = {
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.9 1 0.8 }
 		
@@ -50,9 +49,8 @@ sahel = {
 	}
 	dogon = {
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 		
-		color = { 0.9 1 1.1 }
+		color = { 0.9 0.7 0.9 }
 		
 		male_names = {
 			Abdulahi_Abdullah Abdule_Abdul Abojo Ahmedu_Ahmed Alassane_Alhassan Ali Amaguime Atame
@@ -78,7 +76,6 @@ sahel = {
 	}
 	kanuri = {
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.8 0.45 0.75 }
 		
@@ -132,7 +129,6 @@ sahel = {
 	}
 	tuareg = {
 		graphical_cultures = { berbergfx arabicgfx muslimgfx }
-		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.9 0.8 0 }
 		
@@ -171,9 +167,8 @@ sahel = {
 	}
 	zaghawa = {
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 		
-		color = { 0.9 1 1.1 }
+		color = { 0.9 0.7 0.9 }
 		
 		male_names = {
 			Abbo Abdallah_Abdullah Abdarahman_Abdul-Rahman Abdelkérim_Abdul-Karim Abdul Adam Ahmed Ali
@@ -199,9 +194,8 @@ sahel = {
 	}
 	toubou = {
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 		
-		color = { 0.9 1 1.1 }
+		color = { 0.9 0.7 0.9 }
 		
 		male_names = {
 			Abdallah_Abdullah Abdarahman_Abdul-Rahman Abdelkérim_Abdul-Karim Abdul Adam
@@ -221,9 +215,8 @@ sahel = {
 	}
 	sara = {
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 		
-		color = { 0.9 1 1.1 }
+		color = { 0.9 0.7 0.9 }
 		
 		male_names = {
 			Abdarahman_Abdul-Rahman Abdelkérim_Abdul-Karim Abdoulaye_Abdullah Adoumadji Alladangar Asede
@@ -254,7 +247,6 @@ sahel = {
 	}
 	bagirmi = {
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.1 0.8 0.2 }
 		

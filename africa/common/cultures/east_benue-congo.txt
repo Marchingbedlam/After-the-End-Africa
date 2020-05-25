@@ -9,7 +9,6 @@ cross_river_group = {
 		color = { 0.56 0.80 0.63 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Agba Arikpo
@@ -65,7 +64,6 @@ platoid = {
 		color = { 0.5 0.5 0.1 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Siyanbola Lawani Adeyemi Adelu Atiba Oluewu Amodo Majotu Makua Adebo Bello Onikepe Gbadegesin Ajikin Abisi Lauru Kase Agidigbo Ademufekun
@@ -100,7 +98,6 @@ platoid = {
 		color = { 0.76 0.39 0.4 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Siyanbola Lawani Adeyemi Adelu Atiba Oluewu Amodo Majotu Makua Adebo Bello Onikepe Gbadegesin Ajikin Abisi Lauru Kase Agidigbo Ademufekun
@@ -135,7 +132,6 @@ platoid = {
 		color = { 0.59 0.28 0.14 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Siyanbola Lawani Adeyemi Adelu Atiba Oluewu Amodo Majotu Makua Adebo Bello Onikepe Gbadegesin Ajikin Abisi Lauru Kase Agidigbo Ademufekun

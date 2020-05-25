@@ -7,7 +7,6 @@ edoid = {
 		color = { 0.68 0.76 0.44 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Abieyuwa Amenaghawon
@@ -35,10 +34,9 @@ gbe = {
 	graphical_cultures = { muslimgfx }
 	
 	ewe = {
-		color = { 1.0 1.5 2.0 }
+		color = { 1.0 0.5 0.5 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Adrah Adranyi Afefa Afelete Afetsi Agbe Agbeko Agbemabiase Agbemafle Agbenyo Agbesi Aghbenyefia Akorfala Akpe Akpenamawu Akpene Amedoamegboe Amenyo Ametame Ametefe Amevinya Amewu Aseye Awoe
@@ -110,7 +108,6 @@ gbe = {
 		color = { 0.7 0.34 0.5 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			
@@ -210,7 +207,6 @@ idomoid = {
 		color = { 0.31 0.48 0.37 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = { 
 			Abah Abakpa Aboh Abutu Ada Adah Adakole Adam Adama Adeyi Adole Agaba Agada Agbo Ajeh Ajeibi Ajenu Ajetamene Akoche Akogwu Akor Ale_Alechenu Alenyi_Alenyi-aleche Ameh Anebi Ankeli Anyebe Apeh Apochi Atama 
@@ -240,7 +236,6 @@ ijoid = {
 		color = { 0.26 0.6 0.7 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Abadi Abadibo Akpoebi Akpomatunemibofa Akpomofa Alabrah Alaowei Alazidei Alazimo Amaitari Amakama Amakedi Apapa Arukubu Awaran Ayakpo Ayebatonye Ayebaye Ayibaemi Ayibanua Ayibatonbara 
@@ -294,7 +289,6 @@ nupoid = {
 		color = { 0.20 0.30 0.31 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Edegi "Abdu Waliyi" Alyu Ganamace Ibrahima Idirisu "Abd Allahi 'Tsado" "Abu Bakr Kolo" 
@@ -344,7 +338,6 @@ nupoid = {
 		color = { 0.62 0.51 0.79 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Edegi "Abdu Waliyi" Alyu Ganamace Ibrahima Idirisu "Abd Allahi 'Tsado" "Abu Bakr Kolo" 
@@ -385,7 +378,6 @@ nupoid = {
 		color = { 0.61 0.27 0.58 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Edegi "Abdu Waliyi" Alyu Ganamace Ibrahima Idirisu "Abd Allahi 'Tsado" "Abu Bakr Kolo" 
@@ -433,7 +425,6 @@ yoruboid = {
 		color = { 0.28 0.4 0.57 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Agude Ajogwu Akowe Ameh_Amueh Anoko Akoje Alifeli Alewo 
@@ -457,7 +448,6 @@ yoruboid = {
 		color = { 0.43 0.68 0.66 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Abuchi Achike Afuluchianya Ahamefuna Akachukwu Akobundo Aku Akuwueziuka Amadioha Anekwe Arachie 
@@ -500,7 +490,6 @@ yoruboid = {
 		color = { 1.00 0.78 0.83 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 		
@@ -564,7 +553,6 @@ urhoboid = {
 		color = { 0.34 0.33 0.36 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Abavo Abasa Achoja Adia Adjarho Adjebasare Aduvie Afoke Afokeoghene Afure Agbauduta Agha Aghogho Aghoghovwia Aghwotu Agofure Agogo Agoghene Agoreyo Akpevwe Akpede_Akpoedwvure_Akpoedeye Akpo Akpobaro Akpobasa Akpobome Akpojotor Akpomeyoma Akpomudiare Akponana Akporhuaro Akpoveta Akpovoka Akpowene Akpoyowaire Akonawe Amrophe Aroghene Aruviere Aseroraye Atadede Avwerosuoghene Avwerote Avwunudiogba Akpevwoghene Akpomedaye Akpomiemie Akporode Akpotu Akpomudjere Akpofure Atememejerayivwo 

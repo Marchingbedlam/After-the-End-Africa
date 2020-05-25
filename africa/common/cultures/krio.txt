@@ -7,7 +7,6 @@ krio_group = {
 		color = { 0.65 0.35 0.4 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 		

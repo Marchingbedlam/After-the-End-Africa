@@ -5,7 +5,6 @@ cushitic = {
 	
 	somali = {
 		graphical_cultures = { africangfx westafricangfx }
-		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.2 0.2 0.1 }
 

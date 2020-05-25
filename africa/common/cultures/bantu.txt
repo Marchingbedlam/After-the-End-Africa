@@ -7,7 +7,6 @@ bantu = {
 		color = { 0.5 0.5 0.1 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			A-Löbari Armando_Armand
@@ -43,7 +42,6 @@ bantu = {
 		color = { 0.64 0.54 0.68 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Aondochimba Aondohimba 
@@ -54,10 +52,10 @@ bantu = {
 			
 			Amosa Kaytuhn Kemajou Kwamba Mbe Tohnain
 			
-			Builsa Babato Gazari Alfa Dyori Bako Laganfyela Ali Kokoroko Sabana Tyeba Pintyeba Karamoko Sapilem Nyambre Salma Korongo Koom Yamba Tigre
+			Builsa Babato Gazari Alfa Dyori Bako Laganfyela Ali Kokoroko Sabana Tyeba Pintyeba Karamoko Sapilem Nyambre Salma Korongo Koom Yamba
 			
-			Sapilem Nyambre Salma Korongo Koom Yamba Sorgo Tigre Dulugu Sawadogo Karfo Baongo Kutu Sanum Wobgo Mazi 
-			Sigiri Saaga Kugri Yadega Yolomfaogona Kourita Geda Wobgho Kango Saaga Kaongo Tuguri Korogo Ragongo Wobgo 
+			Sorgo Tigre Dulugu Sawadogo Karfo Baongo Kutu Wobgo Mazi 
+			Sigiri Saaga Kugri Yadega Yolomfaogona Kourita Geda Wobgho Kango Saaga Kaongo Tuguri Korogo Ragongo 
 			Nyambe Moogo Totebaldbo Yemde Sanum Woboga Piiyo Bulli Wedraogo Ligidi Kobga Gigma Dramani
 		}
 		
@@ -82,7 +80,6 @@ bantu = {
 		color = { 0.78 0.60 0.41 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Abumbi Achidi Achirimbi Adolphe Alain_Alan Albert Angwafo Antoine_Anthony Armand Augustine
@@ -124,7 +121,6 @@ bantu = {
 		color = { 0.51 0.63 0.85 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Aondochimba Aondohimba 
@@ -138,7 +134,7 @@ bantu = {
 			Builsa Babato Gazari Alfa Dyori Bako Laganfyela Ali Kokoroko Sabana Tyeba Pintyeba Karamoko Sapilem Nyambre Salma Korongo Koom Yamba Tigre
 			
 			Sapilem Nyambre Salma Korongo Koom Yamba Sorgo Tigre Dulugu Sawadogo Karfo Baongo Kutu Sanum Wobgo Mazi 
-			Sigiri Saaga Kugri Yadega Yolomfaogona Kourita Geda Wobgho Kango Saaga Kaongo Tuguri Korogo Ragongo Wobgo 
+			Sigiri Kugri Yadega Yolomfaogona Kourita Geda Wobgho Kango Saaga Kaongo Tuguri Korogo Ragongo Wobgo 
 			Nyambe Moogo Totebaldbo Yemde Sanum Woboga Piiyo Bulli Wedraogo Ligidi Kobga Gigma Dramani
 		}
 		
@@ -163,7 +159,6 @@ bantu = {
 		color = { 0.88 0.57 0.71 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Akawe Akiga Akperan Alfred Andyar Aper Atah Atom Aul Austin
@@ -199,10 +194,9 @@ bantu = {
 		}
 	}
 	kongo={
-		color = { 0.22 1.36 0.64 }
+		color = { 0.22 0.9 0.64 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Abel Afonso_Alphonse Álvaro Ambrósio André_Andrew Artur_Arthur
@@ -251,7 +245,6 @@ bantu = {
 		color = { 0.5 0.6 0.3 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Alain_Alan Ámery André_Andrew Ángel_Angel Anselmo_Anselm Anthony Aristide Armand Armengol Arsène Augustin_Augustine Avelin Axel Aymardo
@@ -292,7 +285,6 @@ bantu = {
 		color = { 0.4 0.5 0.2 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Adolphe_Adolf Albert Alexander Aloys
@@ -329,7 +321,6 @@ bantu = {
 		color = { 0.2 0.3 0.1 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Adrien_Adrian Alain_alan Albert Auguste_Augustus
@@ -350,7 +341,6 @@ bantu = {
 		color = { 0.8 0.9 0.7 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Agaba Akengai Angbele Ango Asigbara
@@ -384,7 +374,6 @@ bantu = {
 		color = { 0.51 0.77 0.41 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Abel Alexandre_Alexander Alexandre-Ferdinand André_Andrew André-Dieudonné Ange-Félix Anicet-Georges Anicet-Richard Antoine_Anthony
@@ -423,7 +412,6 @@ bantu = {
 		color = { 0.94 0.86 0.16 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Abel Adriano_Adrian Afonso_Alphonse Agostinho_Augustine Alberto_Albert Alexandre_Alexander Alfredo_Alfred António_Anthony Armando Avelino
@@ -472,7 +460,6 @@ bantu = {
 		color = { 0.46 0.78 0.9 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Abel Adriano_Adrian Aires Alberto_Albert Alcides Alicerces Almerindo Américo Amilcar_Hamilcar Anastácio_Anastasius Aníbal_Hannibal António_Anthony Arlindo Armindo Augusto_Augustus
@@ -520,7 +507,6 @@ bantu = {
 		color = { 0.2 0.3 0.1 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Apolo
@@ -552,7 +538,6 @@ bantu = {
 		color = { 0.7 0.3 0.1 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Albert Alfred Amos Andrew Archibald Ayanda
@@ -611,7 +596,6 @@ bantu = {
 		color = { 0.6 0.4 0.2 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Abner Akhumzi Alcott Alfred Alphin Anathi Andile Archibald Arnold Ashby Atandwa Ayanda Azenathi
@@ -664,7 +648,6 @@ bantu = {
 		color = { 0.66 0.66 0.22 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Aggrey Akashambatwa Akelumbela Akufuna Albert Alikunda
@@ -682,7 +665,7 @@ bantu = {
 			Namiluko Natamoyo Ndangwa Nevers Ngalama Ngela Ngombala Njekwa Nyambe
 			Osbert
 			Richard
-			Santulu Sebetwane Sebitwane Sekeletu Sepopa Sesane Shemakone Sekeletu Sekgoma Sikufule Silumelume Simata Simbotwe Sipopa
+			Santulu Sebetwane Sebitwane Sekeletu Sepopa Sesane Shemakone Sekgoma Sikufule Silumelume Simata Simbotwe Sipopa
 			Thaddeus
 			Walusiku Wamulimungwa
 			Yeta Yubya
@@ -698,10 +681,9 @@ bantu = {
 		}
 	}
 	kavango={
-		color = { 1.16 0.61 0.07 }
+		color = { 1.0 0.61 0.07 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Bonifatius_Boniface

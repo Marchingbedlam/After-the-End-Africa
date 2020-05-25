@@ -7,7 +7,6 @@ akan = {
 		color = { 0.95 0.75 0.25 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Abionakam Adofo Adwengo Afuom Agyeman Ahenkro Akwasi Ankoana Anto Antwi "Antwi Agyei" Apraku Asiba "Atakora Osafo" Atenka 
@@ -43,7 +42,6 @@ akan = {
 		color = { 0.9 0.65 0.1 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Abakrampa Adjei_Agyei Aidoo Akron Alan Amonu Amfo-Oto Andrew Antony_Anthony Archibald Arthur Atta Augustus Awotwe
@@ -93,7 +91,6 @@ akan = {
 		color = { 0.9 0.6 0.2 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Abo Adje_Agyei Adrien_Adrian Agpatou Aimé Albert Amédée_Amadeus Ange Arnaud Augustin 

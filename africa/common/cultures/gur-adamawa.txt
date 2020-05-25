@@ -8,7 +8,6 @@ gur = {
 		color = { 0.29 0.3 0.46 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Builsa Babato Gazari Alfa Dyori Bako Laganfyela Ali Kokoroko Sabana Tyeba Pintyeba Karamoko Sapilem Nyambre Salma Korongo Koom Yamba Tigre
@@ -36,7 +35,6 @@ gur = {
 		color = { 0.8 0.75 0.4 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Adamou_Adam
@@ -63,7 +61,6 @@ gur = {
 		color = { 0.28 0.68 0.79 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Builsa Babato Gazari Alfa Dyori Bako Laganfyela Ali Kokoroko Sabana Tyeba Pintyeba Karamoko Sapilem Nyambre Salma Korongo Koom Yamba Tigre

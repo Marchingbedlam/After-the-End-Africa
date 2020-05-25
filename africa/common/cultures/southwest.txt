@@ -72,7 +72,6 @@ namibian = {
 	
 	ovambo = {
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 
 		color = { 0.6 0.55 0.45 }
 
@@ -142,7 +141,6 @@ namibian = {
 
 	nama = {
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.55 0.5 0.3 }
 
@@ -192,7 +190,6 @@ namibian = {
 	}
 	herero = {
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.4 0.35 0.1 }
 
@@ -241,7 +238,6 @@ namibian = {
 
 	damara = {
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.4 0.35 0.1 }
 
@@ -423,7 +419,6 @@ namibian = {
 	}
 	angloid = {
 		graphical_cultures = { westafricangfx englishgfx }
-		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.55 0.5 0.3 }
 

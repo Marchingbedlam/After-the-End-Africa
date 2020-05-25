@@ -4,9 +4,8 @@ arabic = {
 
 	maghrebi = {
 		graphical_cultures = { berbergfx arabicgfx muslimgfx }
-		secondary_event_pictures = bedouin_arabic
 		
-		color = { 0.2 1.2 0.2 }
+		color = { 0.2 1.0 0.2 }
 		
 		male_names = {
 			Abdelatif_Abdul-Latif Abdelaziz_Abdul-Aziz Abdelhak Abdelhamid_Abdul-Hamid Abdeljelil Abdelkader_Abdul-Kadir Abdelkarim Abdellah_Abdullah Abdelmalek_Abdul-Malik Abderrahim_Abdul-Rahman Achref_Ashraf Adil Ahmed Ali Amar Anouar_Anwar Aymen_Ayman Azzedine_Azzaddin
@@ -53,7 +52,6 @@ arabic = {
 	}
 	masri = {
 		graphical_cultures = { berbergfx arabicgfx muslimgfx }
-		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.2 1.0 0.2 }
 		
@@ -104,9 +102,8 @@ arabic = {
 	}
 	mashriqi = {
 		graphical_cultures = { berbergfx arabicgfx muslimgfx }
-		secondary_event_pictures = bedouin_arabic
 		
-		color = { 0.3 1.1 0.2 }
+		color = { 0.3 0.9 0.2 }
 		
 		male_names = {
 			Abbas 
@@ -124,9 +121,8 @@ arabic = {
 	}
 	bedouin = {
 		graphical_cultures = { berbergfx arabicgfx muslimgfx }
-		secondary_event_pictures = bedouin_arabic
 		
-		color = { 0.1 1.1 0.1 }
+		color = { 0.1 0.7 0.1 }
 		
 		male_names = {
 			Abbas "Abd al-Malik"_Abdul-Malik "Abd al-Karim"_Abdul-Karim "Abd al-Latif"_Abdul-Latif "Abd al-Mu'in"_Abdul-Muin "Abd al-Muttalib" "Abd al-Razzaq"_Abdul-Razzaq "Abd al-Salam" Abdulaziz_Abdul-Aziz Abdullah Abdulrahman_Abdul-Rahman "Abu Bakr"_Abu-Bakr "Abu Numayy" "Abu Talib" Adnan "Adnan Ahmad" Ahmad_Ahmed Ali "Ali Haidar" "Ali Hatim" Amr Atiyah Awdah Awn "Awn ar-Rafiq" "Awn Shawkat" Ayman Ayyub_Job
@@ -178,9 +174,8 @@ arabic = {
 	}
 	sudani = {
 		graphical_cultures = { berbergfx arabicgfx muslimgfx }
-		secondary_event_pictures = bedouin_arabic
 		
-		color = { 0.2 1.4 0.4 }
+		color = { 0.2 1.0 0.4 }
 		
 		male_names = {
 			Abbas Abdalla_Abdullah Abdalrahman_Abdul-Rahman Abdelaziz_Abdul-Aziz Abdel-Fatteh_Abdul-Fattah Abdelgadir_Abdul-Kadir Abdelsalam_Abdul-Salam Abdel-Wahab_Abdul-Wahab Abdul-Gasim_Abdul-Qasim Abdul-Hamid Abdul-Rahim Abdul-Wahid Abu-Haef Adam Ahmed Ala'a-Eldin_Aladdin Al-Amin Al-Awad Al-Daw Ali Al-Jazuli Al-Khatim Al-Moez Al-Nazeer Al-Numan Awn-Al-Sharif
@@ -224,9 +219,8 @@ arabic = {
 	}
 	sahrawi = {
 		graphical_cultures = { berbergfx arabicgfx muslimgfx }
-		secondary_event_pictures = bedouin_arabic
 		
-		color = { 0.7 2.2 0.2 }
+		color = { 0.7 0.2 0.2 }
 		
 		male_names = {
 			Abdelaziz_Abdul-Aziz Abdeljalil_Abdul-Jalil Abdelkader_Abdul-Kadir Abdellah_Abdullah Abderrahmane_Abdul-Rahman Ahmed Ali "Ali Beiba" Ayoub_Job
@@ -266,7 +260,6 @@ arabic = {
 	}
 	haratin = {
 		graphical_cultures = { westafricangfx arabicgfx muslimgfx }
-		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.3 0.9 0.3 }
 		
@@ -307,7 +300,6 @@ arabic = {
 	}
 	baggara = {
 		graphical_cultures = { westafricangfx arabicgfx muslimgfx }
-		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.3 0.9 0.3 }
 		
@@ -335,7 +327,6 @@ arabic = {
 	}
 	berber = {
 		graphical_cultures = { westafricangfx arabicgfx muslimgfx }
-		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.5 0.7 0.5 }
 		
@@ -381,7 +372,6 @@ arabic = {
 	}
 	umani = {
 		graphical_cultures = { westafricangfx arabicgfx muslimgfx }
-		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.3 0.9 0.3 }
 		

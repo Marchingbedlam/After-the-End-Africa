@@ -134,7 +134,6 @@ portuguese = {
 		color = { 0.2 0.2 0.2 }
 		
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 			
 		male_names = {
 			Adolfo_Adolf Adul Aliu_Ali Ansumane António_Anthony Artur_Arthur

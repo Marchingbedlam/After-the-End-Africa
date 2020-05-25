@@ -4,7 +4,6 @@ mande = {
 	
 	soninke = {
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.8 0.7 0 }
 		
@@ -40,7 +39,6 @@ mande = {
 	}
 	susu = {
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.8 1 0.7 }
 		
@@ -70,7 +68,6 @@ mande = {
 	}
 	manding = {
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.8 0.8 0.2 }
 		
@@ -114,7 +111,6 @@ mande = {
 	}
 	kpelle = {
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.7 0.7 0 }
 		
@@ -164,7 +160,6 @@ mande = {
 	}
 	mende = {
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.7 0.6 0 }
 		
@@ -206,7 +201,6 @@ mande = {
 	}
 	songhai = {
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.9 0.7 0.6 }
 		
@@ -246,7 +240,6 @@ mande = {
 	}
 	dan = {
 		graphical_cultures = { westafricangfx africangfx }
-		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.7 0.1 0.8 }
 		
