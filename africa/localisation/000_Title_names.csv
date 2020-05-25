@@ -2176,6 +2176,8 @@ d_casamance;Casamance;Casamance;Casamance;;Casamance;;;;;;;;;x
 d_casamance_adj;Casamancean;;casamancer;;;;;;;;;;;x
 d_chari_baguirmi;Chari-Baguirmi;Chari-Baguirmi;Chari-Baguirmi;;Chari-Baguirmi;;;;;;;;;x
 d_chari_baguirmi_adj;Chari-Baguirmian;;chari-baguirmier;;;;;;;;;;;x
+d_comoros;Comoros;Comoros;Comoros;;Comoros;;;;;;;;;x
+d_comoros_adj;Comorian;;comorer;;;;;;;;;;;x
 d_cuvette;Cuvette;Cuvette;Cuvette;;Cuvette;;;;;;;;;x
 d_cuvette_adj;Cuvettean;;cuvetter;;;;;;;;;;;x
 d_dabola;Dabola;Dabola;Dabola;;Dabola;;;;;;;;;x
@@ -2286,6 +2288,8 @@ d_ngounie;Ngounié;Ngounié;Ngounié;;Ngounié;;;;;;;;;x
 d_ngounie_adj;Ngouniéen;;ngouniéer;;;;;;;;;;;x
 d_niari;Niari;Niari;Niari;;Niari;;;;;;;;;x
 d_niari_adj;Niarian;;niarier;;;;;;;;;;;x
+d_niayes;Niayes;Niayes;Niayes;;Niayes;;;;;;;;;x
+d_niayes_adj;Niayois;;niayer;;;;;;;;;;;x
 d_niger;Niger;Niger;Niger;;Niger;;;;;;;;;x
 d_niger_adj;Nigerian;;nigerer;;;;;;;;;;;x
 d_nyanga;Nyanga;Nyanga;Nyanga;;Nyanga;;;;;;;;;x
@@ -2326,6 +2330,8 @@ d_sanaga;Sanaga;Sanaga;Sanaga;;Sanaga;;;;;;;;;x
 d_sanaga_adj;Sanagan;;sanagaer;;;;;;;;;;;x
 d_segou;Ségou;Ségou;Ségou;;Ségou;;;;;;;;;x
 d_segou_adj;Ségian;;séger;;;;;;;;;;;x
+d_senegal;Senegal;Senegal;Senegal;;Senegal;;;;;;;;;x
+d_senegal_adj;Senegalese;;senegaer;;;;;;;;;;;x
 d_sewa;Sewa;Sewa;Sewa;;Sewa;;;;;;;;;x
 d_sewa_adj;Sewan;;sewer;;;;;;;;;;;x
 d_shari;Shari;Shari;Shari;;Shari;;;;;;;;;x
@@ -2396,6 +2402,8 @@ k_cabo_verde;Cabo Verde;Cabo Verde;Cabo Verde;;Cabo Verde;;;;;;;;;x
 k_cabo_verde_adj;Verdean;;verder;;;;;;;;;;;x
 k_cameroon;Cameroon;Cameroon;Cameroon;;Cameroon;;;;;;;;;x
 k_cameroon_adj;Cameroonian;;camerooner;;;;;;;;;;;x
+k_comoros;Comoros;Comoros;Comoros;;Comoros;;;;;;;;;x
+k_comoros_adj;Comorian;;comorer;;;;;;;;;;;x
 k_dagbon;Dagbon;Dagbon;Dagbon;;Dagbon;;;;;;;;;x
 k_dagbon_adj;Dagbani;;dagboner;;;;;;;;;;;x
 k_fouta_djallon;Fouta Djallon;Fouta Djallon;Fouta Djallon;;Fouta Djallon;;;;;;;;;x

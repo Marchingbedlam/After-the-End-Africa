@@ -15,4 +15,39 @@ malagasy_group = {
 			Femalagasy
 		}
 	}
+	comorian = {
+		color = { 0.2 0.1 0.1 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+			
+		male_names = {
+			Abbas Abdallah_Abdullah Abdoulaide Abdoulatifou Ahmed Alaoui Ali Ancoub Andriantsoly Azali
+			Benhamadi Benjaloud Benousseni Bianrifi Boinali
+			Caabi Camal_Kamal Chaehoi Combo
+			Daniel Dhoihirou Djaffar_Jafar Djamal_Jamal Djamalidine
+			Fahardine Fahmi Faouz Fouad_Fuad Foundi
+			Hadhari Hamada Hamissi Haribou Houmadi
+			Ibrahim Ikililou Intisware Iyad
+			Kamardine Kassim
+			Mansour_Mansur Maouana Mhadjou Mohamed_Mohammed Moustadroine Moustapha_Mustafa Moussa_Moses Mouzawar Mtara
+			Nadjim Nakibou Nakim Nasser Nazarali Nourdine
+			Omar
+			Roubani
+			Saïd_Said Saifoudine Salim Samir Soibahadine
+			Tadjidine Tambavou Toifilou
+			Yacine Younoussa_Jonah Youssouf_Joseph
+		}
+		
+		female_names = {
+			Alimah_Hamila
+			Chamsia
+			Djoumbe
+			Faïza Fatima
+			Hadidja
+			Lubaina
+			Salhate Salima Sandjema Sittou
+			Thouiebat Touhfat
+			Zaïnaba
+		}
+	}
 }

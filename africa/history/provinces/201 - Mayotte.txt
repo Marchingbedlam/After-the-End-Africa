@@ -1,0 +1,15 @@
+# County Title
+title = c_mayotte
+
+# Settlements
+max_settlements = 4
+
+b_koungou = castle
+b_mamoudzou = city
+b_dzaoudzi = temple
+
+# Misc
+culture = comorian
+religion = ashari
+
+#History

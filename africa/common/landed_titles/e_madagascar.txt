@@ -691,4 +691,67 @@ e_madagscar = {
 			}
 		}
 	}
+	k_comoros = {
+		color={ 226 148 245 }
+		color2={ 255 255 255 }
+					
+		capital = 200
+		culture = comorian
+					
+		d_comoros = {
+			color={ 200 110 100 }
+			color2={ 255 255 255 }
+
+			capital = 200 
+						
+			c_grande_comore = {
+				color={ 129 116 245 }
+				color2={ 255 255 255 }
+				
+				b_iconi = {}
+				b_moroni = {}
+				b_foumbouni = {}
+				b_hahaya = {}
+				b_koimbani = {}
+				b_dembeni = {}
+				b_ouhozi = {}
+			}
+			c_mayotte = {
+				color={ 197 148 124 }
+				color2={ 255 255 255 }
+				
+				b_koungou = {}
+				b_mamoudzou = {}
+				b_dzaoudzi = {}
+				b_tsingoni = {}
+				b_pamandzi = {}
+				b_bandraboua = {}
+				b_mtsamboro = {}
+			}
+			c_moheli = {
+				color={ 171 106 99 }
+				color2={ 255 255 255 }
+				
+				b_djoiezi = {}
+				b_fomboni = {}
+				b_ouallah = {}
+				b_wanani = {}
+				b_ziroudani = {}
+				b_bandar_salama = {}
+				b_miringoni = {}
+			}
+			c_anjouan = {
+				color={ 226 103 6 }
+				color2={ 255 255 255 }
+				
+				b_domoni = {}
+				b_mutsamudu = {}
+				b_adda_doueni = {}
+				b_ouani = {}
+				b_mirontsi = {}
+				b_ongodjou = {}
+				b_sima = {}
+			}
+		}
+	}
 }

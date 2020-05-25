@@ -1,0 +1,15 @@
+# County Title
+title = c_anjouan
+
+# Settlements
+max_settlements = 4
+
+b_domoni = castle
+b_mutsamudu = city
+b_adda_doueni = temple
+
+# Misc
+culture = comorian
+religion = ashari
+
+#History

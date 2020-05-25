@@ -1,0 +1,15 @@
+# County Title
+title = c_moheli
+
+# Settlements
+max_settlements = 4
+
+b_djoiezi = castle
+b_fomboni = city
+b_ouallah = temple
+
+# Misc
+culture = comorian
+religion = ashari
+
+#History

@@ -189,7 +189,7 @@ e_sahel = {
 				b_mbar_SN = {}
 			}
 		}
-		d_louga = {
+		d_senegal = {
 			color={ 117 97 49 }
 			color2={ 255 255 255 }
 			
@@ -367,7 +367,7 @@ e_sahel = {
 				b_ndoga_babacar_SN = {}
 			}
 		}
-		d_thies = {
+		d_niayes = {
 			color={ 91 71 26 }
 			color2={ 255 255 255 }
 			

@@ -1,0 +1,15 @@
+# County Title
+title = c_grande_comore
+
+# Settlements
+max_settlements = 4
+
+b_iconi = castle
+b_moroni = city
+b_foumbouni = temple
+
+# Misc
+culture = comorian
+religion = ashari
+
+#History
