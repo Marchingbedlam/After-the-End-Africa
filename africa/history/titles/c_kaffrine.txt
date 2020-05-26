@@ -4,6 +4,6 @@
 	law = succ_gavelkind
 }
 2600.1.1={
-	liege=d_thies
+	liege=d_senegal
 	holder=1522001
 }

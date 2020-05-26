@@ -74,8 +74,9 @@ ubuntu;Ubuntu;;;;;;;;;;;;;x
 brethren;Brethren;;;;;;;;;;;;;x
 pirate;Pirate;;;;;;;;;;;;;x
 nautical;Nautical;;;;;;;;;;;;;x
-umojan;Umojan;;;;;;;;;;;;;x
+ubuntu;Ubuntu;;;;;;;;;;;;;x
 ashari;Ash'ari;;;;;;;;;;;;;x
+akom;Akom;;;;;;;;;;;;;x
 ##Gods
 GOD_INDEPENDENCE;Independence;;;;;;;;;;;;;x
 GOD_PROSPERITY;Prosperity;;;;;;;;;;;;;x
@@ -103,5 +104,7 @@ THE_CODE;the Code;;;;;;;;;;;;;x
 PRIEST;Priest;;;;;;;;;;;;;x
 CHIEF_JUSTICE;Chief Justice;;;;;;;;;;;;;x
 LIGHTBRINGER;Lightbringer;;;;;;;;;;;;;x
+GOD_NYAME;Nyame;;;;;;;;;;;;;x
+GOD_ANANSI;Anansi;;;;;;;;;;;;;x
 ##Misc
 steppe;Savannah;;;;;;;;;;;;;x

@@ -178,6 +178,24 @@
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
 }
+1401017={
+	name="Gouno"
+	dynasty=1407004
+	culture=dogon
+	religion=tarikah
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1401018={
+	name="Yacine"
+	dynasty=1406019
+	culture=fulbe
+	religion=tarikah
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
 
 1401020={
 	name="Moussa"

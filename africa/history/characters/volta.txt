@@ -1134,7 +1134,7 @@
 	name="Ekow" 
 	dynasty=1504042 
 	culture=fante
-	religion=anglican
+	religion=akom
 
 	trait=gamer
 	trait=skilled_tactician
@@ -1165,7 +1165,7 @@
 	name="Frefre" 
 	dynasty=1501026
 	culture=asante
-	religion=anglican
+	religion=akom
 
 	2630.3.8={birth=yes}
 	2700.1.1={death=yes}
@@ -1183,7 +1183,7 @@
 	name="Opoku Ware" 
 	dynasty=1501023
 	culture=asante
-	religion=anglican
+	religion=akom
 
 	trait=zealous
 
@@ -1210,7 +1210,7 @@
 	name="Kwasi Bodua" 
 	dynasty=1501037
 	culture=asante
-	religion=anglican
+	religion=akom
 
 	2627.5.15={birth=yes}
 	2700.1.1={death=yes}

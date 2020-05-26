@@ -163,3 +163,48 @@
 	2646.1.1={ birth=yes }
 	2700.1.1={ death=yes }
 }
+1917009={
+	name="Bukari"
+	culture=fulbe
+	religion=tarikah
+	dynasty=1406009
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1917010={
+	name="Salek"
+	culture=haratin
+	religion=ashari
+	dynasty=1917001
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1917011={
+	name="Khatri"
+	culture=sahrawi
+	religion=ashari
+	dynasty=1916010
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1917012={
+	name="Abdelkader"
+	culture=sahrawi
+	religion=ashari
+	dynasty=1916000
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1917013={
+	name="Louly"
+	culture=haratin
+	religion=ashari
+	dynasty=1917010
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}

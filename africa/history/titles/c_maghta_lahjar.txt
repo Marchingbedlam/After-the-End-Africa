@@ -1,0 +1,5 @@
+2660.1.1={
+	holder=1917013
+	historical_nomad=yes
+	liege=d_aoukar
+}
