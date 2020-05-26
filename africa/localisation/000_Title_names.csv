@@ -47,10 +47,6 @@ b_bafing_3;Bafing;Bafing;Bafing;;Bafing;;;;;;;;;x
 b_bafing_3_adj;Bafingian;;bafinger;;;;;;;;;;;x
 b_bafoulabe;Bafoulabé;Bafoulabé;Bafoulabé;;Bafoulabé;;;;;;;;;x
 b_bafoulabe_adj;Bafoulabéian;;bafoulabéer;;;;;;;;;;;x
-b_bafoulabe_2;Bafoulabé;Bafoulabé;Bafoulabé;;Bafoulabé;;;;;;;;;x
-b_bafoulabe_2_adj;Bafoulabéian;;bafoulabéer;;;;;;;;;;;x
-b_bafoulabe_3;Bafoulabé;Bafoulabé;Bafoulabé;;Bafoulabé;;;;;;;;;x
-b_bafoulabe_3_adj;Bafoulabéian;;bafoulabéer;;;;;;;;;;;x
 b_bamako;Bamako;Bamako;Bamako;;Bamako;;;;;;;;;x
 b_bamako_adj;Bamakian;;bamaker;;;;;;;;;;;x
 b_bamako_2;Bamako;Bamako;Bamako;;Bamako;;;;;;;;;x
@@ -183,10 +179,6 @@ b_debli;Debli;Debli;Debli;;Debli;;;;;;;;;x
 b_debli_adj;Deblian;;debler;;;;;;;;;;;x
 b_diema;Diéma;Diéma;Diéma;;Diéma;;;;;;;;;x
 b_diema_adj;Diéman;;diémer;;;;;;;;;;;x
-b_diema_2;Diéma;Diéma;Diéma;;Diéma;;;;;;;;;x
-b_diema_2_adj;Diéman;;diémer;;;;;;;;;;;x
-b_diema_3;Diéma;Diéma;Diéma;;Diéma;;;;;;;;;x
-b_diema_3_adj;Diéman;;diémer;;;;;;;;;;;x
 b_digya;Digya;Digya;Digya;;Digya;;;;;;;;;x
 b_digya_adj;Digyan;;diger;;;;;;;;;;;x
 b_digya_2;Digya;Digya;Digya;;Digya;;;;;;;;;x
@@ -409,10 +401,6 @@ b_kankan_3;Kankan;Kankan;Kankan;;Kankan;;;;;;;;;x
 b_kankan_3_adj;Kankanian;;kankaner;;;;;;;;;;;x
 b_kayes;Kayes;Kayes;Kayes;;Kayes;;;;;;;;;x
 b_kayes_adj;Kayesian;;kayeser;;;;;;;;;;;x
-b_kayes_2;Kayes;Kayes;Kayes;;Kayes;;;;;;;;;x
-b_kayes_2_adj;Kayesian;;kayeser;;;;;;;;;;;x
-b_kayes_3;Kayes;Kayes;Kayes;;Kayes;;;;;;;;;x
-b_kayes_3_adj;Kayesian;;kayeser;;;;;;;;;;;x
 b_kebemer;Kébémer;Kébémer;Kébémer;;Kébémer;;;;;;;;;x
 b_kebemer_adj;Kébémerian;;kébémerer;;;;;;;;;;;x
 b_kebemer_2;Kébémer;Kébémer;Kébémer;;Kébémer;;;;;;;;;x
@@ -16022,7 +16010,36 @@ b_sahondra;Sahondra;Sahondra;Sahondra;;;;;;;x
 b_bepea;Bepea;Bepea;Bepea;;;;;;;x
 b_belitsaka;Belitsaka;Belitsaka;Belitsaka;;;;;;;x
 b_ambinda;Ambinda;Ambinda;Ambinda;;;;;;;x
-
+b_dieoura;Diéoura;Diéoura;Diéoura;;;;;;;x
+b_groumera;Grouméra;Grouméra;Grouméra;;;;;;;x
+b_bema;Béma;Béma;Béma;;;;;;;x
+b_guedebine;Guédébiné;Guédébiné;Guédébiné;;;;;;;x
+b_sansankide;Sansankidé;Sansankidé;Sansankidé;;;;;;;x
+b_gomitradougou;Gomitradougou;Gomitradougou;Gomitradougou;;;;;;;x
+b_madiga_sacko;Madiga Sacko;Madiga Sacko;Madiga Sacko;;;;;;;x
+b_fatao;Fatao;Fatao;Fatao;;;;;;;x
+b_diangounte_camara;Diangounté Camara;Diangounté Camara;Diangounté Camara;;;;;;;x
+b_djelebou;Djélébou;Djélébou;Djélébou;;;;;;;x
+b_guidimakan_keri_kafo;Guidimakan Keri Kafo;Guidimakan Keri Kafo;Guidimakan Keri Kafo;;;;;;;x
+b_kemene_tambo;Kéméné Tambo;Kéméné Tambo;Kéméné Tambo;;;;;;;x
+b_koussane;Koussané;Koussané;Koussané;;;;;;;x
+b_sadiola;Sadiola;Sadiola;Sadiola;;;;;;;x
+b_segala;Ségala;Ségala;Ségala;;;;;;;x
+b_marena_diombougou;;;;;;;;;;x
+b_bangassi;Bangassi;Bangassi;Bangassi;;;;;;;x
+b_sero_diamanou;Séro Diamanou;Séro Diamanou;Séro Diamanou;;;;;;;x
+b_gueniebe;Guéniébé;Guéniébé;Guéniébé;;;;;;;x
+b_guire;Guiré;Guiré;Guiré;;;;;;;x
+b_boum_boum;Boum-Boum;Boum-Boum;Boum-Boum;;;;;;;x
+b_elaket;Elakèt;Elakèt;Elakèt;;;;;;;x
+b_wenia;Wénia;Wénia;Wénia;;;;;;;x
+b_oumre;Oumré;Oumré;Oumré;;;;;;;x
+b_kaele;Kaélé;Kaélé;Kaélé;;;;;;;x
+b_mogode;Mogodé;Mogodé;Mogodé;;;;;;;x
+b_tchati_bali;Tchati-Bali;Tchati-Bali;Tchati-Bali;;;;;;;x
+b_kay_hay;Kay-Hay;Kay-Hay;Kay-Hay;;;;;;;x
+b_kai_kai;Kai-Kai;Kai-Kai;Kai-Kai;;;;;;;x
+b_soulede_roua;Souledé-Roua;Souledé-Roua;Souledé-Roua;;;;;;;x
 
 
 
