@@ -4,11 +4,11 @@
 title = c_bafoulabe
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_bafoulabe = castle
-b_bafoulabe_2 = city
-b_bafoulabe_3 = temple
+b_bamafele = city
+b_diakon = temple
 
 # Misc
 culture = soninke

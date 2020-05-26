@@ -2,9 +2,11 @@
 title = c_kani
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_kani = castle
+b_kaele = castle
+b_mindif = city
+b_guidiguis = temple
 
 # Misc
 culture = kpelle

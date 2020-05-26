@@ -4,7 +4,8 @@ title = c_tsanaga
 # Settlements
 max_settlements = 3
 
-b_tsanaga = castle
+b_mokolo = castle
+b_bourrha = city
 
 # Misc
 culture = kpelle

@@ -7,7 +7,7 @@ title = c_yendi
 max_settlements = 3
 
 b_yendi = tribal
-b_yendi_2 = temple
+b_zabzugu = temple
 
 # Misc
 culture = dagomba

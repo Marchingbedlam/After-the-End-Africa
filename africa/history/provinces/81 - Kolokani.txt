@@ -4,11 +4,11 @@
 title = c_kolokani
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_kolokani = castle
-b_kolokani_2 = city
-b_kolokani_3 = temple
+b_banamba = city
+b_didieni = temple
 
 # Misc
 culture = soninke

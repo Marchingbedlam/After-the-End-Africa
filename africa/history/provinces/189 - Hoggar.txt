@@ -4,7 +4,7 @@ title = c_hoggar
 # Settlements
 max_settlements = 3
 
-b_tamanrasset_DZ = tribal
+b_logone_birni = tribal
 
 # Misc
 culture = tuareg

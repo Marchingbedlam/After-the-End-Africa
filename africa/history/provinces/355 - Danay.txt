@@ -4,7 +4,8 @@ title = c_danay
 # Settlements
 max_settlements = 3
 
-b_danay = castle
+b_yagoua = castle
+b_datcheka = temple
 
 # Misc
 culture = kpelle

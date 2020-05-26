@@ -4,7 +4,8 @@ title = c_diamare
 # Settlements
 max_settlements = 3
 
-b_diamare = castle
+b_maroua = castle
+b_makelinguei = temple
 
 # Misc
 culture = kpelle

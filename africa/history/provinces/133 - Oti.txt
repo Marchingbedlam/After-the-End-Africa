@@ -6,7 +6,7 @@ title = c_oti
 # Settlements
 max_settlements = 3
 
-b_oti = tribal
+b_kpasa = tribal
 
 # Misc
 culture = dagomba
