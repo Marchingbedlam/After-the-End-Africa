@@ -4,7 +4,8 @@ title = c_logone_et_chari
 # Settlements
 max_settlements = 3
 
-b_logone_et_chari = castle
+b_logone_birni = castle
+b_labado = temple
 
 # Misc
 culture = kpelle
