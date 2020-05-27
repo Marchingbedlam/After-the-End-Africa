@@ -1,12 +1,11 @@
 # County Title
-title = c_sokode
+title = c_sotouboua
 
 # Settlements
 max_settlements = 3
 
-b_sokode_1 = castle
-b_sokode_2 = temple
-b_sokode_3 = city
+b_sotouboua = castle
+b_ayengre = temple
 
 # Misc
 culture = gurunsi

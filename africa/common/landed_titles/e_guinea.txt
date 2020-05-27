@@ -1070,6 +1070,7 @@ e_guinea = {
 				color={ 121 162 26 }
 				color2={ 255 255 255 }
 				
+				b_sokode = {}
 				b_babde = {}
 				b_koloware = {}
 				b_agoulou = {}
@@ -1090,13 +1091,18 @@ e_guinea = {
 				b_agbassa = {}
 				b_aloum = {}
 			}
-			c_sokode = {
+			c_sotouboua = {
 				color={ 183 161 90 }
 				color2={ 255 255 255 }
 					
-				b_sokode_1 = {}
-				b_sokode_2 = {}
-				b_sokode_3 = {}
+				b_sotouboua = {}
+				b_ayengre = {}
+				b_mpoti = {}
+				b_fazao = {}
+				b_blitta = {}
+				b_assoumakodji = {}
+				b_dogoble = {}
+				b_pagala = {}
 			}
 		}
 	}
@@ -1438,13 +1444,19 @@ e_guinea = {
 			color={ 121 81 32 }
 			color2={ 255 255 255 }
 			
-			capital = 128 # c_kintampo
+			capital = 128 # c_techiman
 			
-			c_kintampo = { # 128
+			c_techiman = { # 128
 				color={ 111 91 27 }
 				color2={ 255 255 255 }
 				
+				b_techiman = {}
 				b_kintampo = {}
+				b_jema = {}
+				b_subinso = {}
+				b_saronoase = {}
+				b_chiranda = {}
+				b_wenchi = {}
 			}
 			c_sunyani = {
 				color={ 151 77 45 }

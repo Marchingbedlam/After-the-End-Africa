@@ -126,7 +126,7 @@ province;red;green;blue;x;x
 125;122;104;45;Afram Plains;x
 126;131;107;29;Ho;x
 127;143;128;80;Accra;x
-128;111;91;27;Kintampo;x
+128;111;91;27;Techiman;x
 129;160;135;55;Gontougo;x
 130;198;173;91;Bounkani;x
 131;214;178;59;Mpaha;x
@@ -533,7 +533,7 @@ province;red;green;blue;x;x
 532;231;152;22;Fitri;x
 533;244;124;18;Batha-Ouest;x
 534;247;217;61;Barh El Gazel;x
-535;23;90;244;Lake Tchad;x
+535;;;;;x
 536;243;217;80;Kanem;x
 537;181;42;17;Ennedi;x
 538;234;66;35;Borkou;x
@@ -571,7 +571,7 @@ province;red;green;blue;x;x
 570;170;157;25;Tongu;x
 571;177;87;132;Abomey;x
 572;145;86;130;Ketu;x
-573;183;161;90;Sokode;x
+573;183;161;90;Sotouboua;x
 574;168;127;84;Dankpen;x
 575;197;135;181;Dassa;x
 576;138;97;127;Shaki;x
@@ -1454,7 +1454,7 @@ province;red;green;blue;x;x
 1453;249;85;17;Socotra;x
 1454;157;232;195;Farasan;x
 1455;;;;;x
-1456;;;;;x
+1456;23;90;244;Lake Tchad;x
 1457;145;163;110;Congo River;x
 1458;183;132;132;Congo River;x
 1459;160;203;106;Congo River;x

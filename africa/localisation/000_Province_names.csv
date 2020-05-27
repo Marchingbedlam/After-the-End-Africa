@@ -1,1623 +1,1623 @@
-PROV1;Maryland;Maryland;Maryland;;;;;;;;;x
-PROV2;Sinoe;Sinoe;Sinoe;;;;;;;;;x
-PROV3;River Cess;River Cess;River Cess;;;;;;;;;x
-PROV4;Grand Cape;Grand Cape;Grand Cape;;;;;;;;;x
-PROV5;Grand Bassa;Grand Bassa;Grand Bassa;;;;;;;;;x
-PROV6;Monrovia;Monrovia;Monrovia;;;;;;;;;x
-PROV7;Nimba;Nimba;Nimba;;;;;;;;;x
-PROV8;Gedeh;;;;;;;;;;;x
-PROV9;Gee;Gee;Gee;;;;;;;;;x
-PROV10;Bong;Bong;Bong;;;;;;;;;x
-PROV11;Macenta;Macenta;Macenta;;;;;;;;;x
-PROV12;Gbarpolu;Gbarpolu;Gbarpolu;;;;;;;;;x
-PROV13;Lofa;Lofa;Lofa;;;;;;;;;x
-PROV14;Bonthe;Bonthe;Bonthe;;;;;;;;;x
-PROV15;Pujehun;Pujehun;Pujehun;;;;;;;;;x
-PROV16;Bo;Bo;Bo;;;;;;;;;x
-PROV17;Kenema;Kenema;Kenema;;;;;;;;;x
-PROV18;Kono;Kono;Kono;;;;;;;;;x
-PROV19;Loko;Loko;Loko;;;;;;;;;x
-PROV20;Bombali;Bombali;Bombali;;;;;;;;;x
-PROV21;Koinadugu;Koinadugu;Koinadugu;;;;;;;;;x
-PROV22;Freetown;Freetown;Freetown;;;;;;;;;x
-PROV23;Forécariah;Forécariah;Forécariah;;;;;;;;;x
-PROV24;Mamou;Mamou;Mamou;;;;;;;;;x
-PROV25;Dubréka;Dubréka;Dubréka;;;;;;;;;x
-PROV26;Kindia;Kindia;Kindia;;;;;;;;;x
-PROV27;Boké;;;;;;;;;;;x
-PROV28;Tonkpi;;;;;;;;;;;x
-PROV29;Boffa;Boffa;Boffa;;;;;;;;;x
-PROV30;Télimélé;Télimélé;Télimélé;;;;;;;;;x
-PROV31;Gaoual;Gaoual;Gaoual;;;;;;;;;x
-PROV32;Labé;;;;;;;;;;;x
-PROV33;Koundara;Koundara;Koundara;;;;;;;;;x
-PROV34;Pita;;;;;;;;;;;x
-PROV35;Siguiri;Siguiri;Siguiri;;;;;;;;;x
-PROV36;Mandiana;Mandiana;Mandiana;;;;;;;;;x
-PROV37;Dinguiraye;Dinguiraye;Dinguiraye;;;;;;;;;x
-PROV38;Kouroussa;Kouroussa;Kouroussa;;;;;;;;;x
-PROV39;Tougué;Tougué;Tougué;;;;;;;;;x
-PROV40;Mali;;;;;;;;;;;x
-PROV41;Dabola;Dabola;Dabola;;;;;;;;;x
-PROV42;Faranah;Faranah;Faranah;;;;;;;;;x
-PROV43;Guékédou;Guékédou;Guékédou;;;;;;;;;x
-PROV44;Banfélé;Banfélé;Banfélé;;;;;;;;;x
-PROV45;Nzérékoré;;;;;;;;;;;x
-PROV46;Kankan;Kankan;Kankan;;;;;;;;;x
-PROV47;Kérouané;;;;;;;;;;;x
-PROV48;Beyla;Beyla;Beyla;;;;;;;;;x
-PROV49;Oio;Oio;Oio;;;;;;;;;x
-PROV50;Bolama;Bolama;Bolama;;;;;;;;;x
-PROV51;Bissau;;;;;;;;;;;x
-PROV52;Quinara;Quinara;Quinara;;;;;;;;;x
-PROV53;Bafatá;Bafatá;Bafatá;;;;;;;;;x
-PROV54;Kolda;Kolda;Kolda;;;;;;;;;x
-PROV55;Sédhiou;Sédhiou;Sédhiou;;;;;;;;;x
-PROV56;Gambia;Gambia;Gambia;;;;;;;;;x
-PROV57;Ziguinchor;Ziguinchor;Ziguinchor;;;;;;;;;x
-PROV58;Kédougou;Kédougou;Kédougou;;;;;;;;;x
-PROV59;Bakel;;;;;;;;;;;x
-PROV60;Wassadougou;;;;;;;;;;;x
-PROV61;Thiès;Thiès;Thiès;;;;;;;;;x
-PROV62;Foundiougne;;;;;;;;;;;x
-PROV63;Ahafo Ano;;;;;;;;;;;x
-PROV64;Kaffrine;;;;;;;;;;;x
-PROV65;Kaolack;;;;;;;;;;;x
-PROV66;Janjanbureh;Janjanbureh;Janjanbureh;;;;;;;;;x
-PROV67;Diourbel;;;;;;;;;;;x
-PROV68;Louga;;;;;;;;;;;x
-PROV69;Saint-Louis;;;;;;;;;;;x
-PROV70;Linguére;Linguére;Linguére;;;;;;;;;x
-PROV71;Podor;Podor;Podor;;;;;;;;;x
-PROV72;Kanel;Kanel;Kanel;;;;;;;;;x
-PROV73;Ranérou Ferlo;;;;;;;;;;;x
-PROV74;Tambacounda;;;;;;;;;;;x
-PROV75;Matam;;;;;;;;;;;x
-PROV76;Kita;Kita;Kita;;;;;;;;;x
-PROV77;Kayes;Kayes;Kayes;;;;;;;;;x
-PROV78;Bafoulabé;;;;;;;;;;;x
-PROV79;Kéniéba;;;;;;;;;;;x
-PROV80;Nara;Nara;Nara;;;;;;;;;x
-PROV81;Kolokani;Kolokani;Kolokani;;;;;;;;;x
-PROV82;Dioïla;;;;;;;;;;;x
-PROV83;Bamako;Bamako;Bamako;;;;;;;;;x
-PROV84;Bougouni;;;;;;;;;;;x
-PROV85;Yanfolila;;;;;;;;;;;x
-PROV86;Barouéli;;;;;;;;;;;x
-PROV87;Koutiala;;;;;;;;;;;x
-PROV88;Sikasso;;;;;;;;;;;x
-PROV89;Ségou;Ségou;Ségou;;;;;;;;;x
-PROV90;Macina;Macina;Macina;;;;;;;;;x
-PROV91;San;San;San;;;;;;;;;x
-PROV92;Timbouctou;;;;;;;;;;;x
-PROV93;Bandiagara;;;;;;;;;;;x
-PROV94;Koro;;;;;;;;;;;x
-PROV95;Gourma Rharous;;;;;;;;;;;x
-PROV96;Garou;Garou;Garou;;;;;;;;;x
-PROV97;West Gao;;;;;;;;;;;x
-PROV98;Nawa;;;;;;;;;;;x
-PROV99;San-Pédro;San-Pédro;San-Pédro;;;;;;;;;x
-PROV100;Gbôklé;;;;;;;;;;;x
-PROV101;Lôh-Djiboua;;;;;;;;;;;x
-PROV102;Abidjan;Abidjan;Abidjan;;;;;;;;;x
-PROV103;Agnéby-Tiassa;;;;;;;;;;;x
-PROV104;Aboisso;;;;;;;;;;;x
-PROV105;Iffou;;;;;;;;;;;x
-PROV106;Indénié-Djuablin;Indénié-Djuablin;Indénié-Djuablin;;;;;;;;;x
-PROV107;N'Zi;N'Zi;N'Zi;;;;;;;;;x
-PROV108;Hambol;Hambol;Hambol;;;;;;;;;x
-PROV109;Tchologo;;;;;;;;;;;x
-PROV110;Poro;;;;;;;;;;;x
-PROV111;Gôh;;;;;;;;;;;x
-PROV112;Haut-Sassandra;Haut-Sassandra;Haut-Sassandra;;;;;;;;;x
-PROV113;Wawlè;;;;;;;;;;;x
-PROV114;Bafing;Bafing;Bafing;;;;;;;;;x
-PROV115;Cavally;Cavally;Cavally;;;;;;;;;x
-PROV116;Bagoué;;;;;;;;;;;x
-PROV117;Denguélé;;;;;;;;;;;x
-PROV118;Worodougou;Worodougou;Worodougou;;;;;;;;;x
-PROV119;Cape Coast;;;;;;;;;;;x
-PROV120;Sunyani;Sunyani;Sunyani;;;;;;;;;x
-PROV121;Nzema;;;;;;;;;;;x
-PROV122;Bia;;;;;;;;;;;x
-PROV123;Kumasi;Kumasi;Kumasi;;;;;;;;;x
-PROV124;Wawa;;;;;;;;;;;x
-PROV125;Afram Plains;;;;;;;;;;;x
-PROV126;Ho;;;;;;;;;;;x
-PROV127;Accra;Accra;Accra;;;;;;;;;x
-PROV128;Kintampo;Kintampo;Kintampo;;;;;;;;;x
-PROV129;Gontougo;;;;;;;;;;;x
-PROV130;Bounkani;;;;;;;;;;;x
-PROV131;Mpaha;Mpaha;Mpaha;;;;;;;;;x
-PROV132;Tamale;Tamale;Tamale;;;;;;;;;x
-PROV133;Oti;Oti;Oti;;;;;;;;;x
-PROV134;Yendi;Yendi;Yendi;;;;;;;;;x
-PROV135;Mamprusi;;;;;;;;;;;x
-PROV136;Bolgatanga;Bolgatanga;Bolgatanga;;;;;;;;;x
-PROV137;Kpendjal;;;;;;;;;;;x
-PROV138;Comoé;;;;;;;;;;;x
-PROV139;Ouagadougou;Ouagadougou;Ouagadougou;;;;;;;;;x
-PROV140;Poni;;;;;;;;;;;x
-PROV141;Banwa;;;;;;;;;;;x
-PROV142;Mouhoun;;;;;;;;;;;x
-PROV143;Sourou;;;;;;;;;;;x
-PROV144;Sanmatenga;Sanmatenga;Sanmatenga;;;;;;;;;x
-PROV145;Oudalan;;;;;;;;;;;x
-PROV146;Komandjari;;;;;;;;;;;x
-PROV147;Yatenga;;;;;;;;;;;x
-PROV148;Gnagna;;;;;;;;;;;x
-PROV149;Tapoa;;;;;;;;;;;x
-PROV150;Gourma;;;;;;;;;;;x
-PROV151;Lubutu;;;;;;;;;x
-PROV152;Ubundu;;;;;;;;;x
-PROV153;Opala;;;;;;;;;x
-PROV154;Ikela;;;;;;;;;x
-PROV155;Boende;;;;;;;;;x
-PROV156;Bokungu;;;;;;;;;x
-PROV157;Tonkolili;Tonkolili;Tonkolili;;;;;;;;;x
-PROV158;Santiago;;;;;;;;;x
-PROV159;Fogo;;;;;;;;;x
-PROV160;Boavista e Sal;;;;;;;;;x
-PROV161;Sao Vicente;;;;;;;;;x
-PROV162;Santo Antao;;;;;;;;;x
-PROV163;Rosso;;;;;;;;;x
-PROV164;R'Kiz;;;;;;;;;x
-PROV165;Nouakchott;;;;;;;;;x
-PROV166;Boutilimit;;;;;;;;;x
-PROV167;Inchiri;;;;;;;;;x
-PROV168;Arguin;;;;;;;;;x
-PROV169;Nouadhibou;;;;;;;;;x
-PROV170;Brakna;;;;;;;;;x
-PROV171;Gorgol;;;;;;;;;x
-PROV172;Guidimaka;;;;;;;;;x
-PROV173;Aftout;;;;;;;;;x
-PROV174;Kiffa;;;;;;;;;x
-PROV175;Tintane;;;;;;;;;x
-PROV176;Aïoun;;;;;;;;;x
-PROV177;Timbédra;;;;;;;;;x
-PROV178;Néma;;;;;;;;;x
-PROV179;Tagant;;;;;;;;;x
-PROV180;Maghta-Lahjar;;;;;;;;;x
-PROV181;Atar;;;;;;;;;x
-PROV182;Chinguetti;;;;;;;;;x
-PROV183;Tiris Zemmour;;;;;;;;;x
-PROV184;Oued Ed-Dahab;;;;;;;;;x
-PROV185;Oualata;;;;;;;;;x
-PROV186;Kidal;;;;;;;;;x
-PROV187;Tessalit;;;;;;;;;x
-PROV188;Bordj Badji Mokhtar;;;;;;;;;x
-PROV189;Hoggar;;;;;;;;;x
-PROV190;Tanezrouft;;;;;;;;;x
-PROV191;Chinde;;;;;;;;;x
-PROV192;Quelimane;;;;;;;;;x
-PROV193;Rukungiri;;;;;;;;;x
-PROV194;Mbarara;;;;;;;;;x
-PROV195;Kabarole;;;;;;;;;x
-PROV196;Kyenjojo;;;;;;;;;x
-PROV197;Masindi;;;;;;;;;x
-PROV198;Nile;;;;;;;;;x
-PROV199;Amuru;;;;;;;;;x
-PROV200;Grande Comore;;;;;;;;;x
-PROV201;Mayotte;;;;;;;;;x
-PROV202;Reunion;;;;;;;;;x
-PROV203;Mauritius;;;;;;;;;x
-PROV204;Rodrigues;;;;;;;;;x
-PROV205;Sava;;;;;;;;;x
-PROV206;Ambilobe;;;;;;;;;x
-PROV207;Antisiranana;;;;;;;;;x
-PROV208;Itasy;;;;;;;;;x
-PROV209;Alaotra-Mangoro;;;;;;;;;x
-PROV210;Maroantsetra;;;;;;;;;x
-PROV211;Soanierana-Ivongo;;;;;;;;;x
-PROV212;Toamasina;;;;;;;;;x
-PROV213;Toliara;;;;;;;;;x
-PROV214;Morombe;;;;;;;;;x
-PROV215;Faux Cap;;;;;;;;;x
-PROV216;Betioky-Atsimo;;;;;;;;;x
-PROV217;Taolagnaro;;;;;;;;;x
-PROV218;Ihosy;;;;;;;;;x
-PROV219;Atsimo-Atsinanana;;;;;;;;;x
-PROV220;Fianarantsoa;;;;;;;;;x
-PROV221;Vatovavy-Fitovinany;;;;;;;;;x
-PROV222;Amoron'i Mania;;;;;;;;;x
-PROV223;Vakinankaratra;;;;;;;;;x
-PROV224;Bongolava;;;;;;;;;x
-PROV225;Antananarivo;;;;;;;;;x
-PROV226;Betsiboka;;;;;;;;;x
-PROV227;Maintirano;;;;;;;;;x
-PROV228;Besalampy;;;;;;;;;x
-PROV229;Mitsinjo;;;;;;;;;x
-PROV230;Marovoay;;;;;;;;;x
-PROV231;Mandritsara;;;;;;;;;x
-PROV232;Bealanana;;;;;;;;;x
-PROV233;Analalava;;;;;;;;;x
-PROV234;Boriziny;;;;;;;;;x
-PROV235;Vatomandry;;;;;;;;;x
-PROV236;Belon'i Tsiribihina;;;;;;;;;x
-PROV237;Morondava;;;;;;;;;x
-PROV238;Pemba;;;;;;;;;x
-PROV239;Zanzibar;;;;;;;;;x
-PROV240;Mafia;;;;;;;;;x
-PROV241;Tanga;;;;;;;;;x
-PROV242;Dar es Salaam;;;;;;;;;x
-PROV243;Rufiji;;;;;;;;;x
-PROV244;Bagamoyo;;;;;;;;;x
-PROV245;Kilwa;;;;;;;;;x
-PROV246;Mtwara;;;;;;;;;x
-PROV247;Lindi;;;;;;;;;x
-PROV248;Morogoro;;;;;;;;;x
-PROV249;Kilimanjaro;;;;;;;;;x
-PROV250;Liwale;;;;;;;;;x
-PROV251;Tunduru;;;;;;;;;x
-PROV252;Songea;;;;;;;;;x
-PROV253;Nyasa;;;;;;;;;x
-PROV254;Mahenge;;;;;;;;;x
-PROV255;Kilombero;;;;;;;;;x
-PROV256;Kilosa;;;;;;;;;x
-PROV257;Iringa;;;;;;;;;x
-PROV258;Mufundi;;;;;;;;;x
-PROV259;Dodoma;;;;;;;;;x
-PROV260;Chemba;;;;;;;;;x
-PROV261;Handeni;;;;;;;;;x
-PROV262;Kiteto;;;;;;;;;x
-PROV263;Babati;;;;;;;;;x
-PROV264;Arusha;;;;;;;;;x
-PROV265;Lukwati;;;;;;;;;x
-PROV266;Mbeya;;;;;;;;;x
-PROV267;Mbarali;;;;;;;;;x
-PROV268;Njombe;;;;;;;;;x
-PROV269;Sumbawanga;;;;;;;;;x
-PROV270;Nkasi;;;;;;;;;x
-PROV271;Mlele;;;;;;;;;x
-PROV272;Mpanda;;;;;;;;;x
-PROV273;Kigoma;;;;;;;;;x
-PROV274;Manyoni;;;;;;;;;x
-PROV275;Singida;;;;;;;;;x
-PROV276;Serengeti;;;;;;;;;x
-PROV277;Musoma;;;;;;;;;x
-PROV278;Ngorongoro;;;;;;;;;x
-PROV279;Bukoba;;;;;;;;;x
-PROV280;Biharamulo;;;;;;;;;x
-PROV281;Mwanza;;;;;;;;;x
-PROV282;Kasulu;;;;;;;;;x
-PROV283;Kibondo;;;;;;;;;x
-PROV284;Sikonge;;;;;;;;;x
-PROV285;Shinyanga;;;;;;;;;x
-PROV286;Kaliua;;;;;;;;;x
-PROV287;Nzega;;;;;;;;;x
-PROV288;Geita;;;;;;;;;x
-PROV289;Bukombe;;;;;;;;;x
-PROV290;Bariadi;;;;;;;;;x
-PROV291;Maswa;;;;;;;;;x
-PROV292;Tabora;;;;;;;;;x
-PROV293;Uyui;;;;;;;;;x
-PROV294;Kilolo;;;;;;;;;x
-PROV295;Songwe;;;;;;;;;x
-PROV296;Mwanga;;;;;;;;;x
-PROV297;Mkuranga;;;;;;;;;x
-PROV298;Mwapwa;;;;;;;;;x
-PROV299;Kigali;;;;;;;;;x
-PROV300;Ngoma;;;;;;;;;x
-PROV301;Bujumbura;;;;;;;;;x
-PROV302;Mutumba;;;;;;;;;x
-PROV303;Buyengero;;;;;;;;;x
-PROV304;Kibuye;;;;;;;;;x
-PROV305;Mandera;;;;;;;;;x
-PROV306;Wajir;;;;;;;;;x
-PROV307;Garissa;;;;;;;;;x
-PROV308;Lamu;;;;;;;;;x
-PROV309;Kwale;;;;;;;;;x
-PROV310;Kilifi;;;;;;;;;x
-PROV311;Tana;;;;;;;;;x
-PROV312;Taita-Taveta;;;;;;;;;x
-PROV313;Kitui;;;;;;;;;x
-PROV314;Narok;;;;;;;;;x
-PROV315;Kajiado;;;;;;;;;x
-PROV316;Ilemi;;;;;;;;;x
-PROV317;Turkana;;;;;;;;;x
-PROV318;Marsabit;;;;;;;;;x
-PROV319;Samburu;;;;;;;;;x
-PROV320;Isiolo;;;;;;;;;x
-PROV321;Makueni;;;;;;;;;x
-PROV322;Kisumu;;;;;;;;;x
-PROV323;Homabay;;;;;;;;;x
-PROV324;Kericho;;;;;;;;;x
-PROV325;Laikipia;;;;;;;;;x
-PROV326;Bungoma;;;;;;;;;x
-PROV327;Uasin Gishu;;;;;;;;;x
-PROV328;Baringo;;;;;;;;;x
-PROV329;Trans-Nzoia;;;;;;;;;x
-PROV330;West Pokot;;;;;;;;;x
-PROV331;Meru;;;;;;;;;x
-PROV332;Nairobi;;;;;;;;;x
-PROV333;Machakos;;;;;;;;;x
-PROV334;Nakuru;;;;;;;;;x
-PROV335;Embu;;;;;;;;;x
-PROV336;Nyeri;;;;;;;;;x
-PROV337;Busoga;;;;;;;;;x
-PROV338;Masaka;;;;;;;;;x
-PROV339;Bombo;;;;;;;;;x
-PROV340;Kampala;;;;;;;;;x
-PROV341;Mubende;;;;;;;;;x
-PROV342;Mbale;;;;;;;;;x
-PROV343;Teso;;;;;;;;;x
-PROV344;Morota;;;;;;;;;x
-PROV345;Kotido;;;;;;;;;x
-PROV346;Lango;;;;;;;;;x
-PROV347;Acholi;;;;;;;;;x
-PROV348;Nki-Bek;;;;;;;;;x
-PROV349;Batouri;;;;;;;;;x
-PROV350;Logone-et-Chari;;;;;;;;;x
-PROV351;Betroka;;;;;;;;;x
-PROV352;Tsanaga;;;;;;;;;x
-PROV353;Diamaré;;;;;;;;;x
-PROV354;Kani;;;;;;;;;x
-PROV355;Danay;;;;;;;;;x
-PROV356;Louti;;;;;;;;;x
-PROV357;Bénoué;;;;;;;;;x
-PROV358;Faro;;;;;;;;;x
-PROV359;Mayo-Rey;;;;;;;;;x
-PROV360;Vina;;;;;;;;;x
-PROV361;Faro-et-Déo;;;;;;;;;x
-PROV362;Mayo-Banyo;;;;;;;;;x
-PROV363;Djérem;;;;;;;;;x
-PROV364;Mbéré;;;;;;;;;x
-PROV365;Lom-et-Djérem;;;;;;;;;x
-PROV366;Haut-Nyong;;;;;;;;;x
-PROV367;Boumba-et-Ngoko;;;;;;;;;x
-PROV368;Dja-et-Lobo;;;;;;;;;x
-PROV369;Vallee-du-Ntem;;;;;;;;;x
-PROV370;Océan;;;;;;;;;x
-PROV371;Mbam-et-Kim;;;;;;;;;x
-PROV372;Haute-Sanaga;;;;;;;;;x
-PROV373;Inoubou;;;;;;;;;x
-PROV374;Yokadouma;;;;;;;;;x
-PROV375;Yaounde;;;;;;;;;x
-PROV376;Nyong-et-So'o;;;;;;;;;x
-PROV377;Nyong-et-Mfoumou;;;;;;;;;x
-PROV378;Nyong-et-Kéllé;;;;;;;;;x
-PROV379;Sanaga-Maritime;;;;;;;;;x
-PROV380;Seychelles;;;;;;;;;x
-PROV381;Moungo;;;;;;;;;x
-PROV382;Douala;;;;;;;;;x
-PROV383;Mvila;;;;;;;;;x
-PROV384;Ivohibe;;;;;;;;;x
-PROV385;Mifi;;;;;;;;;x
-PROV386;Bafoussam;;;;;;;;;x
-PROV387;Manakara;;;;;;;;;x
-PROV388;Massangam;;;;;;;;;x
-PROV389;Kumbo;;;;;;;;;x
-PROV390;Bamenda;;;;;;;;;x
-PROV391;Sambava;;;;;;;;;x
-PROV392;Pangar;;;;;;;;;x
-PROV393;Manyu;;;;;;;;;x
-PROV394;;;;;;;;;;x
-PROV395;Bertoua;;;;;;;;;x
-PROV396;Mahabo;;;;;;;;;x
-PROV397;Diema;;;;;;;;;x
-PROV398;Koupé-Manengouba;;;;;;;;;x
-PROV399;Makari;;;;;;;;;x
-PROV400;Etulá;;;;;;;;;x
-PROV401;São Tomé e Príncipe;;;;;;;;;x
-PROV402;Muni-Litoral;;;;;;;;;x
-PROV403;Centro Sur;;;;;;;;;x
-PROV404;Ntem;;;;;;;;;x
-PROV405;Wele-Nzas;;;;;;;;;x
-PROV406;Woleu;;;;;;;;;x
-PROV407;Haut-Ntem;;;;;;;;;x
-PROV408;Okano;;;;;;;;;x
-PROV409;Komo;;;;;;;;;x
-PROV410;Noya;;;;;;;;;x
-PROV411;Libreville;;;;;;;;;x
-PROV412;Bendjé;;;;;;;;;x
-PROV413;Etimboué;;;;;;;;;x
-PROV414;Ndougou;;;;;;;;;x
-PROV415;Mougoutsi;;;;;;;;;x
-PROV416;Banio;;;;;;;;;x
-PROV417;Douya-Onoyé;;;;;;;;;x
-PROV418;Louetsi;;;;;;;;;x
-PROV419;Ogoulou;;;;;;;;;x
-PROV420;Tsamba-Magotsi;;;;;;;;;x
-PROV421;Ogooué et des Lacs;;;;;;;;;x
-PROV422;Abanga-Bigné;;;;;;;;;x
-PROV423;Lopé;;;;;;;;;x
-PROV424;Ambatofinandrahana;;;;;;;;;x
-PROV425;Ivindo;;;;;;;;;x
-PROV426;Zadié;;;;;;;;;x
-PROV427;Sébé-Brikolo;;;;;;;;;x
-PROV428;Ankazobe;;;;;;;;;x
-PROV429;Djoué;;;;;;;;;x
-PROV430;Mpassa;;;;;;;;;x
-PROV431;Madirovalo;;;;;;;;;x
-PROV432;Mouloundou;;;;;;;;;x
-PROV433;Bouenguidi;;;;;;;;;x
-PROV434;Offoué-Onoyé;;;;;;;;;x
-PROV435;Kouilou;;;;;;;;;x
-PROV436;Pointe-Noire;;;;;;;;;x
-PROV437;Dolisie-Loubomo;;;;;;;;;x
-PROV438;Mossendjo;;;;;;;;;x
-PROV439;Nkayi;;;;;;;;;x
-PROV440;Lalaua;;;;;;;;;x
-PROV441;Mouyondzi;;;;;;;;;x
-PROV442;Sibiti;;;;;;;;;x
-PROV443;Komono;;;;;;;;;x
-PROV444;Zanaga;;;;;;;;;x
-PROV445;Bambama;;;;;;;;;x
-PROV446;Kinkala;;;;;;;;;x
-PROV447;Kindamba;;;;;;;;;x
-PROV448;Mayama;;;;;;;;;x
-PROV449;Brazzaville;;;;;;;;;x
-PROV450;Ngabé;;;;;;;;;x
-PROV451;Léfini;;;;;;;;;x
-PROV452;Nelspruit;;;;;;;;;x
-PROV453;Abala;;;;;;;;;x
-PROV454;Gamboma;;;;;;;;;x
-PROV455;Okoyo;;;;;;;;;x
-PROV456;Owando;;;;;;;;;x
-PROV457;Makoua;;;;;;;;;x
-PROV458;Liranga;;;;;;;;;x
-PROV459;Ewo;;;;;;;;;x
-PROV460;Nkomazi;;;;;;;;;x
-PROV461;Ouésso;;;;;;;;;x
-PROV462;Impfondo;;;;;;;;;x
-PROV463;Chaillu;;;;;;;;;x
-PROV464;Tenenkou;;;;;;;;;x
-PROV465;Pikounda;;;;;;;;;x
-PROV466;Djambala;;;;;;;;;x
-PROV467;Sangha-Mbaéré;;;;;;;;;x
-PROV468;Berbérati;;;;;;;;;x
-PROV469;Carnot;;;;;;;;;x
-PROV470;Baboua;;;;;;;;;x
-PROV471;Bouar;;;;;;;;;x
-PROV472;Bozoum;;;;;;;;;x
-PROV473;Bocaranga;;;;;;;;;x
-PROV474;Paoua;;;;;;;;;x
-PROV475;Markounda;;;;;;;;;x
-PROV476;Bossangoa;;;;;;;;;x
-PROV477;Bouca;;;;;;;;;x
-PROV478;Batangafo;;;;;;;;;x
-PROV479;Nana-Grébizi;;;;;;;;;x
-PROV480;Kémo;;;;;;;;;x
-PROV481;Bangui;;;;;;;;;x
-PROV482;Yaloke-Bossembélé;;;;;;;;;x
-PROV483;Lobaye;;;;;;;;;x
-PROV484;Grimari;;;;;;;;;x
-PROV485;Bambari;;;;;;;;;x
-PROV486;Ippy;;;;;;;;;x
-PROV487;Bamingui-Bangoran;;;;;;;;;x
-PROV488;Saint-Floris;;;;;;;;;x
-PROV489;Vakaga;;;;;;;;;x
-PROV490;Haute-Kotto;;;;;;;;;x
-PROV491;Bangassou;;;;;;;;;x
-PROV492;Gambo-Ouango;;;;;;;;;x
-PROV493;Mobaye;;;;;;;;;x
-PROV494;Alindao;;;;;;;;;x
-PROV495;Rafaï;;;;;;;;;x
-PROV496;Haut-Mbomou;;;;;;;;;x
-PROV497;La Nya;;;;;;;;;x
-PROV498;Monts de Lam;;;;;;;;;x
-PROV499;Dodjé;;;;;;;;;x
-PROV500;Ngourkosso;;;;;;;;;x
-PROV501;Léré-Tréné;;;;;;;;;x
-PROV502;Mayo-Boneye;;;;;;;;;x
-PROV503;Mayo-Lémié;;;;;;;;;x
-PROV504;Tandjilé;;;;;;;;;x
-PROV505;Loug Chari;;;;;;;;;x
-PROV506;Baguirmi;;;;;;;;;x
-PROV507;N'Djamena;;;;;;;;;x
-PROV508;Dababa;;;;;;;;;x
-PROV509;Haraze Al Biar;;;;;;;;;x
-PROV510;Wayi;;;;;;;;;x
-PROV511;Mamdi;;;;;;;;;x
-PROV512;Zakouma;;;;;;;;;x
-PROV513;Barh Signaka;;;;;;;;;x
-PROV514;Abtouyour;;;;;;;;;x
-PROV515;Guéra;;;;;;;;;x
-PROV516;Iro;;;;;;;;;x
-PROV517;Barh Köh;;;;;;;;;x
-PROV518;Grande Silo;;;;;;;;;x
-PROV519;Mandoul;;;;;;;;;x
-PROV520;Barh Sara;;;;;;;;;x
-PROV521;Aboudeïa;;;;;;;;;x
-PROV522;Barh Azoum;;;;;;;;;x
-PROV523;Haraze-Mangueigne;;;;;;;;;x
-PROV524;Kimiti;;;;;;;;;x
-PROV525;Djourf Al Ahmar;;;;;;;;;x
-PROV526;Assoungha;;;;;;;;;x
-PROV527;Ouara;;;;;;;;;x
-PROV528;Dar Tama;;;;;;;;;x
-PROV529;Kobé;;;;;;;;;x
-PROV530;Wadi Fira;;;;;;;;;x
-PROV531;Batha-Est;;;;;;;;;x
-PROV532;Fitri;;;;;;;;;x
-PROV533;Batha-Ouest;;;;;;;;;x
-PROV534;Barh El Gazel;;;;;;;;;x
-PROV535;Lake Tchad;;;;;;;;;x
-PROV536;Kanem;;;;;;;;;x
-PROV537;Ennedi;;;;;;;;;x
-PROV538;Borkou;;;;;;;;;x
-PROV539;Tibesti;;;;;;;;;x
-PROV540;Téra;;;;;;;;;x
-PROV541;Tillabéri;;;;;;;;;x
-PROV542;Filingue;;;;;;;;;x
-PROV543;Niamey;;;;;;;;;x
-PROV544;Say;;;;;;;;;x
-PROV545;Gaya;;;;;;;;;x
-PROV546;Dogondoutchi;;;;;;;;;x
-PROV547;Birnin Konni;;;;;;;;;x
-PROV548;Tahoua;;;;;;;;;x
-PROV549;Madaoua;;;;;;;;;x
-PROV550;Abalak;;;;;;;;;x
-PROV551;Tchintabaraden;;;;;;;;;x
-PROV552;Groumdji;;;;;;;;;x
-PROV553;Dakoro;;;;;;;;;x
-PROV554;Tazrouk;;;;;;;;;x
-PROV555;Tessaoua;;;;;;;;;x
-PROV556;Matameye;;;;;;;;;x
-PROV557;Zinder;;;;;;;;;x
-PROV558;Tanout;;;;;;;;;x
-PROV559;Goure;;;;;;;;;x
-PROV560;Maïné-Soroa;;;;;;;;;x
-PROV561;Diffa;;;;;;;;;x
-PROV562;N'Guigmi;;;;;;;;;x
-PROV563;Agadez;;;;;;;;;x
-PROV564;Arlit;;;;;;;;;x
-PROV565;Kaouar;;;;;;;;;x
-PROV566;Lagos;Lagos;Lagos;;;;;;;;;x
-PROV567;Sissili;;;;;;;;;;;x
-PROV568;Porto Novo;Porto Novo;Porto Novo;;;;;;;;;x
-PROV569;Lomé;;;;;;;;;;;x
-PROV570;Tongu;;;;;;;;;;;x
-PROV571;Abomey;Abomey;Abomey;;;;;;;;;x
-PROV572;Ketou;Ketou;Ketou;;;;;;;;;x
-PROV573;Sokodé;Sokodé;Sokodé;;;;;;;;;x
-PROV574;Dankpen;;;;;;;;;;;x
-PROV575;Dassa;Dassa;Dassa;;;;;;;;;x
-PROV576;Shaki;Shaki;Shaki;;;;;;;;;x
-PROV577;Iseyin;Iseyin;Iseyin;;;;;;;;;x
-PROV578;Oyo;Oyo;Oyo;;;;;;;;;x
-PROV579;Ilorin;Ilorin;Ilorin;;;;;;;;;x
-PROV580;Igboho;Igboho;Igboho;;;;;;;;;x
-PROV581;Ikare-Akoko;Ikare-Akoko;Ikare-Akoko;;;;;;;;;x
-PROV582;Ado-Ekiti;Ado-Ekiti;Ado-Ekiti;;;;;;;;;x
-PROV583;Ibadan;Ibadan;Ibadan;;;;;;;;;x
-PROV584;Abeokuta;Abeokuta;Abeokuta;;;;;;;;;x
-PROV585;Ijebu;Ijebu;Ijebu;;;;;;;;;x
-PROV586;Bougouriba;;;;;;;;;;;x
-PROV587;Ondo;Ondo;Ondo;;;;;;;;;x
-PROV588;Akure;Akure;Akure;;;;;;;;;x
-PROV589;Owo;Owo;Owo;;;;;;;;;x
-PROV590;East Gonja;;;;;;;;;;;x
-PROV591;Assin;;;;;;;;;;;x
-PROV592;Amenfi;;;;;;;;;;;x
-PROV593;Benin;Benin;Benin;;;;;;;;;x
-PROV594;Ewu;Ewu;Ewu;;;;;;;;;x
-PROV595;Ughelli;Ughelli;Ughelli;;;;;;;;;x
-PROV596;Marahoué;;;;;;;;;;;x
-PROV597;Gonja;;;;;;;;;;;x
-PROV598;Asaba;Asaba;Asaba;;;;;;;;;x
-PROV599;Onitsha;Onitsha;Onitsha;;;;;;;;;x
-PROV600;Kwale;Kwale;Kwale;;;;;;;;;x
-PROV601;Yamoussoukro;;;;;;;;;;;x
-PROV602;Enugu;Enugu;Enugu;;;;;;;;;x
-PROV603;Nsukka;Nsukka;Nsukka;;;;;;;;;x
-PROV604;Abaleke;Abaleke;Abaleke;;;;;;;;;x
-PROV605;Yenagoa;Yenagoa;Yenagoa;;;;;;;;;x
-PROV606;La Mé;;;;;;;;;;;x
-PROV607;Kénédougou;;;;;;;;;;;x
-PROV608;Owerri;Owerri;Owerri;;;;;;;;;x
-PROV609;Ugep;Ugep;Ugep;;;;;;;;;x
-PROV610;Aba;Aba;Aba;;;;;;;;;x
-PROV611;Port Harcourt;Port Harcourt;Port Harcourt;;;;;;;;;x
-PROV612;Emohua;Emohua;Emohua;;;;;;;;;x
-PROV613;Djougou;Djougou;Djougou;;;;;;;;;x
-PROV614;Natitingou;Natitingou;Natitingou;;;;;;;;;x
-PROV615;Kandi;Kandi;Kandi;;;;;;;;;x
-PROV616;Nikki;Nikki;Nikki;;;;;;;;;x
-PROV617;Parakou;Parakou;Parakou;;;;;;;;;x
-PROV618;Uyo;Uyo;Uyo;;;;;;;;;x
-PROV619;Calabar;Calabar;Calabar;;;;;;;;;x
-PROV620;Boulkiemdé;;;;;;;;;;;x
-PROV621;Ikom;Ikom;Ikom;;;;;;;;;x
-PROV622;Idah;Idah;Idah;;;;;;;;;x
-PROV623;Potiskum;Potiskum;Potiskum;;;;;;;;;x
-PROV624;Ankpa;Ankpa;Ankpa;;;;;;;;;x
-PROV625;Lokoja;Lokoja;Lokoja;;;;;;;;;x
-PROV626;Kabba;Kabba;Kabba;;;;;;;;;x
-PROV627;Okene;Okene;Okene;;;;;;;;;x
-PROV628;Bussa;Bussa;Bussa;;;;;;;;;x
-PROV629;Sokoto;Sokoto;Sokoto;;;;;;;;;x
-PROV630;Argungu;Argungu;Argungu;;;;;;;;;x
-PROV631;Birnin Kebbi;Birnin Kebbi;Birnin Kebbi;;;;;;;;;x
-PROV632;Bunza;Bunza;Bunza;;;;;;;;;x
-PROV633;Zuru;Zuru;Zuru;;;;;;;;;x
-PROV634;Yana;Yana;Yana;;;;;;;;;x
-PROV635;Dakingari;Dakingari;Dakingari;;;;;;;;;x
-PROV636;Koko;Koko;Koko;;;;;;;;;x
-PROV637;Yelwa;Yelwa;Yelwa;;;;;;;;;x
-PROV638;Rijau;Rijau;Rijau;;;;;;;;;x
-PROV639;Kontagora;Kontagora;Kontagora;;;;;;;;;x
-PROV640;Mokwa;Mokwa;Mokwa;;;;;;;;;x
-PROV641;Vo;;;;;;;;;;;x
+PROV1;Maryland;Maryland;Maryland;;Maryland;;;;;;;x
+PROV2;Sinoe;Sinoe;Sinoe;;Sinoe;;;;;;;x
+PROV3;River Cess;River Cess;River Cess;;River Cess;;;;;;;x
+PROV4;Grand Cape;Grand Cape;Grand Cape;;Grand Cape;;;;;;;x
+PROV5;Grand Bassa;Grand Bassa;Grand Bassa;;Grand Bassa;;;;;;;x
+PROV6;Monrovia;Monrovia;Monrovia;;Monrovia;;;;;;;x
+PROV7;Nimba;Nimba;Nimba;;Nimba;;;;;;;x
+PROV8;Gedeh;Gedeh;Gedeh;;Gedeh;;;;;;;x
+PROV9;Gee;Gee;Gee;;Gee;;;;;;;x
+PROV10;Bong;Bong;Bong;;Bong;;;;;;;x
+PROV11;Macenta;Macenta;Macenta;;Macenta;;;;;;;x
+PROV12;Gbarpolu;Gbarpolu;Gbarpolu;;Gbarpolu;;;;;;;x
+PROV13;Lofa;Lofa;Lofa;;Lofa;;;;;;;x
+PROV14;Bonthe;Bonthe;Bonthe;;Bonthe;;;;;;;x
+PROV15;Pujehun;Pujehun;Pujehun;;Pujehun;;;;;;;x
+PROV16;Bo;Bo;Bo;;Bo;;;;;;;x
+PROV17;Kenema;Kenema;Kenema;;Kenema;;;;;;;x
+PROV18;Kono;Kono;Kono;;Kono;;;;;;;x
+PROV19;Loko;Loko;Loko;;Loko;;;;;;;x
+PROV20;Bombali;Bombali;Bombali;;Bombali;;;;;;;x
+PROV21;Koinadugu;Koinadugu;Koinadugu;;Koinadugu;;;;;;;x
+PROV22;Freetown;Freetown;Freetown;;Freetown;;;;;;;x
+PROV23;Forécariah;Forécariah;Forécariah;;Forécariah;;;;;;;x
+PROV24;Mamou;Mamou;Mamou;;Mamou;;;;;;;x
+PROV25;Dubréka;Dubréka;Dubréka;;Dubréka;;;;;;;x
+PROV26;Kindia;Kindia;Kindia;;Kindia;;;;;;;x
+PROV27;Boké;Boké;Boké;;Boké;;;;;;;x
+PROV28;Tonkpi;Tonkpi;Tonkpi;;Tonkpi;;;;;;;x
+PROV29;Boffa;Boffa;Boffa;;Boffa;;;;;;;x
+PROV30;Télimélé;Télimélé;Télimélé;;Télimélé;;;;;;;x
+PROV31;Gaoual;Gaoual;Gaoual;;Gaoual;;;;;;;x
+PROV32;Labé;Labé;Labé;;Labé;;;;;;;x
+PROV33;Koundara;Koundara;Koundara;;Koundara;;;;;;;x
+PROV34;Pita;Pita;Pita;;Pita;;;;;;;x
+PROV35;Siguiri;Siguiri;Siguiri;;Siguiri;;;;;;;x
+PROV36;Mandiana;Mandiana;Mandiana;;Mandiana;;;;;;;x
+PROV37;Dinguiraye;Dinguiraye;Dinguiraye;;Dinguiraye;;;;;;;x
+PROV38;Kouroussa;Kouroussa;Kouroussa;;Kouroussa;;;;;;;x
+PROV39;Tougué;Tougué;Tougué;;Tougué;;;;;;;x
+PROV40;Mali;Mali;Mali;;Mali;;;;;;;x
+PROV41;Dabola;Dabola;Dabola;;Dabola;;;;;;;x
+PROV42;Faranah;Faranah;Faranah;;Faranah;;;;;;;x
+PROV43;Guékédou;Guékédou;Guékédou;;Guékédou;;;;;;;x
+PROV44;Banfélé;Banfélé;Banfélé;;Banfélé;;;;;;;x
+PROV45;Nzérékoré;Nzérékoré;Nzérékoré;;Nzérékoré;;;;;;;x
+PROV46;Kankan;Kankan;Kankan;;Kankan;;;;;;;x
+PROV47;Kérouané;Kérouané;Kérouané;;Kérouané;;;;;;;x
+PROV48;Beyla;Beyla;Beyla;;Beyla;;;;;;;x
+PROV49;Oio;Oio;Oio;;Oio;;;;;;;x
+PROV50;Bolama;Bolama;Bolama;;Bolama;;;;;;;x
+PROV51;Bissau;Bissau;Bissau;;Bissau;;;;;;;x
+PROV52;Quinara;Quinara;Quinara;;Quinara;;;;;;;x
+PROV53;Bafatá;Bafatá;Bafatá;;Bafatá;;;;;;;x
+PROV54;Kolda;Kolda;Kolda;;Kolda;;;;;;;x
+PROV55;Sédhiou;Sédhiou;Sédhiou;;Sédhiou;;;;;;;x
+PROV56;Gambia;Gambia;Gambia;;Gambia;;;;;;;x
+PROV57;Ziguinchor;Ziguinchor;Ziguinchor;;Ziguinchor;;;;;;;x
+PROV58;Kédougou;Kédougou;Kédougou;;Kédougou;;;;;;;x
+PROV59;Bakel;Bakel;Bakel;;Bakel;;;;;;;x
+PROV60;Wassadougou;Wassadougou;Wassadougou;;Wassadougou;;;;;;;x
+PROV61;Thiès;Thiès;Thiès;;Thiès;;;;;;;x
+PROV62;Foundiougne;Foundiougne;Foundiougne;;Foundiougne;;;;;;;x
+PROV63;Ahafo Ano;Ahafo Ano;Ahafo Ano;;Ahafo Ano;;;;;;;x
+PROV64;Kaffrine;Kaffrine;Kaffrine;;Kaffrine;;;;;;;x
+PROV65;Kaolack;Kaolack;Kaolack;;Kaolack;;;;;;;x
+PROV66;Janjanbureh;Janjanbureh;Janjanbureh;;Janjanbureh;;;;;;;x
+PROV67;Diourbel;Diourbel;Diourbel;;Diourbel;;;;;;;x
+PROV68;Louga;Louga;Louga;;Louga;;;;;;;x
+PROV69;Saint-Louis;Saint-Louis;Saint-Louis;;Saint-Louis;;;;;;;x
+PROV70;Linguére;Linguére;Linguére;;Linguére;;;;;;;x
+PROV71;Podor;Podor;Podor;;Podor;;;;;;;x
+PROV72;Kanel;Kanel;Kanel;;Kanel;;;;;;;x
+PROV73;Ranérou Ferlo;Ranérou Ferlo;Ranérou Ferlo;;Ranérou Ferlo;;;;;;;x
+PROV74;Tambacounda;Tambacounda;Tambacounda;;Tambacounda;;;;;;;x
+PROV75;Matam;Matam;Matam;;Matam;;;;;;;x
+PROV76;Kita;Kita;Kita;;Kita;;;;;;;x
+PROV77;Kayes;Kayes;Kayes;;Kayes;;;;;;;x
+PROV78;Bafoulabé;Bafoulabé;Bafoulabé;;Bafoulabé;;;;;;;x
+PROV79;Kéniéba;Kéniéba;Kéniéba;;Kéniéba;;;;;;;x
+PROV80;Nara;Nara;Nara;;Nara;;;;;;;x
+PROV81;Kolokani;Kolokani;Kolokani;;Kolokani;;;;;;;x
+PROV82;Dioïla;Dioïla;Dioïla;;Dioïla;;;;;;;x
+PROV83;Bamako;Bamako;Bamako;;Bamako;;;;;;;x
+PROV84;Bougouni;Bougouni;Bougouni;;Bougouni;;;;;;;x
+PROV85;Yanfolila;Yanfolila;Yanfolila;;Yanfolila;;;;;;;x
+PROV86;Barouéli;Barouéli;Barouéli;;Barouéli;;;;;;;x
+PROV87;Koutiala;Koutiala;Koutiala;;Koutiala;;;;;;;x
+PROV88;Sikasso;Sikasso;Sikasso;;Sikasso;;;;;;;x
+PROV89;Ségou;Ségou;Ségou;;Ségou;;;;;;;x
+PROV90;Macina;Macina;Macina;;Macina;;;;;;;x
+PROV91;San;San;San;;San;;;;;;;x
+PROV92;Timbouctou;Timbouctou;Timbouctou;;Timbouctou;;;;;;;x
+PROV93;Bandiagara;Bandiagara;Bandiagara;;Bandiagara;;;;;;;x
+PROV94;Koro;Koro;Koro;;Koro;;;;;;;x
+PROV95;Gourma Rharous;Gourma Rharous;Gourma Rharous;;Gourma Rharous;;;;;;;x
+PROV96;Garou;Garou;Garou;;Garou;;;;;;;x
+PROV97;West Gao;West Gao;West Gao;;West Gao;;;;;;;x
+PROV98;Nawa;Nawa;Nawa;;Nawa;;;;;;;x
+PROV99;San-Pédro;San-Pédro;San-Pédro;;San-Pédro;;;;;;;x
+PROV100;Gbôklé;Gbôklé;Gbôklé;;Gbôklé;;;;;;;x
+PROV101;Lôh-Djiboua;Lôh-Djiboua;Lôh-Djiboua;;Lôh-Djiboua;;;;;;;x
+PROV102;Abidjan;Abidjan;Abidjan;;Abidjan;;;;;;;x
+PROV103;Agnéby-Tiassa;Agnéby-Tiassa;Agnéby-Tiassa;;Agnéby-Tiassa;;;;;;;x
+PROV104;Aboisso;Aboisso;Aboisso;;Aboisso;;;;;;;x
+PROV105;Iffou;Iffou;Iffou;;Iffou;;;;;;;x
+PROV106;Indénié-Djuablin;Indénié-Djuablin;Indénié-Djuablin;;Indénié-Djuablin;;;;;;;x
+PROV107;N'Zi;N'Zi;N'Zi;;N'Zi;;;;;;;x
+PROV108;Hambol;Hambol;Hambol;;Hambol;;;;;;;x
+PROV109;Tchologo;Tchologo;Tchologo;;Tchologo;;;;;;;x
+PROV110;Poro;Poro;Poro;;Poro;;;;;;;x
+PROV111;Gôh;Gôh;Gôh;;Gôh;;;;;;;x
+PROV112;Haut-Sassandra;Haut-Sassandra;Haut-Sassandra;;Haut-Sassandra;;;;;;;x
+PROV113;Wawlè;Wawlè;Wawlè;;Wawlè;;;;;;;x
+PROV114;Bafing;Bafing;Bafing;;Bafing;;;;;;;x
+PROV115;Cavally;Cavally;Cavally;;Cavally;;;;;;;x
+PROV116;Bagoué;Bagoué;Bagoué;;Bagoué;;;;;;;x
+PROV117;Denguélé;Denguélé;Denguélé;;Denguélé;;;;;;;x
+PROV118;Worodougou;Worodougou;Worodougou;;Worodougou;;;;;;;x
+PROV119;Cape Coast;Cape Coast;Cape Coast;;Cape Coast;;;;;;;x
+PROV120;Sunyani;Sunyani;Sunyani;;Sunyani;;;;;;;x
+PROV121;Nzema;Nzema;Nzema;;Nzema;;;;;;;x
+PROV122;Bia;Bia;Bia;;Bia;;;;;;;x
+PROV123;Kumasi;Kumasi;Kumasi;;Kumasi;;;;;;;x
+PROV124;Wawa;Wawa;Wawa;;Wawa;;;;;;;x
+PROV125;Afram Plains;Afram Plains;Afram Plains;;Afram Plains;;;;;;;x
+PROV126;Ho;Ho;Ho;;Ho;;;;;;;x
+PROV127;Accra;Accra;Accra;;Accra;;;;;;;x
+PROV128;Techiman;Techiman;Techiman;;Techiman;;;;;;;x
+PROV129;Gontougo;Gontougo;Gontougo;;Gontougo;;;;;;;x
+PROV130;Bounkani;Bounkani;Bounkani;;Bounkani;;;;;;;x
+PROV131;Mpaha;Mpaha;Mpaha;;Mpaha;;;;;;;x
+PROV132;Tamale;Tamale;Tamale;;Tamale;;;;;;;x
+PROV133;Oti;Oti;Oti;;Oti;;;;;;;x
+PROV134;Yendi;Yendi;Yendi;;Yendi;;;;;;;x
+PROV135;Mamprusi;Mamprusi;Mamprusi;;Mamprusi;;;;;;;x
+PROV136;Bolgatanga;Bolgatanga;Bolgatanga;;Bolgatanga;;;;;;;x
+PROV137;Kpendjal;Kpendjal;Kpendjal;;Kpendjal;;;;;;;x
+PROV138;Comoé;Comoé;Comoé;;Comoé;;;;;;;x
+PROV139;Ouagadougou;Ouagadougou;Ouagadougou;;Ouagadougou;;;;;;;x
+PROV140;Poni;Poni;Poni;;Poni;;;;;;;x
+PROV141;Banwa;Banwa;Banwa;;Banwa;;;;;;;x
+PROV142;Mouhoun;Mouhoun;Mouhoun;;Mouhoun;;;;;;;x
+PROV143;Sourou;Sourou;Sourou;;Sourou;;;;;;;x
+PROV144;Sanmatenga;Sanmatenga;Sanmatenga;;Sanmatenga;;;;;;;x
+PROV145;Oudalan;Oudalan;Oudalan;;Oudalan;;;;;;;x
+PROV146;Komandjari;Komandjari;Komandjari;;Komandjari;;;;;;;x
+PROV147;Yatenga;Yatenga;Yatenga;;Yatenga;;;;;;;x
+PROV148;Gnagna;Gnagna;Gnagna;;Gnagna;;;;;;;x
+PROV149;Tapoa;Tapoa;Tapoa;;Tapoa;;;;;;;x
+PROV150;Gourma;Gourma;Gourma;;Gourma;;;;;;;x
+PROV151;Lubutu;Lubutu;Lubutu;;Lubutu;;;;;x;;
+PROV152;Ubundu;Ubundu;Ubundu;;Ubundu;;;;;x;;
+PROV153;Opala;Opala;Opala;;Opala;;;;;x;;
+PROV154;Ikela;Ikela;Ikela;;Ikela;;;;;x;;
+PROV155;Boende;Boende;Boende;;Boende;;;;;x;;
+PROV156;Bokungu;Bokungu;Bokungu;;Bokungu;;;;;x;;
+PROV157;Tonkolili;Tonkolili;Tonkolili;;Tonkolili;;;;;;;x
+PROV158;Santiago;Santiago;Santiago;;Santiago;;;;;x;;
+PROV159;Fogo;Fogo;Fogo;;Fogo;;;;;x;;
+PROV160;Boavista e Sal;Boavista e Sal;Boavista e Sal;;Boavista e Sal;;;;;x;;
+PROV161;Sao Vicente;Sao Vicente;Sao Vicente;;Sao Vicente;;;;;x;;
+PROV162;Santo Antao;Santo Antao;Santo Antao;;Santo Antao;;;;;x;;
+PROV163;Rosso;Rosso;Rosso;;Rosso;;;;;x;;
+PROV164;R'Kiz;R'Kiz;R'Kiz;;R'Kiz;;;;;x;;
+PROV165;Nouakchott;Nouakchott;Nouakchott;;Nouakchott;;;;;x;;
+PROV166;Boutilimit;Boutilimit;Boutilimit;;Boutilimit;;;;;x;;
+PROV167;Inchiri;Inchiri;Inchiri;;Inchiri;;;;;x;;
+PROV168;Arguin;Arguin;Arguin;;Arguin;;;;;x;;
+PROV169;Nouadhibou;Nouadhibou;Nouadhibou;;Nouadhibou;;;;;x;;
+PROV170;Brakna;Brakna;Brakna;;Brakna;;;;;x;;
+PROV171;Gorgol;Gorgol;Gorgol;;Gorgol;;;;;x;;
+PROV172;Guidimaka;Guidimaka;Guidimaka;;Guidimaka;;;;;x;;
+PROV173;Aftout;Aftout;Aftout;;Aftout;;;;;x;;
+PROV174;Kiffa;Kiffa;Kiffa;;Kiffa;;;;;x;;
+PROV175;Tintane;Tintane;Tintane;;Tintane;;;;;x;;
+PROV176;Aïoun;Aïoun;Aïoun;;Aïoun;;;;;x;;
+PROV177;Timbédra;Timbédra;Timbédra;;Timbédra;;;;;x;;
+PROV178;Néma;Néma;Néma;;Néma;;;;;x;;
+PROV179;Tagant;Tagant;Tagant;;Tagant;;;;;x;;
+PROV180;Maghta-Lahjar;Maghta-Lahjar;Maghta-Lahjar;;Maghta-Lahjar;;;;;x;;
+PROV181;Atar;Atar;Atar;;Atar;;;;;x;;
+PROV182;Chinguetti;Chinguetti;Chinguetti;;Chinguetti;;;;;x;;
+PROV183;Tiris Zemmour;Tiris Zemmour;Tiris Zemmour;;Tiris Zemmour;;;;;x;;
+PROV184;Oued Ed-Dahab;Oued Ed-Dahab;Oued Ed-Dahab;;Oued Ed-Dahab;;;;;x;;
+PROV185;Oualata;Oualata;Oualata;;Oualata;;;;;x;;
+PROV186;Kidal;Kidal;Kidal;;Kidal;;;;;x;;
+PROV187;Tessalit;Tessalit;Tessalit;;Tessalit;;;;;x;;
+PROV188;Bordj Badji Mokhtar;Bordj Badji Mokhtar;Bordj Badji Mokhtar;;Bordj Badji Mokhtar;;;;;x;;
+PROV189;Hoggar;Hoggar;Hoggar;;Hoggar;;;;;x;;
+PROV190;Tanezrouft;Tanezrouft;Tanezrouft;;Tanezrouft;;;;;x;;
+PROV191;Chinde;Chinde;Chinde;;Chinde;;;;;x;;
+PROV192;Quelimane;Quelimane;Quelimane;;Quelimane;;;;;x;;
+PROV193;Rukungiri;Rukungiri;Rukungiri;;Rukungiri;;;;;x;;
+PROV194;Mbarara;Mbarara;Mbarara;;Mbarara;;;;;x;;
+PROV195;Kabarole;Kabarole;Kabarole;;Kabarole;;;;;x;;
+PROV196;Kyenjojo;Kyenjojo;Kyenjojo;;Kyenjojo;;;;;x;;
+PROV197;Masindi;Masindi;Masindi;;Masindi;;;;;x;;
+PROV198;Nile;Nile;Nile;;Nile;;;;;x;;
+PROV199;Amuru;Amuru;Amuru;;Amuru;;;;;x;;
+PROV200;Grande Comore;Grande Comore;Grande Comore;;Grande Comore;;;;;x;;
+PROV201;Mayotte;Mayotte;Mayotte;;Mayotte;;;;;x;;
+PROV202;Reunion;Reunion;Reunion;;Reunion;;;;;x;;
+PROV203;Mauritius;Mauritius;Mauritius;;Mauritius;;;;;x;;
+PROV204;Rodrigues;Rodrigues;Rodrigues;;Rodrigues;;;;;x;;
+PROV205;Sava;Sava;Sava;;Sava;;;;;x;;
+PROV206;Ambilobe;Ambilobe;Ambilobe;;Ambilobe;;;;;x;;
+PROV207;Antisiranana;Antisiranana;Antisiranana;;Antisiranana;;;;;x;;
+PROV208;Itasy;Itasy;Itasy;;Itasy;;;;;x;;
+PROV209;Alaotra-Mangoro;Alaotra-Mangoro;Alaotra-Mangoro;;Alaotra-Mangoro;;;;;x;;
+PROV210;Maroantsetra;Maroantsetra;Maroantsetra;;Maroantsetra;;;;;x;;
+PROV211;Soanierana-Ivongo;Soanierana-Ivongo;Soanierana-Ivongo;;Soanierana-Ivongo;;;;;x;;
+PROV212;Toamasina;Toamasina;Toamasina;;Toamasina;;;;;x;;
+PROV213;Toliara;Toliara;Toliara;;Toliara;;;;;x;;
+PROV214;Morombe;Morombe;Morombe;;Morombe;;;;;x;;
+PROV215;Faux Cap;Faux Cap;Faux Cap;;Faux Cap;;;;;x;;
+PROV216;Betioky-Atsimo;Betioky-Atsimo;Betioky-Atsimo;;Betioky-Atsimo;;;;;x;;
+PROV217;Taolagnaro;Taolagnaro;Taolagnaro;;Taolagnaro;;;;;x;;
+PROV218;Ihosy;Ihosy;Ihosy;;Ihosy;;;;;x;;
+PROV219;Atsimo-Atsinanana;Atsimo-Atsinanana;Atsimo-Atsinanana;;Atsimo-Atsinanana;;;;;x;;
+PROV220;Fianarantsoa;Fianarantsoa;Fianarantsoa;;Fianarantsoa;;;;;x;;
+PROV221;Vatovavy-Fitovinany;Vatovavy-Fitovinany;Vatovavy-Fitovinany;;Vatovavy-Fitovinany;;;;;x;;
+PROV222;Amoron'i Mania;Amoron'i Mania;Amoron'i Mania;;Amoron'i Mania;;;;;x;;
+PROV223;Vakinankaratra;Vakinankaratra;Vakinankaratra;;Vakinankaratra;;;;;x;;
+PROV224;Bongolava;Bongolava;Bongolava;;Bongolava;;;;;x;;
+PROV225;Antananarivo;Antananarivo;Antananarivo;;Antananarivo;;;;;x;;
+PROV226;Betsiboka;Betsiboka;Betsiboka;;Betsiboka;;;;;x;;
+PROV227;Maintirano;Maintirano;Maintirano;;Maintirano;;;;;x;;
+PROV228;Besalampy;Besalampy;Besalampy;;Besalampy;;;;;x;;
+PROV229;Mitsinjo;Mitsinjo;Mitsinjo;;Mitsinjo;;;;;x;;
+PROV230;Marovoay;Marovoay;Marovoay;;Marovoay;;;;;x;;
+PROV231;Mandritsara;Mandritsara;Mandritsara;;Mandritsara;;;;;x;;
+PROV232;Bealanana;Bealanana;Bealanana;;Bealanana;;;;;x;;
+PROV233;Analalava;Analalava;Analalava;;Analalava;;;;;x;;
+PROV234;Boriziny;Boriziny;Boriziny;;Boriziny;;;;;x;;
+PROV235;Vatomandry;Vatomandry;Vatomandry;;Vatomandry;;;;;x;;
+PROV236;Belon'i Tsiribihina;Belon'i Tsiribihina;Belon'i Tsiribihina;;Belon'i Tsiribihina;;;;;x;;
+PROV237;Morondava;Morondava;Morondava;;Morondava;;;;;x;;
+PROV238;Pemba;Pemba;Pemba;;Pemba;;;;;x;;
+PROV239;Zanzibar;Zanzibar;Zanzibar;;Zanzibar;;;;;x;;
+PROV240;Mafia;Mafia;Mafia;;Mafia;;;;;x;;
+PROV241;Tanga;Tanga;Tanga;;Tanga;;;;;x;;
+PROV242;Dar es Salaam;Dar es Salaam;Dar es Salaam;;Dar es Salaam;;;;;x;;
+PROV243;Rufiji;Rufiji;Rufiji;;Rufiji;;;;;x;;
+PROV244;Bagamoyo;Bagamoyo;Bagamoyo;;Bagamoyo;;;;;x;;
+PROV245;Kilwa;Kilwa;Kilwa;;Kilwa;;;;;x;;
+PROV246;Mtwara;Mtwara;Mtwara;;Mtwara;;;;;x;;
+PROV247;Lindi;Lindi;Lindi;;Lindi;;;;;x;;
+PROV248;Morogoro;Morogoro;Morogoro;;Morogoro;;;;;x;;
+PROV249;Kilimanjaro;Kilimanjaro;Kilimanjaro;;Kilimanjaro;;;;;x;;
+PROV250;Liwale;Liwale;Liwale;;Liwale;;;;;x;;
+PROV251;Tunduru;Tunduru;Tunduru;;Tunduru;;;;;x;;
+PROV252;Songea;Songea;Songea;;Songea;;;;;x;;
+PROV253;Nyasa;Nyasa;Nyasa;;Nyasa;;;;;x;;
+PROV254;Mahenge;Mahenge;Mahenge;;Mahenge;;;;;x;;
+PROV255;Kilombero;Kilombero;Kilombero;;Kilombero;;;;;x;;
+PROV256;Kilosa;Kilosa;Kilosa;;Kilosa;;;;;x;;
+PROV257;Iringa;Iringa;Iringa;;Iringa;;;;;x;;
+PROV258;Mufundi;Mufundi;Mufundi;;Mufundi;;;;;x;;
+PROV259;Dodoma;Dodoma;Dodoma;;Dodoma;;;;;x;;
+PROV260;Chemba;Chemba;Chemba;;Chemba;;;;;x;;
+PROV261;Handeni;Handeni;Handeni;;Handeni;;;;;x;;
+PROV262;Kiteto;Kiteto;Kiteto;;Kiteto;;;;;x;;
+PROV263;Babati;Babati;Babati;;Babati;;;;;x;;
+PROV264;Arusha;Arusha;Arusha;;Arusha;;;;;x;;
+PROV265;Lukwati;Lukwati;Lukwati;;Lukwati;;;;;x;;
+PROV266;Mbeya;Mbeya;Mbeya;;Mbeya;;;;;x;;
+PROV267;Mbarali;Mbarali;Mbarali;;Mbarali;;;;;x;;
+PROV268;Njombe;Njombe;Njombe;;Njombe;;;;;x;;
+PROV269;Sumbawanga;Sumbawanga;Sumbawanga;;Sumbawanga;;;;;x;;
+PROV270;Nkasi;Nkasi;Nkasi;;Nkasi;;;;;x;;
+PROV271;Mlele;Mlele;Mlele;;Mlele;;;;;x;;
+PROV272;Mpanda;Mpanda;Mpanda;;Mpanda;;;;;x;;
+PROV273;Kigoma;Kigoma;Kigoma;;Kigoma;;;;;x;;
+PROV274;Manyoni;Manyoni;Manyoni;;Manyoni;;;;;x;;
+PROV275;Singida;Singida;Singida;;Singida;;;;;x;;
+PROV276;Serengeti;Serengeti;Serengeti;;Serengeti;;;;;x;;
+PROV277;Musoma;Musoma;Musoma;;Musoma;;;;;x;;
+PROV278;Ngorongoro;Ngorongoro;Ngorongoro;;Ngorongoro;;;;;x;;
+PROV279;Bukoba;Bukoba;Bukoba;;Bukoba;;;;;x;;
+PROV280;Biharamulo;Biharamulo;Biharamulo;;Biharamulo;;;;;x;;
+PROV281;Mwanza;Mwanza;Mwanza;;Mwanza;;;;;x;;
+PROV282;Kasulu;Kasulu;Kasulu;;Kasulu;;;;;x;;
+PROV283;Kibondo;Kibondo;Kibondo;;Kibondo;;;;;x;;
+PROV284;Sikonge;Sikonge;Sikonge;;Sikonge;;;;;x;;
+PROV285;Shinyanga;Shinyanga;Shinyanga;;Shinyanga;;;;;x;;
+PROV286;Kaliua;Kaliua;Kaliua;;Kaliua;;;;;x;;
+PROV287;Nzega;Nzega;Nzega;;Nzega;;;;;x;;
+PROV288;Geita;Geita;Geita;;Geita;;;;;x;;
+PROV289;Bukombe;Bukombe;Bukombe;;Bukombe;;;;;x;;
+PROV290;Bariadi;Bariadi;Bariadi;;Bariadi;;;;;x;;
+PROV291;Maswa;Maswa;Maswa;;Maswa;;;;;x;;
+PROV292;Tabora;Tabora;Tabora;;Tabora;;;;;x;;
+PROV293;Uyui;Uyui;Uyui;;Uyui;;;;;x;;
+PROV294;Kilolo;Kilolo;Kilolo;;Kilolo;;;;;x;;
+PROV295;Songwe;Songwe;Songwe;;Songwe;;;;;x;;
+PROV296;Mwanga;Mwanga;Mwanga;;Mwanga;;;;;x;;
+PROV297;Mkuranga;Mkuranga;Mkuranga;;Mkuranga;;;;;x;;
+PROV298;Mwapwa;Mwapwa;Mwapwa;;Mwapwa;;;;;x;;
+PROV299;Kigali;Kigali;Kigali;;Kigali;;;;;x;;
+PROV300;Ngoma;Ngoma;Ngoma;;Ngoma;;;;;x;;
+PROV301;Bujumbura;Bujumbura;Bujumbura;;Bujumbura;;;;;x;;
+PROV302;Mutumba;Mutumba;Mutumba;;Mutumba;;;;;x;;
+PROV303;Buyengero;Buyengero;Buyengero;;Buyengero;;;;;x;;
+PROV304;Kibuye;Kibuye;Kibuye;;Kibuye;;;;;x;;
+PROV305;Mandera;Mandera;Mandera;;Mandera;;;;;x;;
+PROV306;Wajir;Wajir;Wajir;;Wajir;;;;;x;;
+PROV307;Garissa;Garissa;Garissa;;Garissa;;;;;x;;
+PROV308;Lamu;Lamu;Lamu;;Lamu;;;;;x;;
+PROV309;Kwale;Kwale;Kwale;;Kwale;;;;;x;;
+PROV310;Kilifi;Kilifi;Kilifi;;Kilifi;;;;;x;;
+PROV311;Tana;Tana;Tana;;Tana;;;;;x;;
+PROV312;Taita-Taveta;Taita-Taveta;Taita-Taveta;;Taita-Taveta;;;;;x;;
+PROV313;Kitui;Kitui;Kitui;;Kitui;;;;;x;;
+PROV314;Narok;Narok;Narok;;Narok;;;;;x;;
+PROV315;Kajiado;Kajiado;Kajiado;;Kajiado;;;;;x;;
+PROV316;Ilemi;Ilemi;Ilemi;;Ilemi;;;;;x;;
+PROV317;Turkana;Turkana;Turkana;;Turkana;;;;;x;;
+PROV318;Marsabit;Marsabit;Marsabit;;Marsabit;;;;;x;;
+PROV319;Samburu;Samburu;Samburu;;Samburu;;;;;x;;
+PROV320;Isiolo;Isiolo;Isiolo;;Isiolo;;;;;x;;
+PROV321;Makueni;Makueni;Makueni;;Makueni;;;;;x;;
+PROV322;Kisumu;Kisumu;Kisumu;;Kisumu;;;;;x;;
+PROV323;Homabay;Homabay;Homabay;;Homabay;;;;;x;;
+PROV324;Kericho;Kericho;Kericho;;Kericho;;;;;x;;
+PROV325;Laikipia;Laikipia;Laikipia;;Laikipia;;;;;x;;
+PROV326;Bungoma;Bungoma;Bungoma;;Bungoma;;;;;x;;
+PROV327;Uasin Gishu;Uasin Gishu;Uasin Gishu;;Uasin Gishu;;;;;x;;
+PROV328;Baringo;Baringo;Baringo;;Baringo;;;;;x;;
+PROV329;Trans-Nzoia;Trans-Nzoia;Trans-Nzoia;;Trans-Nzoia;;;;;x;;
+PROV330;West Pokot;West Pokot;West Pokot;;West Pokot;;;;;x;;
+PROV331;Meru;Meru;Meru;;Meru;;;;;x;;
+PROV332;Nairobi;Nairobi;Nairobi;;Nairobi;;;;;x;;
+PROV333;Machakos;Machakos;Machakos;;Machakos;;;;;x;;
+PROV334;Nakuru;Nakuru;Nakuru;;Nakuru;;;;;x;;
+PROV335;Embu;Embu;Embu;;Embu;;;;;x;;
+PROV336;Nyeri;Nyeri;Nyeri;;Nyeri;;;;;x;;
+PROV337;Busoga;Busoga;Busoga;;Busoga;;;;;x;;
+PROV338;Masaka;Masaka;Masaka;;Masaka;;;;;x;;
+PROV339;Bombo;Bombo;Bombo;;Bombo;;;;;x;;
+PROV340;Kampala;Kampala;Kampala;;Kampala;;;;;x;;
+PROV341;Mubende;Mubende;Mubende;;Mubende;;;;;x;;
+PROV342;Mbale;Mbale;Mbale;;Mbale;;;;;x;;
+PROV343;Teso;Teso;Teso;;Teso;;;;;x;;
+PROV344;Morota;Morota;Morota;;Morota;;;;;x;;
+PROV345;Kotido;Kotido;Kotido;;Kotido;;;;;x;;
+PROV346;Lango;Lango;Lango;;Lango;;;;;x;;
+PROV347;Acholi;Acholi;Acholi;;Acholi;;;;;x;;
+PROV348;Nki-Bek;Nki-Bek;Nki-Bek;;Nki-Bek;;;;;x;;
+PROV349;Batouri;Batouri;Batouri;;Batouri;;;;;x;;
+PROV350;Logone-et-Chari;Logone-et-Chari;Logone-et-Chari;;Logone-et-Chari;;;;;x;;
+PROV351;Betroka;Betroka;Betroka;;Betroka;;;;;x;;
+PROV352;Tsanaga;Tsanaga;Tsanaga;;Tsanaga;;;;;x;;
+PROV353;Diamaré;Diamaré;Diamaré;;Diamaré;;;;;x;;
+PROV354;Kani;Kani;Kani;;Kani;;;;;x;;
+PROV355;Danay;Danay;Danay;;Danay;;;;;x;;
+PROV356;Louti;Louti;Louti;;Louti;;;;;x;;
+PROV357;Bénoué;Bénoué;Bénoué;;Bénoué;;;;;x;;
+PROV358;Faro;Faro;Faro;;Faro;;;;;x;;
+PROV359;Mayo-Rey;Mayo-Rey;Mayo-Rey;;Mayo-Rey;;;;;x;;
+PROV360;Vina;Vina;Vina;;Vina;;;;;x;;
+PROV361;Faro-et-Déo;Faro-et-Déo;Faro-et-Déo;;Faro-et-Déo;;;;;x;;
+PROV362;Mayo-Banyo;Mayo-Banyo;Mayo-Banyo;;Mayo-Banyo;;;;;x;;
+PROV363;Djérem;Djérem;Djérem;;Djérem;;;;;x;;
+PROV364;Mbéré;Mbéré;Mbéré;;Mbéré;;;;;x;;
+PROV365;Lom-et-Djérem;Lom-et-Djérem;Lom-et-Djérem;;Lom-et-Djérem;;;;;x;;
+PROV366;Haut-Nyong;Haut-Nyong;Haut-Nyong;;Haut-Nyong;;;;;x;;
+PROV367;Boumba-et-Ngoko;Boumba-et-Ngoko;Boumba-et-Ngoko;;Boumba-et-Ngoko;;;;;x;;
+PROV368;Dja-et-Lobo;Dja-et-Lobo;Dja-et-Lobo;;Dja-et-Lobo;;;;;x;;
+PROV369;Vallee-du-Ntem;Vallee-du-Ntem;Vallee-du-Ntem;;Vallee-du-Ntem;;;;;x;;
+PROV370;Océan;Océan;Océan;;Océan;;;;;x;;
+PROV371;Mbam-et-Kim;Mbam-et-Kim;Mbam-et-Kim;;Mbam-et-Kim;;;;;x;;
+PROV372;Haute-Sanaga;Haute-Sanaga;Haute-Sanaga;;Haute-Sanaga;;;;;x;;
+PROV373;Inoubou;Inoubou;Inoubou;;Inoubou;;;;;x;;
+PROV374;Yokadouma;Yokadouma;Yokadouma;;Yokadouma;;;;;x;;
+PROV375;Yaounde;Yaounde;Yaounde;;Yaounde;;;;;x;;
+PROV376;Nyong-et-So'o;Nyong-et-So'o;Nyong-et-So'o;;Nyong-et-So'o;;;;;x;;
+PROV377;Nyong-et-Mfoumou;Nyong-et-Mfoumou;Nyong-et-Mfoumou;;Nyong-et-Mfoumou;;;;;x;;
+PROV378;Nyong-et-Kéllé;Nyong-et-Kéllé;Nyong-et-Kéllé;;Nyong-et-Kéllé;;;;;x;;
+PROV379;Sanaga-Maritime;Sanaga-Maritime;Sanaga-Maritime;;Sanaga-Maritime;;;;;x;;
+PROV380;Seychelles;Seychelles;Seychelles;;Seychelles;;;;;x;;
+PROV381;Moungo;Moungo;Moungo;;Moungo;;;;;x;;
+PROV382;Douala;Douala;Douala;;Douala;;;;;x;;
+PROV383;Mvila;Mvila;Mvila;;Mvila;;;;;x;;
+PROV384;Ivohibe;Ivohibe;Ivohibe;;Ivohibe;;;;;x;;
+PROV385;Mifi;Mifi;Mifi;;Mifi;;;;;x;;
+PROV386;Bafoussam;Bafoussam;Bafoussam;;Bafoussam;;;;;x;;
+PROV387;Manakara;Manakara;Manakara;;Manakara;;;;;x;;
+PROV388;Massangam;Massangam;Massangam;;Massangam;;;;;x;;
+PROV389;Kumbo;Kumbo;Kumbo;;Kumbo;;;;;x;;
+PROV390;Bamenda;Bamenda;Bamenda;;Bamenda;;;;;x;;
+PROV391;Sambava;Sambava;Sambava;;Sambava;;;;;x;;
+PROV392;Pangar;Pangar;Pangar;;Pangar;;;;;x;;
+PROV393;Manyu;Manyu;Manyu;;Manyu;;;;;x;;
+PROV394;;;;;;;;;;x;;
+PROV395;Bertoua;Bertoua;Bertoua;;Bertoua;;;;;x;;
+PROV396;Mahabo;Mahabo;Mahabo;;Mahabo;;;;;x;;
+PROV397;Diema;Diema;Diema;;Diema;;;;;x;;
+PROV398;Koupé-Manengouba;Koupé-Manengouba;Koupé-Manengouba;;Koupé-Manengouba;;;;;x;;
+PROV399;Makari;Makari;Makari;;Makari;;;;;x;;
+PROV400;Etulá;Etulá;Etulá;;Etulá;;;;;x;;
+PROV401;São Tomé e Príncipe;São Tomé e Príncipe;São Tomé e Príncipe;;São Tomé e Príncipe;;;;;x;;
+PROV402;Muni-Litoral;Muni-Litoral;Muni-Litoral;;Muni-Litoral;;;;;x;;
+PROV403;Centro Sur;Centro Sur;Centro Sur;;Centro Sur;;;;;x;;
+PROV404;Ntem;Ntem;Ntem;;Ntem;;;;;x;;
+PROV405;Wele-Nzas;Wele-Nzas;Wele-Nzas;;Wele-Nzas;;;;;x;;
+PROV406;Woleu;Woleu;Woleu;;Woleu;;;;;x;;
+PROV407;Haut-Ntem;Haut-Ntem;Haut-Ntem;;Haut-Ntem;;;;;x;;
+PROV408;Okano;Okano;Okano;;Okano;;;;;x;;
+PROV409;Komo;Komo;Komo;;Komo;;;;;x;;
+PROV410;Noya;Noya;Noya;;Noya;;;;;x;;
+PROV411;Libreville;Libreville;Libreville;;Libreville;;;;;x;;
+PROV412;Bendjé;Bendjé;Bendjé;;Bendjé;;;;;x;;
+PROV413;Etimboué;Etimboué;Etimboué;;Etimboué;;;;;x;;
+PROV414;Ndougou;Ndougou;Ndougou;;Ndougou;;;;;x;;
+PROV415;Mougoutsi;Mougoutsi;Mougoutsi;;Mougoutsi;;;;;x;;
+PROV416;Banio;Banio;Banio;;Banio;;;;;x;;
+PROV417;Douya-Onoyé;Douya-Onoyé;Douya-Onoyé;;Douya-Onoyé;;;;;x;;
+PROV418;Louetsi;Louetsi;Louetsi;;Louetsi;;;;;x;;
+PROV419;Ogoulou;Ogoulou;Ogoulou;;Ogoulou;;;;;x;;
+PROV420;Tsamba-Magotsi;Tsamba-Magotsi;Tsamba-Magotsi;;Tsamba-Magotsi;;;;;x;;
+PROV421;Ogooué et des Lacs;Ogooué et des Lacs;Ogooué et des Lacs;;Ogooué et des Lacs;;;;;x;;
+PROV422;Abanga-Bigné;Abanga-Bigné;Abanga-Bigné;;Abanga-Bigné;;;;;x;;
+PROV423;Lopé;Lopé;Lopé;;Lopé;;;;;x;;
+PROV424;Ambatofinandrahana;Ambatofinandrahana;Ambatofinandrahana;;Ambatofinandrahana;;;;;x;;
+PROV425;Ivindo;Ivindo;Ivindo;;Ivindo;;;;;x;;
+PROV426;Zadié;Zadié;Zadié;;Zadié;;;;;x;;
+PROV427;Sébé-Brikolo;Sébé-Brikolo;Sébé-Brikolo;;Sébé-Brikolo;;;;;x;;
+PROV428;Ankazobe;Ankazobe;Ankazobe;;Ankazobe;;;;;x;;
+PROV429;Djoué;Djoué;Djoué;;Djoué;;;;;x;;
+PROV430;Mpassa;Mpassa;Mpassa;;Mpassa;;;;;x;;
+PROV431;Madirovalo;Madirovalo;Madirovalo;;Madirovalo;;;;;x;;
+PROV432;Mouloundou;Mouloundou;Mouloundou;;Mouloundou;;;;;x;;
+PROV433;Bouenguidi;Bouenguidi;Bouenguidi;;Bouenguidi;;;;;x;;
+PROV434;Offoué-Onoyé;Offoué-Onoyé;Offoué-Onoyé;;Offoué-Onoyé;;;;;x;;
+PROV435;Kouilou;Kouilou;Kouilou;;Kouilou;;;;;x;;
+PROV436;Pointe-Noire;Pointe-Noire;Pointe-Noire;;Pointe-Noire;;;;;x;;
+PROV437;Dolisie-Loubomo;Dolisie-Loubomo;Dolisie-Loubomo;;Dolisie-Loubomo;;;;;x;;
+PROV438;Mossendjo;Mossendjo;Mossendjo;;Mossendjo;;;;;x;;
+PROV439;Nkayi;Nkayi;Nkayi;;Nkayi;;;;;x;;
+PROV440;Lalaua;Lalaua;Lalaua;;Lalaua;;;;;x;;
+PROV441;Mouyondzi;Mouyondzi;Mouyondzi;;Mouyondzi;;;;;x;;
+PROV442;Sibiti;Sibiti;Sibiti;;Sibiti;;;;;x;;
+PROV443;Komono;Komono;Komono;;Komono;;;;;x;;
+PROV444;Zanaga;Zanaga;Zanaga;;Zanaga;;;;;x;;
+PROV445;Bambama;Bambama;Bambama;;Bambama;;;;;x;;
+PROV446;Kinkala;Kinkala;Kinkala;;Kinkala;;;;;x;;
+PROV447;Kindamba;Kindamba;Kindamba;;Kindamba;;;;;x;;
+PROV448;Mayama;Mayama;Mayama;;Mayama;;;;;x;;
+PROV449;Brazzaville;Brazzaville;Brazzaville;;Brazzaville;;;;;x;;
+PROV450;Ngabé;Ngabé;Ngabé;;Ngabé;;;;;x;;
+PROV451;Léfini;Léfini;Léfini;;Léfini;;;;;x;;
+PROV452;Nelspruit;Nelspruit;Nelspruit;;Nelspruit;;;;;x;;
+PROV453;Abala;Abala;Abala;;Abala;;;;;x;;
+PROV454;Gamboma;Gamboma;Gamboma;;Gamboma;;;;;x;;
+PROV455;Okoyo;Okoyo;Okoyo;;Okoyo;;;;;x;;
+PROV456;Owando;Owando;Owando;;Owando;;;;;x;;
+PROV457;Makoua;Makoua;Makoua;;Makoua;;;;;x;;
+PROV458;Liranga;Liranga;Liranga;;Liranga;;;;;x;;
+PROV459;Ewo;Ewo;Ewo;;Ewo;;;;;x;;
+PROV460;Nkomazi;Nkomazi;Nkomazi;;Nkomazi;;;;;x;;
+PROV461;Ouésso;Ouésso;Ouésso;;Ouésso;;;;;x;;
+PROV462;Impfondo;Impfondo;Impfondo;;Impfondo;;;;;x;;
+PROV463;Chaillu;Chaillu;Chaillu;;Chaillu;;;;;x;;
+PROV464;Tenenkou;Tenenkou;Tenenkou;;Tenenkou;;;;;x;;
+PROV465;Pikounda;Pikounda;Pikounda;;Pikounda;;;;;x;;
+PROV466;Djambala;Djambala;Djambala;;Djambala;;;;;x;;
+PROV467;Sangha-Mbaéré;Sangha-Mbaéré;Sangha-Mbaéré;;Sangha-Mbaéré;;;;;x;;
+PROV468;Berbérati;Berbérati;Berbérati;;Berbérati;;;;;x;;
+PROV469;Carnot;Carnot;Carnot;;Carnot;;;;;x;;
+PROV470;Baboua;Baboua;Baboua;;Baboua;;;;;x;;
+PROV471;Bouar;Bouar;Bouar;;Bouar;;;;;x;;
+PROV472;Bozoum;Bozoum;Bozoum;;Bozoum;;;;;x;;
+PROV473;Bocaranga;Bocaranga;Bocaranga;;Bocaranga;;;;;x;;
+PROV474;Paoua;Paoua;Paoua;;Paoua;;;;;x;;
+PROV475;Markounda;Markounda;Markounda;;Markounda;;;;;x;;
+PROV476;Bossangoa;Bossangoa;Bossangoa;;Bossangoa;;;;;x;;
+PROV477;Bouca;Bouca;Bouca;;Bouca;;;;;x;;
+PROV478;Batangafo;Batangafo;Batangafo;;Batangafo;;;;;x;;
+PROV479;Nana-Grébizi;Nana-Grébizi;Nana-Grébizi;;Nana-Grébizi;;;;;x;;
+PROV480;Kémo;Kémo;Kémo;;Kémo;;;;;x;;
+PROV481;Bangui;Bangui;Bangui;;Bangui;;;;;x;;
+PROV482;Yaloke-Bossembélé;Yaloke-Bossembélé;Yaloke-Bossembélé;;Yaloke-Bossembélé;;;;;x;;
+PROV483;Lobaye;Lobaye;Lobaye;;Lobaye;;;;;x;;
+PROV484;Grimari;Grimari;Grimari;;Grimari;;;;;x;;
+PROV485;Bambari;Bambari;Bambari;;Bambari;;;;;x;;
+PROV486;Ippy;Ippy;Ippy;;Ippy;;;;;x;;
+PROV487;Bamingui-Bangoran;Bamingui-Bangoran;Bamingui-Bangoran;;Bamingui-Bangoran;;;;;x;;
+PROV488;Saint-Floris;Saint-Floris;Saint-Floris;;Saint-Floris;;;;;x;;
+PROV489;Vakaga;Vakaga;Vakaga;;Vakaga;;;;;x;;
+PROV490;Haute-Kotto;Haute-Kotto;Haute-Kotto;;Haute-Kotto;;;;;x;;
+PROV491;Bangassou;Bangassou;Bangassou;;Bangassou;;;;;x;;
+PROV492;Gambo-Ouango;Gambo-Ouango;Gambo-Ouango;;Gambo-Ouango;;;;;x;;
+PROV493;Mobaye;Mobaye;Mobaye;;Mobaye;;;;;x;;
+PROV494;Alindao;Alindao;Alindao;;Alindao;;;;;x;;
+PROV495;Rafaï;Rafaï;Rafaï;;Rafaï;;;;;x;;
+PROV496;Haut-Mbomou;Haut-Mbomou;Haut-Mbomou;;Haut-Mbomou;;;;;x;;
+PROV497;La Nya;La Nya;La Nya;;La Nya;;;;;x;;
+PROV498;Monts de Lam;Monts de Lam;Monts de Lam;;Monts de Lam;;;;;x;;
+PROV499;Dodjé;Dodjé;Dodjé;;Dodjé;;;;;x;;
+PROV500;Ngourkosso;Ngourkosso;Ngourkosso;;Ngourkosso;;;;;x;;
+PROV501;Léré-Tréné;Léré-Tréné;Léré-Tréné;;Léré-Tréné;;;;;x;;
+PROV502;Mayo-Boneye;Mayo-Boneye;Mayo-Boneye;;Mayo-Boneye;;;;;x;;
+PROV503;Mayo-Lémié;Mayo-Lémié;Mayo-Lémié;;Mayo-Lémié;;;;;x;;
+PROV504;Tandjilé;Tandjilé;Tandjilé;;Tandjilé;;;;;x;;
+PROV505;Loug Chari;Loug Chari;Loug Chari;;Loug Chari;;;;;x;;
+PROV506;Baguirmi;Baguirmi;Baguirmi;;Baguirmi;;;;;x;;
+PROV507;N'Djamena;N'Djamena;N'Djamena;;N'Djamena;;;;;x;;
+PROV508;Dababa;Dababa;Dababa;;Dababa;;;;;x;;
+PROV509;Haraze Al Biar;Haraze Al Biar;Haraze Al Biar;;Haraze Al Biar;;;;;x;;
+PROV510;Wayi;Wayi;Wayi;;Wayi;;;;;x;;
+PROV511;Mamdi;Mamdi;Mamdi;;Mamdi;;;;;x;;
+PROV512;Zakouma;Zakouma;Zakouma;;Zakouma;;;;;x;;
+PROV513;Barh Signaka;Barh Signaka;Barh Signaka;;Barh Signaka;;;;;x;;
+PROV514;Abtouyour;Abtouyour;Abtouyour;;Abtouyour;;;;;x;;
+PROV515;Guéra;Guéra;Guéra;;Guéra;;;;;x;;
+PROV516;Iro;Iro;Iro;;Iro;;;;;x;;
+PROV517;Barh Köh;Barh Köh;Barh Köh;;Barh Köh;;;;;x;;
+PROV518;Grande Silo;Grande Silo;Grande Silo;;Grande Silo;;;;;x;;
+PROV519;Mandoul;Mandoul;Mandoul;;Mandoul;;;;;x;;
+PROV520;Barh Sara;Barh Sara;Barh Sara;;Barh Sara;;;;;x;;
+PROV521;Aboudeïa;Aboudeïa;Aboudeïa;;Aboudeïa;;;;;x;;
+PROV522;Barh Azoum;Barh Azoum;Barh Azoum;;Barh Azoum;;;;;x;;
+PROV523;Haraze-Mangueigne;Haraze-Mangueigne;Haraze-Mangueigne;;Haraze-Mangueigne;;;;;x;;
+PROV524;Kimiti;Kimiti;Kimiti;;Kimiti;;;;;x;;
+PROV525;Djourf Al Ahmar;Djourf Al Ahmar;Djourf Al Ahmar;;Djourf Al Ahmar;;;;;x;;
+PROV526;Assoungha;Assoungha;Assoungha;;Assoungha;;;;;x;;
+PROV527;Ouara;Ouara;Ouara;;Ouara;;;;;x;;
+PROV528;Dar Tama;Dar Tama;Dar Tama;;Dar Tama;;;;;x;;
+PROV529;Kobé;Kobé;Kobé;;Kobé;;;;;x;;
+PROV530;Wadi Fira;Wadi Fira;Wadi Fira;;Wadi Fira;;;;;x;;
+PROV531;Batha-Est;Batha-Est;Batha-Est;;Batha-Est;;;;;x;;
+PROV532;Fitri;Fitri;Fitri;;Fitri;;;;;x;;
+PROV533;Batha-Ouest;Batha-Ouest;Batha-Ouest;;Batha-Ouest;;;;;x;;
+PROV534;Barh El Gazel;Barh El Gazel;Barh El Gazel;;Barh El Gazel;;;;;x;;
+PROV535;;;;;;;;;;x;;
+PROV536;Kanem;Kanem;Kanem;;Kanem;;;;;x;;
+PROV537;Ennedi;Ennedi;Ennedi;;Ennedi;;;;;x;;
+PROV538;Borkou;Borkou;Borkou;;Borkou;;;;;x;;
+PROV539;Tibesti;Tibesti;Tibesti;;Tibesti;;;;;x;;
+PROV540;Téra;Téra;Téra;;Téra;;;;;x;;
+PROV541;Tillabéri;Tillabéri;Tillabéri;;Tillabéri;;;;;x;;
+PROV542;Filingue;Filingue;Filingue;;Filingue;;;;;x;;
+PROV543;Niamey;Niamey;Niamey;;Niamey;;;;;x;;
+PROV544;Say;Say;Say;;Say;;;;;x;;
+PROV545;Gaya;Gaya;Gaya;;Gaya;;;;;x;;
+PROV546;Dogondoutchi;Dogondoutchi;Dogondoutchi;;Dogondoutchi;;;;;x;;
+PROV547;Birnin Konni;Birnin Konni;Birnin Konni;;Birnin Konni;;;;;x;;
+PROV548;Tahoua;Tahoua;Tahoua;;Tahoua;;;;;x;;
+PROV549;Madaoua;Madaoua;Madaoua;;Madaoua;;;;;x;;
+PROV550;Abalak;Abalak;Abalak;;Abalak;;;;;x;;
+PROV551;Tchintabaraden;Tchintabaraden;Tchintabaraden;;Tchintabaraden;;;;;x;;
+PROV552;Groumdji;Groumdji;Groumdji;;Groumdji;;;;;x;;
+PROV553;Dakoro;Dakoro;Dakoro;;Dakoro;;;;;x;;
+PROV554;Tazrouk;Tazrouk;Tazrouk;;Tazrouk;;;;;x;;
+PROV555;Tessaoua;Tessaoua;Tessaoua;;Tessaoua;;;;;x;;
+PROV556;Matameye;Matameye;Matameye;;Matameye;;;;;x;;
+PROV557;Zinder;Zinder;Zinder;;Zinder;;;;;x;;
+PROV558;Tanout;Tanout;Tanout;;Tanout;;;;;x;;
+PROV559;Goure;Goure;Goure;;Goure;;;;;x;;
+PROV560;Maïné-Soroa;Maïné-Soroa;Maïné-Soroa;;Maïné-Soroa;;;;;x;;
+PROV561;Diffa;Diffa;Diffa;;Diffa;;;;;x;;
+PROV562;N'Guigmi;N'Guigmi;N'Guigmi;;N'Guigmi;;;;;x;;
+PROV563;Agadez;Agadez;Agadez;;Agadez;;;;;x;;
+PROV564;Arlit;Arlit;Arlit;;Arlit;;;;;x;;
+PROV565;Kaouar;Kaouar;Kaouar;;Kaouar;;;;;x;;
+PROV566;Lagos;Lagos;Lagos;;Lagos;;;;;;;x
+PROV567;Sissili;Sissili;Sissili;;Sissili;;;;;;;x
+PROV568;Porto Novo;Porto Novo;Porto Novo;;Porto Novo;;;;;;;x
+PROV569;Lomé;Lomé;Lomé;;Lomé;;;;;;;x
+PROV570;Tongu;Tongu;Tongu;;Tongu;;;;;;;x
+PROV571;Abomey;Abomey;Abomey;;Abomey;;;;;;;x
+PROV572;Ketou;Ketou;Ketou;;Ketou;;;;;;;x
+PROV573;Sotouboua;Sotouboua;Sotouboua;;Sotouboua;;;;;;;x
+PROV574;Dankpen;Dankpen;Dankpen;;Dankpen;;;;;;;x
+PROV575;Dassa;Dassa;Dassa;;Dassa;;;;;;;x
+PROV576;Shaki;Shaki;Shaki;;Shaki;;;;;;;x
+PROV577;Iseyin;Iseyin;Iseyin;;Iseyin;;;;;;;x
+PROV578;Oyo;Oyo;Oyo;;Oyo;;;;;;;x
+PROV579;Ilorin;Ilorin;Ilorin;;Ilorin;;;;;;;x
+PROV580;Igboho;Igboho;Igboho;;Igboho;;;;;;;x
+PROV581;Ikare-Akoko;Ikare-Akoko;Ikare-Akoko;;Ikare-Akoko;;;;;;;x
+PROV582;Ado-Ekiti;Ado-Ekiti;Ado-Ekiti;;Ado-Ekiti;;;;;;;x
+PROV583;Ibadan;Ibadan;Ibadan;;Ibadan;;;;;;;x
+PROV584;Abeokuta;Abeokuta;Abeokuta;;Abeokuta;;;;;;;x
+PROV585;Ijebu;Ijebu;Ijebu;;Ijebu;;;;;;;x
+PROV586;Bougouriba;Bougouriba;Bougouriba;;Bougouriba;;;;;;;x
+PROV587;Ondo;Ondo;Ondo;;Ondo;;;;;;;x
+PROV588;Akure;Akure;Akure;;Akure;;;;;;;x
+PROV589;Owo;Owo;Owo;;Owo;;;;;;;x
+PROV590;East Gonja;East Gonja;East Gonja;;East Gonja;;;;;;;x
+PROV591;Assin;Assin;Assin;;Assin;;;;;;;x
+PROV592;Amenfi;Amenfi;Amenfi;;Amenfi;;;;;;;x
+PROV593;Benin;Benin;Benin;;Benin;;;;;;;x
+PROV594;Ewu;Ewu;Ewu;;Ewu;;;;;;;x
+PROV595;Ughelli;Ughelli;Ughelli;;Ughelli;;;;;;;x
+PROV596;Marahoué;Marahoué;Marahoué;;Marahoué;;;;;;;x
+PROV597;Gonja;Gonja;Gonja;;Gonja;;;;;;;x
+PROV598;Asaba;Asaba;Asaba;;Asaba;;;;;;;x
+PROV599;Onitsha;Onitsha;Onitsha;;Onitsha;;;;;;;x
+PROV600;Kwale;Kwale;Kwale;;Kwale;;;;;;;x
+PROV601;Yamoussoukro;Yamoussoukro;Yamoussoukro;;Yamoussoukro;;;;;;;x
+PROV602;Enugu;Enugu;Enugu;;Enugu;;;;;;;x
+PROV603;Nsukka;Nsukka;Nsukka;;Nsukka;;;;;;;x
+PROV604;Abaleke;Abaleke;Abaleke;;Abaleke;;;;;;;x
+PROV605;Yenagoa;Yenagoa;Yenagoa;;Yenagoa;;;;;;;x
+PROV606;La Mé;La Mé;La Mé;;La Mé;;;;;;;x
+PROV607;Kénédougou;Kénédougou;Kénédougou;;Kénédougou;;;;;;;x
+PROV608;Owerri;Owerri;Owerri;;Owerri;;;;;;;x
+PROV609;Ugep;Ugep;Ugep;;Ugep;;;;;;;x
+PROV610;Aba;Aba;Aba;;Aba;;;;;;;x
+PROV611;Port Harcourt;Port Harcourt;Port Harcourt;;Port Harcourt;;;;;;;x
+PROV612;Emohua;Emohua;Emohua;;Emohua;;;;;;;x
+PROV613;Djougou;Djougou;Djougou;;Djougou;;;;;;;x
+PROV614;Natitingou;Natitingou;Natitingou;;Natitingou;;;;;;;x
+PROV615;Kandi;Kandi;Kandi;;Kandi;;;;;;;x
+PROV616;Nikki;Nikki;Nikki;;Nikki;;;;;;;x
+PROV617;Parakou;Parakou;Parakou;;Parakou;;;;;;;x
+PROV618;Uyo;Uyo;Uyo;;Uyo;;;;;;;x
+PROV619;Calabar;Calabar;Calabar;;Calabar;;;;;;;x
+PROV620;Boulkiemdé;Boulkiemdé;Boulkiemdé;;Boulkiemdé;;;;;;;x
+PROV621;Ikom;Ikom;Ikom;;Ikom;;;;;;;x
+PROV622;Idah;Idah;Idah;;Idah;;;;;;;x
+PROV623;Potiskum;Potiskum;Potiskum;;Potiskum;;;;;;;x
+PROV624;Ankpa;Ankpa;Ankpa;;Ankpa;;;;;;;x
+PROV625;Lokoja;Lokoja;Lokoja;;Lokoja;;;;;;;x
+PROV626;Kabba;Kabba;Kabba;;Kabba;;;;;;;x
+PROV627;Okene;Okene;Okene;;Okene;;;;;;;x
+PROV628;Bussa;Bussa;Bussa;;Bussa;;;;;;;x
+PROV629;Sokoto;Sokoto;Sokoto;;Sokoto;;;;;;;x
+PROV630;Argungu;Argungu;Argungu;;Argungu;;;;;;;x
+PROV631;Birnin Kebbi;Birnin Kebbi;Birnin Kebbi;;Birnin Kebbi;;;;;;;x
+PROV632;Bunza;Bunza;Bunza;;Bunza;;;;;;;x
+PROV633;Zuru;Zuru;Zuru;;Zuru;;;;;;;x
+PROV634;Yana;Yana;Yana;;Yana;;;;;;;x
+PROV635;Dakingari;Dakingari;Dakingari;;Dakingari;;;;;;;x
+PROV636;Koko;Koko;Koko;;Koko;;;;;;;x
+PROV637;Yelwa;Yelwa;Yelwa;;Yelwa;;;;;;;x
+PROV638;Rijau;Rijau;Rijau;;Rijau;;;;;;;x
+PROV639;Kontagora;Kontagora;Kontagora;;Kontagora;;;;;;;x
+PROV640;Mokwa;Mokwa;Mokwa;;Mokwa;;;;;;;x
+PROV641;Vo;Vo;Vo;;Vo;;;;;;;x
 PROV642;;;;;;;;;;;;x
-PROV643;Katagum;Katagum;Katagum;;;;;;;;;x
-PROV644;Tchaoudjo;;;;;;;;;;;x
-PROV645;Tegina;Tegina;Tegina;;;;;;;;;x
-PROV646;Garki;Garki;Garki;;;;;;;;;x
-PROV647;Ogou;;;;;;;;;;;x
-PROV648;Bukkuyum;Bukkuyum;Bukkuyum;;;;;;;;;x
-PROV649;Kozah;;;;;;;;;;;x
-PROV650;Gwadabawa;Gwadabawa;Gwadabawa;;;;;;;;;x
-PROV651;Hombori;;;;;;;;;;;x
-PROV652;Darazo;Darazo;Darazo;;;;;;;;;x
-PROV653;Goronyo;Goronyo;Goronyo;;;;;;;;;x
-PROV654;Dutse;Dutse;Dutse;;;;;;;;;x
-PROV655;Shinkafi;Shinkafi;Shinkafi;;;;;;;;;x
-PROV656;Gusau;Gusau;Gusau;;;;;;;;;x
-PROV657;Kolondiéba;;;;;;;;;;;x
-PROV658;Kankara;Kankara;Kankara;;;;;;;;;x
-PROV659;Katsina;Katsina;Katsina;;;;;;;;;x
-PROV660;Anka;Anka;Anka;;;;;;;;;x
-PROV661;Wasagu;Wasagu;Wasagu;;;;;;;;;x
-PROV662;Birnin Gwari;Birnin Gwari;Birnin Gwari;;;;;;;;;x
-PROV663;Djenné;;;;;;;;;;;x
-PROV664;Tureta;Tureta;Tureta;;;;;;;;;x
-PROV665;Kadiolo;;;;;;;;;;;x
-PROV666;Kuta;Kuta;Kuta;;;;;;;;;x
-PROV667;Koulikoro;;;;;;;;;;;x
-PROV668;Tumu;;;;;;;;;;;x
-PROV669;Minna;Minna;Minna;;;;;;;;;x
-PROV670;Kwali;Kwali;Kwali;;;;;;;;;x
-PROV671;Fika;Fika;Fika;;;;;;;;;x
-PROV672;Koton Karfe;Koton Karfe;Koton Karfe;;;;;;;;;x
-PROV673;Malanville;Malanville;Malanville;;;;;;;;;x
-PROV674;Kaiama;Kaiama;Kaiama;;;;;;;;;x
-PROV675;Busuru;Busuru;Busuru;;;;;;;;;x
-PROV676;Ségbana;Ségbana;Ségbana;;;;;;;;;x
-PROV677;Banikoara;Banikoara;Banikoara;;;;;;;;;x
-PROV678;Gougougon;Gougougon;Gougougon;;;;;;;;;x
-PROV679;Bembèrèkè;Bembèrèkè;Bembèrèkè;;;;;;;;;x
-PROV680;Pèrèrè;Pèrèrè;Pèrèrè;;;;;;;;;x
-PROV681;Wa;;;;;;;;;;;x
-PROV682;Aplahoué;Aplahoué;Aplahoué;;;;;;;;;x
-PROV683;Ouidah;Ouidah;Ouidah;;;;;;;;;x
-PROV684;Bobo-Dioulasso;;;;;;;;;;;x
-PROV685;Ganzourgou;;;;;;;;;;;x
-PROV686;Iwoye;Iwoye;Iwoye;;;;;;;;;x
-PROV687;Ningi;Ningi;Ningi;;;;;;;;;x
-PROV688;Bantè;Bantè;Bantè;;;;;;;;;x
-PROV689;Tchaourou;Tchaourou;Tchaourou;;;;;;;;;x
-PROV690;Ayete;Ayete;Ayete;;;;;;;;;x
-PROV691;Igbeti;Igbeti;Igbeti;;;;;;;;;x
-PROV692;Ogbomosho;Ogbomosho;Ogbomosho;;;;;;;;;x
-PROV693;Oubritenga;;;;;;;;;;;x
-PROV694;Iwo;Iwo;Iwo;;;;;;;;;x
-PROV695;Koforidua;;;;;;;;;;;x
-PROV696;Osogbo;Osogbo;Osogbo;;;;;;;;;x
-PROV697;Owu-Isin;Owu-Isin;Owu-Isin;;;;;;;;;x
-PROV698;Share;Share;Share;;;;;;;;;x
-PROV699;Pategi;Pategi;Pategi;;;;;;;;;x
-PROV700;Walvis Bay;;;;;;;;;x
-PROV701;Swakopmund;;;;;;;;;x
-PROV702;Brandberg;;;;;;;;;x
-PROV703;Karibib;;;;;;;;;x
-PROV704;Naukluft;;;;;;;;;x
-PROV705;Windhoek;;;;;;;;;x
-PROV706;Rehoboth;;;;;;;;;x
-PROV707;Nossob;;;;;;;;;x
-PROV708;Mariental;;;;;;;;;x
-PROV709;Daweb;;;;;;;;;x
-PROV710;Gibeon;;;;;;;;;x
-PROV711;Lüderitz;;;;;;;;;x
-PROV712;Brukkaros;;;;;;;;;x
-PROV713;Keetmanshoop;;;;;;;;;x
-PROV714;Karasburg;;;;;;;;;x
-PROV715;Richtersveld;;;;;;;;;x
-PROV716;Oranjemund;;;;;;;;;x
-PROV717;Omatako;;;;;;;;;x
-PROV718;Waterberg;;;;;;;;;x
-PROV719;Otavi;;;;;;;;;x
-PROV720;Grootfontein;;;;;;;;;x
-PROV721;Guinas;;;;;;;;;x
-PROV722;Ohangwena;;;;;;;;;x
-PROV723;Oshana;;;;;;;;;x
-PROV724;Omuthiyagwiipundi;;;;;;;;;x
-PROV725;Rundu;;;;;;;;;x
-PROV726;Khaudum;;;;;;;;;x
-PROV727;Khorixas;;;;;;;;;x
-PROV728;Epupa;;;;;;;;;x
-PROV729;Omusati;;;;;;;;;x
-PROV730;Kamanjab;;;;;;;;;x
-PROV731;Mopti;;;;;;;;;x
-PROV732;Okitipupa;Okitipupa;Okitipupa;;;;;;;;;x
-PROV733;Kati;;;;;;;;;;;x
-PROV734;Abuja;;;;;;;;;;;x
-PROV735;Nasarawa;Nasarawa;Nasarawa;;;;;;;;;x
-PROV736;Damatura;Damatura;Damatura;;;;;;;;;x
-PROV737;Kagoro;Kagoro;Kagoro;;;;;;;;;x
-PROV738;Kachia;Kachia;Kachia;;;;;;;;;x
-PROV739;Kaduna;Kaduna;Kaduna;;;;;;;;;x
-PROV740;Soba;Soba;Soba;;;;;;;;;x
-PROV741;Tudun Wada;Tudun Wada;Tudun Wada;;;;;;;;;x
-PROV742;Funtua;Funtua;Funtua;;;;;;;;;x
-PROV743;Zaria;Zaria;Zaria;;;;;;;;;x
-PROV744;Sanga;Sanga;Sanga;;;;;;;;;x
-PROV745;Jos;Jos;Jos;;;;;;;;;x
-PROV746;Lafia;Lafia;Lafia;;;;;;;;;x
-PROV747;Wamba;Wamba;Wamba;;;;;;;;;x
-PROV748;Akwanga;Akwanga;Akwanga;;;;;;;;;x
-PROV749;Doma;Doma;Doma;;;;;;;;;x
-PROV750;Akamkpa;Akamkpa;Akamkpa;;;;;;;;;x
-PROV751;Vande Ikya;Vande Ikya;Vande Ikya;;;;;;;;;x
-PROV752;Katsina Ala;Katsina Ala;Katsina Ala;;;;;;;;;x
-PROV753;Gboko;Gboko;Gboko;;;;;;;;;x
-PROV754;Otukpo;Otukpo;Otukpo;;;;;;;;;x
-PROV755;Makurdi;Makurdi;Makurdi;;;;;;;;;x
-PROV756;Wukari;Wukari;Wukari;;;;;;;;;x
-PROV757;Takum;Takum;Takum;;;;;;;;;x
-PROV758;Gembu;Gembu;Gembu;;;;;;;;;x
-PROV759;Bali;Bali;Bali;;;;;;;;;x
-PROV760;Mutum Biyu;Mutum Biyu;Mutum Biyu;;;;;;;;;x
-PROV761;Otjinene;;;;;;;;;;;x
-PROV762;Jalingo;Jalingo;Jalingo;;;;;;;;;x
-PROV763;Zarmaganda;;;;;;;;;;;x
-PROV764;Numan;Numan;Numan;;;;;;;;;x
-PROV765;Yola;Yola;Yola;;;;;;;;;x
-PROV766;Ganye;Ganye;Ganye;;;;;;;;;x
-PROV767;Shendam;Shendam;Shendam;;;;;;;;;x
-PROV768;Wase;Wase;Wase;;;;;;;;;x
-PROV769;Pankshin;Pankshin;Pankshin;;;;;;;;;x
-PROV770;Bogoro;Bogoro;Bogoro;;;;;;;;;x
-PROV771;Alkaleri;Alkaleri;Alkaleri;;;;;;;;;x
-PROV772;Bauchi;Bauchi;Bauchi;;;;;;;;;x
-PROV773;Gumel;Gumel;Gumel;;;;;;;;;x
-PROV774;Maun;;;;;;;;;;;x
-PROV775;Batsari;Batsari;Batsari;;;;;;;;;x
-PROV776;Tessaoua;;;;;;;;;;;x
-PROV777;Maradi;;;;;;;;;;;x
-PROV778;Gwarzo;Gwarzo;Gwarzo;;;;;;;;;x
-PROV779;Kano;Kano;Kano;;;;;;;;;x
-PROV780;Rano;Rano;Rano;;;;;;;;;x
-PROV781;Gombe;Gombe;Gombe;;;;;;;;;x
-PROV782;Kaltungo;Kaltungo;Kaltungo;;;;;;;;;x
-PROV783;Dukku;Dukku;Dukku;;;;;;;;;x
-PROV784;Girei;Girei;Girei;;;;;;;;;x
-PROV785;Mubi;Mubi;Mubi;;;;;;;;;x
-PROV786;Biu;Biu;Biu;;;;;;;;;x
-PROV787;Damboa;Damboa;Damboa;;;;;;;;;x
-PROV788;Bama;Bama;Bama;;;;;;;;;x
-PROV789;Maiduguri;Maiduguri;Maiduguri;;;;;;;;;x
-PROV790;Kukawa;Kukawa;Kukawa;;;;;;;;;x
-PROV791;Nguru;Nguru;Nguru;;;;;;;;;x
-PROV792;Gashua;Gashua;Gashua;;;;;;;;;x
-PROV793;Oguma;Oguma;Oguma;;;;;;;;;x
-PROV794;Keita;;;;;;;;;;;x
-PROV795;Serti;Serti;Serti;;;;;;;;;x
-PROV796;Dosso;;;;;;;;;;;x
-PROV797;Gamboru;Gamboru;Gamboru;;;;;;;;;x
-PROV798;Yambio;;;;;;;;;x
-PROV799;Sabie;;;;;;;;;x
-PROV800;Junqoley-Boma;;;;;;;;;x
-PROV801;Latjoor;;;;;;;;;x
-PROV802;Juba;;;;;;;;;x
-PROV803;Ez Zeraf;;;;;;;;;x
-PROV804;Bor;;;;;;;;;x
-PROV805;Muglad;;;;;;;;;x
-PROV806;Al Buhayrat;;;;;;;;;x
-PROV807;Shimal Bahr al Ghazal;;;;;;;;;x
-PROV808;El Obeid;;;;;;;;;x
-PROV809;Ad Damir;;;;;;;;;x
-PROV810;Warab;;;;;;;;;x
-PROV811;Al Wahda;;;;;;;;;x
-PROV812;Kadugli;;;;;;;;;x
-PROV813;Malakal;;;;;;;;;x
-PROV814;Rabak;;;;;;;;;x
-PROV815;Ad Damazin;;;;;;;;;x
-PROV816;Sennar;;;;;;;;;x
-PROV817;Al Qadarif;;;;;;;;;x
-PROV818;Kassala;;;;;;;;;x
-PROV819;Al Jazirah;;;;;;;;;x
-PROV820;Al Khartoum;;;;;;;;;x
-PROV821;Caprivi;;;;;;;;;x
-PROV822;Ngamiland North;;;;;;;;;x
-PROV823;Ngamiland South;;;;;;;;;x
-PROV824;Chobe;;;;;;;;;x
-PROV825;Selebi-Phikwe;;;;;;;;;x
-PROV826;Orapa;;;;;;;;;x
-PROV827;Tutume;;;;;;;;;x
-PROV828;Serowe;;;;;;;;;x
-PROV829;Francistown;;;;;;;;;x
-PROV830;Ghanzi;;;;;;;;;x
-PROV831;Central Kalahari;;;;;;;;;x
-PROV832;Jwaneng;;;;;;;;;x
-PROV833;Gabarone;;;;;;;;;x
-PROV834;Kgatleng;;;;;;;;;x
-PROV835;Kweneng;;;;;;;;;x
-PROV836;Kgalagadi South;;;;;;;;;x
-PROV837;Kgalagadi North;;;;;;;;;x
-PROV838;Cuango-Luzamba;;;;;;;;;x
-PROV839;Dundo;;;;;;;;;x
-PROV840;Bungo;;;;;;;;;x
-PROV841;Quimbele;;;;;;;;;x
-PROV842;Songo;;;;;;;;;x
-PROV843;Uíge;;;;;;;;;x
-PROV844;Ambaca;;;;;;;;;x
-PROV845;Cazengo;;;;;;;;;x
-PROV846;Calandula;;;;;;;;;x
-PROV847;Mucari;;;;;;;;;x
-PROV848;Malanje;;;;;;;;;x
-PROV849;Quirima;;;;;;;;;x
-PROV850;Cacolo;;;;;;;;;x
-PROV851;Saurimo;;;;;;;;;x
-PROV852;Dala;;;;;;;;;x
-PROV853;Kwanhama;;;;;;;;;x
-PROV854;Cuvelai;;;;;;;;;x
-PROV855;Kuroka;;;;;;;;;x
-PROV856;Ombadja;;;;;;;;;x
-PROV857;Andulo;;;;;;;;;x
-PROV858;Cuemba;;;;;;;;;x
-PROV859;Camacupa;;;;;;;;;x
-PROV860;Cuito;;;;;;;;;x
-PROV861;Chitembo;;;;;;;;;x
-PROV862;Luau;;;;;;;;;x
-PROV863;Leua;;;;;;;;;x
-PROV864;Luena;;;;;;;;;x
-PROV865;Luchazes;;;;;;;;;x
-PROV866;Cuito Cuanavale;;;;;;;;;x
-PROV867;Dirico;;;;;;;;;x
-PROV868;Menongue;;;;;;;;;x
-PROV869;Chipindo;;;;;;;;;x
-PROV870;Matala;;;;;;;;;x
-PROV871;Caluquembe;;;;;;;;;x
-PROV872;Bailundo;;;;;;;;;x
-PROV873;Caála;;;;;;;;;x
-PROV874;Huambo;;;;;;;;;x
-PROV875;Bentiaba;;;;;;;;;x
-PROV876;Tômbua;;;;;;;;;x
-PROV877;Moçamedes;;;;;;;;;x
-PROV878;Gambos;;;;;;;;;x
-PROV879;Lubango;;;;;;;;;x
-PROV880;Baía Farta;;;;;;;;;x
-PROV881;Chongorói;;;;;;;;;x
-PROV882;Ganda;;;;;;;;;x
-PROV883;Lobito;;;;;;;;;x
-PROV884;Benguela;;;;;;;;;x
-PROV885;Quibala;;;;;;;;;x
-PROV886;Mussende;;;;;;;;;x
-PROV887;Ebo;;;;;;;;;x
-PROV888;Amboim;;;;;;;;;x
-PROV889;Sumbe;;;;;;;;;x
-PROV890;Quicama;;;;;;;;;x
-PROV891;Ambriz;;;;;;;;;x
-PROV892;N'zeto;;;;;;;;;x
-PROV893;M'banza-Kongo;;;;;;;;;x
-PROV894;Soyo;;;;;;;;;x
-PROV895;Luanda;;;;;;;;;x
-PROV896;Mavinga;;;;;;;;;x
-PROV897;Alto Zambeze;;;;;;;;;x
-PROV898;Lumbala N'guimbo;;;;;;;;;x
-PROV899;Rivungo;;;;;;;;;x
-PROV900;Macia;;;;;;;;;x
-PROV901;Massingir;;;;;;;;;x
-PROV902;Xai-Xai;;;;;;;;;x
-PROV903;Mapai;;;;;;;;;x
-PROV904;Chigubo;;;;;;;;;x
-PROV905;Machaze;;;;;;;;;x
-PROV906;Chimoio;;;;;;;;;x
-PROV907;Guro;;;;;;;;;x
-PROV908;Maputo;;;;;;;;;x
-PROV909;Zumbo;;;;;;;;;x
-PROV910;Mague;;;;;;;;;x
-PROV911;Tete;;;;;;;;;x
-PROV912;Macanga;;;;;;;;;x
-PROV913;Doa;;;;;;;;;x
-PROV914;Beira;;;;;;;;;x
-PROV915;Mocímboa da Praia;;;;;;;;;x
-PROV916;Pemba-Metuge;;;;;;;;;x
-PROV917;Montepuez;;;;;;;;;x
-PROV918;Chiúre;;;;;;;;;x
-PROV919;Angoche;;;;;;;;;x
-PROV920;Nacala;;;;;;;;;x
-PROV921;Mozambique;;;;;;;;;x
-PROV922;Namapa;;;;;;;;;x
-PROV923;Nampula;;;;;;;;;x
-PROV924;Ribáuè;;;;;;;;;x
-PROV925;Inharrime;;;;;;;;;x
-PROV926;Inhambane;;;;;;;;;x
-PROV927;Massinga;;;;;;;;;x
-PROV928;Inhassoro;;;;;;;;;x
-PROV929;Mabote;;;;;;;;;x
-PROV930;Buzi;;;;;;;;;x
-PROV931;Chemba;;;;;;;;;x
-PROV932;Marromeu;;;;;;;;;x
-PROV933;Nhamatanda;;;;;;;;;x
-PROV934;Pebane;;;;;;;;;x
-PROV935;Gurúè;;;;;;;;;x
-PROV936;Alto Molocue;;;;;;;;;x
-PROV937;Mabu;;;;;;;;;x
-PROV938;Milange;;;;;;;;;x
-PROV939;Cuamba;;;;;;;;;x
-PROV940;Lago;;;;;;;;;x
-PROV941;Mecula;;;;;;;;;x
-PROV942;Maua;;;;;;;;;x
-PROV943;Mecanhelas;;;;;;;;;x
-PROV944;Sanga;;;;;;;;;x
-PROV945;N'gauma;;;;;;;;;x
-PROV946;Marrupa;;;;;;;;;x
-PROV947;Majune;;;;;;;;;x
-PROV948;Manhica;;;;;;;;;x
-PROV949;Matutuíne;;;;;;;;;x
-PROV950;Guijá;;;;;;;;;x
-PROV951;Cheredzi;;;;;;;;;x
-PROV952;Mwenezi;;;;;;;;;x
-PROV953;Blantyre;;;;;;;;;x
-PROV954;Masvingo;;;;;;;;;x
-PROV955;Gutu;;;;;;;;;x
-PROV956;Bikita;;;;;;;;;x
-PROV957;Chikhwawa;;;;;;;;;x
-PROV958;Beitbridge;;;;;;;;;x
-PROV959;Gwanda;;;;;;;;;x
-PROV960;Gokwe;;;;;;;;;x
-PROV961;Gweru;;;;;;;;;x
-PROV962;Hurungwe;;;;;;;;;x
-PROV963;Kariba;;;;;;;;;x
-PROV964;Hwange;;;;;;;;;x
-PROV965;Binga;;;;;;;;;x
-PROV966;Harare;;;;;;;;;x
-PROV967;Chikomba;;;;;;;;;x
-PROV968;Marondera;;;;;;;;;x
-PROV969;Mutoko;;;;;;;;;x
-PROV970;Mutare;;;;;;;;;x
-PROV971;Chipinge;;;;;;;;;x
-PROV972;Nyanga;;;;;;;;;x
-PROV973;Bindura;;;;;;;;;x
-PROV974;Muzarabani;;;;;;;;;x
-PROV975;Bulawayo;;;;;;;;;x
-PROV976;Lupane;;;;;;;;;x
-PROV977;Bulilima;;;;;;;;;x
-PROV978;Insiza;;;;;;;;;x
-PROV979;Zvishavane;;;;;;;;;x
-PROV980;Kwekwe;;;;;;;;;x
-PROV981;Chinhoyi;;;;;;;;;x
-PROV982;Mhondoro-Ngezi;;;;;;;;;x
-PROV983;Zomba;;;;;;;;;x
-PROV984;Mangochi;;;;;;;;;x
-PROV985;Dedza;;;;;;;;;x
-PROV986;Kusungu;;;;;;;;;x
-PROV987;Kruger;;;;;;;;;x
-PROV988;Nkhata Bay;;;;;;;;;x
-PROV989;Nkhotakhota;;;;;;;;;x
-PROV990;Lilongwe;;;;;;;;;x
-PROV991;Mzimba;;;;;;;;;x
-PROV992;Rhumpi;;;;;;;;;x
-PROV993;Mpika;;;;;;;;;x
-PROV994;Kaputa;;;;;;;;;x
-PROV995;Lusaka;;;;;;;;;x
-PROV996;Chongwe;;;;;;;;;x
-PROV997;Chipata;;;;;;;;;x
-PROV998;Lundazi;;;;;;;;;x
-PROV999;Chama;;;;;;;;;x
-PROV1000;Nyimba;;;;;;;;;x
-PROV1001;Petauke;;;;;;;;;x
-PROV1002;Serenje;;;;;;;;;x
-PROV1003;Solwezi;;;;;;;;;x
-PROV1004;Lufwanyama;;;;;;;;;x
-PROV1005;Chingola;;;;;;;;;x
-PROV1006;Kabwe;;;;;;;;;x
-PROV1007;Luanshya;;;;;;;;;x
-PROV1008;Mumbwa;;;;;;;;;x
-PROV1009;Mkushi;;;;;;;;;x
-PROV1010;Sesheke;;;;;;;;;x
-PROV1011;Kapiri Mposhi;;;;;;;;;x
-PROV1012;Mwinilunga;;;;;;;;;x
-PROV1013;Zambezi;;;;;;;;;x
-PROV1014;Kasempa;;;;;;;;;x
-PROV1015;Itezhi Tezhi;;;;;;;;;x
-PROV1016;Kazungula;;;;;;;;;x
-PROV1017;Choma;;;;;;;;;x
-PROV1018;Siavonga;;;;;;;;;x
-PROV1019;Kaoma;;;;;;;;;x
-PROV1020;Senanga;;;;;;;;;x
-PROV1021;Mongu;;;;;;;;;x
-PROV1022;Mansa;;;;;;;;;x
-PROV1023;Nchelenge;;;;;;;;;x
-PROV1024;Kawambwa;;;;;;;;;x
-PROV1025;Kasama;;;;;;;;;x
-PROV1026;Mbala;;;;;;;;;x
-PROV1027;Luwingu;;;;;;;;;x
-PROV1028;Mporokoso;;;;;;;;;x
-PROV1029;Isoka;;;;;;;;;x
-PROV1030;Chinsali;;;;;;;;;x
-PROV1031;Sakania;;;;;;;;;x
-PROV1032;Lubumbashi;;;;;;;;;x
-PROV1033;Mitwaba;;;;;;;;;x
-PROV1034;Pweto;;;;;;;;;x
-PROV1035;Moba;;;;;;;;;x
-PROV1036;Lubudi;;;;;;;;;x
-PROV1037;Kolwezi;;;;;;;;;x
-PROV1038;Likasi;;;;;;;;;x
-PROV1039;Kasenga;;;;;;;;;x
-PROV1040;Dilolo;;;;;;;;;x
-PROV1041;Sandoa;;;;;;;;;x
-PROV1042;Kapanga;;;;;;;;;x
-PROV1043;Kalemie;;;;;;;;;x
-PROV1044;Kongolo;;;;;;;;;x
-PROV1045;Kabalo;;;;;;;;;x
-PROV1046;Nyunzu;;;;;;;;;x
-PROV1047;Kaniama;;;;;;;;;x
-PROV1048;Kanima;;;;;;;;;x
-PROV1049;Bukama;;;;;;;;;x
-PROV1050;Manono;;;;;;;;;x
-PROV1051;Malemba-Nkulu;;;;;;;;;x
-PROV1052;Kabongo;;;;;;;;;x
-PROV1053;Mwene-Ditu;;;;;;;;;x
-PROV1054;Luiza;;;;;;;;;x
-PROV1055;Mbuji-Mayi;;;;;;;;;x
-PROV1056;Tshikapa;;;;;;;;;x
-PROV1057;Kabambere;;;;;;;;;x
-PROV1058;Kibombo;;;;;;;;;x
-PROV1059;Kindu;;;;;;;;;x
-PROV1060;Kasongo;;;;;;;;;x
-PROV1061;Shabunda;;;;;;;;;x
-PROV1062;Boma;;;;;;;;;x
-PROV1063;Kinshasa;;;;;;;;;x
-PROV1064;Luozi;;;;;;;;;x
-PROV1065;Cabinda;;;;;;;;;x
-PROV1066;M'banza-Ngungu;;;;;;;;;x
-PROV1067;Matadi;;;;;;;;;x
-PROV1068;Kasongo-Lunda;;;;;;;;;x
-PROV1069;Kahemba;;;;;;;;;x
-PROV1070;Feshi;;;;;;;;;x
-PROV1071;Bandundu;;;;;;;;;x
-PROV1072;Bagata;;;;;;;;;x
-PROV1073;Kutu;;;;;;;;;x
-PROV1074;Bololo;;;;;;;;;x
-PROV1075;Mushie;;;;;;;;;x
-PROV1076;Inongo;;;;;;;;;x
-PROV1077;;;;;;;;;;x
-PROV1078;Kikwit;;;;;;;;;x
-PROV1079;Idiofa;;;;;;;;;x
-PROV1080;Gungu;;;;;;;;;x
-PROV1081;Masi-Manimba;;;;;;;;;x
-PROV1082;Kenge;;;;;;;;;x
-PROV1083;Luebo;;;;;;;;;x
-PROV1084;Mweka;;;;;;;;;x
-PROV1085;Mbadaka;;;;;;;;;x
-PROV1086;Bokwango;;;;;;;;;x
-PROV1087;Gemena;;;;;;;;;x
-PROV1088;Bongadanga;;;;;;;;;x
-PROV1089;Basankusu;;;;;;;;;x
-PROV1090;Bolomba;;;;;;;;;x
-PROV1091;Lisala;;;;;;;;;x
-PROV1092;Libenge;;;;;;;;;x
-PROV1093;Yakoma;;;;;;;;;x
-PROV1094;Bosobolo;;;;;;;;;x
-PROV1095;Mobayi-Mbongo;;;;;;;;;x
-PROV1096;Irumu;;;;;;;;;x
-PROV1097;Djugu;;;;;;;;;x
-PROV1098;Mambasa;;;;;;;;;x
-PROV1099;Fizi;;;;;;;;;x
-PROV1100;Bukavu;;;;;;;;;x
-PROV1101;Kalehe;;;;;;;;;x
-PROV1102;Mwenga;;;;;;;;;x
-PROV1103;Gobabis;;;;;;;;;x
-PROV1104;Faradje;;;;;;;;;x
-PROV1105;Dungu;;;;;;;;;x
-PROV1106;Ango;;;;;;;;;x
-PROV1107;Bondo;;;;;;;;;x
-PROV1108;Budjala;;;;;;;;;x
-PROV1109;Businga;;;;;;;;;x
-PROV1110;Bumba;;;;;;;;;x
-PROV1111;Basoko;;;;;;;;;x
-PROV1112;Yahuma;;;;;;;;;x
-PROV1113;Kisangani;;;;;;;;;x
-PROV1114;Buta;;;;;;;;;x
-PROV1115;Aketi;;;;;;;;;x
-PROV1116;Ingende;;;;;;;;;x
-PROV1117;Kazumba;;;;;;;;;x
-PROV1118;Kananga;;;;;;;;;x
-PROV1119;Demba;;;;;;;;;x
-PROV1120;Dimbelenge;;;;;;;;;x
-PROV1121;Lubao;;;;;;;;;x
-PROV1122;Kabinda;;;;;;;;;x
-PROV1123;Ngandajika;;;;;;;;;x
-PROV1124;Lusambo;;;;;;;;;x
-PROV1125;Lubefu;;;;;;;;;x
-PROV1126;Isiro;;;;;;;;;x
-PROV1127;Mundri;;;;;;;;;x
-PROV1128;Wau;;;;;;;;;x
-PROV1129;Raga;;;;;;;;;x
-PROV1130;Al Fashir;;;;;;;;;x
-PROV1131;Al Junaynah;;;;;;;;;x
-PROV1132;Nyala;;;;;;;;;x
-PROV1133;Ouadda;;;;;;;;;x
-PROV1134;Gash-Barka;;;;;;;;;x
-PROV1135;Assab;;;;;;;;;x
-PROV1136;Massawa;;;;;;;;;x
-PROV1137;Asmara;;;;;;;;;x
-PROV1138;Anseba;;;;;;;;;x
-PROV1139;Djibouti;;;;;;;;;x
-PROV1140;Tadjoura;;;;;;;;;x
-PROV1141;Dahlak;;;;;;;;;x
-PROV1142;Dollo;;;;;;;;;x
-PROV1143;Jarar;;;;;;;;;x
-PROV1144;Fafan;;;;;;;;;x
-PROV1145;Sitti;;;;;;;;;x
-PROV1146;Korahe;;;;;;;;;x
-PROV1147;Liben;;;;;;;;;x
-PROV1148;Borena;;;;;;;;;x
-PROV1149;Afder;;;;;;;;;x
-PROV1150;Shabelle;;;;;;;;;x
-PROV1151;Guji;;;;;;;;;x
-PROV1152;Bale;;;;;;;;;x
-PROV1153;Nogob;;;;;;;;;x
-PROV1154;Arsi;;;;;;;;;x
-PROV1155;East Shewa;;;;;;;;;x
-PROV1156;Addis Ababa;;;;;;;;;x
-PROV1157;West Shewa;;;;;;;;;x
-PROV1158;Shewa Oromia;;;;;;;;;x
-PROV1159;Shewa Amhara;;;;;;;;;x
-PROV1160;East Gojjam;;;;;;;;;x
-PROV1161;West Gojjam;;;;;;;;;x
-PROV1162;West Hararghe;;;;;;;;;x
-PROV1163;West Arsi;;;;;;;;;x
-PROV1164;South Oms;;;;;;;;;x
-PROV1165;Bench Maji;;;;;;;;;x
-PROV1166;Anuak;;;;;;;;;x
-PROV1167;Metekel;;;;;;;;;x
-PROV1168;Agew Awi;;;;;;;;;x
-PROV1169;Horo Guduru Welega;;;;;;;;;x
-PROV1170;Segen;;;;;;;;;x
-PROV1171;Gedao;;;;;;;;;x
-PROV1172;Sidama;;;;;;;;;x
-PROV1173;Kelem Walega;;;;;;;;;x
-PROV1174;Illubabor;;;;;;;;;x
-PROV1175;Asosa;;;;;;;;;x
-PROV1176;West Welega;;;;;;;;;x
-PROV1177;East Welega;;;;;;;;;x
-PROV1178;Kamashi;;;;;;;;;x
-PROV1179;Keffa;;;;;;;;;x
-PROV1180;Sheka;;;;;;;;;x
-PROV1181;North Gondar;;;;;;;;;x
-PROV1182;South Gondar;;;;;;;;;x
-PROV1183;Wag Hemra;;;;;;;;;x
-PROV1184;West Tigray;;;;;;;;;x
-PROV1185;East Tigray;;;;;;;;;x
-PROV1186;North Wollo;;;;;;;;;x
-PROV1187;South Wollo;;;;;;;;;x
-PROV1188;Argobba;;;;;;;;;x
-PROV1189;South Afar;;;;;;;;;x
-PROV1190;North Afar;;;;;;;;;x
-PROV1191;Afar;;;;;;;;;x
-PROV1192;West Afar;;;;;;;;;x
-PROV1193;East Hararghe;;;;;;;;;x
-PROV1194;Jimma;;;;;;;;;x
-PROV1195;Gamo Gofa;;;;;;;;;x
-PROV1196;Dawro;;;;;;;;;x
-PROV1197;Gurage;;;;;;;;;x
-PROV1198;Hadiya;;;;;;;;;x
-PROV1199;Zallingi;;;;;;;;;x
-PROV1200;Omdurman;;;;;;;;;x
-PROV1201;Abu Hamed;;;;;;;;;x
-PROV1202;Ad Douiem;;;;;;;;;x
-PROV1203;Sinkat;;;;;;;;;x
-PROV1204;Port Sudan;;;;;;;;;x
-PROV1205;Nasser;;;;;;;;;x
-PROV1206;Al Goled;;;;;;;;;x
-PROV1207;Dongola;;;;;;;;;x
-PROV1208;En Nahud;;;;;;;;;x
-PROV1209;El Daein;;;;;;;;;x
-PROV1210;Shendi;;;;;;;;;x
-PROV1211;Tambura;;;;;;;;;x
-PROV1212;Gereida;;;;;;;;;x
-PROV1213;Al Manaqil;;;;;;;;;x
-PROV1214;Kurnuk;;;;;;;;;x
-PROV1215;Magwi;;;;;;;;;x
-PROV1216;Kapoeta;;;;;;;;;x
-PROV1217;Yei;;;;;;;;;x
-PROV1218;Yirol;;;;;;;;;x
-PROV1219;Kabkabiya;;;;;;;;;x
-PROV1220;;;;;;;;;;x
-PROV1221;Melut;;;;;;;;;x
-PROV1222;Nakfa;;;;;;;;;x
-PROV1223;Abacheri;;;;;;;;;x
-PROV1224;Cape Town;;;;;;;;;x
-PROV1225;Port Elizabeth;;;;;;;;;x
-PROV1226;East London;;;;;;;;;x
-PROV1227;Durban;;;;;;;;;x
-PROV1228;KwaDukuza;;;;;;;;;x
-PROV1229;Hibberdene;;;;;;;;;x
-PROV1230;Port Shepstone;;;;;;;;;x
-PROV1231;Stellenbosch;;;;;;;;;x
-PROV1232;Vredenburg;;;;;;;;;x
-PROV1233;Piketberg;;;;;;;;;x
-PROV1234;Winterhoek;;;;;;;;;x
-PROV1235;Vredendal;;;;;;;;;x
-PROV1236;Kamiesburg;;;;;;;;;x
-PROV1237;Nama Khoi;;;;;;;;;x
-PROV1238;Khara Hais;;;;;;;;;x
-PROV1239;Richtersveld;;;;;;;;;x
-PROV1240;Karoo Hoogland;;;;;;;;;x
-PROV1241;Khai-Ma;;;;;;;;;x
-PROV1242;Hantam;;;;;;;;;x
-PROV1243;Mier;;;;;;;;;x
-PROV1244;Kai Garib;;;;;;;;;x
-PROV1245;Kheis;;;;;;;;;x
-PROV1246;Tsantsabane;;;;;;;;;x
-PROV1247;Kgatelopele;;;;;;;;;x
-PROV1248;Moshaweng;;;;;;;;;x
-PROV1249;Ga-Segonyana;;;;;;;;;x
-PROV1250;Dikgatlong;;;;;;;;;x
-PROV1251;Sol Plaatje;;;;;;;;;x
-PROV1252;Emthanjeni;;;;;;;;;x
-PROV1253;Kareeberg;;;;;;;;;x
-PROV1254;Renosterberg;;;;;;;;;x
-PROV1255;Thembelihle;;;;;;;;;x
-PROV1256;Umsobomvu;;;;;;;;;x
-PROV1257;Ubuntu;;;;;;;;;x
-PROV1258;Siyathemba;;;;;;;;;x
-PROV1259;Siyancuma;;;;;;;;;x
-PROV1260;Kagisano-Molopo;;;;;;;;;x
-PROV1261;Polokwane;;;;;;;;;x
-PROV1262;Fotadrevo;;;;;;;;;x
-PROV1263;Blouberg;;;;;;;;;x
-PROV1264;Molemole;;;;;;;;;x
-PROV1265;Makhado;;;;;;;;;x
-PROV1266;Musina;;;;;;;;;x
-PROV1267;Thulamela;;;;;;;;;x
-PROV1268;Ba-Phalaborwa;;;;;;;;;x
-PROV1269;Greater Giyani;;;;;;;;;x
-PROV1270;Greater Tzaneen;;;;;;;;;x
-PROV1271;Fetakgomo-Tubatse;;;;;;;;;x
-PROV1272;Makhuduthamaga;;;;;;;;;x
-PROV1273;Elias Motsoaledi;;;;;;;;;x
-PROV1274;Thabazimbi;;;;;;;;;x
-PROV1275;Lephalale;;;;;;;;;x
-PROV1276;Bela-Bela;;;;;;;;;x
-PROV1277;Mogalakwena;;;;;;;;;x
-PROV1278;Modimolle;;;;;;;;;x
-PROV1279;Richards Bay;;;;;;;;;x
-PROV1280;Pietermaritzburg;;;;;;;;;x
-PROV1281;Pretoria;;;;;;;;;x
-PROV1282;Bronkhorstspruit;;;;;;;;;x
-PROV1283;Vereeniging;;;;;;;;;x
-PROV1284;Soweto;;;;;;;;;x
-PROV1285;Johannesburg;;;;;;;;;x
-PROV1286;Potchefstroom;;;;;;;;;x
-PROV1287;Matlosana;;;;;;;;;x
-PROV1288;Berea;;;;;;;;;x
-PROV1289;Maseru;;;;;;;;;x
-PROV1290;Leribe;;;;;;;;;x
-PROV1291;Mohale's Hoek;;;;;;;;;x
-PROV1292;Mafeteng;;;;;;;;;x
-PROV1293;Thaba-Tseka;;;;;;;;;x
-PROV1294;Mokhotlong;;;;;;;;;x
-PROV1295;Hermanus;;;;;;;;;x
-PROV1296;Cape Agulhas;;;;;;;;;x
-PROV1297;Hessequa;;;;;;;;;x
-PROV1298;Langeberg;;;;;;;;;x
-PROV1299;Breede;;;;;;;;;x
-PROV1300;Oudtshoorn;;;;;;;;;x
-PROV1301;George;;;;;;;;;x
-PROV1302;South Cape;;;;;;;;;x
-PROV1303;Laingsburg;;;;;;;;;x
-PROV1304;Prince Albert;;;;;;;;;x
-PROV1305;Beaufort West;;;;;;;;;x
-PROV1306;Kou-Kamma;;;;;;;;;x
-PROV1307;Blue Crane;;;;;;;;;x
-PROV1308;Makana;;;;;;;;;x
-PROV1309;Uitenhage;;;;;;;;;x
-PROV1310;Camdeboo;;;;;;;;;x
-PROV1311;Baviaans;;;;;;;;;x
-PROV1312;Nkonkobe;;;;;;;;;x
-PROV1313;Morgans Bay;;;;;;;;;x
-PROV1314;Mbhashe;;;;;;;;;x
-PROV1315;Mthatha;;;;;;;;;x
-PROV1316;Port St. Johns;;;;;;;;;x
-PROV1317;Umzimvubu;;;;;;;;;x
-PROV1318;Matatiele;;;;;;;;;x
-PROV1319;Kokstad;;;;;;;;;x
-PROV1320;Ingwe;;;;;;;;;x
-PROV1321;uMngeni;;;;;;;;;x
-PROV1322;Ladysmith;;;;;;;;;x
-PROV1323;Maluti-a-Phofung;;;;;;;;;x
-PROV1324;Bethlehem;;;;;;;;;x
-PROV1325;Setsoto;;;;;;;;;x
-PROV1326;Bloemfontein;;;;;;;;;x
-PROV1327;Mohokare;;;;;;;;;x
-PROV1328;Ulundi;;;;;;;;;x
-PROV1329;Letsemeng;;;;;;;;;x
-PROV1330;Mtubatuba;;;;;;;;;x
-PROV1331;Sibayi;;;;;;;;;x
-PROV1332;KwaDukuza;;;;;;;;;x
-PROV1333;Newcastle;;;;;;;;;x
-PROV1334;Dundee;;;;;;;;;x
-PROV1335;Vryheid;;;;;;;;;x
-PROV1336;Paulpietersburg;;;;;;;;;x
-PROV1337;Umvoti;;;;;;;;;x
-PROV1338;Lubombo;;;;;;;;;x
-PROV1339;Hhohho;;;;;;;;;x
-PROV1340;Manzini;;;;;;;;;x
-PROV1341;Shiselweni;;;;;;;;;x
-PROV1342;Albert Luthuli;;;;;;;;;x
-PROV1343;Thembisile Hani;;;;;;;;;x
-PROV1344;Emalahleni;;;;;;;;;x
-PROV1345;Emakhazeni;;;;;;;;;x
-PROV1346;Standerton;;;;;;;;;x
-PROV1347;Ermelo;;;;;;;;;x
-PROV1348;Piet Retief;;;;;;;;;x
-PROV1349;Inxuba Yethemba;;;;;;;;;x
-PROV1350;Enoch Mgijima;;;;;;;;;x
-PROV1351;Lady Frere;;;;;;;;;x
-PROV1352;Engcobo;;;;;;;;;x
-PROV1353;Kopanong;;;;;;;;;x
-PROV1354;Walter Sisulu;;;;;;;;;x
-PROV1355;Senqu;;;;;;;;;x
-PROV1356;Elundini;;;;;;;;;x
-PROV1357;Amahlathi;;;;;;;;;x
-PROV1358;Mafube;;;;;;;;;x
-PROV1359;Ngwathe;;;;;;;;;x
-PROV1360;Moqhaka;;;;;;;;;x
-PROV1361;Matjhabeng;;;;;;;;;x
-PROV1362;Nala;;;;;;;;;x
-PROV1363;Masilonyana;;;;;;;;;x
-PROV1364;Tswelopele;;;;;;;;;x
-PROV1365;Tokologo;;;;;;;;;x
-PROV1366;Mamusa;;;;;;;;;x
-PROV1367;Greater Taung;;;;;;;;;x
-PROV1368;Vryburg;;;;;;;;;x
-PROV1369;Ditsobotla;;;;;;;;;x
-PROV1370;Mahikeng;;;;;;;;;x
-PROV1371;Moses Kotane;;;;;;;;;x
-PROV1372;Rustenburg;;;;;;;;;x
-PROV1373;Mahalapye;;;;;;;;;x
-PROV1374;Bobonong;;;;;;;;;x
-PROV1375;Makgadikgadi;;;;;;;;;x
-PROV1376;Lodja;;;;;;;;;x
-PROV1377;Lomela;;;;;;;;;x
-PROV1378;Banalia;;;;;;;;;x
-PROV1379;Kole;;;;;;;;;x
-PROV1380;Mpole;;;;;;;;;x
-PROV1381;Gendo;;;;;;;;;x
-PROV1382;Boyeka;;;;;;;;;x
-PROV1383;Dongo;;;;;;;;;x
-PROV1384;Dongou;;;;;;;;;x
-PROV1385;Etoumbi;;;;;;;;;x
-PROV1386;Beu;;;;;;;;;x
-PROV1387;Madimba;;;;;;;;;x
-PROV1388;Shilabo;;;;;;;;;x
-PROV1389;Mwenga;;;;;;;;;x
-PROV1390;Beni;;;;;;;;;x
-PROV1391;Butembo;;;;;;;;;x
-PROV1392;Kanya Bayonga;;;;;;;;;x
-PROV1393;Kashbere;;;;;;;;;x
-PROV1394;Mahagi;;;;;;;;;x
-PROV1395;Kakuma;;;;;;;;;x
-PROV1396;Sibiloi;;;;;;;;;x
-PROV1397;Gao;;;;;;;;;x
-PROV1398;Diré;;;;;;;;;x
-PROV1399;Kwahu;;;;;;;;;x
-PROV1400;Oshwe;;;;;;;;;x
-PROV1401;Chigamane;;;;;;;;;x
-PROV1402;Mavume;;;;;;;;;x
-PROV1403;Catandica;;;;;;;;;x
-PROV1404;Regone;;;;;;;;;x
-PROV1405;Nametil;;;;;;;;;x
-PROV1406;Mueda;;;;;;;;;x
-PROV1407;Garsen;;;;;;;;;x
-PROV1408;Mombasa;;;;;;;;;x
-PROV1409;Sekyere;;;;;;;;;x
-PROV1410;Soum;;;;;;;;;x
-PROV1411;Passoré;;;;;;;;;x
-PROV1412;Zoundwéogo;;;;;;;;;x
-PROV1413;Boulgou;;;;;;;;;x
-PROV1414;Moramanga;;;;;;;;;x
-PROV1415;Mufumbwe;;;;;;;;;x
-PROV1416;Mpongwe;;;;;;;;;x
-PROV1417;Mazabuka;;;;;;;;;x
-PROV1418;Kismayo;;;;;;;;;x
-PROV1419;Afmadow;;;;;;;;;x
-PROV1420;Middle Juba;;;;;;;;;x
-PROV1421;Bardhere;;;;;;;;;x
-PROV1422;Garbaharey;;;;;;;;;x
-PROV1423;Barawa;;;;;;;;;x
-PROV1424;Merca;;;;;;;;;x
-PROV1425;Mogadishu;;;;;;;;;x
-PROV1426;;;;;;;;;;x
-PROV1427;Baay;;;;;;;;;x
-PROV1428;Shabeellaha;;;;;;;;;x
-PROV1429;Buuloburde;;;;;;;;;x
-PROV1430;Dhusamareeb;;;;;;;;;x
-PROV1431;El Buur;;;;;;;;;x
-PROV1432;Haradhere;;;;;;;;;x
-PROV1433;Hobyo;;;;;;;;;x
-PROV1434;Galkayo;;;;;;;;;x
-PROV1435;Nugaal;;;;;;;;;x
-PROV1436;Karkaar;;;;;;;;;x
-PROV1437;Guardafui;;;;;;;;;x
-PROV1438;Bosaso;;;;;;;;;x
-PROV1439;Badhan;;;;;;;;;x
-PROV1440;Erigavo;;;;;;;;;x
-PROV1441;Khaatumo;;;;;;;;;x
-PROV1442;Sool;;;;;;;;;x
-PROV1443;Buuhoodle;;;;;;;;;x
-PROV1444;Burao;;;;;;;;;x
-PROV1445;Sahil;;;;;;;;;x
-PROV1446;Hargeysa;;;;;;;;;x
-PROV1447;Awdal;;;;;;;;;x
-PROV1448;Bakool;;;;;;;;;x
-PROV1449;Beledweyne;;;;;;;;;x
-PROV1450;Mohéli;;;;;;;;;x
-PROV1451;Anjouan;;;;;;;;;x
-PROV1452;Grande Terre;;;;;;;;;x
-PROV1453;Socotra;;;;;;;;;x
-PROV1454;Farasan;;;;;;;;;x
+PROV643;Katagum;Katagum;Katagum;;Katagum;;;;;;;x
+PROV644;Tchaoudjo;Tchaoudjo;Tchaoudjo;;Tchaoudjo;;;;;;;x
+PROV645;Tegina;Tegina;Tegina;;Tegina;;;;;;;x
+PROV646;Garki;Garki;Garki;;Garki;;;;;;;x
+PROV647;Ogou;Ogou;Ogou;;Ogou;;;;;;;x
+PROV648;Bukkuyum;Bukkuyum;Bukkuyum;;Bukkuyum;;;;;;;x
+PROV649;Kozah;Kozah;Kozah;;Kozah;;;;;;;x
+PROV650;Gwadabawa;Gwadabawa;Gwadabawa;;Gwadabawa;;;;;;;x
+PROV651;Hombori;Hombori;Hombori;;Hombori;;;;;;;x
+PROV652;Darazo;Darazo;Darazo;;Darazo;;;;;;;x
+PROV653;Goronyo;Goronyo;Goronyo;;Goronyo;;;;;;;x
+PROV654;Dutse;Dutse;Dutse;;Dutse;;;;;;;x
+PROV655;Shinkafi;Shinkafi;Shinkafi;;Shinkafi;;;;;;;x
+PROV656;Gusau;Gusau;Gusau;;Gusau;;;;;;;x
+PROV657;Kolondiéba;Kolondiéba;Kolondiéba;;Kolondiéba;;;;;;;x
+PROV658;Kankara;Kankara;Kankara;;Kankara;;;;;;;x
+PROV659;Katsina;Katsina;Katsina;;Katsina;;;;;;;x
+PROV660;Anka;Anka;Anka;;Anka;;;;;;;x
+PROV661;Wasagu;Wasagu;Wasagu;;Wasagu;;;;;;;x
+PROV662;Birnin Gwari;Birnin Gwari;Birnin Gwari;;Birnin Gwari;;;;;;;x
+PROV663;Djenné;Djenné;Djenné;;Djenné;;;;;;;x
+PROV664;Tureta;Tureta;Tureta;;Tureta;;;;;;;x
+PROV665;Kadiolo;Kadiolo;Kadiolo;;Kadiolo;;;;;;;x
+PROV666;Kuta;Kuta;Kuta;;Kuta;;;;;;;x
+PROV667;Koulikoro;Koulikoro;Koulikoro;;Koulikoro;;;;;;;x
+PROV668;Tumu;Tumu;Tumu;;Tumu;;;;;;;x
+PROV669;Minna;Minna;Minna;;Minna;;;;;;;x
+PROV670;Kwali;Kwali;Kwali;;Kwali;;;;;;;x
+PROV671;Fika;Fika;Fika;;Fika;;;;;;;x
+PROV672;Koton Karfe;Koton Karfe;Koton Karfe;;Koton Karfe;;;;;;;x
+PROV673;Malanville;Malanville;Malanville;;Malanville;;;;;;;x
+PROV674;Kaiama;Kaiama;Kaiama;;Kaiama;;;;;;;x
+PROV675;Busuru;Busuru;Busuru;;Busuru;;;;;;;x
+PROV676;Ségbana;Ségbana;Ségbana;;Ségbana;;;;;;;x
+PROV677;Banikoara;Banikoara;Banikoara;;Banikoara;;;;;;;x
+PROV678;Gougougon;Gougougon;Gougougon;;Gougougon;;;;;;;x
+PROV679;Bembèrèkè;Bembèrèkè;Bembèrèkè;;Bembèrèkè;;;;;;;x
+PROV680;Pèrèrè;Pèrèrè;Pèrèrè;;Pèrèrè;;;;;;;x
+PROV681;Wa;Wa;Wa;;Wa;;;;;;;x
+PROV682;Aplahoué;Aplahoué;Aplahoué;;Aplahoué;;;;;;;x
+PROV683;Ouidah;Ouidah;Ouidah;;Ouidah;;;;;;;x
+PROV684;Bobo-Dioulasso;Bobo-Dioulasso;Bobo-Dioulasso;;Bobo-Dioulasso;;;;;;;x
+PROV685;Ganzourgou;Ganzourgou;Ganzourgou;;Ganzourgou;;;;;;;x
+PROV686;Iwoye;Iwoye;Iwoye;;Iwoye;;;;;;;x
+PROV687;Ningi;Ningi;Ningi;;Ningi;;;;;;;x
+PROV688;Bantè;Bantè;Bantè;;Bantè;;;;;;;x
+PROV689;Tchaourou;Tchaourou;Tchaourou;;Tchaourou;;;;;;;x
+PROV690;Ayete;Ayete;Ayete;;Ayete;;;;;;;x
+PROV691;Igbeti;Igbeti;Igbeti;;Igbeti;;;;;;;x
+PROV692;Ogbomosho;Ogbomosho;Ogbomosho;;Ogbomosho;;;;;;;x
+PROV693;Oubritenga;Oubritenga;Oubritenga;;Oubritenga;;;;;;;x
+PROV694;Iwo;Iwo;Iwo;;Iwo;;;;;;;x
+PROV695;Koforidua;Koforidua;Koforidua;;Koforidua;;;;;;;x
+PROV696;Osogbo;Osogbo;Osogbo;;Osogbo;;;;;;;x
+PROV697;Owu-Isin;Owu-Isin;Owu-Isin;;Owu-Isin;;;;;;;x
+PROV698;Share;Share;Share;;Share;;;;;;;x
+PROV699;Pategi;Pategi;Pategi;;Pategi;;;;;;;x
+PROV700;Walvis Bay;Walvis Bay;Walvis Bay;;Walvis Bay;;;;;x;;
+PROV701;Swakopmund;Swakopmund;Swakopmund;;Swakopmund;;;;;x;;
+PROV702;Brandberg;Brandberg;Brandberg;;Brandberg;;;;;x;;
+PROV703;Karibib;Karibib;Karibib;;Karibib;;;;;x;;
+PROV704;Naukluft;Naukluft;Naukluft;;Naukluft;;;;;x;;
+PROV705;Windhoek;Windhoek;Windhoek;;Windhoek;;;;;x;;
+PROV706;Rehoboth;Rehoboth;Rehoboth;;Rehoboth;;;;;x;;
+PROV707;Nossob;Nossob;Nossob;;Nossob;;;;;x;;
+PROV708;Mariental;Mariental;Mariental;;Mariental;;;;;x;;
+PROV709;Daweb;Daweb;Daweb;;Daweb;;;;;x;;
+PROV710;Gibeon;Gibeon;Gibeon;;Gibeon;;;;;x;;
+PROV711;Lüderitz;Lüderitz;Lüderitz;;Lüderitz;;;;;x;;
+PROV712;Brukkaros;Brukkaros;Brukkaros;;Brukkaros;;;;;x;;
+PROV713;Keetmanshoop;Keetmanshoop;Keetmanshoop;;Keetmanshoop;;;;;x;;
+PROV714;Karasburg;Karasburg;Karasburg;;Karasburg;;;;;x;;
+PROV715;Richtersveld;Richtersveld;Richtersveld;;Richtersveld;;;;;x;;
+PROV716;Oranjemund;Oranjemund;Oranjemund;;Oranjemund;;;;;x;;
+PROV717;Omatako;Omatako;Omatako;;Omatako;;;;;x;;
+PROV718;Waterberg;Waterberg;Waterberg;;Waterberg;;;;;x;;
+PROV719;Otavi;Otavi;Otavi;;Otavi;;;;;x;;
+PROV720;Grootfontein;Grootfontein;Grootfontein;;Grootfontein;;;;;x;;
+PROV721;Guinas;Guinas;Guinas;;Guinas;;;;;x;;
+PROV722;Ohangwena;Ohangwena;Ohangwena;;Ohangwena;;;;;x;;
+PROV723;Oshana;Oshana;Oshana;;Oshana;;;;;x;;
+PROV724;Omuthiyagwiipundi;Omuthiyagwiipundi;Omuthiyagwiipundi;;Omuthiyagwiipundi;;;;;x;;
+PROV725;Rundu;Rundu;Rundu;;Rundu;;;;;x;;
+PROV726;Khaudum;Khaudum;Khaudum;;Khaudum;;;;;x;;
+PROV727;Khorixas;Khorixas;Khorixas;;Khorixas;;;;;x;;
+PROV728;Epupa;Epupa;Epupa;;Epupa;;;;;x;;
+PROV729;Omusati;Omusati;Omusati;;Omusati;;;;;x;;
+PROV730;Kamanjab;Kamanjab;Kamanjab;;Kamanjab;;;;;x;;
+PROV731;Mopti;Mopti;Mopti;;Mopti;;;;;x;;
+PROV732;Okitipupa;Okitipupa;Okitipupa;;Okitipupa;;;;;;;x
+PROV733;Kati;Kati;Kati;;Kati;;;;;;;x
+PROV734;Abuja;Abuja;Abuja;;Abuja;;;;;;;x
+PROV735;Nasarawa;Nasarawa;Nasarawa;;Nasarawa;;;;;;;x
+PROV736;Damatura;Damatura;Damatura;;Damatura;;;;;;;x
+PROV737;Kagoro;Kagoro;Kagoro;;Kagoro;;;;;;;x
+PROV738;Kachia;Kachia;Kachia;;Kachia;;;;;;;x
+PROV739;Kaduna;Kaduna;Kaduna;;Kaduna;;;;;;;x
+PROV740;Soba;Soba;Soba;;Soba;;;;;;;x
+PROV741;Tudun Wada;Tudun Wada;Tudun Wada;;Tudun Wada;;;;;;;x
+PROV742;Funtua;Funtua;Funtua;;Funtua;;;;;;;x
+PROV743;Zaria;Zaria;Zaria;;Zaria;;;;;;;x
+PROV744;Sanga;Sanga;Sanga;;Sanga;;;;;;;x
+PROV745;Jos;Jos;Jos;;Jos;;;;;;;x
+PROV746;Lafia;Lafia;Lafia;;Lafia;;;;;;;x
+PROV747;Wamba;Wamba;Wamba;;Wamba;;;;;;;x
+PROV748;Akwanga;Akwanga;Akwanga;;Akwanga;;;;;;;x
+PROV749;Doma;Doma;Doma;;Doma;;;;;;;x
+PROV750;Akamkpa;Akamkpa;Akamkpa;;Akamkpa;;;;;;;x
+PROV751;Vande Ikya;Vande Ikya;Vande Ikya;;Vande Ikya;;;;;;;x
+PROV752;Katsina Ala;Katsina Ala;Katsina Ala;;Katsina Ala;;;;;;;x
+PROV753;Gboko;Gboko;Gboko;;Gboko;;;;;;;x
+PROV754;Otukpo;Otukpo;Otukpo;;Otukpo;;;;;;;x
+PROV755;Makurdi;Makurdi;Makurdi;;Makurdi;;;;;;;x
+PROV756;Wukari;Wukari;Wukari;;Wukari;;;;;;;x
+PROV757;Takum;Takum;Takum;;Takum;;;;;;;x
+PROV758;Gembu;Gembu;Gembu;;Gembu;;;;;;;x
+PROV759;Bali;Bali;Bali;;Bali;;;;;;;x
+PROV760;Mutum Biyu;Mutum Biyu;Mutum Biyu;;Mutum Biyu;;;;;;;x
+PROV761;Otjinene;Otjinene;Otjinene;;Otjinene;;;;;;;x
+PROV762;Jalingo;Jalingo;Jalingo;;Jalingo;;;;;;;x
+PROV763;Zarmaganda;Zarmaganda;Zarmaganda;;Zarmaganda;;;;;;;x
+PROV764;Numan;Numan;Numan;;Numan;;;;;;;x
+PROV765;Yola;Yola;Yola;;Yola;;;;;;;x
+PROV766;Ganye;Ganye;Ganye;;Ganye;;;;;;;x
+PROV767;Shendam;Shendam;Shendam;;Shendam;;;;;;;x
+PROV768;Wase;Wase;Wase;;Wase;;;;;;;x
+PROV769;Pankshin;Pankshin;Pankshin;;Pankshin;;;;;;;x
+PROV770;Bogoro;Bogoro;Bogoro;;Bogoro;;;;;;;x
+PROV771;Alkaleri;Alkaleri;Alkaleri;;Alkaleri;;;;;;;x
+PROV772;Bauchi;Bauchi;Bauchi;;Bauchi;;;;;;;x
+PROV773;Gumel;Gumel;Gumel;;Gumel;;;;;;;x
+PROV774;Maun;Maun;Maun;;Maun;;;;;;;x
+PROV775;Batsari;Batsari;Batsari;;Batsari;;;;;;;x
+PROV776;Tessaoua;Tessaoua;Tessaoua;;Tessaoua;;;;;;;x
+PROV777;Maradi;Maradi;Maradi;;Maradi;;;;;;;x
+PROV778;Gwarzo;Gwarzo;Gwarzo;;Gwarzo;;;;;;;x
+PROV779;Kano;Kano;Kano;;Kano;;;;;;;x
+PROV780;Rano;Rano;Rano;;Rano;;;;;;;x
+PROV781;Gombe;Gombe;Gombe;;Gombe;;;;;;;x
+PROV782;Kaltungo;Kaltungo;Kaltungo;;Kaltungo;;;;;;;x
+PROV783;Dukku;Dukku;Dukku;;Dukku;;;;;;;x
+PROV784;Girei;Girei;Girei;;Girei;;;;;;;x
+PROV785;Mubi;Mubi;Mubi;;Mubi;;;;;;;x
+PROV786;Biu;Biu;Biu;;Biu;;;;;;;x
+PROV787;Damboa;Damboa;Damboa;;Damboa;;;;;;;x
+PROV788;Bama;Bama;Bama;;Bama;;;;;;;x
+PROV789;Maiduguri;Maiduguri;Maiduguri;;Maiduguri;;;;;;;x
+PROV790;Kukawa;Kukawa;Kukawa;;Kukawa;;;;;;;x
+PROV791;Nguru;Nguru;Nguru;;Nguru;;;;;;;x
+PROV792;Gashua;Gashua;Gashua;;Gashua;;;;;;;x
+PROV793;Oguma;Oguma;Oguma;;Oguma;;;;;;;x
+PROV794;Keita;Keita;Keita;;Keita;;;;;;;x
+PROV795;Serti;Serti;Serti;;Serti;;;;;;;x
+PROV796;Dosso;Dosso;Dosso;;Dosso;;;;;;;x
+PROV797;Gamboru;Gamboru;Gamboru;;Gamboru;;;;;;;x
+PROV798;Yambio;Yambio;Yambio;;Yambio;;;;;x;;
+PROV799;Sabie;Sabie;Sabie;;Sabie;;;;;x;;
+PROV800;Junqoley-Boma;Junqoley-Boma;Junqoley-Boma;;Junqoley-Boma;;;;;x;;
+PROV801;Latjoor;Latjoor;Latjoor;;Latjoor;;;;;x;;
+PROV802;Juba;Juba;Juba;;Juba;;;;;x;;
+PROV803;Ez Zeraf;Ez Zeraf;Ez Zeraf;;Ez Zeraf;;;;;x;;
+PROV804;Bor;Bor;Bor;;Bor;;;;;x;;
+PROV805;Muglad;Muglad;Muglad;;Muglad;;;;;x;;
+PROV806;Al Buhayrat;Al Buhayrat;Al Buhayrat;;Al Buhayrat;;;;;x;;
+PROV807;Shimal Bahr al Ghazal;Shimal Bahr al Ghazal;Shimal Bahr al Ghazal;;Shimal Bahr al Ghazal;;;;;x;;
+PROV808;El Obeid;El Obeid;El Obeid;;El Obeid;;;;;x;;
+PROV809;Ad Damir;Ad Damir;Ad Damir;;Ad Damir;;;;;x;;
+PROV810;Warab;Warab;Warab;;Warab;;;;;x;;
+PROV811;Al Wahda;Al Wahda;Al Wahda;;Al Wahda;;;;;x;;
+PROV812;Kadugli;Kadugli;Kadugli;;Kadugli;;;;;x;;
+PROV813;Malakal;Malakal;Malakal;;Malakal;;;;;x;;
+PROV814;Rabak;Rabak;Rabak;;Rabak;;;;;x;;
+PROV815;Ad Damazin;Ad Damazin;Ad Damazin;;Ad Damazin;;;;;x;;
+PROV816;Sennar;Sennar;Sennar;;Sennar;;;;;x;;
+PROV817;Al Qadarif;Al Qadarif;Al Qadarif;;Al Qadarif;;;;;x;;
+PROV818;Kassala;Kassala;Kassala;;Kassala;;;;;x;;
+PROV819;Al Jazirah;Al Jazirah;Al Jazirah;;Al Jazirah;;;;;x;;
+PROV820;Al Khartoum;Al Khartoum;Al Khartoum;;Al Khartoum;;;;;x;;
+PROV821;Caprivi;Caprivi;Caprivi;;Caprivi;;;;;x;;
+PROV822;Ngamiland North;Ngamiland North;Ngamiland North;;Ngamiland North;;;;;x;;
+PROV823;Ngamiland South;Ngamiland South;Ngamiland South;;Ngamiland South;;;;;x;;
+PROV824;Chobe;Chobe;Chobe;;Chobe;;;;;x;;
+PROV825;Selebi-Phikwe;Selebi-Phikwe;Selebi-Phikwe;;Selebi-Phikwe;;;;;x;;
+PROV826;Orapa;Orapa;Orapa;;Orapa;;;;;x;;
+PROV827;Tutume;Tutume;Tutume;;Tutume;;;;;x;;
+PROV828;Serowe;Serowe;Serowe;;Serowe;;;;;x;;
+PROV829;Francistown;Francistown;Francistown;;Francistown;;;;;x;;
+PROV830;Ghanzi;Ghanzi;Ghanzi;;Ghanzi;;;;;x;;
+PROV831;Central Kalahari;Central Kalahari;Central Kalahari;;Central Kalahari;;;;;x;;
+PROV832;Jwaneng;Jwaneng;Jwaneng;;Jwaneng;;;;;x;;
+PROV833;Gabarone;Gabarone;Gabarone;;Gabarone;;;;;x;;
+PROV834;Kgatleng;Kgatleng;Kgatleng;;Kgatleng;;;;;x;;
+PROV835;Kweneng;Kweneng;Kweneng;;Kweneng;;;;;x;;
+PROV836;Kgalagadi South;Kgalagadi South;Kgalagadi South;;Kgalagadi South;;;;;x;;
+PROV837;Kgalagadi North;Kgalagadi North;Kgalagadi North;;Kgalagadi North;;;;;x;;
+PROV838;Cuango-Luzamba;Cuango-Luzamba;Cuango-Luzamba;;Cuango-Luzamba;;;;;x;;
+PROV839;Dundo;Dundo;Dundo;;Dundo;;;;;x;;
+PROV840;Bungo;Bungo;Bungo;;Bungo;;;;;x;;
+PROV841;Quimbele;Quimbele;Quimbele;;Quimbele;;;;;x;;
+PROV842;Songo;Songo;Songo;;Songo;;;;;x;;
+PROV843;Uíge;Uíge;Uíge;;Uíge;;;;;x;;
+PROV844;Ambaca;Ambaca;Ambaca;;Ambaca;;;;;x;;
+PROV845;Cazengo;Cazengo;Cazengo;;Cazengo;;;;;x;;
+PROV846;Calandula;Calandula;Calandula;;Calandula;;;;;x;;
+PROV847;Mucari;Mucari;Mucari;;Mucari;;;;;x;;
+PROV848;Malanje;Malanje;Malanje;;Malanje;;;;;x;;
+PROV849;Quirima;Quirima;Quirima;;Quirima;;;;;x;;
+PROV850;Cacolo;Cacolo;Cacolo;;Cacolo;;;;;x;;
+PROV851;Saurimo;Saurimo;Saurimo;;Saurimo;;;;;x;;
+PROV852;Dala;Dala;Dala;;Dala;;;;;x;;
+PROV853;Kwanhama;Kwanhama;Kwanhama;;Kwanhama;;;;;x;;
+PROV854;Cuvelai;Cuvelai;Cuvelai;;Cuvelai;;;;;x;;
+PROV855;Kuroka;Kuroka;Kuroka;;Kuroka;;;;;x;;
+PROV856;Ombadja;Ombadja;Ombadja;;Ombadja;;;;;x;;
+PROV857;Andulo;Andulo;Andulo;;Andulo;;;;;x;;
+PROV858;Cuemba;Cuemba;Cuemba;;Cuemba;;;;;x;;
+PROV859;Camacupa;Camacupa;Camacupa;;Camacupa;;;;;x;;
+PROV860;Cuito;Cuito;Cuito;;Cuito;;;;;x;;
+PROV861;Chitembo;Chitembo;Chitembo;;Chitembo;;;;;x;;
+PROV862;Luau;Luau;Luau;;Luau;;;;;x;;
+PROV863;Leua;Leua;Leua;;Leua;;;;;x;;
+PROV864;Luena;Luena;Luena;;Luena;;;;;x;;
+PROV865;Luchazes;Luchazes;Luchazes;;Luchazes;;;;;x;;
+PROV866;Cuito Cuanavale;Cuito Cuanavale;Cuito Cuanavale;;Cuito Cuanavale;;;;;x;;
+PROV867;Dirico;Dirico;Dirico;;Dirico;;;;;x;;
+PROV868;Menongue;Menongue;Menongue;;Menongue;;;;;x;;
+PROV869;Chipindo;Chipindo;Chipindo;;Chipindo;;;;;x;;
+PROV870;Matala;Matala;Matala;;Matala;;;;;x;;
+PROV871;Caluquembe;Caluquembe;Caluquembe;;Caluquembe;;;;;x;;
+PROV872;Bailundo;Bailundo;Bailundo;;Bailundo;;;;;x;;
+PROV873;Caála;Caála;Caála;;Caála;;;;;x;;
+PROV874;Huambo;Huambo;Huambo;;Huambo;;;;;x;;
+PROV875;Bentiaba;Bentiaba;Bentiaba;;Bentiaba;;;;;x;;
+PROV876;Tômbua;Tômbua;Tômbua;;Tômbua;;;;;x;;
+PROV877;Moçamedes;Moçamedes;Moçamedes;;Moçamedes;;;;;x;;
+PROV878;Gambos;Gambos;Gambos;;Gambos;;;;;x;;
+PROV879;Lubango;Lubango;Lubango;;Lubango;;;;;x;;
+PROV880;Baía Farta;Baía Farta;Baía Farta;;Baía Farta;;;;;x;;
+PROV881;Chongorói;Chongorói;Chongorói;;Chongorói;;;;;x;;
+PROV882;Ganda;Ganda;Ganda;;Ganda;;;;;x;;
+PROV883;Lobito;Lobito;Lobito;;Lobito;;;;;x;;
+PROV884;Benguela;Benguela;Benguela;;Benguela;;;;;x;;
+PROV885;Quibala;Quibala;Quibala;;Quibala;;;;;x;;
+PROV886;Mussende;Mussende;Mussende;;Mussende;;;;;x;;
+PROV887;Ebo;Ebo;Ebo;;Ebo;;;;;x;;
+PROV888;Amboim;Amboim;Amboim;;Amboim;;;;;x;;
+PROV889;Sumbe;Sumbe;Sumbe;;Sumbe;;;;;x;;
+PROV890;Quicama;Quicama;Quicama;;Quicama;;;;;x;;
+PROV891;Ambriz;Ambriz;Ambriz;;Ambriz;;;;;x;;
+PROV892;N'zeto;N'zeto;N'zeto;;N'zeto;;;;;x;;
+PROV893;M'banza-Kongo;M'banza-Kongo;M'banza-Kongo;;M'banza-Kongo;;;;;x;;
+PROV894;Soyo;Soyo;Soyo;;Soyo;;;;;x;;
+PROV895;Luanda;Luanda;Luanda;;Luanda;;;;;x;;
+PROV896;Mavinga;Mavinga;Mavinga;;Mavinga;;;;;x;;
+PROV897;Alto Zambeze;Alto Zambeze;Alto Zambeze;;Alto Zambeze;;;;;x;;
+PROV898;Lumbala N'guimbo;Lumbala N'guimbo;Lumbala N'guimbo;;Lumbala N'guimbo;;;;;x;;
+PROV899;Rivungo;Rivungo;Rivungo;;Rivungo;;;;;x;;
+PROV900;Macia;Macia;Macia;;Macia;;;;;x;;
+PROV901;Massingir;Massingir;Massingir;;Massingir;;;;;x;;
+PROV902;Xai-Xai;Xai-Xai;Xai-Xai;;Xai-Xai;;;;;x;;
+PROV903;Mapai;Mapai;Mapai;;Mapai;;;;;x;;
+PROV904;Chigubo;Chigubo;Chigubo;;Chigubo;;;;;x;;
+PROV905;Machaze;Machaze;Machaze;;Machaze;;;;;x;;
+PROV906;Chimoio;Chimoio;Chimoio;;Chimoio;;;;;x;;
+PROV907;Guro;Guro;Guro;;Guro;;;;;x;;
+PROV908;Maputo;Maputo;Maputo;;Maputo;;;;;x;;
+PROV909;Zumbo;Zumbo;Zumbo;;Zumbo;;;;;x;;
+PROV910;Mague;Mague;Mague;;Mague;;;;;x;;
+PROV911;Tete;Tete;Tete;;Tete;;;;;x;;
+PROV912;Macanga;Macanga;Macanga;;Macanga;;;;;x;;
+PROV913;Doa;Doa;Doa;;Doa;;;;;x;;
+PROV914;Beira;Beira;Beira;;Beira;;;;;x;;
+PROV915;Mocímboa da Praia;Mocímboa da Praia;Mocímboa da Praia;;Mocímboa da Praia;;;;;x;;
+PROV916;Pemba-Metuge;Pemba-Metuge;Pemba-Metuge;;Pemba-Metuge;;;;;x;;
+PROV917;Montepuez;Montepuez;Montepuez;;Montepuez;;;;;x;;
+PROV918;Chiúre;Chiúre;Chiúre;;Chiúre;;;;;x;;
+PROV919;Angoche;Angoche;Angoche;;Angoche;;;;;x;;
+PROV920;Nacala;Nacala;Nacala;;Nacala;;;;;x;;
+PROV921;Mozambique;Mozambique;Mozambique;;Mozambique;;;;;x;;
+PROV922;Namapa;Namapa;Namapa;;Namapa;;;;;x;;
+PROV923;Nampula;Nampula;Nampula;;Nampula;;;;;x;;
+PROV924;Ribáuè;Ribáuè;Ribáuè;;Ribáuè;;;;;x;;
+PROV925;Inharrime;Inharrime;Inharrime;;Inharrime;;;;;x;;
+PROV926;Inhambane;Inhambane;Inhambane;;Inhambane;;;;;x;;
+PROV927;Massinga;Massinga;Massinga;;Massinga;;;;;x;;
+PROV928;Inhassoro;Inhassoro;Inhassoro;;Inhassoro;;;;;x;;
+PROV929;Mabote;Mabote;Mabote;;Mabote;;;;;x;;
+PROV930;Buzi;Buzi;Buzi;;Buzi;;;;;x;;
+PROV931;Chemba;Chemba;Chemba;;Chemba;;;;;x;;
+PROV932;Marromeu;Marromeu;Marromeu;;Marromeu;;;;;x;;
+PROV933;Nhamatanda;Nhamatanda;Nhamatanda;;Nhamatanda;;;;;x;;
+PROV934;Pebane;Pebane;Pebane;;Pebane;;;;;x;;
+PROV935;Gurúè;Gurúè;Gurúè;;Gurúè;;;;;x;;
+PROV936;Alto Molocue;Alto Molocue;Alto Molocue;;Alto Molocue;;;;;x;;
+PROV937;Mabu;Mabu;Mabu;;Mabu;;;;;x;;
+PROV938;Milange;Milange;Milange;;Milange;;;;;x;;
+PROV939;Cuamba;Cuamba;Cuamba;;Cuamba;;;;;x;;
+PROV940;Lago;Lago;Lago;;Lago;;;;;x;;
+PROV941;Mecula;Mecula;Mecula;;Mecula;;;;;x;;
+PROV942;Maua;Maua;Maua;;Maua;;;;;x;;
+PROV943;Mecanhelas;Mecanhelas;Mecanhelas;;Mecanhelas;;;;;x;;
+PROV944;Sanga;Sanga;Sanga;;Sanga;;;;;x;;
+PROV945;N'gauma;N'gauma;N'gauma;;N'gauma;;;;;x;;
+PROV946;Marrupa;Marrupa;Marrupa;;Marrupa;;;;;x;;
+PROV947;Majune;Majune;Majune;;Majune;;;;;x;;
+PROV948;Manhica;Manhica;Manhica;;Manhica;;;;;x;;
+PROV949;Matutuíne;Matutuíne;Matutuíne;;Matutuíne;;;;;x;;
+PROV950;Guijá;Guijá;Guijá;;Guijá;;;;;x;;
+PROV951;Cheredzi;Cheredzi;Cheredzi;;Cheredzi;;;;;x;;
+PROV952;Mwenezi;Mwenezi;Mwenezi;;Mwenezi;;;;;x;;
+PROV953;Blantyre;Blantyre;Blantyre;;Blantyre;;;;;x;;
+PROV954;Masvingo;Masvingo;Masvingo;;Masvingo;;;;;x;;
+PROV955;Gutu;Gutu;Gutu;;Gutu;;;;;x;;
+PROV956;Bikita;Bikita;Bikita;;Bikita;;;;;x;;
+PROV957;Chikhwawa;Chikhwawa;Chikhwawa;;Chikhwawa;;;;;x;;
+PROV958;Beitbridge;Beitbridge;Beitbridge;;Beitbridge;;;;;x;;
+PROV959;Gwanda;Gwanda;Gwanda;;Gwanda;;;;;x;;
+PROV960;Gokwe;Gokwe;Gokwe;;Gokwe;;;;;x;;
+PROV961;Gweru;Gweru;Gweru;;Gweru;;;;;x;;
+PROV962;Hurungwe;Hurungwe;Hurungwe;;Hurungwe;;;;;x;;
+PROV963;Kariba;Kariba;Kariba;;Kariba;;;;;x;;
+PROV964;Hwange;Hwange;Hwange;;Hwange;;;;;x;;
+PROV965;Binga;Binga;Binga;;Binga;;;;;x;;
+PROV966;Harare;Harare;Harare;;Harare;;;;;x;;
+PROV967;Chikomba;Chikomba;Chikomba;;Chikomba;;;;;x;;
+PROV968;Marondera;Marondera;Marondera;;Marondera;;;;;x;;
+PROV969;Mutoko;Mutoko;Mutoko;;Mutoko;;;;;x;;
+PROV970;Mutare;Mutare;Mutare;;Mutare;;;;;x;;
+PROV971;Chipinge;Chipinge;Chipinge;;Chipinge;;;;;x;;
+PROV972;Nyanga;Nyanga;Nyanga;;Nyanga;;;;;x;;
+PROV973;Bindura;Bindura;Bindura;;Bindura;;;;;x;;
+PROV974;Muzarabani;Muzarabani;Muzarabani;;Muzarabani;;;;;x;;
+PROV975;Bulawayo;Bulawayo;Bulawayo;;Bulawayo;;;;;x;;
+PROV976;Lupane;Lupane;Lupane;;Lupane;;;;;x;;
+PROV977;Bulilima;Bulilima;Bulilima;;Bulilima;;;;;x;;
+PROV978;Insiza;Insiza;Insiza;;Insiza;;;;;x;;
+PROV979;Zvishavane;Zvishavane;Zvishavane;;Zvishavane;;;;;x;;
+PROV980;Kwekwe;Kwekwe;Kwekwe;;Kwekwe;;;;;x;;
+PROV981;Chinhoyi;Chinhoyi;Chinhoyi;;Chinhoyi;;;;;x;;
+PROV982;Mhondoro-Ngezi;Mhondoro-Ngezi;Mhondoro-Ngezi;;Mhondoro-Ngezi;;;;;x;;
+PROV983;Zomba;Zomba;Zomba;;Zomba;;;;;x;;
+PROV984;Mangochi;Mangochi;Mangochi;;Mangochi;;;;;x;;
+PROV985;Dedza;Dedza;Dedza;;Dedza;;;;;x;;
+PROV986;Kusungu;Kusungu;Kusungu;;Kusungu;;;;;x;;
+PROV987;Kruger;Kruger;Kruger;;Kruger;;;;;x;;
+PROV988;Nkhata Bay;Nkhata Bay;Nkhata Bay;;Nkhata Bay;;;;;x;;
+PROV989;Nkhotakhota;Nkhotakhota;Nkhotakhota;;Nkhotakhota;;;;;x;;
+PROV990;Lilongwe;Lilongwe;Lilongwe;;Lilongwe;;;;;x;;
+PROV991;Mzimba;Mzimba;Mzimba;;Mzimba;;;;;x;;
+PROV992;Rhumpi;Rhumpi;Rhumpi;;Rhumpi;;;;;x;;
+PROV993;Mpika;Mpika;Mpika;;Mpika;;;;;x;;
+PROV994;Kaputa;Kaputa;Kaputa;;Kaputa;;;;;x;;
+PROV995;Lusaka;Lusaka;Lusaka;;Lusaka;;;;;x;;
+PROV996;Chongwe;Chongwe;Chongwe;;Chongwe;;;;;x;;
+PROV997;Chipata;Chipata;Chipata;;Chipata;;;;;x;;
+PROV998;Lundazi;Lundazi;Lundazi;;Lundazi;;;;;x;;
+PROV999;Chama;Chama;Chama;;Chama;;;;;x;;
+PROV1000;Nyimba;Nyimba;Nyimba;;Nyimba;;;;;x;;
+PROV1001;Petauke;Petauke;Petauke;;Petauke;;;;;x;;
+PROV1002;Serenje;Serenje;Serenje;;Serenje;;;;;x;;
+PROV1003;Solwezi;Solwezi;Solwezi;;Solwezi;;;;;x;;
+PROV1004;Lufwanyama;Lufwanyama;Lufwanyama;;Lufwanyama;;;;;x;;
+PROV1005;Chingola;Chingola;Chingola;;Chingola;;;;;x;;
+PROV1006;Kabwe;Kabwe;Kabwe;;Kabwe;;;;;x;;
+PROV1007;Luanshya;Luanshya;Luanshya;;Luanshya;;;;;x;;
+PROV1008;Mumbwa;Mumbwa;Mumbwa;;Mumbwa;;;;;x;;
+PROV1009;Mkushi;Mkushi;Mkushi;;Mkushi;;;;;x;;
+PROV1010;Sesheke;Sesheke;Sesheke;;Sesheke;;;;;x;;
+PROV1011;Kapiri Mposhi;Kapiri Mposhi;Kapiri Mposhi;;Kapiri Mposhi;;;;;x;;
+PROV1012;Mwinilunga;Mwinilunga;Mwinilunga;;Mwinilunga;;;;;x;;
+PROV1013;Zambezi;Zambezi;Zambezi;;Zambezi;;;;;x;;
+PROV1014;Kasempa;Kasempa;Kasempa;;Kasempa;;;;;x;;
+PROV1015;Itezhi Tezhi;Itezhi Tezhi;Itezhi Tezhi;;Itezhi Tezhi;;;;;x;;
+PROV1016;Kazungula;Kazungula;Kazungula;;Kazungula;;;;;x;;
+PROV1017;Choma;Choma;Choma;;Choma;;;;;x;;
+PROV1018;Siavonga;Siavonga;Siavonga;;Siavonga;;;;;x;;
+PROV1019;Kaoma;Kaoma;Kaoma;;Kaoma;;;;;x;;
+PROV1020;Senanga;Senanga;Senanga;;Senanga;;;;;x;;
+PROV1021;Mongu;Mongu;Mongu;;Mongu;;;;;x;;
+PROV1022;Mansa;Mansa;Mansa;;Mansa;;;;;x;;
+PROV1023;Nchelenge;Nchelenge;Nchelenge;;Nchelenge;;;;;x;;
+PROV1024;Kawambwa;Kawambwa;Kawambwa;;Kawambwa;;;;;x;;
+PROV1025;Kasama;Kasama;Kasama;;Kasama;;;;;x;;
+PROV1026;Mbala;Mbala;Mbala;;Mbala;;;;;x;;
+PROV1027;Luwingu;Luwingu;Luwingu;;Luwingu;;;;;x;;
+PROV1028;Mporokoso;Mporokoso;Mporokoso;;Mporokoso;;;;;x;;
+PROV1029;Isoka;Isoka;Isoka;;Isoka;;;;;x;;
+PROV1030;Chinsali;Chinsali;Chinsali;;Chinsali;;;;;x;;
+PROV1031;Sakania;Sakania;Sakania;;Sakania;;;;;x;;
+PROV1032;Lubumbashi;Lubumbashi;Lubumbashi;;Lubumbashi;;;;;x;;
+PROV1033;Mitwaba;Mitwaba;Mitwaba;;Mitwaba;;;;;x;;
+PROV1034;Pweto;Pweto;Pweto;;Pweto;;;;;x;;
+PROV1035;Moba;Moba;Moba;;Moba;;;;;x;;
+PROV1036;Lubudi;Lubudi;Lubudi;;Lubudi;;;;;x;;
+PROV1037;Kolwezi;Kolwezi;Kolwezi;;Kolwezi;;;;;x;;
+PROV1038;Likasi;Likasi;Likasi;;Likasi;;;;;x;;
+PROV1039;Kasenga;Kasenga;Kasenga;;Kasenga;;;;;x;;
+PROV1040;Dilolo;Dilolo;Dilolo;;Dilolo;;;;;x;;
+PROV1041;Sandoa;Sandoa;Sandoa;;Sandoa;;;;;x;;
+PROV1042;Kapanga;Kapanga;Kapanga;;Kapanga;;;;;x;;
+PROV1043;Kalemie;Kalemie;Kalemie;;Kalemie;;;;;x;;
+PROV1044;Kongolo;Kongolo;Kongolo;;Kongolo;;;;;x;;
+PROV1045;Kabalo;Kabalo;Kabalo;;Kabalo;;;;;x;;
+PROV1046;Nyunzu;Nyunzu;Nyunzu;;Nyunzu;;;;;x;;
+PROV1047;Kaniama;Kaniama;Kaniama;;Kaniama;;;;;x;;
+PROV1048;Kanima;Kanima;Kanima;;Kanima;;;;;x;;
+PROV1049;Bukama;Bukama;Bukama;;Bukama;;;;;x;;
+PROV1050;Manono;Manono;Manono;;Manono;;;;;x;;
+PROV1051;Malemba-Nkulu;Malemba-Nkulu;Malemba-Nkulu;;Malemba-Nkulu;;;;;x;;
+PROV1052;Kabongo;Kabongo;Kabongo;;Kabongo;;;;;x;;
+PROV1053;Mwene-Ditu;Mwene-Ditu;Mwene-Ditu;;Mwene-Ditu;;;;;x;;
+PROV1054;Luiza;Luiza;Luiza;;Luiza;;;;;x;;
+PROV1055;Mbuji-Mayi;Mbuji-Mayi;Mbuji-Mayi;;Mbuji-Mayi;;;;;x;;
+PROV1056;Tshikapa;Tshikapa;Tshikapa;;Tshikapa;;;;;x;;
+PROV1057;Kabambere;Kabambere;Kabambere;;Kabambere;;;;;x;;
+PROV1058;Kibombo;Kibombo;Kibombo;;Kibombo;;;;;x;;
+PROV1059;Kindu;Kindu;Kindu;;Kindu;;;;;x;;
+PROV1060;Kasongo;Kasongo;Kasongo;;Kasongo;;;;;x;;
+PROV1061;Shabunda;Shabunda;Shabunda;;Shabunda;;;;;x;;
+PROV1062;Boma;Boma;Boma;;Boma;;;;;x;;
+PROV1063;Kinshasa;Kinshasa;Kinshasa;;Kinshasa;;;;;x;;
+PROV1064;Luozi;Luozi;Luozi;;Luozi;;;;;x;;
+PROV1065;Cabinda;Cabinda;Cabinda;;Cabinda;;;;;x;;
+PROV1066;M'banza-Ngungu;M'banza-Ngungu;M'banza-Ngungu;;M'banza-Ngungu;;;;;x;;
+PROV1067;Matadi;Matadi;Matadi;;Matadi;;;;;x;;
+PROV1068;Kasongo-Lunda;Kasongo-Lunda;Kasongo-Lunda;;Kasongo-Lunda;;;;;x;;
+PROV1069;Kahemba;Kahemba;Kahemba;;Kahemba;;;;;x;;
+PROV1070;Feshi;Feshi;Feshi;;Feshi;;;;;x;;
+PROV1071;Bandundu;Bandundu;Bandundu;;Bandundu;;;;;x;;
+PROV1072;Bagata;Bagata;Bagata;;Bagata;;;;;x;;
+PROV1073;Kutu;Kutu;Kutu;;Kutu;;;;;x;;
+PROV1074;Bololo;Bololo;Bololo;;Bololo;;;;;x;;
+PROV1075;Mushie;Mushie;Mushie;;Mushie;;;;;x;;
+PROV1076;Inongo;Inongo;Inongo;;Inongo;;;;;x;;
+PROV1077;;;;;;;;;;x;;
+PROV1078;Kikwit;Kikwit;Kikwit;;Kikwit;;;;;x;;
+PROV1079;Idiofa;Idiofa;Idiofa;;Idiofa;;;;;x;;
+PROV1080;Gungu;Gungu;Gungu;;Gungu;;;;;x;;
+PROV1081;Masi-Manimba;Masi-Manimba;Masi-Manimba;;Masi-Manimba;;;;;x;;
+PROV1082;Kenge;Kenge;Kenge;;Kenge;;;;;x;;
+PROV1083;Luebo;Luebo;Luebo;;Luebo;;;;;x;;
+PROV1084;Mweka;Mweka;Mweka;;Mweka;;;;;x;;
+PROV1085;Mbadaka;Mbadaka;Mbadaka;;Mbadaka;;;;;x;;
+PROV1086;Bokwango;Bokwango;Bokwango;;Bokwango;;;;;x;;
+PROV1087;Gemena;Gemena;Gemena;;Gemena;;;;;x;;
+PROV1088;Bongadanga;Bongadanga;Bongadanga;;Bongadanga;;;;;x;;
+PROV1089;Basankusu;Basankusu;Basankusu;;Basankusu;;;;;x;;
+PROV1090;Bolomba;Bolomba;Bolomba;;Bolomba;;;;;x;;
+PROV1091;Lisala;Lisala;Lisala;;Lisala;;;;;x;;
+PROV1092;Libenge;Libenge;Libenge;;Libenge;;;;;x;;
+PROV1093;Yakoma;Yakoma;Yakoma;;Yakoma;;;;;x;;
+PROV1094;Bosobolo;Bosobolo;Bosobolo;;Bosobolo;;;;;x;;
+PROV1095;Mobayi-Mbongo;Mobayi-Mbongo;Mobayi-Mbongo;;Mobayi-Mbongo;;;;;x;;
+PROV1096;Irumu;Irumu;Irumu;;Irumu;;;;;x;;
+PROV1097;Djugu;Djugu;Djugu;;Djugu;;;;;x;;
+PROV1098;Mambasa;Mambasa;Mambasa;;Mambasa;;;;;x;;
+PROV1099;Fizi;Fizi;Fizi;;Fizi;;;;;x;;
+PROV1100;Bukavu;Bukavu;Bukavu;;Bukavu;;;;;x;;
+PROV1101;Kalehe;Kalehe;Kalehe;;Kalehe;;;;;x;;
+PROV1102;Mwenga;Mwenga;Mwenga;;Mwenga;;;;;x;;
+PROV1103;Gobabis;Gobabis;Gobabis;;Gobabis;;;;;x;;
+PROV1104;Faradje;Faradje;Faradje;;Faradje;;;;;x;;
+PROV1105;Dungu;Dungu;Dungu;;Dungu;;;;;x;;
+PROV1106;Ango;Ango;Ango;;Ango;;;;;x;;
+PROV1107;Bondo;Bondo;Bondo;;Bondo;;;;;x;;
+PROV1108;Budjala;Budjala;Budjala;;Budjala;;;;;x;;
+PROV1109;Businga;Businga;Businga;;Businga;;;;;x;;
+PROV1110;Bumba;Bumba;Bumba;;Bumba;;;;;x;;
+PROV1111;Basoko;Basoko;Basoko;;Basoko;;;;;x;;
+PROV1112;Yahuma;Yahuma;Yahuma;;Yahuma;;;;;x;;
+PROV1113;Kisangani;Kisangani;Kisangani;;Kisangani;;;;;x;;
+PROV1114;Buta;Buta;Buta;;Buta;;;;;x;;
+PROV1115;Aketi;Aketi;Aketi;;Aketi;;;;;x;;
+PROV1116;Ingende;Ingende;Ingende;;Ingende;;;;;x;;
+PROV1117;Kazumba;Kazumba;Kazumba;;Kazumba;;;;;x;;
+PROV1118;Kananga;Kananga;Kananga;;Kananga;;;;;x;;
+PROV1119;Demba;Demba;Demba;;Demba;;;;;x;;
+PROV1120;Dimbelenge;Dimbelenge;Dimbelenge;;Dimbelenge;;;;;x;;
+PROV1121;Lubao;Lubao;Lubao;;Lubao;;;;;x;;
+PROV1122;Kabinda;Kabinda;Kabinda;;Kabinda;;;;;x;;
+PROV1123;Ngandajika;Ngandajika;Ngandajika;;Ngandajika;;;;;x;;
+PROV1124;Lusambo;Lusambo;Lusambo;;Lusambo;;;;;x;;
+PROV1125;Lubefu;Lubefu;Lubefu;;Lubefu;;;;;x;;
+PROV1126;Isiro;Isiro;Isiro;;Isiro;;;;;x;;
+PROV1127;Mundri;Mundri;Mundri;;Mundri;;;;;x;;
+PROV1128;Wau;Wau;Wau;;Wau;;;;;x;;
+PROV1129;Raga;Raga;Raga;;Raga;;;;;x;;
+PROV1130;Al Fashir;Al Fashir;Al Fashir;;Al Fashir;;;;;x;;
+PROV1131;Al Junaynah;Al Junaynah;Al Junaynah;;Al Junaynah;;;;;x;;
+PROV1132;Nyala;Nyala;Nyala;;Nyala;;;;;x;;
+PROV1133;Ouadda;Ouadda;Ouadda;;Ouadda;;;;;x;;
+PROV1134;Gash-Barka;Gash-Barka;Gash-Barka;;Gash-Barka;;;;;x;;
+PROV1135;Assab;Assab;Assab;;Assab;;;;;x;;
+PROV1136;Massawa;Massawa;Massawa;;Massawa;;;;;x;;
+PROV1137;Asmara;Asmara;Asmara;;Asmara;;;;;x;;
+PROV1138;Anseba;Anseba;Anseba;;Anseba;;;;;x;;
+PROV1139;Djibouti;Djibouti;Djibouti;;Djibouti;;;;;x;;
+PROV1140;Tadjoura;Tadjoura;Tadjoura;;Tadjoura;;;;;x;;
+PROV1141;Dahlak;Dahlak;Dahlak;;Dahlak;;;;;x;;
+PROV1142;Dollo;Dollo;Dollo;;Dollo;;;;;x;;
+PROV1143;Jarar;Jarar;Jarar;;Jarar;;;;;x;;
+PROV1144;Fafan;Fafan;Fafan;;Fafan;;;;;x;;
+PROV1145;Sitti;Sitti;Sitti;;Sitti;;;;;x;;
+PROV1146;Korahe;Korahe;Korahe;;Korahe;;;;;x;;
+PROV1147;Liben;Liben;Liben;;Liben;;;;;x;;
+PROV1148;Borena;Borena;Borena;;Borena;;;;;x;;
+PROV1149;Afder;Afder;Afder;;Afder;;;;;x;;
+PROV1150;Shabelle;Shabelle;Shabelle;;Shabelle;;;;;x;;
+PROV1151;Guji;Guji;Guji;;Guji;;;;;x;;
+PROV1152;Bale;Bale;Bale;;Bale;;;;;x;;
+PROV1153;Nogob;Nogob;Nogob;;Nogob;;;;;x;;
+PROV1154;Arsi;Arsi;Arsi;;Arsi;;;;;x;;
+PROV1155;East Shewa;East Shewa;East Shewa;;East Shewa;;;;;x;;
+PROV1156;Addis Ababa;Addis Ababa;Addis Ababa;;Addis Ababa;;;;;x;;
+PROV1157;West Shewa;West Shewa;West Shewa;;West Shewa;;;;;x;;
+PROV1158;Shewa Oromia;Shewa Oromia;Shewa Oromia;;Shewa Oromia;;;;;x;;
+PROV1159;Shewa Amhara;Shewa Amhara;Shewa Amhara;;Shewa Amhara;;;;;x;;
+PROV1160;East Gojjam;East Gojjam;East Gojjam;;East Gojjam;;;;;x;;
+PROV1161;West Gojjam;West Gojjam;West Gojjam;;West Gojjam;;;;;x;;
+PROV1162;West Hararghe;West Hararghe;West Hararghe;;West Hararghe;;;;;x;;
+PROV1163;West Arsi;West Arsi;West Arsi;;West Arsi;;;;;x;;
+PROV1164;South Oms;South Oms;South Oms;;South Oms;;;;;x;;
+PROV1165;Bench Maji;Bench Maji;Bench Maji;;Bench Maji;;;;;x;;
+PROV1166;Anuak;Anuak;Anuak;;Anuak;;;;;x;;
+PROV1167;Metekel;Metekel;Metekel;;Metekel;;;;;x;;
+PROV1168;Agew Awi;Agew Awi;Agew Awi;;Agew Awi;;;;;x;;
+PROV1169;Horo Guduru Welega;Horo Guduru Welega;Horo Guduru Welega;;Horo Guduru Welega;;;;;x;;
+PROV1170;Segen;Segen;Segen;;Segen;;;;;x;;
+PROV1171;Gedao;Gedao;Gedao;;Gedao;;;;;x;;
+PROV1172;Sidama;Sidama;Sidama;;Sidama;;;;;x;;
+PROV1173;Kelem Walega;Kelem Walega;Kelem Walega;;Kelem Walega;;;;;x;;
+PROV1174;Illubabor;Illubabor;Illubabor;;Illubabor;;;;;x;;
+PROV1175;Asosa;Asosa;Asosa;;Asosa;;;;;x;;
+PROV1176;West Welega;West Welega;West Welega;;West Welega;;;;;x;;
+PROV1177;East Welega;East Welega;East Welega;;East Welega;;;;;x;;
+PROV1178;Kamashi;Kamashi;Kamashi;;Kamashi;;;;;x;;
+PROV1179;Keffa;Keffa;Keffa;;Keffa;;;;;x;;
+PROV1180;Sheka;Sheka;Sheka;;Sheka;;;;;x;;
+PROV1181;North Gondar;North Gondar;North Gondar;;North Gondar;;;;;x;;
+PROV1182;South Gondar;South Gondar;South Gondar;;South Gondar;;;;;x;;
+PROV1183;Wag Hemra;Wag Hemra;Wag Hemra;;Wag Hemra;;;;;x;;
+PROV1184;West Tigray;West Tigray;West Tigray;;West Tigray;;;;;x;;
+PROV1185;East Tigray;East Tigray;East Tigray;;East Tigray;;;;;x;;
+PROV1186;North Wollo;North Wollo;North Wollo;;North Wollo;;;;;x;;
+PROV1187;South Wollo;South Wollo;South Wollo;;South Wollo;;;;;x;;
+PROV1188;Argobba;Argobba;Argobba;;Argobba;;;;;x;;
+PROV1189;South Afar;South Afar;South Afar;;South Afar;;;;;x;;
+PROV1190;North Afar;North Afar;North Afar;;North Afar;;;;;x;;
+PROV1191;Afar;Afar;Afar;;Afar;;;;;x;;
+PROV1192;West Afar;West Afar;West Afar;;West Afar;;;;;x;;
+PROV1193;East Hararghe;East Hararghe;East Hararghe;;East Hararghe;;;;;x;;
+PROV1194;Jimma;Jimma;Jimma;;Jimma;;;;;x;;
+PROV1195;Gamo Gofa;Gamo Gofa;Gamo Gofa;;Gamo Gofa;;;;;x;;
+PROV1196;Dawro;Dawro;Dawro;;Dawro;;;;;x;;
+PROV1197;Gurage;Gurage;Gurage;;Gurage;;;;;x;;
+PROV1198;Hadiya;Hadiya;Hadiya;;Hadiya;;;;;x;;
+PROV1199;Zallingi;Zallingi;Zallingi;;Zallingi;;;;;x;;
+PROV1200;Omdurman;Omdurman;Omdurman;;Omdurman;;;;;x;;
+PROV1201;Abu Hamed;Abu Hamed;Abu Hamed;;Abu Hamed;;;;;x;;
+PROV1202;Ad Douiem;Ad Douiem;Ad Douiem;;Ad Douiem;;;;;x;;
+PROV1203;Sinkat;Sinkat;Sinkat;;Sinkat;;;;;x;;
+PROV1204;Port Sudan;Port Sudan;Port Sudan;;Port Sudan;;;;;x;;
+PROV1205;Nasser;Nasser;Nasser;;Nasser;;;;;x;;
+PROV1206;Al Goled;Al Goled;Al Goled;;Al Goled;;;;;x;;
+PROV1207;Dongola;Dongola;Dongola;;Dongola;;;;;x;;
+PROV1208;En Nahud;En Nahud;En Nahud;;En Nahud;;;;;x;;
+PROV1209;El Daein;El Daein;El Daein;;El Daein;;;;;x;;
+PROV1210;Shendi;Shendi;Shendi;;Shendi;;;;;x;;
+PROV1211;Tambura;Tambura;Tambura;;Tambura;;;;;x;;
+PROV1212;Gereida;Gereida;Gereida;;Gereida;;;;;x;;
+PROV1213;Al Manaqil;Al Manaqil;Al Manaqil;;Al Manaqil;;;;;x;;
+PROV1214;Kurnuk;Kurnuk;Kurnuk;;Kurnuk;;;;;x;;
+PROV1215;Magwi;Magwi;Magwi;;Magwi;;;;;x;;
+PROV1216;Kapoeta;Kapoeta;Kapoeta;;Kapoeta;;;;;x;;
+PROV1217;Yei;Yei;Yei;;Yei;;;;;x;;
+PROV1218;Yirol;Yirol;Yirol;;Yirol;;;;;x;;
+PROV1219;Kabkabiya;Kabkabiya;Kabkabiya;;Kabkabiya;;;;;x;;
+PROV1220;;;;;;;;;;x;;
+PROV1221;Melut;Melut;Melut;;Melut;;;;;x;;
+PROV1222;Nakfa;Nakfa;Nakfa;;Nakfa;;;;;x;;
+PROV1223;Abacheri;Abacheri;Abacheri;;Abacheri;;;;;x;;
+PROV1224;Cape Town;Cape Town;Cape Town;;Cape Town;;;;;x;;
+PROV1225;Port Elizabeth;Port Elizabeth;Port Elizabeth;;Port Elizabeth;;;;;x;;
+PROV1226;East London;East London;East London;;East London;;;;;x;;
+PROV1227;Durban;Durban;Durban;;Durban;;;;;x;;
+PROV1228;KwaDukuza;KwaDukuza;KwaDukuza;;KwaDukuza;;;;;x;;
+PROV1229;Hibberdene;Hibberdene;Hibberdene;;Hibberdene;;;;;x;;
+PROV1230;Port Shepstone;Port Shepstone;Port Shepstone;;Port Shepstone;;;;;x;;
+PROV1231;Stellenbosch;Stellenbosch;Stellenbosch;;Stellenbosch;;;;;x;;
+PROV1232;Vredenburg;Vredenburg;Vredenburg;;Vredenburg;;;;;x;;
+PROV1233;Piketberg;Piketberg;Piketberg;;Piketberg;;;;;x;;
+PROV1234;Winterhoek;Winterhoek;Winterhoek;;Winterhoek;;;;;x;;
+PROV1235;Vredendal;Vredendal;Vredendal;;Vredendal;;;;;x;;
+PROV1236;Kamiesburg;Kamiesburg;Kamiesburg;;Kamiesburg;;;;;x;;
+PROV1237;Nama Khoi;Nama Khoi;Nama Khoi;;Nama Khoi;;;;;x;;
+PROV1238;Khara Hais;Khara Hais;Khara Hais;;Khara Hais;;;;;x;;
+PROV1239;Richtersveld;Richtersveld;Richtersveld;;Richtersveld;;;;;x;;
+PROV1240;Karoo Hoogland;Karoo Hoogland;Karoo Hoogland;;Karoo Hoogland;;;;;x;;
+PROV1241;Khai-Ma;Khai-Ma;Khai-Ma;;Khai-Ma;;;;;x;;
+PROV1242;Hantam;Hantam;Hantam;;Hantam;;;;;x;;
+PROV1243;Mier;Mier;Mier;;Mier;;;;;x;;
+PROV1244;Kai Garib;Kai Garib;Kai Garib;;Kai Garib;;;;;x;;
+PROV1245;Kheis;Kheis;Kheis;;Kheis;;;;;x;;
+PROV1246;Tsantsabane;Tsantsabane;Tsantsabane;;Tsantsabane;;;;;x;;
+PROV1247;Kgatelopele;Kgatelopele;Kgatelopele;;Kgatelopele;;;;;x;;
+PROV1248;Moshaweng;Moshaweng;Moshaweng;;Moshaweng;;;;;x;;
+PROV1249;Ga-Segonyana;Ga-Segonyana;Ga-Segonyana;;Ga-Segonyana;;;;;x;;
+PROV1250;Dikgatlong;Dikgatlong;Dikgatlong;;Dikgatlong;;;;;x;;
+PROV1251;Sol Plaatje;Sol Plaatje;Sol Plaatje;;Sol Plaatje;;;;;x;;
+PROV1252;Emthanjeni;Emthanjeni;Emthanjeni;;Emthanjeni;;;;;x;;
+PROV1253;Kareeberg;Kareeberg;Kareeberg;;Kareeberg;;;;;x;;
+PROV1254;Renosterberg;Renosterberg;Renosterberg;;Renosterberg;;;;;x;;
+PROV1255;Thembelihle;Thembelihle;Thembelihle;;Thembelihle;;;;;x;;
+PROV1256;Umsobomvu;Umsobomvu;Umsobomvu;;Umsobomvu;;;;;x;;
+PROV1257;Ubuntu;Ubuntu;Ubuntu;;Ubuntu;;;;;x;;
+PROV1258;Siyathemba;Siyathemba;Siyathemba;;Siyathemba;;;;;x;;
+PROV1259;Siyancuma;Siyancuma;Siyancuma;;Siyancuma;;;;;x;;
+PROV1260;Kagisano-Molopo;Kagisano-Molopo;Kagisano-Molopo;;Kagisano-Molopo;;;;;x;;
+PROV1261;Polokwane;Polokwane;Polokwane;;Polokwane;;;;;x;;
+PROV1262;Fotadrevo;Fotadrevo;Fotadrevo;;Fotadrevo;;;;;x;;
+PROV1263;Blouberg;Blouberg;Blouberg;;Blouberg;;;;;x;;
+PROV1264;Molemole;Molemole;Molemole;;Molemole;;;;;x;;
+PROV1265;Makhado;Makhado;Makhado;;Makhado;;;;;x;;
+PROV1266;Musina;Musina;Musina;;Musina;;;;;x;;
+PROV1267;Thulamela;Thulamela;Thulamela;;Thulamela;;;;;x;;
+PROV1268;Ba-Phalaborwa;Ba-Phalaborwa;Ba-Phalaborwa;;Ba-Phalaborwa;;;;;x;;
+PROV1269;Greater Giyani;Greater Giyani;Greater Giyani;;Greater Giyani;;;;;x;;
+PROV1270;Greater Tzaneen;Greater Tzaneen;Greater Tzaneen;;Greater Tzaneen;;;;;x;;
+PROV1271;Fetakgomo-Tubatse;Fetakgomo-Tubatse;Fetakgomo-Tubatse;;Fetakgomo-Tubatse;;;;;x;;
+PROV1272;Makhuduthamaga;Makhuduthamaga;Makhuduthamaga;;Makhuduthamaga;;;;;x;;
+PROV1273;Elias Motsoaledi;Elias Motsoaledi;Elias Motsoaledi;;Elias Motsoaledi;;;;;x;;
+PROV1274;Thabazimbi;Thabazimbi;Thabazimbi;;Thabazimbi;;;;;x;;
+PROV1275;Lephalale;Lephalale;Lephalale;;Lephalale;;;;;x;;
+PROV1276;Bela-Bela;Bela-Bela;Bela-Bela;;Bela-Bela;;;;;x;;
+PROV1277;Mogalakwena;Mogalakwena;Mogalakwena;;Mogalakwena;;;;;x;;
+PROV1278;Modimolle;Modimolle;Modimolle;;Modimolle;;;;;x;;
+PROV1279;Richards Bay;Richards Bay;Richards Bay;;Richards Bay;;;;;x;;
+PROV1280;Pietermaritzburg;Pietermaritzburg;Pietermaritzburg;;Pietermaritzburg;;;;;x;;
+PROV1281;Pretoria;Pretoria;Pretoria;;Pretoria;;;;;x;;
+PROV1282;Bronkhorstspruit;Bronkhorstspruit;Bronkhorstspruit;;Bronkhorstspruit;;;;;x;;
+PROV1283;Vereeniging;Vereeniging;Vereeniging;;Vereeniging;;;;;x;;
+PROV1284;Soweto;Soweto;Soweto;;Soweto;;;;;x;;
+PROV1285;Johannesburg;Johannesburg;Johannesburg;;Johannesburg;;;;;x;;
+PROV1286;Potchefstroom;Potchefstroom;Potchefstroom;;Potchefstroom;;;;;x;;
+PROV1287;Matlosana;Matlosana;Matlosana;;Matlosana;;;;;x;;
+PROV1288;Berea;Berea;Berea;;Berea;;;;;x;;
+PROV1289;Maseru;Maseru;Maseru;;Maseru;;;;;x;;
+PROV1290;Leribe;Leribe;Leribe;;Leribe;;;;;x;;
+PROV1291;Mohale's Hoek;Mohale's Hoek;Mohale's Hoek;;Mohale's Hoek;;;;;x;;
+PROV1292;Mafeteng;Mafeteng;Mafeteng;;Mafeteng;;;;;x;;
+PROV1293;Thaba-Tseka;Thaba-Tseka;Thaba-Tseka;;Thaba-Tseka;;;;;x;;
+PROV1294;Mokhotlong;Mokhotlong;Mokhotlong;;Mokhotlong;;;;;x;;
+PROV1295;Hermanus;Hermanus;Hermanus;;Hermanus;;;;;x;;
+PROV1296;Cape Agulhas;Cape Agulhas;Cape Agulhas;;Cape Agulhas;;;;;x;;
+PROV1297;Hessequa;Hessequa;Hessequa;;Hessequa;;;;;x;;
+PROV1298;Langeberg;Langeberg;Langeberg;;Langeberg;;;;;x;;
+PROV1299;Breede;Breede;Breede;;Breede;;;;;x;;
+PROV1300;Oudtshoorn;Oudtshoorn;Oudtshoorn;;Oudtshoorn;;;;;x;;
+PROV1301;George;George;George;;George;;;;;x;;
+PROV1302;South Cape;South Cape;South Cape;;South Cape;;;;;x;;
+PROV1303;Laingsburg;Laingsburg;Laingsburg;;Laingsburg;;;;;x;;
+PROV1304;Prince Albert;Prince Albert;Prince Albert;;Prince Albert;;;;;x;;
+PROV1305;Beaufort West;Beaufort West;Beaufort West;;Beaufort West;;;;;x;;
+PROV1306;Kou-Kamma;Kou-Kamma;Kou-Kamma;;Kou-Kamma;;;;;x;;
+PROV1307;Blue Crane;Blue Crane;Blue Crane;;Blue Crane;;;;;x;;
+PROV1308;Makana;Makana;Makana;;Makana;;;;;x;;
+PROV1309;Uitenhage;Uitenhage;Uitenhage;;Uitenhage;;;;;x;;
+PROV1310;Camdeboo;Camdeboo;Camdeboo;;Camdeboo;;;;;x;;
+PROV1311;Baviaans;Baviaans;Baviaans;;Baviaans;;;;;x;;
+PROV1312;Nkonkobe;Nkonkobe;Nkonkobe;;Nkonkobe;;;;;x;;
+PROV1313;Morgans Bay;Morgans Bay;Morgans Bay;;Morgans Bay;;;;;x;;
+PROV1314;Mbhashe;Mbhashe;Mbhashe;;Mbhashe;;;;;x;;
+PROV1315;Mthatha;Mthatha;Mthatha;;Mthatha;;;;;x;;
+PROV1316;Port St. Johns;Port St. Johns;Port St. Johns;;Port St. Johns;;;;;x;;
+PROV1317;Umzimvubu;Umzimvubu;Umzimvubu;;Umzimvubu;;;;;x;;
+PROV1318;Matatiele;Matatiele;Matatiele;;Matatiele;;;;;x;;
+PROV1319;Kokstad;Kokstad;Kokstad;;Kokstad;;;;;x;;
+PROV1320;Ingwe;Ingwe;Ingwe;;Ingwe;;;;;x;;
+PROV1321;uMngeni;uMngeni;uMngeni;;uMngeni;;;;;x;;
+PROV1322;Ladysmith;Ladysmith;Ladysmith;;Ladysmith;;;;;x;;
+PROV1323;Maluti-a-Phofung;Maluti-a-Phofung;Maluti-a-Phofung;;Maluti-a-Phofung;;;;;x;;
+PROV1324;Bethlehem;Bethlehem;Bethlehem;;Bethlehem;;;;;x;;
+PROV1325;Setsoto;Setsoto;Setsoto;;Setsoto;;;;;x;;
+PROV1326;Bloemfontein;Bloemfontein;Bloemfontein;;Bloemfontein;;;;;x;;
+PROV1327;Mohokare;Mohokare;Mohokare;;Mohokare;;;;;x;;
+PROV1328;Ulundi;Ulundi;Ulundi;;Ulundi;;;;;x;;
+PROV1329;Letsemeng;Letsemeng;Letsemeng;;Letsemeng;;;;;x;;
+PROV1330;Mtubatuba;Mtubatuba;Mtubatuba;;Mtubatuba;;;;;x;;
+PROV1331;Sibayi;Sibayi;Sibayi;;Sibayi;;;;;x;;
+PROV1332;KwaDukuza;KwaDukuza;KwaDukuza;;KwaDukuza;;;;;x;;
+PROV1333;Newcastle;Newcastle;Newcastle;;Newcastle;;;;;x;;
+PROV1334;Dundee;Dundee;Dundee;;Dundee;;;;;x;;
+PROV1335;Vryheid;Vryheid;Vryheid;;Vryheid;;;;;x;;
+PROV1336;Paulpietersburg;Paulpietersburg;Paulpietersburg;;Paulpietersburg;;;;;x;;
+PROV1337;Umvoti;Umvoti;Umvoti;;Umvoti;;;;;x;;
+PROV1338;Lubombo;Lubombo;Lubombo;;Lubombo;;;;;x;;
+PROV1339;Hhohho;Hhohho;Hhohho;;Hhohho;;;;;x;;
+PROV1340;Manzini;Manzini;Manzini;;Manzini;;;;;x;;
+PROV1341;Shiselweni;Shiselweni;Shiselweni;;Shiselweni;;;;;x;;
+PROV1342;Albert Luthuli;Albert Luthuli;Albert Luthuli;;Albert Luthuli;;;;;x;;
+PROV1343;Thembisile Hani;Thembisile Hani;Thembisile Hani;;Thembisile Hani;;;;;x;;
+PROV1344;Emalahleni;Emalahleni;Emalahleni;;Emalahleni;;;;;x;;
+PROV1345;Emakhazeni;Emakhazeni;Emakhazeni;;Emakhazeni;;;;;x;;
+PROV1346;Standerton;Standerton;Standerton;;Standerton;;;;;x;;
+PROV1347;Ermelo;Ermelo;Ermelo;;Ermelo;;;;;x;;
+PROV1348;Piet Retief;Piet Retief;Piet Retief;;Piet Retief;;;;;x;;
+PROV1349;Inxuba Yethemba;Inxuba Yethemba;Inxuba Yethemba;;Inxuba Yethemba;;;;;x;;
+PROV1350;Enoch Mgijima;Enoch Mgijima;Enoch Mgijima;;Enoch Mgijima;;;;;x;;
+PROV1351;Lady Frere;Lady Frere;Lady Frere;;Lady Frere;;;;;x;;
+PROV1352;Engcobo;Engcobo;Engcobo;;Engcobo;;;;;x;;
+PROV1353;Kopanong;Kopanong;Kopanong;;Kopanong;;;;;x;;
+PROV1354;Walter Sisulu;Walter Sisulu;Walter Sisulu;;Walter Sisulu;;;;;x;;
+PROV1355;Senqu;Senqu;Senqu;;Senqu;;;;;x;;
+PROV1356;Elundini;Elundini;Elundini;;Elundini;;;;;x;;
+PROV1357;Amahlathi;Amahlathi;Amahlathi;;Amahlathi;;;;;x;;
+PROV1358;Mafube;Mafube;Mafube;;Mafube;;;;;x;;
+PROV1359;Ngwathe;Ngwathe;Ngwathe;;Ngwathe;;;;;x;;
+PROV1360;Moqhaka;Moqhaka;Moqhaka;;Moqhaka;;;;;x;;
+PROV1361;Matjhabeng;Matjhabeng;Matjhabeng;;Matjhabeng;;;;;x;;
+PROV1362;Nala;Nala;Nala;;Nala;;;;;x;;
+PROV1363;Masilonyana;Masilonyana;Masilonyana;;Masilonyana;;;;;x;;
+PROV1364;Tswelopele;Tswelopele;Tswelopele;;Tswelopele;;;;;x;;
+PROV1365;Tokologo;Tokologo;Tokologo;;Tokologo;;;;;x;;
+PROV1366;Mamusa;Mamusa;Mamusa;;Mamusa;;;;;x;;
+PROV1367;Greater Taung;Greater Taung;Greater Taung;;Greater Taung;;;;;x;;
+PROV1368;Vryburg;Vryburg;Vryburg;;Vryburg;;;;;x;;
+PROV1369;Ditsobotla;Ditsobotla;Ditsobotla;;Ditsobotla;;;;;x;;
+PROV1370;Mahikeng;Mahikeng;Mahikeng;;Mahikeng;;;;;x;;
+PROV1371;Moses Kotane;Moses Kotane;Moses Kotane;;Moses Kotane;;;;;x;;
+PROV1372;Rustenburg;Rustenburg;Rustenburg;;Rustenburg;;;;;x;;
+PROV1373;Mahalapye;Mahalapye;Mahalapye;;Mahalapye;;;;;x;;
+PROV1374;Bobonong;Bobonong;Bobonong;;Bobonong;;;;;x;;
+PROV1375;Makgadikgadi;Makgadikgadi;Makgadikgadi;;Makgadikgadi;;;;;x;;
+PROV1376;Lodja;Lodja;Lodja;;Lodja;;;;;x;;
+PROV1377;Lomela;Lomela;Lomela;;Lomela;;;;;x;;
+PROV1378;Banalia;Banalia;Banalia;;Banalia;;;;;x;;
+PROV1379;Kole;Kole;Kole;;Kole;;;;;x;;
+PROV1380;Mpole;Mpole;Mpole;;Mpole;;;;;x;;
+PROV1381;Gendo;Gendo;Gendo;;Gendo;;;;;x;;
+PROV1382;Boyeka;Boyeka;Boyeka;;Boyeka;;;;;x;;
+PROV1383;Dongo;Dongo;Dongo;;Dongo;;;;;x;;
+PROV1384;Dongou;Dongou;Dongou;;Dongou;;;;;x;;
+PROV1385;Etoumbi;Etoumbi;Etoumbi;;Etoumbi;;;;;x;;
+PROV1386;Beu;Beu;Beu;;Beu;;;;;x;;
+PROV1387;Madimba;Madimba;Madimba;;Madimba;;;;;x;;
+PROV1388;Shilabo;Shilabo;Shilabo;;Shilabo;;;;;x;;
+PROV1389;Mwenga;Mwenga;Mwenga;;Mwenga;;;;;x;;
+PROV1390;Beni;Beni;Beni;;Beni;;;;;x;;
+PROV1391;Butembo;Butembo;Butembo;;Butembo;;;;;x;;
+PROV1392;Kanya Bayonga;Kanya Bayonga;Kanya Bayonga;;Kanya Bayonga;;;;;x;;
+PROV1393;Kashbere;Kashbere;Kashbere;;Kashbere;;;;;x;;
+PROV1394;Mahagi;Mahagi;Mahagi;;Mahagi;;;;;x;;
+PROV1395;Kakuma;Kakuma;Kakuma;;Kakuma;;;;;x;;
+PROV1396;Sibiloi;Sibiloi;Sibiloi;;Sibiloi;;;;;x;;
+PROV1397;Gao;Gao;Gao;;Gao;;;;;x;;
+PROV1398;Diré;Diré;Diré;;Diré;;;;;x;;
+PROV1399;Kwahu;Kwahu;Kwahu;;Kwahu;;;;;x;;
+PROV1400;Oshwe;Oshwe;Oshwe;;Oshwe;;;;;x;;
+PROV1401;Chigamane;Chigamane;Chigamane;;Chigamane;;;;;x;;
+PROV1402;Mavume;Mavume;Mavume;;Mavume;;;;;x;;
+PROV1403;Catandica;Catandica;Catandica;;Catandica;;;;;x;;
+PROV1404;Regone;Regone;Regone;;Regone;;;;;x;;
+PROV1405;Nametil;Nametil;Nametil;;Nametil;;;;;x;;
+PROV1406;Mueda;Mueda;Mueda;;Mueda;;;;;x;;
+PROV1407;Garsen;Garsen;Garsen;;Garsen;;;;;x;;
+PROV1408;Mombasa;Mombasa;Mombasa;;Mombasa;;;;;x;;
+PROV1409;Sekyere;Sekyere;Sekyere;;Sekyere;;;;;x;;
+PROV1410;Soum;Soum;Soum;;Soum;;;;;x;;
+PROV1411;Passoré;Passoré;Passoré;;Passoré;;;;;x;;
+PROV1412;Zoundwéogo;Zoundwéogo;Zoundwéogo;;Zoundwéogo;;;;;x;;
+PROV1413;Boulgou;Boulgou;Boulgou;;Boulgou;;;;;x;;
+PROV1414;Moramanga;Moramanga;Moramanga;;Moramanga;;;;;x;;
+PROV1415;Mufumbwe;Mufumbwe;Mufumbwe;;Mufumbwe;;;;;x;;
+PROV1416;Mpongwe;Mpongwe;Mpongwe;;Mpongwe;;;;;x;;
+PROV1417;Mazabuka;Mazabuka;Mazabuka;;Mazabuka;;;;;x;;
+PROV1418;Kismayo;Kismayo;Kismayo;;Kismayo;;;;;x;;
+PROV1419;Afmadow;Afmadow;Afmadow;;Afmadow;;;;;x;;
+PROV1420;Middle Juba;Middle Juba;Middle Juba;;Middle Juba;;;;;x;;
+PROV1421;Bardhere;Bardhere;Bardhere;;Bardhere;;;;;x;;
+PROV1422;Garbaharey;Garbaharey;Garbaharey;;Garbaharey;;;;;x;;
+PROV1423;Barawa;Barawa;Barawa;;Barawa;;;;;x;;
+PROV1424;Merca;Merca;Merca;;Merca;;;;;x;;
+PROV1425;Mogadishu;Mogadishu;Mogadishu;;Mogadishu;;;;;x;;
+PROV1426;;;;;;;;;;x;;
+PROV1427;Baay;Baay;Baay;;Baay;;;;;x;;
+PROV1428;Shabeellaha;Shabeellaha;Shabeellaha;;Shabeellaha;;;;;x;;
+PROV1429;Buuloburde;Buuloburde;Buuloburde;;Buuloburde;;;;;x;;
+PROV1430;Dhusamareeb;Dhusamareeb;Dhusamareeb;;Dhusamareeb;;;;;x;;
+PROV1431;El Buur;El Buur;El Buur;;El Buur;;;;;x;;
+PROV1432;Haradhere;Haradhere;Haradhere;;Haradhere;;;;;x;;
+PROV1433;Hobyo;Hobyo;Hobyo;;Hobyo;;;;;x;;
+PROV1434;Galkayo;Galkayo;Galkayo;;Galkayo;;;;;x;;
+PROV1435;Nugaal;Nugaal;Nugaal;;Nugaal;;;;;x;;
+PROV1436;Karkaar;Karkaar;Karkaar;;Karkaar;;;;;x;;
+PROV1437;Guardafui;Guardafui;Guardafui;;Guardafui;;;;;x;;
+PROV1438;Bosaso;Bosaso;Bosaso;;Bosaso;;;;;x;;
+PROV1439;Badhan;Badhan;Badhan;;Badhan;;;;;x;;
+PROV1440;Erigavo;Erigavo;Erigavo;;Erigavo;;;;;x;;
+PROV1441;Khaatumo;Khaatumo;Khaatumo;;Khaatumo;;;;;x;;
+PROV1442;Sool;Sool;Sool;;Sool;;;;;x;;
+PROV1443;Buuhoodle;Buuhoodle;Buuhoodle;;Buuhoodle;;;;;x;;
+PROV1444;Burao;Burao;Burao;;Burao;;;;;x;;
+PROV1445;Sahil;Sahil;Sahil;;Sahil;;;;;x;;
+PROV1446;Hargeysa;Hargeysa;Hargeysa;;Hargeysa;;;;;x;;
+PROV1447;Awdal;Awdal;Awdal;;Awdal;;;;;x;;
+PROV1448;Bakool;Bakool;Bakool;;Bakool;;;;;x;;
+PROV1449;Beledweyne;Beledweyne;Beledweyne;;Beledweyne;;;;;x;;
+PROV1450;Mohéli;Mohéli;Mohéli;;Mohéli;;;;;x;;
+PROV1451;Anjouan;Anjouan;Anjouan;;Anjouan;;;;;x;;
+PROV1452;Grande Terre;Grande Terre;Grande Terre;;Grande Terre;;;;;x;;
+PROV1453;Socotra;Socotra;Socotra;;Socotra;;;;;x;;
+PROV1454;Farasan;Farasan;Farasan;;Farasan;;;;;x;;
 PROV1455;;;;;;;;;;x
-PROV1456;;;;;;;;;;x
-PROV1457;;;;;;;;;;x
-PROV1458;;;;;;;;;;x
-PROV1459;;;;;;;;;;x
-PROV1460;;;;;;;;;;x
-PROV1461;;;;;;;;;;x
-PROV1462;;;;;;;;;;x
-PROV1463;;;;;;;;;;x
-PROV1464;;;;;;;;;;x
-PROV1465;;;;;;;;;;x
-PROV1466;;;;;;;;;;x
-PROV1467;;;;;;;;;;x
-PROV1468;;;;;;;;;;x
-PROV1469;;;;;;;;;;x
-PROV1470;;;;;;;;;;x
-PROV1471;;;;;;;;;;x
-PROV1472;;;;;;;;;;x
-PROV1473;;;;;;;;;;x
-PROV1474;;;;;;;;;;x
-PROV1475;;;;;;;;;;x
-PROV1476;;;;;;;;;;x
-PROV1477;;;;;;;;;;x
-PROV1478;;;;;;;;;;x
-PROV1479;;;;;;;;;;x
-PROV1480;;;;;;;;;;x
-PROV1481;;;;;;;;;;x
-PROV1482;;;;;;;;;;x
-PROV1483;;;;;;;;;;x
-PROV1484;;;;;;;;;;x
-PROV1485;;;;;;;;;;x
-PROV1486;;;;;;;;;;x
-PROV1487;;;;;;;;;;x
-PROV1488;;;;;;;;;;x
-PROV1489;;;;;;;;;;x
-PROV1490;;;;;;;;;;x
-PROV1491;;;;;;;;;;x
-PROV1492;;;;;;;;;;x
-PROV1493;;;;;;;;;;x
-PROV1494;;;;;;;;;;x
-PROV1495;;;;;;;;;;x
-PROV1496;;;;;;;;;;x
-PROV1497;;;;;;;;;;x
-PROV1498;;;;;;;;;;x
-PROV1499;;;;;;;;;;x
-PROV1500;Cape Verde Waters;;;;;;;;;x
-PROV1501;Mauretanian Coast;;;;;;;;;x
-PROV1502;Senegalese Coast;;;;;;;;;x
-PROV1503;Guinean Coast;;;;;;;;;x
-PROV1504;Freetown Coast;;;;;;;;;x
-PROV1505;Monrovian Coast;;;;;;;;;x
-PROV1506;Cape Palmas;;;;;;;;;x
-PROV1507;Ivory Coast;;;;;;;;;x
-PROV1508;Ghanan Coast;;;;;;;;;x
-PROV1509;Lagos Coast;;;;;;;;;x
-PROV1510;Bight of Bonny;;;;;;;;;x
-PROV1511;Equatorial Coast;;;;;;;;;x
-PROV1512;Outer Bight of Bonny;;;;;;;;;x
-PROV1513;Outer Gulf of Guinea;;;;;;;;;x
-PROV1514;Outer Gulf of Guinea;;;;;;;;;x
-PROV1515;Gabon Coast;;;;;;;;;x
-PROV1516;Congolese Coast;;;;;;;;;x
-PROV1517;Angolan Coast;;;;;;;;;x
-PROV1518;Namibe Coast;;;;;;;;;x
-PROV1519;Skeleton Coast;;;;;;;;;x
-PROV1520;Namibian Coast;;;;;;;;;x
-PROV1521;West Coast;;;;;;;;;x
-PROV1522;Cape of Good Hope;;;;;;;;;x
-PROV1523;South Coast;;;;;;;;;x
-PROV1524;Elizabeth Coast;;;;;;;;;x
-PROV1525;East Coast;;;;;;;;;x
-PROV1526;Durban Coast;;;;;;;;;x
-PROV1527;Maputo Coast;;;;;;;;;x
-PROV1528;Mozambique Channel;;;;;;;;;x
-PROV1529;Mozambique Channel;;;;;;;;;x
-PROV1530;Mozambique Channel;;;;;;;;;x
-PROV1531;Southern Zanzibar;;;;;;;;;x
-PROV1532;Northern Zanzibar;;;;;;;;;x
-PROV1533;Mozambique Channel;;;;;;;;;x
-PROV1534;Mozambique Channel;;;;;;;;;x
-PROV1535;Mozambique Channel;;;;;;;;;x
-PROV1536;Comoro Islands;;;;;;;;;x
-PROV1537;Outer Mauritius;;;;;;;;;x
-PROV1538;Mauritius Waters;;;;;;;;;x
-PROV1539;Northern Madagascar Coast;;;;;;;;;x
-PROV1540;Antalaha Coast;;;;;;;;;x
-PROV1541;Toamasina Coast;;;;;;;;;x
-PROV1542;Manakara Coast;;;;;;;;;x
-PROV1543;Southern Madagascar Coast;;;;;;;;;x
-PROV1544;Southern Indian Ocean;;;;;;;;;x
-PROV1545;Outer Zanzibar;;;;;;;;;x
-PROV1546;Southern Somalian Coast;;;;;;;;;x
-PROV1547;Mogadishu Coast;;;;;;;;;x
-PROV1548;Somalian Coast;;;;;;;;;x
-PROV1549;Northern Somalian Coast;;;;;;;;;x
-PROV1550;Socotra Waters;;;;;;;;;x
-PROV1551;Omani Coast;;;;;;;;;x
-PROV1552;Outer Gulf of Aden;;;;;;;;;x
-PROV1553;Gulf of Aden;;;;;;;;;x
-PROV1554;Red Sea;;;;;;;;;x
-PROV1555;Arabian Coast;;;;;;;;;x
-PROV1556;Sudanese Coast;;;;;;;;;x
-PROV1557;;;;;;;;;;x
-PROV1558;;;;;;;;;;x
-PROV1559;;;;;;;;;;x
-PROV1560;;;;;;;;;;x
-PROV1561;;;;;;;;;;x
-PROV1562;;;;;;;;;;x
-PROV1563;;;;;;;;;;x
-PROV1564;;;;;;;;;;x
-PROV1565;;;;;;;;;;x
-PROV1566;;;;;;;;;;x
-PROV1567;;;;;;;;;;x
-PROV1568;;;;;;;;;;x
-PROV1569;;;;;;;;;;x
-PROV1570;;;;;;;;;;x
-PROV1571;;;;;;;;;;x
-PROV1572;;;;;;;;;;x
-PROV1573;;;;;;;;;;x
-PROV1574;;;;;;;;;;x
-PROV1575;;;;;;;;;;x
-PROV1576;;;;;;;;;;x
-PROV1577;;;;;;;;;;x
-PROV1578;;;;;;;;;;x
-PROV1579;;;;;;;;;;x
-PROV1580;;;;;;;;;;x
-PROV1581;;;;;;;;;;x
-PROV1582;;;;;;;;;;x
-PROV1583;;;;;;;;;;x
-PROV1584;;;;;;;;;;x
-PROV1585;;;;;;;;;;x
-PROV1586;;;;;;;;;;x
-PROV1587;;;;;;;;;;x
-PROV1588;;;;;;;;;;x
-PROV1589;;;;;;;;;;x
-PROV1590;;;;;;;;;;x
-PROV1591;;;;;;;;;;x
-PROV1592;;;;;;;;;;x
-PROV1593;;;;;;;;;;x
-PROV1594;;;;;;;;;;x
-PROV1595;;;;;;;;;;x
-PROV1596;;;;;;;;;;x
-PROV1597;;;;;;;;;;x
-PROV1598;;;;;;;;;;x
-PROV1599;;;;;;;;;;x
-PROV1600;;;;;;;;;;x
-PROV1601;;;;;;;;;;x
-PROV1602;;;;;;;;;;x
-PROV1603;;;;;;;;;;x
-PROV1604;;;;;;;;;;x
-PROV1605;;;;;;;;;;x
-PROV1606;;;;;;;;;;x
-PROV1607;;;;;;;;;;x
-PROV1608;;;;;;;;;;x
-PROV1609;;;;;;;;;;x
-PROV1610;;;;;;;;;;x
-PROV1611;;;;;;;;;;x
-PROV1612;;;;;;;;;;x
-PROV1613;;;;;;;;;;x
-PROV1614;;;;;;;;;;x
-PROV1615;;;;;;;;;;x
-PROV1616;;;;;;;;;;x
-PROV1617;;;;;;;;;;x
-PROV1618;;;;;;;;;;x
-PROV1619;;;;;;;;;;x
-PROV1620;;;;;;;;;;x
+PROV1456;Lake Tchad;Lake Tchad;Lake Tchad;;Lake Tchad;;;;;x
+PROV1457;Congo River;Congo River;Congo River;;Congo River;;;;;x
+PROV1458;Congo River;Congo River;Congo River;;Congo River;;;;;x
+PROV1459;Congo River;Congo River;Congo River;;Congo River;;;;;x
+PROV1460;Congo River;Congo River;Congo River;;Congo River;;;;;x
+PROV1461;Congo River;Congo River;Congo River;;Congo River;;;;;x
+PROV1462;Ubangi River;Ubangi River;Ubangi River;;Ubangi River;;;;;x
+PROV1463;Ubangi River;Ubangi River;Ubangi River;;Ubangi River;;;;;x
+PROV1464;Ubangi River;Ubangi River;Ubangi River;;Ubangi River;;;;;x
+PROV1465;Congo River;Congo River;Congo River;;Congo River;;;;;x
+PROV1466;Congo River;Congo River;Congo River;;Congo River;;;;;x
+PROV1467;Congo River;Congo River;Congo River;;Congo River;;;;;x
+PROV1468;Congo River;Congo River;Congo River;;Congo River;;;;;x
+PROV1469;Chari River;Chari River;Chari River;;Chari River;;;;;x
+PROV1470;Chari River;Chari River;Chari River;;Chari River;;;;;x
+PROV1471;Logone River;Logone River;Logone River;;Logone River;;;;;x
+PROV1472;Logone River;Logone River;Logone River;;Logone River;;;;;x
+PROV1473;Mayo Kebbi River;Mayo Kebbi River;Mayo Kebbi River;;Mayo Kebbi River;;;;;x
+PROV1474;Senegal River;Senegal River;Senegal River;;Senegal River;;;;;x
+PROV1475;Senegal River;Senegal River;Senegal River;;Senegal River;;;;;x
+PROV1476;Niger River;Niger River;Niger River;;Niger River;;;;;x
+PROV1477;Niger River;Niger River;Niger River;;Niger River;;;;;x
+PROV1478;Niger River;Niger River;Niger River;;Niger River;;;;;x
+PROV1479;Niger River;Niger River;Niger River;;Niger River;;;;;x
+PROV1480;Niger River;Niger River;Niger River;;Niger River;;;;;x
+PROV1481;Niger River;Niger River;Niger River;;Niger River;;;;;x
+PROV1482;Hawal River;Hawal River;Hawal River;;Hawal River;;;;;x
+PROV1483;Benue River;Benue River;Benue River;;Benue River;;;;;x
+PROV1484;Benue River;Benue River;Benue River;;Benue River;;;;;x
+PROV1485;Katsina Ala;Katsina Ala;Katsina Ala;;Katsina Ala;;;;;x
+PROV1486;Benue River;Benue River;Benue River;;Benue River;;;;;x
+PROV1487;Niger River;Niger River;Niger River;;Niger River;;;;;x
+PROV1488;Niger River;Niger River;Niger River;;Niger River;;;;;x
+PROV1489;Niger River;Niger River;Niger River;;Niger River;;;;;x
+PROV1490;Delta;Delta;Delta;;Delta;;;;;x
+PROV1491;Cross River;Cross River;Cross River;;Cross River;;;;;x
+PROV1492;Rovuma River;Rovuma River;Rovuma River;;Rovuma River;;;;;x
+PROV1493;Lurio River;Lurio River;Lurio River;;Lurio River;;;;;x
+PROV1494;Lurio River;Lurio River;Lurio River;;Lurio River;;;;;x
+PROV1495;Orange River;Orange River;Orange River;;Orange River;;;;;x
+PROV1496;Orange River;Orange River;Orange River;;Orange River;;;;;x
+PROV1497;Limpopo River;Limpopo River;Limpopo River;;Limpopo River;;;;;x
+PROV1498;Limpopo River;Limpopo River;Limpopo River;;Limpopo River;;;;;x
+PROV1499;Save River;Save River;Save River;;Save River;;;;;x
+PROV1500;Cape Verde Waters;Cape Verde Waters;Cape Verde Waters;;Cape Verde Waters;;;;;x
+PROV1501;Mauretanian Coast;Mauretanian Coast;Mauretanian Coast;;Mauretanian Coast;;;;;x
+PROV1502;Senegalese Coast;Senegalese Coast;Senegalese Coast;;Senegalese Coast;;;;;x
+PROV1503;Guinean Coast;Guinean Coast;Guinean Coast;;Guinean Coast;;;;;x
+PROV1504;Freetown Coast;Freetown Coast;Freetown Coast;;Freetown Coast;;;;;x
+PROV1505;Monrovian Coast;Monrovian Coast;Monrovian Coast;;Monrovian Coast;;;;;x
+PROV1506;Cape Palmas;Cape Palmas;Cape Palmas;;Cape Palmas;;;;;x
+PROV1507;Ivory Coast;Ivory Coast;Ivory Coast;;Ivory Coast;;;;;x
+PROV1508;Ghanan Coast;Ghanan Coast;Ghanan Coast;;Ghanan Coast;;;;;x
+PROV1509;Lagos Coast;Lagos Coast;Lagos Coast;;Lagos Coast;;;;;x
+PROV1510;Bight of Bonny;Bight of Bonny;Bight of Bonny;;Bight of Bonny;;;;;x
+PROV1511;Equatorial Coast;Equatorial Coast;Equatorial Coast;;Equatorial Coast;;;;;x
+PROV1512;Outer Bight of Bonny;Outer Bight of Bonny;Outer Bight of Bonny;;Outer Bight of Bonny;;;;;x
+PROV1513;Outer Gulf of Guinea;Outer Gulf of Guinea;Outer Gulf of Guinea;;Outer Gulf of Guinea;;;;;x
+PROV1514;Outer Gulf of Guinea;Outer Gulf of Guinea;Outer Gulf of Guinea;;Outer Gulf of Guinea;;;;;x
+PROV1515;Gabon Coast;Gabon Coast;Gabon Coast;;Gabon Coast;;;;;x
+PROV1516;Congolese Coast;Congolese Coast;Congolese Coast;;Congolese Coast;;;;;x
+PROV1517;Angolan Coast;Angolan Coast;Angolan Coast;;Angolan Coast;;;;;x
+PROV1518;Namibe Coast;Namibe Coast;Namibe Coast;;Namibe Coast;;;;;x
+PROV1519;Skeleton Coast;Skeleton Coast;Skeleton Coast;;Skeleton Coast;;;;;x
+PROV1520;Namibian Coast;Namibian Coast;Namibian Coast;;Namibian Coast;;;;;x
+PROV1521;West Coast;West Coast;West Coast;;West Coast;;;;;x
+PROV1522;Cape of Good Hope;Cape of Good Hope;Cape of Good Hope;;Cape of Good Hope;;;;;x
+PROV1523;South Coast;South Coast;South Coast;;South Coast;;;;;x
+PROV1524;Elizabeth Coast;Elizabeth Coast;Elizabeth Coast;;Elizabeth Coast;;;;;x
+PROV1525;East Coast;East Coast;East Coast;;East Coast;;;;;x
+PROV1526;Durban Coast;Durban Coast;Durban Coast;;Durban Coast;;;;;x
+PROV1527;Maputo Coast;Maputo Coast;Maputo Coast;;Maputo Coast;;;;;x
+PROV1528;Mozambique Channel;Mozambique Channel;Mozambique Channel;;Mozambique Channel;;;;;x
+PROV1529;Mozambique Channel;Mozambique Channel;Mozambique Channel;;Mozambique Channel;;;;;x
+PROV1530;Mozambique Channel;Mozambique Channel;Mozambique Channel;;Mozambique Channel;;;;;x
+PROV1531;Southern Zanzibar;Southern Zanzibar;Southern Zanzibar;;Southern Zanzibar;;;;;x
+PROV1532;Northern Zanzibar;Northern Zanzibar;Northern Zanzibar;;Northern Zanzibar;;;;;x
+PROV1533;Mozambique Channel;Mozambique Channel;Mozambique Channel;;Mozambique Channel;;;;;x
+PROV1534;Mozambique Channel;Mozambique Channel;Mozambique Channel;;Mozambique Channel;;;;;x
+PROV1535;Mozambique Channel;Mozambique Channel;Mozambique Channel;;Mozambique Channel;;;;;x
+PROV1536;Comoro Islands;Comoro Islands;Comoro Islands;;Comoro Islands;;;;;x
+PROV1537;Outer Mauritius;Outer Mauritius;Outer Mauritius;;Outer Mauritius;;;;;x
+PROV1538;Mauritius Waters;Mauritius Waters;Mauritius Waters;;Mauritius Waters;;;;;x
+PROV1539;Northern Madagascar Coast;Northern Madagascar Coast;Northern Madagascar Coast;;Northern Madagascar Coast;;;;;x
+PROV1540;Antalaha Coast;Antalaha Coast;Antalaha Coast;;Antalaha Coast;;;;;x
+PROV1541;Toamasina Coast;Toamasina Coast;Toamasina Coast;;Toamasina Coast;;;;;x
+PROV1542;Manakara Coast;Manakara Coast;Manakara Coast;;Manakara Coast;;;;;x
+PROV1543;Southern Madagascar Coast;Southern Madagascar Coast;Southern Madagascar Coast;;Southern Madagascar Coast;;;;;x
+PROV1544;Southern Indian Ocean;Southern Indian Ocean;Southern Indian Ocean;;Southern Indian Ocean;;;;;x
+PROV1545;Outer Zanzibar;Outer Zanzibar;Outer Zanzibar;;Outer Zanzibar;;;;;x
+PROV1546;Southern Somalian Coast;Southern Somalian Coast;Southern Somalian Coast;;Southern Somalian Coast;;;;;x
+PROV1547;Mogadishu Coast;Mogadishu Coast;Mogadishu Coast;;Mogadishu Coast;;;;;x
+PROV1548;Somalian Coast;Somalian Coast;Somalian Coast;;Somalian Coast;;;;;x
+PROV1549;Northern Somalian Coast;Northern Somalian Coast;Northern Somalian Coast;;Northern Somalian Coast;;;;;x
+PROV1550;Socotra Waters;Socotra Waters;Socotra Waters;;Socotra Waters;;;;;x
+PROV1551;Omani Coast;Omani Coast;Omani Coast;;Omani Coast;;;;;x
+PROV1552;Outer Gulf of Aden;Outer Gulf of Aden;Outer Gulf of Aden;;Outer Gulf of Aden;;;;;x
+PROV1553;Gulf of Aden;Gulf of Aden;Gulf of Aden;;Gulf of Aden;;;;;x
+PROV1554;Red Sea;Red Sea;Red Sea;;Red Sea;;;;;x
+PROV1555;Arabian Coast;Arabian Coast;Arabian Coast;;Arabian Coast;;;;;x
+PROV1556;Sudanese Coast;Sudanese Coast;Sudanese Coast;;Sudanese Coast;;;;;x
+PROV1557;Seychelles;Seychelles;Seychelles;;Seychelles;;;;;x
+PROV1558;Seychelles;Seychelles;Seychelles;;Seychelles;;;;;x
+PROV1559;Seychelles;Seychelles;Seychelles;;Seychelles;;;;;x
+PROV1560;Zambezi River;Zambezi River;Zambezi River;;Zambezi River;;;;;x
+PROV1561;Zambezi River;Zambezi River;Zambezi River;;Zambezi River;;;;;x
+PROV1562;Save River;Save River;Save River;;Save River;;;;;x
+PROV1563;Nwetwe Pan;Nwetwe Pan;Nwetwe Pan;;Nwetwe Pan;;;;;x
+PROV1564;Sua Pan;Sua Pan;Sua Pan;;Sua Pan;;;;;x
+PROV1565;Ryasana Pan;Ryasana Pan;Ryasana Pan;;Ryasana Pan;;;;;x
+PROV1566;Lake Ngami;Lake Ngami;Lake Ngami;;Lake Ngami;;;;;x
+PROV1567;Itezhi Tezhi;Itezhi Tezhi;Itezhi Tezhi;;Itezhi Tezhi;;;;;x
+PROV1568;Lake Kariba;Lake Kariba;Lake Kariba;;Lake Kariba;;;;;x
+PROV1569;Cahora Bassa;Cahora Bassa;Cahora Bassa;;Cahora Bassa;;;;;x
+PROV1570;Lake Bangweulu;Lake Bangweulu;Lake Bangweulu;;Lake Bangweulu;;;;;x
+PROV1571;Lake Mweru;Lake Mweru;Lake Mweru;;Lake Mweru;;;;;x
+PROV1572;Lake Mweru Wantipa;Lake Mweru Wantipa;Lake Mweru Wantipa;;Lake Mweru Wantipa;;;;;x
+PROV1573;Lake Rukwa;Lake Rukwa;Lake Rukwa;;Lake Rukwa;;;;;x
+PROV1574;Lake Tanganyika;Lake Tanganyika;Lake Tanganyika;;Lake Tanganyika;;;;;x
+PROV1575;Lake Kivu;Lake Kivu;Lake Kivu;;Lake Kivu;;;;;x
+PROV1576;Lake Sagara;Lake Sagara;Lake Sagara;;Lake Sagara;;;;;x
+PROV1577;Mtera;Mtera;Mtera;;Mtera;;;;;x
+PROV1578;Lake Sulunga;Lake Sulunga;Lake Sulunga;;Lake Sulunga;;;;;x
+PROV1579;Lake Malawi;Lake Malawi;Lake Malawi;;Lake Malawi;;;;;x
+PROV1580;Lake Malombe;Lake Malombe;Lake Malombe;;Lake Malombe;;;;;x
+PROV1581;Lake Chilwa;Lake Chilwa;Lake Chilwa;;Lake Chilwa;;;;;x
+PROV1582;Lake Victoria;Lake Victoria;Lake Victoria;;Lake Victoria;;;;;x
+PROV1583;Lake Eyasi;Lake Eyasi;Lake Eyasi;;Lake Eyasi;;;;;x
+PROV1584;Lake Kitangiri;Lake Kitangiri;Lake Kitangiri;;Lake Kitangiri;;;;;x
+PROV1585;Lake Manyara;Lake Manyara;Lake Manyara;;Lake Manyara;;;;;x
+PROV1586;Lake Burungi;Lake Burungi;Lake Burungi;;Lake Burungi;;;;;x
+PROV1587;Lake Natron;Lake Natron;Lake Natron;;Lake Natron;;;;;x
+PROV1588;Lake Kyoga;Lake Kyoga;Lake Kyoga;;Lake Kyoga;;;;;x
+PROV1589;Lake Albert;Lake Albert;Lake Albert;;Lake Albert;;;;;x
+PROV1590;Lake George;Lake George;Lake George;;Lake George;;;;;x
+PROV1591;Lake Edward;Lake Edward;Lake Edward;;Lake Edward;;;;;x
+PROV1592;Lake Wamala;Lake Wamala;Lake Wamala;;Lake Wamala;;;;;x
+PROV1593;Lake Turkana;Lake Turkana;Lake Turkana;;Lake Turkana;;;;;x
+PROV1594;Lake Tumba;Lake Tumba;Lake Tumba;;Lake Tumba;;;;;x
+PROV1595;Lake Onague;Lake Onague;Lake Onague;;Lake Onague;;;;;x
+PROV1596;Lake Volta;Lake Volta;Lake Volta;;Lake Volta;;;;;x
+PROV1597;Lake Bosomtwe;Lake Bosomtwe;Lake Bosomtwe;;Lake Bosomtwe;;;;;x
+PROV1598;Lake Kossou;Lake Kossou;Lake Kossou;;Lake Kossou;;;;;x
+PROV1599;Lake Buyo;Lake Buyo;Lake Buyo;;Lake Buyo;;;;;x
+PROV1600;Bafoulabe;Bafoulabe;Bafoulabe;;Bafoulabe;;;;;x
+PROV1601;Lake Rkiz;Lake Rkiz;Lake Rkiz;;Lake Rkiz;;;;;x
+PROV1602;Tanda;Tanda;Tanda;;Tanda;;;;;x
+PROV1603;Kamango;Kamango;Kamango;;Kamango;;;;;x
+PROV1604;Niangay;Niangay;Niangay;;Niangay;;;;;x
+PROV1605;Do;Do;Do;;Do;;;;;x
+PROV1606;Chamo Lake;Chamo Lake;Chamo Lake;;Chamo Lake;;;;;x
+PROV1607;Abaya Lake;Abaya Lake;Abaya Lake;;Abaya Lake;;;;;x
+PROV1608;Lake Awasa;Lake Awasa;Lake Awasa;;Lake Awasa;;;;;x
+PROV1609;Koka Lake;Koka Lake;Koka Lake;;Koka Lake;;;;;x
+PROV1610;Ziway Lake;Ziway Lake;Ziway Lake;;Ziway Lake;;;;;x
+PROV1611;Langano Lake;Langano Lake;Langano Lake;;Langano Lake;;;;;x
+PROV1612;Shala Lake;Shala Lake;Shala Lake;;Shala Lake;;;;;x
+PROV1613;Abijata Lake;Abijata Lake;Abijata Lake;;Abijata Lake;;;;;x
+PROV1614;Lake Caddabassa;Lake Caddabassa;Lake Caddabassa;;Lake Caddabassa;;;;;x
+PROV1615;Lake Abhe;Lake Abhe;Lake Abhe;;Lake Abhe;;;;;x
+PROV1616;Lake 'Assal;Lake 'Assal;Lake 'Assal;;Lake 'Assal;;;;;x
+PROV1617;Lake Tana;Lake Tana;Lake Tana;;Lake Tana;;;;;x
+PROV1618;Lake Baringo;Lake Baringo;Lake Baringo;;Lake Baringo;;;;;x
+PROV1619;Lake Naivasha;Lake Naivasha;Lake Naivasha;;Lake Naivasha;;;;;x
+PROV1620;Masinga;Masinga;Masinga;;Masinga;;;;;x
 PROV1621;;;;;;;;;;x
 PROV1622;;;;;;;;;;x
 PROV1623;;;;;;;;;;x

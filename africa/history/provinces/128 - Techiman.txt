@@ -1,0 +1,15 @@
+# County Title
+title = c_techiman
+
+# Settlements
+max_settlements = 4
+
+b_techiman = castle
+b_kintampo = city
+b_jema = temple
+
+# Misc
+culture = asante
+religion = anglican
+
+#History

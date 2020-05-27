@@ -2,10 +2,11 @@
 title = c_tchaoudjo
 
 # Settlements
-max_settlements = 3
+max_settlements = 5
 
 b_sokode = castle
-b_babde = temple
+b_babde = city
+b_koloware = temple
 
 # Misc
 culture = gurunsi

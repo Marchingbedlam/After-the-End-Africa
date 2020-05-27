@@ -155,6 +155,8 @@ e_azania = {
 				b_asab_NA = {}
 				b_gochas_NA = {}
 				b_hanaus_NA = {}
+				b_twee_river = {}
+				b_hanaus_NA = {}
 			}
 		}
 		d_karas = {
@@ -263,6 +265,8 @@ e_azania = {
 				b_okakarara_NA = {}
 				b_okaputo_NA = {}
 				b_wabi_NA = {}
+				b_waterberg = {}
+				b_okonjima = {}
 			}
 			c_otavi = {
 				color={ 158 90 44 }
@@ -270,9 +274,11 @@ e_azania = {
 				
 				b_otavi_NA = {}
 				b_kombat_NA = {}
-				b_cobenzl_NA = {}
+				b_cobelnz = {}
+				b_mundulea = {}
 				b_okamatapati_NA = {}
 				b_guchab_NA = {}
+				b_khorab = {}
 			}
 			c_grootfontein = {
 				color={ 247 140 102 }
