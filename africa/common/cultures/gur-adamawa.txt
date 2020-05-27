@@ -82,5 +82,26 @@ gur = {
 
 		dukes_called_kings = yes
 	}
+	kirdi = {
+		color = { 0.8 0.75 0.4 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+			
+		male_names = {
+			Dakolé Dangmoworé
+			Faare
+			Horlina
+			Mando Menwa
+			Nenbara
+			Roumgaï
+			Taiwe
+		}
+		
+		female_names = {
+			Maï-Djare
+			Sarah
+		}
 
+		dukes_called_kings = yes
+	}
 }

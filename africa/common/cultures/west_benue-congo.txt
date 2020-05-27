@@ -110,89 +110,40 @@ gbe = {
 		graphical_cultures = { westafricangfx africangfx }
 			
 		male_names = {
-			
-			Adandozan Adjakpa Adoma Agaja Agassou Agbami Agbangba Agbo Agoli-Agbo Agonglo Aidododo Akaba Ayohwan Aysan Azoton
-			Badohou Béhanzin
-			Dakodonou Dèkpon Djihento Do-Aklin Dogan Dogbari Dosu
-			Gakpe Gangnihessou Ganhwa Gbénon Ghezo Glélé
+			Adandozan Adjakpa Adoma Agagnon Agaja Agassou Agbami Agbangba Agbo Agoli-Agbo Agonglo Aidododo Akaba Akonde Amamou Ayohwan Aysan Azoton
+			Bachalou Badohou Béhanzin Bossa-Ahadee
+			Dakodonou Dèkpon Djihento Djimon Do-Aklin Dogan Dogbari Dosu
+			Gabin Gakpe Gangnihessou Ganhwa Gbagwe Gbénon Ghezo Glélé
 			Houebadja Houédogni Hufon Huéze Hunungungu
-			Kanfon Kokpon Kpengla Kpodégbé
+			Kanfon Kin-Ha Kokpon Konabe Kpengla Kpodégbé
 			Mitodaho
-			Sagbadjou Sassa Sindje
+			Sagbadjou Sassa Séïdath Sélognon Sindje Souayibou Sourou-Migan
 			Te-Agdanlin Tegbessou Tezifon Togni-Ahoussou Tomo Toyon
+			Yessou
 			Zinga
-			 
-			
-			Adrah Adranyi Afefa Afelete Afetsi Agbe Agbeko Agbemabiase Agbemafle Agbenyo Agbesi Aghbenyefia Akorfala Akpe Akpenamawu Akpene Amedoamegboe Amenyo Ametame Ametefe Amevinya Amewu Aseye Awoe
-			Banini Bedzo Blewu Bubune Butsorme Butsormekpor
-			Dela Deladem Delali Delanya Delanyo Delasi Desiadenyo Dodzi Dogbeda Domenyo Dorbu Dugah Dunya Dzidudu Dzidula Dzidzeme Dzidzor Dzidzorm Dziedzorm Dzigbordi Dzordzoe Dzorgbenyui
-			Edem Edemi Edemi Edinam Edinami Edotom Edotomi Edrorlali Edudzi Edzordzi Edzordzinam Edzordzinawo Efakor Efakornam Ehenyuive Ekplorm Ekudeamenu Eleagbe Elegbadzadzi Elemawusi Eli Elike Elikem Elikemi Elikplim Elikplimi Elinam Elinami Elivava Elolo Elorm Elormi Emefa Ena Enam Enami Enya Enyam Enyami Enyo Enyonam Ese Eselali Eselase Eselasi Esenam Esene Esinu Etor Etorna Etorname Etornami Etriakor Ewoe Ewoenam Ewoenami Exornam Eyra Eyrae Eyram Eyrami
-			Fafa Fafali Feke Fiadzo Fiagbor Fiamavle Fianu Fiavi Fiawoyi
-			Gadogle Galevo Gameli Ganyebusu Ganyo Ganyo Gashika Gayome Gayra Gayram Gayrami Gbekor Golomeke
-			Hoenyame Hunexoe
-			Kafui Kekeli Kekle Kle Klenam Klenami Kplom Kplorla Kulewosi Kuzagbe
-			Lebenam Lebene Lolor Lolornyo Lorm Lorne
-			Makafui Manewuga Mawuena Mawuenyega Mawuenyega Mawueyram Mawufemor Mawuko Mawuli Mawuli Mawuli Mawulikplim Mawulikplimi Mawulinam Mawulolo Mawulorm Mawunya Mawunyo Mawunyo Mawuse Mawusi Mawutor Mawuwoe Mawuworge Mazinkpi Morkporkpor
-			Namilkem Nkunu Nukunu Nunyani Nyamadi Nyonator Nyuitor
-			Sakumadranyi Se Seboe Sedem Sedemi Sedinam Sedoame Sedotom Sedotom Sedudzi Sedufia Sefadzi Sefakor Sefoga Selase Selasie Seli Selinam Selorm Sena Senam Senya Senyega Senyo Sese Seshi Seshie Sesi Setor Seyram Seyrami Sitso Sitsofe
-			Tamakloe Tsodzine Tsoeke Tsoekewo Tsoenamawu
-			Vadem Valikem Vayram Vivormadzigbe Vormawu
-			Woedem Woelorm Worlasi Worlawoe
-			Xebidzie Xedzro Xoese Xoglimakadu Xornam Xorse
-			Yao Yayra Yingor Yra Yram Yrami
-			
-			Abagba Adeladza Agodo Agorkoli Ahrlonko Amedor Anselmus_Anselm Anthony Anumah Atsa Augustin_Augustine Avorga Azamu
-			Bajavi Bernardo_Bernard Blihla
-			Charles
-			Denning Domingo_Dominic Dorglo Dzoboku
-			Enyonam Ewenya
-			Ferdinand Francis Fui
-			George
-			Hanto
-			Jacques
-			Katraya Kofi Komla Kpeglo Kpengla Kponton Kwasi
-			Lanyo Livingstone Lucien_Lucius
-			Ngunia Nyavor
-			Padmore
-			Raphael Richard Robert
-			Semenu Senyo Sri Stephano_Stephen
-			Timothy Titriwe Todjo Tsali Tsatsu
+
+			Aimé Alain
+			Benoît_Benedict
+			Cyprien
+			Dieudonné
+			Enguérand
+			Franck_Francis
+			Jacques Jérôme_Jerome Jocelyn
+			Louis
+			Mathieu_Matthew
+			Nestor Nicéphore
+			Olympe
+			Paul
+			Romuald
+			Urbain
+			Yves
 		}
 		
 		female_names = {
-			
-			Hangbe Sehdong Hongbe Nawi Afyavi Ahwlikponuwa Asiba Ayàbà Abagbe Abegi Abeje Oluremi Winona Isi Abeni 
-			Abimbola Abiodun Ade Adebola Adebowale Adedayo Adetokunbo 
-			Alaba Ayo Ayodele Ayomide Ayotunde Bolanle Bosede Dada Dayo Ekundayo Eniola Enitan Folami Gbemisola Idowu 
-			Ife Ige Kayin Mojisola Monifa Olamide Olayinka Olubunmi Olufunke Olufunmilayo Olufunmilola Oluwafunmilayo 
-			Oluwakanyinsola Oluwasegun Oluwaseun Oluwaseyi Oluwatoyin Oluwayemisi Omobolanle Omolara Oni Opeyemi 
-			Simisola Temitope Titilayo Yejide Yewande
-			
-			Adrah Adranyi Afefa Afelete Afetsi Agbe Agbeko Agbemafle Agbenyo Agbesi Aghbenyefia Akorfa Akorfala Akpe Akpenamawu Akpene Amedoamegboe Amenyo Ametame Amevinya Amewu Aseye Asiwome Awoe
-			Bedzo Blewu Bubune Butsorme Butsormekpor
-			Dela Deladem Delali Delanya Delanyo Delasi Desiadenyo Dogbeda Domenyo Dorbu Dugah Dunya Dzidedi Dzidzeme Dzidzor Dzidzorm Dziedzorm Dzifa Dzigbordi Dzordzoe Dzorgbenyui
-			Edem Edemi Edemi Edinam Edinami Edotom Edotomi Edrorlali Edudzi Edzordzi Edzordzinam Edzordzinawo Efakor Efakornam Ehenyuive Ekplorm Ekudeamenu Eleagbe Elegbadzadzi Elemawusi Eli Elike Elikplim Elikplimi Elinam Elinami Elivava Elolo Elorm Elormi Emefa Ena Enam Enami Enya Enyam Enyami Enyo Enyonam Enyonam Ese Eselali Eselase Eselasi Esenam Esene Esinu Etor Etorna Etorname Etornami Etriakor Ewoe Ewoenam Ewoenami Exornam Eyra Eyrae Eyram Eyrami
-			Fafa Fafali Feke Fiadzo Fiagbor Fiamavle Fianu Fiavi Fiawoyi
-			Gadogle Galevo Gameli Ganyebusu Ganyo Ganyo Gashika Gayome Gayra Gayram Gayrami Gbekor Golomeke
-			Hoenyame Hunexoe
-			Kafui Kekeli Kekle Kle Klenam Klenami Kplom Kplorla Kulewosi Kuzagbe
-			Lebenam Lebene Lolor Lolornyo Lorm Lorne Lumusi
-			Makafui Manewuga Mawuena Mawuenyega Mawuenyega Mawueyram Mawufemor Mawuko Mawuli Mawuli Mawulikplim Mawulikplimi Mawulinam Mawulolo Mawulorm Mawunya Mawunyo Mawunyo Mawuse Mawusi Mawutor Mawuwoe Mawuworge Mazinkpi Morkporkpor
-			Nkunu Nukunu Nuna Nunana Nunyani Nunyati Nyamadi Nyonator Nyuitor
-			Sakumadranyi Se Seboe Sedem Sedemi Sedinam Sedoame Sedotom Sedotom Sedudzi Sedufia Sefadzi Sefakor Sefoga Selase Selasie Seli Selinam Selorm Sena Senam Senya Senyega Senyo Sese Seshi Seshie Sesi Setor Seyram Seyrami Sitso Sitsofe
-			Tamakloe Tsodzine Tsoeke Tsoekewo Tsoenamawu
-			Vadem Valikem Vayram Vivormadzigbe Vormawu
-			Vadem Valikem Vayram Vivormadzigbe Vormawu
-			Xebidzie Xedzro Xoese Xoglimakadu Xornam Xorse
-			Yayra Yingor Yra Yram Yrami
-			
-			Akoshiwo Ametowofa Ameyo Annie_Anna
-			Cecilia Charity
-			Erica Esther
-			Mawuena
-			Patience
-			Ruth
-			Victoria
+			Hangbe Hwanjile
+			Sehdong
+
+			Amélie
 		}
 
 	}

@@ -281,6 +281,41 @@ bantu = {
 			Raquel_Rachel Regina Rita Rose
 		}
 	}
+	beti={
+		color = { 0.5 0.6 0.3 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+			
+		male_names = {
+			Abe Achille Akeva Alexis André_Andrew André-Franck Atana
+			Biyidi
+			Charles Cyrille_Cyril
+			Émil_Aemilius Enyege Essomba
+			Faustin Ferdinand Franck_Francis
+			Gaston George
+			Hans Hervé Hubert
+			Jean_John Jean-Faustin Jean-Jacques Jean-Marie Jean-Pierre Jean-Victor Joseph Jules
+			Louis Louis-Paul Luc_Lucas
+			Marc-Vivien Martin Mathurin Mballa Mfege Mongo
+			Ndono Nkodo Nsudu Ntsama
+			Ondoa Onguene Oscar Owona
+			Paul Pierre_Peter Pierre-Claude
+			Stève_Stephen
+			Thierry
+			Ulrich
+			Yannick
+			Zoa
+		}
+		
+		female_names = {
+			Adèle_Adele Agnès_Agnes Aurelle
+			Emma Estelle
+			Francine
+			Gisèle
+			Katerina_Catherine
+			Marie_Mary Marie-Agnès Marie-Gisèle
+		}
+	}
 	sawa={
 		color = { 0.4 0.5 0.2 }
 		

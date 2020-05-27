@@ -499,5 +499,42 @@ syncretic = {
 		religious_clothing_priest = 1
 		
 		#intermarry = akom
+		intermarry = vodun
+	}
+	vodun = {
+		graphical_culture = westerngfx
+
+		icon = 15
+		heresy_icon = 15
+
+		color = { 0.1 0.6 0.7 }
+
+		crusade_name = CRUSADE
+		scripture_name = THE_BIBLE
+		priest_title = PRIEST
+		
+		high_god_name = GOD_NYAME
+		
+		god_names = {
+			GOD_MAWU GOD_LEGBA
+		}
+		
+		evil_god_names = {
+			GOD_LEGBA
+		}
+
+		scripture_name = THE_HOLY_BOOK
+		priest_title = PRIEST
+		priests_can_marry = yes
+		allow_rivermovement = yes
+		allow_looting = yes
+		female_temple_holders = yes
+		max_consorts = 3
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 1
+		
+		intermarry = akom
+		##intermarry = akom
 	}
 }

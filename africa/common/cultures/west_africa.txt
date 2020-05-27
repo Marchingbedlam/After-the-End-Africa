@@ -121,6 +121,7 @@ west_african = {
 		male_names = {
 			Abdoul_Abdul Abdoulaye_Abdullah Abdoul-Aziz_Abdul-Aziz Ablassé Adam
 			Baongo Bénéwendé Blaise Boubacar_Abu-Bakr Boukary_Bakr
+			Coutoucou
 			Daniel Daouda_David Dawingna Djibril_Gabriel 
 			Frédéric_Frederick
 			Geda Gérard_Gerard Gigma Gilbert Gnignemdo Goabga Grumah Guiguem-Pollé Guirga

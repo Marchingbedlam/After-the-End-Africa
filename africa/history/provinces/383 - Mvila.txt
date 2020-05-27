@@ -7,7 +7,7 @@ max_settlements = 3
 b_ebolowa = castle
 
 # Misc
-culture = kpelle
+culture = beti
 religion = catholic
 
 #History

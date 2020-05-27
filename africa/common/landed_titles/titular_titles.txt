@@ -64,6 +64,19 @@ k_edo = {
 		always = no
 	}
 }
+k_dahomey = {
+	color = { 146 62 176 }
+	color2= { 255 255 255 }
+	capital = 134 #Yendi
+
+	culture = fon
+
+	title = "Ahosu"
+
+	allow = {
+		always = no
+	}
+}
 
 ##Empires
 e_manden = {

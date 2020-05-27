@@ -73,7 +73,7 @@ mande = {
 		
 		male_names = {
 			Abdichi-Moké Abdou_Abdul Abdoulaye_Abdullah Abdou-Razack_Abdul-Razzaq Abubakari_Abu-Bakr Ahmed Alamouta Alassane_Al-Hassan Ali_Ali
-			Ballaké Benkano_Benkan Bitòn Boubacar_Abu-Bakr Boucader_Abdul-Kadir Boureima Bréhima
+			Ballaké Benkano_Benkan Bio-Aï Bitòn Boubacar_Abu-Bakr Boucader_Abdul-Kadir Boureima Bréhima
 			Camba Cheick_Sheikh Choguel
 			Dankaran Daouda_David Denba Dinkoro Dioncounda Django Djelimady Djibril_Gabriel Doula Doumbia Dramane
 			Falaba Famoudou Faséké Fodé_Foday
@@ -85,7 +85,7 @@ mande = {
 			Maghan Malick_Malik Mamadou_Mohammed Mamari Mansong Mari-Djata Moctar_Mukhtar Modibo Mory Moulé_Mulay Mountaga Moussa_Moses Moustapha_Mustafa
 			Nfamara Ngolo Nianta 
 			Ouli_Wali Ouati Ouezzin Oumar_Omar Ousmane_Osman
-			Sadio Saifou Saikou Sakoura Sambou Samory Sandaki Sékou_Sheikh Sekouba Sérébandjougou Sidiki_Siddiq Sidi-Yaya Souleymane_Solomon Soumaïla Soumana Soundiata Soungalo
+			Sadio Safradine Saifou Saikou Sakoura Sambou Samory Sandaki Sékou_Sheikh Sekouba Sérébandjougou Sidiki_Siddiq Sidi-Yaya Souleymane_Solomon Soumaïla Soumana Soundiata Soungalo
 			Téréba Tiéfing Tiémoko Tonmassa Toumani Touro-Koro
 			Yaya_John Yoro Younoussi_John Youssouf_Joseph
 			Zenka

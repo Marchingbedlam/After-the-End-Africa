@@ -2166,3 +2166,47 @@
 	2635.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
+1500400={
+	name="Kpodégbé" #Ahosu
+	dynasty=1895000
+	culture=fon
+	religion=vodun
+	
+	2623.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1500401={
+	name="Djimon"
+	dynasty=1895000
+	culture=fon
+	religion=vodun
+	father=1500400
+	trait=strong
+	trait=fair
+	trait=brave
+	trait=ambitious
+	trait=diligent
+	trait=ruthless
+	trait=skilled_tactician
+	
+	2641.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1500402={
+	name="Xossou"
+	dynasty=1895000
+	culture=fon
+	religion=vodun
+	father=1500400
+	trait=strong
+	trait=fair
+	trait=brave
+	trait=gregarious
+	trait=diligent
+	trait=stubborn
+	trait=lunatic
+	trait=tough_soldier
+	
+	2644.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
