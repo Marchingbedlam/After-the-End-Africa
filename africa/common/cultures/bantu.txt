@@ -1,4 +1,4 @@
-###ƒNSI
+###√ÑNSI
 bantu = {
 	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
 	graphical_cultures = { muslimgfx }
@@ -9,19 +9,19 @@ bantu = {
 		graphical_cultures = { westafricangfx africangfx }
 			
 		male_names = {
-			A-Lˆbari Armando_Armand
-			Beos·
-			C·ndido_Candide
-			DelfÌn Deogracias
-			Edmundo_Edmund Emilio_Aemilius Enrique_Henry Es·asi Eweera
-			Iv·n_Ivan
-			Jorge_George JosÈ_Joseph Juan_John
-			LˆpËlo LˆpÛa LorÌitÈ
-			MÎlaka Miguel_Michael Mˆadyabit· Mˆlambo MˆÛk·ta
+			A-L√∂bari Armando_Armand
+			Beos√°
+			C√°ndido_Candide
+			Delf√≠n Deogracias
+			Edmundo_Edmund Emilio_Aemilius Enrique_Henry Es√°asi Eweera
+			Iv√°n_Ivan
+			Jorge_George Jos√©_Joseph Juan_John
+			L√∂p√®lo L√∂p√≥a Lor√≠it√©
+			M√´laka Miguel_Michael M√∂adyabit√° M√∂lambo M√∂√≥k√°ta
 			Orityi
 			Pelayo_Pelagius
 			Riokalo
-			S·s-Ebuera SÎpaÛkÛ Silvestre_Silvester Sipoto
+			S√°s-Ebuera S√´pa√≥k√≥ Silvestre_Silvester Sipoto
 			Weja
 		}
 		
@@ -29,7 +29,7 @@ bantu = {
 			Aauri
 			Bisila
 			Lorena
-			MarÌa_Mary
+			Mar√≠a_Mary
 			Paloma Paula Piruchi
 			Rita
 			Virginia
@@ -68,7 +68,7 @@ bantu = {
 			Wandoo 
 			Yahimba
 			
-			Poko Kenga Adaeze Adanna Adannaya Akachi Akuchi Amaka Schiamaka Amara Amarachi AÒuli Chi 
+			Poko Kenga Adaeze Adanna Adannaya Akachi Akuchi Amaka Schiamaka Amara Amarachi A√±uli Chi 
 			Chiamaka Chibueze Chibuike Chibuzo Chichi Chidi Chidiebere Chidiebube Chidiegwu Chidimma Chijindum Chika  
 			Chike Chikelu Chikere Chinasa Chinedu Chinonso Chinwe Chinweike Chinwendu Chinweuba Chinyelu Chinyere 
 			Chioma Chizoba Ebele Ekene Ekenedilichukwu Fumnanya Funanya Ndidi Ngozi Nkechi Nkechinyere Nkemdilim Nkiru 
@@ -147,7 +147,7 @@ bantu = {
 			Wandoo 
 			Yahimba
 			
-			Poko Kenga Adaeze Adanna Adannaya Akachi Akuchi Amaka Schiamaka Amara Amarachi AÒuli Chi 
+			Poko Kenga Adaeze Adanna Adannaya Akachi Akuchi Amaka Schiamaka Amara Amarachi A√±uli Chi 
 			Chiamaka Chibueze Chibuike Chibuzo Chichi Chidi Chidiebere Chidiebube Chidiegwu Chidimma Chijindum Chika  
 			Chike Chikelu Chikere Chinasa Chinedu Chinonso Chinwe Chinweike Chinwendu Chinweuba Chinyelu Chinyere 
 			Chioma Chizoba Ebele Ekene Ekenedilichukwu Fumnanya Funanya Ndidi Ngozi Nkechi Nkechinyere Nkemdilim Nkiru 
@@ -199,7 +199,7 @@ bantu = {
 		graphical_cultures = { westafricangfx africangfx }
 			
 		male_names = {
-			Abel Afonso_Alphonse ¡lvaro AmbrÛsio AndrÈ_Andrew Artur_Arthur
+			Abel Afonso_Alphonse √Ålvaro Ambr√≥sio Andr√©_Andrew Artur_Arthur
 			Bernard
 			Daniel
 			Elelo
@@ -213,7 +213,7 @@ bantu = {
 			Nanga Ndembe Ndozau_John Ngouli Nimi Nkanga Nkelian Nkenge Nkumbi Nkuwu Nlaza Nlenke Nombo Nsangu Nsona Ntenda Ntinu Nzaou Nzassi Nzenze Nzinga
 			Petelo_Peter
 			Salvador Sylvester
-			Tekenge ThÈophile_Theophilus Trigo
+			Tekenge Th√©ophile_Theophilus Trigo
 			Waldemar_Valdemar
 		}
 		
@@ -224,10 +224,10 @@ bantu = {
 			Fudi
 			Ignacia Isabel
 			Joana
-			KengÈ
-			LÈlo Leonor_Eleanor Lucia Luisa_Louise Lusana
-			MalisbËte Malundama Mamaye Marcella Maria_Mary Martha Mwessi
-			NËle Nienzi Njinga Nsengo Nsukula Ntumba
+			Keng√©
+			L√©lo Leonor_Eleanor Lucia Luisa_Louise Lusana
+			Malisb√®te Malundama Mamaye Marcella Maria_Mary Martha Mwessi
+			N√®le Nienzi Njinga Nsengo Nsukula Ntumba
 			Potencia
 			Tchitoula Touba
 			Violante Virginia Vuzilia
@@ -247,37 +247,37 @@ bantu = {
 		graphical_cultures = { westafricangfx africangfx }
 			
 		male_names = {
-			Alain_Alan ¡mery AndrÈ_Andrew ¡ngel_Angel Anselmo_Anselm Anthony Aristide Armand Armengol ArsËne Augustin_Augustine Avelin Axel Aymardo
+			Alain_Alan √Åmery Andr√©_Andrew √Ångel_Angel Anselmo_Anselm Anthony Aristide Armand Armengol Ars√®ne Augustin_Augustine Avelin Axel Aymardo
 			Basil Benedict Benjamin Bienvenudo Boris Bruno Buenaventure_Bonaventure
-			C·ndide_Candide Carlos_Carl Casimir Claude ClÈment_Clement Cosme
+			C√°ndide_Candide Carlos_Carl Casimir Claude Cl√©ment_Clement Cosme
 			Daniel David Didier Dieudono Donat_Donatus	
 			Edmundo_Edmund Eloy Emerick Emiliano_Aemilius Enrique_Henry Erwin Eusebio_Eusebius
-			Fabi·n_Fabian Fabrice Federick_Frederick Felipe_Philip Florencio_Florence Franck_Francis
+			Fabi√°n_Fabian Fabrice Federick_Frederick Felipe_Philip Florencio_Florence Franck_Francis
 			Gabriel Gregorio_Gregory Gustavo_Gustav
 			Ivan
-			Jacinto Jes˙s_Jesus Jorge_George JosÈ_Joseph Juan_John Jules
-			L·zaro_Lazarus Leandro_Leander LÈon_Leon Lino Luis
+			Jacinto Jes√∫s_Jesus Jorge_George Jos√©_Joseph Juan_John Jules
+			L√°zaro_Lazarus Leandro_Leander L√©on_Leon Lino Luis
 			Manuel_Emmanuel Mario_Marius Martin Miguel_Michael
 			Oscar
-			Pascual_Pascal Pedro_Peter Pl·cido
-			RamÛnd_Raymond Reginald RÈmy Ricard_Richard Roben_Ruben Romarick Rusl·n
-			SalomÛn_Solomon Salvador Santiago Severo_Severus Silvestre_Sylvester StÈphane_Stephen
-			Teodore_Theodore TÈrence_Terence Tom·s_Thomas Trinidad
+			Pascual_Pascal Pedro_Peter Pl√°cido
+			Ram√≥nd_Raymond Reginald R√©my Ricard_Richard Roben_Ruben Romarick Rusl√°n
+			Salom√≥n_Solomon Salvador Santiago Severo_Severus Silvestre_Sylvester St√©phane_Stephen
+			Teodore_Theodore T√©rence_Terence Tom√°s_Thomas Trinidad
 			Vicente_Vincent Victor
 			Wenceslao Wilfried_Wilfred
 			Yannick Yves
 		}
 		
 		female_names = {
-			¡ngela_Angela
+			√Ångela_Angela
 			Catilina Constancia_Constance
-			DaniËle_Daniela
+			Dani√®le_Daniela
 			Edna Esperanza
 			Flor
 			Genoveva
 			Lucrecia
 			Maria_Mary Milagrosa Montserrat
-			NadËge
+			Nad√®ge
 			Raquel_Rachel Regina Rita Rose
 		}
 	}
@@ -287,20 +287,20 @@ bantu = {
 		graphical_cultures = { westafricangfx africangfx }
 			
 		male_names = {
-			Abe Achille Akeva Alexis AndrÈ_Andrew AndrÈ-Franck Atana
+			Abe Achille Akeva Alexis Andr√©_Andrew Andr√©-Franck Atana
 			Biyidi
 			Charles Cyrille_Cyril
-			…mil_Aemilius Enyege Essomba
+			√âmil_Aemilius Enyege Essomba
 			Faustin Ferdinand Franck_Francis
 			Gaston George
-			Hans HervÈ Hubert
+			Hans Herv√© Hubert
 			Jean_John Jean-Faustin Jean-Jacques Jean-Marie Jean-Pierre Jean-Victor Joseph Jules
 			Louis Louis-Paul Luc_Lucas
 			Marc-Vivien Martin Mathurin Mballa Mfege Mongo
 			Ndono Nkodo Nsudu Ntsama
 			Ondoa Onguene Oscar Owona
 			Paul Pierre_Peter Pierre-Claude
-			StËve_Stephen
+			St√®ve_Stephen
 			Thierry
 			Ulrich
 			Yannick
@@ -308,12 +308,12 @@ bantu = {
 		}
 		
 		female_names = {
-			AdËle_Adele AgnËs_Agnes Aurelle
+			Ad√®le_Adele Agn√®s_Agnes Aurelle
 			Emma Estelle
 			Francine
-			GisËle
+			Gis√®le
 			Katerina_Catherine
-			Marie_Mary Marie-AgnËs Marie-GisËle
+			Marie_Mary Marie-Agn√®s Marie-Gis√®le
 		}
 	}
 	sawa={
@@ -331,11 +331,11 @@ bantu = {
 			Isuwu
 			Jacob James Jean-Alain Jean-Marie Jean-Maxime Jean-Paul Jean-Pierre Joseph
 			Kum Kuo Kwa Kwane
-			LobÈ Lock Louis
+			Lob√© Lock Louis
 			Mapoka Mase Mbape Mbedi Mbimbi Mbongo Meinrad Mokule Monanga Moukoko Mpondo Mukonga Mulabe
-			NdumbÈ Ngando Ngie Ngombe
+			Ndumb√© Ngando Ngie Ngombe
 			Patrick Paul Priso
-			RenÈ Roger Roudolphe_Rudolph
+			Ren√© Roger Roudolphe_Rudolph
 			Samuel
 			Walter William Woloa
 		}
@@ -345,7 +345,7 @@ bantu = {
 			Elsa
 			Hemley
 			Kanya
-			LÈonora
+			L√©onora
 		}
 
 		male_patronym = "a "
@@ -411,22 +411,22 @@ bantu = {
 		graphical_cultures = { westafricangfx africangfx }
 			
 		male_names = {
-			Abel Alexandre_Alexander Alexandre-Ferdinand AndrÈ_Andrew AndrÈ-DieudonnÈ Ange-FÈlix Anicet-Georges Anicet-Richard Antoine_Anthony
-			BarthÈlemy_Bartholomew BÈranger-Aymard Bernard Bruno Bruno-Nazaire
-			Casimir CÈlestin_Celestine Charlemagne Charles Christophe_Christopher Clovis Constantin_Constantine
+			Abel Alexandre_Alexander Alexandre-Ferdinand Andr√©_Andrew Andr√©-Dieudonn√© Ange-F√©lix Anicet-Georges Anicet-Richard Antoine_Anthony
+			Barth√©lemy_Bartholomew B√©ranger-Aymard Bernard Bruno Bruno-Nazaire
+			Casimir C√©lestin_Celestine Charlemagne Charles Christophe_Christopher Clovis Constantin_Constantine
 			David Dobogon
-			…douard_Edward …lie_Elijah Eloge Enoch Eudes_Otto
+			√âdouard_Edward √âlie_Elijah Eloge Enoch Eudes_Otto
 			Faustin-Archange Ferdinand Firmin
 			Gabriel Georges_George Goduine_Godwin
 			Henri_Henry
-			Jacques-Henri Jean_John Jean-BarthÈlÈmy Jean-BÈdel Jean-Charles Jean-Jacques Jean-Luc Jean-Parfait Jean-Paul Jean-Pierre Jean-Serge JÈrÙme_Jerome Joseph JosuÈ_Joshua
+			Jacques-Henri Jean_John Jean-Barth√©l√©my Jean-B√©del Jean-Charles Jean-Jacques Jean-Luc Jean-Parfait Jean-Paul Jean-Pierre Jean-Serge J√©r√¥me_Jerome Joseph Josu√©_Joshua
 			Leroy Lionel
-			Magloire Maixant ManassÈ Marcelin Martin Michel_Michael Mindogon
+			Magloire Maixant Manass√© Marcelin Martin Michel_Michael Mindogon
 			Nicolas_Nicholas
 			Paul Pierre
-			RaphaÎl_Raphael Raymond RÈgis Robert Romuald
+			Rapha√´l_Raphael Raymond R√©gis Robert Romuald
 			Saint-Cyr Simplice Sylvestre_Sylvester
-			TimothÈe_Timothy
+			Timoth√©e_Timothy
 		}
 		
 		female_names = {
@@ -437,7 +437,7 @@ bantu = {
 			Hyacinthe
 			Josephine
 			Lucienne
-			Marguerite_Margaret Marie_Mary Marie-JoÎlle Marie-Reine Martine
+			Marguerite_Margaret Marie_Mary Marie-Jo√´lle Marie-Reine Martine
 			Nathalie_Natalie Nicole
 			Philomene
 			Sylvie_Sylvia
@@ -449,19 +449,19 @@ bantu = {
 		graphical_cultures = { westafricangfx africangfx }
 			
 		male_names = {
-			Abel Adriano_Adrian Afonso_Alphonse Agostinho_Augustine Alberto_Albert Alexandre_Alexander Alfredo_Alfred AntÛnio_Anthony Armando Avelino
+			Abel Adriano_Adrian Afonso_Alphonse Agostinho_Augustine Alberto_Albert Alexandre_Alexander Alfredo_Alfred Ant√≥nio_Anthony Armando Avelino
 			Bernardo_Bernard Bornito
-			CÈsar_Caesar CristÛv„o_Christopher
-			Daniel DesidÈrio Domingos_Dominic
-			Eduardo_Edward EugÈnio_Eugene EusÈbio_Eusebius
-			Fernando_Ferdinand Filipe_Philip Fl·vio_Flavius Francisco_Francis
+			C√©sar_Caesar Crist√≥v√£o_Christopher
+			Daniel Desid√©rio Domingos_Dominic
+			Eduardo_Edward Eug√©nio_Eugene Eus√©bio_Eusebius
+			Fernando_Ferdinand Filipe_Philip Fl√°vio_Flavius Francisco_Francis
 			Guilherme_William
 			Henrique_Henry Higino Hari
-			IlÌdio Inene
-			Jo„o_John Joaquim_Joachim Jofre_Geoffrey Jorge_George JosÈ_Joseph
+			Il√≠dio Inene
+			Jo√£o_John Joaquim_Joachim Jofre_Geoffrey Jorge_George Jos√©_Joseph
 			Kambamba Kambolo Kasenda Kilombo Kiluanji
-			L˙cio_Lucius LuÌs_Louis
-			Manuel_Emmanuel M·rio_Marius Mbande Mwongo 
+			L√∫cio_Lucius Lu√≠s_Louis
+			Manuel_Emmanuel M√°rio_Marius Mbande Mwongo 
 			Ndambi Norberto_Norbert
 			Oscar
 			Paulo_Paul Pedro_Peter
@@ -472,7 +472,7 @@ bantu = {
 		}
 		
 		female_names = {
-			Adelina Albertina Albina Aldina AmÈlia_Amelia Ana_Anne Anabela_Anabelle AngÈlica_Angelica Ansia
+			Adelina Albertina Albina Aldina Am√©lia_Amelia Ana_Anne Anabela_Anabelle Ang√©lica_Angelica Ansia
 			Barbara
 			Carolina_Caroline
 			Faustina Filomena
@@ -483,7 +483,7 @@ bantu = {
 			Palmira Paula
 			Rosa_Rose
 			Teresa_Theresa
-			Vera VerÛnica_Veronica
+			Vera Ver√≥nica_Veronica
 		}
 
 		from_dynasty_prefix = "de "
@@ -497,39 +497,39 @@ bantu = {
 		graphical_cultures = { westafricangfx africangfx }
 			
 		male_names = {
-			Abel Adriano_Adrian Aires Alberto_Albert Alcides Alicerces Almerindo AmÈrico Amilcar_Hamilcar Anast·cio_Anastasius AnÌbal_Hannibal AntÛnio_Anthony Arlindo Armindo Augusto_Augustus
+			Abel Adriano_Adrian Aires Alberto_Albert Alcides Alicerces Almerindo Am√©rico Amilcar_Hamilcar Anast√°cio_Anastasius An√≠bal_Hannibal Ant√≥nio_Anthony Arlindo Armindo Augusto_Augustus
 			Bartolomeu_Bartholomew Bernardo_Bernard Bongue Bonji
 			Carlos_Charles
 			David Demosthenes Domingos_Dominic
-			Eduardo_Edward Eguerreiro Ekongoliohombo Ekuikui Elias_Elijah Ernesto_Ernest Estanislau_Stanislav EstÍv„o_Stephen Eugenio_Eugene
+			Eduardo_Edward Eguerreiro Ekongoliohombo Ekuikui Elias_Elijah Ernesto_Ernest Estanislau_Stanislav Est√™v√£o_Stephen Eugenio_Eugene
 			Fernando_Ferdinand Filipe_Philip Francisco_Francis Frederico_Frederick
 			Henrique_Henry Hundungulo
-			In·cio_Ignatius IsaÌas_Isaiah 
-			Jahulo Jeremias_Jeremiah Jo„o_John Jonas Jonat„o_Jonathan Jorge_George JosÈ_Joseph Jungulo
+			In√°cio_Ignatius Isa√≠as_Isaiah 
+			Jahulo Jeremias_Jeremiah Jo√£o_John Jonas Jonat√£o_Jonathan Jorge_George Jos√©_Joseph Jungulo
 			Kalandula Kangovi Kapoko Katiavala
-			Livongue Lote LuÌs_Louis
+			Livongue Lote Lu√≠s_Louis
 			Marcolino Miguel_Michael Moma Musitu Mutu
 			Ngundji Numa
 			Paulo_Paul Pedro_Peter
 			Rafael_Raphael Raul
-			Salom„o_Solomon Samandalu Sebasti„o_Sebastian SÛcrates_Socrates Sousa
+			Salom√£o_Solomon Samandalu Sebasti√£o_Sebastian S√≥crates_Socrates Sousa
 			Tchinendele Tchingui Tchisende
 			Utondosi
-			Valentim_Valentine Vasovava VigÌlio
+			Valentim_Valentine Vasovava Vig√≠lio
 			Wilson
 			Zacarias_Zachary
 		}
 		
 		female_names = {
-			Albertina Alda AmÈlia_Amelia Astrida_Astrid
-			C‚ndida
+			Albertina Alda Am√©lia_Amelia Astrida_Astrid
+			C√¢ndida
 			Eunice
 			Filomena
 			Gabriela
 			Joana_Joan Josefa Judith Juliana
 			Leila
 			Marcelina Margarida_Margaret Maria_Mary
-			Rebeca_Rebecca Ros·lia
+			Rebeca_Rebecca Ros√°lia
 			Teresa_Theresa
 		}
 
@@ -740,6 +740,49 @@ bantu = {
 			Kanuni
 			Petrina
 			Regina Rosa_Rose Rosalia
+		}
+	}
+	myene = {
+		color = { 1.0 0.66 0.08 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+			
+		male_names = {
+			Adand√® Ademba Adiwenyanga Adiombompolo Agaya Agambw√® Agondjo_Igondjo Al√®ka Al√©wina Akaga Akanda Akendengu√©_Kende Ak√©r√® Aliwa Agnemby_Animbi Anguilet_Menguila Amal√® Ampoumet Apandina Atchandiet_Ntchandi Avou√©l√© Avilanagno Aw√©r√©gosamu Awongo Azil√© Azizet_Ziza Awiri Agwempono Assiga Antouke-Kow√®
+			"Tom Lawson" # Successor to brother King Georges/Rassondji, also reigned under the same names as his brother, as did his successors, with no regnal numbers (https://books.google.com/books?id=zbZGDwAAQBAJ&pg=PA226&lpg=PA226&dq=Agulamba&source=bl&ots=NAvRLpRNZj&sig=ACfU3U0B6oWf0I4PDAGvzXA_hpFpjrZP1w&hl=en&sa=X&ved=2ahUKEwi7mtbHs9fpAhVumXIEHRXQB88Q6AEwAnoECAkQAQ#v=onepage&q=Agulamba&f=false)
+			Boucka
+			Djanivenda Denis
+			Eteno
+			Embongo Enami_Enanwi Enawi Eg√¥mbyawena El√©wany√® Eliwa Essongu√© Eyagh√©_Eyar√© Eyar√©
+			Fanguinoveni_Fanguinoveny Fanguinoveny
+			Glass
+			Ib√©k√©lia Igondjo Imunga Imbwiri_Awiri Idyombayogo Inchonoranga 
+			
+			Kende
+			Menguila Maguisset Mandakw√©no Mpemba Mpira Mondjorou
+			Namal√®_Amal√® Nyamal√®_Amal√® Ntchandi Numbogo Ndjamb√©_R√©djamb√© Nkolo Nkomb√© Nkombegnondo Nkorouna Nkowan Ntchorere Ntchungusono Ntchuwa Ntchoungouwa
+			"Ond√©no-R√©bi√©no" Odjili Ogandaga Ogoumbogani Ogoula Ogow√® Olago_Rolago Ol√≤g√≤ Omanda_Owanda Owanda Onouviet Ozimo Ozouaki_Joachim Ozungu√® Ogomb√©
+			Rassindina R√©djamb√© Rolago Radembino Ranozino Rapontchombo R√©mboko R√©nkolombya R√©boucka_Boucka R√©ntcholo R√©ndambo Reteno_Eteno Rassondji "R Ogouarowe" Rogomb√©_Ogomb√© Robaki
+			Tchango-mbya Tapoyo
+			Vendakambano
+			Ziza
+		}
+		
+		female_names = {
+			Agnorogoul√® Agondjo_Igondjo Akaga Akand√® Akendengu√©_Kende Agnemby_Animbi Anguilet_Menguila Ambamani Anina Atchandiet_Ntchandi Avilanagno Avou√©l√© Awongo Ay√©la Azil√© Azizet_Ziza Awiri Antchouet Awora
+			Chechina
+			Djanivenda Dembinya
+			Eg√¥mbyawena El√©wany√® Eliwa Esong√© Evila Evouand√©nor√©ma
+			Ib√©k√©lia Igondjo Imbwiri_Awiri Ibika Inanga Intchango Ingu√©za Iwenga
+			Jna
+			Kende
+			Menguila Mboumba Mpenga
+			Ntchandi Ngond√® Ngwanyoni Ngw√©ranga Ngwirunda Ngwessono Nianto Nkendini Nkoma Nkolonanga Nkorouna Ntchorere Ntchuoua_Antchouet Ntchungusono Ntchoungouwa Ngompaza
+			Ogu√©wa Ogandaga Ogoumbogani Okili Okuwa Oliwina Omw√®ssa Opediuwa Orema Ozenga Ozimo Oronga
+			Rapono R√©by√©not Renk√©l√© R√©tiga
+			Salty_Salet Salet Somboun√© 
+			Wonguignewo Wora_Awora
+			Ziza
 		}
 	}
 }
