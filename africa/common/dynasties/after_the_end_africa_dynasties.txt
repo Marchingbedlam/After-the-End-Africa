@@ -134,7 +134,7 @@
 1002029 = { name="Giggs" culture=krio }
 1002030 = { name="Jarrett" culture=krio }
 1002031 = { name="Metzger" culture=krio }
-1002032 = { name="Ransome" culture=krio }
+1002032 = { name="Karefa-Smart" culture=krio }
 1002033 = { name="Jenkins" culture=krio }
 1002034 = { name="Carew" culture=krio }
 1002035 = { name="Keister" culture=krio }
@@ -164,7 +164,7 @@
 1002059 = { name="Spilsbury" culture=krio }
 1002060 = { name="Johansen" culture=krio }
 1002061 = { name="Priddy" culture=krio }
-1002062 = { name="Garrick" culture=krio }
+1002062 = { name="Adeniyi-Jones" culture=krio }
 1002063 = { name="Bart-Williams" culture=krio }
 1002064 = { name="Boyle" culture=krio }
 1002065 = { name="Browne-Marke" culture=krio }
@@ -203,8 +203,8 @@
 1002096 = { name="Marlow" culture=krio }
 1002097 = { name="Benjamin" culture=krio }
 1002098 = { name="Kurtz" culture=krio }
-1002099 = { name="Karefa-Smart" culture=krio }
-1002100 = { name="Joko-Smart" culture=krio }
+1002099 = { name="Raymond-Anthony" culture=krio }
+1002100 = { name="Dafora-Horton" culture=krio }
 
 1003000 = { name="Abdou" culture=comorian }
 1003001 = { name="Sambi" culture=comorian }
@@ -330,6 +330,15 @@
 1004048 = { name="Pedro" culture=pijin }
 1004049 = { name="Ramon" culture=pijin }
 1004050 = { name="Cardoso" culture=pijin }
+1004051 = { name="Ransome" culture=pijin }
+1004052 = { name="Ambode" culture=pijin }
+1004053 = { name="Bucknor" culture=pijin }
+1004054 = { name="Adeniyi-Thomas" culture=pijin }
+1004055 = { name="Clark" culture=pijin }
+1004056 = { name="Austen" culture=pijin }
+1004057 = { name="Braithwaite" culture=pijin }
+1004058 = { name="Murray" culture=pijin }
+1004059 = { name="Bruce" culture=pijin }
 
 1005000 = { name="Daïssala" culture=kirdi }
 1005001 = { name="Ayang" culture=kirdi }
@@ -2981,6 +2990,178 @@
 1919058 = {name ="Al-Nabhani" culture=umani }
 1919059 = {name ="Al-Obaidani" culture=umani }
 1919060 = {name ="Al-Rumhi" culture=umani }
+
+1962000 = { name="Rodrigues" culture=amazonense }
+1962001 = { name="Lourenço" culture=amazonense }
+1962002 = { name="Santos" culture=amazonense }
+1962003 = { name="Nogueira" culture=amazonense }
+1962004 = { name="Caetano" culture=amazonense }
+1962005 = { name="Reis" culture=amazonense }
+1962006 = { name="Delgado" culture=amazonense }
+1962007 = { name="Esteves" culture=amazonense }
+1962008 = { name="Gonçalves" culture=amazonense }
+1962009 = { name="Coimbra" culture=amazonense }
+1962010 = { name="Brandão" culture=amazonense }
+1962011 = { name="Mendes" culture=amazonense }
+1962012 = { name="Delchiaro" culture=amazonense }
+1962013 = { name="Maciel" culture=amazonense }
+1962014 = { name="Saraiva" culture=amazonense }
+1962015 = { name="Correia" culture=amazonense }
+1962016 = { name="Nascimento" culture=amazonense }
+1962017 = { name="Soares" culture=amazonense }
+1962018 = { name="Fraga" culture=amazonense }
+1962019 = { name="Carvalho" culture=amazonense }
+1962020 = { name="Leão" culture=amazonense }
+
+1963000 = { name="Coutinho" culture=brazilian }
+1963001 = { name="Nazário" culture=brazilian }
+1963002 = { name="Neves" culture=brazilian }
+1963003 = { name="Braga" culture=brazilian }
+1963004 = { name="Madruga" culture=brazilian }
+1963005 = { name="Prestes" culture=brazilian }
+1963006 = { name="Dutra" culture=brazilian }
+1963007 = { name="Salgado" culture=brazilian }
+1963008 = { name="Medeiros" culture=brazilian }
+1963009 = { name="de Ávila" culture=brazilian }
+1963010 = { name="Amaral" culture=brazilian }
+1963011 = { name="Cabral" culture=brazilian }
+1963012 = { name="Azevedo" culture=brazilian }
+1963013 = { name="Macedo" culture=brazilian }
+1963014 = { name="Branco" culture=brazilian }
+1963015 = { name="Carmo" culture=brazilian }
+1963016 = { name="Oliveira" culture=brazilian }
+1963017 = { name="Medeiras" culture=brazilian }
+1963018 = { name="Quintana" culture=brazilian }
+1963019 = { name="Quadros" culture=brazilian }
+1963020 = { name="Santana" culture=brazilian }
+1963021 = { name="Chuí" culture=brazilian }
+1963022 = { name="de Barros" culture=brazilian }
+
+2004000 = { name="Guimarães" culture=brazilian }
+2004001 = { name="Aragão" culture=brazilian }
+2004002 = { name="Leitão" culture=brazilian }
+2004003 = { name="Pereira" culture=brazilian }
+2004004 = { name="Pedroso" culture=brazilian }
+2004005 = { name="Peixoto" culture=brazilian }
+2004006 = { name="Cunha" culture=brazilian }
+2004007 = { name="Medina" culture=brazilian }
+2004008 = { name="Melo" culture=brazilian }
+2004009 = { name="Assunção" culture=brazilian }
+2004010 = { name="Aranha" culture=brazilian }
+2004011 = { name="do Couto" culture=brazilian }
+2004012 = { name="Gomes" culture=brazilian }
+2004013 = { name="Marinho" culture=brazilian }
+2004014 = { name="Padilha" culture=brazilian }
+2004015 = { name="Falcão" culture=brazilian }
+2004016 = { name="Figueiredo" culture=brazilian }
+2004017 = { name="Canto" culture=brazilian }
+2004018 = { name="Gracie" culture=brazilian }
+2004019 = { name="Lisboa" culture=brazilian }
+2004020 = { name="da Costa" culture=brazilian }
+2004021 = { name="Duarte" culture=brazilian }
+2004022 = { name="Braz" culture=brazilian }
+2004023 = { name="Brito" culture=brazilian }
+2004024 = { name="da Silva" culture=brazilian }
+2004025 = { name="Filho" culture=brazilian }
+2004026 = { name="Paz" culture=brazilian }
+2004027 = { name="Silveira" culture=brazilian }
+2004028 = { name="Vaz" culture=brazilian }
+2004029 = { name="Coelho" culture=brazilian }
+2004030 = { name="Lima" culture=brazilian }
+2004031 = { name="Ferreira" culture=brazilian }
+2004032 = { name="Belluci" culture=brazilian }
+2004033 = { name="Luz" culture=brazilian }
+2004034 = { name="Moreira" culture=brazilian }
+2004035 = { name="Takeda" culture=brazilian }
+2004036 = { name="Matos" culture=brazilian }
+2004037 = { name="Goulart" culture=brazilian }
+2004038 = { name="Barroso" culture=brazilian }
+2004039 = { name="Vasconcelos" culture=brazilian }
+2004040 = { name="Ribeiro" culture=brazilian }
+2004041 = { name="Vale" culture=brazilian }
+2004042 = { name="do Nascimento" culture=brazilian }
+2004043 = { name="de Bragança" culture=brazilian }
+2004044 = { name="Nóbrega" culture=brazilian }
+2004045 = { name="Niemeyer" culture=brazilian }
+2004046 = { name="de Sousa" culture=brazilian }
+2004047 = { name="Júnior" culture=brazilian }
+2004048 = { name="Lisboa" culture=brazilian }
+2004049 = { name="Tamandaré" culture=brazilian }
+2004050 = { name="Caxias" culture=brazilian }
+2004051 = { name="Xavier" culture=brazilian }
+2004052 = { name="Bourbon" culture=brazilian }
+
+2012001 = { name="Pereira" culture=brazilian }
+2012002 = { name="Dimer" culture=brazilian }
+2012003 = { name="Timer" culture=brazilian }
+2012004 = { name="Emerin" culture=brazilian }
+2012005 = { name="França" culture=brazilian }
+2012006 = { name="Goettems" culture=brazilian }
+2012007 = { name="Krais" culture=brazilian }
+2012008 = { name="Hánn" culture=brazilian }
+2012009 = { name="Heizeriter" culture=brazilian }
+2012010 = { name="Aizenrita" culture=brazilian }
+2012011 = { name="Junckes" culture=brazilian }
+2012012 = { name="Junkes" culture=brazilian }
+2012013 = { name="Justo" culture=brazilian }
+2012014 = { name="Justino" culture=brazilian }
+2012015 = { name="Koerich" culture=brazilian }
+2012016 = { name="Cunha" culture=brazilian }
+2012017 = { name="Lamberty" culture=brazilian }
+2012018 = { name="Lamberti" culture=brazilian }
+2012019 = { name="Leffa" culture=brazilian }
+2012020 = { name="Lefa" culture=brazilian }
+2012021 = { name="Leva" culture=brazilian }
+2012022 = { name="Leão" culture=brazilian }
+2012023 = { name="Mengue" culture=brazilian }
+2012024 = { name="Maia" culture=brazilian }
+2012025 = { name="Hóstia" culture=brazilian }
+2012026 = { name="Paulos" culture=brazilian }
+2012027 = { name="Paulo" culture=brazilian }
+2012028 = { name="Schefer" culture=brazilian }
+2012029 = { name="Silistre" culture=brazilian }
+2012030 = { name="Webber" culture=brazilian }
+2012031 = { name="Veber" culture=brazilian }
+2012032 = { name="Vaingärtner" culture=brazilian }
+2012033 = { name="Vicente" culture=brazilian }
+2012034 = { name="Müller" culture=brazilian }
+2012035 = { name="Miller" culture=brazilian }
+2012036 = { name="Muller" culture=brazilian }
+2012037 = { name="Simão" culture=brazilian }
+2012038 = { name="Lins" culture=brazilian }
+2012039 = { name="Gonçalves" culture=brazilian }
+
+2013000 = { name="do Pelourinho" culture=brazilian }
+2013001 = { name="Batista" culture=brazilian }
+2013002 = { name="Evangelista" culture=brazilian }
+2013003 = { name="Pádua" culture=brazilian }
+2013004 = { name="Nepomuceno" culture=brazilian }
+2013005 = { name="Assis" culture=brazilian }
+2013006 = { name="de Paula" culture=brazilian }
+2013007 = { name="Sales" culture=brazilian }
+2013008 = { name="Loiola" culture=brazilian }
+2013009 = { name="Aquino" culture=brazilian }
+2013010 = { name="Calanzans" culture=brazilian }
+2013011 = { name="Paixão" culture=brazilian }
+2013012 = { name="Bonfim" culture=brazilian }
+2013013 = { name="Santos" culture=brazilian }
+2013014 = { name="Sante" culture=brazilian }
+2013015 = { name="Paz" culture=brazilian }
+2013016 = { name="Neves" culture=brazilian }
+2013017 = { name="Graça" culture=brazilian }
+2013018 = { name="Santana" culture=brazilian }
+2013019 = { name="Trindade" culture=brazilian }
+2013020 = { name="Ramos" culture=brazilian }
+2013021 = { name="Nascimento" culture=brazilian }
+2013022 = { name="Luz" culture=brazilian }
+2013023 = { name="Visitação" culture=brazilian }
+2013024 = { name="Chagas" culture=brazilian }
+2013025 = { name="Patrocínio" culture=brazilian }
+2013026 = { name="Conceição" culture=brazilian }
+2013027 = { name="Reis" culture=brazilian }
+2013028 = { name="Pascoal" culture=brazilian }
+2013029 = { name="Anjos" culture=brazilian }
+2013030 = { name="Dores" culture=brazilian }
 
 2222000 = { name="Lubowski" culture=sudwester }
 2222001 = { name="Rumpf" culture=sudwester }

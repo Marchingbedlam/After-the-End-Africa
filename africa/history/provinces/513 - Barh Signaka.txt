@@ -9,7 +9,7 @@ b_gogmi_TD = city
 b_alouna_TD = temple
 
 # Misc
-culture = kpelle
-religion = catholic
+culture = kanuri
+religion = tarikah
 
 #History

@@ -1047,10 +1047,7 @@ e_sahel = {
 				color={ 243 188 165 }
 				color2={ 255 255 255 }
 
-				b_keita_NE = {}
 				b_madaoua_NE = {}
-				b_bouza_NE = {}
-				b_ibrohamane_NE = {}
 				b_galmi_NE = {}
 				b_game_NE = {}
 				b_amasse_NE = {}
@@ -1077,20 +1074,26 @@ e_sahel = {
 				b_tilia_NE = {}
 				b_assassa_NE = {}
 			}
+			c_keita = {
+				color={ 220 91 93 }
+				color2={ 255 255 255 }
+
+				b_keita_NE = {}
+				b_bouza_NE = {}
+				b_ibrohamane_NE = {}
+				b_deoule = {}
+			}
 		}
 		d_maradi = {
 			color={ 206 160 114 }
 			color2={ 255 255 255 }
 
-			c_groumdji = {
+			c_madarounfa = {
 				color={ 206 163 130 }
 				color2={ 255 255 255 }
 	
-				b_guidan_roumdji_NE = {}
-				b_maradi_NE = {}
 				b_madarounfa_NE = {}
 				b_sarkin_yamma_NE = {}
-				b_chadakori_NE = {}
 				b_djiratawa_NE = {}
 				b_oubandawaki_alfacha_NE = {}
 			}
@@ -1129,6 +1132,14 @@ e_sahel = {
 				b_issawane_NE = {}
 				b_gababedji_NE = {}
 				b_korgom_NE = {}
+			}
+			c_maradi = {
+				color={ 221 31 101 }
+				color2={ 255 255 255 }
+	
+				b_guidan_roumdji_NE = {}
+				b_maradi_NE = {}
+				b_chadakori_NE = {}
 			}
 		}
 		d_zinder = {

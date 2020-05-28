@@ -1,0 +1,15 @@
+# County Title
+title = c_madarounfa
+
+# Settlements
+max_settlements = 4
+
+b_sarkin_yamma_NE = castle
+b_djiratawa_NE = city
+b_madarounfa_NE = temple
+
+# Misc
+culture = hausa
+religion = tarikah
+
+#History

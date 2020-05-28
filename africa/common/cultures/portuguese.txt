@@ -251,4 +251,73 @@ portuguese = {
 		mat_grm_name_chance = 15
 		mother_name_chance = 15
 	}
+	brazilian = { 
+		graphical_cultures = { trueoccitangfx occitangfx }
+		
+		color = { 0.2 0.8 0.07 }
+
+		male_names = {
+			Abílio Abrão_Abraham Adalberto Adão_Adam Adriano_Adrian Afonso_Alphonse Agostinho_Augustine Alberte_Albert Aleixo_Alexander Aloisio Altamir Andrés_Andrew Andrézin_Andrew Ângelo_Angel Anibal_Hannibal Antônio_Anthony Anxo Arnaldo_Arnold Atíla
+			Balduíno_Baldwin Bartolomeu_Bartholomew Batista Benedito_Benedict Benício Benildo Benjamim_Benjamin Bento_Benedict Berengár_Berengar Bernardo_Bernard Bonifácio_Boniface Brais Breixo Breno
+			Caetano Carlos_Charles Casimiro_Casimir Cecilio Chico Cibrán Claudio_Claude Clemente_Clement Cornélio_Cornelius Cristiano_Christian Cristóvão_Christopher
+			Damiãno_Damian Danilo_Daniel Davi Demetrio Desidério Dimas Dinis_Denis Diogo Dionisio Domingos_Dominic Donato Duarte_Edward
+			Edmundo_Edmund Eduardo_Edward Élder Eleuterio Eloi Emerico Émerson Emilio_Aemilius Enéas Enzo Érico_Erik Ermenegildo Estêvão_Stephen Eugênio_Eugene Eulálio Eusebio Eustaquio Ezequiel_Ezekiel
+			Fabião_Fabian Fabricio Faustino_Faustin Fausto Feliciano Felipe_Phillip Ferrão Flamarion Flávio_Flavius Florencio Francisco_Francis Frascuelo_Francis Frederico_Frederick
+			Gabriel_Gabriel Gaspar_Casper Geraldo_Gerald Gervasio Gil Glaucio Godofredo Gonçalvo Graciano Gregorio_Gregory Gualter_Walter García Guilherme_William Gustavo_Gustav
+			Heitor_Hector Hélder Heliodoro Henrique_Henry Herberto_Herbert Hermenegildo Hermínio Hilario Hipolito Horacio_Horace Humberto_Humbert
+			Inácio_Ignatius Iradilson Italo Ivo
+			Jacinto Jaime Jão_John Joaquim Jorge_George José_Joseph Josué_Joseph Júlio_Julius
+			Lando Leandro_Leander Léonardo_Leonard Léopoldo_Leopold Lourenço_Lawrence Lúcio Luís_Louis Leozin_Louis
+			Macario Manoel_Emmanuel Marcelino Marcelo Márcio Marcos_Mark Mário_Marius Martinho_Martin Mateus_Matthew Mauricio_Maurice Maximiano Maximiliano Maximino Milton Modesto
+			Napoleone Narciso Natanael_Nathan Netuno Nicodemo Nicolau_Nicholas Nuno
+			Olavo Óscar_Oscar Osvaldo_Oswald Otávio_Octavius Ottomar Ovídio
+			Pascoal_Pascal Patricio_Patrick Paulinho_Paul Paulo_Paul Pedro_Peter Pio Plácido Plinio
+			Quim
+			Rafael_Raphael Raimundo_Raymond Ramalho Raul Reinaldo Remigio Renato Roberto_Robert Rodolfo_Rudolf Rodrigo_Roderick Rogério_Roger Roldão Ronaldo_Ronald Roque Ruan Rufinho Rui
+			Salomão_Solomon Salvatore Santos Saturninho Sergio_Sergius Severino Silvio Simão_Simon Sebastião_Sebastian
+			Tacito Tadeu Telmário Teobaldo Teodósio_Theodore Tiago_James Tiburcio Timoteo_Timothy Tristão_Tristan
+			Ulisses_Ulysses Uxío
+			Valdomiro Valentim_Valentine Valeriano_Valerian Valerio_Valerius Veríssimo Vermudo Vítor_Victor Vinícius Virgilio_Virgil
+			Xavier
+			Zeferino
+		}
+		female_names = {
+			Adriana Amélia Ana_Anna Andréa Antônia Amanda Ariane Assunção Azelene
+			Bárbara Beatriz_Beatrice Benedita_Benedicta Branca Bianca Betina Brenda
+			Candelária Carmen Carmo Catarina Catina Cecília Célia Chica Cíntia Constancia Carlota
+			Débora Desidéria Diamantina Domitila Dores Dorotéia_Dorothea Dulce
+			Edite Eduarda Efigênia Elisabete_Elizabeth Elleanora Eufémia Eugênia Eulália Evelyn
+			Fatimá Feliciana Felicidade Flávia Francisca Frederica 
+			Gabriela_Gabriela Gertrudes Glaucia Glória Graça Giovanna
+			Hayá Henriqueta Hermínia Helena
+			Imaculada Inês Ingrid Isabel_Elizabeth
+			Jacinta Joana Joaquima Joênia Josefa Jougousa Jovita Januária Judite_Judith
+			Leocádia Leonor Leticia Lía Lídia Lílian Lúcia Luisa Lurdes Luzia Leopoldina Lygia
+			Madalena Márcia Margarida María_Mary Marília Matilde_Matilda Micaela Mônica_Monica
+			Nathália Neves Nina Noela
+			Ofélia Olalla Olga Olívia 
+			Priscila Paula
+			Rafaela Raquel_Rachel Rebeca_Rebecca Regina Renata Rita Roberta Rute 
+			Sabela Sara_Sarah Sofia_Sofia Sonia Susana_Susan 
+			Tatiana Telma Teresa Thaís Thayana
+			Úrsula
+			Valéria Verônica Virgínia Vitória 
+			Zanina Zélia
+		}
+		from_dynasty_prefix = "de "
+		
+		male_patronym = "filho de "
+		female_patronym = "filha de "
+		prefix = yes
+
+		modifier = default_culture_modifier
+
+		pat_grf_name_chance = 55
+		mat_grf_name_chance = 5
+		father_name_chance = 30
+		
+		pat_grm_name_chance = 60
+		mat_grm_name_chance = 15
+		mother_name_chance = 15
+	}
 }

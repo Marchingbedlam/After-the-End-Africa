@@ -1,12 +1,12 @@
 # County Title
-title = c_groumdji
+title = c_keita
 
 # Settlements
 max_settlements = 4
 
-b_guidan_roumdji_NE = castle
-b_maradi_NE = city
-b_madarounfa_NE = temple
+b_bouza_NE = castle
+b_keita_NE = city
+b_ibrohamane_NE = temple
 
 # Misc
 culture = hausa

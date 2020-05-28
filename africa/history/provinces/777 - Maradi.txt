@@ -1,0 +1,15 @@
+# County Title
+title = c_maradi
+
+# Settlements
+max_settlements = 4
+
+b_guidan_roumdji_NE = castle
+b_maradi_NE = city
+b_chadakori_NE = temple
+
+# Misc
+culture = hausa
+religion = tarikah
+
+#History

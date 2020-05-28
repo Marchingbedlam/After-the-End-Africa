@@ -9,7 +9,7 @@ b_mindif = city
 b_guidiguis = temple
 
 # Misc
-culture = kpelle
-religion = catholic
+culture = kirdi
+religion = anglican
 
 #History

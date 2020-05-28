@@ -8,7 +8,7 @@ b_mokolo = castle
 b_bourrha = city
 
 # Misc
-culture = kpelle
-religion = catholic
+culture = fulbe
+religion = tarikah
 
 #History

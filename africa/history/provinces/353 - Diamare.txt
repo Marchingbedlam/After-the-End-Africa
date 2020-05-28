@@ -8,7 +8,7 @@ b_maroua = castle
 b_makelinguei = temple
 
 # Misc
-culture = kpelle
-religion = catholic
+culture = kirdi
+religion = anglican
 
 #History

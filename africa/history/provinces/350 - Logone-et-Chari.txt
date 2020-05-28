@@ -8,7 +8,7 @@ b_logone_birni = castle
 b_labado = temple
 
 # Misc
-culture = kpelle
-religion = catholic
+culture = baggara
+religion = ashari
 
 #History

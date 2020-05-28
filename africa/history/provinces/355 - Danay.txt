@@ -8,7 +8,7 @@ b_yagoua = castle
 b_datcheka = temple
 
 # Misc
-culture = kpelle
-religion = catholic
+culture = kirdi
+religion = anglican
 
 #History

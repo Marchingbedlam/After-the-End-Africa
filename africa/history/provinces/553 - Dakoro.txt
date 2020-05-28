@@ -8,7 +8,7 @@ b_kornaka_NE = castle
 b_dakoro_NE = city
 
 # Misc
-culture = kpelle
-religion = catholic
+culture = hausa
+religion = ashari
 
 #History

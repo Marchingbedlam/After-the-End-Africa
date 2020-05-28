@@ -9,7 +9,7 @@ b_goudoumaria_NE = city
 b_dungass_NE = temple
 
 # Misc
-culture = kpelle
-religion = catholic
+culture = kanuri
+religion = tarikah
 
 #History

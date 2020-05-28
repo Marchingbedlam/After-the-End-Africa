@@ -88,16 +88,23 @@ gur = {
 		graphical_cultures = { westafricangfx africangfx }
 			
 		male_names = {
-			Dakolé Dangmoworé
-			Faare
+			Antoine_Anthony
+			Boniface
+			Dakolé Dangmoworé Daniel
+			Faare Frederic-Frederick
+			Gabriel
 			Horlina
+			Landry Luc_Lucas
 			Mando Menwa
 			Nenbara
 			Roumgaï
-			Taiwe
+			Taiwe Theophile_Theophilus
 		}
 		
 		female_names = {
+			Annabelle
+			Célestine
+			Estelle
 			Maï-Djare
 			Sarah
 		}

@@ -9,7 +9,7 @@ b_nanguigoto_TD = city
 b_katoa_TD = temple
 
 # Misc
-culture = kpelle
-religion = catholic
+culture = bagirmi
+religion = tarikah
 
 #History

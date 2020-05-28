@@ -9,7 +9,7 @@ b_birni_nkonni_NE = city
 b_tsernaoua_NE = temple
 
 # Misc
-culture = kpelle
-religion = catholic
+culture = hausa
+religion = tarikah
 
 #History

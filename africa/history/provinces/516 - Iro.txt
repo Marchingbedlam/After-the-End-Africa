@@ -9,7 +9,7 @@ b_bohobe_TD = city
 b_boum_kebbir_TD = temple
 
 # Misc
-culture = kpelle
-religion = catholic
+culture = baggara
+religion = ashari
 
 #History
