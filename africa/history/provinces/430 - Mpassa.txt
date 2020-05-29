@@ -9,7 +9,7 @@ b_franceville_GA = city
 b_okoloville_GA = temple
 
 # Misc
-culture = kpelle
+culture = teke
 religion = catholic
 
 #History

@@ -9,7 +9,7 @@ b_lambarene_GA = city
 b_nzorbang_GA = temple
 
 # Misc
-culture = kpelle
+culture = myene
 religion = catholic
 
 #History

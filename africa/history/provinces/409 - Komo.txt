@@ -9,7 +9,7 @@ b_kango_GA = city
 b_zoulameyong_GA = temple
 
 # Misc
-culture = fang
+culture = myene
 religion = catholic
 
 #History

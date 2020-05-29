@@ -249,15 +249,16 @@ bantu = {
 		male_names = {
 			Alain_Alan Ámery André_Andrew Ángel_Angel Anselmo_Anselm Anthony Aristide Armand Armengol Arsène Augustin_Augustine Avelin Axel Aymardo
 			Basil Benedict Benjamin Bienvenudo Boris Bruno Buenaventure_Bonaventure
-			Cándide_Candide Carlos_Carl Casimir Claude Clément_Clement Cosme
+			Cándide_Candide Carlos_Carl Casimir Catiline Claude Clément_Clement Cosme
 			Daniel David Didier Dieudono Donat_Donatus	
-			Edmundo_Edmund Eloy Emerick Emiliano_Aemilius Enrique_Henry Erwin Eusebio_Eusebius
+			Edmundo_Edmund Eloy Emerick Emiliano_Aemilius Enrique_Henry Erwin Eusebio_Eusebius Evrard
 			Fabián_Fabian Fabrice Federick_Frederick Felipe_Philip Florencio_Florence Franck_Francis
 			Gabriel Gregorio_Gregory Gustavo_Gustav
 			Ivan
 			Jacinto Jesús_Jesus Jorge_George José_Joseph Juan_John Jules
 			Lázaro_Lazarus Leandro_Leander Léon_Leon Lino Luis
 			Manuel_Emmanuel Mario_Marius Martin Miguel_Michael
+			Ntoutoume
 			Oscar
 			Pascual_Pascal Pedro_Peter Plácido
 			Ramónd_Raymond Reginald Rémy Ricard_Richard Roben_Ruben Romarick Ruslán
@@ -278,11 +279,11 @@ bantu = {
 			Lucrecia
 			Maria_Mary Milagrosa Montserrat
 			Nadège
-			Raquel_Rachel Regina Rita Rose
+			Raquel_Rachel Regina Reïna-Flor Rita Rose
 		}
 	}
 	beti={
-		color = { 0.5 0.6 0.3 }
+		color = { 0.53 0.36 0.63 }
 		
 		graphical_cultures = { westafricangfx africangfx }
 			
@@ -296,9 +297,9 @@ bantu = {
 			Hans Hervé Hubert
 			Jean_John Jean-Faustin Jean-Jacques Jean-Marie Jean-Pierre Jean-Victor Joseph Jules
 			Louis Louis-Paul Luc_Lucas
-			Marc-Vivien Martin Mathurin Mballa Mfege Mongo
+			Marc-Vivien Martin Mathurin Mballa Mebenga Mfege Mongo
 			Ndono Nkodo Nsudu Ntsama
-			Ondoa Onguene Oscar Owona
+			Oban Ondoa Onguene Oscar Owona
 			Paul Pierre_Peter Pierre-Claude
 			Stève_Stephen
 			Thierry
@@ -332,7 +333,7 @@ bantu = {
 			Jacob James Jean-Alain Jean-Marie Jean-Maxime Jean-Paul Jean-Pierre Joseph
 			Kum Kuo Kwa Kwane
 			Lobé Lock Louis
-			Mapoka Mase Mbape Mbedi Mbimbi Mbongo Meinrad Mokule Monanga Moukoko Mpondo Mukonga Mulabe
+			Madola Mapoka Mase Mbape Mbedi Mbimbi Mbongo Meinrad Mokule Monanga Moukoko Mpondo Mukonga Mulabe
 			Ndumbé Ngando Ngie Ngombe
 			Patrick Paul Priso
 			René Roger Roudolphe_Rudolph
@@ -359,7 +360,7 @@ bantu = {
 			
 		male_names = {
 			Adrien_Adrian Alain_alan Albert Auguste_Augustus
-			Bernard
+			Banoho Bernard
 			Charles
 			David
 			Ilo
@@ -740,6 +741,54 @@ bantu = {
 			Kanuni
 			Petrina
 			Regina Rosa_Rose Rosalia
+		}
+	}
+	myene = {
+		color = { 1.0 0.66 0.08 }
+
+		graphical_cultures = { westafricangfx africangfx }
+
+		male_names = {
+			Adandè Ademba Adiwenyanga Adiombompolo Agaya Agambwè Alèka Aléwina Akaga Akanda Akendengué_Kende Akérè Aliwa Agnemby_Animbi Anguilet Amalè Ampoumet André_Andrew Apandina Atchandiet_Ntchandi Avouélé Avilanagno Awérégosamu Awongo Azilé Azizet_Ziza Awiri Agwempono Assiga Antchouwé Antouke-Kowè
+			Boris-Claude Boucka Bruno
+			Casimir-Marie Charles
+			Djanivenda Denis
+			Edouard_Edward Embongo Emerick Enami Enawi Egômbyawena Eléwanyè Eliwa Essongué Eteno Eyaghé Eyaré
+			Fanguinoveni
+			Georges_George
+			Ibékélia Igondjo Imunga Imbwiri_Awiri Idyombayogo Inchonoranga Indjendjet
+			Jean_John Jean-Baptiste Jean-François Jean-Rémy Joseph Jules Jules-Aristide
+			Kende Kowé
+			Lawson Louis Louis-Emile
+			Marcel Menguila Maguisset Mandakwéno Mpemba Mpira Mondjorou
+			Namalè_Amalè Nyamalè_Amalè Ntchandi Numbogo Ndébulia Ndjambé Nkolo Nkombé Nkombegnondo Nkorouna Nkowan Ntchorere Ntchungusono Ntchuwa Ntchoungouwa
+			Ondéno-Rébiéno Odjili Ogandaga Ogoumbogani Ogoula Ogowè Olago_Rolago Ològò Omanda_Owanda Owanda Onouviet Ozimo Ozouaki_Joachim Ozunguè Ogombé Ogoula
+			Paul-Marie Pierre_Peter Pierre-Auguste Pierre-Claver
+			Rassindina Rédjambé Rolago Radembino Ranozino Rapontchombo Rémboko Rénkolombya Réboucka_Boucka Rébéla Réntcholo Réndambo Reteno_Eteno Rassondji R'Ogouarowe Rogombé_Ogombé Robaki Romarick Rénwombi
+			Tchango-mbya Tapoyo
+			Vendakambano
+			Yannick
+			Ziza
+		}
+
+		female_names = {
+			Adèle Agnorogoulè Agondjo Akaga Akandè Akendengué_Kende Agnemby_Animbi Anguilet Ambamani Anina Atchandiet_Ntchandi Avilanagno Avouélé Awongo Ayéla Azilé Azizet_Ziza Awiri Antchouet Awora Angèle
+			Benga
+			Chechina
+			Djanivenda Dembinya
+			Egômbyawena Eléwanyè Eliwa Esongé Evila Evouandénoréma
+			Flavienne Francine
+			Honorine
+			Ibékélia Igondjo Imbwiri Ibika Inanga Intchango Inguéza Iwenga
+			Jna
+			Kende
+			Menguila Mboumba Mpenga
+			Ntchandi Ngondè Ngwanyoni Ngwéranga Ngwirunda Ngwessono Nianto Nkendini Nkoma Nkolonanga Nkorouna Ntchorere Ntchuoua_Antchouet Ntchungusono Ntchoungouwa Ngompaza Ntyugwetondo
+			Oguéwa Ogandaga Ogoumbogani Okili Okuwa Oliwina Omwèssa Opediuwa Orema Ozenga Ozimo Oronga Olga
+			Rapono Rébyénot Renkélé Rétiga Rose
+			Salet Sombouné 
+			Wonguignewo Wora_Awora
+			Ziza
 		}
 	}
 }
