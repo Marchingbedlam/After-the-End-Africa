@@ -8,7 +8,7 @@ b_cacolo = castle
 b_mamiei = temple
 
 # Misc
-culture = noculture
+culture = chokwe
 religion = catholic
 
 #History

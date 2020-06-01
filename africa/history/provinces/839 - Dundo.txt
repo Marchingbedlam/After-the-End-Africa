@@ -9,7 +9,7 @@ b_dundo = city
 b_portugalia = temple
 
 # Misc
-culture = noculture
+culture = chokwe
 religion = catholic
 
 #History

@@ -9,7 +9,7 @@ b_lumeje_kameia = city
 b_camanongue = temple
 
 # Misc
-culture = noculture
+culture = chokwe
 religion = catholic
 
 #History

@@ -7,7 +7,7 @@ max_settlements = 3
 b_mbam_et_kim = castle
 
 # Misc
-culture = mambiloid
+culture = mambila
 religion = catholic
 
 #History

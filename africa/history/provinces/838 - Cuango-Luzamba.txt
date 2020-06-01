@@ -9,7 +9,7 @@ b_cuango_luzamba = city
 b_capenda_camulemba = temple
 
 # Misc
-culture = noculture
+culture = chokwe
 religion = catholic
 
 #History

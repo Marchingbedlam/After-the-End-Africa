@@ -8,7 +8,7 @@ b_ganzi_GA = castle
 b_makokou_GA = city
 
 # Misc
-culture = kpelle
+culture = kota
 religion = catholic
 
 #History

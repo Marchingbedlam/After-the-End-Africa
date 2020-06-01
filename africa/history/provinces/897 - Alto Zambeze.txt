@@ -8,7 +8,7 @@ b_cacande = castle
 b_cazombo = city
 
 # Misc
-culture = noculture
+culture = lunda
 religion = catholic
 
 #History

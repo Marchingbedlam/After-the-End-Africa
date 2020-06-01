@@ -9,7 +9,7 @@ b_menongue = city
 b_longa = temple
 
 # Misc
-culture = noculture
+culture = lunda
 religion = catholic
 
 #History

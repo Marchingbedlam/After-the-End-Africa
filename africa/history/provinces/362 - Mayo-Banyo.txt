@@ -7,7 +7,7 @@ max_settlements = 3
 b_mayo_banyo = castle
 
 # Misc
-culture = kpelle
-religion = catholic
+culture = tikar
+religion = tarikah
 
 #History

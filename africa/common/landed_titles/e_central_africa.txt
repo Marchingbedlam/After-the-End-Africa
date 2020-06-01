@@ -223,7 +223,7 @@ e_central_africa = {
 				b_assosseng = {}
 				b_mvangue = {}
 			}
-			c_valee_du_ntem = {
+			c_vallee_du_ntem = {
 				color={ 54 188 132 }
 				color2={ 255 255 255 }
 

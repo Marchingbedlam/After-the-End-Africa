@@ -7,7 +7,7 @@ max_settlements = 3
 b_massangam = castle
 
 # Misc
-culture = grassfields
-religion = catholic
+culture = tikar
+religion = tarikah
 
 #History

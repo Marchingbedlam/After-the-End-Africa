@@ -8,7 +8,7 @@ b_pimbe = castle
 b_saurimo = city
 
 # Misc
-culture = noculture
+culture = chokwe
 religion = catholic
 
 #History

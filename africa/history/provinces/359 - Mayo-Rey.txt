@@ -4,10 +4,10 @@ title = c_mayo_rey
 # Settlements
 max_settlements = 3
 
-b_rey = castle
+b_tchollire = castle
 
 # Misc
-culture = kpelle
-religion = catholic
+culture = fulbe
+religion = tarikah
 
 #History

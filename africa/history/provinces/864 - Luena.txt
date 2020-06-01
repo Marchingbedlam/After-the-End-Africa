@@ -9,7 +9,7 @@ b_luena = city
 b_santo_caloto = temple
 
 # Misc
-culture = noculture
+culture = lunda
 religion = catholic
 
 #History

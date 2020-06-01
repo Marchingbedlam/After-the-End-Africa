@@ -168,7 +168,7 @@ sahel = {
 	zaghawa = {
 		graphical_cultures = { westafricangfx africangfx }
 		
-		color = { 0.9 0.7 0.9 }
+		color = { 0.8 0.8 0.8 }
 		
 		male_names = {
 			Abbo Abdallah_Abdullah Abdarahman_Abdul-Rahman Abdelkérim_Abdul-Karim Abdul Adam Ahmed Ali
@@ -216,7 +216,7 @@ sahel = {
 	sara = {
 		graphical_cultures = { westafricangfx africangfx }
 		
-		color = { 0.9 0.7 0.9 }
+		color = { 0.99 0.77 0.55 }
 		
 		male_names = {
 			Abdarahman_Abdul-Rahman Abdelkérim_Abdul-Karim Abdoulaye_Abdullah Adoumadji Alladangar Asede

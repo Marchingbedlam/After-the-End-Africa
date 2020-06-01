@@ -9,7 +9,7 @@ b_camacupa = city
 b_chissamba = temple
 
 # Misc
-culture = ovimbundu
+culture = chokwe
 religion = catholic
 
 #History

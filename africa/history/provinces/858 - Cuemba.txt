@@ -9,7 +9,7 @@ b_cuemba = city
 b_munhango = temple
 
 # Misc
-culture = ovimbundu
+culture = chokwe
 religion = catholic
 
 #History

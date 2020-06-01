@@ -7,7 +7,7 @@ max_settlements = 3
 b_inoubou = castle
 
 # Misc
-culture = kpelle
+culture = tikar
 religion = catholic
 
 #History

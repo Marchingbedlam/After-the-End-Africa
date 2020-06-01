@@ -9,7 +9,7 @@ b_dala = city
 b_biula = temple
 
 # Misc
-culture = noculture
+culture = chokwe
 religion = catholic
 
 #History

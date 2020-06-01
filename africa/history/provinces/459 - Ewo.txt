@@ -7,7 +7,7 @@ max_settlements = 2
 b_ewo = castle
 
 # Misc
-culture = kpelle
+culture = kota
 religion = catholic
 
 #History

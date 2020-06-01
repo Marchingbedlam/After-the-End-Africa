@@ -9,7 +9,7 @@ b_gembu_2 = temple
 b_gembu_3 = city
 
 # Misc
-culture = mambiloid
+culture = mambila
 religion = anglican
 
 #History

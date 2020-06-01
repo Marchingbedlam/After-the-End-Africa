@@ -9,7 +9,7 @@ b_cuito_cuanavale = city
 b_milenge = temple
 
 # Misc
-culture = noculture
+culture = lunda
 religion = catholic
 
 #History

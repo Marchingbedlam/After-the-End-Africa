@@ -82,23 +82,24 @@ bantu = {
 		graphical_cultures = { westafricangfx africangfx }
 			
 		male_names = {
-			Abumbi Achidi Achirimbi Adolphe Alain_Alan Albert Angwafo Antoine_Anthony Armand Augustine
+			Abenicot Abumbi Achidi Achirimbi Adolphe Alain_Alan Albert Angwafo Antoine_Anthony Armand Augustine
 			Bernard Bruno
 			Cornelius Claude
-			Didier
-			Ebai Emery Ernest
+			Didier Duclair
+			Ebai Edward Emery Eric_Erik Ernest
 			Fifen Fomukong Fongang Fontem Fonyuy Francis Franklin
 			Gawolbe Gerald Geremi Ghounam
+			Isaac
 			Jessic John
 			Kadji Kammogne Koagne Koutou
 			Leonard
 			Mathias_Matthew Maurice Mbah Mbeikuo Mbinglo Mbiybe Mbombo Mbouombouo Mengap Michael Monjou
 			Nchare Nchifor Ndefru Ndeh Ngafin Ngbetnkom Ngapna Ngoran Ngouh Ngon Ngouhouo Ngouloure Ngoungoure Ngoupou Ngu Njimoluh Njitap Njoya Nsangou Nzante
-			Pascal Paul
+			Pascal Patrice_Patrick Paul
 			Rigobert Roussel_Russel
 			Salomon_Solomon Samuel Simon Stephen
 			Tandeng Tebo Theodore Thierry Thomas
-			Valery_Valerius Victor Vincent
+			Valentin Valery_Valerius Victor Vincent
 			Wiyghan
 			Zavier_Xavier
 		}
@@ -117,41 +118,37 @@ bantu = {
 		}
 	}
 	
-	mambiloid={
+	mambila={
 		color = { 0.51 0.63 0.85 }
 		
 		graphical_cultures = { westafricangfx africangfx }
 			
 		male_names = {
-			Aondochimba Aondohimba 
-			Bem Boseda 
-			Gowon 
-			Teremun Tertsegha Tor Tyehimba 
-			Wandoo
-			
-			Amosa Kaytuhn Kemajou Kwamba Mbe Tohnain
-			
-			Builsa Babato Gazari Alfa Dyori Bako Laganfyela Ali Kokoroko Sabana Tyeba Pintyeba Karamoko Sapilem Nyambre Salma Korongo Koom Yamba Tigre
-			
-			Sapilem Nyambre Salma Korongo Koom Yamba Sorgo Tigre Dulugu Sawadogo Karfo Baongo Kutu Sanum Wobgo Mazi 
-			Sigiri Kugri Yadega Yolomfaogona Kourita Geda Wobgho Kango Saaga Kaongo Tuguri Korogo Ragongo Wobgo 
-			Nyambe Moogo Totebaldbo Yemde Sanum Woboga Piiyo Bulli Wedraogo Ligidi Kobga Gigma Dramani
+			Abdulbari Atiku Auwal
+			Bawuro
+			Ego
+			Faisal
+			Gamsi Ganfi Garba Gawanum Gembersi Gouah Gwalé
+			Hamidu Horedjo
+			Ibrahim_Abraham Ismail_Ishmael Israel Issa_Jesus
+			Jawro Jonas Joseph
+			Kélamé Kémé Konaka
+			Léon Lobon Londam
+			Martin Mbiengui Mgbekemé Mgbwé
+			Ndi Ndijolomo Ngenedong Njaibi Nju Norkoma Nyanggi
+			Philippe_Philip
+			Samuel Séo Simchu Sylvester
+			Tah
+			Wakatsha Wé Wong
+			Yabon Yaji Yié Yilayor Yokoten
+			Zacharé_Zachary
 		}
 		
 		female_names = {
-			Hembadoon 
-			Ityiarmbiamo Iverem 
-			Limber 
-			Mhnonum Mhonum Morihinze 
-			Shiminege 
-			Wandoo 
-			Yahimba
-			
-			Poko Kenga Adaeze Adanna Adannaya Akachi Akuchi Amaka Schiamaka Amara Amarachi Añuli Chi 
-			Chiamaka Chibueze Chibuike Chibuzo Chichi Chidi Chidiebere Chidiebube Chidiegwu Chidimma Chijindum Chika  
-			Chike Chikelu Chikere Chinasa Chinedu Chinonso Chinwe Chinweike Chinwendu Chinweuba Chinyelu Chinyere 
-			Chioma Chizoba Ebele Ekene Ekenedilichukwu Fumnanya Funanya Ndidi Ngozi Nkechi Nkechinyere Nkemdilim Nkiru 
-			Nkiruka Nneka Nnenna Nnenne Nwanneka Ogechi Ogechukwukama Oluchi Onyeka Onyekachi Onyekachukwu Udo Uzoma
+			Bere
+			Marceline
+			Njehtie
+			Weke
 		}
 	}
 	
@@ -257,8 +254,8 @@ bantu = {
 			Ivan
 			Jacinto Jesús_Jesus Jorge_George José_Joseph Juan_John Jules
 			Lázaro_Lazarus Leandro_Leander Léon_Leon Lino Luis
-			Manuel_Emmanuel Mario_Marius Martin Miguel_Michael
-			Ntoutoume
+			Manuel_Emmanuel Mario_Marius Martin Miguel_Michael Mimbare
+			Ntoutoume Nyangone
 			Oscar
 			Pascual_Pascal Pedro_Peter Plácido
 			Ramónd_Raymond Reginald Rémy Ricard_Richard Roben_Ruben Romarick Ruslán
@@ -290,31 +287,37 @@ bantu = {
 		male_names = {
 			Abe Achille Akeva Alexis André_Andrew André-Franck Atana
 			Biyidi
-			Charles Cyrille_Cyril
-			Émil_Aemilius Enyege Essomba
+			Camille Castor Charles Chrysogone Cyrille_Cyril
+			Edy-Nicolas Elie-Victor Émil_Aemilius Enyege Essomba
 			Faustin Ferdinand Franck_Francis
-			Gaston George
+			Gabriel Gaston George
 			Hans Hervé Hubert
-			Jean_John Jean-Faustin Jean-Jacques Jean-Marie Jean-Pierre Jean-Victor Joseph Jules
-			Louis Louis-Paul Luc_Lucas
+			Jean_John Jean-Faustin Jean-Jacques Jean-Marie Jean-Pierre Jean-Simon Jean-Victor Joseph Jules
+			Laurent Louis Louis-Paul Luc_Lucas
 			Marc-Vivien Martin Mathurin Mballa Mebenga Mfege Mongo
 			Ndono Nkodo Nsudu Ntsama
-			Oban Ondoa Onguene Oscar Owona
+			Oban Ondoa Onguene Oscar Osendé Owona
 			Paul Pierre_Peter Pierre-Claude
-			Stève_Stephen
+			Raymond
+			Severin Stève_Stephen
 			Thierry
 			Ulrich
+			Valentin Vincent
 			Yannick
 			Zoa
 		}
 		
 		female_names = {
 			Adèle_Adele Agnès_Agnes Aurelle
-			Emma Estelle
-			Francine
+			Claudine
+			Delphine
+			Emma Estelle Eugenie
+			Florence Francine
 			Gisèle
 			Katerina_Catherine
-			Marie_Mary Marie-Agnès Marie-Gisèle
+			Léonie
+			Madeleine Marie_Mary Marie-Agnès Marie-Gisèle
+			Yvette
 		}
 	}
 	sawa={
@@ -323,18 +326,20 @@ bantu = {
 		graphical_cultures = { westafricangfx africangfx }
 			
 		male_names = {
-			Adolphe_Adolf Albert Alexander Aloys
-			Betote
+			Abel Adolphe_Adolf Albert Alexander Aloys
+			Betote Bruno
+			Calvin
 			Dibongo Dika
-			Ebele Ekambi Ekwala Elame Emmanuel Eric Ernest Essaka Ewale Ewonde Eyum
+			Ebele Edouard_Edward Ekambi Ekwala Elame Emmanuel Eric Ernest Essaka Ewale Ewonde Eyoum
 			Fike Francis
-			Herman
+			Henri_Henry Herman
 			Isuwu
-			Jacob James Jean-Alain Jean-Marie Jean-Maxime Jean-Paul Jean-Pierre Joseph
+			Jacob Jacques James Jean-Alain Jean-Jacques Jean-Marie Jean-Maxime Jean-Paul Jean-Pierre Joseph
 			Kum Kuo Kwa Kwane
 			Lobé Lock Louis
-			Madola Mapoka Mase Mbape Mbedi Mbimbi Mbongo Meinrad Mokule Monanga Moukoko Mpondo Mukonga Mulabe
+			Madola Mapoka Mase Mbape Mbedi Mbimbi Mbongo Meinrad Mokule Monanga Moukoko Moulema Mpondo Mukonga Mulabe
 			Ndumbé Ngando Ngie Ngombe
+			Oscar
 			Patrick Paul Priso
 			René Roger Roudolphe_Rudolph
 			Samuel
@@ -555,7 +560,7 @@ bantu = {
 			Jamwo
 			Kabuko Kahete Kakengo Kalanda Kalanyi Kalomba Kalunga Kamasa Kambunje Kampombwe Kamweje Kapenda Kasa Kasanje Kasela Kayombe Kibonde Kikata Kihengo Kinda Kitumba Kulembe
 			Lubame Lukala
-			Maju Malenge Malundo Mateyu_Matthew Mbumba Mlonga Moise_Moses Muhungo Mujinga Mulundu Munkanta Musongo Mushota Mutombo Mwaku Mwanya Mwinempanda
+			Maju Malenge Malundo Mateyu_Matthew Mbumba Mlonga Moise_Moses Muhungo Mujinga Mulundu Munkanta Musongo Mushota Muteba Mutombo Mwaku Mwanya Mwinempanda
 			Ndumba Ngonga Ngunza Ngwangwa Njinje Nkuba Noeji Nomwimbo Nowa_Noah
 			Pande Pascal Paul Petulu_Peter
 			Rodrigue_Roderick
@@ -567,7 +572,7 @@ bantu = {
 			Kalomba Kasela
 			Lueji Luwi
 			Marie_Mary Mujinga
-			Nachituti Nyampweji
+			Nachituti Nyakulenga Nyampweji
 		}
 	}
 	zulu={
@@ -757,7 +762,7 @@ bantu = {
 			Fanguinoveni
 			Georges_George
 			Ibékélia Igondjo Imunga Imbwiri_Awiri Idyombayogo Inchonoranga Indjendjet
-			Jean_John Jean-Baptiste Jean-François Jean-Rémy Joseph Jules Jules-Aristide
+			Jean_John Jean-Baptiste Jean-François Jean-Hilaire Jean-Rémy Joseph Jules Jules-Aristide
 			Kende Kowé
 			Lawson Louis Louis-Emile
 			Marcel Menguila Maguisset Mandakwéno Mpemba Mpira Mondjorou
@@ -765,7 +770,7 @@ bantu = {
 			Ondéno-Rébiéno Odjili Ogandaga Ogoumbogani Ogoula Ogowè Olago_Rolago Ològò Omanda_Owanda Owanda Onouviet Ozimo Ozouaki_Joachim Ozunguè Ogombé Ogoula
 			Paul-Marie Pierre_Peter Pierre-Auguste Pierre-Claver
 			Rassindina Rédjambé Rolago Radembino Ranozino Rapontchombo Rémboko Rénkolombya Réboucka_Boucka Rébéla Réntcholo Réndambo Reteno_Eteno Rassondji R'Ogouarowe Rogombé_Ogombé Robaki Romarick Rénwombi
-			Tchango-mbya Tapoyo
+			Tchango-mbya Tapoyo Thomas-Dydyme
 			Vendakambano
 			Yannick
 			Ziza
@@ -790,5 +795,170 @@ bantu = {
 			Wonguignewo Wora_Awora
 			Ziza
 		}
+	}
+	punu={
+		color = { 0.44 0.66 0.77 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+			
+		male_names = {
+			André_Andrew Antoine_Anthony Athanase
+			Cédric
+			Daniel
+			Félix_Felix
+			Gauthier Gustave_Gustav Guy
+			Jean_John Jean-Baptiste Jean-Claude Joseph
+			Léon_Leo Lionel
+			Mitongou
+			Ndinga
+			Paul Paul-Marie Pierre Pierre-Claver
+			Raymond
+			Séraphin
+			Thomas-Dydyme
+		}
+		
+		female_names = {
+			Agathe Angélique_Angelica
+			Béatrice_Beatrice
+			Catherine Christine
+			Emilienne Estelle
+			Florence
+			Jeanne_Joan Jeannette Julienne
+			Madeleine Marie-Noëlle Monique
+			Odette
+		}
+	}
+	chokwe={
+		color = { 0.80 0.50 0.30 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+			
+		male_names = {
+			Chikomo Chilombo Chiminyi Chipango Chisambwe Chiseke Chisengo Chisola Chitengi Chivunda Chiyambi Chumba
+			Ezekele_Ezekiel
+			Fernando Fulayi Funga Fwalanga Fwenete
+			Ilunga Isaki_Isaac
+			Jhita
+			Kahembi Kahilu Kakoma Kalwiji Kamana Kameya Kamiji Kapalu Kapasa Kasoka Kasweka Khekhe
+			Likoji Lumayi Lwenyeka
+			Mafwo Malasa Masoji Mayiji Mbenge Mbuya Misongo Mukundi Mulombwe Musole Mutondo Muzala Mwamushiko Mwatiavue
+			Ndanyele_Daniel Ndoyesa
+			Paulu_Paul Petelu_Peter
+			Sachiwe Sakuwaha Salumbu Saulu_Saul Shamuna Sonyi
+			Thachi Toloshi Tomase_Thomas
+			Uhewmya
+			Vihemba Vula
+			Weyecha
+			Yelemiya_Jeremiah Yopa_Job
+			Zakaliya_Zachary Zakeu Zangi
+		}
+		
+		female_names = {
+			Ana_Anne
+			Chilombo Chiminyi Chimupi Chipango Chipema Chisambwe Chiseke Chisola Chitotenema Chivunda
+			Eseta_Esther
+			Kahembi Kalwiji Kamana Kameya Kamiji Kamwengo Kapasa Kasweka Khekhe
+			Libingi Likoji Liseli Luthe_Ruth Lwenyeka
+			Mafwo Malasa Masoji Mayiji Mbuya Misongo Mujinga Mukundi Mulevwana Mungole Musole Mutondo
+			Omba
+			Pezo
+			Sakuwaha Sonyi
+			Twatwa
+			Uhewmya
+			Vihemba Vula
+			Weyecha
+		}
+	}
+	kota={
+		color = { 0.33 0.55 0.66 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+			
+		male_names = {
+			Alexandre_Alexander
+			Emmanuel
+			Franck_Francis
+			Jean_John
+			Marc_Mark
+			Thibault Thomas
+		}
+		
+		female_names = {
+			Georgette
+		}
+	}
+	makaa={
+		color = { 0.55 0.77 0.88 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+			
+		male_names = {
+			Gustave_Gustav
+			Joseph
+			Pierre_Peter
+		}
+		
+		female_names = {
+			Marie_Mary
+		}
+	}
+	bassa={
+		color = { 0.40 0.22 0.33 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+			
+		male_names = {
+			Édounga Ékongo Étienne_Stephen
+			Hans
+			Jean-John Joël_Joel
+			Lazare
+			Marius Maurice
+			Nsing
+			Patrice Pierre_Peter
+			Raphaël_Raphael Raymond
+		}
+		
+		female_names = {
+			Agrippine Akamba Awoundza
+			Casmile
+			Essah
+			Jeanne_Joan
+			Marie_Mary Marie-Solange
+			Nathalie
+			Werewere
+			Zobo
+		}
+	}
+	tikar={
+		color = { 0.74 0.46 0.67 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+			
+		male_names = {
+			Aboubakar_Abu-Bakr Adamou_Adam Ahmadou_Ahmed Alidou Arouna_Aaron
+			Benjamin Bentkom Bifon Bitegni
+			Chouaibou_Shuayb
+			Daouda_David
+			Fifen
+			Gbethnkom Guie
+			Ibrahim_Abraham
+			Jidah
+			Keman Kuoto
+			Mama Mbiekouo Mbombo Mengap Morunta
+			Ndiomo Ngapna Ngavhe Ngulume Ngupu Nguwo Njare Njimoluh Njoya Nouotou Nsangou
+			Seidou_Said Soule_Solomon
+			Tinki
+			Zacharie_Zachary
+		}
+		
+		female_names = {
+			Adamam
+			Florence
+			Ngonnso
+		}
+
+		male_patronym = "a "
+		female_patronym = "a "
+		prefix = yes 
 	}
 }

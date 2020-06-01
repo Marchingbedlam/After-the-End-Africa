@@ -7,7 +7,7 @@ max_settlements = 3
 b_abong_mbang = castle
 
 # Misc
-culture = kpelle
+culture = makaa
 religion = catholic
 
 #History

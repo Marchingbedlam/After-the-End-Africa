@@ -9,7 +9,7 @@ b_lumbala_nguimbo = city
 b_macai = temple
 
 # Misc
-culture = noculture
+culture = lunda
 religion = catholic
 
 #History

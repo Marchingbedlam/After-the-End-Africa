@@ -9,7 +9,7 @@ b_luau = city
 b_cuasa = temple
 
 # Misc
-culture = noculture
+culture = lunda
 religion = catholic
 
 #History

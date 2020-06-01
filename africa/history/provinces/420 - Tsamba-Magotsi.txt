@@ -9,7 +9,7 @@ b_sindara_GA = city
 b_guidouma_GA = temple
 
 # Misc
-culture = kpelle
+culture = punu
 religion = catholic
 
 #History
