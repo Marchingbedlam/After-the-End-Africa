@@ -1,0 +1,13 @@
+# County Title
+title = c_tazrouk
+
+# Settlements
+max_settlements = 3
+
+b_tazrouk = tribal
+
+# Misc
+culture = tuareg
+religion = ashari
+
+#History

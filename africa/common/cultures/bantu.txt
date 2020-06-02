@@ -418,7 +418,7 @@ bantu = {
 			
 		male_names = {
 			Abel Alexandre_Alexander Alexandre-Ferdinand André_Andrew André-Dieudonné Ange-Félix Anicet-Georges Anicet-Richard Antoine_Anthony
-			Barthélemy_Bartholomew Béranger-Aymard Bernard Bruno Bruno-Nazaire
+			Barthélemy_Bartholomew Béranger-Aymard Bernard Bosokuma Bruno Bruno-Nazaire
 			Casimir Célestin_Celestine Charlemagne Charles Christophe_Christopher Clovis Constantin_Constantine
 			David Dobogon
 			Édouard_Edward Élie_Elijah Eloge Enoch Eudes_Otto
@@ -433,6 +433,7 @@ bantu = {
 			Raphaël_Raphael Raymond Régis Robert Romuald
 			Saint-Cyr Simplice Sylvestre_Sylvester
 			Timothée_Timothy
+			Yaloké
 		}
 		
 		female_names = {
@@ -447,6 +448,47 @@ bantu = {
 			Nathalie_Natalie Nicole
 			Philomene
 			Sylvie_Sylvia
+		}
+	}
+	banda={
+		color = { 0.15 0.77 0.14 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+			
+		male_names = {
+			Abel Achille_Achilles Alexandre_Alexander André_Andrew
+			Célestin
+			Didier
+			Étienne_Stephen
+			Henri_Henry
+			Leroy
+		}
+		
+		female_names = {
+			Augustine
+			Marie_Mary Marie-Josèphe
+		}
+	}
+	sango={
+		color = { 0.47 0.71 0.11 }
+		
+		graphical_cultures = { westafricangfx africangfx }
+			
+		male_names = {
+			Abel Achille_Achilles Albéric Albert-Philippe Alexandre_Alexander André_Andrew
+			Célestin
+			Didier
+			Giala
+			Henri_Henry
+			Joseph Joseph-Désiré
+			Kassanga Konga Kongulu
+			Leroy Lézian
+			Ndounga Ngoungbengué Nyiwa Nzanga
+		}
+		
+		female_names = {
+			Augustine
+			Marie_Mary Marie-Josèphe Marie-Madeleine
 		}
 	}
 	ambundu={
@@ -754,22 +796,22 @@ bantu = {
 		graphical_cultures = { westafricangfx africangfx }
 
 		male_names = {
-			Adandè Ademba Adiwenyanga Adiombompolo Agaya Agambwè Alèka Aléwina Akaga Akanda Akendengué_Kende Akérè Aliwa Agnemby_Animbi Anguilet Amalè Ampoumet André_Andrew Apandina Atchandiet_Ntchandi Avouélé Avilanagno Awérégosamu Awongo Azilé Azizet_Ziza Awiri Agwempono Assiga Antchouwé Antouke-Kowè
+			Adandè Ademba Adiwenyanga Adiombompolo Agaya Agambwè Alèka Aléwina Akaga Akanda Akendengué_Kende Akérè Aliwa Agnemby_Animbi Anguilet Amalè Ampoumet André_Andrew Anjanga Apandina Atchandiet_Ntchandi Avouélé Avilanagno Awérégosamu Awongo Azilé Azizet_Ziza Awiri Agwempono Assiga Antchouwé Antouke-Kowè
 			Boris-Claude Boucka Bruno
 			Casimir-Marie Charles
 			Djanivenda Denis
-			Edouard_Edward Embongo Emerick Enami Enawi Egômbyawena Eléwanyè Eliwa Essongué Eteno Eyaghé Eyaré
+			Edouard_Edward Embongo Emerick Enami Enawi Egômbyawena Eléwanyè Eliwa Essongué Eteno Etoulo Eyaghé Eyaré
 			Fanguinoveni
 			Georges_George
 			Ibékélia Igondjo Imunga Imbwiri_Awiri Idyombayogo Inchonoranga Indjendjet
 			Jean_John Jean-Baptiste Jean-François Jean-Hilaire Jean-Rémy Joseph Jules Jules-Aristide
 			Kende Kowé
-			Lawson Louis Louis-Emile
+			Lawson Loembe Louis Louis-Emile
 			Marcel Menguila Maguisset Mandakwéno Mpemba Mpira Mondjorou
 			Namalè_Amalè Nyamalè_Amalè Ntchandi Numbogo Ndébulia Ndjambé Nkolo Nkombé Nkombegnondo Nkorouna Nkowan Ntchorere Ntchungusono Ntchuwa Ntchoungouwa
 			Ondéno-Rébiéno Odjili Ogandaga Ogoumbogani Ogoula Ogowè Olago_Rolago Ològò Omanda_Owanda Owanda Onouviet Ozimo Ozouaki_Joachim Ozunguè Ogombé Ogoula
 			Paul-Marie Pierre_Peter Pierre-Auguste Pierre-Claver
-			Rassindina Rédjambé Rolago Radembino Ranozino Rapontchombo Rémboko Rénkolombya Réboucka_Boucka Rébéla Réntcholo Réndambo Reteno_Eteno Rassondji R'Ogouarowe Rogombé_Ogombé Robaki Romarick Rénwombi
+			Ragombo Rassindina Rédjambé Rolago Radembino Ranozino Rapontchombo Rémboko Rénkolombya Réboucka_Boucka Rébéla Réntcholo Réndambo Reteno_Eteno Repero Rassondji R'Ogouarowe Rogombé_Ogombé Robaki Romarick Rénwombi
 			Tchango-mbya Tapoyo Thomas-Dydyme
 			Vendakambano
 			Yannick

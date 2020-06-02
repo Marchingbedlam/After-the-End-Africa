@@ -9,7 +9,7 @@ b_mongo_TD = city
 b_niergui_TD = temple
 
 # Misc
-culture = zaghawa
+culture = hadjarai
 religion = ashari
 
 #History

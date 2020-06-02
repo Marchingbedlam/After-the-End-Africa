@@ -417,4 +417,42 @@ arabic = {
 		female_patronym = "bint "
 		prefix = yes 
 	}
+	swahili = {
+		graphical_cultures = { westafricangfx arabicgfx muslimgfx }
+		
+		color = { 0.3 0.9 0.3 }
+		
+		male_names = {
+			Abdalla_Abdullah Abdulrahman Abdulrazak Abeid Ahmed Ali Amani Amir Atul Awadh
+			Baraka Barghash Bushir
+			Dawud_David
+			Farrokh_Faruk
+			Gharib
+			Haroun_Aaron Hassan Hussein
+			Ibrahim_Abraham Idris Ismail Issa_Jesus
+			Jakaya Juma
+			Kassim Khalid Khalifa Khatib Kiwab
+			Makame Maqbul Masoud Mohammed
+			Najib
+			Omar
+			Rajab Rashid
+			Sabhat Said Saleh Salim Seif Shaaban Shamsi Shamte Suleiman_Solomon
+			Yunus_Jonas Yussuf_Joseph
+		}
+		female_names = {
+			Amina Asha
+			Bahati
+			Fardosa Fatuma
+			Khadija
+			Lubaina	
+			Malaika Mariam_Mary
+			Samia Sayyida Siti
+			Zakia Zuleikha
+		}
+		
+
+		male_patronym = "bin "
+		female_patronym = "binti "
+		prefix = yes 
+	}
 }

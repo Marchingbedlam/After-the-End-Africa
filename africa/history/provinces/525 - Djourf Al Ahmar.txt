@@ -9,7 +9,7 @@ b_magrane_TD = city
 b_haouich_TD = temple
 
 # Misc
-culture = zaghawa
+culture = hadjarai
 religion = ashari
 
 #History

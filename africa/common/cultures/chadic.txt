@@ -130,9 +130,27 @@ east_chadic = {
 		graphical_cultures = { westafricangfx africangfx }
 			
 		male_names = {
+			Abdelkarim Abdelatif Abdoulaye_Abdullah Abdrahman Abgoudja Abinon Abulqasim Adoum Ali
+			Bakhit Baradine Bolad
+			Dahab
+			Farouk_Faruk
+			Goundoul
+			Hamata Hassaballah Hassan
+			Ibrahim_Abraham Idriss Ishaq Ismail Issa_Jesus
+			Kedellah Khamis
+			Maldoum Moustafa_Mustafa Muhammad
+			Rumsam
+			Sabun Sharudine Souleymane_Solomon Sulbuta
+			Taher Tayrab Tindhim
+			Umar
+			Walatuma
+			Yacoub_Jacob Younouss_Jonah
 		}
 		
 		female_names = {
+			Fatouma_Fatima
+			Mariam_Mary
+			Zenaba_Zaynab
 		}
 
 	}

@@ -7,7 +7,7 @@ max_settlements = 3
 b_bambari = castle
 
 # Misc
-culture = kpelle
+culture = sango
 religion = catholic
 
 #History

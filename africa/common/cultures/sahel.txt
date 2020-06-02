@@ -254,7 +254,7 @@ sahel = {
 			Abdoulaye_Abdullah Abdramane_Abdul-Rahman "Abdul Gashé" "Abdul Qadir" Ali "Ali Kaïdala" Araki
 			Balwa "Bayé Mortcho" Beïso Brahim_Abraham Burkomanda
 			Chagrami
-			Dalai Dikhona Djili Djourab Dogo "Dogo Arma" Dokkengué Dounouma
+			Dalai Dikhona Djili Djougoultoum Djourab Dogo "Dogo Arma" Dokkengué Dounouma
 			Gaourang
 			Hassan "Hassan Absakin"
 			Idriss_Idris Ismaïl_Ishmael Issa_Jesus

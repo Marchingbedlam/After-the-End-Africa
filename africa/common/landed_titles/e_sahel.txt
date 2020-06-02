@@ -899,6 +899,18 @@ e_sahel = {
 				b_garet_nous_DZ = {}
 				b_hassi_in_tafouk_DZ = {}
 			}
+			c_tazrouk = { 
+				color={ 255 186 240 }
+				color2={ 255 255 255 }
+				
+				b_tazrouk = {}
+				b_in_ezzane = {}
+				b_serkout = {}
+				b_tin_tarabine = {}
+				b_tazoulet = {}
+				b_idles = {}
+				b_tiberkatin = {}
+			}
 		}
 	}
 	k_niger = {

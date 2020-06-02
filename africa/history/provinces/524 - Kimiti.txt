@@ -8,7 +8,7 @@ b_goz_beida_TD = castle
 b_koukou_angarana_TD = temple
 
 # Misc
-culture = baggara
+culture = hadjarai
 religion = ashari
 
 #History

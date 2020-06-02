@@ -174,8 +174,8 @@ muslim = {
 	mouride = {
 		graphical_culture = muslimgfx
 
-		icon = 3
-		heresy_icon = 8
+		icon = 16
+		heresy_icon = 16
 		
 		color = { 0.2 0.5 0 }
 		
