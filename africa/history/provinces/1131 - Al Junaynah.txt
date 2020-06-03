@@ -1,0 +1,14 @@
+ County Title
+title = c_al_junaynah
+
+# Settlements
+max_settlements = 3
+
+b_al_junaynah = castle
+b_melmelli = temple
+
+# Misc
+culture = zaghawa
+religion = ashari
+
+#History

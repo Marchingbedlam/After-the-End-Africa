@@ -1,0 +1,200 @@
+###NOT ANSI UTF SUPPOSED TO BE UTF
+nilotic = {
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { muslimgfx }
+	
+	naath = {
+		graphical_cultures = { africangfx westafricangfx }
+		
+		color = { 0.21 0.12 0.11 }
+
+		male_names = {
+			Bordoang
+			Chuol
+			Emmanuel
+			Francis
+			Gabriel Garluark Gordon
+			James John
+			Koang
+			Matip
+			Ngundeng Nykhor
+			Paul Peter Philip
+			Ret Riek
+			Simon
+			Taban Thomas Tut
+			William
+		}
+		female_names = {
+			Aluel Angelina
+			Mary
+			Nyaruac
+			Rebecca
+		}
+		
+		dukes_called_kings = yes
+
+		modifier = default_culture_modifier
+	}
+	dinka = {
+		graphical_cultures = { africangfx westafricangfx }
+		
+		color = { 0.8 0.4 0.2 }
+
+		male_names = {
+			Ajou Akok Akot Aliir Aluck Anei Ater Athian Awan Awer
+			Bol Buk Bul
+			Deng Dhieu
+			Guor
+			Luol
+			Mading Majak Manute Marial Mayom
+			Salva
+			Thiak Thon
+			Wenyen
+		}
+		female_names = {
+			Adut Akuol Alek Aluat Arek Ataui Awiei
+		}
+		
+		dukes_called_kings = yes
+
+		modifier = default_culture_modifier
+	}
+	luo = {
+		graphical_cultures = { africangfx westafricangfx }
+		
+		color = { 0.5 0.25 0.18 }
+
+		male_names = {
+			Adongo Anyang Apollo Ayub_Job
+			Barack Bethwell
+			Dak Dalmas Daniel David Denis Dhokoth Dhokudho Divock Duwadh Dwoka
+			Enosh Erinayo
+			George
+			Harris Henry
+			James Janani Jaramogi John Joseph
+			Kwongo
+			Lameck Luke
+			Matthew Miguna Milton Musa_Moses
+			Oburu Ochollo Odak Odera Okot Olara Opiyo Owuor
+			Padiet Peter
+			Raila Ramogi Raphael Robert
+			Shem Sidede Simon
+			Thomas Tuga
+			Wilson
+		}
+		female_names = {
+			Aamito
+			Dorothy
+			Grace
+			Ida Irene
+			Nyakayo
+			Ongwak
+			Rosemary
+			Yvonne
+			Zeituni
+		}
+		
+		dukes_called_kings = yes
+
+		modifier = default_culture_modifier
+	}
+	fur = {
+		graphical_cultures = { africangfx westafricangfx }
+		
+		color = { 0.6 0.75 0.4 }
+
+		male_names = {
+			Abdalrahman Abulqasim Ahmad_Ahmed Ali
+			Babiker_Abu-Bakr
+			Daud_David Dawra Dua
+			Hassan
+			Ibrahim_Abraham Ismail_Ishmael
+			Kurra
+			Mahmoud_Mahmud Mansour_Mansur Muhammad Musa_Moses
+			Salih Solong Sulayman_Solomon
+			Tayrab Tunsam
+			Umar_Omar
+			Yahya_John
+		}
+		female_names = {
+			Halima
+			Zamzam
+		}
+		
+		dukes_called_kings = yes
+
+		modifier = default_culture_modifier
+	}
+	beja = {
+		graphical_cultures = { africangfx westafricangfx }
+		
+		color = { 0.17 0.08 0.11 }
+
+		male_names = {
+			Abdallah_Abdullah "Abdel Gadif" "Abdel Karim" Adel Ahmed Al-Amin Ali
+			"Bader Eldin"
+			Esmat
+			Gely
+			Hamad Hamdan Hashim Hassan Hussain
+			Ibrahim_Abraham Idris
+			Khalil
+			Mahmoud Mohamed Musa_Moses
+			Nizar Noor
+			Omar Oshek Osman
+			Rashid
+			"Salah Eddin" Sheiba
+			Taha Tahir Taisier
+			Ustaaz
+		}
+		female_names = {
+			Aisha Amna
+			Halima
+			Mariam_Mary
+			Nayla
+			Zeinab
+		}
+		
+		dukes_called_kings = yes
+
+		modifier = default_culture_modifier
+	}
+	nuba = {
+		graphical_cultures = { africangfx westafricangfx }
+		
+		color = { 0.4 0.2 0.2 }
+
+		male_names = {
+			Abbas Abdelaziz Abdelmajid Abdelwahi Abdollai_Abdullah Adam Adil Ahmed Amar
+			Barnaba Bashir
+			Daniel Dowd_David
+			Ezekiel
+			Fadl Faizal
+			Gibrail_Gabriel
+			Hassan
+			Idris Isa_Jesus Ismael_Ishamel
+			Jagod
+			Khalid Khamis
+			Makwar Malik Martin Mohamed Mohanna Monem Mudir Muntasim Musa_Moses
+			Nasr Neroun
+			Philip
+			Ramadan
+			Sabit Sadiiq Suleiman_Solomon
+			Thomas Tunal
+			Yousif_Joseph Yunis_Jonah Yuwil
+		}
+		female_names = {
+			Aisha
+			Fatma
+			Jalila
+			Mannal Marga Mariam_Mary Mjirri
+			Najwa
+			Safa'a
+			Ummassar
+			Zahara
+		}
+		
+		dukes_called_kings = yes
+
+		modifier = default_culture_modifier
+	}
+}

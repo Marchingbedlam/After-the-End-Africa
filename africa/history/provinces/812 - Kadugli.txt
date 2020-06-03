@@ -1,0 +1,15 @@
+ County Title
+title = c_kadugli
+
+# Settlements
+max_settlements = 4
+
+b_dilling = castle
+b_kadugli = city
+b_rashad = temple
+
+# Misc
+culture = nuba
+religion = ashari
+
+#History

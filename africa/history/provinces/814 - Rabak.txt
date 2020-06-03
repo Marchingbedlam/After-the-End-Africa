@@ -1,0 +1,15 @@
+ County Title
+title = c_rabak
+
+# Settlements
+max_settlements = 4
+
+b_kosti = castle
+b_rabak = city
+b_asalaya = temple
+
+# Misc
+culture = sudani
+religion = ashari
+
+#History

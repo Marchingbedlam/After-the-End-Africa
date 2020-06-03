@@ -178,23 +178,24 @@ arabic = {
 		color = { 0.2 1.0 0.4 }
 		
 		male_names = {
-			Abbas Abdalla_Abdullah Abdalrahman_Abdul-Rahman Abdelaziz_Abdul-Aziz Abdel-Fatteh_Abdul-Fattah Abdelgadir_Abdul-Kadir Abdelsalam_Abdul-Salam Abdel-Wahab_Abdul-Wahab Abdul-Gasim_Abdul-Qasim Abdul-Hamid Abdul-Rahim Abdul-Wahid Abu-Haef Adam Ahmed Ala'a-Eldin_Aladdin Al-Amin Al-Awad Al-Daw Ali Al-Jazuli Al-Khatim Al-Moez Al-Nazeer Al-Numan Awn-Al-Sharif
+			Abbas Abdalla_Abdullah Abdalrahman_Abdul-Rahman Abdelaziz_Abdul-Aziz Abdel-Fatteh_Abdul-Fattah Abdelgadir_Abdul-Kadir Abdel-Karim Abdelsalam_Abdul-Salam Abdel-Wahab_Abdul-Wahab Abdul-Gasim_Abdul-Qasim Abdul-Hamid Abdul-Rahim Abdul-Wahid Adam Adlan Ahmed Ala'a-Eldin_Aladdin Al-Amin Al-Awad Al-Daw Al-Hadi Ali Al-Jazuli Al-Khatim Al-Moez Al-Nazeer Al-Numan Amin Awn-Al-Sharif
 			Babiker_Abu-Bakr Baderuddin Bahar Burai
-			Ezuddin
-			Fadlallah Faisal
-			Gaafar_Jafar Gamal_Jamal Ghazi Gibril_Gabriel
+			El-Fadil El-Tahir Ezuddin
+			Fadlallah Faisal Farouk
+			Gaafar_Jafar Gadalla Gamal_Jamal Ghazi Gibril_Gabriel
 			Haitham Hashem_Hashim Hassan_Hasan Hussein Huzaifa 
 			Ibrahim_Abraham Idris Ismail_Ishmael Ismat Issa_Jesus
 			Jabar-Allah Jabeer_Jabir
-			Khalil Khater_Khidr Khojali
-			Mandour Mirza Mohy-El-Din Motazz Mubarak Mudather Muhammad_Mohammed Munzer Murad Musa_Moses Musaeb Mustafa
+			Kamal Khalid Khalil Khater_Khidr Khojali
+			Malik Mandour Mirza Mohy-El-Din Motazz Mubarak Mudather Muhammad_Mohammed Munzer Murad Musa_Moses Musaeb Mustafa
 			Nabil Nahid Nasr-Eldine Nemat
 			Obeid_Ubayd Omer_Omar Osman
 			Radwan_Ridwan Ragab Rashid
 			Saeed_Said Saif-Eldine Salah Salah-Eldine_Saladdin Shams Siddiq Suad
 			Tahir Tajuddin Tayeb_Tayyib
+			Uthman
 			Walid
-			Yasser Yousef_Joseph
+			Yahya_John Yasser Yassin Yousef_Joseph
 			Zubeir_Zubayr
 		}
 		female_names = {
@@ -203,6 +204,7 @@ arabic = {
 			Emtithal
 			Fatima
 			Huma
+			Insaf
 			Jalila
 			Leila_Layla
 			Muna

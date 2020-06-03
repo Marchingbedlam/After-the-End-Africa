@@ -1,0 +1,15 @@
+ County Title
+title = c_al_fulah
+
+# Settlements
+max_settlements = 3
+
+b_muglad = castle
+b_al_fulah = city
+b_lagawa = temple
+
+# Misc
+culture = baggara
+religion = ashari
+
+#History

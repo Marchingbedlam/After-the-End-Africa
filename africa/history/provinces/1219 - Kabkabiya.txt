@@ -1,0 +1,14 @@
+ County Title
+title = c_kabkabiya
+
+# Settlements
+max_settlements = 3
+
+b_kabkabiya = castle
+b_kutum = temple
+
+# Misc
+culture = fur
+religion = ashari
+
+#History

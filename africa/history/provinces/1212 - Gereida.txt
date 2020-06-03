@@ -1,0 +1,13 @@
+ County Title
+title = c_gereida
+
+# Settlements
+max_settlements = 2
+
+b_gereida = castle
+
+# Misc
+culture = fur
+religion = ashari
+
+#History

@@ -1,0 +1,14 @@
+ County Title
+title = c_al_goled
+
+# Settlements
+max_settlements = 3
+
+b_al_dabbah = castle
+b_al_goled = city
+
+# Misc
+culture = sudani
+religion = ashari
+
+#History

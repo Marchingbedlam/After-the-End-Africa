@@ -1,0 +1,15 @@
+ County Title
+title = c_shendi
+
+# Settlements
+max_settlements = 4
+
+b_wad_hamid = castle
+b_shendi = city
+b_keli = temple
+
+# Misc
+culture = sudani
+religion = ashari
+
+#History

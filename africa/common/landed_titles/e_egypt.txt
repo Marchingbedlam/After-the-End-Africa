@@ -1,0 +1,417 @@
+e_sudan = {
+	color={ 32 150 85 }
+	color2={ 255 255 255 }
+	
+	culture = masri
+	
+	k_sudan = {
+		color={ 10 255 80 }
+		color2={ 255 255 255 }
+		
+		culture = sudani
+
+		d_aswan = {
+			color={ 100 219 134 }
+			color2={ 255 255 255 }
+			
+			c_aswan = {
+				color={ 244 84 63 }
+				color2={ 255 255 255 }
+				
+				b_abu_simbel = {}
+				b_aswan = {}
+				b_toshka = {}
+				b_ferka = {}
+				b_argeen = {}
+			}
+			c_wadi_halfa = {
+				color={ 205 67 51 }
+				color2={ 255 255 255 }
+				
+				b_delgo = {}
+				b_wadi_halfa = {}
+				b_abri = {}
+				b_wawa = {}
+				b_suarda = {}
+				b_hameed = {}
+				b_qubbat_salim = {}
+				b_abu_sari = {}
+			}
+			c_dongola = {
+				color={ 87 36 142 }
+				color2={ 255 255 255 }
+				
+				b_kerma = {}
+				b_dongola = {}
+				b_tumbus = {}
+				b_jabal_sudayk = {}
+				b_al_koin = {}
+				b_kubtot = {}
+				b_shaykh_sharif = {}
+			}
+			c_al_goled = {
+				color={ 62 2 221 }
+				color2={ 255 255 255 }
+				
+				b_al_dabbah = {}
+				b_al_goled = {}
+				b_urbi = {}
+				b_karima = {}
+				b_al_khulaywah = {}
+				b_merowe = {}
+				b_girra_barra = {}
+			}
+		}
+		d_nile = {
+			color={ 102 191 241 }
+			color2={ 255 255 255 }
+			
+			c_abu_hamed = {
+				color={ 218 40 148 }
+				color2={ 255 255 255 }
+				
+				b_abu_hamed = {}
+				b_dagash = {}
+				b_al_kanisah = {}
+				b_artoli = {}
+				b_al_ghurayb = {}
+				b_shamkhiya = {}
+				b_al_jamamiyah = {}
+			}
+			c_ad_damir = {
+				color={ 253 10 166 }
+				color2={ 255 255 255 }
+				
+				b_atbara = {}
+				b_ad_damir = {}
+				b_berber = {}
+				b_albawga = {}
+				b_sayyalah = {}
+				b_al_ibediyya = {}
+				b_ageida = {}
+			}
+			c_shendi = {
+				color={ 183 85 200 }
+				color2={ 255 255 255 }
+				
+				b_wad_hamid = {}
+				b_shendi = {}
+				b_keli = {}
+				b_kabushiya = {}
+				b_el_matamah = {}
+				b_el_hobagi = {}
+				b_al_juwer = {}
+			}
+		}
+		d_al_mogran = {
+			color={ 102 191 241 }
+			color2={ 255 255 255 }
+			
+			c_omdurman = {
+				color={ 245 15 226 }
+				color2={ 255 255 255 }
+				
+				b_ombada = {}
+				b_omdurman = {}
+				b_karari = {}
+				b_abu_rof = {}
+				b_oum_kati = {}
+				b_eslang = {}
+				b_banat_sharq = {}
+			}
+			c_khartoum = {
+				color={ 227 50 122 }
+				color2={ 255 255 255 }
+				
+				b_khartoum_bahri = {}
+				b_khartoum = {}
+				b_jabal_awliya = {}
+				b_al_kalakla = {}
+				b_wag_ageeb = {}
+				b_umdawwanban = {}
+				b_abu_groon = {}
+			}
+		}
+		d_white_nile = {
+			color={ 102 191 241 }
+			color2={ 255 255 255 }
+			
+			
+			c_ad_douiem = {
+				color={ 244 180 216 }
+				color2={ 255 255 255 }
+				
+				b_el_geteina = {}
+				b_ad_douiem = {}
+				b_aljammalab = {}
+				b_danbo = {}
+				b_abu_hibeira = {}
+				b_al_arshkool = {}
+				b_wad_alzaky = {}
+			}
+			c_al_manaqil = {
+				color={ 80 164 229 }
+				color2={ 255 255 255 }
+				
+				b_um_hegelega = {}
+				b_al_manaqil = {}
+				b_al_azazi = {}
+				b_tabat = {}
+				b_elwali = {}
+				b_meheiriba = {}
+				b_managaza = {}
+			}
+			c_rabak = {
+				color={ 153 94 102 }
+				color2={ 255 255 255 }
+				
+				b_kosti = {}
+				b_rabak = {}
+				b_asalaya = {}
+				b_kenana = {}
+				b_aba = {}
+				b_sifeiya = {}
+				b_al_jabalayn = {}
+			}
+		}
+		d_blue_nile = {
+			color={ 102 191 241 }
+			color2={ 255 255 255 }
+			
+			c_gezira = {
+				color={ 245 15 226 }
+				color2={ 255 255 255 }
+				
+				b_rufaa = {}
+				b_wad_madani = {}
+				b_al_qosairah = {}
+				b_fadasi = {}
+				b_abu_haraz = {}
+				b_al_hilaliya = {}
+				b_tamboul = {}
+			}
+			c_sennar = {
+				color={ 193 12 44 }
+				color2={ 255 255 255 }
+				
+				b_sennar = {}
+				b_singa = {}
+				b_el_suki = {}
+				b_wad_el_haddad = {}
+				b_abohugar = {}
+				b_dindir = {}
+				b_galgani = {}
+			}
+			c_al_qadarif = {
+				color={ 191 106 139 }
+				color2={ 255 255 255 }
+				
+				b_gallabat = {}
+				b_al_qadarif = {}
+				b_doka = {}
+				b_al_fao = {}
+				b_showak = {}
+				b_al_hawwata = {}
+				b_el_fashaga = {}
+			}
+			c_ad_damazin = {
+				color={ 182 109 175 }
+				color2={ 255 255 255 }
+				
+				b_ar_roseires = {}
+				b_ad_damazin = {}
+				b_ad_dawmah = {}
+				b_bau = {}
+				b_qeissan = {}
+				b_tadamon = {}
+				b_ash_shallal = {}
+			}
+		}
+		d_red_sea = {
+			color={ 102 191 241 }
+			color2={ 255 255 255 }
+			
+			
+			c_port_sudan = {
+				color={ 61 13 118 }
+				color2={ 255 255 255 }
+				
+				b_suakin = {}
+				b_port_sudan = {}
+				b_sinkat = {}
+				b_gebeit = {}
+				b_tohamiyam = {}
+				b_arbat = {}
+				b_sumeet = {}
+			}
+			c_tokar = {
+				color={ 153 19 145 }
+				color2={ 255 255 255 }
+				
+				b_tokar = {}
+				b_haya = {}
+				b_ageeg = {}
+				b_hamashkoraib = {}
+				b_ar_rawjal = {}
+				b_musmer = {}
+				b_karora = {}
+			}
+			c_kassala = {
+				color={ 205 11 78 }
+				color2={ 255 255 255 }
+				
+				b_aroma = {}
+				b_kassala = {}
+				b_khashm_el_girba = {}
+				b_telkuk = {}
+				b_wadsharefy = {}
+				b_matamir = {}
+				b_halfa_el_jadida = {}
+			}
+		}
+		d_kordofan = {
+			color={ 102 191 241 }
+			color2={ 255 255 255 }
+			
+			
+			c_el_obeid = {
+				color={ 61 13 118 }
+				color2={ 255 255 255 }
+				
+				b_er_rahad = {}
+				b_el_obeid = {}
+				b_barah = {}
+				b_umm_ruwaba = {}
+				b_habil = {}
+				b_aman_allah = {}
+				b_nur_al_qubbah = {}
+			}
+			c_en_nahud = {
+				color={ 153 19 145 }
+				color2={ 255 255 255 }
+				
+				b_abu_zabad = {}
+				b_en_nahud = {}
+				b_ghubaysh = {}
+				b_sodari = {}
+				b_abekr = {}
+				b_qireiwid = {}
+				b_al_udayyah = {}
+			}
+			c_kadugli = {
+				color={ 205 11 78 }
+				color2={ 255 255 255 }
+				
+				b_dilling = {}
+				b_kadugli = {}
+				b_rashad = {}
+				b_abu_jubaiyah = {}
+				b_talodi = {}
+				b_abu_kershola = {}
+				b_turgana = {}
+			}
+			c_al_fulah = {
+				color={ 205 11 78 }
+				color2={ 255 255 255 }
+				
+				b_muglad = {}
+				b_al_fulah = {}
+				b_lagawa = {}
+				b_as_salam = {}
+				b_babanusa = {}
+				b_abyei = {}
+				b_agok = {}
+			}
+		}
+		d_darfur = {
+			color={ 102 191 241 }
+			color2={ 255 255 255 }
+			
+			
+			c_al_fashir = {
+				color={ 61 13 118 }
+				color2={ 255 255 255 }
+				
+				b_umm_keddada = {}
+				b_al_fashir = {}
+				b_ailliet = {}
+				b_mellit = {}
+				b_burush = {}
+				b_kuma = {}
+				b_umm_gafala = {}
+			}
+			c_kabkabiya = {
+				color={ 153 19 145 }
+				color2={ 255 255 255 }
+				
+				b_kutum = {}
+				b_kabkabiya = {}
+				b_tawilah = {}
+				b_fata_burnu = {}
+				b_kunga = {}
+				b_korma = {}
+				b_om = {}
+			}
+			c_al_junaynah = {
+				color={ 205 11 78 }
+				color2={ 255 255 255 }
+				
+				b_melmelli = {}
+				b_al_junaynah = {}
+				b_umm_dukhn = {}
+				b_hashabah = {}
+				b_maku = {}
+				b_maragibir = {}
+				b_ordmta = {}
+			}
+			c_el_daein = {
+				color={ 205 11 78 }
+				color2={ 255 255 255 }
+				
+				b_adiela = {}
+				b_el_daein = {}
+				b_siwar = {}
+				b_abu_karinka = {}
+				b_iyal_an_naji = {}
+				b_gad_es_sid = {}
+				b_thaalibah = {}
+			}
+			c_gereida = {
+				color={ 205 11 78 }
+				color2={ 255 255 255 }
+				
+				b_edd_al_fursan = {}
+				b_gereida = {}
+				b_daffaq = {}
+				b_buram = {}
+				b_omdul = {}
+				b_grba = {}
+				b_dimso = {}
+			}
+			c_zallingi = {
+				color={ 205 11 78 }
+				color2={ 255 255 255 }
+				
+				b_garsila = {}
+				b_zallingi = {}
+				b_deleig = {}
+				b_arawala = {}
+				b_kas = {}
+				b_jebel_marra = {}
+				b_durri = {}
+			}
+			c_nyala = {
+				color={ 205 11 78 }
+				color2={ 255 255 255 }
+				
+				b_duma = {}
+				b_nyala = {}
+				b_endur = {}
+				b_idd_al_ghanam = {}
+				b_abu_ajurah = {}
+				b_tumko = {}
+				b_tagga = {}
+			}
+		}
+	}
+}

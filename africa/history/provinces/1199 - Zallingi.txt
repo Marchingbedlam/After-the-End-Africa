@@ -1,0 +1,14 @@
+ County Title
+title = c_zallingi
+
+# Settlements
+max_settlements = 3
+
+b_zallingi = castle
+b_deleig = temple
+
+# Misc
+culture = fur
+religion = ashari
+
+#History

@@ -1,0 +1,13 @@
+ County Title
+title = c_el_daein
+
+# Settlements
+max_settlements = 2
+
+b_el_daein = castle
+
+# Misc
+culture = fur
+religion = ashari
+
+#History

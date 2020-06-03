@@ -1,0 +1,15 @@
+ County Title
+title = c_omdurman
+
+# Settlements
+max_settlements = 4
+
+b_ombada = castle
+b_omdurman = city
+b_karari = temple
+
+# Misc
+culture = sudani
+religion = ashari
+
+#History

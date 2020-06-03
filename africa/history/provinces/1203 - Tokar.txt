@@ -1,0 +1,14 @@
+ County Title
+title = c_tokar
+
+# Settlements
+max_settlements = 3
+
+b_haya = castle
+b_tokar = temple
+
+# Misc
+culture = beja
+religion = ashari
+
+#History

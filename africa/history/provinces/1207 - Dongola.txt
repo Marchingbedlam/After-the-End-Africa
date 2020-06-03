@@ -1,0 +1,15 @@
+ County Title
+title = c_dongola
+
+# Settlements
+max_settlements = 4
+
+b_kerma = castle
+b_dongola = city
+b_tumbus = temple
+
+# Misc
+culture = sudani
+religion = ashari
+
+#History

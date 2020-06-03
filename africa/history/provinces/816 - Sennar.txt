@@ -1,0 +1,14 @@
+ County Title
+title = c_sennar
+
+# Settlements
+max_settlements = 3
+
+b_sennar = castle
+b_singa = city
+
+# Misc
+culture = sudani
+religion = ashari
+
+#History

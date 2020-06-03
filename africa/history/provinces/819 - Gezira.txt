@@ -1,0 +1,15 @@
+ County Title
+title = c_gezira
+
+# Settlements
+max_settlements = 4
+
+b_rufaa = castle
+b_wad_madani = city
+b_al_qosairah = temple
+
+# Misc
+culture = sudani
+religion = ashari
+
+#History

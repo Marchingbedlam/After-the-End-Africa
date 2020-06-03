@@ -1,0 +1,14 @@
+ County Title
+title = c_en_nahud
+
+# Settlements
+max_settlements = 3
+
+b_abu_zabad = castle
+b_en_nahud = city
+
+# Misc
+culture = sudani
+religion = ashari
+
+#History

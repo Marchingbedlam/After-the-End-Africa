@@ -1,0 +1,14 @@
+ County Title
+title = c_kassala
+
+# Settlements
+max_settlements = 3
+
+b_aroma = castle
+b_kassala = city
+
+# Misc
+culture = beja
+religion = ashari
+
+#History

@@ -1,0 +1,15 @@
+ County Title
+title = c_ad_damir
+
+# Settlements
+max_settlements = 4
+
+b_atbara = castle
+b_ad_damir = city
+b_berber = temple
+
+# Misc
+culture = sudani
+religion = ashari
+
+#History

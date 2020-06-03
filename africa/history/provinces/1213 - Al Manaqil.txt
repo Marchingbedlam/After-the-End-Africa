@@ -1,0 +1,14 @@
+ County Title
+title = c_al_manaqil
+
+# Settlements
+max_settlements = 3
+
+b_al_azazi = castle
+b_al_manaqil = temple
+
+# Misc
+culture = sudani
+religion = ashari
+
+#History

@@ -1,0 +1,15 @@
+ County Title
+title = c_al_qadarif
+
+# Settlements
+max_settlements = 4
+
+b_gallabat = castle
+b_al_qadarif = city
+b_doka = temple
+
+# Misc
+culture = sudani
+religion = ashari
+
+#History

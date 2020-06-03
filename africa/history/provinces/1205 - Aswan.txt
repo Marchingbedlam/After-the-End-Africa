@@ -1,0 +1,16 @@
+# County Title
+title = c_aswan
+
+# Settlements
+max_settlements = 5
+
+b_abu_simbel = castle
+b_aswan = city
+b_toshka = temple
+b_ferka = castle
+
+# Misc
+culture = masri
+religion = ashari
+
+#History

@@ -1,0 +1,14 @@
+ County Title
+title = c_nyala
+
+# Settlements
+max_settlements = 3
+
+b_idd_al_ghanam = castle
+b_nyala = city
+
+# Misc
+culture = fur
+religion = ashari
+
+#History

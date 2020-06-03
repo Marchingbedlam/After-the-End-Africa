@@ -1,0 +1,15 @@
+ County Title
+title = c_el_obeid
+
+# Settlements
+max_settlements = 4
+
+b_er_rahad = castle
+b_el_obeid = city
+b_umm_ruwaba = temple
+
+# Misc
+culture = sudani
+religion = ashari
+
+#History

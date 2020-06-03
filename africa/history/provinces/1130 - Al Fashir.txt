@@ -1,0 +1,14 @@
+ County Title
+title = c_al_fashir
+
+# Settlements
+max_settlements = 3
+
+b_umm_keddada = castle
+b_al_fashir = city
+
+# Misc
+culture = fur
+religion = ashari
+
+#History

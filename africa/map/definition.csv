@@ -803,7 +803,7 @@ province;red;green;blue;x;x
 802;218;233;224;Juba;x
 803;142;61;157;Ez Zeraf;x
 804;186;76;252;Bor;x
-805;150;10;31;Muglad;x
+805;150;10;31;Al Fulah;x
 806;250;196;233;Al Buhayrat;x
 807;237;221;230;Shimal Bahr al Ghazal;x
 808;206;116;133;El Obeid;x
@@ -817,8 +817,8 @@ province;red;green;blue;x;x
 816;193;12;44;Sennar;x
 817;191;106;139;Al Qadarif;x
 818;205;11;78;Kassala;x
-819;137;102;171;Al Jazirah;x
-820;227;50;122;Al Khartoum;x
+819;137;102;171;Gezira;x
+820;227;50;122;Khartoum;x
 821;135;169;20;Caprivi;x
 822;60;154;39;Ngamiland North;x
 823;79;128;201;Ngamiland South;x
@@ -1201,9 +1201,9 @@ province;red;green;blue;x;x
 1200;245;15;226;Omdurman;x
 1201;218;40;148;Abu Hamed;x
 1202;244;180;216;Ad Douiem;x
-1203;153;19;145;Sinkat;x
+1203;153;19;145;Tokar;x
 1204;61;13;118;Port Sudan;x
-1205;244;84;63;Nasser;x
+1205;244;84;63;Aswan;x
 1206;62;2;221;Al Goled;x
 1207;87;36;142;Dongola;x
 1208;255;244;248;En Nahud;x
@@ -1218,7 +1218,7 @@ province;red;green;blue;x;x
 1217;237;141;148;Yei;x
 1218;24;203;39;Yirol;x
 1219;226;71;113;Kabkabiya;x
-1220;205;67;51;;x
+1220;205;67;51;Wadi Halfa;x
 1221;181;192;239;Melut;x
 1222;242;177;186;Nakfa;x
 1223;97;25;199;Abacheri;x

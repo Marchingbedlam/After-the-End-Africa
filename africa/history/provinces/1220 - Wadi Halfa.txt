@@ -1,0 +1,15 @@
+ County Title
+title = c_wadi_halfa
+
+# Settlements
+max_settlements = 4
+
+b_delgo = castle
+b_wadi_halfa = city
+b_abri = temple
+
+# Misc
+culture = sudani
+religion = ashari
+
+#History

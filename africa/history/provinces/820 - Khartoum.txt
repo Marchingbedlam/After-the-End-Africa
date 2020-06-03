@@ -1,0 +1,16 @@
+ County Title
+title = c_khartoum
+
+# Settlements
+max_settlements = 6
+
+b_khartoum_bahri = castle
+b_khartoum = city
+b_jabal_awliya = temple
+b_umdawwanban = city
+
+# Misc
+culture = sudani
+religion = ashari
+
+#History

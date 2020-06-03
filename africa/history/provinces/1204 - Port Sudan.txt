@@ -1,0 +1,15 @@
+ County Title
+title = c_port_sudan
+
+# Settlements
+max_settlements = 4
+
+b_sukain = castle
+b_port_sudan = city
+b_sinkat = temple
+
+# Misc
+culture = beja
+religion = ashari
+
+#History

@@ -1,0 +1,14 @@
+ County Title
+title = c_abu_hamed
+
+# Settlements
+max_settlements = 3
+
+b_abu_hamed = castle
+b_dagash = temple
+
+# Misc
+culture = sudani
+religion = ashari
+
+#History

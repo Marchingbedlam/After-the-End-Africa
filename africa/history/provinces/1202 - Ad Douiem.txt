@@ -1,0 +1,15 @@
+ County Title
+title = c_ad_douiem
+
+# Settlements
+max_settlements = 4
+
+b_el_geteina = castle
+b_ad_douiem = city
+b_aljammalab = temple
+
+# Misc
+culture = sudani
+religion = ashari
+
+#History
