@@ -1,0 +1,15 @@
+# County Title
+title = c_namorunyang
+
+# Settlements
+max_settlements = 4
+
+b_narus = castle
+b_kapoeta = city
+b_chukudum = temple
+
+# Misc
+culture = otuho
+religion = ashari
+
+#History

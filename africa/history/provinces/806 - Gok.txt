@@ -1,0 +1,15 @@
+# County Title
+title = c_gok
+
+# Settlements
+max_settlements = 4
+
+b_cuiebet = castle
+b_rumbek = city
+b_maper = temple
+
+# Misc
+culture = jieng
+religion = ashari
+
+#History

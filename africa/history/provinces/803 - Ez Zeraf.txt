@@ -1,0 +1,14 @@
+# County Title
+title = c_ez_zeraf
+
+# Settlements
+max_settlements = 4
+
+b_ayod = castle
+b_fangak = city
+
+# Misc
+culture = naath
+religion = ashari
+
+#History

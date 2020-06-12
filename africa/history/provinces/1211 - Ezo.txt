@@ -1,0 +1,15 @@
+# County Title
+title = c_ezo
+
+# Settlements
+max_settlements = 4
+
+b_tumbura = castle
+b_ezo = city
+b_ri_yubu = temple
+
+# Misc
+culture = zande
+religion = ashari
+
+#History

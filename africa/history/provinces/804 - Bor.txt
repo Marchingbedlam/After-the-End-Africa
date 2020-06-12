@@ -1,0 +1,15 @@
+# County Title
+title = c_bor
+
+# Settlements
+max_settlements = 4
+
+b_duk_padiet = castle
+b_bor = city
+b_kongor = temple
+
+# Misc
+culture = naath
+religion = ashari
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title = c_imatong
+
+# Settlements
+max_settlements = 4
+
+b_magwi = castle
+b_torit = city
+b_nimule = temple
+
+# Misc
+culture = karo
+religion = ashari
+
+#History

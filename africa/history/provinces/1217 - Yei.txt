@@ -1,0 +1,15 @@
+# County Title
+title = c_yei
+
+# Settlements
+max_settlements = 4
+
+b_kajo_keji = castle
+b_yei = city
+b_morobo = temple
+
+# Misc
+culture = karo
+religion = ashari
+
+#History

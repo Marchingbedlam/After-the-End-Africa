@@ -1,0 +1,13 @@
+# County Title
+title = c_lol
+
+# Settlements
+max_settlements = 2
+
+b_sopo = castle
+
+# Misc
+culture = jieng
+religion = ashari
+
+#History

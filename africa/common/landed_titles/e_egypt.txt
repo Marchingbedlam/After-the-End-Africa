@@ -323,6 +323,297 @@ e_sudan = {
 				b_agok = {}
 			}
 		}
+	}
+	k_al_sudd = {
+		color={ 180 60 200 }
+		color2={ 255 255 255 }
+		
+		culture = nuba
+
+		d_upper_nile = {
+			color={ 150 60 240 }
+			color2={ 255 255 255 }
+			
+			c_melut = {
+				color={ 181 192 239 }
+				color2={ 255 255 255 }
+				
+				b_renk = {}
+				b_melut = {}
+				b_paloich = {}
+				b_geigar = {}
+				b_abbeit = {}
+				b_gaikwach = {}
+				b_tareifing = {}
+			}
+			c_malakal = {
+				color={ 194 65 9 }
+				color2={ 255 255 255 }
+				
+				b_kodok = {}
+				b_malakal = {}
+				b_banglai = {}
+				b_rom = {}
+				b_mialek = {}
+				b_debalo = {}
+				b_adodo = {}
+			}
+			c_latjoor = {
+				color={ 141 63 249 }
+				color2={ 255 255 255 }
+				
+				b_nasir = {}
+				b_akobo = {}
+				b_waat = {}
+				b_budwot = {}
+				b_fadoi = {}
+				b_loing = {}
+				b_kwat = {}
+			}
+		}
+		d_jonglei = {
+			color={ 180 20 240 }
+			color2={ 255 255 255 }
+			
+			c_bor = {
+				color={ 186 76 252 }
+				color2={ 255 255 255 }
+				
+				b_duk_padiet = {}
+				b_bor = {}
+				b_kongor = {}
+				b_duk_payuel = {}
+				b_malek = {}
+				b_fanom = {}
+				b_wernyol = {}
+			}
+			c_pibor = {
+				color={ 107 29 241 }
+				color2={ 255 255 255 }
+				
+				b_pibor = {}
+				b_pochalla = {}
+				b_gumuruk = {}
+				b_atcherah = {}
+				b_moarkeyor = {}
+				b_beh = {}
+				b_kalana = {}
+			}
+			c_ez_zeraf = {
+				color={ 142 61 157 }
+				color2={ 255 255 255 }
+				
+				b_ayod = {}
+				b_fangak = {}
+				b_thukak = {}
+				b_nurlonga = {}
+				b_fagul = {}
+				b_mogogh = {}
+				b_buk = {}
+			}
+			c_ruweng = {
+				color={ 154 183 230 }
+				color2={ 255 255 255 }
+				
+				b_pariang = {}
+				b_bentiu = {}
+				b_mayom = {}
+				b_rubkona = {}
+				b_leer = {}
+				b_biem = {}
+				b_abiemnon = {}
+			}
+			c_gambela = {
+				color={ 240 167 125 }
+				color2={ 255 255 255 }
+				
+				b_itang = {}
+				b_gambela = {}
+				b_meti = {}
+				b_abobo = {}
+				b_funyido = {}
+				b_gesi = {}
+				b_periet = {}
+			}
+		}
+		d_equatoria = {
+			color={ 210 230 220 }
+			color2={ 255 255 255 }
+			
+			c_juba = {
+				color={ 218 233 224 }
+				color2={ 255 255 255 }
+				
+				b_gudele = {}
+				b_juba = {}
+				b_terekeka = {}
+				b_tambur = {}
+				b_gondokoro = {}
+				b_mongalla = {}
+				b_liria = {}
+			}
+			c_imatong = {
+				color={ 218 233 224 }
+				color2={ 255 255 255 }
+				
+				b_magwi = {}
+				b_torit = {}
+				b_nimule = {}
+				b_opari = {}
+				b_pajok = {}
+				b_loa = {}
+				b_aswa = {}
+			}
+			c_namorunyang = {
+				color={ 218 233 224 }
+				color2={ 255 255 255 }
+				
+				b_narus = {}
+				b_kapoeta = {}
+				b_chukudum = {}
+				b_ikotos = {}
+				b_lobira = {}
+				b_lolimi = {}
+				b_lalanga = {}
+			}
+			c_yei = {
+				color={ 218 233 224 }
+				color2={ 255 255 255 }
+				
+				b_kajo_keji = {}
+				b_yei = {}
+				b_morobo = {}
+				b_gobur = {}
+				b_lainya = {}
+				b_nyepo = {}
+				b_tore = {}
+			}
+			c_yirol = {
+				color={ 24 203 39 }
+				color2={ 255 255 255 }
+				
+				b_abiem = {}
+				b_yirol = {}
+				b_minkamman = {}
+				b_madbar = {}
+				b_mabor = {}
+				b_ngop = {}
+				b_aluakluak = {}
+			}
+		}
+	}
+	k_bahr_el_ghazal = {
+		color={ 222 111 111 }
+		color2={ 255 255 255 }
+		
+		culture = nuba
+
+		d_al_buhayrat = {
+			color={ 200 190 150 }
+			color2={ 255 255 255 }
+			
+			c_ezo = {
+				color={ 170 215 216 }
+				color2={ 255 255 255 }
+				
+				b_tumbura = {}
+				b_ezo = {}
+				b_ri_yubu = {}
+				b_naandi = {}
+				b_mopoi = {}
+				b_nagero = {}
+				b_bafuka = {}
+			}
+			c_gok = {
+				color={ 250 196 233 }
+				color2={ 255 255 255 }
+				
+				b_cuiebet = {}
+				b_rumbek = {}
+				b_maper = {}
+				b_akot = {}
+				b_wulu = {}
+				b_bhargel = {}
+				b_amongpiny = {}
+			}
+			c_amadi = {
+				color={ 218 180 135 }
+				color2={ 255 255 255 }
+				
+				b_mundri = {}
+				b_maridi = {}
+				b_lui = {}
+				b_ibba = {}
+				b_mvolo = {}
+				b_yari = {}
+				b_kotobi = {}
+			}
+			c_gbudwe = {
+				color={ 222 214 3 }
+				color2={ 255 255 255 }
+				
+				b_nzara = {}
+				b_yambio = {}
+				b_sakure = {}
+				b_bangasu = {}
+				b_basukangbi = {}
+				b_bangazagino = {}
+				b_makpandu = {}
+			}
+		}
+		d_jur = {
+			color={ 90 210 140 }
+			color2={ 255 255 255 }
+			
+			c_warrap = {
+				color={ 148 184 180 }
+				color2={ 255 255 255 }
+				
+				b_kuajok = {}
+				b_tonj = {}
+				b_gogrial = {}
+				b_turalei = {}
+				b_marial_bai = {}
+				b_agok = {}
+				b_romich = {}
+			}
+			c_wau = {
+				color={ 158 236 118 }
+				color2={ 255 255 255 }
+				
+				b_nyin_akok = {}
+				b_wau = {}
+				b_busserri = {}
+				b_bagari = {}
+				b_bazia = {}
+				b_kuarjina = {}
+				b_odechi = {}
+			}
+			c_aweil = {
+				color={ 237 221 230 }
+				color2={ 255 255 255 }
+				
+				b_nyamlel = {}
+				b_aweil = {}
+				b_udham = {}
+				b_gakrol = {}
+				b_mayom_wel = {}
+				b_aroyo = {}
+				b_malualkon = {}
+			}
+			c_lol = {
+				color={ 18 241 138 }
+				color2={ 255 255 255 }
+				
+				b_sopo = {}
+				b_raga = {}
+				b_guju = {}
+				b_boro = {}
+				b_umm_tugulgul = {}
+				b_kosho = {}
+				b_kafia_kingi = {}
+			}
+		}
 		d_darfur = {
 			color={ 102 191 241 }
 			color2={ 255 255 255 }

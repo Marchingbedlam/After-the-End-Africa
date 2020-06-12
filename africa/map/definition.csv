@@ -796,20 +796,20 @@ province;red;green;blue;x;x
 795;82;154;173;Serti;x
 796;177;32;30;Dosso;x
 797;145;176;186;Gamboru;x
-798;222;214;3;Yambio;x
+798;222;214;3;Gbudwe;x
 799;189;55;85;Sabie;x
-800;107;29;241;Junqoley-Boma;x
+800;107;29;241;Pibor;x
 801;141;63;249;Latjoor;x
 802;218;233;224;Juba;x
 803;142;61;157;Ez Zeraf;x
 804;186;76;252;Bor;x
 805;150;10;31;Al Fulah;x
-806;250;196;233;Al Buhayrat;x
-807;237;221;230;Shimal Bahr al Ghazal;x
+806;250;196;233;Gok;x
+807;237;221;230;Aweil;x
 808;206;116;133;El Obeid;x
 809;253;10;166;Ad Damir;x
-810;148;184;180;Warab;x
-811;154;183;230;Al Wahda;x
+810;148;184;180;Warrap;x
+811;154;183;230;Ruweng;x
 812;173;90;242;Kadugli;x
 813;194;65;9;Malakal;x
 814;153;94;102;Rabak;x
@@ -1125,13 +1125,13 @@ province;red;green;blue;x;x
 1124;14;250;103;Lusambo;x
 1125;162;188;15;Lubefu;x
 1126;137;218;75;Isiro;x
-1127;218;180;135;Mundri;x
+1127;218;180;135;Amadi;x
 1128;158;236;118;Wau;x
-1129;18;241;138;Raga;x
+1129;18;241;138;Lol;x
 1130;50;31;92;Al Fashir;x
 1131;217;8;218;Al Junaynah;x
 1132;160;141;225;Nyala;x
-1133;240;85;227;Ouadda;x
+1133;240;85;227;Zemongo Wasteland;x
 1134;168;89;213;Gash-Barka;x
 1135;93;80;183;Assab;x
 1136;135;135;189;Massawa;x
@@ -1164,7 +1164,7 @@ province;red;green;blue;x;x
 1163;238;40;28;West Arsi;x
 1164;150;122;207;South Oms;x
 1165;116;28;186;Bench Maji;x
-1166;240;167;125;Anuak;x
+1166;240;167;125;Gambela;x
 1167;227;207;149;Metekel;x
 1168;227;139;102;Agew Awi;x
 1169;233;136;32;Horo Guduru Welega;x
@@ -1209,12 +1209,12 @@ province;red;green;blue;x;x
 1208;255;244;248;En Nahud;x
 1209;151;109;105;El Daein;x
 1210;183;85;200;Shendi;x
-1211;170;215;216;Tambura;x
+1211;170;215;216;Ezo;x
 1212;21;245;246;Gereida;x
 1213;80;164;229;Al Manaqil;x
 1214;42;201;253;Kurnuk;x
-1215;105;210;172;Magwi;x
-1216;143;183;122;Kapoeta;x
+1215;105;210;172;Imatong;x
+1216;143;183;122;Namorunyang;x
 1217;237;141;148;Yei;x
 1218;24;203;39;Yirol;x
 1219;226;71;113;Kabkabiya;x

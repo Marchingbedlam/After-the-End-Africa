@@ -1,0 +1,14 @@
+# County Title
+title = c_melut
+
+# Settlements
+max_settlements = 3
+
+b_renk = castle
+b_melut = temple
+
+# Misc
+culture = luo
+religion = ashari
+
+#History

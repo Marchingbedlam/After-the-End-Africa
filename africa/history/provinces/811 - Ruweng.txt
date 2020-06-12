@@ -1,0 +1,16 @@
+# County Title
+title = c_ruweng
+
+# Settlements
+max_settlements = 5
+
+b_pariang = castle
+b_bentiu = city
+b_mayom = temple
+b_rubkona = temple
+
+# Misc
+culture = jieng
+religion = ashari
+
+#History

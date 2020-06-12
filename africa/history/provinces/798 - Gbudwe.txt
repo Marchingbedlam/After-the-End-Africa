@@ -1,0 +1,15 @@
+# County Title
+title = c_gbudwe
+
+# Settlements
+max_settlements = 5
+
+b_nzara = castle
+b_yambio = city
+b_sakure = temple
+
+# Misc
+culture = zande
+religion = ashari
+
+#History

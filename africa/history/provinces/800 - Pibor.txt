@@ -1,0 +1,14 @@
+# County Title
+title = c_pibor
+
+# Settlements
+max_settlements = 3
+
+b_pibor = castle
+b_pochalla = temple
+
+# Misc
+culture = surmic
+religion = ashari
+
+#History

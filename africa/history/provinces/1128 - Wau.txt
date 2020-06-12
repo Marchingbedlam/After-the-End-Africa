@@ -1,0 +1,15 @@
+# County Title
+title = c_wau
+
+# Settlements
+max_settlements = 4
+
+b_bagari = castle
+b_wau = city
+b_nyin_akok = temple
+
+# Misc
+culture = jieng
+religion = ashari
+
+#History

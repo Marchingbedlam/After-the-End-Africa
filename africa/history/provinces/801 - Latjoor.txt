@@ -1,0 +1,15 @@
+# County Title
+title = c_latjoor
+
+# Settlements
+max_settlements = 4
+
+b_nasir = castle
+b_waat = city
+b_akobo = temple
+
+# Misc
+culture = naath
+religion = ashari
+
+#History

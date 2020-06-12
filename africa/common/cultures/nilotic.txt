@@ -35,7 +35,7 @@ nilotic = {
 
 		modifier = default_culture_modifier
 	}
-	dinka = {
+	jieng = {
 		graphical_cultures = { africangfx westafricangfx }
 		
 		color = { 0.8 0.4 0.2 }
@@ -191,6 +191,146 @@ nilotic = {
 			Safa'a
 			Ummassar
 			Zahara
+		}
+		
+		dukes_called_kings = yes
+
+		modifier = default_culture_modifier
+	}
+	karo = {
+		graphical_cultures = { africangfx westafricangfx }
+		
+		color = { 0.5 0.6 0.5 }
+
+		male_names = {
+			Charles Clement
+			Eliaba Emmanuel
+			Felix Francis
+			Gwido
+			Hussein
+			Jacob Jada James John Joseph
+			Kenyi
+			Lodu Loro Lukare
+			Malish Manasseh Martin Michael Moses
+			Ngota Nyara
+			Paul
+			Richard
+			Samson Samuel Stephen
+			Thomas Tombe
+			Vincent
+			Youngo Yugusuk
+		}
+		female_names = {
+			Ajonye Assa
+			Jwan
+			Pita Poni
+		}
+		
+		dukes_called_kings = yes
+
+		modifier = default_culture_modifier
+	}
+	surmic = {
+		graphical_cultures = { africangfx westafricangfx }
+		
+		color = { 0.7 0.8 0.9 }
+
+		male_names = {
+			Albino Alexander Aloisio Angello Anthony Augustino
+			Cirillo Claudio
+			David
+			George
+			Henry
+			Jackson Johnson Joshua
+			Lodovic Lopez Louis
+			Marko_Mark Michael Modesto
+			Paul Peter
+			Salvatore Saturnino Servilio
+			Thomas Tiburusio
+			Valeriano Vigilio
+		}
+		female_names = {
+			Ajonye Assa
+			Jwan
+			Pita Poni
+		}
+		
+		dukes_called_kings = yes
+
+		modifier = default_culture_modifier
+	}
+	otuho = {
+		graphical_cultures = { africangfx westafricangfx }
+		
+		color = { 0.4 0.3 0.1 }
+
+		male_names = {
+			Alexander Ataib
+			Ben
+			Daniel
+			George
+			Hassan Henry Hussein
+			Isaac
+			James John Joseph
+			Khamis Kizito
+			Lazara_Lazarus Lokeng Louis
+			Michael Murras Musa_Moses
+			Oduho Ofuho Ohide Ohure Otuba Oturo
+			Paul Peter
+			Simon
+			Tafeng Thomas
+		}
+		female_names = {
+			Aisha
+			Celeste
+			Ibala Ibasi Ihoro Ihure Ikayi Ituro
+			Mary
+		}
+		
+		dukes_called_kings = yes
+
+		modifier = default_culture_modifier
+	}
+	ateker = {
+		graphical_cultures = { africangfx westafricangfx }
+		
+		color = { 0.6 0.1 0.3 }
+
+		male_names = {
+			Abdul Abubaker Albert Ali Ambrose Amokode
+			Charles Cosmas
+			David
+			Edau Ekwee Emmanuel Emong Etop Etyang
+			Felix Francis Fredrick
+			George Gervase
+			Hassan
+			Isogol
+			John Jonah Josaphat Joseph Julius
+			Kennedy Kiyonga
+			Lobong Lodovic
+			Martin Michael Musa_Moses Mwanunga
+			Ochen Odeke Oduya Okwara Omenda Onias Opama Orono Oscar Osuko Otai Oyara
+			Pancras Pascal Patrick Paul Peter Philip
+			Remegius Richard Robert Ronald
+			Samson Silas Silvester Sospeter
+			Titus
+			Urabi
+			Vance
+			Yafesi
+		}
+		female_names = {
+			Aisha Ajuma Aquila
+			Carol Catherine
+			Beatrice
+			Emily
+			Gladys Grace
+			Hillary
+			Jessica
+			Margaret Mary
+			Patricia
+			Rose Roselyn
+			Sarah
+			Winfred
 		}
 		
 		dukes_called_kings = yes

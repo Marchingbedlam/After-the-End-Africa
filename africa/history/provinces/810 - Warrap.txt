@@ -1,0 +1,15 @@
+# County Title
+title = c_warrap
+
+# Settlements
+max_settlements = 5
+
+b_kuajok = castle
+b_tonj = city
+b_gogrial = temple
+
+# Misc
+culture = jieng
+religion = ashari
+
+#History

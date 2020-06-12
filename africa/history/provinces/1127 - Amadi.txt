@@ -1,0 +1,15 @@
+# County Title
+title = c_amadi
+
+# Settlements
+max_settlements = 4
+
+b_mundri = castle
+b_maridi = city
+b_lui = temple
+
+# Misc
+culture = jieng
+religion = ashari
+
+#History

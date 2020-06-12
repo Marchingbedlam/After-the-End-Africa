@@ -1,0 +1,15 @@
+# County Title
+title = c_gambela
+
+# Settlements
+max_settlements = 4
+
+b_itang = castle
+b_gambela = city
+b_meti = temple
+
+# Misc
+culture = naath
+religion = ashari
+
+#History

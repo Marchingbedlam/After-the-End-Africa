@@ -1,0 +1,14 @@
+# County Title
+title = c_yirol
+
+# Settlements
+max_settlements = 3
+
+b_abiem = castle
+b_yirol = city
+
+# Misc
+culture = naath
+religion = ashari
+
+#History

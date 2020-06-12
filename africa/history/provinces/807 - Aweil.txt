@@ -1,0 +1,14 @@
+# County Title
+title = c_aweil
+
+# Settlements
+max_settlements = 3
+
+b_nyamlel = castle
+b_aweil = city
+
+# Misc
+culture = jieng
+religion = ashari
+
+#History

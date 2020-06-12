@@ -1,0 +1,15 @@
+# County Title
+title = c_malakal
+
+# Settlements
+max_settlements = 4
+
+b_kodok = castle
+b_malakal = city
+b_banglai = temple
+
+# Misc
+culture = naath
+religion = ashari
+
+#History
