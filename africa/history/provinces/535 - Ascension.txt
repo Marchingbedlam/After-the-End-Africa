@@ -1,0 +1,14 @@
+# County Title
+title=ascension
+
+# Settlements
+max_settlements=3
+
+b_wideawake=castle
+b_georgetown=city
+
+# Misc
+culture=saint
+religion=bretheren
+
+#History

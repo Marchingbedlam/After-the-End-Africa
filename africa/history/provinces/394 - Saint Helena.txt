@@ -1,0 +1,15 @@
+# County Title
+title=saint_helena
+
+# Settlements
+max_settlements=4
+
+b_jamestown=castle
+b_half_tree_hollow=city
+b_longwood=temple
+
+# Misc
+culture=saint
+religion=bretheren
+
+#History

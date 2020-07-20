@@ -92,4 +92,45 @@ e_atlantia = {
 			}
 		}
 	}
+	k_saints = {
+		color={ 68 176 102}
+		color2={ 255 255 255 }
+					
+		capital = 394
+		culture = saint
+					
+		d_saints = {
+			color={ 30 170 30 }
+			color2={ 255 255 255 }
+
+			capital = 394
+						
+			c_saint_helena = {
+				color={ 68 174 4 }
+				color2={ 255 255 255 }
+				
+				b_jamestown = {}
+				b_half_tree_hollow = {}
+				b_longwood = {}
+				b_saint_pauls = {}
+				b_alarm_forest = {}
+				b_levelwood = {}
+				b_sandy_bay = {}
+				b_blue_hill = {}
+			}
+				
+			c_ascension = {
+				color={ 2 176 102 }
+				color2={ 255 255 255 }
+				
+				b_wideawake = {}
+				b_georgetown = {}
+				b_two_boats = {}
+				b_cat_hill = {}
+				b_travellers_hill = {}
+				b_english_bay = {}
+				b_green_mountain = {}
+			}
+		}
+	}
 }

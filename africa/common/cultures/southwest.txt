@@ -483,4 +483,77 @@ namibian = {
 		allow_looting = yes
 		seafarer = yes
 	}
+	saint = {
+		graphical_cultures = { westafricangfx englishgfx }
+		
+		color = { 0.07 0.20 0.20 }
+
+		male_names = {
+			Aaron Alan Albert Alistair_Alexander Alton Alwyn Amar Andrew Anthony Arthur Ashley
+			Balcombe Basil Brian
+			Cansfield Caven Cedric Cecil Charles Clarence Clayton Clint Colin_Nicholas Conrad Conway Cormac Courtney Craig Cruyff Cyril
+			Damian Dampier Darren Darwin David Denzil Deon Derek Donald Duncan
+			Edward Elvis Eric
+			Franklin Frederick
+			Gareth Gavin George Gerald Gurrance
+			Harold Hayward Hensil Herbert Hudson
+			Ian_John Ivan_John Ivor
+			Jace Jacob James Jeffrey_Geoffrey Jeremy Jonathan Jordan
+			Keith Kenneth Kyle
+			Lawson Lee Lemarc Leroy Lewis_Louis Leslie Liam_William Liam-John Lionel Lyndon
+			Mansiel Mark Martin Matthias_Matthew Mervyn Michael
+			Napoleon Nicholas Nigel
+			Onray
+			Paul Peter Philip
+			Raymond Reginald Reynold_Ronald Rhys Robert Rodney Ronan Ross Russell Ryan
+			Sebastian Sexton Stedson Stuart
+			Tedford Terence Trevor Tristan Tyler-John
+			Walton Warren William Wilson
+			Yordie
+			Zelvyn
+		}
+		
+		female_names = {
+			Alicia Andrea Anita Anne Anne-Marie Asita Audrey
+			Barbara Belinda Bernadette Bernice Beverley Bonita Brenda Bronwen
+			Carol Cassidy Catherine Christine Connie Corinda
+			Dawn Deborah Delmarie
+			Eileen Elaine Elizabeth Emma
+			Fiona
+			Gerarda Gillian
+			Hannah
+			Iris
+			Jacqueline Jessica Joanne Jolene Julie
+			Keturah Kylie
+			Lacosta Lillian Lisa Lorraine Lucia Lynette
+			Mabel Margaret Marie_Mary Marie-Anne Mavis Mercia Myra
+			Nyreeka
+			Olga
+			Pamela Paula
+			Rawena Rebecca Roberta Ruby-Jade
+			Sabrina Samantha Sarah Sarah-Kay Sebastiana Sophia Sunita
+			Tara-Jane Thora
+			Venetia Viola Vyona
+			Wendy Winifred
+			Yelka Yvonne
+		}
+
+		from_dynasty_prefix = ""
+
+		baron_titles_hidden = yes
+		count_titles_hidden = yes
+
+		modifier = default_culture_modifier
+
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+
+		allow_looting = yes
+		seafarer = yes
+	}
 }
