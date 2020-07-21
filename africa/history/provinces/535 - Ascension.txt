@@ -1,5 +1,5 @@
 # County Title
-title=ascension
+title=c_ascension
 
 # Settlements
 max_settlements=3
@@ -9,6 +9,6 @@ b_georgetown=city
 
 # Misc
 culture=saint
-religion=bretheren
+religion=brethren
 
 #History
