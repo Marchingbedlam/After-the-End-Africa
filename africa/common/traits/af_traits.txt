@@ -56,3 +56,55 @@ garveyite = {
 	ai_honor = 10
 	
 }
+
+tijaniyya = {
+	opposites = {
+		qadiriyya
+		shadhiliyya
+	}
+
+	opposite_opinion = -5
+	
+	monthly_character_piety = 0.25
+
+	potential = { religion = tarikah }
+	religious_branch = tarikah
+	random = no
+	religious = yes
+	ruler_designer_cost = 0
+}
+
+qadiriyya = {
+	opposites = {
+		tijaniyya
+		shadhiliyya
+	}
+
+	opposite_opinion = -5
+	
+	stewardship = 1
+
+	potential = { religion = tarikah }
+	religious_branch = tarikah
+	random = no
+	religious = yes
+	ruler_designer_cost = 0
+}
+
+shadhiliyya = {
+	opposites = {
+		tijaniyya
+		qadiriyya
+	}
+
+	opposite_opinion = -5
+	
+	diplomacy = 1
+	
+
+	potential = { religion = tarikah }
+	religious_branch = tarikah
+	random = no
+	religious = yes
+	ruler_designer_cost = 0
+}
