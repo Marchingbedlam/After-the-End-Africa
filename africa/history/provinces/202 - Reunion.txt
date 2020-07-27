@@ -1,0 +1,15 @@
+# County Title
+title=c_reunion
+
+# Settlements
+max_settlements=4
+
+b_saint_paul=castle
+b_saint_denis=city
+b_saint_pierre=temple
+
+# Misc
+culture=reunionese
+religion=brethren
+
+#History

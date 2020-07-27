@@ -1,0 +1,15 @@
+# County Title
+title=c_mauritius
+
+# Settlements
+max_settlements=5
+
+b_beau_bassin_rose_hill=castle
+b_port_louis=city
+b_vacoas_phoenix=temple
+
+# Misc
+culture=morisien
+religion=hindu
+
+#History

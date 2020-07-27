@@ -1,0 +1,15 @@
+# County Title
+title=c_seychelles
+
+# Settlements
+max_settlements=4
+
+b_anse_royale=castle
+b_victoria=city
+b_bel_ombre=temple
+
+# Misc
+culture=seychellois
+religion=brethren
+
+#History

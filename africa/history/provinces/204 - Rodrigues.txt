@@ -1,0 +1,14 @@
+# County Title
+title=c_rodrigues
+
+# Settlements
+max_settlements=3
+
+b_mont_lubin=castle
+b_port_mathurin=city
+
+# Misc
+culture=morisien
+religion=brethren
+
+#History

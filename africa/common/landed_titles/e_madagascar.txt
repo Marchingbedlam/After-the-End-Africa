@@ -754,4 +754,74 @@ e_madagscar = {
 			}
 		}
 	}
+	k_indiania = {
+		color={ 68 176 102}
+		color2={ 255 255 255 }
+					
+		capital = 203
+					
+		d_mascarenes = {
+			color={ 223 100 150 }
+			color2={ 255 255 255 }
+
+			capital = 203
+						
+			c_reunion = {
+				color={ 222 173 132 }
+				color2={ 255 255 255 }
+				
+				b_saint_paul = {}
+				b_saint_denis = {}
+				b_saint_pierre = {}
+				b_le_tampon = {}
+				b_saint_benoit = {}
+				b_le_port = {}
+				b_saint_leu = {}
+			}
+				
+			c_mauritius = {
+				color={ 224 68 184 }
+				color2={ 255 255 255 }
+				
+				b_beau_bassin_rose_hill = {}
+				b_port_louis = {}
+				b_vacoas_phoenix = {}
+				b_curepipe = {}
+				b_quatre_bornes = {}
+				b_goodlands = {}
+				b_bel_air_riviere_seche = {}
+			}
+			c_rodrigues = {
+				color={ 222 173 132 }
+				color2={ 255 255 255 }
+				
+				b_mont_lubin = {}
+				b_port_mathurin = {}
+				b_petit_gabriel = {}
+				b_plaine_corail = {}
+				b_port_sud_est = {}
+				b_la_ferme = {}
+				b_la_fouche = {}
+			}
+		}
+		d_seychelles = {
+			color={ 162 194 186 }
+			color2={ 255 255 255 }
+
+			capital = 380
+						
+			c_seychelles = {
+				color={ 186 194 162 }
+				color2={ 255 255 255 }
+				
+				b_anse_royale = {}
+				b_victoria = {}
+				b_bel_ombre = {}
+				b_beau_vallon = {}
+				b_providence = {}
+				b_de_quincy = {}
+				b_grand_anse = {}
+			}
+		}
+	}
 }
