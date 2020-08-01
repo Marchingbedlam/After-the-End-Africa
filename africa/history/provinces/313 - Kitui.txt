@@ -1,0 +1,15 @@
+# County Title
+title=c_kitui
+
+# Settlements
+max_settlements=4
+
+b_mwingi=castle
+b_kitui=city
+b_mutomo=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

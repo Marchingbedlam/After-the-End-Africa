@@ -1,0 +1,16 @@
+# County Title
+title=c_kisumu
+
+# Settlements
+max_settlements=5
+
+b_ahero=castle
+b_kisumu=city
+b_muhoroni=temple
+b_chemelil=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

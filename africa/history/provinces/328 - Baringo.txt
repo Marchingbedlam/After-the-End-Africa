@@ -1,0 +1,15 @@
+# County Title
+title=c_baringo
+
+# Settlements
+max_settlements=4
+
+b_eldama_ravine=castle
+b_kabarnet=city
+b_marigat=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

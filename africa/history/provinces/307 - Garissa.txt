@@ -1,0 +1,15 @@
+# County Title
+title=c_garissa
+
+# Settlements
+max_settlements=4
+
+b_dadaab=castle
+b_garissa=city
+b_ijara=temple
+
+# Misc
+culture=somali
+religion=ashari
+
+#History

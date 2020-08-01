@@ -1,0 +1,14 @@
+# County Title
+title=c_mlele
+# Settlements
+max_settlements=4
+
+b_ugalla=castle
+b_inyonga=city
+b_nsimbo=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

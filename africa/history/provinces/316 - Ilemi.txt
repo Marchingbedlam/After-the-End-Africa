@@ -1,0 +1,13 @@
+# County Title
+title=c_ilemi
+
+# Settlements
+max_settlements=3
+
+b_lokomarinyang=castle
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

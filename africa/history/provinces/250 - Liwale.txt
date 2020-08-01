@@ -1,0 +1,14 @@
+# County Title
+title=c_liwale
+# Settlements
+max_settlements=4
+
+b_kiangara=castle
+b_liwale=city
+b_kibutuka=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

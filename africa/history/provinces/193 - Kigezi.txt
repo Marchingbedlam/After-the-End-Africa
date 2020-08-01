@@ -1,0 +1,14 @@
+# County Title
+title=c_kigezi
+# Settlements
+max_settlements=4
+
+b_rukungiri=castle
+b_kabale=city
+b_kanungu=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

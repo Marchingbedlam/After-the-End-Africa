@@ -1,0 +1,14 @@
+# County Title
+title=c_west_nile
+# Settlements
+max_settlements=4
+
+b_pakwach=castle
+b_arua=city
+b_nebbi=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

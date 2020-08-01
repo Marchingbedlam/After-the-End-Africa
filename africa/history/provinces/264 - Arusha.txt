@@ -1,0 +1,16 @@
+# County Title
+title=c_arusha
+# Settlements
+max_settlements=7
+
+b_usa_river=castle
+b_arusha=city
+b_monduli=temple
+b_longido=castle
+b_tengeru=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

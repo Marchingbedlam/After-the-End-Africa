@@ -1,0 +1,15 @@
+# County Title
+title=c_narok
+
+# Settlements
+max_settlements=4
+
+b_narok=castle
+b_kilgoris=city
+b_lemek=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

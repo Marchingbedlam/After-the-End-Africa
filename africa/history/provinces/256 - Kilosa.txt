@@ -1,0 +1,14 @@
+# County Title
+title=c_kilosa
+# Settlements
+max_settlements=4
+
+b_gairo=castle
+b_kilosa=city
+b_kimamba=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

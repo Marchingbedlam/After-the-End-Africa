@@ -1,0 +1,14 @@
+# County Title
+title=c_sumbawanga
+# Settlements
+max_settlements=5
+
+b_matai=castle
+b_sumbawanga=city
+b_laela=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

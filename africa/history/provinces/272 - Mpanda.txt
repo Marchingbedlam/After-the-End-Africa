@@ -1,0 +1,14 @@
+# County Title
+title=c_mpanda
+# Settlements
+max_settlements=4
+
+b_kabungu=castle
+b_mpanda=city
+b_karema=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

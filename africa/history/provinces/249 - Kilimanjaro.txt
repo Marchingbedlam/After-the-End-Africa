@@ -1,0 +1,15 @@
+# County Title
+title=c_kilimanjaro
+# Settlements
+max_settlements=6
+
+b_boma_ngombe=castle
+b_moshi=city
+b_himo=city
+b_sanya_juu=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

@@ -1,0 +1,14 @@
+# County Title
+title=c_songea
+# Settlements
+max_settlements=4
+
+b_namtumbo=castle
+b_songea=city
+b_mchomolo=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

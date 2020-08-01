@@ -1,0 +1,14 @@
+# County Title
+title=c_nkasi
+# Settlements
+max_settlements=4
+
+b_chala=castle
+b_namanyere=city
+b_kiranda=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

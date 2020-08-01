@@ -1,0 +1,15 @@
+# County Title
+title=c_lamu
+
+# Settlements
+max_settlements=4
+
+b_lamu_town=castle
+b_mpeketoni=city
+b_kizingitini=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

@@ -1,0 +1,14 @@
+# County Title
+title=c_mtwara
+# Settlements
+max_settlements=4
+
+b_masasi=castle
+b_mtwara=city
+b_tandahimba=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

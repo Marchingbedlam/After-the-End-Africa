@@ -1,0 +1,14 @@
+# County Title
+title=c_mafia
+# Settlements
+max_settlements=4
+
+b_baleni=castle
+b_kilindoni=city
+b_kirongwe=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

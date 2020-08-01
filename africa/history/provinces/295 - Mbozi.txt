@@ -1,0 +1,14 @@
+# County Title
+title=c_mbozi
+# Settlements
+max_settlements=4
+
+b_tunduma=castle
+b_vwawa=city
+b_ileje=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

@@ -1,0 +1,14 @@
+# County Title
+title=c_sikonge
+# Settlements
+max_settlements=4
+
+b_ipole=castle
+b_sikonge=city
+b_kiloli=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

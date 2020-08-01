@@ -1,0 +1,15 @@
+# County Title
+title=c_meru
+
+# Settlements
+max_settlements=4
+
+b_nkubu=castle
+b_meru=city
+b_maua=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

@@ -1,0 +1,14 @@
+# County Title
+title=c_marsabit
+# Settlements
+max_settlements=4
+
+b_marsabit=castle
+b_moyale=city
+b_sololo=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

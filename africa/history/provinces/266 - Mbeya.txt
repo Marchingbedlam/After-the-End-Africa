@@ -1,0 +1,15 @@
+# County Title
+title=c_mbeya
+# Settlements
+max_settlements=5
+
+b_kyela=castle
+b_mbeya=city
+b_rungwe=temple
+b_matema=city
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

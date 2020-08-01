@@ -1,0 +1,14 @@
+# County Title
+title=c_bukombe
+# Settlements
+max_settlements=4
+
+b_marongwe=castle
+b_ushirombo=city
+b_mbogwe=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

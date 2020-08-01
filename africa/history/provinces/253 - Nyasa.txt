@@ -1,0 +1,14 @@
+# County Title
+title=c_nyasa
+# Settlements
+max_settlements=4
+
+b_mbamba_bay=castle
+b_mbinga=city
+b_kigonsera=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

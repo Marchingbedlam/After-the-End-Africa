@@ -1,0 +1,14 @@
+# County Title
+title=c_pemba
+# Settlements
+max_settlements=4
+
+b_chake_chake=castle
+b_wete=city
+b_mkoani=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

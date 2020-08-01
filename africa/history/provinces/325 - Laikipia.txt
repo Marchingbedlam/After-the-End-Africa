@@ -1,0 +1,15 @@
+# County Title
+title=c_laikipia
+
+# Settlements
+max_settlements=4
+
+b_rumuruti=castle
+b_nanyuki=city
+b_nyahururu=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

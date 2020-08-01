@@ -1,0 +1,15 @@
+# County Title
+title=c_shinyanga
+# Settlements
+max_settlements=5
+
+b_kahama=castle
+b_shinyanga=city
+b_isaka=temple
+b_jomu=castle
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

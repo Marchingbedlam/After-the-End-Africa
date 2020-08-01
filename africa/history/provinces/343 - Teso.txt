@@ -1,0 +1,14 @@
+# County Title
+title=c_teso
+# Settlements
+max_settlements=4
+
+b_kumi_town=castle
+b_soroti=city
+b_bukedea=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

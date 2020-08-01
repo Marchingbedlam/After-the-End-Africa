@@ -1,0 +1,16 @@
+# County Title
+title=c_tabora
+# Settlements
+max_settlements=6
+
+b_tumbi=castle
+b_tabora=city
+b_lulanguru=temple
+b_itetemia=city
+b_kwihara=castle
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

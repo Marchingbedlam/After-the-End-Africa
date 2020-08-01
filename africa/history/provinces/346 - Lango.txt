@@ -1,0 +1,14 @@
+# County Title
+title=c_lango
+# Settlements
+max_settlements=4
+
+b_oyam=castle
+b_lira=city
+b_dokolo=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

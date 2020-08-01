@@ -1,0 +1,16 @@
+# County Title
+title=c_kampala
+# Settlements
+max_settlements=7
+
+b_mengo=castle
+b_kampala=city
+b_nansana=temple
+b_kira=city
+b_ssabagabo=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title=c_samburu
+
+# Settlements
+max_settlements=4
+
+b_baragoi=castle
+b_maralal=city
+b_archers_post=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

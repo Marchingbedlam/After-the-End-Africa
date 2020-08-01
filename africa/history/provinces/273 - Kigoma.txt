@@ -1,0 +1,16 @@
+# County Title
+title=c_kigoma
+# Settlements
+max_settlements=6
+
+b_ujiji=castle
+b_kigoma=city
+b_mwandiga=temple
+b_bulombora=city
+b_kabeba=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

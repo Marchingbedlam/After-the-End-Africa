@@ -1,0 +1,14 @@
+# County Title
+title=c_kilombero
+# Settlements
+max_settlements=4
+
+b_kidatu=castle
+b_ifakara=city
+b_mlimba=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

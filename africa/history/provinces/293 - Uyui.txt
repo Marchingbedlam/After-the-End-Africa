@@ -1,0 +1,14 @@
+# County Title
+title=c_uyui
+# Settlements
+max_settlements=4
+
+b_ikungu=castle
+b_goweko=city
+b_kigwa=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title=c_geita
+# Settlements
+max_settlements=5
+
+b_chato=castle
+b_geita=city
+b_kharumwa=temple
+b_kasama=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

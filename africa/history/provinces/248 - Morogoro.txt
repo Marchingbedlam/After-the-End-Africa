@@ -1,0 +1,16 @@
+# County Title
+title=c_morogoro
+# Settlements
+max_settlements=6
+
+b_ngerengere=castle
+b_morogoro=city
+b_tawa=temple
+b_mvomero=city
+b_kipera=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

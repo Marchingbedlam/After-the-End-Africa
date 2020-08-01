@@ -1,0 +1,15 @@
+# County Title
+title=c_gitega
+# Settlements
+max_settlements=5
+
+b_kayanza=castle
+b_gitega=city
+b_karuzi=temple
+b_kirundo=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

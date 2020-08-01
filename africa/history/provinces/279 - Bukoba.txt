@@ -1,0 +1,15 @@
+# County Title
+title=c_bukoba
+# Settlements
+max_settlements=5
+
+b_muleba=castle
+b_bukoba=city
+b_omurushaka=temple
+b_nkwenda=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

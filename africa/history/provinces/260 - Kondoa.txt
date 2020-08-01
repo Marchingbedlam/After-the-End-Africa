@@ -1,0 +1,14 @@
+# County Title
+title=c_kondoa
+# Settlements
+max_settlements=4
+
+b_chemba=castle
+b_kondoa=city
+b_kolo=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

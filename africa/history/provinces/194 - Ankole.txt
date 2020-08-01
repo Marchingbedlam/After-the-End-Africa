@@ -1,0 +1,15 @@
+# County Title
+title=c_ankole
+# Settlements
+max_settlements=5
+
+b_bushenyi=castle
+b_mbarara=city
+b_ibanda=temple
+b_isingiro=city
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

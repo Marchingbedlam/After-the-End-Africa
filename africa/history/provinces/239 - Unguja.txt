@@ -1,0 +1,15 @@
+# County Title
+title=c_unguja
+# Settlements
+max_settlements=5
+
+b_stone_town=castle
+b_zanzibar_city=city
+b_mbweni=temple
+b_mangapwani=city
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

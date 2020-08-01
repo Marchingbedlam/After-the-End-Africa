@@ -1,0 +1,15 @@
+# County Title
+title=c_njombe
+# Settlements
+max_settlements=5
+
+b_njombe=castle
+b_makambako=city
+b_wangingombe=temple
+b_ilembula=castle
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title=c_tana
+
+# Settlements
+max_settlements=4
+
+b_bura=castle
+b_hola=city
+b_garsen=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

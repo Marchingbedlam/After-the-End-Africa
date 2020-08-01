@@ -1,0 +1,14 @@
+# County Title
+title=c_urambo
+# Settlements
+max_settlements=4
+
+b_kaliua=castle
+b_urambo=city
+b_motomoto=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

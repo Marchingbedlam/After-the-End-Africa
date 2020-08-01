@@ -1,0 +1,15 @@
+# County Title
+title=c_dodoma
+# Settlements
+max_settlements=5
+
+b_bahi=castle
+b_dodoma=city
+b_ntyuka=temple
+b_ihumwa=city
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

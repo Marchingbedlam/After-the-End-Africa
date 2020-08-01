@@ -1,0 +1,14 @@
+# County Title
+title=c_kasulu
+# Settlements
+max_settlements=4
+
+b_buhigwe=castle
+b_kasulu_town=city
+b_manyovu=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

@@ -1,0 +1,14 @@
+# County Title
+title=c_kitgum
+# Settlements
+max_settlements=4
+
+b_pader=castle
+b_kitgum=city
+b_kalango=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

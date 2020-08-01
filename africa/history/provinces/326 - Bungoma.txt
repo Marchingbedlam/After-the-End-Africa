@@ -1,0 +1,15 @@
+# County Title
+title=c_bungoma
+
+# Settlements
+max_settlements=4
+
+b_bungoma=castle
+b_kimilili=city
+b_webuye=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

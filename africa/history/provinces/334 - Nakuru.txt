@@ -1,0 +1,16 @@
+# County Title
+title=c_nakuru
+
+# Settlements
+max_settlements=6
+
+b_naivasha=castle
+b_nakuru=city
+b_molo=temple
+b_gilgil=castle
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

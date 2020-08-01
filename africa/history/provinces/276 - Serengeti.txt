@@ -1,0 +1,14 @@
+# County Title
+title=c_serengeti
+# Settlements
+max_settlements=4
+
+b_nyamongo=castle
+b_mugumu=city
+b_nyamwaga=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

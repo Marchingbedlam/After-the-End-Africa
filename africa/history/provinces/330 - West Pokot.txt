@@ -1,0 +1,15 @@
+# County Title
+title=c_west_pokot
+
+# Settlements
+max_settlements=4
+
+b_chepareria=castle
+b_kapenguria=city
+b_sigor=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title=c_mubende
+# Settlements
+max_settlements=5
+
+b_kiboga=castle
+b_mubende=city
+b_nakaseke=temple
+b_kyankwanzi=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

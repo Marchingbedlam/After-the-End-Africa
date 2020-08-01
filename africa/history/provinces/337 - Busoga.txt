@@ -1,0 +1,15 @@
+# County Title
+title=c_busoga
+# Settlements
+max_settlements=5
+
+b_bugembe=castle
+b_jinja=city
+b_iganga=temple
+b_bugiri=city
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

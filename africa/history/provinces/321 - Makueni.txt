@@ -1,0 +1,16 @@
+# County Title
+title=c_makueni
+
+# Settlements
+max_settlements=5
+
+b_makindu=castle
+b_wote=city
+b_emali=temple
+b_sultan_hamud=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

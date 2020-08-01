@@ -1,0 +1,14 @@
+# County Title
+title=c_musoma
+# Settlements
+max_settlements=4
+
+b_bunda_town=castle
+b_musoma=city
+b_butiama=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title=c_bagamoyo
+# Settlements
+max_settlements=5
+
+b_kibaha=castle
+b_bagamoyo=city
+b_kaole=temple
+b_mlandizi=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

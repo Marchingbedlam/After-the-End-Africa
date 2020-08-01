@@ -1,0 +1,16 @@
+# County Title
+title=c_kigali
+# Settlements
+max_settlements=7
+
+b_kabuga=castle
+b_kigali=city
+b_byumba=temple
+b_kibungo=city
+b_rwamagana=city
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

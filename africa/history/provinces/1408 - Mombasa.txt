@@ -1,0 +1,17 @@
+# County Title
+title=c_mombasa
+
+# Settlements
+max_settlements=6
+
+b_fort_jesus=castle
+b_mombasa=city
+b_old_town=temple
+b_mtwapa=city
+b_likoni=castle
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

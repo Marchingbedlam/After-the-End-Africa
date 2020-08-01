@@ -1,0 +1,14 @@
+# County Title
+title=c_babati
+# Settlements
+max_settlements=4
+
+b_mbulu=castle
+b_babati=city
+b_haydom=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

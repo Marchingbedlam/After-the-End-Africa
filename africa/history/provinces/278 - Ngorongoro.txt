@@ -1,0 +1,14 @@
+# County Title
+title=c_ngorongoro
+# Settlements
+max_settlements=4
+
+b_loliondo=castle
+b_karatu=city
+b_mto_wa_mbu=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

@@ -1,0 +1,15 @@
+# County Title
+title=c_nyanza
+# Settlements
+max_settlements=5
+
+b_nyanza=castle
+b_butare=city
+b_muhanga=temple
+b_ruhengeri=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

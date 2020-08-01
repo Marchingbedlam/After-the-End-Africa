@@ -1,0 +1,15 @@
+# County Title
+title=c_bugisu
+# Settlements
+max_settlements=5
+
+b_sironko=castle
+b_mbale=city
+b_busia=temple
+b_tororo=city
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

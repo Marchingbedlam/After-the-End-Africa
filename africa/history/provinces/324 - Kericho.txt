@@ -1,0 +1,15 @@
+# County Title
+title=c_kericho
+
+# Settlements
+max_settlements=4
+
+b_kipkelion=castle
+b_kericho=city
+b_litein=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

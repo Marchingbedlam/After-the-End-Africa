@@ -1,0 +1,15 @@
+# County Title
+title=c_homabay
+
+# Settlements
+max_settlements=4
+
+b_kendu_bay=castle
+b_homa_bay=city
+b_awach_tende=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

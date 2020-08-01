@@ -1,0 +1,15 @@
+# County Title
+title=c_mandera
+
+# Settlements
+max_settlements=4
+
+b_el_wak=castle
+b_mandera=city
+b_rhamu=temple
+
+# Misc
+culture=somali
+religion=ashari
+
+#History

@@ -1,0 +1,17 @@
+# County Title
+title=c_dar_es_salaam
+# Settlements
+max_settlements=7
+
+b_ilala=castle
+b_kinodoni=city
+b_kigamboni=temple
+b_temeke=city
+b_ubungo=castle
+c_oysterbay=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

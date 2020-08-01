@@ -1,0 +1,15 @@
+# County Title
+title=c_mwanza
+# Settlements
+max_settlements=5
+
+b_sengerama=castle
+b_mwanza=city
+b_misungwi=temple
+b_magu=city
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

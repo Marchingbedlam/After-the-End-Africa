@@ -1,0 +1,15 @@
+# County Title
+title=c_trans_nzoia
+
+# Settlements
+max_settlements=4
+
+b_endebess=castle
+b_kitale=city
+b_kwanza=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

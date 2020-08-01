@@ -191,13 +191,13 @@ province;red;green;blue;x;x
 190;181;112;15;Tanezrouft;x
 191;210;222;34;Chinde;x
 192;160;232;25;Quelimane;x
-193;55;243;168;Rukungiri;x
-194;233;201;46;Mbarara;x
-195;231;192;136;Kabarole;x
-196;223;92;70;Kyenjojo;x
-197;246;35;118;Masindi;x
-198;128;188;246;Nile;x
-199;175;215;146;Amuru;x
+193;55;243;168;Kigezi;x
+194;233;201;46;Ankole;x
+195;231;192;136;Rwenzururu;x
+196;223;92;70;Tooro;x
+197;246;35;118;Bunyoro;x
+198;128;188;246;West Nile;x
+199;175;215;146;Gulu;x
 200;129;116;245;Grande Comore;x
 201;197;148;124;Mayotte;x
 202;222;173;132;Reunion;x
@@ -237,7 +237,7 @@ province;red;green;blue;x;x
 236;241;133;183;Belon'i Tsiribihina;x
 237;210;90;207;Morondava;x
 238;241;158;109;Pemba;x
-239;147;105;72;Zanzibar;x
+239;147;105;72;Unguja;x
 240;154;91;236;Mafia;x
 241;1;162;75;Tanga;x
 242;119;194;15;Dar es Salaam;x
@@ -252,18 +252,18 @@ province;red;green;blue;x;x
 251;252;127;82;Tunduru;x
 252;8;181;218;Songea;x
 253;4;162;254;Nyasa;x
-254;253;170;78;Mahenge;x
+254;253;170;78;Ulanga;x
 255;139;95;70;Kilombero;x
 256;220;184;154;Kilosa;x
 257;125;97;137;Iringa;x
-258;74;138;20;Mufundi;x
+258;74;138;20;Mafinga;x
 259;29;146;125;Dodoma;x
-260;222;195;3;Chemba;x
+260;222;195;3;Kondoa;x
 261;146;203;2;Handeni;x
 262;141;9;154;Kiteto;x
 263;179;202;211;Babati;x
 264;53;223;169;Arusha;x
-265;216;62;5;Lukwati;x
+265;216;62;5;Songwe;x
 266;19;199;47;Mbeya;x
 267;197;123;66;Mbarali;x
 268;235;29;196;Njombe;x
@@ -284,7 +284,7 @@ province;red;green;blue;x;x
 283;19;53;108;Kibondo;x
 284;228;165;51;Sikonge;x
 285;137;161;232;Shinyanga;x
-286;202;192;130;Kaliua;x
+286;202;192;130;Urambo;x
 287;206;3;24;Nzega;x
 288;250;143;204;Geita;x
 289;130;150;74;Bukombe;x
@@ -292,16 +292,16 @@ province;red;green;blue;x;x
 291;143;194;156;Maswa;x
 292;141;71;139;Tabora;x
 293;138;134;29;Uyui;x
-294;152;113;214;Kilolo;x
-295;111;104;199;Songwe;x
-296;92;230;238;Mwanga;x
+294;152;113;214;Udzungwa;x
+295;111;104;199;Mbozi;x
+296;92;230;238;Mkomazi;x
 297;133;136;141;Mkuranga;x
-298;168;33;38;Mwapwa;x
+298;168;33;38;Mpwapwa;x
 299;147;233;129;Kigali;x
-300;147;105;155;Ngoma;x
+300;147;105;155;Nyanza;x
 301;159;93;229;Bujumbura;x
-302;6;173;221;Mutumba;x
-303;121;49;118;Buyengero;x
+302;6;173;221;Gitega;x
+303;121;49;118;Rumonge;x
 304;62;240;163;Kibuye;x
 305;50;100;174;Mandera;x
 306;241;159;126;Wajir;x
@@ -337,15 +337,15 @@ province;red;green;blue;x;x
 336;150;253;73;Nyeri;x
 337;133;7;55;Busoga;x
 338;217;131;23;Masaka;x
-339;181;66;116;Bombo;x
+339;181;66;116;Buikwe;x
 340;242;37;222;Kampala;x
 341;157;107;195;Mubende;x
-342;81;192;217;Mbale;x
+342;81;192;217;Bugisu;x
 343;155;11;8;Teso;x
-344;111;245;250;Morota;x
+344;111;245;250;Moroto;x
 345;112;209;242;Kotido;x
 346;212;205;207;Lango;x
-347;114;151;9;Acholi;x
+347;114;151;9;Kitgum;x
 348;209;241;84;Nki-Bek;x ##Cameroon
 349;218;164;37;Batouri;x  
 350;252;255;117;Logone-et-Chari;x 
@@ -894,7 +894,7 @@ province;red;green;blue;x;x
 893;179;67;159;Mbanza-Kongo;x
 894;142;6;68;Soyo;x
 895;135;209;77;Luanda;x
-896;;;;;x
+896;146;81;217;Uvinza;x
 897;121;23;91;Alto Zambeze;x
 898;116;131;46;Lumbala Nguimbo;x
 899;;;;;x
@@ -1393,8 +1393,8 @@ province;red;green;blue;x;x
 1392;3;154;8;Kanya Bayonga;x
 1393;105;128;188;Kashebere;x
 1394;208;148;24;Mahagi;x
-1395;224;43;223;Kakuma;x
-1396;218;158;209;Sibiloi;x
+1395;;;;;x
+1396;;;;;x
 1397;228;252;191;Gao;x
 1398;220;207;2;Dire;x
 1399;214;110;2;Kwahu;x
@@ -1405,7 +1405,7 @@ province;red;green;blue;x;x
 1404;167;32;216;Regone;x
 1405;111;127;30;Nametil;x
 1406;92;239;78;Mueda;x
-1407;85;171;158;Garsen;x
+1407;;;;;x
 1408;143;168;76;Mombasa;x
 1409;239;124;47;Sekyere;x
 1410;203;128;134;Soum;x

@@ -1,0 +1,14 @@
+# County Title
+title=c_lindi
+# Settlements
+max_settlements=4
+
+b_ruangwa=castle
+b_lindi=city
+b_nachingweya=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

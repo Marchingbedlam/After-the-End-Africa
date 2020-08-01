@@ -1,0 +1,14 @@
+# County Title
+title=c_mafinga
+# Settlements
+max_settlements=4
+
+b_mufindi=castle
+b_mafinga=city
+b_ifunda=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

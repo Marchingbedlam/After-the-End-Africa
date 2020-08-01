@@ -1,0 +1,17 @@
+# County Title
+title=c_nairobi
+
+# Settlements
+max_settlements=7
+
+b_westlands=castle
+b_nairobi=city
+b_thika=temple
+b_ruiru=castle
+b_kibera=city
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

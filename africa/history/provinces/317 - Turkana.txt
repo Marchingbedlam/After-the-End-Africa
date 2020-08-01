@@ -1,0 +1,15 @@
+# County Title
+title=c_turkana
+
+# Settlements
+max_settlements=4
+
+b_lokichogio=castle
+b_lodwar=city
+b_kakuma=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

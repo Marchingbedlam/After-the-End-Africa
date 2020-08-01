@@ -1,0 +1,14 @@
+# County Title
+title=c_mkuranga
+# Settlements
+max_settlements=4
+
+b_vikindu=castle
+b_mkuranga=city
+b_kisarawe=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

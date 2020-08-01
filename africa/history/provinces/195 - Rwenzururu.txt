@@ -1,0 +1,15 @@
+# County Title
+title=c_rwenzururu
+# Settlements
+max_settlements=5
+
+b_fort_portal=castle
+b_kasese=city
+b_ntoroko=city
+b_bundibugyo=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

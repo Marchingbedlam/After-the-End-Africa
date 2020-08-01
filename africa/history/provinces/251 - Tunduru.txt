@@ -1,0 +1,14 @@
+# County Title
+title=c_tunduru
+# Settlements
+max_settlements=4
+
+b_matemanga=castle
+b_tunduru=city
+b_nakapanya=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

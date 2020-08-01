@@ -1,0 +1,15 @@
+# County Title
+title=c_tooro
+# Settlements
+max_settlements=5
+
+b_kamwenge=castle
+b_kyenjojo=city
+b_kyegegwa=temple
+b_kibaale=castle
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

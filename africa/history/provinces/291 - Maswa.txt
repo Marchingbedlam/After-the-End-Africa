@@ -1,0 +1,14 @@
+# County Title
+title=c_maswa
+# Settlements
+max_settlements=4
+
+b_nyalikungu=castle
+b_maswa=city
+b_malampaka=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

@@ -1,0 +1,16 @@
+# County Title
+title=c_machakos
+
+# Settlements
+max_settlements=5
+
+b_athi_river=castle
+b_machakos=city
+b_tala=temple
+b_kangundo=city
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

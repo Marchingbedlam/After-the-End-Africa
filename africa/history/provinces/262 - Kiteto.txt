@@ -1,0 +1,14 @@
+# County Title
+title=c_kiteto
+# Settlements
+max_settlements=5
+
+b_orkesumet=castle
+b_kibaya=city
+b_terrat=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

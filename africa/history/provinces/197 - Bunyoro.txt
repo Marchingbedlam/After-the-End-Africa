@@ -1,0 +1,16 @@
+# County Title
+title=c_bunyoro
+# Settlements
+max_settlements=6
+
+b_masindi=castle
+b_hoima=city
+b_kiryandongo=temple
+b_buliisa=temple
+b_masindi_port=city
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

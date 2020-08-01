@@ -1,0 +1,16 @@
+# County Title
+title=c_bujumbura
+# Settlements
+max_settlements=6
+
+b_cibitoke=castle
+b_bujumbura=city
+b_ngozi=temple
+b_bubanza=castle
+b_gatumba=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

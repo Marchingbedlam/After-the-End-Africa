@@ -1,0 +1,14 @@
+# County Title
+title=c_kotido
+# Settlements
+max_settlements=4
+
+b_abim=castle
+b_kotido=city
+b_kaabong=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

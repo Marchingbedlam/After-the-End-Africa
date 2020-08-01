@@ -1,0 +1,15 @@
+# County Title
+title=c_rumonge
+# Settlements
+max_settlements=5
+
+b_bururi=castle
+b_rumonge=city
+b_makamba=temple
+b_rutana=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

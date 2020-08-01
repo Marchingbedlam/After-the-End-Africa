@@ -1,0 +1,14 @@
+# County Title
+title=c_nzega
+# Settlements
+max_settlements=4
+
+b_bukene=castle
+b_nzega=city
+b_igunga=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

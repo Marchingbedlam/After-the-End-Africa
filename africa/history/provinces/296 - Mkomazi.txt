@@ -1,0 +1,14 @@
+# County Title
+title=c_mkomazi
+# Settlements
+max_settlements=4
+
+b_same=castle
+b_mwanga=city
+b_lembeni=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

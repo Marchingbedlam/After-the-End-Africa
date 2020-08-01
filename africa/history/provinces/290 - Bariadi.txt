@@ -1,0 +1,14 @@
+# County Title
+title=c_bariadi
+# Settlements
+max_settlements=4
+
+b_lamadi=castle
+b_bariadi=city
+b_nkololo=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

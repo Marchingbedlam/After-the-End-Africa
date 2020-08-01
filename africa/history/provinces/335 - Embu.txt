@@ -1,0 +1,15 @@
+# County Title
+title=c_embu
+
+# Settlements
+max_settlements=4
+
+b_manyatta=castle
+b_embu=city
+b_runyenjes=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

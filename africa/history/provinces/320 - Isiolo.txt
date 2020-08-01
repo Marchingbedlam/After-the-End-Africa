@@ -1,0 +1,15 @@
+# County Title
+title=c_isiolo
+
+# Settlements
+max_settlements=4
+
+b_garba_tula=castle
+b_isiolo=city
+b_merti=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

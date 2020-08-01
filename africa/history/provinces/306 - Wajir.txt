@@ -1,0 +1,15 @@
+# County Title
+title=c_wajir
+
+# Settlements
+max_settlements=4
+
+b_habaswein=castle
+b_wajir=city
+b_bute=temple
+
+# Misc
+culture=somali
+religion=ashari
+
+#History

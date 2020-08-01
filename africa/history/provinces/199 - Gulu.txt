@@ -1,0 +1,13 @@
+# County Title
+title=c_gulu
+# Settlements
+max_settlements=5
+b_amuru=castle
+b_gulu=city
+b_palenga=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

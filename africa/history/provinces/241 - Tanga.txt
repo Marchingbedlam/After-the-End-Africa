@@ -1,0 +1,15 @@
+# County Title
+title=c_tanga
+# Settlements
+max_settlements=5
+
+b_muheza=castle
+b_tanga=city
+b_korogwe=temple
+b_lushoto=city
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

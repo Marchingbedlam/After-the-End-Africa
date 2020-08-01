@@ -1,0 +1,14 @@
+# County Title
+title=c_mbarali
+# Settlements
+max_settlements=4
+
+b_chunya=castle
+b_ubaruku=city
+b_igurusi=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

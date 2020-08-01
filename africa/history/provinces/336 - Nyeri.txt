@@ -1,0 +1,16 @@
+# County Title
+title=c_nyeri
+
+# Settlements
+max_settlements=5
+
+b_othaya=castle
+b_nyeri=city
+b_karatina=temple
+b_naro_moru=city
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

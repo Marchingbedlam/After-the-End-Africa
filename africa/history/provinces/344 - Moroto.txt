@@ -1,0 +1,14 @@
+# County Title
+title=c_moroto
+# Settlements
+max_settlements=4
+
+b_nakapiripirit=castle
+b_moroto=city
+b_iriri=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

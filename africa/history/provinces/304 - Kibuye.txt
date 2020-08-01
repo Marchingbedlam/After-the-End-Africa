@@ -1,0 +1,15 @@
+# County Title
+title=c_kibuye
+# Settlements
+max_settlements=5
+
+b_kibuye=castle
+b_gisenyi=city
+b_cyangugu=temple
+b_ngororero=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

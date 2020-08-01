@@ -1,0 +1,14 @@
+# County Title
+title=c_biharamulo
+# Settlements
+max_settlements=4
+
+b_kabanga=castle
+b_biharamulo=city
+b_muzani=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

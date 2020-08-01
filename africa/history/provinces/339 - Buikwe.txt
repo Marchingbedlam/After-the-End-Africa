@@ -1,0 +1,15 @@
+# County Title
+title=c_buikwe
+# Settlements
+max_settlements=6
+
+b_buikwe=castle
+b_njeru=city
+b_lugazi=temple
+b_luweero=city
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

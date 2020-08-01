@@ -1,0 +1,14 @@
+# County Title
+title=c_kibondo
+# Settlements
+max_settlements=4
+
+b_kakonko=castle
+b_kibondo=city
+b_kasanda=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

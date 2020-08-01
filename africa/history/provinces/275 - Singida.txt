@@ -1,0 +1,15 @@
+# County Title
+title=c_singida
+# Settlements
+max_settlements=5
+
+b_ikungi=castle
+b_singida=city
+b_kiomboi=temple
+b_shelui=city
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History

@@ -1,0 +1,14 @@
+# County Title
+title=c_ulanga
+# Settlements
+max_settlements=4
+
+b_lupiro=castle
+b_mahenge=city
+b_mtimbira=temple
+
+# Misc
+culture=noculture
+religion=ashari
+
+#History
