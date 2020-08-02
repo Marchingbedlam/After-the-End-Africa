@@ -9,7 +9,7 @@ b_ukunda=city
 b_kinango=temple
 
 # Misc
-culture=noculture
+culture=waswahili
 religion=ashari
 
 #History

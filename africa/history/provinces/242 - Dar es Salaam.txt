@@ -11,7 +11,7 @@ b_ubungo=castle
 c_oysterbay=temple
 
 # Misc
-culture=noculture
+culture=waswahili
 religion=ashari
 
 #History

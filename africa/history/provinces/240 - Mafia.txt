@@ -8,7 +8,7 @@ b_kilindoni=city
 b_kirongwe=temple
 
 # Misc
-culture=noculture
+culture=waswahili
 religion=ashari
 
 #History

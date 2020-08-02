@@ -8,7 +8,7 @@ b_mtwara=city
 b_tandahimba=temple
 
 # Misc
-culture=noculture
+culture=waswahili
 religion=ashari
 
 #History

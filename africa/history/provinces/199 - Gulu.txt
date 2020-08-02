@@ -7,7 +7,7 @@ b_gulu=city
 b_palenga=temple
 
 # Misc
-culture=noculture
-religion=ashari
+culture=luo
+religion=anglican
 
 #History

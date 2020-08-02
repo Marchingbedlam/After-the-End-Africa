@@ -10,7 +10,7 @@ b_gede=temple
 b_watamu=castle
 
 # Misc
-culture=noculture
+culture=waswahili
 religion=ashari
 
 #History

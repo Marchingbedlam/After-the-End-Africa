@@ -9,7 +9,7 @@ b_mbweni=temple
 b_mangapwani=city
 
 # Misc
-culture=noculture
+culture=waswahili
 religion=ashari
 
 #History

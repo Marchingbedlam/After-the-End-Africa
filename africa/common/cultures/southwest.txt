@@ -417,15 +417,15 @@ namibian = {
 
 		modifier = default_culture_modifier
 	}
-	angloid = {
+	saffie = {
 		graphical_cultures = { westafricangfx englishgfx }
 		
 		color = { 0.55 0.5 0.3 }
 
 		male_names = {
-			Alistair Allan Andrew Anthony Arnold Arthur Athol
+			Alexander Allan Andrew Anthony Arnold Arthur Athol
 			Bruce Byron
-			Calvin Cecil Charles Christopher Clarence Clement Clifford Clive Clyde Colin Craig
+			Calvin Cecil Charles Christopher Clarence Clement Clifford Clive Clyde Colin Constantine Craig
 			David Denis Desmond Donovan Duncan
 			Edmund Edward Edwin Elmer Eric Ernest Errol Eustace Evelyn
 			Frederick Fulton
@@ -439,11 +439,11 @@ namibian = {
 			Oswald
 			Patrick Paul Percy
 			Raymond Reginald Rhett Richard Robert Roger Roland Ronald Rufane
-			Sean Stephen
+			Shaun Stephen
 			Terence Theophilus Thomas Timothy Trevor
 			Verney Victor
-			Watkin Wilbur Wilfred William Winston Wrexham
-			Xavier
+			Watkin Wilbur Wilfred William Winston Wrexley
+			Xavier Xenophon
 		}
 		
 		female_names = {

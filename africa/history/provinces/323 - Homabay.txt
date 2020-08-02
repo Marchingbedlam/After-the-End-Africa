@@ -9,7 +9,7 @@ b_homa_bay=city
 b_awach_tende=temple
 
 # Misc
-culture=noculture
+culture=luo
 religion=ashari
 
 #History

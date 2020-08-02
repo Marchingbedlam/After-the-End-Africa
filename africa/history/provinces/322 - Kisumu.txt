@@ -10,7 +10,7 @@ b_muhoroni=temple
 b_chemelil=temple
 
 # Misc
-culture=noculture
+culture=luo
 religion=ashari
 
 #History

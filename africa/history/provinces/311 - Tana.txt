@@ -9,7 +9,7 @@ b_hola=city
 b_garsen=temple
 
 # Misc
-culture=noculture
+culture=waswahili
 religion=ashari
 
 #History

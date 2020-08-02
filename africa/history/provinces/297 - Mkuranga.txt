@@ -8,7 +8,7 @@ b_mkuranga=city
 b_kisarawe=temple
 
 # Misc
-culture=noculture
+culture=waswahili
 religion=ashari
 
 #History

@@ -8,7 +8,7 @@ b_kilwa_masoko=city
 b_kilwa_kisiwani=temple
 
 # Misc
-culture=noculture
+culture=waswahili
 religion=ashari
 
 #History

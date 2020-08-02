@@ -11,7 +11,7 @@ b_mtwapa=city
 b_likoni=castle
 
 # Misc
-culture=noculture
+culture=waswahili
 religion=ashari
 
 #History

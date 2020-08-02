@@ -9,7 +9,7 @@ b_kaole=temple
 b_mlandizi=temple
 
 # Misc
-culture=noculture
+culture=waswahili
 religion=ashari
 
 #History

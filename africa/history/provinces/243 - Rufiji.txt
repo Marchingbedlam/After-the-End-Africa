@@ -8,7 +8,7 @@ b_bungu=city
 b_utete=temple
 
 # Misc
-culture=noculture
+culture=waswahili
 religion=ashari
 
 #History

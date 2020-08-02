@@ -9,7 +9,7 @@ b_mpeketoni=city
 b_kizingitini=temple
 
 # Misc
-culture=noculture
+culture=waswahili
 religion=ashari
 
 #History

@@ -8,7 +8,7 @@ b_kitgum=city
 b_kalango=temple
 
 # Misc
-culture=noculture
-religion=ashari
+culture=luo
+religion=anglican
 
 #History

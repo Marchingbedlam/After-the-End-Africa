@@ -8,7 +8,7 @@ b_lindi=city
 b_nachingweya=temple
 
 # Misc
-culture=noculture
+culture=waswahili
 religion=ashari
 
 #History

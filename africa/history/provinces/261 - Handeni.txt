@@ -9,7 +9,7 @@ b_handeni=city
 b_segera=temple
 
 # Misc
-culture=noculture
+culture=waswahili
 religion=ashari
 
 #History

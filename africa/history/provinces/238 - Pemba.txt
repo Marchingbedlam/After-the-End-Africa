@@ -8,7 +8,7 @@ b_wete=city
 b_mkoani=temple
 
 # Misc
-culture=noculture
+culture=waswahili
 religion=ashari
 
 #History

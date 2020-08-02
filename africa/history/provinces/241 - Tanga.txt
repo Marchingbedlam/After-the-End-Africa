@@ -9,7 +9,7 @@ b_korogwe=temple
 b_lushoto=city
 
 # Misc
-culture=noculture
+culture=waswahili
 religion=ashari
 
 #History
