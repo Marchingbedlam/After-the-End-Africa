@@ -385,7 +385,7 @@ e_sahel = {
 				b_khombole_SN = {}
 				b_kayar_SN = {}
 			}
-			c_foundiougne = { # 62
+			c_fatick = { # 62
 				color={ 124 124 32 }
 				color2={ 255 255 255 }
 				

@@ -79,32 +79,37 @@ senegambian = {
 		graphical_cultures = { westafricangfx africangfx }
 			
 		male_names = {
-			Abdoulie_Abdullah Abdul-Aziz Abibou Afansu Alasanne_Alhassan Alexandre_Alexander Aliou_Ali Amadou_Ahmed Ambroise_Ambrose Antoine_Anthony Augustin_Augustine
-			Bacary_Abu-Bakr Bassiro Bernard Boulai
+			Abdoulie_Abdullah Abdul-Aziz Abibou Adama_Adam Afansu Alasanne_Alhassan Alexandre_Alexander Alfred Aliou_Ali Amadou_Ahmed Ambroise_Ambrose Antoine_Anthony Assan_Hassan Augustin_Augustine
+			Baboucarr-Blaise Baboucarr-Hassan Baboucarr-Jean Bacary_Abu-Bakr Badou Basile_Basil Bassiro Bernard Boulai
 			Caesar
-			Djasson Djinabo Djiremo
-			Ebou Ekona Ellibah
-			Farimang
+			Dawda_David Dembo Djasson Djinabo Djiremo
+			Ebou Ebrima_Abraham Ekona Ellibah
+			Famara Farimang
 			Haruna_Aaron Houlio Houmandrissah
 			Idrissa_Idris
-			James Jean-Bosco Jemus Jules Junkung
-			Landing Lang
-			Malick_Malik Mamadou_Mohammed Maxient Malang Modou Moulaye_Mulay Moussa_Moses Moustapha_Mustafa
+			James Jaysuma Jean-Bosco Jemus Joseph Jules_Julius Junkung
+			Lamin Landing Lang Louis
+			Malick_Malik Maxient Malang Matarr Modou Momodou_Muhammad Moulaye_Mulay Moussa_Moses Moustapha_Mustafa
 			Nfamara Nierikoun 
-			Olivier_Oliver Ousainou_Hussayn Ousmane_Osman
-			Pierre_Peter
-			Robert
-			Saikou Salif Saliou Sibacouyane Sibilumbai Sidy Sihalebe Sikakucele Sirif_Sharif Songatebeh
+			Olivier_Oliver Oumar_Omar Ousainou_Hussayn Ousmane_Osman
+			Paul Pierre_Peter
+			Robert Roger
+			Saidykhan Saikou Salif Saliou Sibacouyane Sibilumbai Sidi-Moro Sidy Sihalebe Sikakucele Sirif_Sharif Songatebeh Suwaibou
 			Wouli_Wali
 			Yahya_John Youba
 		}
 		
 		female_names = {
 			Aja Aguene Aissatou_Aisha Aline Ashombi
+			Bintanding
 			Diambogne Dienaba
-			Fatou
+			Fatima Fatoumata
 			Hortense Hyacinthe
+			Isatou
 			Mariam_Mary
+			Rosaline
+			Saffie Salimatou
+			Thérèse
 		}
 	}
 }

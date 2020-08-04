@@ -11,7 +11,7 @@ b_birkilane_SN = city
 b_malem_hoddar_SN = temple
 
 # Misc
-culture = serer
+culture = wolof
 religion = mouride
 
 #History
