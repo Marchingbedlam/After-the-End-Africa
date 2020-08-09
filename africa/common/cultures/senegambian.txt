@@ -47,7 +47,7 @@ senegambian = {
 			Abdoulaye_Abdullah Abdourahmane_Abdul-Rahman Alassane_Alhassan Albert Alfred Alieu_Ali Assane_Hassan
 			"Bai Modi" Biram Boukar_Abu-Bakr Boureh
 			Cham Cheick_Sheikh Chérif_Sharif
-			Dawda_David
+			Dawda_David Diogop
 			Ebrima_Abraham Elhadji
 			Fode_Foday
 			Guirane
@@ -56,7 +56,7 @@ senegambian = {
 			Jaraff Jilaak
 			Laïty Léopold_Leopold
 			Mahecor Makhtar_Mukhtar Mame Mansour_Mansur Mapenda Matar Momar_Muammar Mouhammed_Mohammed Moussa_Moses
-			Ndaah Njeeme Njekeh
+			Ndaah N'Gouye Njeeme Njekeh
 			Ouleye Ousmane_Osman
 			Pascal
 			Ramat Rumun
@@ -89,7 +89,7 @@ senegambian = {
 			Idrissa_Idris
 			James Jaysuma Jean-Bosco Jemus Joseph Jules_Julius Junkung
 			Lamin Landing Lang Louis
-			Malick_Malik Maxient Malang Matarr Modou Momodou_Muhammad Moulaye_Mulay Moussa_Moses Moustapha_Mustafa
+			Malick_Malik Maxient Malang Matar Modou Momodou_Muhammad Moulaye_Mulay Moussa_Moses Moustapha_Mustafa
 			Nfamara Nierikoun 
 			Olivier_Oliver Oumar_Omar Ousainou_Hussayn Ousmane_Osman
 			Paul Pierre_Peter

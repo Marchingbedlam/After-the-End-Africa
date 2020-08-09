@@ -5,12 +5,10 @@ title = c_sourou
 # Settlements
 max_settlements = 4
 
-b_tougan = castle
-b_niankore = city
-b_gassan = temple
+b_tougan = tribal
 
 # Misc
-culture = dogon
-religion = tarikah
+culture = mossi
+religion = marabouti
 
 #History

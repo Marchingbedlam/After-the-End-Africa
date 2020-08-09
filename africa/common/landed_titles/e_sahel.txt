@@ -66,13 +66,6 @@ e_sahel = {
 				b_quebo_GW = {}
 				b_cufar_GW = {}
 			}
-		}
-		d_bafata = {
-			color={ 176 129 71 }
-			color2={ 255 255 255 }
-			
-			capital = 53 # c_bafata
-			
 			c_bafata = { # 53
 				color={ 166 139 66 }
 				color2={ 255 255 255 }
@@ -84,18 +77,6 @@ e_sahel = {
 				b_xitole_GW = {}
 				b_galomaro_GW = {}
 				b_pirada_GW = {}
-			}
-			c_kolda = { # 54
-				color={ 131 131 84 }
-				color2={ 255 255 255 }
-				
-				b_kolda_SN = {}
-				b_medina_yoro_foulah_SN = {}
-				b_velingara_SN = {}
-				b_pakour_SN = {}
-				b_fafacourou_SN = {}
-				b_salikegne_SN = {}
-				b_kounkane_SN = {}
 			}
 		}
 		d_casamance = {
@@ -116,18 +97,6 @@ e_sahel = {
 				b_diattacounda_SN = {}
 				b_diannah_malary_SN = {}
 			}
-			c_gambia = { # 56
-				color={ 103 103 15 }
-				color2={ 255 255 255 }
-				
-				b_banjul_GM = {}
-				b_serekunda_GM = {}
-				b_brikama_GM = {}
-				b_kerewan_GM = {}
-				b_kanifing_GM = {}
-				b_mansakonko_GM = {}
-				b_farafenni_GM = {}
-			}
 			c_ziguinchor = { # 57
 				color={ 114 121 43 }
 				color2={ 255 255 255 }
@@ -140,53 +109,17 @@ e_sahel = {
 				b_dimbering_SN = {}
 				b_mlomp_SN = {}
 			}
-		}
-		d_kaffrine = {
-			color={ 132 112 33 }
-			color2={ 255 255 255 }
-			
-			capital = 64 # c_koungheul
-			
-			c_janjanbureh = { # 66
-				color={ 89 85 32 }
-				color2={ 255 255 255 }
-
-
-				kwi = "Georgetown"
-				krio = "Georgetown"
-				
-				b_janjanbureh_GM = {}
-				b_basse_santa_su_GM = {}
-				b_bansang_GM = {}
-				b_kuntaur_GM = {}
-				b_wassu_GM = {}
-				b_baja_kunda_GM = {}
-				b_panchang_GM = {}
-			}
-			c_kaffrine = { # 65
-				color={ 112 112 41 }
+			c_kolda = { # 54
+				color={ 131 131 84 }
 				color2={ 255 255 255 }
 				
-				b_kaffrine_SN = {}
-				b_birkilane_SN = {}
-				b_malem_hoddar_SN = {}
-				b_nganda_SN = {}
-				b_gniby_SN = {}
-				b_mbelbouck_SN = {}
-				b_darou_minam_SN = {}
-			}
-			c_diourbel = { # 67
-				color={ 144 139 45 }
-				color2={ 255 255 255 }
-				
-				b_diourbel_SN = {}
-				b_mbacke_SN = {}
-				b_taif_SN = {}
-				b_ndame_SN = {}
-				b_kael_SN = {}
-				b_touba_SN = {}
-				b_kelkome_SN = {}
-				b_mbar_SN = {}
+				b_kolda_SN = {}
+				b_medina_yoro_foulah_SN = {}
+				b_velingara_SN = {}
+				b_pakour_SN = {}
+				b_fafacourou_SN = {}
+				b_salikegne_SN = {}
+				b_kounkane_SN = {}
 			}
 		}
 		d_senegal = {
@@ -408,6 +341,65 @@ e_sahel = {
 				b_gandiaye = {}
 				b_kakoat = {}
 				b_hanene = {}
+			}
+			c_kaffrine = { # 65
+				color={ 112 112 41 }
+				color2={ 255 255 255 }
+				
+				b_kaffrine_SN = {}
+				b_birkilane_SN = {}
+				b_malem_hoddar_SN = {}
+				b_nganda_SN = {}
+				b_gniby_SN = {}
+				b_mbelbouck_SN = {}
+				b_darou_minam_SN = {}
+			}
+			c_diourbel = { # 67
+				color={ 144 139 45 }
+				color2={ 255 255 255 }
+				
+				b_diourbel_SN = {}
+				b_mbacke_SN = {}
+				b_taif_SN = {}
+				b_ndame_SN = {}
+				b_kael_SN = {}
+				b_touba_SN = {}
+				b_kelkome_SN = {}
+				b_mbar_SN = {}
+			}
+		}
+		d_gambia = {
+			color={ 176 129 71 }
+			color2={ 255 255 255 }
+			
+			capital = 53 # c_bafata
+			
+			c_banjul = { # 56
+				color={ 103 103 15 }
+				color2={ 255 255 255 }
+				
+				b_banjul_GM = {}
+				b_serekunda_GM = {}
+				b_brikama_GM = {}
+				b_kerewan_GM = {}
+				b_kanifing_GM = {}
+				b_mansakonko_GM = {}
+				b_farafenni_GM = {}
+			}
+			c_janjanbureh = { # 66
+				color={ 89 85 32 }
+				color2={ 255 255 255 }
+
+				kwi = "Georgetown"
+				krio = "Georgetown"
+				
+				b_janjanbureh_GM = {}
+				b_basse_santa_su_GM = {}
+				b_bansang_GM = {}
+				b_kuntaur_GM = {}
+				b_wassu_GM = {}
+				b_baja_kunda_GM = {}
+				b_panchang_GM = {}
 			}
 		}
 	}

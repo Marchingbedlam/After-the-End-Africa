@@ -4,11 +4,10 @@ title = c_zoundweogo
 # Settlements
 max_settlements = 4
 
-b_manga = castle
-b_nobere = city
+b_manga = tribal
 
 # Misc
 culture = mossi
-religion = tarikah
+religion = marabouti
 
 #History

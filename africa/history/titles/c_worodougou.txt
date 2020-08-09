@@ -1,0 +1,4 @@
+2600.1.1={
+	holder=1800019
+	liege=d_woroba
+}

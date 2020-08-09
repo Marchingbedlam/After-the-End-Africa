@@ -4,8 +4,7 @@ title = c_tumu
 # Settlements
 max_settlements = 4
 
-b_ping = castle
-b_sabuli = temple
+b_ping = tribal
 
 # Misc
 culture = dagomba

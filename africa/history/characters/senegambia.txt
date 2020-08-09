@@ -1,6 +1,6 @@
 1522000={
 	name="Chérif"
-	dynasty=1511007
+	dynasty=1511010 #Ndiaye
 	culture=wolof
 	religion=mouride
 	trait=scholar
@@ -14,7 +14,7 @@
 }
 1522001={
 	name="Njekeh"
-	dynasty=1512016
+	dynasty=1512025 #Ndoye
 	culture=serer
 	religion=mouride
 
@@ -22,8 +22,8 @@
 	2700.1.1={ death=yes }
 }
 1522002={
-	name="Louis-Ali"
-	dynasty=1513003
+	name="Houmandrissah"
+	dynasty=1513013 #Jatta
 	culture=jola
 	religion=mouride
 
@@ -32,7 +32,7 @@
 }
 1522003={
 	name="Cellou"
-	dynasty=1406030
+	dynasty=1406030 #Barke
 	culture=fulbe
 	religion=mouride
 
@@ -41,7 +41,7 @@
 }
 1522004={
 	name="Wágner"
-	dynasty=1514002
+	dynasty=1514002 #Temudo
 	culture=guinensi
 	religion=catholic
 
@@ -56,8 +56,8 @@
 	2700.1.1={ death=yes }
 }
 1522005={
-	name="Aram Bakar"
-	dynasty=1511008
+	name="Youssou"
+	dynasty=1511022 #Lo
 	culture=wolof
 	religion=mouride
 
@@ -68,7 +68,7 @@
 }
 1522006={
 	name="Pierre"
-	dynasty=1513000
+	dynasty=1513000 #Diedhiou
 	culture=jola
 	religion=catholic
 
@@ -77,7 +77,7 @@
 }
 1522007={
 	name="Junaidu"
-	dynasty=1406036
+	dynasty=1406036 #Ganduje
 	culture=fulbe
 	religion=ashari
 
@@ -94,12 +94,32 @@
 	2700.1.1={ death=yes }
 }
 1522009={
-	name="Momar"
-	dynasty=1512003
+	name="Abdoulaye"
+	dynasty=1512014 #Sarr
 	culture=serer
 	religion=mouride
 	trait=zealous
 	trait=ambitious
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1522010={
+	name="Moukhtar"
+	dynasty=1511033 #Mbacke
+	culture=wolof
+	religion=mouride
+	trait=zealous
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1522011={
+	name="Jaylani"
+	dynasty=1302012 #Wannor
+	culture=wolof
+	religion=mouride
+	trait=zealous
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }

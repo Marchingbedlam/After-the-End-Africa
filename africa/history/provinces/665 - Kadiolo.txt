@@ -6,9 +6,7 @@ title = c_kadiolo
 # Settlements
 max_settlements = 4
 
-b_kadiolo = castle
-b_zegoua = city
-b_diou = temple
+b_kadiolo = tribal
 
 # Misc
 culture = senufo

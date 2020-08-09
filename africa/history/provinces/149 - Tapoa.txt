@@ -8,6 +8,5 @@ b_diapaga = tribal
 
 # Misc
 culture = gurunsi
-religion = ashari
-
+religion = marabouti
 #History

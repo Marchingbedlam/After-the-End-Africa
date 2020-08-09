@@ -9,6 +9,6 @@ b_kormi = temple
 
 # Misc
 culture = songhai
-religion = tarikah
+religion = marabouti
 
 #History

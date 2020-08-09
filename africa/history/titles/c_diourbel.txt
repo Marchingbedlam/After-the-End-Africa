@@ -1,9 +1,4 @@
-# e_mali
-2300.1.1={
-	law = agnatic_succession
-	law = succ_gavelkind
-}
 2600.1.1={
-	liege=d_senegal
-	holder=1522009
+	liege=d_niayes
+	holder=1522010
 }

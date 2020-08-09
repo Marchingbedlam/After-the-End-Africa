@@ -1,11 +1,6 @@
-# e_guinea
-2300.1.1={
-	law = agnatic_succession
-	law = succ_gavelkind
-}
 2300.1.1={
 	liege=k_asanteman
 }
 2600.1.1={
-	holder=1500220
+	holder=1500233
 }

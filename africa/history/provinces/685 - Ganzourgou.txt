@@ -4,12 +4,10 @@ title = c_ganzougou
 # Settlements
 max_settlements = 4
 
-b_zorgho = castle
-b_mogtedo = temple
-b_meguet = city
+b_zorgho = tribal
 
 # Misc
 culture = mossi
-religion = tarikah
+religion = marabouti
 
 #History

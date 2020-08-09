@@ -2,7 +2,7 @@
 	name="Amadou"
 	dynasty=1877005
 	culture=mossi
-	religion=ashari
+	religion=marabouti
 
 	trait=proud
 	trait=brave
@@ -16,7 +16,7 @@
 	name="Louckmane"
 	dynasty=1877016
 	culture=mossi
-	religion=ashari
+	religion=marabouti
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
@@ -32,10 +32,13 @@
 }
 1453003={
 	name="Kourita"
-	dynasty=1877015
+	dynasty=1877012 #Sankara
 	culture=mossi
-	religion=ashari
-
+	religion=marabouti
+	trait=just
+	trait=brave
+	trait=ambitious
+	trait=diligent
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
 }
@@ -43,7 +46,7 @@
 	name="Souleymane"
 	dynasty=1877021
 	culture=mossi
-	religion=ashari
+	religion=marabouti
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
@@ -52,9 +55,42 @@
 	name="Kasém"
 	dynasty=1877016
 	culture=mossi
-	religion=ashari
+	religion=marabouti
 	father=1453001
 
 	2650.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1453006={
+	name="Ousmane"
+	dynasty=1877017 #Tiendrebeogo
+	culture=mossi
+	religion=marabouti
+	trait=scholarly_theologian
+	trait=content
+	trait=humble
+	trait=erudite
+	trait=shy
+	trait=stubborn
+	trait=poet
+	trait=slothful
+	trait=paranoid
+	2639.8.8={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1453007={
+	name="Jean"
+	dynasty=1877000 #Ouedraogo
+	culture=mossi
+	religion=marabouti
+	trait=charismatic_negotiator
+	trait=brave
+	trait=just
+	trait=diligent
+	trait=quick
+	trait=humble
+	trait=patient
+	trait=physician
+	2626.7.26={ birth=yes }
 	2700.1.1={ death=yes }
 }

@@ -4,12 +4,10 @@ title = c_boulkiemde
 # Settlements
 max_settlements = 3
 
-b_ogoja_1 = castle
-b_ogoja_2 = temple
-b_ogoja_3 = city
+b_ogoja_1 = tribal
 
 # Misc
 culture = mossi
-religion = tarikah
+religion = marabouti
 
 #History

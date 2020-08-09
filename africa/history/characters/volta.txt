@@ -1243,6 +1243,22 @@
 	2630.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
+1500233={
+	name="Amuah-Afenyi" 
+	female=yes
+	dynasty=1504033 #Bartels
+	culture=fante
+	religion=akom
+	trait=fortune_builder
+	trait=just
+	trait=diligent
+	trait=charitable
+	trait=honest
+	trait=wroth
+	trait=trusting
+	2622.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
 
 
 #Dagbon Royals

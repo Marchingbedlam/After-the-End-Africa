@@ -4,12 +4,10 @@ title = c_sissili
 # Settlements
 max_settlements = 4
 
-b_leo = castle
-b_poin = temple
-b_dangue = city
+b_leo = tribal
 
 # Misc
 culture = mossi
-religion = tarikah
+religion = marabouti
 
 #History

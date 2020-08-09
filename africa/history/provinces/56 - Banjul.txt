@@ -1,7 +1,5 @@
-# c_gambia
-
 # County Title
-title = c_gambia
+title = c_banjul
 
 # Settlements
 max_settlements = 3

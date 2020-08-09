@@ -2,7 +2,7 @@
 	name="Konan" #Cotedivoire
 	dynasty=1505008
 	culture=baoule
-	religion=catholic
+	religion=akom
 
 	trait=strong
 	trait=slothful
@@ -46,45 +46,66 @@
 	}
 }
 1800006={
-	name="Kouassi" #Cotedivoire
-	dynasty=1505001
+	name="Vencéslasse"
+	dynasty=1505052 #N'Dake
 	culture=baoule
 	religion=catholic
-	father=1800008
 
-	trait=genius
-	trait=midas_touched
-	trait=gregarious
+	trait=brilliant_strategist
+	trait=strong
 	trait=patient
-	trait=erudite
-	trait=chaste
-	trait=deceitful	
-	trait=infirm
+	trait=one_eyed
+	trait=organizer
+	trait=shrewd
+	trait=content
+	trait=proud
+	trait=sympathy_pagans
+	trait=sympathy_islam
 	
-	2580.1.1={birth=yes}
+	2599.1.1={birth=yes}
+	2625.1.1={add_spouse=1800018}
 	2700.1.1={death=yes}
 }
 1800007={
-	name="Venance" #Cotedivoire
-	dynasty=1505001
+	name="Amédée" 
+	dynasty=1505052 #N'Dake
 	culture=baoule
 	religion=catholic
 	father=1800006
+	mother=1800018
 
-	trait=arbitrary
-	trait=bastard
+	trait=charismatic_negotiator
+	trait=proud
+	trait=groomed
+	trait=socializer
+	trait=ambitious
+	trait=wroth
+	trait=dishonorable
+	trait=zealous
 	
-	2641.1.1={birth=yes}
+	2626.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
 1800008={
-	name="Kouassi" #Cotedivoire
-	dynasty=1505001
+	name="Immaculée"
+	female=yes
+	dynasty=1505052 #N'Dake
 	culture=baoule
 	religion=catholic
+	father=1800006
+	mother=1800018
+
+	trait=mastermind_theologian
+	trait=kind
+	trait=patient
+	trait=charitable
+	trait=nun
+	trait=celibate
+	trait=shy
+	trait=is_twin
 	
-	2560.1.1={birth=yes}
-	2610.1.1={death=yes}
+	2630.1.1={birth=yes}
+	2700.1.1={death=yes}
 }
 1800009={
 	name="Pharace" #Cotedivoire
@@ -120,7 +141,7 @@
 	name="Kago" # the literary man
 	dynasty=1505057
 	culture=baoule
-	religion=catholic
+	religion=akom
 
 	trait=erudite
 	trait=poet
@@ -159,6 +180,71 @@
 	dynasty=1203004
 	culture=dan
 	religion=ashari
+	
+	2630.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1800016={
+	name="Kouamé"
+	dynasty=1505052 #N'Dake
+	culture=baoule
+	religion=catholic
+	father=1800006
+	mother=1800018
+
+	trait=scholarly_theologian
+	trait=charitable
+	trait=gregarious
+	trait=mystic
+	trait=temperate
+	trait=humble
+	trait=monk
+	trait=is_twin
+	
+	2630.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1800017={
+	name="Léonard"
+	dynasty=1505052 #N'Dake
+	culture=baoule
+	religion=akom
+	father=1800006
+	mother=1800018
+
+	trait=thrifty_clerk
+	trait=family_person
+	trait=kind
+	trait=honorable
+	trait=musician
+	trait=shrewd
+	trait=frail
+	
+	2633.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1800018={
+	name="Josette"
+	female=yes
+	dynasty=0
+	culture=baoule
+	religion=catholic
+
+	trait=fortune_builder
+	trait=architect
+	trait=frail
+	trait=erudite
+	trait=content
+	trait=temperate
+	
+	2602.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1800019={
+	name="Idrissa" 
+	dynasty=1401000 #Traore
+	culture=manding
+	religion=marabouti
 	
 	2630.1.1={birth=yes}
 	2700.1.1={death=yes}

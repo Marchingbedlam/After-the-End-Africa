@@ -4,12 +4,10 @@ title = c_koro
 # Settlements
 max_settlements = 4
 
-b_koro = castle
-b_bankass = city
-b_yadianga = temple
+b_bankass = tribal
 
 # Misc
 culture = dogon
-religion = tarikah
+religion = marabouti
 
 #History

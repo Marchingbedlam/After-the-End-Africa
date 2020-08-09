@@ -9,6 +9,6 @@ b_gourma_rharous = castle
 
 # Misc
 culture = songhai
-religion = tarikah
+religion = marabouti
 
 #History

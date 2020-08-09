@@ -8,6 +8,6 @@ b_djibo = tribal
 
 # Misc
 culture = fulbe
-religion = tarikah
+religion = marabouti
 
 #History

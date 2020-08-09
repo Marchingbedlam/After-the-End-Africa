@@ -4,12 +4,10 @@ title = c_oubritenga
 # Settlements
 max_settlements = 4
 
-b_ziniare = castle
-b_dapelogo = temple
-b_masre = city
+b_ziniare = tribal
 
 # Misc
 culture = mossi
-religion = tarikah
+religion = marabouti
 
 #History

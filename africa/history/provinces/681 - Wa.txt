@@ -4,9 +4,7 @@ title = c_wa
 # Settlements
 max_settlements = 4
 
-b_wa = castle
-b_charia = temple
-b_kaleo = city
+b_wa = tribal
 
 # Misc
 culture = dagomba

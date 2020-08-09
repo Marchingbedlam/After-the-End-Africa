@@ -4,12 +4,10 @@ title = c_boulgou
 # Settlements
 max_settlements = 4
 
-b_tenkdogo = castle
-b_bane = city
-b_sangha = temple
+b_tenkdogo = tribal
 
 # Misc
 culture = gurunsi
-religion = tarikah
+religion = marabouti
 
 #History

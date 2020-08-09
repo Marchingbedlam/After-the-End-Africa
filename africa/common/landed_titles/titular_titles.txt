@@ -77,6 +77,17 @@ k_dahomey = {
 		always = no
 	}
 }
+k_bandama = {
+	color = { 27 26 36 }
+	color2= { 255 255 255 }
+	capital = 134 #Yendi
+
+	culture = baoule
+
+	allow = {
+		always = no
+	}
+}
 
 ##Empires
 e_manden = {
