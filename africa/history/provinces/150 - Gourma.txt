@@ -8,6 +8,6 @@ b_fada_ngourma = tribal
 
 # Misc
 culture = gurunsi
-religion = marabouti
+religion = catholic
 
 #History

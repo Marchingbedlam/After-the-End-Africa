@@ -7,7 +7,7 @@ max_settlements = 3
 b_kinkala = castle
 
 # Misc
-culture = kpelle
+culture = kongo
 religion = catholic
 
 #History

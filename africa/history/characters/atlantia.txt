@@ -420,3 +420,39 @@
 	2645.4.9={ birth=yes }
 	2700.1.1={ death=yes }
 }
+1914202={
+	name="Sipoto"
+	dynasty=1518023 #Riqueza
+	culture=bubi
+	religion=catholic
+
+	2643.10.7={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1914203={
+	name="José"
+	dynasty=1515025 #Espirito Santo
+	culture=santomean
+	religion=catholic
+
+	2643.10.7={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1914204={
+	name="Aquilino"
+	dynasty=1515015 #da Motta
+	culture=santomean
+	religion=catholic
+
+	2643.10.7={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1914205={
+	name="Wilwardo"
+	dynasty=1004001 #Fernandez
+	culture=pijin
+	religion=brethren
+
+	2643.10.7={ birth=yes }
+	2700.1.1={ death=yes }
+}

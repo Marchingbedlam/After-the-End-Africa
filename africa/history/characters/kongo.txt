@@ -1,8 +1,8 @@
 1390000={
-	name="Petelo"
+	name="Mpetelo"
 	culture=kongo
 	religion=kimbanguism
-	dynasty=1519004
+	dynasty=1519004 #de Valle das Lagrimas
 	trait=authoritative
 	trait=brave
 	trait=scholar
@@ -12,14 +12,15 @@
 	trait=charitable
 	trait=diligent
 	trait=skilled_tactician
-	2638.1.1={birth=yes}
+	2638.3.9={birth=yes}
 	2700.1.1={death=yes}
 }
 1390001={
 	name="Ndozau"
 	culture=kongo
 	religion=catholic
-	dynasty=1519002
+	dynasty=1519002 #dos Reis Magos
+	father=1390035
 	trait=shy
 	trait=cynical
 	trait=deceitful
@@ -30,14 +31,15 @@
 	trait=paranoid
 	trait=ambitious
 	trait=thrifty_clerk
-	2643.1.1={birth=yes}
+	2643.6.26={birth=yes}
 	2700.1.1={death=yes}
 }
 1390002={
 	name="Coulo"
 	culture=kongo
 	religion=kimbanguism
-	dynasty=1519013
+	father=1390026
+	dynasty=1519002 #dos Reis Magos
 	trait=zealous
 	trait=trusting
 	trait=patient
@@ -45,14 +47,14 @@
 	trait=brave
 	trait=charitable
 	trait=strong
-	2630.1.1={birth=yes}
+	2630.6.6={birth=yes}
 	2700.1.1={death=yes}
 }
 1390003={
 	name="Kambolo"
 	culture=ambundu
 	religion=catholic
-	dynasty=1525012
+	dynasty=1525012 #Van-Dunem
 	father=1390005
 	trait=twin
 	trait=quick
@@ -72,7 +74,7 @@
 	female=yes
 	culture=ambundu
 	religion=kimbanguism
-	dynasty=1525012
+	dynasty=1525012 #Van-Dunem
 	father=1390005
 	trait=twin
 	trait=duelist
@@ -89,61 +91,61 @@
 	name="Guilherme"
 	culture=ambundu
 	religion=catholic
-	dynasty=1525012
+	dynasty=1525012 #Van-Dunem
 	father=1390006
-	2615.1.1={birth=yes}
-	2659.1.1={death=yes}
+	2615.9.7={birth=yes}
+	2659.4.8={death=yes}
 }
 1390006={
 	name="Redondo"
 	culture=ambundu
 	religion=catholic
-	dynasty=1525012
-	2583.1.1={birth=yes}
-	2636.1.1={death=yes}
+	dynasty=1525012 #Van-Dunem
+	2583.8.26={birth=yes}
+	2636.7.26={death=yes}
 }
 1390010={
 	name="Holden"
 	culture=krio
 	religion=kimbanguism
-	dynasty=1002098
-	2589.1.1={birth=yes}
-	2655.1.1={death=yes}
+	dynasty=1002098 #Kurtz
+	2589.7.2={birth=yes}
+	2655.3.2={death=yes}
 }
 1390011={
 	name="Manuel"
 	culture=kongo
 	religion=kimbanguism
-	dynasty=1002098
+	dynasty=1002098 #Kurtz
 	father=1390010
-	2627.1.1={birth=yes}
+	2627.9.4={birth=yes}
 	2700.1.1={death=yes}
 }
 1390012={
 	name="Joseph"
 	culture=kongo
 	religion=kimbanguism
-	dynasty=1002098
+	dynasty=1002098 #Kurtz
 	father=1390011
-	2650.1.1={birth=yes}
+	2650.3.6={birth=yes}
 	2700.1.1={death=yes}
 }
 1390013={
 	name="Jorge"
 	culture=kongo
 	religion=kimbanguism
-	dynasty=1002098
+	dynasty=1002098 #Kurtz
 	father=1390011
-	2652.1.1={birth=yes}
+	2652.9.6={birth=yes}
 	2700.1.1={death=yes}
 }
 1390014={
 	name="Artur"
 	culture=kongo
 	religion=kimbanguism
-	dynasty=1002098
+	dynasty=1002098 #Kurtz
 	father=1390011
-	2655.1.1={birth=yes}
+	2655.7.16={birth=yes}
 	2700.1.1={death=yes}
 }
 1390015={
@@ -151,7 +153,7 @@
 	culture=kongo
 	religion=catholic
 	dynasty=1519005
-	2630.1.1={birth=yes}
+	2630.8.26={birth=yes}
 	2700.1.1={death=yes}
 }
 1390016={
@@ -159,7 +161,7 @@
 	culture=kongo
 	religion=kimbanguism
 	dynasty=1519049
-	2630.1.1={birth=yes}
+	2630.9.25={birth=yes}
 	2700.1.1={death=yes}
 }
 1390017={
@@ -167,6 +169,200 @@
 	culture=kongo
 	religion=kimbanguism
 	dynasty=1519018
-	2630.1.1={birth=yes}
+	2630.3.6={birth=yes}
+	2700.1.1={death=yes}
+}
+1390018={
+	name="Mpanzu"
+	culture=kongo
+	religion=catholic
+	dynasty=1519019 #Kimpanzu
+	father=1390019
+	trait=skilled_tactician
+	trait=zealous
+	trait=just
+	trait=brave
+	trait=honorable
+	trait=chaste
+	trait=ambitious
+	trait=kind
+	trait=bastard
+	2645.7.6={birth=yes}
+	2700.1.1={death=yes}
+}
+1390019={
+	name="Nkwandanda"
+	culture=kongo
+	religion=catholic
+	dynasty=1519002 #dos Reis Magos
+	father=1390020
+	trait=underhanded_rogue
+	trait=lustful
+	trait=posessed
+	trait=wroth
+	trait=cruel
+	trait=rude
+	trait=paranoid
+	trait=frail
+	2607.5.27={birth=yes}
+	2662.8.11={death=yes}
+}
+1390020={
+	name="Belchior"
+	culture=kongo
+	religion=catholic
+	dynasty=1519002 #dos Reis Magos
+	father=1390021
+	2583.7.2={birth=yes}
+	2622.5.5={death=yes}
+}
+1390021={
+	name="Belchior"
+	culture=kongo
+	religion=catholic
+	dynasty=1519002 #dos Reis Magos
+	father=1390022
+	2545.9.17={birth=yes}
+	2608.7.15={death=yes}
+}
+1390022={
+	name="Lukeni"
+	culture=kongo
+	religion=catholic
+	dynasty=1519002 #dos Reis Magos
+	father=1390023
+	2521.8.28={birth=yes}
+	2580.3.25={death=yes}
+}
+1390023={
+	name="Belchior"
+	culture=kongo
+	religion=catholic
+	dynasty=1519002 #dos Reis Magos
+	father=1390027
+	2493.7.3={birth=yes}
+	2559.8.6={death=yes}
+}
+1390024={
+	name="Ndofunsu"
+	culture=kongo
+	religion=catholic
+	dynasty=1519002 #dos Reis Magos
+	father=1390022
+	2555.5.5={birth=yes}
+	2605.5.5={death=yes}
+}
+1390025={
+	name="Lukeni"
+	culture=kongo
+	religion=catholic
+	dynasty=1519002 #dos Reis Magos
+	father=1390024
+	2581.7.18={birth=yes}
+	2638.4.16={death=yes}
+}
+1390026={
+	name="Alexio"
+	culture=kongo
+	religion=kimbanguism
+	dynasty=1519002 #dos Reis Magos
+	father=1390025
+	2606.6.6={birth=yes}
+	2653.11.6={death=yes}
+}
+1390027={
+	name="Bahelele"
+	culture=kongo
+	religion=catholic
+	dynasty=1519002 #dos Reis Magos
+	father=1390028
+	2469.6.9={birth=yes}
+	2532.5.7={death=yes}
+}
+1390028={
+	name="Belchior"
+	culture=kongo
+	religion=catholic
+	dynasty=1519002 #dos Reis Magos
+	2437.1.2={birth=yes}
+	2502.2.15={death=yes}
+}
+1390029={
+	name="Nkanga"
+	culture=kongo
+	religion=catholic
+	dynasty=1519002 #dos Reis Magos
+	father=1390028
+	2471.4.5={birth=yes}
+	2538.9.19={death=yes}
+}
+1390030={
+	name="Konzo"
+	culture=kongo
+	religion=catholic
+	dynasty=1519002 #dos Reis Magos
+	father=1390029
+	2495.8.15={birth=yes}
+	2556.10.5={death=yes}
+}
+1390031={
+	name="Belchior"
+	culture=kongo
+	religion=catholic
+	dynasty=1519002 #dos Reis Magos
+	father=1390030
+	2521.4.3={birth=yes}
+	2575.7.14={death=yes}
+}
+1390032={
+	name="Ndombasi"
+	culture=kongo
+	religion=catholic
+	dynasty=1519002 #dos Reis Magos
+	father=1390031
+	2544.4.4={birth=yes}
+	2603.2.25={death=yes}
+}
+1390033={
+	name="Andre"
+	culture=kongo
+	religion=catholic
+	dynasty=1519002 #dos Reis Magos
+	father=1390032
+	2570.5.14={birth=yes}
+	2626.2.15={death=yes}
+}
+1390034={
+	name="Elelo"
+	culture=kongo
+	religion=catholic
+	dynasty=1519002 #dos Reis Magos
+	father=1390033
+	2594.8.25={birth=yes}
+	2647.3.8={death=yes}
+}
+1390035={
+	name="Elelo"
+	culture=kongo
+	religion=catholic
+	dynasty=1519002 #dos Reis Magos
+	father=1390034
+	2618.4.17={birth=yes}
+	2660.2.26={death=yes}
+}
+1390036={
+	name="Nsangu"
+	culture=kongo
+	religion=catholic
+	dynasty=1519002 #dos Reis Magos
+	father=1390035
+	trait=charismatic_negotiator
+	trait=fair
+	trait=gluttonous
+	trait=slothful
+	trait=craven
+	trait=gregarious
+	trait=greedy
+	2640.12.14={birth=yes}
 	2700.1.1={death=yes}
 }

@@ -11,7 +11,7 @@ b_missirikoro = city
 b_zanferebougou = temple
 
 # Misc
-culture = senufo
+culture = manding
 religion = tarikah
 
 #History

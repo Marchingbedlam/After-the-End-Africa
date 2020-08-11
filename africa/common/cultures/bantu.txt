@@ -196,39 +196,44 @@ bantu = {
 		graphical_cultures = { westafricangfx africangfx }
 			
 		male_names = {
-			Abel Afonso_Alphonse Álvaro Ambrósio André_Andrew Artur_Arthur
-			Bernard
-			Daniel
+			Abel Alexio_Alexis Álvaro Ambrósio André_Andrew Artur_Arthur
+			Bahelele Belchior Bernard
+			Constantinho_Constantine
+			Daniel Diawaku
 			Elelo
-			Fernando_Ferdinand Fulbert
+			Fernando_Ferdinand Fukiau Fulbert
 			Gandu Garcia Gilbert Gyembe
 			Henrique_Henry
 			Joaquim_Joachim Jorge_George Joseph
-			Kakengo Kasuta Keise Kembo Kiditu Kitama Konzo Kotodi
-			Lamyr Liel Loubendou Louis Lukeni
-			Mambou Manuel_Emmanuel Masaka Matadi Mateus_Matthew Matondo Mayangi Mbemba Miala Miguel_Michael Mpanzu Mvika
-			Nanga Ndembe Ndozau_John Ngouli Nimi Nkanga Nkelian Nkenge Nkumbi Nkuwu Nlaza Nlenke Nombo Nsangu Nsona Ntenda Ntinu Nzaou Nzassi Nzenze Nzinga
-			Petelo_Peter
-			Salvador Sylvester
+			Kakengo Kasuta Keise Kembo Kiditu Kitama Konzo Kotodi Kutsitsi
+			Lamyr Liel Loubendou Louis Lubeladio Lucas_Luke Lukengo Lukeni Luzolo
+			Madila Makiadi Makusa Mambou Manuel_Emmanuel Masaka Masamba Matadi Mateus_Matthew Matondo Mayangi Mazumbu Mbemba Mbezi Mboma Mbondo Miala Miesi Migiele_Michael Mlau Mpanzu Mpetelo_Peter Mvemba Mvika Mzinga
+			Nanga Ndembe Ndofunsu_Alphonse Ndombasi Ndotoni_Anthony Ndozau_John Nganga Ngonda Ngouli Nimi Nkanga Nkelian Nkengi Nkumbi Nkuwu Nlaza Nlenke Nombo Nsangu Nseyila Nsona Nsunda Ntemo Ntenda Ntinu Nzaou Nzassi Nzenze Nzinga
+			Salvador Simbulu Sylvester
 			Tekenge Théophile_Theophilus Trigo
 			Waldemar_Valdemar
+			Yelson
 		}
 		
 		female_names = {
 			Amelia Anna_Anne Aqualtune
+			Bazola Betelisi_Beatrice
 			Caterina_Catherine Cecilia Christina
 			Elena_Helen Eva
 			Fudi
-			Ignacia Isabel
-			Joana
-			Kengé
-			Lélo Leonor_Eleanor Lucia Luisa_Louise Lusana
-			Malisbète Malundama Mamaye Marcella Maria_Mary Martha Mwessi
-			Nèle Nienzi Njinga Nsengo Nsukula Ntumba
+			Gandu
+			Ignacia
+			Joana_Joan
+			Kengé Kutsitsi
+			Lélo Leonor_Eleanor Lucia Luisa_Louise Lusana Luzinunu
+			Malisbète Malundama Mamaye Marcella Maria_Mary Martha Masaka Miesi Mvemba Mwessi Mzinga
+			Nèle Ngudi Nienzi Njinga Nkenge Nsengo Nsukula Nsunda Ntumba
 			Potencia
+			Suzanna
 			Tchitoula Touba
 			Violante Virginia Vuzilia
-			Yala
+			Yala Yenge
+			Zabela_Isabelle
 		}
 
 		dukes_called_kings = yes

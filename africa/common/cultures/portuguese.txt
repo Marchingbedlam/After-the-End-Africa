@@ -3,7 +3,7 @@ portuguese = {
 	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
 	graphical_cultures = { byzantinegfx }
 	
-	portuguese = {
+	santomean = {
 		graphical_cultures = { southerngfx }
 		
 		color = { 0.75 0.67 0.07 }

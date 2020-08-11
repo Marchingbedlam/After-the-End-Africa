@@ -1,0 +1,5 @@
+2660.1.1={
+	holding_dynasty=1518000
+	liege=k_bonny
+	holder=1914201
+}

@@ -8,7 +8,7 @@ b_santo_antonio_ST = castle
 b_sao_tome_ST = city
 
 # Misc
-culture = portuguese
+culture = santomean
 religion = catholic
 
 #History

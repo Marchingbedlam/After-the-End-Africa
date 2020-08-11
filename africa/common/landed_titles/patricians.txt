@@ -70,29 +70,51 @@ b_parkes = {
 	religion = anglican
 }
 
-b_hamilton = {
-	culture = krio
-	religion = libertarian
+b_antar = {
+	culture = afrolebanese
+	religion = shia
 }
 
 ##Cabo Verde
-b_pereira= {
+b_pereira = {
 	culture = verdean
 	religion = catholic
 }
-b_cabral= {
+b_cabral = {
 	culture = guinensi
 	religion = catholic
 }
-b_furtado= {
+b_furtado = {
 	culture = verdean
 	religion = catholic
 }
-b_fortes= {
+b_fortes = {
 	culture = verdean
 	religion = catholic
 }
-b_silva= {
+b_silva = {
 	culture = verdean
 	religion = catholic
+}
+
+##Bonny
+b_chicampo = {
+	culture = bubi
+	religion = catholic
+}
+b_riqueza = {
+	culture = bubi
+	religion = catholic
+}
+b_espirito_santo = {
+	culture = santomean
+	religion = catholic
+}
+b_da_motta = {
+	culture = santomean
+	religion = catholic
+}
+b_fernandez = {
+	culture = pijin
+	religion = brethren
 }

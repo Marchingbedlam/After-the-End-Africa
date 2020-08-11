@@ -337,7 +337,7 @@ west_african = {
 		color = { 0.5 0.6 1 }
 		
 		male_names = {
-			Abiodun Abraham Adolphus_Adolf Africanus Akintola Albert Alexander Alfred Ambrose Andrew Archibald Arthur Athanasius Austin Ayodele  Azariah
+			Abiodun Abraham Adolphus_Adolf Africanus Akintola Albert Alexander Alfred Ambrose Andrew Archibald Arthur Athanasius Austin Ayodele Azariah
 			Campbell Cato Cecil Charlie_Charles Chernor Clapham Claudius Clifford Coleridge Cornelius Christian Christopher Crispin Cyril
 			Barnabas Belisarius Beresford Bernard Broughton
 			Daniel David Desmond
@@ -349,15 +349,15 @@ west_african = {
 			Jack_John James John Josiah
 			Kenneth
 			Leighton Lemuel Lenrie Leopold Leroy
-			Macormack Mallan Mansa-Musa Maurice Mayfield Melvine Michael Milton Montgomery Moses
+			Macormack Mallan Mansa-Musa Manuel_Emmanuel Maurice Mayfield Melvine Michael Milton Montgomery Moses
 			Nathaniel Nelson
 			Obadiah Ogunlade Onesimus Oswald
 			Percy Peter Probyn
 			Raymond Reginald Richard Robinson Rodney Rudolph
-			Samuel Sarway Septimus Siaka Somerset Sooliman_Solomon Sorious Sylvanus Sylvester
+			Samuel Sarway Scotius Septimus Shelburne Siaka Somerset Sooliman_Solomon Sorious Sylvanus Sylvester
 			Terence Theophilus Thomas
 			Victor
-			Wallace Warren Wellesley Whitfield Wilfred William Willoughby Wilmot Wilward Winstanley
+			Wallace Warren Wellesley Whitfield Wilfred William Willoughby Wilmot Wilwardo Winstanley
 			
 			Abbas Abdulaziz_Abdul-Aziz Abdullah Abu-Bakar_Abu-Bakr Ahmed Alhassan Ali Faisal Farid Hassan_Hasan Idris Jamil Khalil Mohamed_Mohammed Murad Mustapha_Mustafa Omar Said
 		}

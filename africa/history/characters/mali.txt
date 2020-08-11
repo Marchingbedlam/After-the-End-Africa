@@ -2,7 +2,7 @@
 	name="Ibrahim"
 	dynasty=1401013
 	culture=manding
-	religion=ashari
+	religion=tarikah
 	father=1401004
 	martial=6
 	diplomacy=6
@@ -22,7 +22,7 @@
 	name="Ahmed"
 	dynasty=1401013
 	culture=manding
-	religion=ashari
+	religion=tarikah
 	father=1401000
 	martial=6
 	diplomacy=6
@@ -39,7 +39,7 @@
 	name="Ouli"
 	dynasty=1401013
 	culture=manding
-	religion=ashari
+	religion=tarikah
 	father=1401000
 
 	2650.8.19={ birth=yes }
@@ -49,7 +49,7 @@
 	name="Bory"
 	dynasty=1401013
 	culture=manding
-	religion=ashari
+	religion=tarikah
 	father=1401000
 
 	2653.9.19={ birth=yes }
@@ -59,7 +59,7 @@
 	name="Ouli"
 	dynasty=1401013
 	culture=manding
-	religion=ashari
+	religion=tarikah
 	father=1401005
 
 	2590.1.1={ birth=yes }
@@ -69,7 +69,7 @@
 	name="Ahmed"
 	dynasty=1401013
 	culture=manding
-	religion=ashari
+	religion=tarikah
 
 	2570.1.1={ birth=yes }
 	2630.1.1={ death=yes }
@@ -78,7 +78,7 @@
 	name="Daouda"
 	dynasty=1401013
 	culture=manding
-	religion=ashari
+	religion=tarikah
 	father=1401004
 
 	2626.1.1={ birth=yes }
@@ -118,7 +118,7 @@
 	name="Ouezzin"
 	dynasty=1401005
 	culture=manding
-	religion=ashari
+	religion=tarikah
 	father=1401020
 
 	2630.1.1={ birth=yes }
@@ -128,7 +128,7 @@
 	name="Sakoura"
 	dynasty=1401011
 	culture=manding
-	religion=ashari
+	religion=tarikah
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
@@ -137,7 +137,7 @@
 	name="Ballaké"
 	dynasty=1401010
 	culture=susu
-	religion=ashari
+	religion=tarikah
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
@@ -146,7 +146,7 @@
 	name="Mamadou"
 	dynasty=1401018
 	culture=manding
-	religion=ashari
+	religion=tarikah
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
@@ -155,7 +155,7 @@
 	name="Modibo"
 	dynasty=1401002
 	culture=manding
-	religion=ashari
+	religion=tarikah
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
@@ -164,7 +164,7 @@
 	name="Abou-Bekr"
 	dynasty=1302006
 	culture=soninke
-	religion=ashari
+	religion=tarikah
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
@@ -173,7 +173,7 @@
 	name="Denan"
 	dynasty=1844003
 	culture=senufo
-	religion=ashari
+	religion=tarikah
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
@@ -201,7 +201,7 @@
 	name="Moussa"
 	dynasty=1401005
 	culture=manding
-	religion=ashari
+	religion=tarikah
 	father=1401021
 
 	2605.1.1={ birth=yes }
@@ -211,7 +211,7 @@
 	name="Ousmane"
 	dynasty=1401005
 	culture=manding
-	religion=ashari
+	religion=tarikah
 	father=1401022
 
 	2585.1.1={ birth=yes }
@@ -221,7 +221,7 @@
 	name="Ouezzin"
 	dynasty=1401005
 	culture=manding
-	religion=ashari
+	religion=tarikah
 	father=1401023
 
 	2570.1.1={ birth=yes }
@@ -231,7 +231,7 @@
 	name="Youssouf"
 	dynasty=1401005
 	culture=manding
-	religion=ashari
+	religion=tarikah
 	father=1401024
 
 	2540.1.1={ birth=yes }
@@ -241,7 +241,7 @@
 	name="Djibril"
 	dynasty=1401005
 	culture=manding
-	religion=ashari
+	religion=tarikah
 	father=1401025
 
 	2510.1.1={ birth=yes }
@@ -251,7 +251,7 @@
 	name="Moussa"
 	dynasty=1401005
 	culture=manding
-	religion=ashari
+	religion=tarikah
 	father=1401026
 
 	2490.1.1={ birth=yes }
@@ -261,7 +261,7 @@
 	name="Moussa"
 	dynasty=1401005
 	culture=manding
-	religion=ashari
+	religion=tarikah
 	father=1401027
 
 	2465.1.1={ birth=yes }
@@ -271,7 +271,7 @@
 	name="Boucader"
 	dynasty=1401005
 	culture=manding
-	religion=ashari
+	religion=tarikah
 	father=1401028
 
 	trait=brave
@@ -284,7 +284,7 @@
 	name="Oumar"
 	dynasty=1401005
 	culture=manding
-	religion=ashari
+	religion=tarikah
 	father=1401029
 
 	trait=cynical
@@ -298,7 +298,7 @@
 	name="Hamadoun"
 	dynasty=1401005
 	culture=manding
-	religion=ashari
+	religion=tarikah
 	father=1401030
 
 	trait=strong
@@ -313,7 +313,7 @@
 	name="Boucader Bakari"
 	dynasty=1401005
 	culture=manding
-	religion=ashari
+	religion=tarikah
 
 	trait=quick
 	trait=ambitious
@@ -328,7 +328,7 @@
 	name="Django"
 	dynasty=1401023
 	culture=manding
-	religion=ashari
+	religion=tarikah
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }
@@ -337,7 +337,25 @@
 	name="Youssouf"
 	dynasty=1302009
 	culture=soninke
-	religion=ashari
+	religion=tarikah
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1401033={
+	name="Khalilu"
+	dynasty=1406059 #Barry
+	culture=fulbe
+	religion=tarikah
+
+	2630.1.1={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1401034={
+	name="Daouda"
+	dynasty=1401001 #Diawara
+	culture=manding
+	religion=tarikah
 
 	2630.1.1={ birth=yes }
 	2700.1.1={ death=yes }

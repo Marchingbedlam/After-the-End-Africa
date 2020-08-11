@@ -1,11 +1,8 @@
-# e_coasts
-2300.1.1={
-	law = agnatic_succession
-	law = succ_gavelkind
-}
 2650.1.1={
 	holder=1800003
+	liege=d_abidjan
 }
 2659.1.1={
 	holder=1000122
+	liege=d_belier
 }

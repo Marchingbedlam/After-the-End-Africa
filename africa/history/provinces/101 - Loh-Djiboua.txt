@@ -4,11 +4,11 @@
 title = c_loh_djiboua
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_loh_djiboua = castle
-b_loh_djiboua_2 = city
-b_loh_djiboua_3 = temple
+b_tiegba = castle
+b_divo = city
+b_ble = temple
 
 # Misc
 culture = baoule

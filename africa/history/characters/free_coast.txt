@@ -405,9 +405,13 @@
 	dynasty=1002023 #Finney-Conteh
 	culture=krio
 	religion=anglican
+	father=1000185
 	trait=midas_touched
-	trait=ambitious
-	
+	trait=content
+	trait=trusting
+	trait=just
+	trait=honorable
+	trait=temperate
 	2620.4.11={birth=yes}
 	2700.1.1={death=yes}
 }
@@ -415,18 +419,31 @@
 	name="Akbar" #Freetown patricians
 	dynasty=1841009 #Lansana
 	culture=mende
-	religion=ashari
-	
-	2620.4.11={birth=yes}
+	religion=tarikah
+	father=1000183
+	trait=charismatic_negotiator
+	trait=mystic
+	trait=zealous
+	trait=gregarious
+	trait=trusting
+	trait=erudite
+	trait=proud
+	2625.7.3={birth=yes}
 	2700.1.1={death=yes}
 }
 1000128={
 	name="Ernest" #Freetown patricians
 	dynasty=1301005 #Sesay
 	culture=temne
-	religion=ashari
-	
-	2620.4.11={birth=yes}
+	religion=tarikah
+	father=1000179
+	trait=tough_soldier
+	trait=greedy
+	trait=cynical
+	trait=ambitious
+	trait=craven
+	trait=authoritative
+	2633.3.21={birth=yes}
 	2700.1.1={death=yes}
 }
 1000129={
@@ -434,19 +451,27 @@
 	dynasty=1002025 #Parkes
 	culture=krio
 	religion=anglican
-	
-	2620.4.11={birth=yes}
+	father=1000172
+	trait=brave
+	trait=ambitious
+	trait=scholar
+	trait=scholarly_theologian
+	trait=robust
+	trait=cynical
+	trait=proud
+	2636.10.12={birth=yes}
 	2700.1.1={death=yes}
 }
 1000130={
-	name="Winstanley" #Freetown patricians
-	dynasty=1002027 #Hamilton
-	culture=krio
-	religion=libertarian
-	father=1000181
+	name="Selim" #Freetown patricians
+	dynasty=2703001 #Antar
+	culture=afrolebanese
+	religion=shia
 
-	trait=lunatic
-	trait=proud
+	trait=zealous
+	trait=diligent
+	trait=just
+	trait=temperate
 	
 	2627.4.11={birth=yes}
 	2700.1.1={death=yes}
@@ -917,201 +942,114 @@
 	2700.1.1={death=yes}
 }
 1000169={
-	name="William" #Freetown patricians
-	dynasty=1002027 #Hamilton
+	name="Thomas" 
+	dynasty=1002025 #Parkes
 	culture=krio
 	religion=anglican
-	
-	2444.4.4={birth=yes}
-	2500.1.1={death=yes}
+	trait=brave
+	trait=ambitious
+	trait=skilled_tactician
+	trait=charitable
+	trait=just
+	2534.6.25={birth=yes}
+	2589.11.3={death=yes}
 }
 1000170={
-	name="Wentworth" #Freetown patricians
-	dynasty=1002027 #Hamilton
+	name="Mungo" 
+	dynasty=1002025 #Parkes
 	culture=krio
 	religion=anglican
 	father=1000169
-	
-	2468.1.1={birth=yes}
-	2520.1.1={death=yes}
+	2555.2.15={birth=yes}
+	2611.6.3={death=yes}
 }
 1000171={
-	name="Holbrook" #Freetown patricians
-	dynasty=1002027 #Hamilton
+	name="Edward" 
+	dynasty=1002025 #Parkes
 	culture=krio
 	religion=anglican
 	father=1000170
-	
-	2490.1.1={birth=yes}
-	2553.1.1={death=yes}
+	2582.7.5={birth=yes}
+	2650.7.9={death=yes}
 }
 1000172={
-	name="Warburton" #Freetown patricians
-	dynasty=1002027 #Hamilton
+	name="Blackpool" 
+	dynasty=1002025 #Parkes
 	culture=krio
 	religion=anglican
 	father=1000171
-	
-	2516.1.1={birth=yes}
-	2590.1.1={death=yes}
-}
-1000173={
-	name="Kirkland" #Freetown patricians
-	dynasty=1002027 #Hamilton
-	culture=krio
-	religion=anglican
-	father=1000172
-	
-	2545.1.1={birth=yes}
-	2582.1.1={death=yes}
-}
-1000174={
-	name="Wallace" #Freetown patricians
-	dynasty=1002027 #Hamilton
-	culture=krio
-	religion=ashari
-	father=1000172
-	
-	2548.1.1={birth=yes}
-	2595.1.1={death=yes}
-}
-1000175={
-	name="Alexander" #Freetown patricians
-	dynasty=1002027 #Hamilton
-	culture=krio
-	religion=libertarian
-	father=1000172
-	
-	2550.1.1={birth=yes}
-	2611.1.1={death=yes}
-}
-1000176={
-	name="Webster" #Freetown patricians
-	dynasty=1002027 #Hamilton
-	culture=krio
-	religion=libertarian
-	father=1000172
-	
-	2554.1.1={birth=yes}
-	2515.1.1={death=yes}
-}
-1000177={
-	name="Melville" #Freetown patricians
-	dynasty=1002027 #Hamilton
-	culture=krio
-	religion=ashari
-	father=1000172
-	
-	2561.1.1={birth=yes}
-	2626.1.1={death=yes}
+	2603.8.3={birth=yes}
+	2660.3.5={death=yes}
 }
 1000178={
-	name="Clarkson" #Freetown patricians
-	dynasty=1002027 #Hamilton
-	culture=krio
-	religion=anglican
-	father=1000173
-	
-	2570.1.1={birth=yes}
-	2630.1.1={death=yes}
+	name="Mohamed"
+	dynasty=1301005 #Sesay
+	culture=temne
+	religion=tarikah
+	2579.8.24={birth=yes}
+	2640.12.4={death=yes}
 }
 1000179={
-	name="Holbrook" #Freetown patricians
-	dynasty=1002027 #Hamilton
-	culture=krio
-	religion=anglican
+	name="Albert" 
+	dynasty=1301005 #Sesay
+	culture=temne
+	religion=tarikah
 	father=1000178
-	
-	2593.1.1={birth=yes}
-	2700.1.1={death=yes}
+	2609.9.3={birth=yes}
+	2662.6.9={death=yes}
 }
 1000180={
-	name="Wellman" #Freetown patricians
-	dynasty=1002027 #Hamilton
-	culture=krio
-	religion=libertarian
-	father=1000175
-	
-	2575.1.1={birth=yes}
-	2635.1.1={death=yes}
+	name="Omar"
+	dynasty=1301005 #Sesay
+	culture=temne
+	religion=tarikah
+	father=1000128
+	2655.9.3={birth=yes}
+	2700.1.1={death=yes}
 }
 1000181={
-	name="Wellesley" #Freetown patricians
-	dynasty=1002027 #Hamilton
-	culture=krio
-	religion=libertarian
-	father=1000180
-	
-	2595.1.1={birth=yes}
-	2658.1.1={death=yes}
+	name="Mustafa"
+	dynasty=1301005 #Sesay
+	culture=temne
+	religion=tarikah
+	father=1000128
+	2658.6.6={birth=yes}
+	2700.1.1={death=yes}
 }
 1000182={
-	name="Maxwell" #Freetown patricians
-	dynasty=1002027 #Hamilton
-	culture=krio
-	religion=libertarian
-	father=1000176
-	
-	2590.1.1={birth=yes}
-	2546.1.1={death=yes}
+	name="Hassan" 
+	dynasty=1841009 #Lansana
+	culture=mende
+	religion=tarikah
+	2568.7.3={birth=yes}
+	2620.9.16={death=yes}
 }
 1000183={
-	name="Wolstenholme" #Freetown patricians
-	dynasty=1002027 #Hamilton
-	culture=krio
-	religion=libertarian
+	name="Hassan" 
+	dynasty=1841009 #Lansana
+	culture=mende
+	religion=tarikah
 	father=1000182
-	
-	2519.1.1={birth=yes}
-	2700.1.1={death=yes}
+	2599.6.10={birth=yes}
+	2655.5.21={death=yes}
 }
 1000184={
-	name="William" #Freetown patricians
-	dynasty=1002027 #Hamilton
+	name="Montague" 
+	dynasty=1002023 #Finney-Conteh
 	culture=krio
-	religion=ashari
-	father=1000177
-	
-	2584.1.1={birth=yes}
-	2640.1.1={death=yes}
+	religion=anglican
+	2562.7.1={birth=yes}
+	2618.4.7={death=yes}
 }
 1000185={
-	name="Canning" #Freetown patricians
-	dynasty=1002027 #Hamilton
+	name="Ayodele"
+	dynasty=1002023 #Finney-Conteh
 	culture=krio
-	religion=ashari
-	father=1000184
-	
-	2610.1.1={birth=yes}
-	2700.1.1={death=yes}
-}
-1000186={
-	name="Walpole" #Freetown patricians
-	dynasty=1002027 #Hamilton
-	culture=krio
-	religion=ashari
-	father=1000185
-	
-	2640.1.1={birth=yes}
-	2700.1.1={death=yes}
-}
-1000187={
-	name="Compton" #Freetown patricians
-	dynasty=1002027 #Hamilton
-	culture=krio
-	religion=ashari
-	father=1000185
-	
-	2646.1.1={birth=yes}
-	2700.1.1={death=yes}
-}
-1000188={
-	name="Shelburne" #Freetown patricians
-	dynasty=1002027 #Hamilton
-	culture=krio
-	religion=ashari
-	father=1000185
-	
-	2650.1.1={birth=yes}
-	2700.1.1={death=yes}
+	religion=tarikah
+	trait=midas_touched
+	trait=sympathy_christian
+	trait=just
+	trait=honorable
+	2590.2.3={birth=yes}
+	2653.6.16={death=yes}
 }

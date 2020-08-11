@@ -1409,7 +1409,7 @@
 1406009 = {name ="M'Ballow" culture=fulbe }
 1406010 = {name ="Baldé" culture=fulbe }
 1406011 = {name ="Sall" culture=fulbe }
-1406012 = {name ="Wurie" culture=fulbe }
+1406012 = {name ="Wury" culture=fulbe }
 1406013 = {name ="Gambari" culture=fulbe }
 1406014 = {name ="Abubakar" culture=fulbe }
 1406015 = {name ="Yar'Adua" culture=fulbe }
@@ -1453,14 +1453,14 @@
 1406053 = {name ="Zaidi" culture=fulbe }
 1406054 = {name ="Sow" culture=fulbe }
 1406055 = {name ="Barrow" culture=fulbe }
-1406056 = {name ="Bubacar" culture=fulbe }
+1406056 = {name ="Bi'Amadou" culture=fulbe }
 1406057 = {name ="Maigari" culture=fulbe }
 1406058 = {name ="Abouba" culture=fulbe }
 1406059 = {name ="Barry" culture=fulbe }
 1406060 = {name ="Shambas" culture=fulbe }
 1406061 = {name ="Wan" culture=fulbe }
 1406062 = {name ="Ulé" culture=fulbe }
-1406063 = {name ="Jeegi" culture=fulbe }
+1406063 = {name ="Jiegi" culture=fulbe }
 1406064 = {name ="Garm" culture=fulbe }
 1406065 = {name ="Dundu" culture=fulbe }
 1406066 = {name ="Bohi" culture=fulbe }
@@ -1468,6 +1468,17 @@
 1406068 = {name ="Lamu" culture=fulbe }
 1406069 = {name ="Kumba" culture=fulbe }
 1406070 = {name ="An" culture=fulbe }
+1406071 = {name ="Dicko" culture=fulbe }
+1406072 = {name ="Kandé" culture=fulbe }
+1406073 = {name ="Bocoum" culture=fulbe }
+1406074 = {name ="Bandé" culture=fulbe }
+1406075 = {name ="Telli" culture=fulbe }
+1406076 = {name ="Jah" culture=fulbe }
+1406077 = {name ="Adji" culture=fulbe }
+1406078 = {name ="Niane" culture=fulbe }
+1406079 = {name ="Bardé" culture=fulbe }
+1406080 = {name ="Bayero" culture=fulbe }
+
 
 1407000 = {name ="Toloba" culture=dogon }
 1407001 = {name ="Guindo" culture=dogon }
@@ -2311,57 +2322,57 @@
 1514049 = {name ="Câmnate" culture=guinensi }
 1514050 = {name ="Na N'Hada" culture=guinensi }
 
-1515000 = {name ="Trovoada" culture=portuguese }
-1515001 = {name ="Bom Jesus" culture=portuguese }
-1515002 = {name ="de Santarém" culture=portuguese }
-1515003 = {name ="Caminha" culture=portuguese }
-1515004 = {name ="Aragão" culture=portuguese }
-1515005 = {name ="de Deus Lima" culture=portuguese }
-1515006 = {name ="Posser" culture=portuguese }
-1515007 = {name ="Tenreiro" culture=portuguese }
-1515008 = {name ="da Ceita" culture=portuguese }
-1515009 = {name ="Pinto da Costa" culture=portuguese }
-1515010 = {name ="Leitão" culture=portuguese }
-1515011 = {name ="Beja" culture=portuguese }
-1515012 = {name ="Azancot" culture=portuguese }
-1515013 = {name ="da Vera Cruz" culture=portuguese }
-1515014 = {name ="Nascimento" culture=portuguese }
-1515015 = {name ="da Motta" culture=portuguese }
-1515016 = {name ="Jorgino" culture=portuguese }
-1515017 = {name ="Rosamonte" culture=portuguese }
-1515018 = {name ="dos Prazeres" culture=portuguese }
-1515019 = {name ="Bandeira" culture=portuguese }
-1515020 = {name ="Bonfim" culture=portuguese }
-1515021 = {name ="Pequeno" culture=portuguese }
-1515022 = {name ="Sousa" culture=portuguese }
-1515023 = {name ="d'Alva" culture=portuguese }
-1515024 = {name ="Botelho" culture=portuguese }
-1515025 = {name ="Espírito Santo" culture=portuguese }
-1515026 = {name ="Neto" culture=portuguese }
-1515027 = {name ="do Carmo" culture=portuguese }
-1515028 = {name ="dos Ramos" culture=portuguese }
-1515029 = {name ="Daio" culture=portuguese }
-1515030 = {name ="Cassandra" culture=portuguese }
-1515031 = {name ="Sobral" culture=portuguese }
-1515032 = {name ="Melo" culture=portuguese }
-1515033 = {name ="Gomes" culture=portuguese }
-1515034 = {name ="Pinheiro" culture=portuguese }
-1515035 = {name ="Quaresma" culture=portuguese }
-1515036 = {name ="do Carmo" culture=portuguese }
-1515037 = {name ="Vila Nova" culture=portuguese }
-1515038 = {name ="Pontes" culture=portuguese }
-1515039 = {name ="Varela" culture=portuguese }
-1515040 = {name ="Sacramento" culture=portuguese }
-1515041 = {name ="Triste" culture=portuguese }
-1515042 = {name ="da Conceição" culture=portuguese }
-1515043 = {name ="Esteves" culture=portuguese }
-1515044 = {name ="Baía" culture=portuguese }
-1515045 = {name ="Ribas" culture=portuguese }
-1515046 = {name ="Negreiros" culture=portuguese }
-1515047 = {name ="dos Anjos" culture=portuguese }
-1515048 = {name ="Salvaterra" culture=portuguese }
-1515049 = {name ="Dias" culture=portuguese }
-1515050 = {name ="Torres" culture=portuguese }
+1515000 = {name ="Trovoada" culture=santomean }
+1515001 = {name ="Bom Jesus" culture=santomean }
+1515002 = {name ="de Santarém" culture=santomean }
+1515003 = {name ="Caminha" culture=santomean }
+1515004 = {name ="Aragão" culture=santomean }
+1515005 = {name ="de Deus Lima" culture=santomean }
+1515006 = {name ="Posser" culture=santomean }
+1515007 = {name ="Tenreiro" culture=santomean }
+1515008 = {name ="da Ceita" culture=santomean }
+1515009 = {name ="Pinto da Costa" culture=santomean }
+1515010 = {name ="Leitão" culture=santomean }
+1515011 = {name ="Beja" culture=santomean }
+1515012 = {name ="Azancot" culture=santomean }
+1515013 = {name ="da Vera Cruz" culture=santomean }
+1515014 = {name ="Nascimento" culture=santomean }
+1515015 = {name ="da Motta" culture=santomean }
+1515016 = {name ="Jorgino" culture=santomean }
+1515017 = {name ="Rosamonte" culture=santomean }
+1515018 = {name ="dos Prazeres" culture=santomean }
+1515019 = {name ="Bandeira" culture=santomean }
+1515020 = {name ="Bonfim" culture=santomean }
+1515021 = {name ="Pequeno" culture=santomean }
+1515022 = {name ="Sousa" culture=santomean }
+1515023 = {name ="d'Alva" culture=santomean }
+1515024 = {name ="Botelho" culture=santomean }
+1515025 = {name ="Espírito Santo" culture=santomean }
+1515026 = {name ="Neto" culture=santomean }
+1515027 = {name ="do Carmo" culture=santomean }
+1515028 = {name ="dos Ramos" culture=santomean }
+1515029 = {name ="Daio" culture=santomean }
+1515030 = {name ="Cassandra" culture=santomean }
+1515031 = {name ="Sobral" culture=santomean }
+1515032 = {name ="Melo" culture=santomean }
+1515033 = {name ="Gomes" culture=santomean }
+1515034 = {name ="Pinheiro" culture=santomean }
+1515035 = {name ="Quaresma" culture=santomean }
+1515036 = {name ="do Carmo" culture=santomean }
+1515037 = {name ="Vila Nova" culture=santomean }
+1515038 = {name ="Pontes" culture=santomean }
+1515039 = {name ="Varela" culture=santomean }
+1515040 = {name ="Sacramento" culture=santomean }
+1515041 = {name ="Triste" culture=santomean }
+1515042 = {name ="da Conceição" culture=santomean }
+1515043 = {name ="Esteves" culture=santomean }
+1515044 = {name ="Baía" culture=santomean }
+1515045 = {name ="Ribas" culture=santomean }
+1515046 = {name ="Negreiros" culture=santomean }
+1515047 = {name ="dos Anjos" culture=santomean }
+1515048 = {name ="Salvaterra" culture=santomean }
+1515049 = {name ="Dias" culture=santomean }
+1515050 = {name ="Torres" culture=santomean }
 
 1518000 = {name ="Chicampo" culture=bubi }
 1518001 = {name ="Bamöumá" culture=bubi }
@@ -2511,6 +2522,36 @@
 1519098 = {name ="Lukombo" culture=kongo }
 1519099 = {name ="Makanzu" culture=kongo }
 1519100 = {name ="Jordao" culture=kongo }
+1519101 = {name ="Bilongo" culture=kongo }
+1519102 = {name ="Maviluka" culture=kongo }
+1519103 = {name ="Ndinga" culture=kongo }
+1519104 = {name ="Mavova" culture=kongo }
+1519105 = {name ="Sikama" culture=kongo }
+1519106 = {name ="Kitoko" culture=kongo }
+1519107 = {name ="Bikebi" culture=kongo }
+1519108 = {name ="Lubaki" culture=kongo }
+1519109 = {name ="Kuyena" culture=kongo }
+1519110 = {name ="Nsuka" culture=kongo }
+1519111 = {name ="Ndembo" culture=kongo }
+1519112 = {name ="Mvuama" culture=kongo }
+1519113 = {name ="Kinatimasa" culture=kongo }
+1519114 = {name ="Kieleka" culture=kongo }
+1519115 = {name ="Diabeno" culture=kongo }
+1519116 = {name ="Diakieleka" culture=kongo }
+1519117 = {name ="Lusakumunu" culture=kongo }
+1519118 = {name ="Lusakueno" culture=kongo }
+1519119 = {name ="Nsezi" culture=kongo }
+1519120 = {name ="Mampasi" culture=kongo }
+1519121 = {name ="Masiamina" culture=kongo }
+1519122 = {name ="Mvibudulu" culture=kongo }
+1519123 = {name ="Lusambu" culture=kongo }
+1519124 = {name ="Madionga" culture=kongo }
+1519125 = {name ="Lukombo" culture=kongo }
+1519126 = {name ="Dinzengi" culture=kongo }
+1519127 = {name ="Boka" culture=kongo }
+1519128 = {name ="Bunseki" culture=kongo }
+1519129 = {name ="Kiangala" culture=kongo }
+1519130 = {name ="Yazi" culture=kongo }
 
 1520000 = {name ="Awala" culture=beti }
 1520001 = {name ="Alomo" culture=beti }
@@ -3337,6 +3378,138 @@
 1877038 = {name ="Ilboudou" culture=mossi }
 1877039 = {name ="Bassolé" culture=mossi }
 1877040 = {name ="Guissou" culture=mossi }
+1877041 = {name ="Panandétiguiri" culture=mossi }
+1877042 = {name ="Rouamba" culture=mossi }
+1877043 = {name ="Dagano" culture=mossi }
+1877044 = {name ="Nikiema" culture=mossi }
+1877045 = {name ="Zidouemba" culture=mossi }
+1877046 = {name ="Segda" culture=mossi }
+1877047 = {name ="Zabre" culture=mossi }
+1877048 = {name ="Sore" culture=mossi }
+1877049 = {name ="Bounkoungou" culture=mossi }
+1877050 = {name ="Kafando" culture=mossi }
+
+1878000 = {name="Ouoba" culture=gurunsi }
+1878001 = {name="Lankoandé" culture=gurunsi }
+1878002 = {name="Tankoano" culture=gurunsi }
+1878003 = {name="Tindano" culture=gurunsi }
+1878004 = {name="Yonli" culture=gurunsi }
+1878005 = {name="Thiombiano" culture=gurunsi }
+1878006 = {name="Sondé" culture=gurunsi }
+1878007 = {name="Yarga" culture=gurunsi }
+1878008 = {name="Combari" culture=gurunsi }
+1878009 = {name="Mano" culture=gurunsi }
+1878010 = {name="Bourgou" culture=gurunsi }
+1878011 = {name="Yougbaré" culture=gurunsi }
+1878012 = {name="Bandé" culture=gurunsi }
+1878013 = {name="Nadinga" culture=gurunsi }
+1878014 = {name="Namoano" culture=gurunsi }
+1878015 = {name="Naba" culture=gurunsi }
+1878016 = {name="Dabourgou" culture=gurunsi }
+1878017 = {name="Natama" culture=gurunsi }
+1878018 = {name="Dayamba" culture=gurunsi }
+1878019 = {name="Kiéma" culture=gurunsi }
+1878020 = {name="Onadja" culture=gurunsi }
+1878021 = {name="Tandamba" culture=gurunsi }
+1878022 = {name="Diagbouga" culture=gurunsi }
+1878023 = {name="Guitanga" culture=gurunsi }
+1878024 = {name="Sangna" culture=gurunsi }
+1878025 = {name="Namountougou" culture=gurunsi }
+1878026 = {name="Haro" culture=gurunsi }
+1878027 = {name="Dianou" culture=gurunsi }
+1878028 = {name="Dambina" culture=gurunsi }
+1878029 = {name="Soubéiga" culture=gurunsi }
+1878030 = {name="Souobou" culture=gurunsi }
+1878031 = {name="Idani" culture=gurunsi }
+1878032 = {name="Noula" culture=gurunsi }
+1878033 = {name="Damiba" culture=gurunsi }
+1878034 = {name="Hanro" culture=gurunsi }
+1878035 = {name="Moyenga" culture=gurunsi }
+1878036 = {name="Tougma" culture=gurunsi }
+1878037 = {name="Madiéga" culture=gurunsi }
+1878038 = {name="Banga" culture=gurunsi }
+1878039 = {name="Komondi" culture=gurunsi }
+1878040 = {name="Guibougou" culture=gurunsi }
+1878041 = {name="Dori" culture=gurunsi }
+1878042 = {name="Tiabondou" culture=gurunsi }
+1878043 = {name="Diapa" culture=gurunsi }
+1878044 = {name="Gayeri" culture=gurunsi }
+1878045 = {name="Nassouri" culture=gurunsi }
+1878046 = {name="Balima" culture=gurunsi }
+1878047 = {name="Ouango" culture=gurunsi }
+1878048 = {name="Boly" culture=gurunsi }
+1878049 = {name="Sinini" culture=gurunsi }
+1878050 = {name="Yonaba" culture=gurunsi }
+1878051 = {name="Noali" culture=gurunsi }
+1878052 = {name="Nadiéba" culture=gurunsi }
+1878053 = {name="Kobori" culture=gurunsi }
+1878054 = {name="Koadima" culture=gurunsi }
+1878055 = {name="Bangou" culture=gurunsi }
+1878056 = {name="Kuéla" culture=gurunsi }
+1878057 = {name="Kima" culture=gurunsi }
+1878058 = {name="Niada" culture=gurunsi }
+1878059 = {name="Noba" culture=gurunsi }
+1878060 = {name="Woba" culture=gurunsi }
+1878061 = {name="Lido" culture=gurunsi }
+1878062 = {name="Bikiénga" culture=gurunsi }
+1878063 = {name="Tambiga" culture=gurunsi }
+1878064 = {name="Kanla" culture=gurunsi }
+1878065 = {name="Bougma" culture=gurunsi }
+1878066 = {name="Sebgo" culture=gurunsi }
+1878067 = {name="Lagma" culture=gurunsi }
+1878068 = {name="Sinambou" culture=gurunsi }
+1878069 = {name="Zoetyénga" culture=gurunsi }
+1878070 = {name="Djolgou" culture=gurunsi }
+1878071 = {name="Gnada" culture=gurunsi }
+1878072 = {name="Tiambiga" culture=gurunsi }
+1878073 = {name="Moribiga" culture=gurunsi }
+1878074 = {name="Combéré" culture=gurunsi }
+1878075 = {name="Legma" culture=gurunsi }
+1878076 = {name="Louari" culture=gurunsi }
+1878077 = {name="Sabdano" culture=gurunsi }
+1878078 = {name="Sandamba" culture=gurunsi }
+1878079 = {name="Nadimbou" culture=gurunsi }
+1878080 = {name="Ouéda" culture=gurunsi }
+1878081 = {name="Kala" culture=gurunsi }
+1878082 = {name="Onakodo" culture=gurunsi }
+1878083 = {name="Dadioari" culture=gurunsi }
+1878084 = {name="Lallogo" culture=gurunsi }
+1878085 = {name="Timbangou" culture=gurunsi }
+1878086 = {name="Tompoudi" culture=gurunsi }
+1878087 = {name="Tindambiga" culture=gurunsi }
+1878088 = {name="Damolga" culture=gurunsi }
+1878089 = {name="Nadembou" culture=gurunsi }
+1878090 = {name="Agoualibiga" culture=gurunsi }
+1878091 = {name="Somma" culture=gurunsi }
+1878092 = {name="Nahini" culture=gurunsi }
+1878093 = {name="Béogo" culture=gurunsi }
+1878094 = {name="Wango" culture=gurunsi }
+1878095 = {name="Singbéogo" culture=gurunsi }
+1878096 = {name="Kiada" culture=gurunsi }
+1878097 = {name="Tampanga" culture=gurunsi }
+1878098 = {name="Bahadjo" culture=gurunsi }
+1878099 = {name="Bokoum" culture=gurunsi }
+1878100 = {name="Mandobiga" culture=gurunsi }
+1878101 = {name="Koanari" culture=gurunsi }
+1878102 = {name="Kandia" culture=gurunsi }
+1878103 = {name="Sangli" culture=gurunsi }
+1878104 = {name="Kina" culture=gurunsi }
+1878105 = {name="Bonogo" culture=gurunsi }
+1878106 = {name="Zombré" culture=gurunsi }
+1878107 = {name="Koaré" culture=gurunsi }
+1878108 = {name="Doussa" culture=gurunsi }
+1878109 = {name="Boutiana" culture=gurunsi }
+1878110 = {name="Guida" culture=gurunsi }
+1878111 = {name="Torodo" culture=gurunsi }
+1878112 = {name="Gadou" culture=gurunsi }
+1878113 = {name="Waongo" culture=gurunsi }
+1878114 = {name="Babongou" culture=gurunsi }
+1878115 = {name="Bougouma" culture=gurunsi }
+1878116 = {name="Koyénga" culture=gurunsi }
+1878117 = {name="Diamongou" culture=gurunsi }
+1878118 = {name="Salbré" culture=gurunsi }
+1878119 = {name="Yobri" culture=gurunsi }
+1878120 = {name="Tansarga" culture=gurunsi }
 
 1888000 = {name ="Lartey" culture=ga }
 1888001 = {name ="Nortey" culture=ga }
@@ -5257,3 +5430,15 @@
 2702148 = { name="Salt" culture=saint }
 2702149 = { name="Moulding" culture=saint }
 2702150 = { name="Smeet" culture=saint }
+
+2703000 = { name="Akar" culture=afrolebanese }
+2703001 = { name="Antar" culture=afrolebanese }
+2703002 = { name="Zgheib" culture=afrolebanese }
+2703003 = { name="Jazzar" culture=afrolebanese }
+2703004 = { name="Khalil" culture=afrolebanese }
+2703005 = { name="Saad" culture=afrolebanese }
+2703006 = { name="Khadi" culture=afrolebanese }
+2703007 = { name="Khoury" culture=afrolebanese }
+2703008 = { name="Zaiter" culture=afrolebanese }
+2703009 = { name="Darwish" culture=afrolebanese }
+2703010 = { name="Rizk" culture=afrolebanese }

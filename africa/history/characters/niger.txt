@@ -94,3 +94,29 @@
 	2626.7.26={ birth=yes }
 	2700.1.1={ death=yes }
 }
+1453008={
+	name="Kpeziou"
+	dynasty=1878011 #Yougbare
+	culture=gurunsi
+	religion=marabouti
+	2634.7.4={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1453009={
+	name="Luc"
+	dynasty=1878036 #Tougma
+	culture=gurunsi
+	religion=catholic
+	trait=gamer
+	trait=cynical
+	2638.12.8={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1453010={
+	name="Fodio"
+	dynasty=1406071 #Dicko
+	culture=fulbe
+	religion=marabouti
+	2616.6.26={ birth=yes }
+	2700.1.1={ death=yes }
+}

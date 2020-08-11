@@ -20,7 +20,7 @@
 	name="Yao" #Cotedivoire
 	dynasty=1505016
 	culture=baoule
-	religion=catholic
+	religion=akom
 	father=1800003
 
 	trait=ambitious
@@ -29,6 +29,7 @@
 	trait=paranoid
 	
 	2641.1.1={birth=yes}
+	2659.1.1={effect={add_rival=1899032}}
 	2700.1.1={death=yes}
 }
 1800003={
@@ -247,5 +248,19 @@
 	religion=marabouti
 	
 	2630.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+1800020={
+	name="Istifanous" 
+	dynasty=2703002 #Zgheib
+	culture=afrolebanese
+	religion=catholic
+	trait=fortune_builder
+	trait=one_eyed
+	trait=proud
+	trait=patient
+	trait=rude
+	trait=gregarious
+	2621.8.6={birth=yes}
 	2700.1.1={death=yes}
 }

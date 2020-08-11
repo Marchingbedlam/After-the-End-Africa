@@ -196,7 +196,7 @@ arabic = {
 			Uthman
 			Walid
 			Yahya_John Yasser Yassin Yousef_Joseph
-			Zubeir_Zubayr
+			Zainalabiddin Zubeir_Zubayr
 		}
 		female_names = {
 			Aisha Asma
@@ -425,36 +425,61 @@ arabic = {
 		color = { 0.3 0.9 0.3 }
 		
 		male_names = {
-			Abdalla_Abdullah Abdulrahman Abdulrazak Abeid Ahmed Ali Amani Amir Atul Awadh
-			Baraka Barghash Bushir
+			Abdalla_Abdullah Abdilatif Abdulaziz Abdulhalim Abdulkarim Abdulrahman Abdulrazak Abeid Abubakar Adam Ahmed Alamin Ally_Ali Amani Amir Atul Awadh Ayub_Job
+			Baraka Barghash Bashat Bushir
+			Chirau
 			Dawud_David
-			Farrokh_Faruk
+			Fadhili Farrokh_Faruk Feisal
 			Gharib
-			Haroun_Aaron Hassan Hussein
-			Ibrahim_Abraham Idris Ismail Issa_Jesus
+			Habib Hamad Hamza Haroun_Aaron Hashim Hassan Homoud Hussein
+			Ibrahim_Abraham Idris Ismail_Ishmael Issa_Jesus
 			Jakaya Juma
-			Kassim Khalid Khalifa Khatib Kiwab
-			Makame Maqbul Masoud Mohammed
-			Najib
+			Kassim Katama Khalfan Khalid Khalifa Khamis Khatib Kighoma Kiwab
+			Mahjub Mahmud Makame Maqbul Masoud Mbwana Mohamedhusein Mohammed Msham Mwengo
+			Nadir Najib
 			Omar
-			Rajab Rashid
-			Sabhat Said Saleh Salim Seif Shaaban Shamsi Shamte Suleiman_Solomon
-			Yunus_Jonas Yussuf_Joseph
+			Rajab Ramadhan Rashid Riziki Ruknaddin
+			Sabhat Said Salim Salmin Salum Seif Shaaban Shamsi Shamte Suleiman_Solomon Swaleh_Salah
+			Talut Thabit
+			Yahya_John Yunus_Jonas Yussuf_Joseph
 		}
 		female_names = {
 			Amina Asha
 			Bahati
 			Fardosa Fatuma
-			Khadija
+			Jokate
+			Khadija Khalila
 			Lubaina	
-			Malaika Mariam_Mary
-			Samia Sayyida Siti
+			Malaika Mariam_Mary Mwana
+			Nadira
+			Saada Salha Samia Sayyida Siti
 			Zakia Zuleikha
 		}
 		
 
 		male_patronym = "bin "
 		female_patronym = "binti "
+		prefix = yes 
+	}
+	afrolebanese = {
+		graphical_cultures = { arabicgfx muslimgfx }
+		
+		color = { 0.56 0.26 0.84 }
+		
+		male_names = {
+			Charbel
+			Bechara Boutros_Peter Bulus_Paul
+			Ibrahim_Abraham Ilyas_Elias Istifanous_Stephen
+			Yakub_Jacob
+			Michel_Michael
+		}
+		female_names = {
+			Mariam_Mary
+		}
+		
+
+		male_patronym = "bin "
+		female_patronym = "bint "
 		prefix = yes 
 	}
 }

@@ -1,11 +1,16 @@
-# e_guinea
-2300.1.1={
-	law = agnatic_succession
-	law = succ_gavelkind
+2563.1.1 = {
+	holder = 1000169
+	liege=d_freetown
 }
-2300.1.1={
-	liege=k_guinea
+2589.11.3 = {
+	holder = 1000170
 }
-2652.1.3 = {
+2611.6.3 = {
+	holder = 1000178
+}
+2640.12.4 = {
+	holder = 1000185
+}
+2653.6.16 = {
 	holder = 1000126
 }

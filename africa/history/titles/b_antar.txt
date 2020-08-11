@@ -1,5 +1,5 @@
 2660.1.1={
-holding_dynasty = 1002027
+holding_dynasty = 2703001
 
 liege="d_freetown"
 

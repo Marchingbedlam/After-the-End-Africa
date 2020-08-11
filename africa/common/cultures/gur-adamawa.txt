@@ -38,11 +38,14 @@ gur = {
 			
 		male_names = {
 			Adamou_Adam
+			Boukari
 			Casimir
 			Essozimna Étienne_Stephen Eyadéma
 			Fambaré Faure
 			Kanka-Malik Kéléou Kpatcha Kpeziou
+			Luc_Luke
 			Oukpan
+			Paramanga Philippe_Philip
 			Salif Souleymane_Solomon
 			Takouda
 			Yawanké
@@ -52,7 +55,7 @@ gur = {
 			Adjwa
 			Irène
 			Kanwum
-			Pyalo
+			Pyabélo Pyalo
 		}
 
 		dukes_called_kings = yes
