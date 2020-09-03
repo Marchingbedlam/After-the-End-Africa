@@ -16,107 +16,145 @@ e_azania = {
 
 				afrikaner="Walvisbaai"
 				sudwester="Walfischbucht"
+				herero="Ezorongondo"
 					
-				b_langstrand_NA = {}
-				b_walvis_bay_NA = {}
-				b_dolfynstrand_NA = {}
-				b_utuseb_NA = {}
-				b_rooibank_NA = {}
-				b_kuisebmond_NA = {}
-				b_pelican_point_NA = {}
+				b_langstrand = {}
+				b_walvis_bay = {
+					afrikaner="Walvisbaai"
+					sudwester="Walfischbucht"
+					herero="Ezorongondo"
+				}
+				b_rooibank = {}
+				b_sandwich_harbour = {
+					afrikaner="Sandwichbaai"
+					sudwester="Sandfischhafen"
+				}
+				b_utuseb = {}
+				b_kuisebmond = {}
+				b_gobabeb = {}
 			}
 			c_swakopmund = {
 				color={ 0 53 148 }
 				color2={ 255 255 255 }
 					
-				b_swakopmund_NA = {}
-				b_arandis_NA = {}
-				b_henties_bay_NA = {}
-				b_vogelstrand_NA = {}
-				b_vineta_NA = {}
-				b_mondesa_NA = {}
-				b_tamariskia_NA = {}
+				b_swakopmund = {}
+				b_arandis = {}
+				b_henties_bay = {
+					afrikaner="Hentiesbaai"
+					sudwester="Hentiesbucht"
+				}
+				b_wlotzkasbaken = {}
+				b_vineta = {}
+				b_mondesa = {}
+				b_tamariskia = {}
 			}
 			c_brandberg = {
 				color={ 0 53 148 }
 				color2={ 255 255 255 }
+				
+				nama="Dâures"
+				damara="Dâures"
+				herero="Omukuruvaro"
 					
-				b_uis_NA = {}
-				b_okombahe_NA = {}
-				b_omatjette_NA = {}
-				b_ozondati_NA = {}
-				b_tubusis_NA = {}
-				b_odama_NA = {}
-				b_omihana_NA = {}
+				b_uis = {}
+				b_okombahe = {}
+				b_omatjette = {}
+				b_ozondati = {}
+				b_tubusis = {}
+				b_odama = {}
+				b_omihana = {}
 			}
-			c_karibib = {
+			c_omaruru = {
 				color={ 0 53 148 }
 				color2={ 255 255 255 }
 					
-				b_karibib_NA = {}
-				b_omaruru_NA = {}
-				b_wilhelmstal_NA = {}
-				b_usakos_NA = {}
-				b_otjimbingwe_NA = {}
-				b_etjo_NA = {}
-				b_tsaobis_NA = {}
+				b_karibib = {}
+				b_omaruru = {}
+				b_usakos = {}
+				b_otjimbingwe = {}
+				b_wilhelmstal = {}
+				b_etjo = {}
+				b_tsaobis = {}
 			}
 		}
 		d_khomas = {
 			color={ 235 118 20 }
 			color2={ 255 255 255 }
 
-			c_naukluft = {
-				color={ 230 94 46 }
-				color2={ 255 255 255 }
-				
-				b_solitaire_NA = {}
-				b_ruimte_NA = {}
-				b_neuheusis_NA = {}
-				b_gamsberg_NA = {}
-				b_koireb_NA = {}
-				b_donkerhoek_NA = {}
-				b_namibgrens_NA = {}
-			}
 			c_windhoek = {
 				color={ 153 87 64 }
 				color2={ 255 255 255 }
 
 				sudwester="Windhuk"
+				nama="|Ai-||Gams"
+				herero="Otjomuise"
 				
-				b_klein_windhoek_NA = {}
-				b_windhoek_NA = {}
-				b_groot_aub_NA = {}
-				b_katutura_NA = {}
-				b_pionerspark_NA = {}
-				b_cimbebasia_NA = {}
-				b_hakahana_NA = {}
-				b_krumhuk_NA = {}
-				b_ondekaremba_NA = {}
+				b_klein_windhoek = {
+					sudwester="Kleinwindhuk"
+				}
+				b_windhoek = {
+					sudwester="Windhuk"
+					nama="|Ai-||Gams"
+					herero="Otjomuise"
+				}
+				b_katutura = {}
+				b_hochland_park = {
+					sudwester="Hochlandpark"
+				}
+				b_cimbebasia = {}
+				b_wanaheda = {}
+				b_ludwigsdorf = {}
 			}
 			c_rehoboth = {
 				color={ 255 173 82 }
 				color2={ 255 255 255 }
 				
-				b_schlip_NA = {}
-				b_rehoboth_NA = {}
-				b_klein_aub_NA = {}
-				b_khauxas_NA = {}
-				b_isabis_NA = {}
-				b_tsumis_NA = {}
-				b_oanob_NA = {}
+				b_schlip = {}
+				b_rehoboth = {}
+				b_klein_aub = {}
+				b_solitaire = {}
+				b_khauxas = {}
+				b_rietoog = {}
+				b_oanob = {}
 			}
-			c_nossob = {
+			c_groot_aub = {
 				color={ 158 106 39 }
 				color2={ 255 255 255 }
 				
-				b_dordabis_NA = {}
-				b_seeis_NA = {}
-				b_kleepforte_NA = {}
-				b_volmoed_NA = {}
-				b_ibenstein_NA = {}
-				b_onganja_NA = {}
-				b_bodenhausen_NA = {}
+				sudwester="Gross Aub"
+				
+				b_dordabis = {}
+				b_groot_aub = {
+					sudwester="Gross Aub"
+				}
+				b_seeis = {}
+				b_omitara = {}
+				b_ondekaremba = {}
+				b_bodenhausen = {}
+				b_ibenstein = {}
+			}
+			c_gobabis = {
+				color={ 183 144 93 }
+				color2={ 255 255 255 }
+				
+				nama="ǂKoabes"
+				damara="ǂKoabes"
+				herero="Epako"
+				
+				b_witvlei = {
+					nama="ǃUri ǃKhubus"
+					damara="ǃUri ǃKhubus"
+				}
+				b_gobabis = {
+					nama="ǂKoabes"
+					damara="ǂKoabes"
+					herero="Epako"
+				}
+				b_epukiro = {}
+				b_aminuis = {}
+				b_steinhausen = {}
+				b_leonardville = {}
+				b_otjinene = {}
 			}
 		}
 		d_hardap = {
@@ -127,117 +165,141 @@ e_azania = {
 				color={ 150 112 64 }
 				color2={ 255 255 255 }
 				
-				b_mariental_NA = {}
-				b_strampriet_NA = {}
-				b_kalkrand_NA = {}
-				b_hoachanas_NA = {}
-				b_uhlenhorst_NA = {}
-				b_derm_NA = {}
-				b_blumfelde_NA = {}
+				b_mariental = {}
+				b_stampriet = {}
+				b_kalkrand = {}
+				b_hoachanas = {}
+				b_uhlenhorst = {}
+				b_derm = {}
+				b_blumfelde = {}
 			}
-			c_daweb = {
+			c_maltahohe = {
 				color={ 191 128 61 }
 				color2={ 255 255 255 }
 				
-				b_duwisib_NA = {}
-				b_matlahohe_NA = {}
-				b_andreville_NA = {}
-				b_nomtsas_NA = {}
-				b_blikkiesdorp_NA = {}
-				b_rietoog_NA = {}
-				b_sesriem_NA = {}
+				b_duwisib = {}
+				b_maltahohe = {}
+				b_andreville = {}
+				b_nomtsas = {}
+				b_blikkiesdorp = {}
+				b_sesriem = {}
+				b_naukluft = {}
 			}
 			c_gibeon = {
 				color={ 191 145 43 }
 				color2={ 255 255 255 }
 				
-				b_gibeon_NA = {}
-				b_asab_NA = {}
-				b_gochas_NA = {}
-				b_hanaus_NA = {}
+				nama="Khaxa-tsûs"
+				damara="Khaxa-tsûs"
+				
+				b_gibeon = {
+					nama="Khaxa-tsûs"
+					damara="Khaxa-tsûs"
+				}
+				b_asab = {}
+				b_gochas = {}
+				b_kriess = {}
+				b_hanaus = {}
 				b_twee_river = {}
-				b_hanaus_NA = {}
+				b_witbooisvlei = {}
 			}
 		}
 		d_karas = {
 			color={ 212 125 21 }
 			color2={ 255 255 255 }
+			
+			nama="||Karas"
+			damara="||Karas"
 
 			c_luderitz = {
 				color={ 199 130 66 }
 				color2={ 255 255 255 }
 				
-				b_kolmanskop_NA = {}
-				b_luderitz_NA = {}
-				b_pomona_NA = {}
-				b_elizabeth_bay_NA = {}
-				b_robert_harbour_NA = {}
-				b_shark_island_NA = {}
-				b_grassplatz_NA = {}
-				b_rutkop_NA = {}
-				b_diaz_point_NA = {}
+				nama="ǃNamiǂNûs"
+				damara="ǃNamiǂNûs"
+				
+				b_kolmanskop = {}
+				b_luderitz = {
+					nama="ǃNamiǂNûs"
+					damara="ǃNamiǂNûs"
+				}
+				b_pomona = {}
+				b_elizabeth_bay = {}
+				b_aus = {}
+				b_shark_island = {}
+				b_robert_harbour = {}
 			}
-			c_brukkaros = {
+			c_berseba = {
 				color={ 163 120 77 }
 				color2={ 255 255 255 }
 				
-				b_bethanie_NA = {}
-				b_berseba_NA = {}
-				b_snyfontein_NA = {}
-				b_helmeringhausen_NA = {}
-				b_tses_NA = {}
-				b_goageb_NA = {}
-				b_aus_NA = {}
+				nama="ǃAutsawises"
+				damara="ǃAutsawises"
+				
+				b_bethanie = {
+					sudwester="Bethanien"
+					nama="ǀUiǂgandes"
+					damara="ǀUiǂgandes"
+				}
+				b_berseba = {
+					nama="ǃAutsawises"
+					damara="ǃAutsawises"
+				}
+				b_snyfontein = {}
+				b_tses = {}
+				b_helmeringhausen = {}
+				b_goageb = {}
+				b_kosis = {}
 			}
 			c_keetmanshoop = {
 				color={ 199 155 67 }
 				color2={ 255 255 255 }
 				
-				b_keetmanshoop_NA = {}
-				b_seeheim_NA = {}
-				b_koes_NA = {}
-				b_aroab_NA = {}
-				b_holoog_NA = {}
-				b_kronlein_NA = {}
-				b_noordhoek_NA = {}
+				nama="ǂNuǂgoaes"
+				damara="ǂNuǂgoaes"
+				
+				b_keetmanshoop = {
+					nama="ǂNuǂgoaes"
+					damara="ǂNuǂgoaes"
+				}
+				b_seeheim = {}
+				b_koes = {}
+				b_aroab = {}
+				b_tseiblaagte = {}
+				b_kronlein = {}
+				b_noordhoek = {}
 			}
 			c_karasburg = {
 				color={ 168 122 69 }
 				color2={ 255 255 255 }
 
 				afrikaner="Kalkfontein"
+				nama="|Nomsoros"
+				damara="|Nomsoros"
 				
-				b_karasburg_NA = {}
-				b_grunau_NA = {}
-				b_warmbad_NA = {}
-				b_ariamsvlei_NA = {}
-				b_klein_karas_NA = {}
-				b_velloorsdrif_NA = {}
-				b_nuwefontein_NA = {}
-			}
-			c_richtersveld = {
-				color={ 138 94 56 }
-				color2={ 255 255 255 }
-				
-				b_noordoewer_NA = {}
-				b_vioolsdrif_NA = {}
-				b_aussenkehr_NA = {}
-				b_kotzenshoop_NA = {}
-				b_grootplaas_NA = {}
-				b_ais_ais_NA = {}
-				b_haklesdoorn_NA = {}
+				b_karasburg = {
+					afrikaner="Kalkfontein"
+					nama="|Nomsoros"
+					damara="|Nomsoros"
+				}
+				b_grunau = {}
+				b_warmbad = {}
+				b_ariamsvlei = {}
+				b_klein_karas = {}
+				b_velloorsdrif = {}
+				b_nuwefontein = {}
 			}
 			c_oranjemund = {
 				color={ 148 99 71 }
 				color2={ 255 255 255 }
 				
-				b_oranjemund_NA = {}
-				b_port_nolloth_ZA = {}
-				b_alexander_bay_ZA = {}
-				b_sendelingsdrif_NA = {}
-				b_rosh_pinah_NA = {}
-				b_eksteensfontein_ZA = {}
-				b_kuboes_ZA = {}
+				b_oranjemund = {}
+				b_rosh_pinah = {}
+				b_noordoewer = {}
+				b_aussenkehr = {}
+				b_ai_ais = {}
+				b_haklesdoorn = {}
+				b_klipheuwel = {}
 			}
 		}
 		d_otjozondjupa = {
@@ -248,131 +310,139 @@ e_azania = {
 				color={ 181 128 64 }
 				color2={ 255 255 255 }
 				
-				b_kalkfeld_NA = {}
-				b_hochfeld_NA = {}
-				b_okahandja_NA = {}
-				b_osire_NA = {}
-				b_sukses_NA = {}
-				b_kaalkop_NA = {}
-				b_gross_barmen_NA = {}
+				b_hochfeld = {}
+				b_okahandja = {}
+				b_osire = {}
+				b_osona = {}
+				b_okondjatu = {}
+				b_sukses = {}
+				b_gross_barmen = {}
 			}
-			c_waterberg = {
+			c_otjiwarongo = {
 				color={ 148 95 28 }
 				color2={ 255 255 255 }
 				
-				b_otjiwarongo_NA = {}
-				b_hartseer_NA = {}
-				b_okakarara_NA = {}
-				b_okaputo_NA = {}
-				b_wabi_NA = {}
-				b_waterberg = {}
+				b_kalkfeld = {}
+				b_otjiwarongo = {}
+				b_okakarara = {}
+				b_otjikango = {}
+				b_wabi = {}
+				b_kaalkop = {}
 				b_okonjima = {}
 			}
 			c_otavi = {
 				color={ 158 90 44 }
 				color2={ 255 255 255 }
 				
-				b_otavi_NA = {}
-				b_kombat_NA = {}
-				b_cobelnz = {}
-				b_mundulea = {}
-				b_okamatapati_NA = {}
-				b_guchab_NA = {}
-				b_khorab = {}
+				b_otavi = {}
+				b_kombat = {}
+				b_coblenz = {}
+				b_okamatapati = {}
+				b_okaputo = {}
+				b_schumannsthal = {}
+				b_guchab = {}
 			}
 			c_grootfontein = {
 				color={ 247 140 102 }
 				color2={ 255 255 255 }
 				
-				b_grootfontein_NA = {}
-				b_berg_aukas_NA = {}
-				b_abenab_NA = {}
-				b_maroelaboom_NA = {}
-				b_mururani_NA = {}
-				b_otjituuo_NA = {}
-				b_driemaal_NA = {}
+				herero="Otjivanda"
+				
+				b_grootfontein = {
+					herero="Otjivanda"
+				}
+				b_berg_aukas = {}
+				b_abenab = {}
+				b_otjituuo = {}
+				b_maroelaboom = {}
+				b_mururani = {}
+				b_rietfontein = {}
 			}
 		}
 		d_etosha = {
 			color={ 154 100 51 }
 			color2={ 255 255 255 }
 
-			c_guinas = {
+			c_tsumeb = {
 				color={ 131 93 65 }
 				color2={ 255 255 255 }
 				
-				b_tsumeb_NA = {}
-				b_tsintsabis_NA = {}
-				b_oshivelo_NA = {}
-				b_namutoni_NA = {}
-				b_onguma_NA = {}
-				b_ghaub_NA = {}
-				b_leeudrink_NA = {}
+				herero="Okavisume"
+				
+				b_tsumeb = {
+					herero="Okavisume"
+				}
+				b_tsintsabis = {}
+				b_oshivelo = {}
+				b_namutoni = {}
+				b_onguma = {}
+				b_ghaub = {}
+				b_mushara = {}
 			}
 			c_ohangwena = {
 				color={ 179 160 67 }
 				color2={ 255 255 255 }
 				
-				b_eenhana_NA = {}
-				b_onandova_NA = {}
-				b_oshikango_NA = {}
-				b_endola_NA = {}
-				b_okongo_NA = {}
-				b_epembe_NA = {}
-				b_omulonga_NA = {}
+				b_eenhana = {}
+				b_helao_nafidi = {}
+				b_onandova = {}
+				b_oshikango = {}
+				b_okongo = {}
+				b_etomba = {}
+				b_odibo = {}
 			}
 			c_oshana = {
 				color={ 115 87 52 }
 				color2={ 255 255 255 }
 				
-				b_oshakati_NA = {}
-				b_ondangwa_NA = {}
-				b_okaukuejo_NA = {}
-				b_ongwediva_NA = {}
-				b_likelo_NA = {}
-				b_okatana_NA = {}
-				b_uukwiyu_NA = {}
+				b_oshakati = {}
+				b_ondangwa = {}
+				b_okaukuejo = {}
+				b_ongwediva = {}
+				b_likelo = {}
+				b_okatana = {}
+				b_omaalala = {}
 			}
 			c_omuthiyagwiipundi = {
 				color={ 192 99 21 }
 				color2={ 255 255 255 }
 				
-				b_iipundi_NA = {}
-				b_omuthiya_NA = {}
-				b_okankolo_NA = {}
-				b_olukonda_NA = {}
-				b_andoni_NA = {}
-				b_okashana_NA = {}
-				b_onankali_NA = {}
+				b_oniipa = {}
+				b_omuthiya = {}
+				b_iihongo = {}
+				b_oshigambo = {}
+				b_olukonda = {}
+				b_onankali = {}
+				b_oniiwe = {}
 			}
 		}
 		d_kavango = {
 			color={ 195 111 68 }
 			color2={ 255 255 255 }
 
-			c_rundu = {
+			c_nkurenkuru = {
 				color={ 154 90 57 }
 				color2={ 255 255 255 }
 				
-				b_nkurenkuru_NA = {}
-				b_rundu_NA = {}
-				b_kahenge_NA = {}
-				b_katwitwi_NA = {}
-				b_mpungu_NA = {}
-				b_tondoro_NA = {}
-				b_rupara_NA = {}
+				b_mpungu = {}
+				b_nkurenkuru = {}
+				b_katwitwi = {}
+				b_tondoro = {}
+				b_kahenge = {}
+				b_bunya = {}
+				b_rupara = {}
 			}
-			c_khaudum = {
+			c_rundu = {
 				color={ 255 147 56 }
 				color2={ 255 255 255 }
 				
-				b_tsumkwe_NA = {}
-				b_mashere_NA = {}
-				b_nyangana_NA = {}
-				b_taratara_NA = {}
-				b_utokota_NA = {}
-				b_nhoma_NA = {}
-				b_ndiyona_NA = {}
+				b_tsumkwe = {}
+				b_rundu = {}
+				b_divundu = {}
+				b_mashare = {}
+				b_kangongo = {}
+				b_nyangana = {}
+				b_ndonga_linena = {}
 			}
 		}
 		d_kunene = {
@@ -383,49 +453,49 @@ e_azania = {
 				color={ 154 111 57 }
 				color2={ 255 255 255 }
 				
-				b_khorixas_NA = {}
-				b_sesfontein_NA = {}
-				b_warmquelle_NA = {}
-				b_palmwag_NA = {}
-				b_fransfontein_NA = {}
-				b_twyfelfontein_NA = {}
-				b_uitkoms_NA = {}
+				b_khorixas = {}
+				b_sesfontein = {}
+				b_fransfontein = {}
+				b_warmquelle = {}
+				b_palmwag = {}
+				b_twyfelfontein = {}
+				b_khowarib = {}
 			}
 			c_epupa = {
 				color={ 228 168 90 }
 				color2={ 255 255 255 }
 				
-				b_okongwati_NA = {}
-				b_opuwo_NA = {}
-				b_ehomba_NA = {}
-				b_etanga_NA = {}
-				b_orupembe_NA = {}
-				b_oozonduwombe_NA = {}
-				b_otwazumba_NA = {}
+				b_okongwati = {}
+				b_opuwo = {}
+				b_swartbooisdrift = {}
+				b_otjomuru = {}
+				b_ehomba = {}
+				b_purros = {}
+				b_orupembe = {}
 			}
 			c_omusati = {
 				color={ 201 158 80 }
 				color2={ 255 255 255 }
 				
-				b_ruacana_NA = {}
-				b_amarika_NA = {}
-				b_tsandi_NA = {}
-				b_eheke_NA = {}
-				b_onesi_NA = {}
-				b_ongandjera_NA = {}
-				b_okalonga_NA = {}
+				b_ruacana = {}
+				b_outapi = {}
+				b_oshikuku = {}
+				b_tsandi = {}
+				b_nakayale = {}
+				b_okahao = {}
+				b_ogongo = {}
 			}
-			c_kamanjab = {
+			c_outjo = {
 				color={ 104 83 57 }
 				color2={ 255 255 255 }
 				
-				b_kamanjab_NA = {}
-				b_outjo_NA = {}
-				b_otjikondo_NA = {}
-				b_gagarus_NA = {}
-				b_teekoms_NA = {}
-				b_mon_desir_NA = {}
-				b_sarie_marais_NA = {}
+				b_kamanjab = {}
+				b_outjo = {}
+				b_otjikondo = {}
+				b_ombika = {}
+				b_munsterland = {}
+				b_onguati = {}
+				b_vingerklip = {}
 			}
 		}
 	}

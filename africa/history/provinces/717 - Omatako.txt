@@ -4,8 +4,8 @@ title = c_omatako
 # Settlements
 max_settlements = 3
 
-b_kalkfeld_NA = castle
-b_hochfeld_NA = temple
+b_hochfeld = castle
+b_okahandja = city
 
 # Misc
 culture = damara

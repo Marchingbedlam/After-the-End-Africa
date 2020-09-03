@@ -2,11 +2,11 @@
 title = c_omusati
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_tsandi_NA = castle
-b_ruacana_NA = city
-b_eheke_NA = temple
+b_ruacana = castle
+b_outapi = city
+b_oshikuku = temple
 
 # Misc
 culture = ovambo

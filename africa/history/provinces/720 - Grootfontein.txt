@@ -2,11 +2,11 @@
 title = c_grootfontein
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_berg_aukas_NA = castle
-b_grootfontein_NA = city
-b_maroelaboom_NA = temple
+b_berg_aukas = castle
+b_grootfontein = city
+b_maroelaboom = temple
 
 # Misc
 culture = herero

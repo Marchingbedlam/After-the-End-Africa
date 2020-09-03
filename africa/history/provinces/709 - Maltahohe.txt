@@ -1,0 +1,14 @@
+# County Title
+title = c_maltahohe
+
+# Settlements
+max_settlements = 3
+
+b_duwisib = castle
+b_maltahohe = city
+
+# Misc
+culture = nama
+religion = catholic
+
+#History

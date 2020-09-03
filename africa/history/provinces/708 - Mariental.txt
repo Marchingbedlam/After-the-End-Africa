@@ -4,8 +4,8 @@ title = c_mariental
 # Settlements
 max_settlements = 3
 
-b_strampriet_NA = castle
-b_mariental_NA = city
+b_stampriet = castle
+b_mariental = city
 
 # Misc
 culture = nama

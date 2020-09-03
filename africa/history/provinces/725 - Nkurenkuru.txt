@@ -1,0 +1,15 @@
+# County Title
+title = c_nkurenkuru
+
+# Settlements
+max_settlements = 4
+
+b_mpungu = castle
+b_nkurenkuru = city
+b_katwitwi = temple
+
+# Misc
+culture = kavango
+religion = catholic
+
+#History

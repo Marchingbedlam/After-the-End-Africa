@@ -2,10 +2,10 @@
 title = c_otavi
 
 # Settlements
-max_settlements = 2
+max_settlements = 3
 
-b_kombat_NA = castle
-b_otavi_NA = city
+b_kombat = castle
+b_otavi = city
 
 # Misc
 culture = herero

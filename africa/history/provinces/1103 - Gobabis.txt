@@ -1,0 +1,14 @@
+# County Title
+title = c_gobabis
+
+# Settlements
+max_settlements = 3
+
+b_witvlei = castle
+b_gobabis = city
+
+# Misc
+culture = capeman
+religion = catholic
+
+#History

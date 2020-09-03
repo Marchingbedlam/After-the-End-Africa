@@ -1,0 +1,14 @@
+# County Title
+title = c_outjo
+
+# Settlements
+max_settlements = 2
+
+b_kamanjab = castle
+b_outjo = city
+
+# Misc
+culture = damara
+religion = catholic
+
+#History

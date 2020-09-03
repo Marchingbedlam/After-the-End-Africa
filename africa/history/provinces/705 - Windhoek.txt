@@ -4,10 +4,10 @@ title = c_windhoek
 # Settlements
 max_settlements = 5
 
-b_klein_windhoek_NA = castle
-b_windhoek_NA = city
-b_cimbebasia_NA = temple
-b_katutura_NA = city
+b_klein_windhoek = castle
+b_windhoek = city
+b_hochland_park = temple
+b_katutura = city
 
 # Misc
 culture = ovambo

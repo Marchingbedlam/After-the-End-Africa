@@ -1,0 +1,14 @@
+# County Title
+title = c_berseba
+
+# Settlements
+max_settlements = 2
+
+b_bethanie = castle
+b_berseba = temple
+
+# Misc
+culture = nama
+religion = catholic
+
+#History

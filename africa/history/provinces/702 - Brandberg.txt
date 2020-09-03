@@ -4,7 +4,7 @@ title = c_brandberg
 # Settlements
 max_settlements = 2
 
-b_uis_NA = castle
+b_uis = castle
 
 # Misc
 culture = damara

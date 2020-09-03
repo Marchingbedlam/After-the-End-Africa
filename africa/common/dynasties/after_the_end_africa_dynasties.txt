@@ -4517,7 +4517,7 @@
 2222026 = { name="Stoffel" culture=sudwester } 
 2222027 = { name="Troost" culture=sudwester } 
 2222028 = { name="Aschenborn" culture=sudwester } 
-2222029 = { name="Yates" culture=sudwester } 
+2222029 = { name="Staby" culture=sudwester } 
 2222030 = { name="Zelewski" culture=sudwester } 
 2222031 = { name="Greyling" culture=sudwester }
 2222032 = { name="Kiewitt" culture=sudwester }
@@ -4542,14 +4542,14 @@
 2222051 = { name="Vogelsang" culture=sudwester }
 2222052 = { name="Krabbenhöft" culture=sudwester }
 2222053 = { name="Wörmann" culture=sudwester }
-2222054 = { name="Savage" culture=sudwester }
+2222054 = { name="Herrigel" culture=sudwester }
 2222055 = { name="von Grawenreuth" culture=sudwester }
 2222056 = { name="Brocherhoff" culture=sudwester }
 2222057 = { name="Külz" culture=sudwester }
 2222058 = { name="Meixner" culture=sudwester }
 2222059 = { name="Drobisch" culture=sudwester }
-2222060 = { name="zu Woerbeck" culture=sudwester }
-2222061 = { name="Murgatroyd" culture=sudwester }
+2222060 = { name="Tünschel" culture=sudwester }
+2222061 = { name="Menges" culture=sudwester }
 2222062 = { name="von Prittwitz" culture=sudwester }
 2222063 = { name="Grove" culture=sudwester }
 2222064 = { name="Siedentopf" culture=sudwester }
@@ -4609,6 +4609,36 @@
 2222118 = { name="Zöller" culture=sudwester }
 2222119 = { name="Karlowa" culture=sudwester }
 2222120 = { name="Griessmeyer" culture=sudwester }
+2222121 = { name="Kunzmann" culture=sudwester }
+2222122 = { name="Stolberg" culture=sudwester }
+2222123 = { name="Melber" culture=sudwester }
+2222124 = { name="Lindemeier" culture=sudwester }
+2222125 = { name="Bause" culture=sudwester }
+2222126 = { name="von Bach" culture=sudwester }
+2222127 = { name="Risser" culture=sudwester }
+2222128 = { name="Schenk" culture=sudwester }
+2222129 = { name="von Hase" culture=sudwester }
+2222130 = { name="Stauch" culture=sudwester }
+2222131 = { name="Sack" culture=sudwester }
+2222132 = { name="von Hundelshausen" culture=sudwester }
+2222133 = { name="Berker" culture=sudwester }
+2222134 = { name="von Meck" culture=sudwester }
+2222135 = { name="von Stryk" culture=sudwester }
+2222136 = { name="von Heynitz" culture=sudwester }
+2222137 = { name="Sperling" culture=sudwester }
+2222138 = { name="Lewin" culture=sudwester }
+2222139 = { name="Hoffmann" culture=sudwester }
+2222140 = { name="Sell" culture=sudwester }
+2222141 = { name="Gansser" culture=sudwester }
+2222142 = { name="Rust" culture=sudwester }
+2222143 = { name="Lynker" culture=sudwester }
+2222144 = { name="Burfeindt" culture=sudwester }
+2222145 = { name="Range" culture=sudwester }
+2222146 = { name="Carstensen" culture=sudwester }
+2222147 = { name="von Uechtritz" culture=sudwester }
+2222148 = { name="Steitwolf" culture=sudwester }
+2222149 = { name="Keetman" culture=sudwester }
+2222150 = { name="von Rappard" culture=sudwester }
 
 2223000 = { name="Hamutenya" culture=ovambo }
 2223001 = { name="Egumbo" culture=ovambo }

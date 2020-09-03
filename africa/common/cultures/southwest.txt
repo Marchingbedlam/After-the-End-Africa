@@ -13,19 +13,19 @@ namibian = {
 			Barnim Benedikt_Benedict Bernard Björn Bogislaw Borwin Burkhard 
 			Calle_Charles Casimir Casper Chlodwig Clemens_Clement Cornelius 
 			Dawid_David Detlef Dieter Dirk Dorian 
-			Ebenezer Eberhard Eckbert Eduard_Edward Egon Ehrenfried Emil_Aemilius Enno Ephraim Erastus Erwin Ehrik_Eric Ernst_Ernest Ewald Ewilastus_Evilastus
+			Ebenezer Eberhard Eckbert Eduard_Edward Egon_Eugene Ehrenfried Emil_Aemilius Enno Ephraim Erastus Erwin Ehrik_Eric Ernst_Ernest Ewald Ewilastus_Evilastus
 			Fabarius Fedor_Theodore Ferdinand Filalethes Filippus_Philip Fillemon_Philemon Franziskus_Francis Friedhelm Friedrich_Frederick Fritz_Frederick
 			Gerhard_Gerard Gerson Gideon Giserich Goswin Gotthelf Gottlob_Gottlieb Günther Gustaf_Gustav 
-			Hanjorge Hanno Hans Harald_Harold Hartmann Hellmut Henning Henk_Henry Hermann_Herman Horst Hubertus_Hubert 
+			Hanjorge Hanno Hans Harald_Harold Hartmann Heinrich_Henry Hellmut Henning Hermann_Herman Horst Hubertus_Hubert 
 			Immanuel_Emmanuel Isaak_Isaac Isenbard Ishmael
 			Jakobus_Jacob Jesko Joachim Johannes_John Jörg_George Josef_Joseph  
 			Kamil_Camille Kayetan_Gaetan Klaus_Nicholas Kolmann Konrad_Conrad Kristof_Christopher Kurt
-			Lamprecht Leberecht Leonhard_Leonard Liborius Lewellinus_Llewellyn Lorenz_Lawrence Lothar Ludovik_Louis Lukas_Lucas 
+			Lamprecht Leberecht Leonhard_Leonard Liborius Lorenz_Lawrence Lothar Ludwig_Louis Lukas_Lucas 
 			Magnus Manfred Marius Martinus_Martin Matthäus_Matthew Maximilian Moritz_Maurice
 			Nikanor  
 			Olbricht Oliwer_Oliver Oltwig Onufry Ortwinus Oskar_Oscar Otto 
 			Paulus_Paul Pieter_Peter Pribislaw 
-			Raimar Raoul Reinhardt Richard Rochus Roman Rüdiger_Roger Rudolf 
+			Raimar Raoul Reinhardt Richard Roman Rüdiger_Roger Rudolf 
 			Sigfried Slabbert Sobeslaus Stanislaus_Stanislav Stanley Stefanus_Stephen Sylwester_Sylvester 
 			Tertius Theofelus Theopoldt Thimoteus_Timothey Thomas Torsten Tycho 
 			Veicht_Vitus Viktor_Victor

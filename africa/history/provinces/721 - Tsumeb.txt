@@ -1,0 +1,14 @@
+# County Title
+title = c_tsumeb
+
+# Settlements
+max_settlements = 3
+
+b_oshivelo = castle
+b_tsumeb = city
+
+# Misc
+culture = ovambo
+religion = catholic
+
+#History

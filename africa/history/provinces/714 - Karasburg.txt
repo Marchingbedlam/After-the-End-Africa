@@ -4,8 +4,8 @@ title = c_karasburg
 # Settlements
 max_settlements = 3
 
-b_warmbad_NA = castle
-b_karasburg_NA = city
+b_warmbad = castle
+b_karasburg = city
 
 # Misc
 culture = afrikaner

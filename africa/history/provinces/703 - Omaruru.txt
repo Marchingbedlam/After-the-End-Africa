@@ -1,0 +1,14 @@
+# County Title
+title = c_omaruru
+
+# Settlements
+max_settlements = 3
+
+b_karibib = castle
+b_omaruru = city
+
+# Misc
+culture = damara
+religion = catholic
+
+#History

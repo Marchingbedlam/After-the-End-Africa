@@ -2,9 +2,10 @@
 title = c_gibeon
 
 # Settlements
-max_settlements = 2
+max_settlements = 3
 
-b_gibeon_NA = castle
+b_gibeon = castle
+b_gochas = temple
 
 # Misc
 culture = nama

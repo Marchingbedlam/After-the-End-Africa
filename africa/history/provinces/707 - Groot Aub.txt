@@ -1,0 +1,14 @@
+# County Title
+title = c_groot_aub
+
+# Settlements
+max_settlements = 3
+
+b_dordabis = castle
+b_groot_aub = temple
+
+# Misc
+culture = nama
+religion = catholic
+
+#History

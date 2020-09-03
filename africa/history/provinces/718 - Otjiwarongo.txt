@@ -1,0 +1,14 @@
+# County Title
+title = c_otjiwarongo
+
+# Settlements
+max_settlements = 3
+
+b_kalkfeld = castle
+b_otjiwarongo = city
+
+# Misc
+culture = sudwester
+religion = catholic
+
+#History

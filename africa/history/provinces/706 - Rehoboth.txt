@@ -4,9 +4,9 @@ title = c_rehoboth
 # Settlements
 max_settlements = 3
 
-b_schlip_NA = castle
-b_rehoboth_NA = city
-b_klein_aub_NA = temple
+b_schlip = castle
+b_rehoboth = city
+b_klein_aub = temple
 
 # Misc
 culture = capeman

@@ -2,11 +2,11 @@
 title = c_ohangwena
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_onandova_NA = castle
-b_eenhana_NA = city
-b_oshikango_NA = temple
+b_onandova = castle
+b_eenhana = city
+b_oshikango = temple
 
 # Misc
 culture = ovambo

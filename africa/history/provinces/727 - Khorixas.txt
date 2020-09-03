@@ -2,10 +2,10 @@
 title = c_khorixas
 
 # Settlements
-max_settlements = 2
+max_settlements = 3
 
-b_sesfontein_NA = castle
-b_khorixas_NA = city
+b_sesfontein = castle
+b_khorixas = city
 
 # Misc
 culture = damara

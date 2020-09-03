@@ -4,9 +4,9 @@ title = c_luderitz
 # Settlements
 max_settlements = 3
 
-b_kolmanskop_NA = castle
-b_luderitz_NA = city
-b_pomona_NA =temple
+b_kolmanskop = castle
+b_luderitz = city
+b_pomona =temple
 
 # Misc
 culture = nama

@@ -4,9 +4,8 @@ title = c_omuthiyagwiipundi
 # Settlements
 max_settlements = 3
 
-b_iipundi_NA = castle
-b_omuthiya_NA = city
-b_andoni_NA = temple
+b_oniipa = castle
+b_omuthiya = city
 
 # Misc
 culture = ovambo
