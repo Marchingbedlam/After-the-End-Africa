@@ -11,24 +11,35 @@ nilotic = {
 		male_names = {
 			Bordoang
 			Chuol
+			Daahp Dhool
 			Emmanuel
 			Francis
-			Gabriel Garluark Gordon
+			Gabriel Garluark Gat Gordon
 			James John
 			Koang
-			Matip
-			Ngundeng Nykhor
+			Lahr
+			Matip Muht
+			Ngundeng Nykhor Nhial
 			Paul Peter Philip
-			Ret Riek
+			Ret Riek Rolnyang Ruiihc
 			Simon
 			Taban Thomas Tut
 			William
 		}
 		female_names = {
 			Aluel Angelina
-			Mary
-			Nyaruac
-			Rebecca
+			Blackhair
+			Dol
+			Gwir
+			Judith
+			Kaynguak
+			Maan Mary
+			Nyadeang Nyal Nyaruac
+			Pay Piaahr Poohn Puaahr
+			Rebecca Ruac Ruehth
+			Thak Tiit Tuhr Tuuhk
+			Wuuht
+			Yan Yiehr Yiohw "Yuan jiaan"
 		}
 		
 		dukes_called_kings = yes
