@@ -118,3 +118,24 @@ b_fernandez = {
 	culture = pijin
 	religion = brethren
 }
+##Lagos
+b_ransome_kuti = {
+	culture = pijin
+	religion = catholic
+}
+b_azeez = {
+	culture = pijin
+	religion = ashari
+}
+b_calil = {
+	culture = afrolebanese
+	religion = catholic
+}
+b_olayinka = {
+	culture = yoruba
+	religion = anglican
+}
+b_ashipa = {
+	culture = yoruba
+	religion = catholic
+}

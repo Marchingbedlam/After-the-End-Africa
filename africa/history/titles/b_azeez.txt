@@ -1,0 +1,5 @@
+2660.1.1={
+	holding_dynasty=1004036
+	liege=d_lagos
+	holder=1963101
+}

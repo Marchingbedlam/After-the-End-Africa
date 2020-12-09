@@ -379,6 +379,7 @@
 1004057 = { name="Braithwaite" culture=pijin }
 1004058 = { name="Murray" culture=pijin }
 1004059 = { name="Bruce" culture=pijin }
+1004060 = { name="Ransome-Kuti" culture=pijin used_for_random=no }
 
 1005000 = { name="Daïssala" culture=kirdi }
 1005001 = { name="Ayang" culture=kirdi }
@@ -945,6 +946,11 @@
 1027058 = { name="Elolu" culture=ateker }
 1027059 = { name="Ariko" culture=ateker }
 1027060 = { name="Esiu" culture=ateker }
+
+1028000 = { name="Ajayi" culture=yoruba }
+1028001 = { name="Olayinka" culture=yoruba }
+1028002 = { name="Ashipa" culture=yoruba used_for_random=no }
+1028003 = { name="Adewale" culture=yoruba }
 
 1101000 = { name="Broh" culture=kru } 
 1101001 = { name="Twe" culture=kru }
@@ -5472,3 +5478,4 @@
 2703008 = { name="Zaiter" culture=afrolebanese }
 2703009 = { name="Darwish" culture=afrolebanese }
 2703010 = { name="Rizk" culture=afrolebanese }
+2703010 = { name="Calil" culture=afrolebanese used_for_random=no }

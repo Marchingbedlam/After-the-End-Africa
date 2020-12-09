@@ -213,3 +213,54 @@
 	2642.12.11={ birth=yes }
 	2700.1.1={ death=yes }
 }
+1963100={
+	name="Babatunde"
+	dynasty=1004060 #Ransome-Kuti
+	culture=pijin
+	religion=catholic #yoruba
+	trait=grey_eminance
+	trait=just
+	trait=brave
+	trait=zealous
+	2642.12.11={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1963101={
+	name="Tajudeen"
+	dynasty=1004036 #Azeez
+	culture=pijin
+	religion=ashari
+
+	2642.12.11={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1963102={
+	name="Michael"
+	dynasty=2703010 #Calil
+	culture=afrolebanese
+	religion=catholic
+
+	2642.12.11={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1963103={
+	name="Godwin"
+	dynasty=1028001 #Olayinka
+	culture=yoruba
+	religion=anglican
+
+	2642.12.11={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1028004={
+	name="Oyekan"
+	dynasty=1004060 #Ashipa
+	culture=yoruba
+	religion=catholic #yoruba
+	trait=thrifty_clerk
+	trait=arbitrary
+	trait=diligent
+	trait=gregarious
+	2642.12.11={ birth=yes }
+	2700.1.1={ death=yes }
+}
