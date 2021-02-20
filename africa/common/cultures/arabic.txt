@@ -306,17 +306,21 @@ arabic = {
 		color = { 0.3 0.9 0.3 }
 		
 		male_names = {
-			Abba Abdallahi_Abdullah Abdelkader_Abdul-Kadir Abdelkerim_Abdul-Karim Abdelsalam_Abdul-Salam Abdelwahid_Abdul-Wahid Abderahman_Abdul-Rahman Aboud Acheick Adoum Ahmat_Ahmed Ali
+			Abba Aba_Abba Abdallahi_Abdullah Abdelkader_Abdul-Kadir Abdelkerim_Abdul-Karim Abdelsalam_Abdul-Salam Abdelwahid_Abdul-Wahid Abderahman_Abdul-Rahman Aboud Acheick Adoum Ahmat_Ahmed Ali
 			Daoud_David
-			Fadoul_Fadul Filiks_Felix Franswa_Francis
-			Haroun_Aaron Hassan_Hasan
-			Issa_Jesus
-			Mahamat_Mohammed Mansour_Mansur Mukhtar
+			Fadl_Fadul Fadoul_Fadul Filiks_Felix Franswa_Francis
+			Hamdan Hamdun_Hamdan Haroun_Aaron Hassan_Hasan
+			Ibrahim_Abraham Idris Issa_Jesus
+			Kyari
+			Mahamat_Mohammed Mansour_Mansur Mukhtar Mustafa
 			Nassour_Nasr Nouradine_Nuraddin
 			Oumar_Omar Outhman_Uthman 
+			Rabeh Rabih_Rabeh
 			Sadiq Saleh_Salih
 			Wadel
+			Umar_Omar
 			Youssouf_Joseph
+			Zubayr
 		}
 		female_names = {
 			Hafsa Hinda

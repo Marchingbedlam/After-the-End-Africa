@@ -243,20 +243,21 @@ nupoid = {
 			
 		male_names = {
 			Edegi "Abdu Waliyi" Alyu Ganamace Ibrahima Idirisu "Abd Allahi 'Tsado" "Abu Bakr Kolo" 
-			Jibirin "Au Bakr" Ma'azu Majiya Ilyasu "Ali Kolo Tankari" Mamma Jimada Jia Masaba 
-			Maza "Ma'azu 'Isa" Tsoede "'Usuman Zaki" "'Umaru Majigi" Maliki "Abu Bakr" Muhammadu Bello 
-			Malam "'Usman Sarki" "'Umaru Sanda Ndayako" Yahaya
+			Jibirin "Au Bakr" Ma'azu Majiya Ilyasu "Ali Kolo Tankari" Mamma Jimada Jia Masaba Malik
+			Maza "Ma'azu 'Isa" Tsoede "'Usuman Zaki" "'Umaru Majigi" Maliki "Abu Bakr" Muhammadu_Muhammad Bello 
+			Malam "'Usman Sarki" "'Umaru Sanda Ndayako" Yahaya Abdulrazaq Sani
 			
-			Adnan Audi
-			Balkisu Bini
+			Abdul "Abdul Rahman" Adnan Audi Abubakar Achigidi
+			Balkisu Bini Bukar_Abubakar 
 			Ceyagi
 			Edegi Egina
 			Farahat
 			Gbongbo Gbongboroko Gbogbori Gulu Guye
-			Inanaoko Ismail
+			Ibrahim Inanaoko Ismail
 			Kpyamu Kolo Kuru
-			Maryam
+			Maryam Muhamman 
 			Ndako Ndagi Nnagi Nma
+			Omadivi
 			Ryatwa
 			Shirun Sogba Sokoeyanya
 			Teugi Tsoede Tsubenya
@@ -272,7 +273,7 @@ nupoid = {
 		female_names = {
 			Abagbe Abegi Abeje Oluremi Winona Isi Abeni Abimbola Abiodun Ade Adebola Adebowale Adedayo Adetokunbo 
 			Alaba Ayo Ayodele Ayomide Ayotunde Bolanle Bosede Dada Dayo Ekundayo Eniola Enitan Folami Gbemisola Idowu 
-			Ife Ige Kayin Mojisola Monifa Olamide Olayinka Olubunmi Olufunke Olufunmilayo Olufunmilola Oluwafunmilayo 
+			Ife Ige Kayin Mojisola Monifa Olamide Olayinka Olubunmi Bunmi_Olubunmi Olufunke Funke_Olufunke Funmilayo Olufunmilayo_Funmilayo Olufunmilola Oluwafunmilayo_Funmilayo 
 			Oluwakanyinsola Oluwasegun Oluwaseun Oluwaseyi Oluwatoyin Oluwayemisi Omobolanle Omolara Oni Opeyemi 
 			Simisola Temitope Titilayo Yejide Yewande
 			
@@ -292,7 +293,7 @@ nupoid = {
 			
 		male_names = {
 			Edegi "Abdu Waliyi" Alyu Ganamace Ibrahima Idirisu "Abd Allahi 'Tsado" "Abu Bakr Kolo" 
-			Jibirin "Au Bakr" Ma'azu Majiya Ilyasu "Ali Kolo Tankari" Mamma Jimada Jia Masaba 
+			Jibirin "Au Bakr" Ma'azu Majiya Ilyasu "Ali Kolo Tankari" Mamma Jimada Jia Masaba Malik
 			Maza "Ma'azu 'Isa" Tsoede "'Usuman Zaki" "'Umaru Majigi" Maliki "Abu Bakr" Muhammadu Bello 
 			Malam "'Usman Sarki" "'Umaru Sanda Ndayako" Yahaya
 			
@@ -316,8 +317,8 @@ nupoid = {
 		female_names = {
 			Abagbe Abegi Abeje Oluremi Winona Isi Abeni Abimbola Abiodun Ade Adebola Adebowale Adedayo Adetokunbo 
 			Alaba Ayo Ayodele Ayomide Ayotunde Bolanle Bosede Dada Dayo Ekundayo Eniola Enitan Folami Gbemisola Idowu 
-			Ife Ige Kayin Mojisola Monifa Olamide Olayinka Olubunmi Olufunke Olufunmilayo Olufunmilola Oluwafunmilayo 
-			Oluwakanyinsola Oluwasegun Oluwaseun Oluwaseyi Oluwatoyin Oluwayemisi Omobolanle Omolara Oni Opeyemi 
+			Ife Ige Kayin Mojisola Monifa Olamide Olayinka Olubunmi Bunmi_Olubunmi Olufunke Funke_Olufunke Funmilayo Olufunmilayo_Funmilayo Olufunmilola Oluwafunmilayo_Funmilayo 
+			Oluwakanyinsola Oluwasegun Segun_Oluwasegun Oluwaseun Seun_Oluwaseun Oluwaseyi Seyi_Oluwaseyi Oluwatoyin Toyin_Oluwatoyin Oluwayemisi Omobolanle Omolara Oni Opeyemi 
 			Simisola Temitope Titilayo Yejide Yewande
 			
 			Audi
@@ -332,23 +333,26 @@ nupoid = {
 			
 		male_names = {
 			Edegi "Abdu Waliyi" Alyu Ganamace Ibrahima Idirisu "Abd Allahi 'Tsado" "Abu Bakr Kolo" 
-			Jibirin "Au Bakr" Ma'azu Majiya Ilyasu "Ali Kolo Tankari" Mamma Jimada Jia Masaba 
-			Maza "Ma'azu 'Isa" Tsoede "'Usuman Zaki" "'Umaru Majigi" Maliki "Abu Bakr" Muhammadu Bello 
+			Jibirin "Au Bakr" Ma'azu Majiya Ilyasu "Ali Kolo Tankari" Mamma Jimada Jia Masaba Malik
+			Maza "Ma'azu 'Isa" Tsoede "'Usuman Zaki" "'Umaru Majigi" Maliki "Abu Bakr" Muhammadu_Muhammad Bello 
 			Malam "'Usman Sarki" "'Umaru Sanda Ndayako" Yahaya
 			
-			Adnan Audi
-			Balkisu Bini
+			Abigel Abdu "Abu Bakr" Adnan Alyu Audi
+			Balkisu Bini Bologi
 			Ceyagi
-			Edegi Egina
+			Dauda
+			Egina
 			Farahat
-			Gbongbo Gbongboroko Gbogbori Gulu Guye
-			Inanaoko Ismail
+			Gana Ganamace_Gana Gbongbo Gbongboroko Gbogbori Gulu Guye
+			Haliru Hamza
+			Ibrahim Inanaoko Ismail
 			Kpyamu Kolo Kuru
-			Maryam
+			Maryam Musa
 			Ndako Ndagi Nnagi Nma
 			Ryatwa
 			Shirun Sogba Sokoeyanya
 			Teugi Tsoede Tsubenya
+			Umar_Omar 'Umaru
 			Yebo
 			Zanna Zunyegi
 		}
@@ -356,7 +360,7 @@ nupoid = {
 		female_names = {
 			Abagbe Abegi Abeje Oluremi Winona Isi Abeni Abimbola Abiodun Ade Adebola Adebowale Adedayo Adetokunbo 
 			Alaba Ayo Ayodele Ayomide Ayotunde Bolanle Bosede Dada Dayo Ekundayo Eniola Enitan Folami Gbemisola Idowu 
-			Ife Ige Kayin Mojisola Monifa Olamide Olayinka Olubunmi Olufunke Olufunmilayo Olufunmilola Oluwafunmilayo 
+			Ife Ige Kayin Mojisola Monifa Olamide Olayinka Olubunmi Bunmi_Olubunmi Olufunke Funke_Olufunke Funmilayo Olufunmilayo_Funmilayo Olufunmilola Oluwafunmilayo_Funmilayo 
 			Oluwakanyinsola Oluwasegun Oluwaseun Oluwaseyi Oluwatoyin Oluwayemisi Omobolanle Omolara Oni Opeyemi 
 			Simisola Temitope Titilayo Yejide Yewande
 			
@@ -403,16 +407,16 @@ yoruboid = {
 		male_names = {
 			Abuchi Achike Afuluchianya Ahamefuna Akachukwu Akobundo Aku Akuwueziuka Amadioha Anekwe Arachie 
 			Biko
-			Chekwubechukwu Chetanna Chiazam Chiazor Chibuifem Chibuzor Chidera Chidi Chidili Chidiomimi Chidirim Chiedozie Chiejina Chiekwe Chigozie Chijioke Chikamara Chikanma Chikwendu Chinasaokwu Chinelo Chinemere Chineto Chinnawuike Chinua Chinualumogu Chinwememeri Chionye Chiwetel Chukwubuikem Chukwucheta Chukwudubem Chukwudubemi Chukwuebuka Chukwueneka Chukwumaeze Chukwunenye Chukwunwike
+			Chekwubechukwu Chetanna Chiazam Chiazor Chibuifem Chibuzor Chidera Chidi Chidili Chidiomimi Chidirim Chiedozie Chiejina Chiekwe Chigozie Chijioke Chikamara Chikanma Chikwendu Chinasaokwu Chinelo Chinemere Chineto Chinnawuike Chinua Chinualumogu Chinwememeri Chionye Chiwetel Chukwubuikem Chukwucheta Chukwudubem Chukwudubemi Chukwuebuka Chukwuemeka Chukwueneka Chukwumaeze Chukwunenye Chukwunwike
 			Diji Dinobi
 			Eberechi Ejikeme Ejimmadu Ekwunife Ekwutosi Elochukwu Emechebe Ezenwa Ezeokafor Ezeuzo
 			Fechukwu
 			Ginikanwa
 			Ifeanyi Ifeanyichukwu Ifejika Ifeyinwa Igwebuike Iheanyichukwu Ikechuckwu Ikemba Ikemefula Iruuju Ita
-			Jaachike
+			Jaachike Jaja
 			Kaito Kalu Kanayochukwu Kaneme Kanye Kaodinna Kaosisochuku Kelechi Kenechi Kosisochi Kosisochukwu Kwento
 			Mashgash Meenuba Megafu Membolu Menari Mgbemena Mmesomachukwu Munachiso Muogboo
-			Ndubuisi Nduefuna Nkem Nkeoma Nnaemeka Nwabueze Nwachukwu Nwakauba Nwankasiobi Nwankwo Nwaokocha
+			Ndubuisi Nduefuna Nkem Nkeoma Nnaemeka Nnamdi Nwabueze Nwachukwu Nwakauba Nwankasiobi Nwankwo Nwaokocha
 			Obichukwu Obinna Obioma Obiora Obumneke Obumneme Odinakachukwu Odirachukwunma Ogbodo Ogochukwe Ohiagbaji Okechwukwu Okenna Okwuchukuw Olaedo Olanthus Olaudah Olisa Oluchuwkwu Omanukwue Onumajuru Onwuegbunam Onwutalobi Onyedikachi Onyedikachi Onyekaozulu Onyekwelu Onyemaechi Onyemechi Onyemelukwe Onyenwuwa Onyinyechukwu Orakwue Osita Ositadimma Osondu Ozhichi Ozioma Ozoemena Oñumsinachi
 			Qidy
 			Sobenna Somtochukwu Tobechukwu Uche Uchechukwu Uchenna Udonna Uduma Ugo Ugonna Uke Uzoechina Uzondu
@@ -420,13 +424,14 @@ yoruboid = {
 		}
 		
 		female_names = {
+			Ihuoma
 			Abuchi Adaku Adamma Adaora Ahamefuna Akunna Akuwueziuka Amarachukwu Amogechukwu Arachie
 			Chekwubechukwu Chiazam Chiazor Chibuifem Chibuzor Chibwela Chidinma Chidirim Chiejina Chiekwe Chigozie Chikamara Chikanma Chikodinaka Chimamanda Chinasa Chincia Chinemere Chinenye Chineto Chineze Chinnawuike Chinwememeri Chisom Chukwudubem Chukwudubemi Chukwuebuka Chukwunwike
 			Dinobi
 			Ebele Ebelechukwu Ebere Eberechi Efuru Ejimmadu Ekwunife Ekwutosi Elochukwu Emechebe Ezeokafor
 			Fechukwu
 			Ginikanwa Golibe Golibenachukwu
-			Ifenyinwa Ifeyinwa Ihunanya Ihuomachukwu Ijeoma
+			Ifenyinwa Ifeyinwa Ihunanya Ihuomachukwu_Ihuoma Ijeoma
 			Kaito Kaitochi Kanayochukwu Kaneme Kaosisochuku Kelechi Kieruka Kosisochi Kosisochukwu
 			Mashgash Megafu Menari Mgbemena Mmagwulaku Mmeso Mmesomachukwu Munachiso
 			Ndidiamaka Ndubuisi Nduefuna Ndui Ngozichukwu Nkechika Nkeirouka Nkem Nkemakolam Nkeoma Nkiruka Nmachi Nnebuogor Nneoma Nwaaku Nwaanyiabia Nwabugo Nwakaego Nwakauba Nwankasiobi
@@ -443,56 +448,61 @@ yoruboid = {
 		graphical_cultures = { westafricangfx africangfx }
 			
 		male_names = {
-		
+			Antar Obafemi Akin Akorede Kola Lere Wasiu Kunle Olurotimi Rotimi_Olurotimi Gbadewonuola Olateju Teju_Olateju 
+			Lateef Olatunde Tunde_Olatunde Sola Oluwasegun Segun_Oluwasegun Olusegun_Oluwasegun Adiso
+			Abdul-Lateef Ajayi Olajide Oluwaseun Seun_Oluwaseun Dauda Odunlade Folarin Femi
 			Oranyan Sango Ajaka Aganju Kari Oluaso Onigbogi Ofinran Eguguoju Orompoto Ajiboyede Abipa Obalokun Ajagbo 
 			Odorawu Kanran Jayin Ayibi Osiyago Ojigi Gberu Amuniwaiye Onisle Labisi Agboluaje Majeogbe Abiodun Awole 
 			Arongangan Adebo Maaku Aburumaku Majotu Do Aklim Dakondunu Ganye Hessu Wegbaja Akaba Agaja Tegbesu Kpengla 
 			Anonglo Haholo Kpasse Ayohuan Agbangia
 			Siyanbola Lawani Adeyemi Adelu Atiba Oluewu Amodo Majotu Makua Adebo Bello Onikepe Gbadegesin Ajikin Abisi Lauru Kase Agidigbo Ademufekun
 		
-			Abidemi Abimbola Abimbola Abiodun Abiodun Abiola Abioye Abioye Abosede Ade Adebayo Adebayo Adebimpe Adebisi Adebowale Adeboye Adedamola Adedayo Adedeji Adelaja Adelomo Ademola Ademuyiwa Aderounke Adesanya Adetola Adewale Adewunmi Adeyemi Afolabi Akande Akanni Akintoye Anuoluwapo Anuoluwaposi Atinuke Ayokunumi Ayoola Ayotola
+			Abidemi Abimbola Abimbola Abiodun Abiodun Abiola Abioye Abosede Ade Adebayo Adebayo Adebimpe Adebisi Adebowale Adeboye Adedamola Adedayo Adedeji Adelaja Adelomo Ademola Ademuyiwa Aderounke Adesanya Adetola Adewale Adewunmi Adewumi Adeyemi Afolabi Akande Akanni Akintoye_Akin Anirare Anuoluwapo Anuoluwaposi Atinuke Ayokunumi Ayoola Ayotola
 			Babatunde Bidemi Boluwatife Bosede
-			Durosinmi
+			Duro Durosinmi_Duro Durodola_Duro Duroorike_Duro
 			Enitan
-			Flayosemi
+			Femi_Obafemi Flayosemi
 			Ifedapo Ifedayo
 			Gboyega
-			Jibola
-			Kolapo Kolawole
+			Jibola Jide
+			Kolapo_Kola Kolawole_Kola
 			Numilekunoluwa
-			Mayowa Moniade Monisola Morounkola
-			Oladapo Oladele Olaitan Olakunle Olamilekan Olayemi Olayinka Ololade Olufemi Olufunke Olufunmilayo Oluwabunmi Oluwabusolami Oluwadamilare Oluwadamilola Oluwafeyisayo Oluwakayode Oluwakemi Oluwamuyiwa Oluwatobiloba Oluwatoke Oluwatomiwa Oluwatoniloba Oluwatoniyi Oluwatope Oluwatoyin Oluwatunmise Oluwayemisi Omotayo Omoteleola Oyindamola Ozoa
+			Mayowa Moniade Monisola Morounkola Munir
+			Okpoto Oladapo Oladele Olaitan Olakunle Olamilekan Olayemi Olayinka Ololade Olufemi_Femi Olufunke Funke_Olufunke Funmilayo Olufunmilayo_Funmilayo Oluwabunmi Oluwabusolami Oluwadamilare Oluwadamilola Oluwafeyisayo Oluwakayode Oluwakemi Oluwamuyiwa Oluwatobiloba Oluwatoke Oluwatomiwa Oluwatoniloba Oluwatoniyi Oluwatope Oluwatoyin Toyin_Oluwatoyin Oluwatunmise Oluwayemisi Omotayo Omoteleola Oyindamola Ozoa
 			Pamilekunayo
-			Remi
+			Rafiu Remi
 			Sangodele Similoluwa Sunbola Sunkanmi
-			Tejumola Teleayo Teleola Temidare Temidayo Temilade Temiloluwa Temitope Teniayo Teniola Tiwalade Toluwalope
+			Tejumola Teleayo Teleola Temidare Temidayo Temilade Temiloluwa Temitope Tope_Temitope Teniayo Teniola Tiwalade Toluwalope
 			Yejide
 		}
 		
 		female_names = {
 			
+			Omowumi Iretiola Ireti_Iretiola
+			Adadevoh Amina Ajibola Oluwaseun Seun_Oluwaseun Fausat Gbemi Funmilayo Adunni Aderounmu Funmi_Funmilayo Omotunde Oluwabukola Bukola_Oluwabukola
 			Winona Isi Abeni Abimbola Abiodun Ade Adebola Adebowale Adedayo Adetokunbo Alaba Ayo Ayodele Ayomide 
 			Ayotunde Bolanle Bosede Dada Dayo Ekundayo Eniola Enitan Folami Gbemisola Idowu Ife Ige Kayin Mojisola 
-			Monifa Olamide Olayinka Olubunmi Olufunke Olufunmilayo Olufunmilola Oluwafunmilayo Oluwakanyinsola 
-			Oluwasegun Oluwaseun Oluwaseyi Oluwatoyin Oluwayemisi Omobolanle Omolara Oni Opeyemi Simisola Temitope 
+			Monifa Olamide Olayinka Olubunmi Bunmi_Olubunmi Olufunke Funke_Olufunke Olufunmilayo_Funmilayo Olufunmilola Oluwafunmilayo_Funmilayo Oluwakanyinsola 
+			Oluwasegun Segun_Oluwasegun Oluwaseun Oluwaseyi Oluwatoyin Oluwayemisi Omobolanle Omolara Oni Opeyemi Simisola Temitope 
 			Titilayo Yejide Yewande
 		
-			Abeni Abidemi Abimbola Abiodun Abiola Abioye Ade Adebimpe Adebisi Adeboye Ademuyiwa Adenike Adeola Aderounke Adesanya Adetola Adetut Adewunmi Adeyemi Akanni Akintoye Anuoluwapo Anuoluwaposi Atinuke Ayokunumi Ayoola Ayotola Ayotundun
-			Bamidele Bidemi Bisi Boluwatife
+			Abeni Abidemi Abimbola Abiodun Abiola Abioye Ade Adebimpe Adebisi Adeboye Ademuyiwa Adenike Adeola Aderounke Adesanya Adetola Adetut Adewunmi Adeyemi Aisha Akanni Akintoye Anuoluwapo Anuoluwaposi Asano_Hassana Atinuke Ayokunumi Ayoola Ayotola Ayotundun
+			Bamidele Bidemi Bisi Boluwatife Bimbo_Abimbola
 			Eniola Enitan
-			Feyisayo Folake
-			Gbemisola Gboyega
+			Feyisayo Folake Foluke_Folake
+			Gbemisola Gboyega Gloria
 			Idedayo Ifedapo Ifetayo
 			Jaiyesimi Jibola
 			Kehinde Kolapo Kolawole
 			Lewa
-			Mayowa Moniade Monisola Morenike Morounkola
+			Mayowa Modupe Moji_Mojisola Moniade Monisola Morenike Morounkola
 			Numilekunoluwa
-			Odara Oladele Olaitain Olakunle Olayemi Olayinka Ololade Olufemi Olufunke Oluwabunmi Oluwabusolami Oluwadamilare Oluwadamilola Oluwafeyisayo Oluwakemi Oluwamisimi Oluwamuyiwa Oluwatobiloba Oluwatoke Oluwatomiwa Oluwatoniloba Oluwatope Oluwatoyin Oluwatunmise Oluwayemisi Oni Omotayo Omoteleola Oshun Oyindamola Oyinlola
-			Rinsioluwa
+			Odara Ololade Oladele Olaitain Olakunle Olayemi Olayinka Ololade Olufemi Olufunke Funke_Olufunke Oluwabunmi Oluwabusolami Oluwadamilare Oluwadamilola Oluwafeyisayo Oluwakemi Oluwamisimi Oluwamuyiwa Oluwatobiloba Oluwatoke Oluwatomiwa Oluwatoniloba Oluwatope Oluwatoyin Oluwatunmise Oluwayemisi Oni Omotayo Omoteleola Oshun Oyindamola Oyinlola
+			Remi Rinsioluwa
 			Shanumi Similoluwa Sunbola
-			Tejumola Teleayo Temidare Temidayo Temilade Temiloluwa Temitope Teniayo Teniola Tiwalade Tokunbo Toluwalope
-			Yejide Ymoja
+			Tejumola Teleayo Temidare Temidayo Temilade Temiloluwa Temitope Teniayo Teniola Titilope Titi_Titilope Tiwalade Tokunbo Toluwalope
+			Yejide Yetide Ymoja
+			Zainab
 		}
 
 	}

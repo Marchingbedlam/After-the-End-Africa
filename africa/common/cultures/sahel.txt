@@ -44,8 +44,6 @@ sahel = {
 			Tabara
 			Umu_Umm
 		}
-		
-
 	}
 	dogon = {
 		graphical_cultures = { westafricangfx africangfx }
@@ -84,23 +82,22 @@ sahel = {
 			Abbas Abdallah Abdul Abdullah Abdulraham Abubakar Adam_Adam Ahmad Ahmed Airimi al-Amin Alhaji Ali 'Ali Alooma Amin Amir Amr Arku Arsu 
 			Baba Baram Bikorom Bikoru Biri Bukar Bulu Burkomanda Buyuma 
 			Da'ud Dabbalemi Dala Dalai Dalo Daoud_David Dugu Dunama 
-			Fune 
+			Fadl_Fadul Fadoul_Fadul Filiks_Felix Fune 
 			Gaji Gajideni Galrima Gana Garbai Gazali Gazi Ghaji Ghana 
 			Hamdan Humayy Hume Hummay 
-			Ibrahim Ibrahim_Abraham Idris Ishaq 
-			Kaday Kanemi Kashim Katakarmabe Katur Kharif Kharut Kiyari Kura Kure Kuri Kuwaana 
-			Madu Mahmoud Mamane Modu Mohammed_Mohammed Mufioma Muhammad Murama Musa Mustafa Mustapha 
+			Ibrahim_Abraham Idris Ishaq 
+			Kaday Kanemi Kashim Katakarmabe Katur Kharif Kharut Kiyari Kyari_Kiyari Kura Kure Kuri Kuwaana 
+			Mahamat_Mohammed Mansour_Mansur Mukhtar Mustafa Madu Mahmoud Mamane Modu Mufioma Muhammad_Mohammed Murama Musa Mustafa Mustapha 
 			Nasr Nikale 
 			Osman 
 			Rifaya 
 			Sa'id Said Salih Salmama Sanda Sani Sef Selma Sharud Shettima Shu Sulbuta Suleyman_Solomon 
 			Tandja Tindhim 
-			Umar 'Umar 'Uthman
+			Umar_Omar 'Umar 'Uthman
 			Wanja Waziri 
-			Ya'qub Yahya Yahya_John Yaqub_Jacob Yusuf_Joseph
+			Ya'qub_Jacob Yahya Yahya_John Yaqub_Jacob Yusuf_Joseph
 			Zannah
-			 
-			}
+		}
 		female_names = {
 			'aisha A'isha Aamina Adila Afaf Afra Aida Aisha Aissa Akilah al-Kanemi Alia Alina Aliya Aliyah Aliyya Aliyyah Almas Alya Amal Amani Amina Aminah Amira Amirah Amna Anisa Aqila Arij Arwa Ashraqat Asma Asmaa Asra Atifa Atiya Ayda Ayesha Ayishah Aziza Azra 
 			Badr Bahiga Bahija Bahiyya Bakhita Basima Basira Basma Batul Budur 
@@ -125,6 +122,10 @@ sahel = {
 			Zaahira Zahia Zahida Zahira Zahra Zahrah Zaida Zaina Zainab Zakiah Zakiya Zakiyya Zaray Zayna Zaynab Zinat Zubaida Zulaykha Zulekha
 			
 		}
+		
+		male_patronym = "ibn "
+		female_patronym = "bint "
+		prefix = yes 
 		
 	}
 	tuareg = {

@@ -9,42 +9,47 @@ krio_group = {
 		graphical_cultures = { westafricangfx africangfx }
 			
 		male_names = {
-			Abiodun Ade Adeyamo Ajayi Akin Alexander Andrew Augustus Azeez_Aziz
-			Babatunde Bankole Bode
-			Connally
-			Dandeson Daniel David Desmond Dotun Duncan
-			Ebenezer Elnathan Enitan
-			Fela Femi Funsho
-			Gabriel Gbadebo Gbenga Godwin Goodluck
-			Hakeem_Hakim Henry Herbert Hezekiah
-			Isaac Israel
-			James Jimi John Joseph
-			Kareem_Karim Kayode Kenneth Kitoye Kosoniola
-			Labulo Lanre Lateef Lawson Lazarus Leighton Lukman
-			Macaulay Manasseh Micah Mohammed Molade Moses Muiz Murphy
-			Oladeinde Oladipo Oyekan
-			Patrick Peter
-			Razak Richard Rilwan
-			Samuel Segun Shade
-			Thankgod Thomas Tony_Anthony
-			Umar
+			Abbiye Abiodun Ade Adeyamo Ajayi Akin Alexander Alex_Alexander Alexius_Alexander Andrew Arthur Augustus Azeez_Aziz
+			Babatunde Bankole Benedict Brian Bright Bode
+			Charles Charlie_Charles Chris Christian_Chris Christopher_Chris Clement Cornelius Connally Cottone
+			Dandeson Daniel David Deinde_Oladeinde Desmond Dipiri Dipo_Oladipo Dominic Donatus Dotun Donald Douglas Duncan
+			Ebenezer Emmanuel Elnathan Enitan
+			Fela Femi Fred Frederick Funsho
+			Gabriel Gbadebo Gbenga Geoffrey Godfrey Godwin Goodluck
+			Hakeem_Hakim Henry Herbert Hezekiah Honesty
+			Isaac Israel Innocent
+			James Jim_James Jerry Jimi Jimmy_James John Joseph Josaiah_Josiah Jubo Jubogha_Jubo
+			Kareem_Karim Kayode Kenneth Ken_Kenneth Kitoye Kosoniola
+			Labulo Lanre Lateef Lawson Lazarus Leighton Liyel Louis Lukman
+			Macaulay Manasseh Micah Michael Mike_Michael Mohammed Monday Molade Moses Muiz Murphy
+			Obiesigha Oliver Ouladah Owens Oyekan
+			Patrick Pat_Patrick Paul Perekule Peter Pinson Precious
+			Razak Reginald Regi_Reginald Remi Richard Rilwan Rufus
+			Samuel Segun Seth Shade Sodienye Stephen Sunday
+			Tobi Thankgod Tom Thomas_Tom Tonye Tony_Anthony
+			Ubogu Umar_Omar
 			Victor
-			Wale
+			Wale William Will_William Willie_William
 			Yakub_Jacob Yemi
 		}
 		
 		female_names = {
-			Abigail Aisha Aramide
+			Abigail Ada Adadevoh Adunni Aisha Aramide Aubrey Azariah
 			Bolanle
-			Charlotte Comfort
+			Caroline Charlotte Comfort
+			Deborah Deola
 			Elizabeth
-			Fateema_Fatima
+			Fateema_Fatima Flora
+			Gloria
 			Hilda
-			Margaret Mary Mercy
-			Pallas
-			Sarah
-			Tosin
+			Lilian Liz_Elizabeth
+			Matilda Margaret Mary Mercy
+			Pallas Patience Patricia
+			Remi Rosemary
+			Sarah Susan
+			Tricia_Patricia Tomi Tosin
 			Victoria
+			Zina
 		}
 
 	}
