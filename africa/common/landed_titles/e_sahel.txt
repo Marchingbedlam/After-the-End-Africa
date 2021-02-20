@@ -2682,5 +2682,27 @@ e_sahel = {
 				b_arbinda = {}
 			}
 		}
+		
+		d_atacora = {
+			color={ 107 70 119 }
+			color2={ 255 255 255 }
+			
+			c_natitingou = {
+				color={ 148 102 151 }
+				color2={ 255 255 255 }
+				
+				b_natitingou = {}
+				b_manta = {}
+				b_borogourou = {}
+			}
+			c_tchaourou = {
+				color={ 129 135 181 }
+				color2={ 255 255 255 }
+				
+				b_tchaourou_1 = {}
+				b_tchaourou_2 = {}
+				b_tchaourou_3 = {}
+			}
+		}
 	}
 }

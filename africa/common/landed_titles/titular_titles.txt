@@ -10,6 +10,50 @@ d_accra = {
 		always = no
 	}
 }
+d_idomaland = {
+	color = { 155 55 155 }
+	color2= { 255 255 255 }
+	capital = 127 #Accra
+
+	culture = idoma
+	
+	title = "Och'Idoma"
+
+	allow = {
+		always = no
+	}
+}
+d_tivland = {
+	color = { 155 55 155 }
+	color2= { 255 255 255 }
+	capital = 127 #Accra
+
+	culture = tiv
+	
+	title = "Tor Tiv"
+	
+	fulbe = "Munchi"
+
+	allow = {
+		always = no
+	}
+}
+d_ebiraland = {
+	color = { 72 50 88 }
+	color2= { 255 255 255 }
+	capital = 127 #Accra
+
+	culture = ebira
+	
+	title = "Ohinoyi"
+	
+	waswahili = "Kiebira"
+	yoruba = "Igbira"
+
+	allow = {
+		always = no
+	}
+}
 
 ##Kingdoms
 k_asanteman = {
@@ -39,7 +83,7 @@ k_dagbon = {
 	}
 }
 k_sokoto = {
-	color = { 146 62 176 }
+	color = { 0 171 195 }
 	color2= { 255 255 255 }
 	capital = 134 #Yendi
 
@@ -51,26 +95,15 @@ k_sokoto = {
 		always = no
 	}
 }
-k_edo = {
-	color = { 146 62 176 }
-	color2= { 255 255 255 }
-	capital = 134 #Yendi
-
-	culture = edo
-
-	title = "Oba"
-
-	allow = {
-		always = no
-	}
-}
 k_dahomey = {
 	color = { 146 62 176 }
 	color2= { 255 255 255 }
 	capital = 134 #Yendi
 
 	culture = fon
-
+	
+	fon = "Danhome"
+	
 	title = "Ahosu"
 
 	allow = {
@@ -84,6 +117,22 @@ k_bandama = {
 
 	culture = baoule
 
+	allow = {
+		always = no
+	}
+}
+k_edo = {
+
+	color = { 172 190 227 }
+	color2= { 255 255 255 }
+
+	#culture = edo
+	edo = "Edo"
+	yoruba = "Ado"
+	igbo = "Idu"
+
+	title = "Oba"
+		
 	allow = {
 		always = no
 	}
