@@ -579,7 +579,7 @@ province;red;green;blue;x;x
 578;156;122;161;Oyo;x
 579;146;104;137;Ilorin;x
 580;145;116;172;Igboho;x
-581;146;92;119;Ikare-Akoko;x
+581;146;92;119;Auchi;x
 582;147;118;134;Ado-Ekiti;x
 583;173;114;145;Ibadan;x
 584;175;98;144;Abeokuta;x
@@ -598,7 +598,7 @@ province;red;green;blue;x;x
 597;221;162;100;Gonja;x
 598;135;180;109;Asaba;x
 599;127;214;163;Onitsha;x
-600;186;214;163;Kwale;x
+600;186;214;163;Kwale_nigeria;x
 601;198;224;102;Yamoussoukro;x
 602;119;180;144;Enugu;x
 603;121;143;120;Nsukka;x
@@ -635,7 +635,7 @@ province;red;green;blue;x;x
 634;93;145;176;Yana;x
 635;39;61;123;Dakingari;x
 636;82;151;179;Koko;x
-637;148;151;179;Yelwa;x
+637;;;;;x
 638;123;120;179;Rijau;x
 639;123;151;179;Kontagora;x
 640;50;81;120;Mokwa;x
@@ -678,13 +678,13 @@ province;red;green;blue;x;x
 677;90;71;151;Banikoara;x
 678;106;116;176;Gougougon;x
 679;168;106;176;Bembereke;x
-680;113;106;142;Perere;x
+680;59;107;161;Yabo;x
 681;154;135;126;Wa;x
 682;144;82;145;Aplahoue;x
 683;135;113;183;Ouidah;x
 684;230;125;123;Bobo-Dioulasso;x
 685;114;28;72;Ganzourgou;x
-686;161;100;169;Iwoye;x
+686;;;;;x
 687;67;152;173;Ningi;x
 688;113;126;205;Bante;x
 689;176;124;162;Tchaourou;x
@@ -696,7 +696,7 @@ province;red;green;blue;x;x
 695;174;53;77;Koforidua;x
 696;184;123;192;Osogbo;x
 697;121;86;139;Owu-Isin;x
-698;170;119;167;Share;x
+698;;;;;x
 699;51;128;154;Pategi;x
 700;184;107;31;Walvis Bay;x
 701;204;105;56;Swakopmund;x
@@ -739,10 +739,10 @@ province;red;green;blue;x;x
 738;79;123;173;Kachia;x
 739;72;90;157;Kaduna;x
 740;76;108;212;Soba;x
-741;64;139;181;Tudun Wada;x
+741;;;;;x
 742;100;154;208;Funtua;x
 743;99;117;183;Zaria;x
-744;75;96;164;Sanga;x
+744;;;;;x
 745;120;145;208;Jos;x
 746;73;145;138;Lafia;x
 747;106;179;160;Wamba;x
@@ -753,7 +753,7 @@ province;red;green;blue;x;x
 752;72;158;179;Katsina Ala;x
 753;65;101;161;Gboko;x
 754;76;120;145;Otukpo;x
-755;96;130;186;Makurdi;x
+755;96;130;186;Warri;x
 756;82;104;132;Wukari;x
 757;86;142;139;Takum;x
 758;105;142;169;Gembu;x
