@@ -77,6 +77,72 @@ king_songhai;Dja;;;;;;;;;;;;;x
 
 king_fulbe;Almamy;;;;;;;;;;;;;x
 
+king_hausa;Sarkin;;;;;;;;;;;;;x
+
+king_bariba;Sarkin;;;;;;;;;;;;;x
+duke_bariba;Sarkin;;;;;;;;;;;;;x
+
+duke_bole;Moi;;;;;;;;;;;;;x
+count_bole;Mai;;;;;;;;;;;;;x
+
+count_bura-higi;Mai;;;;;;;;;;;;;x
+
+king_kanuri;Mai;;;;;;;;;;;;;x
+duke_kanuri;Mai;;;;;;;;;;;;;x
+count_kanuri;Shehu;;;;;;;;;;;;;x
+
+king_edo;Oba;;;;;;;;;;;;;x
+king_female_edo;Omoba;;;;;;;;;;;;;x
+count_edo;Oba;;;;;;;;;;;;;x
+count_female_edo;Omoba;;;;;;;;;;;;;x
+baron_edo;Oba;;;;;;;;;;;;;x
+baron_female_edo;Omoba;;;;;;;;;;;;;x
+
+king_yoruba;Oba;;;;;;;;;;;;;x
+king_female_yoruba;Omoba;;;;;;;;;;;;;x
+count_yoruba;Oba;;;;;;;;;;;;;x
+count_female_yoruba;Omoba;;;;;;;;;;;;;x
+baron_yoruba;Oba;;;;;;;;;;;;;x
+baron_female_yoruba;Omoba;;;;;;;;;;;;;x
+
+count_nupe;Etsu;;;;;;;;;;;;;x
+duke_nupe;Etsu;;;;;;;;;;;;;x
+
+count_gbagi;Etsu;;;;;;;;;;;;;x
+duke_gbagi;Etsu;;;;;;;;;;;;;x
+
+count_ebira;Otaru;;;;;;;;;;;;;x
+baron_ebira;Otaru;;;;;;;;;;;;;x
+
+barony_of_fon;Savi;;;;;;;;;;;;;x
+county_of_fon;Savi;;;;;;;;;;;;;x
+
+barony_of_cross_river;Ata;;;;;;;;;;;;;x
+
+count_urhobo;Ovie;;;;;;;;;;;;;x
+baron_urhobo;Ovie;;;;;;;;;;;;;x
+duke_urhobo;Ovie;;;;;;;;;;;;;x
+count_female_urhobo;Ovieya;;;;;;;;;;;;;x
+baron_female_urhobo;Ovieya;;;;;;;;;;;;;x
+duke_female_urhobo;Ovieya;;;;;;;;;;;;;x
+council_urhobo;Ilorogun;;;;;;;;;;;;;x
+
+baron_igala;Onuh;;;;;;;;;;;;;x
+count_igala;Onuh;;;;;;;;;;;;;x
+duke_igala;Attah;;;;;;;;;;;;;x
+council_igala;Ogbede;;;;;;;;;;;;;x
+job_treasurer_igala;Ach'adu;;;;;;;;;;;;;x
+job_marshal_igala;Onoja;;;;;;;;;;;;;x
+
+duke_tiv;Tor;;;;;;;;;;;;;x
+count_tiv;Tor;;;;;;;;;;;;;x
+council_tiv;Ijir Tamen;;;;;;;;;;;;;x
+
+baron_igbo;Oha;;;;;;;;;;;;;x
+count_igbo;Eze;;;;;;;;;;;;;x
+duke_igbo;Eze;;;;;;;;;;;;;x
+job_spiritual_igbo;Onye isi ala;;;;;;;;;;;;;x
+
 king_mossi;Naba;;;;;;;;;;;;;x
 emperor_mossi;Mogho Naba;;;;;;;;;;;;;x
 
