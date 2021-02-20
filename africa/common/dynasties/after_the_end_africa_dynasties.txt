@@ -380,6 +380,45 @@
 1004058 = { name="Murray" culture=pijin }
 1004059 = { name="Bruce" culture=pijin }
 1004060 = { name="Ransome-Kuti" culture=pijin used_for_random=no }
+1004061 = { name="Thomas" culture=pijin }
+1004062 = { name="Williams" culture=pijin }
+1004063 = { name="Crowther" culture=pijin }
+1004064 = { name="Johnson" culture=pijin }
+1004065 = { name="Kale" culture=pijin }
+1004066 = { name="Macaulay" culture=pijin }
+1004067 = { name="Pratt" culture=pijin }
+1004068 = { name="Wright" culture=pijin }
+1004069 = { name="Martins" culture=pijin }
+1004070 = { name="Perry" culture=pijin }
+1004071 = { name="Robinson" culture=pijin }
+1004072 = { name="Margaret" culture=pijin }
+1004073 = { name="Taylor" culture=pijin }
+1004074 = { name="Philips" culture=pijin }
+1004075 = { name="Mac Pepple" culture=pijin used_for_random=no}
+1004076 = { name="Peterside" culture=pijin }
+1004077 = { name="Minimah" culture=pijin }
+1004078 = { name="Douglas" culture=pijin }
+1004079 = { name="Keini" culture=pijin }
+1004080 = { name="Wyatt" culture=pijin }
+1004081 = { name="George-Thompson" culture=pijin }
+1004082 = { name="Thompson" culture=pijin }
+1004083 = { name="Abacha" culture=pijin }
+1004084 = { name="Ibiyeomie" culture=pijin }
+1004085 = { name="Beeson" culture=pijin }
+1004086 = { name="Wiwa" culture=pijin }
+1004087 = { name="Duke" culture=pijin }
+1004088 = { name="Akpan" culture=pijin }
+1004089 = { name="Luke" culture=pijin }
+1004090 = { name="Lucas" culture=pijin }
+1004091 = { name="Usanga" culture=pijin }
+1004092 = { name="Liberty" culture=pijin }
+1004093 = { name="Allison" culture=pijin }
+1004094 = { name="Dappa" culture=pijin }
+1004095 = { name="Manilla" culture=pijin }
+1004096 = { name="Domingo" culture=pijin }
+1004097 = { name="Emmanuel" culture=pijin }
+1004098 = { name="Manuel" culture=pijin }
+1004099 = { name="Godson" culture=pijin }
 
 1005000 = { name="Daïssala" culture=kirdi }
 1005001 = { name="Ayang" culture=kirdi }
@@ -951,6 +990,137 @@
 1028001 = { name="Olayinka" culture=yoruba }
 1028002 = { name="Ashipa" culture=yoruba used_for_random=no }
 1028003 = { name="Adewale" culture=yoruba }
+1028004 = { name="Egba Ake" culture=yoruba used_for_random=no } #Abeokuta
+1028005 = { name="Ojijigogun" culture=yoruba used_for_random=no } #Ado=Ekiti
+1028006 = { name="Osupa" culture=yoruba used_for_random=no } #Ado=Ekiti
+1028007 = { name="Okuta" culture=yoruba used_for_random=no } #Ondo
+1028008 = { name="Olagbegi" culture=yoruba used_for_random=no } #Owo
+1028009 = { name="Ogunoye" culture=yoruba used_for_random=no } #Owo
+1028011 = { name="Fani-Kayode" culture=yoruba }
+1028012 = { name="Adekunle" culture=yoruba }
+1028013 = { name="Adebo" culture=yoruba }
+1028014 = { name="Abiri" culture=yoruba }
+1028015 = { name="Fabunmi" culture=yoruba }
+1028016 = { name="Lanlehin" culture=yoruba }
+1028017 = { name="Kolade" culture=yoruba }
+1028018 = { name="Gambari" culture=yoruba }
+1028019 = { name="Quadri" culture=yoruba }
+1028020 = { name="Rotimi" culture=yoruba }
+1028021 = { name="Yussuf" culture=yoruba }
+1028022 = { name="Ayinla" culture=yoruba }
+1028023 = { name="Baloni" culture=yoruba }
+1028024 = { name="Obasa" culture=yoruba }
+1028025 = { name="Ponnle" culture=yoruba }
+1028026 = { name="Omolewa" culture=yoruba }
+1028027 = { name="Olubunmi" culture=yoruba }
+1028028 = { name="Oladapo" culture=yoruba }
+1028029 = { name="Ogen" culture=yoruba }
+1028030 = { name="Osewa" culture=yoruba }
+1028031 = { name="Akinkunmi" culture=yoruba }
+1028032 = { name="Akindele" culture=yoruba }
+1028033 = { name="Ajose" culture=yoruba }
+1028034 = { name="Alonge" culture=yoruba }
+1028035 = { name="Ayo" culture=yoruba }
+1028036 = { name="Oluwale" culture=yoruba }
+1028037 = { name="Badru" culture=yoruba }
+1028038 = { name="Ibikunle" culture=yoruba }
+1028039 = { name="Adebola" culture=yoruba }
+1028040 = { name="Oluwatoyin" culture=yoruba }
+1028041 = { name="Olateru" culture=yoruba }
+1028042 = { name="Olukoya" culture=yoruba }
+1028043 = { name="Ogunde" culture=yoruba }
+1028044 = { name="Olukoga" culture=yoruba }
+1028045 = { name="Adedeji" culture=yoruba }
+1028046 = { name="Labulo" culture=yoruba }
+1028047 = { name="Kosoko" culture=yoruba }
+1028048 = { name="Sagoe" culture=yoruba }
+1028049 = { name="Abiola" culture=yoruba }
+1028050 = { name="Ade" culture=yoruba }
+1028051 = { name="Adegbite" culture=yoruba }
+1028052 = { name="Adegbola" culture=yoruba }
+1028053 = { name="Adejumoke" culture=yoruba }
+1028054 = { name="Adekola" culture=yoruba }
+1028055 = { name="Olayode" culture=yoruba }
+1028056 = { name="Adebowale" culture=yoruba }
+1028057 = { name="Ademoye" culture=yoruba }
+1028058 = { name="Adesanya" culture=yoruba }
+1028059 = { name="Adewusi" culture=yoruba }
+1028060 = { name="Ajai" culture=yoruba }
+1028061 = { name="Ayola" culture=yoruba }
+1028062 = { name="Badmus" culture=yoruba }
+1028063 = { name="Balogun" culture=yoruba }
+1028064 = { name="Bamiloye" culture=yoruba }
+1028065 = { name="Bankole" culture=yoruba }
+1028066 = { name="Omowunmi" culture=yoruba }
+1028067 = { name="Olusola" culture=yoruba }
+1028068 = { name="Ayinke" culture=yoruba }
+1028069 = { name="Adedimeji" culture=yoruba }
+1028070 = { name="Fagbenle" culture=yoruba }
+1028071 = { name="Faleti" culture=yoruba }
+1028072 = { name="Fatomilola" culture=yoruba }
+1028073 = { name="Fosudo" culture=yoruba }
+1028074 = { name="Isola" culture=yoruba }
+1028075 = { name="Ladipo" culture=yoruba }
+1028076 = { name="Laniyan" culture=yoruba }
+1028077 = { name="Lasoda" culture=yoruba }
+1028078 = { name="Ogungbe" culture=yoruba }
+1028079 = { name="Ogunmola" culture=yoruba }
+1028080 = { name="Ogunyemi" culture=yoruba }
+1028081 = { name="Okanlawon" culture=yoruba }
+1028082 = { name="Okeniyi" culture=yoruba }
+1028083 = { name="Olaiya" culture=yoruba }
+1028084 = { name="Olaotan" culture=yoruba }
+1028085 = { name="Ologun" culture=yoruba }
+1028086 = { name="Olumo" culture=yoruba }
+1028087 = { name="Omidina" culture=yoruba }
+1028088 = { name="Omobolanle" culture=yoruba }
+1028089 = { name="Omotoso" culture=yoruba }
+1028090 = { name="Osakalumi" culture=yoruba }
+1028091 = { name="Osupa" culture=yoruba }
+1028092 = { name="Oyelana" culture=yoruba }
+1028093 = { name="Oyelowo" culture=yoruba }
+1028094 = { name="Oyetokunbo" culture=yoruba }
+1028095 = { name="Oyeniran" culture=yoruba }
+1028096 = { name="Oyetoro" culture=yoruba }
+1028097 = { name="Oyewo" culture=yoruba }
+1028098 = { name="Paimo" culture=yoruba }
+1028099 = { name="Akinosho" culture=yoruba }
+1028100 = { name="Tedela" culture=yoruba }
+1028101 = { name="Oyelakin" culture=yoruba }
+1028102 = { name="Bakre" culture=yoruba }
+1028103 = { name="Baiyerohi" culture=yoruba used_for_random=no }
+
+1029000 = { name="Njemanze" culture=igbo used_for_random=no } #Owerri
+1029001 = { name="Onunwa" culture=igbo used_for_random=no } #Owerri
+1029002 = { name="Ashipa" culture=igbo }
+1029003 = { name="Ojukwu" culture=igbo }
+1029004 = { name="Enelamah" culture=igbo }
+1029005 = { name="Emenike" culture=igbo }
+1029006 = { name="Nwaubani" culture=igbo }
+1029007 = { name="Emezi" culture=igbo }
+1029008 = { name="Ukeje" culture=igbo }
+1029009 = { name="Eze" culture=igbo }
+1029010 = { name="Chimezie" culture=igbo }
+1029011 = { name="Ezuruonye" culture=igbo }
+1029012 = { name="Okpara" culture=igbo }
+1029013 = { name="Ezeigbo" culture=igbo }
+1029014 = { name="Aguiyi" culture=igbo }
+1029015 = { name="Ironsi" culture=igbo }
+1029016 = { name="Iweala" culture=igbo }
+1029017 = { name="Kano" culture=igbo }
+1029018 = { name="Chukwueze" culture=igbo }
+1029019 = { name="Chimerenka" culture=igbo }
+1029020 = { name="Ojukwu" culture=igbo }
+
+1030000 = { name="Ado-Ibrahim" culture=ebira used_for_random=no }
+1030001 = { name="Omolori" culture=ebira }
+1030002 = { name="Onoruoiza" culture=ebira }
+1030003 = { name="Abonika" culture=ebira }
+1030004 = { name="Isakoto" culture=ebira used_for_random=no }
+1030005 = { name="Okino" culture=ebira }
+
+1031000 = { name="Maikarfi" culture=nupe used_for_random=no }
+1031001 = { name="Waliyi" culture=nupe }
 
 1101000 = { name="Broh" culture=kru } 
 1101001 = { name="Twe" culture=kru }
@@ -1051,8 +1221,7 @@
 1101096 = {name ="Bannie" culture=kru }
 1101097 = {name ="Poka" culture=kru }
 1101098 = {name ="Goe" culture=kru }
-1101099 = {name ="" culture=kru }
-1101100 = {name ="Hoto" culture=kru }
+1101099 = {name ="Hoto" culture=kru }
 
 1201000 = {name ="Sulunteh" culture=kpelle } 
 1201001 = {name ="Camara" culture=kpelle }
@@ -1638,6 +1807,8 @@
 1409058 = {name ="Raji" culture=hausa }
 1409059 = {name ="Ladan" culture=hausa }
 1409060 = {name ="Nijar" culture=hausa }
+
+1410000 = {name ="al-Kanemi" culture=kanuri used_for_random=no }
 
 1444000 = {name ="Ag Ghaly" culture=tuareg }
 1444001 = {name ="Ag Acherif" culture=tuareg }
@@ -3627,7 +3798,8 @@
 1445019 = {name ="Younousmi" culture=toubou }
 1445020 = {name ="Zene" culture=toubou }
 
-1895000 = {name ="Aladaxonou" culture=fon }
+#1895000 = {name ="Aladaxonou" culture=fon used_for_random=no } #Aladaxonou rule in Abomey while Aladatadonu rule in Alada
+1895000 = {name ="Agasuvi" culture=fon used_for_random=no }
 1895001 = {name ="Sinzogan" culture=fon }
 1895002 = {name ="Hachème" culture=fon }
 1895003 = {name ="Guédégbé" culture=fon }
@@ -3688,6 +3860,7 @@
 1895058 = {name ="Varissou" culture=fon }
 1895059 = {name ="Ahouanhou" culture=fon }
 1895060 = {name ="Houéha" culture=fon }
+1895061 = {name ="Hweda" culture=fon used_for_random=no }
 
 1899000 = {name ="Gbeho" culture=ewe }
 1899001 = {name ="Baëta" culture=ewe }
@@ -5262,6 +5435,7 @@
 2666026 = { name="Osazuwa" culture=edo }
 2666027 = { name="Guobadia" culture=edo }
 2666028 = { name="Igbafe" culture=edo }
+2666029 = { name="Momodu" culture=edo used_for_random=no } #Agbede
 
 2701000 = { name="Sharmaarke" culture=somali }
 2701001 = { name="Khayre" culture=somali }
