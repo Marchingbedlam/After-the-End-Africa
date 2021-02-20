@@ -2,10 +2,10 @@
 title = c_gumel
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_gumel_1 = castle
-b_gumel_2 = temple
+b_gumel_2 = castle
 b_gumel_3 = city
 
 # Misc

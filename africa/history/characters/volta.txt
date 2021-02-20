@@ -2182,6 +2182,8 @@
 	2635.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
+
+#Abomey
 1500400={
 	name="Kpodégbé" #Ahosu
 	dynasty=1895000
@@ -2222,6 +2224,36 @@
 	trait=stubborn
 	trait=lunatic
 	trait=tough_soldier
+	
+	2644.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+#Alada
+1500405={
+	name="Sagbadjou"
+	dynasty=1895000
+	culture=fon
+	religion=vodun
+	
+	2644.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+#Whydah
+1500410={
+	name="Nagbododhone"
+	dynasty=1895061
+	culture=fon
+	religion=vodun
+	
+	2644.1.1={birth=yes}
+	2700.1.1={death=yes}
+}
+#Porto Novo
+1500412={
+	name="Gbeso"
+	dynasty=1895000
+	culture=fon
+	religion=vodun
 	
 	2644.1.1={birth=yes}
 	2700.1.1={death=yes}

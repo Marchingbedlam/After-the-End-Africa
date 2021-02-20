@@ -2,11 +2,12 @@
 title = c_emohua
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_emohua_1 = castle
 b_emohua_2 = temple
-b_emohua_3 = city
+b_emohua_3 = castle
+b_emohua_4 = city
 
 # Misc
 culture = igbo

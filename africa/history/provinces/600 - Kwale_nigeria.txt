@@ -1,0 +1,15 @@
+# County Title
+title = c_kwale_nigeria
+
+# Settlements
+max_settlements = 3
+
+b_kwale_1 = castle
+b_kwale_2 = city
+b_kwale_3 = temple
+
+# Misc
+culture = igbo
+religion = catholic
+
+#History

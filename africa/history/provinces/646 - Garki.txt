@@ -2,11 +2,12 @@
 title = c_garki
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_garki_1 = castle
-b_garki_2 = temple
+b_garki_2 = castle
 b_garki_3 = city
+b_garki_4 = temple
 
 # Misc
 culture = hausa

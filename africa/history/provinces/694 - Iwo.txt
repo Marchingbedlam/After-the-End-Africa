@@ -1,12 +1,13 @@
 # County Title
-title = c_iwo
+title = c_ife
 
 # Settlements
-max_settlements = 3
+max_settlements = 6
 
-b_iwo_1 = castle
-b_iwo_2 = temple
-b_iwo_3 = city
+b_ife_1 = castle
+b_ife_2 = temple
+b_ife_3 = city
+b_ife_4 = castle
 
 # Misc
 culture = yoruba

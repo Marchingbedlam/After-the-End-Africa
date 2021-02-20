@@ -2,7 +2,7 @@
 title = c_nikki
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_nikki_1 = castle
 b_nikki_2 = temple

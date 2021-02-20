@@ -2,11 +2,12 @@
 title = c_gusau
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_gusau_1 = castle
 b_gusau_2 = temple
-b_gusau_3 = city
+b_gusau_3 = castle
+b_gusau_4 = castle
 
 # Misc
 culture = hausa

@@ -6,7 +6,6 @@ max_settlements = 3
 
 b_koton_karfe_1 = castle
 b_koton_karfe_2 = temple
-b_koton_karfe_3 = city
 
 # Misc
 culture = ebira

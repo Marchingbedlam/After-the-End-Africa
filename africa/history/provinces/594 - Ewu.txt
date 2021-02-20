@@ -2,11 +2,11 @@
 title = c_ewu
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_ewu_1 = castle
-b_ewu_2 = temple
-b_ewu_3 = city
+b_ewu_2 = castle
+b_ewu_3 = temple
 
 # Misc
 culture = edo

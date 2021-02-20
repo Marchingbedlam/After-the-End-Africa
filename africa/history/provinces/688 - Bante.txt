@@ -5,8 +5,7 @@ title = c_bante
 max_settlements = 3
 
 b_bante_1 = castle
-b_bante_2 = temple
-b_bante_3 = city
+b_bante_2 = city
 
 # Misc
 culture = yoruba

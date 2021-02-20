@@ -2,10 +2,10 @@
 title = c_gwarzo
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_gwarzo_1 = castle
-b_gwarzo_2 = temple
+b_gwarzo_2 = castle
 b_gwarzo_3 = city
 
 # Misc

@@ -2,13 +2,15 @@
 title = c_zaria
 
 # Settlements
-max_settlements = 3
+max_settlements = 6
 
 b_zaria_1 = castle
-b_zaria_2 = temple
+b_zaria_2 = castle
 b_zaria_3 = city
+b_zaria_4 = city
+b_zaria_5 = temple
 
 # Misc
 culture = hausa
-religion = ashari
+religion = shia
 #History

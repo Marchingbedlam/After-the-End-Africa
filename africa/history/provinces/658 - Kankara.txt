@@ -5,7 +5,7 @@ title = c_kankara
 max_settlements = 3
 
 b_kankara_1 = castle
-b_kankara_2 = temple
+b_kankara_2 = castle
 b_kankara_3 = city
 
 # Misc

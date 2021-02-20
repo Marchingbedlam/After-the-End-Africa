@@ -5,8 +5,7 @@ title = c_banikoara
 max_settlements = 3
 
 b_banikoara_1 = castle
-b_banikoara_2 = temple
-b_banikoara_3 = city
+b_banikoara_2 = city
 
 # Misc
 culture = bariba

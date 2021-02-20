@@ -2,7 +2,7 @@
 title = c_katsina_ala
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_katsina_ala_1 = castle
 b_katsina_ala_2 = temple

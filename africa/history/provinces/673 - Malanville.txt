@@ -9,7 +9,7 @@ b_malanville_2 = temple
 b_malanville_3 = city
 
 # Misc
-culture = bariba
+culture = songhai
 religion = ashari
 
 #History

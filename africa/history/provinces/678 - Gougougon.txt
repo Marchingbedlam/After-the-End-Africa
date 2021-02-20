@@ -5,8 +5,7 @@ title = c_gougougon
 max_settlements = 3
 
 b_gougougon_1 = castle
-b_gougougon_2 = temple
-b_gougougon_3 = city
+b_gougougon_2 = city
 
 # Misc
 culture = bariba

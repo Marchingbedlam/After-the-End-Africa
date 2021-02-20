@@ -2,11 +2,12 @@
 title = c_tureta
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_tureta_1 = castle
 b_tureta_2 = temple
 b_tureta_3 = city
+b_tureta_4 = castle
 
 # Misc
 culture = hausa

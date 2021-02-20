@@ -2,14 +2,14 @@
 title = c_uyo
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_uyo_1 = castle
-b_uyo_2 = temple
+b_uyo_2 = city
 b_uyo_3 = city
 
 # Misc
 culture = cross_river
-religion = anglican
+religion = anglican #pentecostal...?
 
 #History

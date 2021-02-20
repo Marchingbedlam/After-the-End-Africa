@@ -2,14 +2,14 @@
 title = c_koko
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_koko_1 = castle
-b_koko_2 = temple
+b_koko_2 = castle
 b_koko_3 = city
 
 # Misc
-culture = kainji
+culture = hausa
 religion = ashari
 
 #History

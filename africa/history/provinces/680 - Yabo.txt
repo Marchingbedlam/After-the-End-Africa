@@ -1,0 +1,15 @@
+# County Title
+title = c_yabo
+
+# Settlements
+max_settlements = 4
+
+b_yabo_1 = castle
+b_yabo_2 = city
+b_yabo_3 = castle
+
+# Misc
+culture = hausa
+religion = ashari
+
+#History

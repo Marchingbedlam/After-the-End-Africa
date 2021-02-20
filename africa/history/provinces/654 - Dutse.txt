@@ -2,11 +2,12 @@
 title = c_dutse
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_dutse_1 = castle
 b_dutse_2 = temple
-b_dutse_3 = city
+b_dutse_3 = castle
+b_dutse_4 = city
 
 # Misc
 culture = hausa

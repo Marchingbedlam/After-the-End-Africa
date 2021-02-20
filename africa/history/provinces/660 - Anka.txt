@@ -2,11 +2,12 @@
 title = c_anka
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_anka_1 = castle
 b_anka_2 = temple
 b_anka_3 = city
+b_anka_4 = castle
 
 # Misc
 culture = hausa

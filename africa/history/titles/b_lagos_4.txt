@@ -1,0 +1,5 @@
+2660.1.1={
+	holding_dynasty=2703010
+	liege=d_ogun
+	holder=1965102
+}

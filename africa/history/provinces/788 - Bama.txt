@@ -5,8 +5,8 @@ title = c_bama
 max_settlements = 3
 
 b_bama_1 = castle
-b_bama_2 = temple
-b_bama_3 = city
+b_bama_2 = city
+b_bama_3 = castle
 
 # Misc
 culture = kanuri

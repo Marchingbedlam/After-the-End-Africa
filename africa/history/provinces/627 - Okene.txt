@@ -2,11 +2,12 @@
 title = c_okene
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_okene_1 = castle
 b_okene_2 = temple
 b_okene_3 = city
+b_okene_4 = castle
 
 # Misc
 culture = ebira

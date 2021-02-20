@@ -2,11 +2,12 @@
 title = c_ado_ekiti
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_ado-ekiti_1 = castle
-b_ado-ekiti_2 = temple
+#b_ado-ekiti_2 = temple
 b_ado-ekiti_3 = city
+b_ado-ekiti_4 = castle
 
 # Misc
 culture = yoruba

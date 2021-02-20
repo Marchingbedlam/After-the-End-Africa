@@ -2,11 +2,13 @@
 title = c_port_harcourt
 
 # Settlements
-max_settlements = 3
+max_settlements = 5
 
+b_port_harcourt_3 = city
 b_port_harcourt_1 = castle
 b_port_harcourt_2 = temple
-b_port_harcourt_3 = city
+b_port_harcourt_4 = castle
+b_port_harcourt_5 = castle
 
 # Misc
 culture = pijin

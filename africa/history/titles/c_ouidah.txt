@@ -1,3 +1,4 @@
 2660.1.1={
-	holder=1500400
+	holder=1500405
+	liege=k_dahomey
 }

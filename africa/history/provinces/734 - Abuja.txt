@@ -2,11 +2,14 @@
 title = c_abuja
 
 # Settlements
-max_settlements = 3
+max_settlements = 6
 
-b_keffi_1 = castle
-b_keffi_2 = temple
-b_keffi_3 = city
+b_abuja_1 = castle
+b_abuja_2 = temple
+b_abuja_3 = city
+b_abuja_4 = castle
+b_abuja_5 = city
+#b_abuja_6 = city
 
 # Misc
 culture = pijin

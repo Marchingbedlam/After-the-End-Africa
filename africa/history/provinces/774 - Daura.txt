@@ -1,15 +1,15 @@
 # County Title
-title = c_daura
+#title = c_daura
 
 # Settlements
-max_settlements = 3
+#max_settlements = 4
 
-b_daura_1 = castle
-b_daura_2 = temple
-b_daura_3 = city
+#b_daura_1 = castle
+#b_daura_2 = temple
+#b_daura_3 = city
 
 # Misc
-culture = hausa
-religion = ashari
+#culture = hausa
+#religion = ashari
 
 #History

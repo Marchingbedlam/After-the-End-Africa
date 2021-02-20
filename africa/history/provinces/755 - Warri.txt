@@ -1,0 +1,16 @@
+# County Title
+title = c_warri
+
+# Settlements
+max_settlements = 5
+
+b_warri_1 = castle
+b_warri_2 = castle
+b_warri_3 = city
+b_warri_4 = city
+
+# Misc
+culture = pijin
+religion = anglican
+
+#History

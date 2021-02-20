@@ -6,10 +6,9 @@ max_settlements = 3
 
 b_segbana_1 = castle
 b_segbana_2 = temple
-b_segbana_3 = city
 
 # Misc
-culture = bariba
+culture = manding
 religion = ashari
 
 #History

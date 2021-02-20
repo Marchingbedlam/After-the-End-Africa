@@ -2,14 +2,16 @@
 title = c_yenagoa
 
 # Settlements
-max_settlements = 3
+max_settlements = 5
 
 b_yenagoa_1 = castle
-b_yenagoa_2 = temple
-b_yenagoa_3 = city
+b_yenagoa_2 = castle
+b_yenagoa_3 = temple
+b_yenagoa_4 = city
+b_yenagoa_5 = castle
 
 # Misc
 culture = ijo
-religion = anglican
+religion = anglican #pentecostal
 
 #History

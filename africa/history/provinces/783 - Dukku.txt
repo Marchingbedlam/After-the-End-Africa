@@ -2,10 +2,10 @@
 title = c_dukku
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_dukku_1 = castle
-b_dukku_2 = temple
+b_dukku_2 = castle
 b_dukku_3 = city
 
 # Misc

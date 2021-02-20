@@ -1,3 +1,6 @@
+#Northern Nigeria
+
+#Middle Belt
 1963000={
 	name="Zarumi"
 	dynasty=1409000
@@ -195,7 +198,9 @@
 	2634.7.11={ birth=yes }
 	2700.1.1={ death=yes }
 }
-1963020={
+
+#Hausaland
+1964000={
 	name="Abubakar"
 	dynasty=0
 	culture=fulbe
@@ -204,7 +209,31 @@
 	2621.5.22={ birth=yes }
 	2700.1.1={ death=yes }
 }
-1963050={
+
+#Kanuriland
+
+1964500={
+	name="Katakarmabe"
+	dynasty=1410000
+	culture=kanuri
+	religion=ashari
+
+	2621.5.22={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1964508={
+	name="Masta"
+	dynasty=1410000
+	culture=kanuri
+	religion=ashari
+
+	2621.5.22={ birth=yes }
+	2700.1.1={ death=yes }
+}
+
+#Southern Nigeria
+#Yorubaland
+1965000={
 	name="Ozolua"
 	dynasty=2666000
 	culture=edo
@@ -213,7 +242,10 @@
 	2642.12.11={ birth=yes }
 	2700.1.1={ death=yes }
 }
-1963100={
+
+
+#Lagos
+1965100={
 	name="Babatunde"
 	dynasty=1004060 #Ransome-Kuti
 	culture=pijin
@@ -225,7 +257,7 @@
 	2642.12.11={ birth=yes }
 	2700.1.1={ death=yes }
 }
-1963101={
+1965101={
 	name="Tajudeen"
 	dynasty=1004036 #Azeez
 	culture=pijin
@@ -234,7 +266,7 @@
 	2642.12.11={ birth=yes }
 	2700.1.1={ death=yes }
 }
-1963102={
+1965102={
 	name="Michael"
 	dynasty=2703010 #Calil
 	culture=afrolebanese
@@ -243,7 +275,7 @@
 	2642.12.11={ birth=yes }
 	2700.1.1={ death=yes }
 }
-1963103={
+1965103={
 	name="Godwin"
 	dynasty=1028001 #Olayinka
 	culture=yoruba
@@ -252,15 +284,48 @@
 	2642.12.11={ birth=yes }
 	2700.1.1={ death=yes }
 }
-1028004={
+1965104={
 	name="Oyekan"
-	dynasty=1004060 #Ashipa
+	dynasty=1028002 #Ashipa
 	culture=yoruba
 	religion=catholic #yoruba
 	trait=thrifty_clerk
 	trait=arbitrary
 	trait=diligent
 	trait=gregarious
+	2642.12.11={ birth=yes }
+	2700.1.1={ death=yes }
+}
+#ebiraland
+1965600={
+	name="Kolo"
+	dynasty=1030000 #Ado-Ibrahim
+	culture=ebira
+	religion=ashari
+	2642.12.11={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1965606={
+	name="Abigel"
+	dynasty=1031000 #Maikarfi
+	culture=nupe
+	religion=ashari
+	2642.12.11={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1965610={
+	name="Sango"
+	dynasty=1028103 #Baiyerohi
+	culture=yoruba
+	religion=ashari
+	2642.12.11={ birth=yes }
+	2700.1.1={ death=yes }
+}
+1965612={
+	name="Idirisu"
+	dynasty=1030004 #Isakoto
+	culture=ebira
+	religion=ashari
 	2642.12.11={ birth=yes }
 	2700.1.1={ death=yes }
 }

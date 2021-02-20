@@ -2,11 +2,12 @@
 title = c_ilorin
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_ilorin_1 = castle
 b_ilorin_2 = temple
 b_ilorin_3 = city
+b_ilorin_4 = castle
 
 # Misc
 culture = pijin

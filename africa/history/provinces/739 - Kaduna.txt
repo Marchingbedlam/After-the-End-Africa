@@ -2,11 +2,13 @@
 title = c_kaduna
 
 # Settlements
-max_settlements = 3
+max_settlements = 6
 
 b_kaduna_1 = castle
 b_kaduna_2 = temple
 b_kaduna_3 = city
+b_kaduna_4 = temple
+b_kaduna_5 = castle
 
 # Misc
 culture = pijin

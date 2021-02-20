@@ -2,11 +2,12 @@
 title = c_lokoja
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_lokoja_1 = castle
-b_lokoja_2 = temple
+b_lokoja_2 = castle
 b_lokoja_3 = city
+b_lokoja_4 = temple
 
 # Misc
 culture = pijin

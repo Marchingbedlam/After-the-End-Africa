@@ -2,11 +2,12 @@
 title = c_bembereke
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_bembereke_1 = castle
-b_bembereke_2 = temple
+b_bembereke_2 = castle
 b_bembereke_3 = city
+b_bembereke_4 = temple
 
 # Misc
 culture = bariba

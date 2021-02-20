@@ -2,11 +2,12 @@
 title = c_kukawa
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_kukawa_1 = castle
 b_kukawa_2 = temple
 b_kukawa_3 = city
+b_kukawa_4 = castle
 
 # Misc
 culture = kanuri

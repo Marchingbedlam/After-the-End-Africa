@@ -5,8 +5,7 @@ title = c_bali
 max_settlements = 3
 
 b_bali_1 = castle
-b_bali_2 = temple
-b_bali_3 = city
+b_bali_2 = city
 
 # Misc
 culture = fulbe

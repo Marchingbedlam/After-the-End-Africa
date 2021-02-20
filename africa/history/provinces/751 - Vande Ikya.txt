@@ -9,7 +9,7 @@ b_vande_ikya_2 = temple
 b_vande_ikya_3 = city
 
 # Misc
-culture = grassfields
+culture = tiv
 religion = anglican
 
 #History

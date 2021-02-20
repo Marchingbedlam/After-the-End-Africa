@@ -2,11 +2,12 @@
 title = c_maiduguri
 
 # Settlements
-max_settlements = 3
+max_settlements = 5
 
 b_maiduguri_1 = castle
-b_maiduguri_2 = temple
-b_maiduguri_3 = city
+b_maiduguri_2 = city
+b_maiduguri_3 = castle
+b_maiduguri_4 = castle
 
 # Misc
 culture = kanuri

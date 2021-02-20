@@ -2,14 +2,14 @@
 title = c_otukpo
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_otukpo_1 = castle
-b_otukpo_2 = temple
+b_otukpo_2 = castle
 b_otukpo_3 = city
 
 # Misc
 culture = idoma
-religion = anglican
+religion = catholic
 
 #History

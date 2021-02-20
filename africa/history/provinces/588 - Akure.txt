@@ -2,11 +2,12 @@
 title = c_akure
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_akure_1 = castle
 b_akure_2 = temple
-b_akure_3 = city
+#b_akure_3 = city
+b_akure_4 = castle
 
 # Misc
 culture = yoruba

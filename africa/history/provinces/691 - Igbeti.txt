@@ -2,14 +2,14 @@
 title = c_igbeti
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_igbeti_1 = castle
-b_igbeti_2 = temple
-b_igbeti_3 = city
+b_igbeti_2 = castle
+b_igbeti_3 = temple
 
 # Misc
 culture = yoruba
-religion = anglican #yoruba
+religion = ashari #yoruba
 
 #History

@@ -2,11 +2,12 @@
 title = c_kagoro
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_kagoro_1 = castle
-b_kagoro_2 = temple
+b_kagoro_2 = castle
 b_kagoro_3 = city
+b_kagoro_4 = castle
 
 # Misc
 culture = plateau

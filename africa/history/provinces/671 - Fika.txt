@@ -2,11 +2,12 @@
 title = c_fika
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_fika_1 = castle
-b_fika_2 = temple
+b_fika_2 = castle
 b_fika_3 = city
+b_fika_4 = castle
 
 # Misc
 culture = kanuri

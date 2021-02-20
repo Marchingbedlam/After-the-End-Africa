@@ -2,14 +2,15 @@
 title = c_wamba
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_wamba_1 = castle
-b_wamba_2 = temple
-b_wamba_3 = city
+b_wamba_2 = castle
+b_wamba_3 = temple
+b_wamba_4 = city
 
 # Misc
-culture = plateau
-religion = anglican
+culture = gbagi
+religion = ashari
 
 #History

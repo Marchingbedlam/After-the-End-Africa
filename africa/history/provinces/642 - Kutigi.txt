@@ -5,11 +5,11 @@ title = c_kutigi
 max_settlements = 3
 
 b_kutigi_1 = castle
-b_kutigi_2 = temple
+b_kutigi_2 = castle
 b_kutigi_3 = city
 
 # Misc
-culture = nupe
+culture = gbagi
 religion = ashari
 
 #History

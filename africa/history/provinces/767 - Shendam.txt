@@ -2,10 +2,10 @@
 title = c_shendam
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_shendam_1 = castle
-b_shendam_2 = temple
+b_shendam_2 = castle
 b_shendam_3 = city
 
 # Misc

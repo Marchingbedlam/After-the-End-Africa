@@ -9,7 +9,7 @@ b_akamkpa_2 = temple
 b_akamkpa_3 = city
 
 # Misc
-culture = grassfields
-religion = anglican
+culture = kainji
+religion = ashari
 
 #History

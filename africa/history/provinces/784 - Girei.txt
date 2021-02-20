@@ -5,11 +5,10 @@ title = c_girei
 max_settlements = 3
 
 b_girei_1 = castle
-b_girei_2 = temple
-b_girei_3 = city
+b_girei_2 = city
 
 # Misc
-culture = bura_higi
+culture = fulbe
 religion = ashari
 
 #History

@@ -2,7 +2,7 @@
 title = c_ondo
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_ondo_1 = castle
 b_ondo_2 = temple

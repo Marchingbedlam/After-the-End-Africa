@@ -4,9 +4,7 @@ title = c_gembu
 # Settlements
 max_settlements = 3
 
-b_gembu_1 = castle
-b_gembu_2 = temple
-b_gembu_3 = city
+b_gembu_1 = tribal
 
 # Misc
 culture = mambila

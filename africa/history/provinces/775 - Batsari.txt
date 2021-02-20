@@ -1,12 +1,12 @@
 # County Title
-title = c_batsari
+title = c_daura
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_batsari_1 = castle
-b_batsari_2 = temple
-b_batsari_3 = city
+b_daura_1 = castle
+b_daura_2 = temple
+b_daura_3 = city
 
 # Misc
 culture = hausa

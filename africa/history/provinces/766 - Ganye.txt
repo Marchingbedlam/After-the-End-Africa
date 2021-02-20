@@ -5,8 +5,8 @@ title = c_ganye
 max_settlements = 3
 
 b_ganye_1 = castle
-b_ganye_2 = temple
-b_ganye_3 = city
+b_ganye_2 = city
+b_ganye_3 = castle
 
 # Misc
 culture = dakoid

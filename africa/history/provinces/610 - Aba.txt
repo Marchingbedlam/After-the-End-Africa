@@ -2,11 +2,12 @@
 title = c_aba
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_aba_1 = castle
-b_aba_2 = temple
-b_aba_3 = city
+b_aba_2 = city
+b_aba_3 = castle
+b_aba_4 = castle
 
 # Misc
 culture = igbo

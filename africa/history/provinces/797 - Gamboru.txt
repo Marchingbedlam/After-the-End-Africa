@@ -5,8 +5,7 @@ title = c_gamboru
 max_settlements = 3
 
 b_gamboru_1 = castle
-b_gamboru_2 = temple
-b_gamboru_3 = city
+b_gamboru_2 = city
 
 # Misc
 culture = kanuri

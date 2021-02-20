@@ -2,11 +2,12 @@
 title = c_potiskum
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_potiskum_1 = castle
 b_potiskum_2 = temple
 b_potiskum_3 = city
+b_potiskum_4 = city
 
 # Misc
 culture = kanuri

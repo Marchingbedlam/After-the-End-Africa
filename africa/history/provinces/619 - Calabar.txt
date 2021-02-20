@@ -2,11 +2,12 @@
 title = c_calabar
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_calabar_1 = castle
-b_calabar_2 = temple
+b_calabar_2 = castle
 b_calabar_3 = city
+b_calabar_4 = temple
 
 # Misc
 culture = cross_river

@@ -2,11 +2,12 @@
 title = c_abomey
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_abomey_1 = castle
 b_abomey_2 = temple
 b_abomey_3 = city
+#b_abomey_4 = city
 
 # Misc
 culture = fon

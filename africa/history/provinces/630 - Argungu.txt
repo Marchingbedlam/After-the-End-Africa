@@ -2,7 +2,7 @@
 title = c_argungu
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_argungu_1 = castle
 b_argungu_2 = temple

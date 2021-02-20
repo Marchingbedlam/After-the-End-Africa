@@ -2,11 +2,12 @@
 title = c_ijebu
 
 # Settlements
-max_settlements = 3
+max_settlements = 5
 
 b_ijebu_1 = castle
-b_ijebu_2 = temple
-b_ijebu_3 = city
+b_ijebu_2 = castle
+b_ijebu_3 = castle
+b_ijebu_4 = city
 
 # Misc
 culture = yoruba

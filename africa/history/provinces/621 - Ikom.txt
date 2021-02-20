@@ -5,8 +5,7 @@ title = c_ikom
 max_settlements = 3
 
 b_ikom_1 = castle
-b_ikom_2 = temple
-b_ikom_3 = city
+b_ikom_2 = castle
 
 # Misc
 culture = cross_river

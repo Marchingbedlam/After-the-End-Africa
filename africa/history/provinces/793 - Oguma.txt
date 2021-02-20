@@ -5,11 +5,11 @@ title = c_oguma
 max_settlements = 3
 
 b_oguma_1 = castle
-b_oguma_2 = temple
-b_oguma_3 = city
+b_oguma_2 = castle
+b_oguma_3 = temple
 
 # Misc
-culture = kainji
+culture = nupe
 religion = anglican
 
 #History

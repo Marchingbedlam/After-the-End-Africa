@@ -2,11 +2,12 @@
 title = c_gboko
 
 # Settlements
-max_settlements = 3
+max_settlements = 5
 
 b_gboko_1 = castle
 b_gboko_2 = temple
 b_gboko_3 = city
+b_gboko_4 = city
 
 # Misc
 culture = tiv

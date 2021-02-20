@@ -5,8 +5,8 @@ title = c_nguru
 max_settlements = 3
 
 b_nguru_1 = castle
-b_nguru_2 = temple
-b_nguru_3 = city
+b_nguru_2 = city
+b_nguru_3 = temple
 
 # Misc
 culture = kanuri

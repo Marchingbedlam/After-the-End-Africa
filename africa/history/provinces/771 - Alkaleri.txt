@@ -5,8 +5,7 @@ title = c_alkaleri
 max_settlements = 3
 
 b_alkaleri_1 = castle
-b_alkaleri_2 = temple
-b_alkaleri_3 = city
+b_alkaleri_2 = city
 
 # Misc
 culture = bole

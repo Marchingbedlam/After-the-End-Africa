@@ -2,11 +2,12 @@
 title = c_wase
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_wase_1 = castle
-b_wase_2 = temple
+b_wase_2 = castle
 b_wase_3 = city
+b_wase_4 = castle
 
 # Misc
 culture = plateau

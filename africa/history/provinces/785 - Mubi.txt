@@ -5,8 +5,7 @@ title = c_mubi
 max_settlements = 3
 
 b_mubi_1 = castle
-b_mubi_2 = temple
-b_mubi_3 = city
+b_mubi_2 = city
 
 # Misc
 culture = bura_higi

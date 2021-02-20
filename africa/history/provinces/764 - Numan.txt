@@ -2,14 +2,14 @@
 title = c_numan
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_numan_1 = castle
-b_numan_2 = temple
+b_numan_2 = castle
 b_numan_3 = city
 
 # Misc
-culture = fulbe
+culture = bura_higi
 religion = ashari
 
 #History

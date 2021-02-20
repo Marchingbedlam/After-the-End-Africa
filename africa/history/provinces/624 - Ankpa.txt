@@ -2,11 +2,12 @@
 title = c_ankpa
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_ankpa_1 = castle
-b_ankpa_2 = temple
-b_ankpa_3 = city
+b_ankpa_2 = castle
+b_ankpa_3 = temple
+b_ankpa_4 = city
 
 # Misc
 culture = igala

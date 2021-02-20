@@ -2,11 +2,11 @@
 title = c_pankshin
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_pankshin_1 = castle
-b_pankshin_2 = temple
-b_pankshin_3 = city
+b_pankshin_2 = city
+b_pankshin_3 = castle
 
 # Misc
 culture = angas

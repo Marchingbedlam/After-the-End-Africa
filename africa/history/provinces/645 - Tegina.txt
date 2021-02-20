@@ -2,11 +2,12 @@
 title = c_tegina
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_tegina_1 = castle
-b_tegina_2 = temple
+b_tegina_2 = castle
 b_tegina_3 = city
+b_tegina_4 = castle
 
 # Misc
 culture = gbagi

@@ -1,12 +1,13 @@
 # County Title
-title = c_kwali
+title = c_bida
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_kwali_1 = castle
-b_kwali_2 = temple
-b_kwali_3 = city
+b_bida_1 = castle
+b_bida_2 = castle
+b_bida_3 = city
+b_bida_4 = temple
 
 # Misc
 culture = nupe

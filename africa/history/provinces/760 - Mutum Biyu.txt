@@ -5,8 +5,7 @@ title = c_mutum_biyu
 max_settlements = 3
 
 b_mutum_biyu_1 = castle
-b_mutum_biyu_2 = temple
-b_mutum_biyu_3 = city
+b_mutum_biyu_2 = city
 
 # Misc
 culture = fulbe

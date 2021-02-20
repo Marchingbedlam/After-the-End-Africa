@@ -1,0 +1,16 @@
+# County Title
+title = c_auchi
+
+# Settlements
+max_settlements = 4
+
+b_auchi_1 = castle
+b_auchi_2 = castle
+b_auchi_3 = city
+#b_auchi_4 = temple
+
+# Misc
+culture = edo
+religion = anglican
+
+#History

@@ -2,11 +2,12 @@
 title = c_osogbo
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_osogbo_1 = castle
-b_osogbo_2 = temple
-b_osogbo_3 = city
+b_osogbo_2 = castle
+b_osogbo_3 = castle
+b_osogbo_4 = temple
 
 # Misc
 culture = yoruba

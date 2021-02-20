@@ -5,8 +5,7 @@ title = c_takum
 max_settlements = 3
 
 b_takum_1 = castle
-b_takum_2 = temple
-b_takum_3 = city
+b_takum_2 = city
 
 # Misc
 culture = jukun

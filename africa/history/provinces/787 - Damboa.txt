@@ -2,10 +2,10 @@
 title = c_damboa
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_damboa_1 = castle
-b_damboa_2 = temple
+b_damboa_2 = castle
 b_damboa_3 = city
 
 # Misc

@@ -2,11 +2,12 @@
 title = c_idah
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_idah_1 = castle
-b_idah_2 = temple
+b_idah_2 = castle
 b_idah_3 = city
+b_idah_4 = castle
 
 # Misc
 culture = igala

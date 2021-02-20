@@ -2,11 +2,12 @@
 title = c_shinkafi
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_shinkafi_1 = castle
 b_shinkafi_2 = temple
-b_shinkafi_3 = city
+b_shinkafi_3 = castle
+b_shinkafi_4 = city
 
 # Misc
 culture = hausa

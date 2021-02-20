@@ -2,7 +2,7 @@
 title = c_iseyin
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_iseyin_1 = castle
 b_iseyin_2 = temple

@@ -2,14 +2,15 @@
 title = c_parakou
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_parakou_1 = castle
-b_parakou_2 = temple
-b_parakou_3 = city
+b_parakou_2 = castle
+b_parakou_3 = temple
+b_parakou_4 = city
 
 # Misc
-culture = gurunsi
-religion = catholic
+culture = yoruba
+religion = anglican
 
 #History

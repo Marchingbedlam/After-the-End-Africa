@@ -2,11 +2,11 @@
 title = c_ningi
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_ningi_1 = castle
-b_ningi_2 = temple
-b_ningi_3 = city
+b_ningi_2 = castle
+b_ningi_3 = temple
 
 # Misc
 culture = hausa

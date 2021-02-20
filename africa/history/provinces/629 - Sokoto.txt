@@ -2,11 +2,12 @@
 title = c_sokoto
 
 # Settlements
-max_settlements = 3
+max_settlements = 5
 
 b_sokoto_1 = castle
 b_sokoto_2 = temple
 b_sokoto_3 = city
+b_sokoto_4 = castle
 
 # Misc
 culture = hausa

@@ -2,11 +2,12 @@
 title = c_funtua
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_funtua_1 = castle
 b_funtua_2 = temple
-b_funtua_3 = city
+b_funtua_3 = castle
+b_funtua_4 = town
 
 # Misc
 culture = hausa

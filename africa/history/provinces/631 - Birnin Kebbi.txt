@@ -2,11 +2,12 @@
 title = c_birnin_kebbi
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_birnin_kebbi_1 = castle
 b_birnin_kebbi_2 = temple
 b_birnin_kebbi_3 = city
+b_birnin_kebbi_4 = castle
 
 # Misc
 culture = hausa

@@ -9,7 +9,7 @@ b_tchaourou_2 = temple
 b_tchaourou_3 = city
 
 # Misc
-culture = yoruba
-religion = anglican
+culture = gurunsi
+religion = catholic
 
 #History

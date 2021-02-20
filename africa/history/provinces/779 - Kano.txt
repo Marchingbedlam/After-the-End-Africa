@@ -2,11 +2,12 @@
 title = c_kano
 
 # Settlements
-max_settlements = 3
+max_settlements = 6
 
 b_kano_1 = castle
-b_kano_2 = temple
+b_kano_2 = city
 b_kano_3 = city
+b_kano_4 = city
 
 # Misc
 culture = hausa

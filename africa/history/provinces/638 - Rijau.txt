@@ -5,11 +5,10 @@ title = c_rijau
 max_settlements = 3
 
 b_rijau_1 = castle
-b_rijau_2 = temple
-b_rijau_3 = city
+b_rijau_2 = city
 
 # Misc
-culture = kainji
+culture = nupe
 religion = ashari
 
 #History

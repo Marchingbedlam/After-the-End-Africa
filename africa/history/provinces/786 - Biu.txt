@@ -2,14 +2,14 @@
 title = c_biu
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_biu_1 = castle
-b_biu_2 = temple
+b_biu_2 = castle
 b_biu_3 = city
 
 # Misc
-culture = kanuri
+culture = bura_higi
 religion = ashari
 
 #History

@@ -2,11 +2,12 @@
 title = c_nasarawa
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_nasarawa_1 = castle
-b_nasarawa_2 = temple
+b_nasarawa_2 = castle
 b_nasarawa_3 = city
+b_nasarawa_4 = temple
 
 # Misc
 culture = gbagi

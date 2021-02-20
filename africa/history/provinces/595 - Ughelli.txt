@@ -2,14 +2,15 @@
 title = c_ughelli
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_ughelli_1 = castle
-b_ughelli_2 = temple
+b_ughelli_2 = castle
 b_ughelli_3 = city
+b_ughelli_4 = castle
 
 # Misc
-culture = ijo
+culture = urhobo
 religion = anglican
 
 #History
