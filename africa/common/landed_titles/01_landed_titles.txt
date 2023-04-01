@@ -25,6 +25,6 @@ e_pirates = {
 
 
 #####landed
-	
+
 
 # Titles should go in the file for the respective area.

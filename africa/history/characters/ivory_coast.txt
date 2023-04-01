@@ -9,9 +9,9 @@
 	trait=gluttonous
 	trait=is_fat
 	trait=content
-	trait=gregarious 
+	trait=gregarious
 	trait=tough_soldier
-	
+
 	2617.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
@@ -27,7 +27,7 @@
 	trait=diligent
 	trait=intricate_webweaver
 	trait=paranoid
-	
+
 	2641.1.1={birth=yes}
 	2659.1.1={effect={add_rival=1899032}}
 	2700.1.1={death=yes}
@@ -37,7 +37,7 @@
 	dynasty=1505016
 	culture=baoule
 	religion=catholic
-	
+
 	2611.1.1={birth=yes}
 	2659.1.1={
 		death={
@@ -62,13 +62,13 @@
 	trait=proud
 	trait=sympathy_pagans
 	trait=sympathy_islam
-	
+
 	2599.1.1={birth=yes}
 	2625.1.1={add_spouse=1800018}
 	2700.1.1={death=yes}
 }
 1800007={
-	name="Amédée" 
+	name="Amédée"
 	dynasty=1505052 #N'Dake
 	culture=baoule
 	religion=catholic
@@ -83,7 +83,7 @@
 	trait=wroth
 	trait=dishonorable
 	trait=zealous
-	
+
 	2626.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
@@ -104,7 +104,7 @@
 	trait=celibate
 	trait=shy
 	trait=is_twin
-	
+
 	2630.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
@@ -119,7 +119,7 @@
 	trait=content
 	trait=honest
 	trait=tough_soldier
-	
+
 	2629.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
@@ -133,7 +133,7 @@
 	trait=just
 	trait=brave
 	trait=weak
-	
+
 	2652.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
@@ -150,7 +150,7 @@
 	trait=diligent
 	trait=shrewd
 	trait=scholarly_theologian
-	
+
 	2636.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
@@ -163,25 +163,25 @@
 	trait=cruel
 	trait=ambitious
 	trait=zealous
-	
+
 	2632.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
 1800014={
-	name="Sinan" 
+	name="Sinan"
 	dynasty=1844015
 	culture=senufo
 	religion=ashari
-	
+
 	2630.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
 1800015={
-	name="Gonsahn" 
+	name="Gonsahn"
 	dynasty=1203004
 	culture=dan
 	religion=ashari
-	
+
 	2630.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
@@ -201,7 +201,7 @@
 	trait=humble
 	trait=monk
 	trait=is_twin
-	
+
 	2630.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
@@ -220,7 +220,7 @@
 	trait=musician
 	trait=shrewd
 	trait=frail
-	
+
 	2633.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
@@ -237,21 +237,21 @@
 	trait=erudite
 	trait=content
 	trait=temperate
-	
+
 	2602.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
 1800019={
-	name="Idrissa" 
+	name="Idrissa"
 	dynasty=1401000 #Traore
 	culture=manding
 	religion=marabouti
-	
+
 	2630.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
 1800020={
-	name="Istifanous" 
+	name="Istifanous"
 	dynasty=2703002 #Zgheib
 	culture=afrolebanese
 	religion=catholic

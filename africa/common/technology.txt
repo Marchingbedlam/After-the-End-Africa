@@ -11,7 +11,7 @@ TECH_GROUP_MILITARY = {
 			pikemen_morale = 0.4
 			handgunners_defensive = 0.6
 			handgunners_morale = 0.4
-		}	
+		}
 	}
 	TECH_CAVALRY = {
 		modifier = {
@@ -37,7 +37,7 @@ TECH_GROUP_MILITARY = {
 			handgunners_offensive = 0.6
 			custom_modifier_text  = better_skirmisher_tactics_custom_modifier_tt
 		}
-			
+
 	}
 	TECH_MELEE = {
 		modifier = {
@@ -299,7 +299,7 @@ TECH_GROUP_ECONOMY = {
 #		modifier = {
 #			TEMPLE_TAX_MODIFIER = 0.5
 #		}
-#		1 = { 
+#		1 = {
 #			add_building = tp_barracks_3
 #			add_building = tp_town_3
 #			add_building = no_shrine_2
@@ -453,7 +453,7 @@ TECH_GROUP_ECONOMY = {
 			wonder_build_cost_modifier = -0.15
 		}
 		1= {
-		
+
 		}
 		2 = {
 			add_building = hospital_building_1
@@ -466,7 +466,7 @@ TECH_GROUP_ECONOMY = {
 			add_building = translation_house_1
 			add_building = pilgrims_inn_1
 			add_building = library_1
-			
+
 		}
 		4 = {
 			add_building = hospital_building_3

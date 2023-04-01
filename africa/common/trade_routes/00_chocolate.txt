@@ -1,6 +1,6 @@
 chocolate_trade = { # North Atlantic route
 	wealth = 100			# Total base wealth of silk route
-	
+
 	trade_post_display_trigger = {
 		OR = {
 			province_id = 102
@@ -25,7 +25,7 @@ chocolate_trade = { # North Atlantic route
 	start = {				# Start provinces of trade route
 		102
 	}
-	
+
 	# Abidjan - Santiago
 	path = {
 		 102 101 100 99 1 2 3 5 6 4 15 14 22 19 23 25 29 28 52 50 51 57 56 62 63 61 158 161

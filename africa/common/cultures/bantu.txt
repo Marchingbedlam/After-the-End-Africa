@@ -2,12 +2,12 @@
 bantu = {
 	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
 	graphical_cultures = { muslimgfx }
-	
+
 	bubi={
 		color = { 0.5 0.5 0.1 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			A-Löbari Armando_Armand
 			Beosá
@@ -24,7 +24,7 @@ bantu = {
 			Sás-Ebuera Sëpaókó Silvestre_Silvester Sipoto
 			Weja
 		}
-		
+
 		female_names = {
 			Aauri
 			Bisila
@@ -37,50 +37,50 @@ bantu = {
 
 		from_dynasty_prefix = "de "
 	}
-	
+
 	dakoid={
 		color = { 0.64 0.54 0.68 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
-			Aondochimba Aondohimba 
-			Bem Boseda 
-			Gowon 
-			Teremun Tertsegha Tor Tyehimba 
+			Aondochimba Aondohimba
+			Bem Boseda
+			Gowon
+			Teremun Tertsegha Tor Tyehimba
 			Wandoo
-			
+
 			Amosa Kaytuhn Kemajou Kwamba Mbe Tohnain
-			
+
 			Builsa Babato Gazari Alfa Dyori Bako Laganfyela Ali Kokoroko Sabana Tyeba Pintyeba Karamoko Sapilem Nyambre Salma Korongo Koom Yamba
-			
-			Sorgo Tigre Dulugu Sawadogo Karfo Baongo Kutu Wobgo Mazi 
-			Sigiri Saaga Kugri Yadega Yolomfaogona Kourita Geda Wobgho Kango Saaga Kaongo Tuguri Korogo Ragongo 
+
+			Sorgo Tigre Dulugu Sawadogo Karfo Baongo Kutu Wobgo Mazi
+			Sigiri Saaga Kugri Yadega Yolomfaogona Kourita Geda Wobgho Kango Saaga Kaongo Tuguri Korogo Ragongo
 			Nyambe Moogo Totebaldbo Yemde Sanum Woboga Piiyo Bulli Wedraogo Ligidi Kobga Gigma Dramani
 		}
-		
+
 		female_names = {
-			Hembadoon 
-			Ityiarmbiamo Iverem 
-			Limber 
-			Mhnonum Mhonum Morihinze 
-			Shiminege 
-			Wandoo 
+			Hembadoon
+			Ityiarmbiamo Iverem
+			Limber
+			Mhnonum Mhonum Morihinze
+			Shiminege
+			Wandoo
 			Yahimba
-			
-			Poko Kenga Adaeze Adanna Adannaya Akachi Akuchi Amaka Schiamaka Amara Amarachi Añuli Chi 
-			Chiamaka Chibueze Chibuike Chibuzo Chichi Chidi Chidiebere Chidiebube Chidiegwu Chidimma Chijindum Chika  
-			Chike Chikelu Chikere Chinasa Chinedu Chinonso Chinwe Chinweike Chinwendu Chinweuba Chinyelu Chinyere 
-			Chioma Chizoba Ebele Ekene Ekenedilichukwu Fumnanya Funanya Ndidi Ngozi Nkechi Nkechinyere Nkemdilim Nkiru 
+
+			Poko Kenga Adaeze Adanna Adannaya Akachi Akuchi Amaka Schiamaka Amara Amarachi Añuli Chi
+			Chiamaka Chibueze Chibuike Chibuzo Chichi Chidi Chidiebere Chidiebube Chidiegwu Chidimma Chijindum Chika
+			Chike Chikelu Chikere Chinasa Chinedu Chinonso Chinwe Chinweike Chinwendu Chinweuba Chinyelu Chinyere
+			Chioma Chizoba Ebele Ekene Ekenedilichukwu Fumnanya Funanya Ndidi Ngozi Nkechi Nkechinyere Nkemdilim Nkiru
 			Nkiruka Nneka Nnenna Nnenne Nwanneka Ogechi Ogechukwukama Oluchi Onyeka Onyekachi Onyekachukwu Udo Uzoma
 		}
 	}
-	
+
 	grassfields={
 		color = { 0.78 0.60 0.41 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Abenicot Abumbi Achidi Achirimbi Adolphe Alain_Alan Albert Angwafo Antoine_Anthony Armand Augustine
 			Bernard Bruno
@@ -103,7 +103,7 @@ bantu = {
 			Wiyghan
 			Zavier_Xavier
 		}
-		
+
 		female_names = {
 			Carine
 			Hilda
@@ -117,12 +117,12 @@ bantu = {
 			Yvonne
 		}
 	}
-	
+
 	mambila={
 		color = { 0.51 0.63 0.85 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Abdulbari Atiku Auwal
 			Bawuro
@@ -143,7 +143,7 @@ bantu = {
 			Yabon Yaji Yié Yilayor Yokoten
 			Zacharé_Zachary
 		}
-		
+
 		female_names = {
 			Bere
 			Marceline
@@ -151,12 +151,12 @@ bantu = {
 			Weke
 		}
 	}
-	
+
 	tiv={
 		color = { 0.88 0.57 0.71 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Akawe Akiga Akperan Alfred Andyar Aper Atah Atom Aul Austin
 			Barnabas Benjamin
@@ -177,7 +177,7 @@ bantu = {
 			Viashima Victor Vitalis
 			Zakary_Zachary
 		}
-		
+
 		female_names = {
 			Adeior
 			Cecilia
@@ -192,9 +192,9 @@ bantu = {
 	}
 	kongo={
 		color = { 0.22 0.9 0.64 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Abel Alexio_Alexis Álvaro Ambrósio André_Andrew Artur_Arthur
 			Bahelele Belchior Bernard
@@ -214,7 +214,7 @@ bantu = {
 			Waldemar_Valdemar
 			Yelson
 		}
-		
+
 		female_names = {
 			Amelia Anna_Anne Aqualtune
 			Bazola Betelisi_Beatrice
@@ -241,18 +241,18 @@ bantu = {
 		from_dynasty_prefix = "de "
 		male_patronym = "a "
 		female_patronym = "a "
-		prefix = yes 
+		prefix = yes
 	}
 	fang={
 		color = { 0.5 0.6 0.3 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Alain_Alan Ámery André_Andrew Ángel_Angel Anselmo_Anselm Anthony Aristide Armand Armengol Arsène Augustin_Augustine Avelin Axel Aymardo
 			Basil Benedict Benjamin Bienvenudo Boris Bruno Buenaventure_Bonaventure
 			Cándide_Candide Carlos_Carl Casimir Catiline Claude Clément_Clement Cosme
-			Daniel David Didier Dieudono Donat_Donatus	
+			Daniel David Didier Dieudono Donat_Donatus
 			Edmundo_Edmund Eloy Emerick Emiliano_Aemilius Enrique_Henry Erwin Eusebio_Eusebius Evrard
 			Fabián_Fabian Fabrice Federick_Frederick Felipe_Philip Florencio_Florence Franck_Francis
 			Gabriel Gregorio_Gregory Gustavo_Gustav
@@ -270,7 +270,7 @@ bantu = {
 			Wenceslao Wilfried_Wilfred
 			Yannick Yves
 		}
-		
+
 		female_names = {
 			Ángela_Angela
 			Catilina Constancia_Constance
@@ -286,9 +286,9 @@ bantu = {
 	}
 	beti={
 		color = { 0.53 0.36 0.63 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Abe Achille Akeva Alexis André_Andrew André-Franck Atana
 			Biyidi
@@ -311,7 +311,7 @@ bantu = {
 			Yannick
 			Zoa
 		}
-		
+
 		female_names = {
 			Adèle_Adele Agnès_Agnes Aurelle
 			Claudine
@@ -327,9 +327,9 @@ bantu = {
 	}
 	sawa={
 		color = { 0.4 0.5 0.2 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Abel Adolphe_Adolf Albert Alexander Aloys
 			Betote Bruno
@@ -350,7 +350,7 @@ bantu = {
 			Samuel
 			Walter William Woloa
 		}
-		
+
 		female_names = {
 			Charlotte Constance
 			Elsa
@@ -361,13 +361,13 @@ bantu = {
 
 		male_patronym = "a "
 		female_patronym = "a "
-		prefix = yes 
+		prefix = yes
 	}
 	teke={
 		color = { 0.2 0.3 0.1 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Adrien_Adrian Alain_alan Albert Auguste_Augustus
 			Banoho Bernard
@@ -377,7 +377,7 @@ bantu = {
 			Omar
 			Pascal
 		}
-		
+
 		female_names = {
 			Marie_Mary
 			Ngalifourou
@@ -385,9 +385,9 @@ bantu = {
 	}
 	zande={
 		color = { 0.8 0.9 0.7 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Agaba Akengai Angbele Ango Asigbara
 			Badiyo Bafuka Bafurumai Bagbandara Bagboro Bagilisa Bagundusu Baikpolo Baipuru Bakangai Bakekpe Bakiyanda Bakorodi Bamboti Bangbi Banginzegino Bangoya Bangumbiyo Basa Basongoda Bauli Bavurubele Bazamangi Bazeria Bazingbi Bazo Beka Bewadi Biemangi Bima Binikpele Binza Boemi Bogua Bokweyo Boli Boro Borugba Bugwa Bungi Bungusue Busia
@@ -410,7 +410,7 @@ bantu = {
 			Yakpati Yangiliya Yango Yepu
 			Zabia Zai Zakala Zamoma Zangbaberu Zaza Zebu Zegi Zemoi Zengendi Zingbondo Zingbwadu Zogozogo Zoli
 		}
-		
+
 		female_names = {
 			Dunge
 			Naduru Nagbakoyo
@@ -418,9 +418,9 @@ bantu = {
 	}
 	gbaya={
 		color = { 0.51 0.77 0.41 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Abel Alexandre_Alexander Alexandre-Ferdinand André_Andrew André-Dieudonné Ange-Félix Anicet-Georges Anicet-Richard Antoine_Anthony
 			Barthélemy_Bartholomew Béranger-Aymard Bernard Bosokuma Bruno Bruno-Nazaire
@@ -440,7 +440,7 @@ bantu = {
 			Timothée_Timothy
 			Yaloké
 		}
-		
+
 		female_names = {
 			Adeline Adrienne_Adriana
 			Bertille-Mallorie Brigitte_Bridget
@@ -457,9 +457,9 @@ bantu = {
 	}
 	banda={
 		color = { 0.15 0.77 0.14 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Abel Achille_Achilles Alexandre_Alexander André_Andrew
 			Célestin
@@ -468,7 +468,7 @@ bantu = {
 			Henri_Henry
 			Leroy
 		}
-		
+
 		female_names = {
 			Augustine
 			Marie_Mary Marie-Josèphe
@@ -476,9 +476,9 @@ bantu = {
 	}
 	sango={
 		color = { 0.47 0.71 0.11 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Abel Achille_Achilles Albéric Albert-Philippe Alexandre_Alexander André_Andrew
 			Célestin
@@ -490,7 +490,7 @@ bantu = {
 			Leroy Lézian
 			Ndounga Ngoungbengué Nyiwa Nzanga
 		}
-		
+
 		female_names = {
 			Augustine
 			Marie_Mary Marie-Josèphe Marie-Madeleine
@@ -498,9 +498,9 @@ bantu = {
 	}
 	ambundu={
 		color = { 0.94 0.86 0.16 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Abel Adriano_Adrian Afonso_Alphonse Agostinho_Augustine Alberto_Albert Alexandre_Alexander Alfredo_Alfred António_Anthony Armando Avelino
 			Bernardo_Bernard Bornito
@@ -514,7 +514,7 @@ bantu = {
 			João_John Joaquim_Joachim Jofre_Geoffrey Jorge_George José_Joseph
 			Kambamba Kambolo Kasenda Kilombo Kiluanji
 			Lúcio_Lucius Luís_Louis
-			Manuel_Emmanuel Mário_Marius Mbande Mwongo 
+			Manuel_Emmanuel Mário_Marius Mbande Mwongo
 			Ndambi Norberto_Norbert
 			Oscar
 			Paulo_Paul Pedro_Peter
@@ -523,7 +523,7 @@ bantu = {
 			Viriato
 			Wilson
 		}
-		
+
 		female_names = {
 			Adelina Albertina Albina Aldina Amélia_Amelia Ana_Anne Anabela_Anabelle Angélica_Angelica Ansia
 			Barbara
@@ -542,13 +542,13 @@ bantu = {
 		from_dynasty_prefix = "de "
 		male_patronym = "kia "
 		female_patronym = "kia "
-		prefix = yes 
+		prefix = yes
 	}
 	ovimbundu={
 		color = { 0.46 0.78 0.9 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Abel Adriano_Adrian Aires Alberto_Albert Alcides Alicerces Almerindo Américo Amilcar_Hamilcar Anastácio_Anastasius Aníbal_Hannibal António_Anthony Arlindo Armindo Augusto_Augustus
 			Bartolomeu_Bartholomew Bernardo_Bernard Bongue Bonji
@@ -557,7 +557,7 @@ bantu = {
 			Eduardo_Edward Eguerreiro Ekongoliohombo Ekuikui Elias_Elijah Ernesto_Ernest Estanislau_Stanislav Estêvão_Stephen Eugenio_Eugene
 			Fernando_Ferdinand Filipe_Philip Francisco_Francis Frederico_Frederick
 			Henrique_Henry Hundungulo
-			Inácio_Ignatius Isaías_Isaiah 
+			Inácio_Ignatius Isaías_Isaiah
 			Jahulo Jeremias_Jeremiah João_John Jonas Jonatão_Jonathan Jorge_George José_Joseph Jungulo
 			Kalandula Kangovi Kapoko Katiavala
 			Livongue Lote Luís_Louis
@@ -572,7 +572,7 @@ bantu = {
 			Wilson
 			Zacarias_Zachary
 		}
-		
+
 		female_names = {
 			Albertina Alda Amélia_Amelia Astrida_Astrid
 			Cândida
@@ -589,13 +589,13 @@ bantu = {
 		from_dynasty_prefix = "de "
 		male_patronym = "kia "
 		female_patronym = "kia "
-		prefix = yes 
+		prefix = yes
 	}
 	lunda={
 		color = { 0.2 0.3 0.1 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Apolo
 			Benjamin
@@ -613,7 +613,7 @@ bantu = {
 			Rodrigue_Roderick
 			Sampweji Shadreck_Shadrach Sylvester
 		}
-		
+
 		female_names = {
 			Chikuta
 			Kalomba Kasela
@@ -624,9 +624,9 @@ bantu = {
 	}
 	zulu={
 		color = { 0.7 0.3 0.1 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Albert Alfred Amos Andrew Archibald Ayanda
 			Bafana Baldwin Benedict Bhambatha Bheki Bhekizizwe Bhekokwakhe Bhekumuzi Bizwekhaya Bongani Bonginkosi Brighton Busani Butho
@@ -652,7 +652,7 @@ bantu = {
 			Winston Wiseman
 			Zamani Zanefa Zibhebhu Zwakele Zwelithini
 		}
-		
+
 		female_names = {
 			Amanda
 			Bathabile Bukhosibemvelo Buthle
@@ -678,13 +678,13 @@ bantu = {
 
 		male_patronym = "ka"
 		female_patronym = "ka"
-		prefix = yes 
+		prefix = yes
 	}
 	xhosa={
 		color = { 0.6 0.4 0.2 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Abner Akhumzi Alcott Alfred Alphin Anathi Andile Archibald Arnold Ashby Atandwa Ayanda Azenathi
 			Barney Bennet Bernard Bhomoyi Bhongolwethu Bhurhu Bongani Bonginkosi Bonisile Bubele Bulelani Buyelekhaya
@@ -712,7 +712,7 @@ bantu = {
 			Yanga
 			Zabonke Zenith Zola Zwelakhe Zweledinga Zwelentlanga Zwelidumile Zwelinzima Zwelivelile Zwelonke
 		}
-		
+
 		female_names = {
 			Abigail Adelaide Albertina Amanda Annie_Anne Asanda
 			Baleka Brenda Busiswa Buyelwa
@@ -734,9 +734,9 @@ bantu = {
 	}
 	lozi={
 		color = { 0.66 0.66 0.22 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Aggrey Akashambatwa Akelumbela Akufuna Albert Alikunda
 			Boniface
@@ -758,7 +758,7 @@ bantu = {
 			Walusiku Wamulimungwa
 			Yeta Yubya
 		}
-		
+
 		female_names = {
 			Doreen
 			Inonge
@@ -770,9 +770,9 @@ bantu = {
 	}
 	kavango={
 		color = { 1.0 0.61 0.07 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Bonifatius_Boniface
 			Domingo_Dominic
@@ -788,7 +788,7 @@ bantu = {
 			Samuel Sebastian Shimwemwe Shirongo Sivute
 			Tjitunga
 		}
-		
+
 		female_names = {
 			Kanuni
 			Petrina
@@ -838,16 +838,16 @@ bantu = {
 			Ntchandi Ngondè Ngwanyoni Ngwéranga Ngwirunda Ngwessono Nianto Nkendini Nkoma Nkolonanga Nkorouna Ntchorere Ntchuoua_Antchouet Ntchungusono Ntchoungouwa Ngompaza Ntyugwetondo
 			Oguéwa Ogandaga Ogoumbogani Okili Okuwa Oliwina Omwèssa Opediuwa Orema Ozenga Ozimo Oronga Olga
 			Rapono Rébyénot Renkélé Rétiga Rose
-			Salet Sombouné 
+			Salet Sombouné
 			Wonguignewo Wora_Awora
 			Ziza
 		}
 	}
 	punu={
 		color = { 0.44 0.66 0.77 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			André_Andrew Antoine_Anthony Athanase
 			Cédric
@@ -863,7 +863,7 @@ bantu = {
 			Séraphin
 			Thomas-Dydyme
 		}
-		
+
 		female_names = {
 			Agathe Angélique_Angelica
 			Béatrice_Beatrice
@@ -877,9 +877,9 @@ bantu = {
 	}
 	chokwe={
 		color = { 0.80 0.50 0.30 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Chikomo Chilombo Chiminyi Chipango Chisambwe Chiseke Chisengo Chisola Chitengi Chivunda Chiyambi Chumba
 			Ezekele_Ezekiel
@@ -899,7 +899,7 @@ bantu = {
 			Yelemiya_Jeremiah Yopa_Job
 			Zakaliya_Zachary Zakeu Zangi
 		}
-		
+
 		female_names = {
 			Ana_Anne
 			Chilombo Chiminyi Chimupi Chipango Chipema Chisambwe Chiseke Chisola Chitotenema Chivunda
@@ -918,9 +918,9 @@ bantu = {
 	}
 	kota={
 		color = { 0.33 0.55 0.66 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Alexandre_Alexander
 			Emmanuel
@@ -929,31 +929,31 @@ bantu = {
 			Marc_Mark
 			Thibault Thomas
 		}
-		
+
 		female_names = {
 			Georgette
 		}
 	}
 	makaa={
 		color = { 0.55 0.77 0.88 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Gustave_Gustav
 			Joseph
 			Pierre_Peter
 		}
-		
+
 		female_names = {
 			Marie_Mary
 		}
 	}
 	bassa={
 		color = { 0.40 0.22 0.33 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Édounga Ékongo Étienne_Stephen
 			Hans
@@ -964,7 +964,7 @@ bantu = {
 			Patrice Pierre_Peter
 			Raphaël_Raphael Raymond
 		}
-		
+
 		female_names = {
 			Agrippine Akamba Awoundza
 			Casmile
@@ -978,9 +978,9 @@ bantu = {
 	}
 	tikar={
 		color = { 0.74 0.46 0.67 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Aboubakar_Abu-Bakr Adamou_Adam Ahmadou_Ahmed Alidou Arouna_Aaron
 			Benjamin Bentkom Bifon Bitegni
@@ -997,7 +997,7 @@ bantu = {
 			Tinki
 			Zacharie_Zachary
 		}
-		
+
 		female_names = {
 			Adamam
 			Florence
@@ -1006,6 +1006,6 @@ bantu = {
 
 		male_patronym = "a "
 		female_patronym = "a "
-		prefix = yes 
+		prefix = yes
 	}
 }

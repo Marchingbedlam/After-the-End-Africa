@@ -2,12 +2,12 @@
 krio_group = {
 	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
 	graphical_cultures = { muslimgfx }
-	
+
 	pijin = { #nigeria
 		color = { 0.65 0.35 0.4 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Abbiye Abiodun Ade Adeyamo Ajayi Akin Alexander Alex_Alexander Alexius_Alexander Andrew Arthur Augustus Azeez_Aziz
 			Babatunde Bankole Benedict Brian Bright Bode
@@ -32,7 +32,7 @@ krio_group = {
 			Wale William Will_William Willie_William
 			Yakub_Jacob Yemi
 		}
-		
+
 		female_names = {
 			Abigail Ada Adadevoh Adunni Aisha Aramide Aubrey Azariah
 			Bolanle

@@ -2,12 +2,12 @@
 senegambian = {
 	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
 	graphical_cultures = { muslimgfx }
-	
+
 	wolof = {
 		color = { 0.5 0.35 0.10 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			"Abdou Ahad" Abdoulaye_Abdullah Abdourahmane_Abdul-Rahman "Abdou Xaadir" Adama_Adam Ahmadou_Ahmed Alboury Ali "Aram Bakar" Assane_Hasan
 			Bachir_Bashir Bakan-Tam Birayam Blaise Borso Bukaar_Abu-Bakr Buri-Nyabu
@@ -20,14 +20,14 @@ senegambian = {
 			Khaari Kumba
 			Latir "Lat Jor" Lat-Kodu Laye Louis
 			Maalik_Malik Maalixuri Mahram Mbarick Mbaye "Mö Maalik" Mouhamadou_Muhammad Moukhtar_Mukhtar Mountakha Moustafaa_Mustafa
-			Ndiadian Niokhor Njak 
+			Ndiadian Niokhor Njak
 			Ousmane_Osman
 			Saayodo Sakhéwère Saliou
 			Tanor Teg-Rella Tende Tyukuli
 			Xerfi Xuri
 			Yaago Yérim Yoro Youssou
 		}
-		
+
 		female_names = {
 			Anta
 			Fatima
@@ -37,12 +37,12 @@ senegambian = {
 			Zahra
 		}
 	}
-	
+
 	serer = {
 		color = { 0.4 0.3 0.3 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Abdoulaye_Abdullah Abdourahmane_Abdul-Rahman Alassane_Alhassan Albert Alfred Alieu_Ali Assane_Hassan
 			"Bai Modi" Biram Boukar_Abu-Bakr Boureh
@@ -65,7 +65,7 @@ senegambian = {
 			Waigo Waaly_Wali
 			Yusupha_Joseph
 		}
-		
+
 		female_names = {
 			Aisatu Anna
 			Fatou
@@ -75,9 +75,9 @@ senegambian = {
 	}
 	jola = {
 		color = { 0.1 0.3 0.1 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Abdoulie_Abdullah Abdul-Aziz Abibou Adama_Adam Afansu Alasanne_Alhassan Alexandre_Alexander Alfred Aliou_Ali Amadou_Ahmed Ambroise_Ambrose Antoine_Anthony Assan_Hassan Augustin_Augustine
 			Baboucarr-Blaise Baboucarr-Hassan Baboucarr-Jean Bacary_Abu-Bakr Badou Basile_Basil Bassiro Bernard Boulai
@@ -90,7 +90,7 @@ senegambian = {
 			James Jaysuma Jean-Bosco Jemus Joseph Jules_Julius Junkung
 			Lamin Landing Lang Louis
 			Malick_Malik Maxient Malang Matar Modou Momodou_Muhammad Moulaye_Mulay Moussa_Moses Moustapha_Mustafa
-			Nfamara Nierikoun 
+			Nfamara Nierikoun
 			Olivier_Oliver Oumar_Omar Ousainou_Hussayn Ousmane_Osman
 			Paul Pierre_Peter
 			Robert Roger
@@ -98,7 +98,7 @@ senegambian = {
 			Wouli_Wali
 			Yahya_John Youba
 		}
-		
+
 		female_names = {
 			Aja Aguene Aissatou_Aisha Aline Ashombi
 			Bintanding

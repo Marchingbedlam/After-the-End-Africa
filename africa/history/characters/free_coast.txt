@@ -34,7 +34,7 @@
 	trait=proud
 	trait=brave
 	trait=stubborn
-	
+
 	2620.4.10={birth=yes}
 	2669.1.5={death=yes}
 }
@@ -54,7 +54,7 @@
 	trait=chaste
 	trait=paranoid
 	trait=zealous
-	
+
 	2620.4.10={birth=yes}
 	2669.1.5={death=yes}
 }
@@ -79,7 +79,7 @@
 	trait=humble
 	trait=patient
 	trait=garveyite
-	
+
 	2634.6.21={birth=yes}
 	3000.3.1={death=yes}
 }
@@ -98,7 +98,7 @@
 	trait=brave
 	trait=chaste
 	trait=trusting
-	
+
 	2640.4.10={birth=yes}
 	2679.1.5={death=yes}
 }
@@ -114,7 +114,7 @@
 	intrigue=4
 	learning=5
 	trait=brilliant_strategist
-	trait=quick 
+	trait=quick
 	trait=mystic
 	trait=shrewd
 	trait=brave
@@ -123,7 +123,7 @@
 	trait=proud
 	trait=paranoid
 	trait=mason
-	
+
 	2618.4.11={birth=yes}
 	2700.3.1={death=yes}
 }
@@ -175,7 +175,7 @@
 	stewardship=4
 	intrigue=4
 	learning=4
-	trait=martial_cleric 
+	trait=martial_cleric
 	trait=blinded
 	trait=heresiarch
 	trait=holy_warrior
@@ -241,9 +241,9 @@
 	add_trait=gardener
 	add_trait=slothful
 	add_trait=temperate
-	add_trait=lustful 
+	add_trait=lustful
 	add_trait=zealous
-	add_trait=stressed 
+	add_trait=stressed
 	2624.7.14={ birth=yes }
 	2676.5.2={ death=yes }
 }
@@ -262,8 +262,8 @@
 	add_trait=celibate
 	add_trait=just
 	add_trait=envious
-	add_trait=shy 
-	add_trait=honest 
+	add_trait=shy
+	add_trait=honest
 
 	2612.4.10={ birth=yes }
 	2677.4.1={ death=yes }
@@ -284,10 +284,10 @@
 	trait=chariable
 	trait=brave
 	trait=trusting
-	trait=gregarious	
+	trait=gregarious
 	trait=kind
 	trait=mason
-	
+
 	2639.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
@@ -303,7 +303,7 @@
 	trait=charismatic_negotiator
 	trait=deceitful
 	trait=mason
-	
+
 	2644.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
@@ -314,7 +314,7 @@
 	religion=libertarian
 
 	trait=mason
-	
+
 	2590.1.1={birth=yes}
 	2647.4.1={death=yes}
 }
@@ -330,12 +330,12 @@
 	trait=strong
 	trait=brave
 	trait=cruel
-	trait=greedy 
+	trait=greedy
 	trait=ambitious
 	trait=adventurer
 	trait=scarred_high
 	trait=garveyite
-	
+
 	2628.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
@@ -351,7 +351,7 @@
 	trait=charismatic_negotiator
 	trait=hedonist
 	trait=mason
-	
+
 	2646.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
@@ -374,7 +374,7 @@
 	trait=cynical
 	trait=patient
 	trait=mason
-	
+
 	2635.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
@@ -395,7 +395,7 @@
 	trait=paranoid
 	trait=ambitious
 	trait=garveyite
-	
+
 	2640.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
@@ -472,16 +472,16 @@
 	trait=diligent
 	trait=just
 	trait=temperate
-	
+
 	2627.4.11={birth=yes}
 	2700.1.1={death=yes}
 }
 1000131={
-	name="Foday" 
+	name="Foday"
 	dynasty=1301007
 	culture=temne
 	religion=ashari
-	
+
 	2620.4.11={birth=yes}
 	2700.1.1={death=yes}
 }
@@ -491,7 +491,7 @@
 	culture=mende
 	religion=marabouti
 	father=1000113
-	trait=martial_cleric 
+	trait=martial_cleric
 	trait=cynical
 	trait=slothful
 	trait=erudite
@@ -506,7 +506,7 @@
 	religion=marabouti
 	father=1000113
 	trait=tough_soldier
-	trait=zealous	
+	trait=zealous
 	trait=brave
 	2633.1.1={birth=yes}
 	2700.1.1={death=yes}
@@ -517,7 +517,7 @@
 	culture=mende
 	religion=marabouti
 	father=1000113
-	trait=tough_soldier 
+	trait=tough_soldier
 	trait=strong
 	trait=cruel
 	trait=brave
@@ -533,7 +533,7 @@
 	culture=mende
 	religion=marabouti
 	father=1000113
-	trait=martial_cleric 
+	trait=martial_cleric
 	trait=kind
 	trait=humble
 	trait=charitable
@@ -547,7 +547,7 @@
 	culture=mende
 	religion=marabouti
 	father=1000113
-	trait=misguided_warrior 
+	trait=misguided_warrior
 	trait=slow
 	trait=weak
 	trait=content
@@ -555,17 +555,17 @@
 	2700.1.1={death=yes}
 }
 1000137={
-	name="Ludlam" 
+	name="Ludlam"
 	dynasty=1002037
 	culture=krio
 	religion=ashari
 
-	
+
 	2603.1.1={birth=yes}
 	2659.1.1={death=yes}
 }
 1000138={
-	name="Edward" 
+	name="Edward"
 	dynasty=1002037
 	culture=krio
 	religion=ashari
@@ -576,33 +576,33 @@
 	trait=tough_soldier
 	trait=cynical
 	trait=greedy
-	
+
 	2630.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
 1000139={
-	name="Garrison" 
+	name="Garrison"
 	dynasty=1002037
 	culture=krio
 	religion=libertarian
 	father=1000137
-	
+
 	2635.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
 1000140={
-	name="Abbas" 
+	name="Abbas"
 	dynasty=1002037
 	culture=krio
 	religion=ashari
 	father=1000138
-	
+
 	2652.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
 
 1000141={
-	name="Grover" 
+	name="Grover"
 	dynasty=1001001 #King
 	culture=kwi
 	religion=libertarian
@@ -613,7 +613,7 @@
 	2534.1.1={death=yes}
 }
 1000142={
-	name="Ulysses" 
+	name="Ulysses"
 	dynasty=1001001 #King
 	culture=kwi
 	religion=libertarian
@@ -625,7 +625,7 @@
 	2559.1.1={death=yes}
 }
 1000143={
-	name="Benjamin" 
+	name="Benjamin"
 	dynasty=1001001 #King
 	culture=kwi
 	religion=libertarian
@@ -637,7 +637,7 @@
 	2562.1.1={death=yes}
 }
 1000144={
-	name="Filibuster" 
+	name="Filibuster"
 	dynasty=1001001 #King
 	culture=kwi
 	religion=libertarian
@@ -649,7 +649,7 @@
 	2590.1.1={death=yes}
 }
 1000145={
-	name="Grover" 
+	name="Grover"
 	dynasty=1001001 #King
 	culture=kwi
 	religion=libertarian
@@ -661,7 +661,7 @@
 	2599.1.1={death=yes}
 }
 1000146={
-	name="Skirving" 
+	name="Skirving"
 	dynasty=1001001 #King
 	culture=kwi
 	religion=libertarian
@@ -715,7 +715,7 @@
 	religion=libertarian
 
 	trait=ifa_mo
-	
+
 	2500.1.1={birth=yes}
 	2560.1.1={death=yes}
 }
@@ -727,7 +727,7 @@
 	religion=libertarian
 
 	trait=ifa_mo
-	
+
 	2525.1.1={birth=yes}
 	2587.1.1={death=yes}
 }
@@ -739,7 +739,7 @@
 	religion=libertarian
 
 	trait=ifa_mo
-	
+
 	2553.1.1={birth=yes}
 	2604.1.1={death=yes}
 }
@@ -751,7 +751,7 @@
 	religion=libertarian
 
 	trait=ifa_mo
-	
+
 	2580.1.1={birth=yes}
 	2636.1.1={death=yes}
 }
@@ -764,98 +764,98 @@
 
 	trait=just
 	trait=ifa_mo
-	
+
 	2606.1.1={birth=yes}
 	2659.1.1={death=yes}
 }
 
 1000155={
-	name="Shadrach" 
+	name="Shadrach"
 	dynasty=1001003 #Tubman
 	culture=kwi
 	religion=libertarian
-	
+
 	trait=ifa_mo
-	
+
 	2501.1.1={birth=yes}
 	2571.1.1={death=yes}
 }
 1000156={
-	name="Bashiel" 
+	name="Bashiel"
 	dynasty=1001003 #Tubman
 	culture=kwi
 	religion=libertarian
 	father=1000155
-	
+
 	trait=ifa_mo
-	
+
 	2530.1.1={birth=yes}
 	2585.1.1={death=yes}
 }
 1000157={
-	name="Nehemiah" 
+	name="Nehemiah"
 	dynasty=1001003 #Tubman
 	culture=kwi
 	religion=libertarian
 	father=1000156
-	
+
 	trait=ifa_mo
-	
+
 	2560.1.1={birth=yes}
 	2600.1.1={death=yes}
 }
 1000158={
-	name="Bashiel" 
+	name="Bashiel"
 	dynasty=1001003 #Tubman
 	culture=kwi
 	religion=libertarian
 	father=1000157
-	
+
 	trait=twin
 	trait=ifa_mo
-	
+
 	2586.1.1={birth=yes}
 	2645.1.1={death=yes}
 }
 1000159={
-	name="Nehemiah" 
+	name="Nehemiah"
 	dynasty=1001003 #Tubman
 	culture=kwi
 	religion=libertarian
 	father=1000157
-	
+
 	trait=twin
 	trait=ifa_mo
-	
+
 	2586.1.1={birth=yes}
 	2654.1.1={death=yes}
 }
 1000160={
-	name="Karmo" 
+	name="Karmo"
 	dynasty=1001003 #Tubman
 	culture=kwi
 	religion=libertarian
 	father=1000159
-	
+
 	trait=ifa_mo
-	
+
 	2609.1.1={birth=yes}
 	2648.1.1={death=yes}
 }
 1000161={
-	name="Shadrach" 
+	name="Shadrach"
 	dynasty=1001003 #Tubman
 	culture=kwi
 	religion=libertarian
 	father=1000160
-	
+
 	trait=ifa_mo
-	
+
 	2631.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
 1000162={
-	name="Judith" 
+	name="Judith"
 	female=yes
 	dynasty=1001003 #Tubman
 	culture=kwi
@@ -863,24 +863,24 @@
 	father=1000103
 
 	trait=ifa_mo
-	
+
 	2640.3.5={birth=yes}
 	2700.1.1={death=yes}
 }
 1000163={
-	name="Gyude" 
+	name="Gyude"
 	dynasty=1001003 #Tubman
 	culture=kwi
 	religion=libertarian
 	father=1000103
 
 	trait=ifa_mo
-	
+
 	2643.6.15={birth=yes}
 	2700.1.1={death=yes}
 }
 1000164={
-	name="Zelma" 
+	name="Zelma"
 	female=yes
 	dynasty=1001003 #Tubman
 	culture=kwi
@@ -888,7 +888,7 @@
 	father=1000103
 
 	trait=ifa_mo
-	
+
 	2646.9.25={birth=yes}
 	2700.1.1={death=yes}
 }
@@ -900,7 +900,7 @@
 	religion=libertarian
 
 	trait=mason
-	
+
 	2550.1.1={birth=yes}
 	2614.1.1={death=yes}
 }
@@ -912,7 +912,7 @@
 	father=1000165
 
 	trait=mason
-	
+
 	2574.1.1={birth=yes}
 	2630.1.1={death=yes}
 }
@@ -924,7 +924,7 @@
 	father=1000166
 
 	trait=mason
-	
+
 	2610.1.1={birth=yes}
 	2661.1.1={death=yes}
 }
@@ -937,12 +937,12 @@
 	religion=libertarian
 
 	trait=legit_bastard
-	
+
 	2649.1.1={birth=yes}
 	2700.1.1={death=yes}
 }
 1000169={
-	name="Thomas" 
+	name="Thomas"
 	dynasty=1002025 #Parkes
 	culture=krio
 	religion=anglican
@@ -955,7 +955,7 @@
 	2589.11.3={death=yes}
 }
 1000170={
-	name="Mungo" 
+	name="Mungo"
 	dynasty=1002025 #Parkes
 	culture=krio
 	religion=anglican
@@ -964,7 +964,7 @@
 	2611.6.3={death=yes}
 }
 1000171={
-	name="Edward" 
+	name="Edward"
 	dynasty=1002025 #Parkes
 	culture=krio
 	religion=anglican
@@ -973,7 +973,7 @@
 	2650.7.9={death=yes}
 }
 1000172={
-	name="Blackpool" 
+	name="Blackpool"
 	dynasty=1002025 #Parkes
 	culture=krio
 	religion=anglican
@@ -990,7 +990,7 @@
 	2640.12.4={death=yes}
 }
 1000179={
-	name="Albert" 
+	name="Albert"
 	dynasty=1301005 #Sesay
 	culture=temne
 	religion=tarikah
@@ -1017,7 +1017,7 @@
 	2700.1.1={death=yes}
 }
 1000182={
-	name="Hassan" 
+	name="Hassan"
 	dynasty=1841009 #Lansana
 	culture=mende
 	religion=tarikah
@@ -1025,7 +1025,7 @@
 	2620.9.16={death=yes}
 }
 1000183={
-	name="Hassan" 
+	name="Hassan"
 	dynasty=1841009 #Lansana
 	culture=mende
 	religion=tarikah
@@ -1034,7 +1034,7 @@
 	2655.5.21={death=yes}
 }
 1000184={
-	name="Montague" 
+	name="Montague"
 	dynasty=1002023 #Finney-Conteh
 	culture=krio
 	religion=anglican

@@ -73,10 +73,10 @@
 1610.1.1={
 	holder=0
 }
-2400.1.1={ 
+2400.1.1={
 	holder=1401030 #Boucader Bakari Toure
 }
-2435.1.1={ 
+2435.1.1={
 	holder=1401029 #Hamadoun Toure
 }
 2450.1.1={

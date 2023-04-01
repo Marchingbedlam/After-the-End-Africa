@@ -12,10 +12,10 @@ reference_culture = {
 
 	white = {
 		graphical_cultures = { germangfx frankishgfx westerngfx }
-		
+
 		used_for_random = no
 		allow_in_ruler_designer = no
-		
+
 		alternate_start = {
 			always=no
 		}
@@ -36,7 +36,7 @@ reference_culture = {
 		pat_grf_name_chance = 20
 		mat_grf_name_chance = 10
 		father_name_chance = 20
-		
+
 
 		pat_grm_name_chance = 20
 		mat_grm_name_chance = 20
@@ -46,10 +46,10 @@ reference_culture = {
 	}
 	black = {
 		graphical_cultures = { africangfx muslimgfx }
-		
+
 		used_for_random = no
 		allow_in_ruler_designer = no
-		
+
 		alternate_start = {
 			always=no
 		}
@@ -69,7 +69,7 @@ reference_culture = {
 		pat_grf_name_chance = 20
 		mat_grf_name_chance = 10
 		father_name_chance = 20
-		
+
 
 		pat_grm_name_chance = 20
 		mat_grm_name_chance = 20
@@ -79,10 +79,10 @@ reference_culture = {
 	}
 	brown = {
 		graphical_cultures = { mexicangfx egyptiangfx }
-		
+
 		used_for_random = no
 		allow_in_ruler_designer = no
-		
+
 		alternate_start = {
 			always=no
 		}
@@ -102,7 +102,7 @@ reference_culture = {
 		pat_grf_name_chance = 20
 		mat_grf_name_chance = 10
 		father_name_chance = 20
-		
+
 
 		pat_grm_name_chance = 20
 		mat_grm_name_chance = 20
@@ -112,10 +112,10 @@ reference_culture = {
 	}
 	chinese = {
 		graphical_cultures = { chinesepacificgfx chinogfx westerngfx }
-		
+
 		used_for_random = no
 		allow_in_ruler_designer = no
-		
+
 		alternate_start = {
 			always=no
 		}
@@ -135,7 +135,7 @@ reference_culture = {
 		pat_grf_name_chance = 20
 		mat_grf_name_chance = 10
 		father_name_chance = 20
-		
+
 
 		pat_grm_name_chance = 20
 		mat_grm_name_chance = 20
@@ -145,10 +145,10 @@ reference_culture = {
 	}
 	native = {
 		graphical_cultures = { mesoamericangfx muslimgfx }
-		
+
 		used_for_random = no
 		allow_in_ruler_designer = no
-		
+
 		alternate_start = {
 			always=no
 		}
@@ -168,7 +168,7 @@ reference_culture = {
 		pat_grf_name_chance = 20
 		mat_grf_name_chance = 10
 		father_name_chance = 20
-		
+
 
 		pat_grm_name_chance = 20
 		mat_grm_name_chance = 20
@@ -178,10 +178,10 @@ reference_culture = {
 	}
 	norse = {
 		graphical_cultures = { norsegfx westerngfx }
-		
+
 		used_for_random = no
 		allow_in_ruler_designer = no
-		
+
 		alternate_start = {
 			always=no
 		}
@@ -201,7 +201,7 @@ reference_culture = {
 		pat_grf_name_chance = 20
 		mat_grf_name_chance = 10
 		father_name_chance = 20
-		
+
 
 		pat_grm_name_chance = 20
 		mat_grm_name_chance = 20
@@ -211,10 +211,10 @@ reference_culture = {
 	}
 	celtic = {
 		graphical_cultures = { celticgfx westerngfx }
-		
+
 		used_for_random = no
 		allow_in_ruler_designer = no
-		
+
 		alternate_start = {
 			always=no
 		}
@@ -234,7 +234,7 @@ reference_culture = {
 		pat_grf_name_chance = 20
 		mat_grf_name_chance = 10
 		father_name_chance = 20
-		
+
 
 		pat_grm_name_chance = 20
 		mat_grm_name_chance = 20
@@ -244,10 +244,10 @@ reference_culture = {
 	}
 	ugric = {
 		graphical_cultures = { ugricgfx westerngfx }
-		
+
 		used_for_random = no
 		allow_in_ruler_designer = no
-		
+
 		alternate_start = {
 			always=no
 		}
@@ -267,7 +267,7 @@ reference_culture = {
 		pat_grf_name_chance = 20
 		mat_grf_name_chance = 10
 		father_name_chance = 20
-		
+
 
 		pat_grm_name_chance = 20
 		mat_grm_name_chance = 20
@@ -277,10 +277,10 @@ reference_culture = {
 	}
 	mediterranean = {
 		graphical_cultures = { southerngfx occitangfx }
-		
+
 		used_for_random = no
 		allow_in_ruler_designer = no
-		
+
 		alternate_start = {
 			always=no
 		}
@@ -300,7 +300,7 @@ reference_culture = {
 		pat_grf_name_chance = 20
 		mat_grf_name_chance = 10
 		father_name_chance = 20
-		
+
 
 		pat_grm_name_chance = 20
 		mat_grm_name_chance = 20
@@ -310,10 +310,10 @@ reference_culture = {
 	}
 	indian = {
 		graphical_cultures = { indiangfx southindiangfx muslimgfx }
-		
+
 		used_for_random = no
 		allow_in_ruler_designer = no
-		
+
 		alternate_start = {
 			always=no
 		}
@@ -333,7 +333,7 @@ reference_culture = {
 		pat_grf_name_chance = 20
 		mat_grf_name_chance = 10
 		father_name_chance = 20
-		
+
 
 		pat_grm_name_chance = 20
 		mat_grm_name_chance = 20
@@ -343,10 +343,10 @@ reference_culture = {
 	}
 	slavic = {
 		graphical_cultures = { easternslavicgfx westernslavicgfx westerngfx }
-		
+
 		used_for_random = no
 		allow_in_ruler_designer = no
-		
+
 		alternate_start = {
 			always=no
 		}
@@ -366,7 +366,7 @@ reference_culture = {
 		pat_grf_name_chance = 20
 		mat_grf_name_chance = 10
 		father_name_chance = 20
-		
+
 
 		pat_grm_name_chance = 20
 		mat_grm_name_chance = 20
@@ -376,10 +376,10 @@ reference_culture = {
 	}
 	west_slavic = {
 		graphical_cultures = { westernslavicgfx easternslavicgfx westerngfx }
-		
+
 		used_for_random = no
 		allow_in_ruler_designer = no
-		
+
 		alternate_start = {
 			always=no
 		}
@@ -399,7 +399,7 @@ reference_culture = {
 		pat_grf_name_chance = 20
 		mat_grf_name_chance = 10
 		father_name_chance = 20
-		
+
 
 		pat_grm_name_chance = 20
 		mat_grm_name_chance = 20
@@ -409,10 +409,10 @@ reference_culture = {
 	}
 	german = {
 		graphical_cultures = { germangfx westerngfx }
-		
+
 		used_for_random = no
 		allow_in_ruler_designer = no
-		
+
 		alternate_start = {
 			always=no
 		}
@@ -432,7 +432,7 @@ reference_culture = {
 		pat_grf_name_chance = 20
 		mat_grf_name_chance = 10
 		father_name_chance = 20
-		
+
 
 		pat_grm_name_chance = 20
 		mat_grm_name_chance = 20
@@ -442,10 +442,10 @@ reference_culture = {
 	}
 	english = {
 		graphical_cultures = { englishgfx normangfx westerngfx }
-		
+
 		used_for_random = no
 		allow_in_ruler_designer = no
-		
+
 		alternate_start = {
 			always=no
 		}
@@ -465,7 +465,7 @@ reference_culture = {
 		pat_grf_name_chance = 20
 		mat_grf_name_chance = 10
 		father_name_chance = 20
-		
+
 
 		pat_grm_name_chance = 20
 		mat_grm_name_chance = 20
@@ -475,31 +475,31 @@ reference_culture = {
 	}
 	persian = {
 		graphical_cultures = { persiangfx muslimgfx }
-	
+
 		used_for_random = no
 		allow_in_ruler_designer = no
-		
+
 		alternate_start = {
 			always=no
 		}
-		
+
 		color = { 0.0 0.0 0.0 }
-		
+
 		male_names = {
 			ERROR
 		}
-		
+
 		female_names = {
 			ERROR
 		}
-		
+
 		from_dynasty_prefix = ""
 
 
 		pat_grf_name_chance = 20
 		mat_grf_name_chance = 10
 		father_name_chance = 20
-		
+
 
 		pat_grm_name_chance = 20
 		mat_grm_name_chance = 20
@@ -509,10 +509,10 @@ reference_culture = {
 	}
 	italian = {
 		graphical_cultures = { italiangfx southerngfx occitangfx }
-		
+
 		used_for_random = no
 		allow_in_ruler_designer = no
-		
+
 		alternate_start = {
 			always=no
 		}
@@ -532,7 +532,7 @@ reference_culture = {
 		pat_grf_name_chance = 20
 		mat_grf_name_chance = 10
 		father_name_chance = 20
-		
+
 
 		pat_grm_name_chance = 20
 		mat_grm_name_chance = 20
@@ -542,10 +542,10 @@ reference_culture = {
 	}
 	french = {
 		graphical_cultures = { frankishgfx westerngfx }
-		
+
 		used_for_random = no
 		allow_in_ruler_designer = no
-		
+
 		alternate_start = {
 			always=no
 		}
@@ -565,7 +565,7 @@ reference_culture = {
 		pat_grf_name_chance = 20
 		mat_grf_name_chance = 10
 		father_name_chance = 20
-		
+
 
 		pat_grm_name_chance = 20
 		mat_grm_name_chance = 20
@@ -575,10 +575,10 @@ reference_culture = {
 	}
 	greek = {
 		graphical_cultures = { byzantinegfx }
-		
+
 		used_for_random = no
 		allow_in_ruler_designer = no
-		
+
 		alternate_start = {
 			always=no
 		}
@@ -599,7 +599,7 @@ reference_culture = {
 		pat_grf_name_chance = 20
 		mat_grf_name_chance = 10
 		father_name_chance = 20
-		
+
 
 		pat_grm_name_chance = 20
 		mat_grm_name_chance = 20

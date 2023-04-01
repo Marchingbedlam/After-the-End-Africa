@@ -10,51 +10,51 @@ namibian = {
 
 		male_names = {
 			Abel Abraham Adolf Albert Alexei_Alexis Alfred Anton_Anthony Arnold August_Augustus Axel
-			Barnim Benedikt_Benedict Bernard Björn Bogislaw Borwin Burkhard 
-			Calle_Charles Casimir Casper Chlodwig Clemens_Clement Cornelius 
-			Dawid_David Detlef Dieter Dirk Dorian 
+			Barnim Benedikt_Benedict Bernard Björn Bogislaw Borwin Burkhard
+			Calle_Charles Casimir Casper Chlodwig Clemens_Clement Cornelius
+			Dawid_David Detlef Dieter Dirk Dorian
 			Ebenezer Eberhard Eckbert Eduard_Edward Egon_Eugene Ehrenfried Emil_Aemilius Enno Ephraim Erastus Erwin Ehrik_Eric Ernst_Ernest Ewald Ewilastus_Evilastus
 			Fabarius Fedor_Theodore Ferdinand Filalethes Filippus_Philip Fillemon_Philemon Franziskus_Francis Friedhelm Friedrich_Frederick Fritz_Frederick
-			Gerhard_Gerard Gerson Gideon Giserich Goswin Gotthelf Gottlob_Gottlieb Günther Gustaf_Gustav 
-			Hanjorge Hanno Hans Harald_Harold Hartmann Heinrich_Henry Hellmut Henning Hermann_Herman Horst Hubertus_Hubert 
+			Gerhard_Gerard Gerson Gideon Giserich Goswin Gotthelf Gottlob_Gottlieb Günther Gustaf_Gustav
+			Hanjorge Hanno Hans Harald_Harold Hartmann Heinrich_Henry Hellmut Henning Hermann_Herman Horst Hubertus_Hubert
 			Immanuel_Emmanuel Isaak_Isaac Isenbard Ishmael
-			Jakobus_Jacob Jesko Joachim Johannes_John Jörg_George Josef_Joseph  
+			Jakobus_Jacob Jesko Joachim Johannes_John Jörg_George Josef_Joseph
 			Kamil_Camille Kayetan_Gaetan Klaus_Nicholas Kolmann Konrad_Conrad Kristof_Christopher Kurt
-			Lamprecht Leberecht Leonhard_Leonard Liborius Lorenz_Lawrence Lothar Ludwig_Louis Lukas_Lucas 
+			Lamprecht Leberecht Leonhard_Leonard Liborius Lorenz_Lawrence Lothar Ludwig_Louis Lukas_Lucas
 			Magnus Manfred Marius Martinus_Martin Matthäus_Matthew Maximilian Moritz_Maurice
-			Nikanor  
-			Olbricht Oliwer_Oliver Oltwig Onufry Ortwinus Oskar_Oscar Otto 
-			Paulus_Paul Pieter_Peter Pribislaw 
-			Raimar Raoul Reinhardt Richard Roman Rüdiger_Roger Rudolf 
-			Sigfried Slabbert Sobeslaus Stanislaus_Stanislav Stanley Stefanus_Stephen Sylwester_Sylvester 
-			Tertius Theofelus Theopoldt Thimoteus_Timothey Thomas Torsten Tycho 
+			Nikanor
+			Olbricht Oliwer_Oliver Oltwig Onufry Ortwinus Oskar_Oscar Otto
+			Paulus_Paul Pieter_Peter Pribislaw
+			Raimar Raoul Reinhardt Richard Roman Rüdiger_Roger Rudolf
+			Sigfried Slabbert Sobeslaus Stanislaus_Stanislav Stanley Stefanus_Stephen Sylwester_Sylvester
+			Tertius Theofelus Theopoldt Thimoteus_Timothey Thomas Torsten Tycho
 			Veicht_Vitus Viktor_Victor
 			Ulrich
 			Walther_Walter Wartislaus Wendelinus_Wendel Wenzeslaus_Wenzel Werner Wilbard Wilhelm_William Wilko Winrich Woldemar_Valdemar Wolfgang Wolfram
 			Yorck
-			Zisse Zygmund_Sigmund 
+			Zisse Zygmund_Sigmund
 		}
-		
+
 		female_names = {
-			Adelheid Alexandrine Angelika_Angelica Anja Anoeschka Augusta 
-			Brumhilda 
-			Charlotte Christine Clara Cordula 
-			Elisabeth Elretha Elsie Emma 
-			Donata Dorothea 
-			Franja 
-			Gaby Gharde Gustaphine Gwen 
-			Hannah Henriette_Henrietta Hermine 
-			Ingeborg Irene 
-			Johanna 
-			Kerstin_Christine 
-			Luise_Louisa 
+			Adelheid Alexandrine Angelika_Angelica Anja Anoeschka Augusta
+			Brumhilda
+			Charlotte Christine Clara Cordula
+			Elisabeth Elretha Elsie Emma
+			Donata Dorothea
+			Franja
+			Gaby Gharde Gustaphine Gwen
+			Hannah Henriette_Henrietta Hermine
+			Ingeborg Irene
+			Johanna
+			Kerstin_Christine
+			Luise_Louisa
 			Marelize Margaret Michelle Monica
-			Nora 
+			Nora
 			Paulina
-			Sophie_Sophia 
+			Sophie_Sophia
 			Ulrike
-			Viktoria_Victoria  
-			Wilhelmina 
+			Viktoria_Victoria
+			Wilhelmina
 		}
 
 		from_dynasty_prefix = "von "
@@ -69,7 +69,7 @@ namibian = {
 
 		modifier = default_culture_modifier
 	}
-	
+
 	ovambo = {
 		graphical_cultures = { westafricangfx africangfx }
 
@@ -78,46 +78,46 @@ namibian = {
 		dukes_called_kings = yes
 
 		male_names = {
-			Abraham Aktofer Alekraus Andimba Andolofa_Adolf Arbertus_Albert Armas 
-			Bonifazius_Boniface Broteus_Brutus Brunnar 
+			Abraham Aktofer Alekraus Andimba Andolofa_Adolf Arbertus_Albert Armas
+			Bonifazius_Boniface Broteus_Brutus Brunnar
 			Charles Cornelius
-			Darius Dimbulukeni Drauhot 
-			Eero Elago Elifas Epafras Ephraim Erkki Evilastus 
-			Fanuel Festus Filippus_Philip Frans_Francis Fredinad_Ferdinand 
-			Hafeni Haikukutu Heiko Henock_Enoch Hidipo Hifikepunye Homateni Hosea_Joseph 
-			Iipinge Iiyambo Immanuel_Emmanuel 
-			Jafet_Japeth Jairus Januarie Jariretundu Jesaya John Julius Juuso_Joseph 
+			Darius Dimbulukeni Drauhot
+			Eero Elago Elifas Epafras Ephraim Erkki Evilastus
+			Fanuel Festus Filippus_Philip Frans_Francis Fredinad_Ferdinand
+			Hafeni Haikukutu Heiko Henock_Enoch Hidipo Hifikepunye Homateni Hosea_Joseph
+			Iipinge Iiyambo Immanuel_Emmanuel
+			Jafet_Japeth Jairus Januarie Jariretundu Jesaya John Julius Juuso_Joseph
 			Kai Kambonde Kauko Kawengeko Kiljana Kondjeni Kotokeni Kristof_Christopher Kulaumone
-			Leevi Lobard Lyomukunda 
+			Leevi Lobard Lyomukunda
 			Malakia_Malachi Manasseh Mandume Matheus_Matthew Megameno Mekondjo Melkisedek Mikko_Michael Mwaala Mweukefina
-			Nahas Namhadi Nangolo Natangwe Ndeshipanda Ndilimani Nehale Nico_Nicholas Nghilifa  
-			Panduleni Passa_Pascal Phillemon Polis Pondo 
-			Sadrak_Shadrach Sakaria_Zachary Shaanika Sheefeni Shilongo Shitenhu Simaneka Sondaha Suikanen  
-			Tangeni Tauno Teemus_Nicodemus Tegelela Thikameni Tobias Toivo Tuhafeni Tutaleni 
-			Ueyulu Uko Urho Uushona 
-			Vaino Vilhelm_William Vulikeni 
+			Nahas Namhadi Nangolo Natangwe Ndeshipanda Ndilimani Nehale Nico_Nicholas Nghilifa
+			Panduleni Passa_Pascal Phillemon Polis Pondo
+			Sadrak_Shadrach Sakaria_Zachary Shaanika Sheefeni Shilongo Shitenhu Simaneka Sondaha Suikanen
+			Tangeni Tauno Teemus_Nicodemus Tegelela Thikameni Tobias Toivo Tuhafeni Tutaleni
+			Ueyulu Uko Urho Uushona
+			Vaino Vilhelm_William Vulikeni
 		}
 
 		female_names = {
-			Adelheid Ageshe Amalia 
-			Benita Bience 
+			Adelheid Ageshe Amalia
+			Benita Bience
 			Clara
-			Deimunde Dhiginina Dorodea 
-			Eevi_Eva Elisa Emma Etuhole 
-			Fiina_Josephine Fredrika 
-			Galotte Gandjomuenjo 
-			Hambeleleni Hariana Hedvig Hertta 
-			Inekela Inge 
-			Josephina_Josephina 
-			Kandali Karolina_Caroline Kaunapawa Koskima 
-			Laina Loini Lusia_Lucia 
-			Magano Martha Melila Mestilde Mpingana Monika_Monica Mutaleni 
-			Nakashwa Natalia Ndakulilwa Ndapewa Ndasilwo Ndeyapo Ndilimeke Ndinelago Njanjukweni Nelago Nuusiku Nyanyukweni 
-			Omagano Ottilia 
-			Penehafo 
-			Rauha Ruusa_Rosa 
-			Saarti Saio Sesilia_Cecilia Sofia_Sophia Sondag_Sunday 
-			Terttu Tonakeni Tulonga Tuwilika 
+			Deimunde Dhiginina Dorodea
+			Eevi_Eva Elisa Emma Etuhole
+			Fiina_Josephine Fredrika
+			Galotte Gandjomuenjo
+			Hambeleleni Hariana Hedvig Hertta
+			Inekela Inge
+			Josephina_Josephina
+			Kandali Karolina_Caroline Kaunapawa Koskima
+			Laina Loini Lusia_Lucia
+			Magano Martha Melila Mestilde Mpingana Monika_Monica Mutaleni
+			Nakashwa Natalia Ndakulilwa Ndapewa Ndasilwo Ndeyapo Ndilimeke Ndinelago Njanjukweni Nelago Nuusiku Nyanyukweni
+			Omagano Ottilia
+			Penehafo
+			Rauha Ruusa_Rosa
+			Saarti Saio Sesilia_Cecilia Sofia_Sophia Sondag_Sunday
+			Terttu Tonakeni Tulonga Tuwilika
 			Viktorina_Victoria
 		}
 
@@ -141,33 +141,33 @@ namibian = {
 
 	nama = {
 		graphical_cultures = { westafricangfx africangfx }
-		
+
 		color = { 0.55 0.5 0.3 }
 
 		male_names = {
-			!Aubib !Gomxab !Habib !Hanamub !Hoa!arab !Hoëb !Huisib !Khanabib !Khauab !Nanib 
-			Abraham Amraal Andreas_Andrew 
-			Cornelius Cupido 
-			Dawid_David 
+			!Aubib !Gomxab !Habib !Hanamub !Hoa!arab !Hoëb !Huisib !Khanabib !Khauab !Nanib
+			Abraham Amraal Andreas_Andrew
+			Cornelius Cupido
+			Dawid_David
 			Fritz_Frederick
 			Hendrik_Henry
-			Isaak_Isaac Ismael_Ishmael 
-			Jacobus_Jacob Jan_John Josef_Joseph 
-			Klaas_Nicholas 
-			Lazarus 
-			Manasse_Manases Markus_Marcus Moses 
-			Oasib 
-			Piet_Peter 
-			Salomon_Solomon Seth Stephanus_Stephen 
+			Isaak_Isaac Ismael_Ishmael
+			Jacobus_Jacob Jan_John Josef_Joseph
+			Klaas_Nicholas
+			Lazarus
+			Manasse_Manases Markus_Marcus Moses
+			Oasib
+			Piet_Peter
+			Salomon_Solomon Seth Stephanus_Stephen
 			Tsamkau Tsaugab Tsauxab
-			Willem_William 
+			Willem_William
 		}
-		
+
 		female_names = {
-			Gaudentia 
+			Gaudentia
 			Lucia
 			Paulina
-			Sarah 
+			Sarah
 		}
 
 		from_dynasty_prefix = ""
@@ -190,38 +190,38 @@ namibian = {
 	}
 	herero = {
 		graphical_cultures = { westafricangfx africangfx }
-		
+
 		color = { 0.4 0.35 0.1 }
 
 		male_names = {
-			Arnold Athiel 
+			Arnold Athiel
 			Clemens_Clemence
-			Enzian Erastus 
+			Enzian Erastus
 			Fredrick_Frederick
-			Gerson Gottlob_Gottlieb 
-			Hitjitevi 
-			Jackson Jacobus_Jacob 
+			Gerson Gottlob_Gottlieb
+			Hitjitevi
+			Jackson Jacobus_Jacob
 			Kahimemua Kaihepozandu Kaire Kanangati Katando Keharanjo Kuaimo
-			Mbuipaha Mburumba Munjuku Mureti Musupi 
-			Ncoruru Nakokure Nikanor 
-			Obeth Otto 
+			Mbuipaha Mburumba Munjuku Mureti Musupi
+			Ncoruru Nakokure Nikanor
+			Obeth Otto
 			Parmenus Peter
 			Reinhard Rudolph_Rudolf
-			Samuel Stephanus_Stephen 
-			Thimoteus_Timothy Tjerimo 
-			Vekuii Vipuakuje 
+			Samuel Stephanus_Stephen
+			Thimoteus_Timothy Tjerimo
+			Vekuii Vipuakuje
 		}
-		
+
 		female_names = {
-			Angelika_Angelica Anna Asnath 
-			Bertha 
+			Angelika_Angelica Anna Asnath
+			Bertha
 			Charlotte
-			Elsie Emilia 
+			Elsie Emilia
 			Johanna
 			Kaipkire
-			Nora 
-			Magord Muenda 
-			Thelina 
+			Nora
+			Magord Muenda
+			Thelina
 			Uapiona Uerieta
 			Vitura
 		}
@@ -238,49 +238,49 @@ namibian = {
 
 	damara = {
 		graphical_cultures = { westafricangfx africangfx }
-		
+
 		color = { 0.4 0.35 0.1 }
 
 		male_names = {
-			Abner Albert Aobeb Ananias Augustinus Axel 
+			Abner Albert Aobeb Ananias Augustinus Axel
 			Baseth Bernardo_Bernard
-			Christian 
-			Daedelus Dendu Desmond 
+			Christian
+			Daedelus Dendu Desmond
 			Eliazer Eric Erwin
 			Frans_Francis
-			Gersom_Gerson 
+			Gersom_Gerson
 			Hage Henog_Enoch Heroldt_Harold Hosea
 			Jacko Johannes_John Judas Justus
-			Khaireb Khotat Kornelius_Cornelius  
-			Mateus_Matthew Migub Moses 
+			Khaireb Khotat Kornelius_Cornelius
+			Mateus_Matthew Migub Moses
 			Niklaas_Nicholas Nobel
-			Simson 
-			Rheinhardt_Reinhardt Ruben 
-			Tamme Theo-Ben Tiakodle Titus Tsudao Tsukhoe 
+			Simson
+			Rheinhardt_Reinhardt Ruben
+			Tamme Theo-Ben Tiakodle Titus Tsudao Tsukhoe
 			Ubeb Usiel
-			Victus 
-			Wilson 
+			Victus
+			Wilson
 		}
-		
+
 		female_names = {
-			Alma 
-			Bianca 
+			Alma
+			Bianca
 			Christolene Cisillia Consetta
-			Dartji 
-			Elphride Elizabeth 
+			Dartji
+			Elphride Elizabeth
 			Fistolene Flora
 			Gisella Gustaphine
 			Hannah Hegwig Hillaria
-			Ida 
-			Lena Libertina Linda Lotte Lucia Lydia 
+			Ida
+			Lena Libertina Linda Lotte Lucia Lydia
 			Magdalena Martha Massie Mibagu
-			Oboti 
-			Rebecca Rosa Roxette 
+			Oboti
+			Rebecca Rosa Roxette
 			Salinde Salonica Sylvia
-			Tamaties Tekla Trypohasa 
+			Tamaties Tekla Trypohasa
 			Ursulla_Ursula
 			Willemina
-			Zodidi  
+			Zodidi
 		}
 		from_dynasty_prefix = ""
 
@@ -299,48 +299,48 @@ namibian = {
 		color = { 0.4 0.4 0.3 }
 
 		male_names = {
-			Abraham Adriaan_Adrian Altus Alwyn Andries_Andrew Anton_Anthony Arno 
-			Barend Bertus_Albert 
-			Casper Christiaan_Christian Christoffel Coenraad_Conrad Constand_Constantine Cornelius 
+			Abraham Adriaan_Adrian Altus Alwyn Andries_Andrew Anton_Anthony Arno
+			Barend Bertus_Albert
+			Casper Christiaan_Christian Christoffel Coenraad_Conrad Constand_Constantine Cornelius
 			Etienne_Stephen Ernst_Ernest Eugène_Eugene
-			Daniël_Daniel David Deon Dewaldt Dirk 
+			Daniël_Daniel David Deon Dewaldt Dirk
 			Francois_Francis Frederik_Frederick
-			Gabriël_Gabriel Gérard_Gerard Gerrit Gideon Guy Gysbert 
+			Gabriël_Gabriel Gérard_Gerard Gerrit Gideon Guy Gysbert
 			Karel_Carl Koos_Jacob
 			Hendrik_Henry Henning Herculaas_Hercules Hermanus_Herman
-			Izak_Isaac 
+			Izak_Isaac
 			Jacobus_Jacob Jacques Jan_John Jan-Jaap Jandré Joost Josef_Joseph
-			Laurens_Lawrence Leon_Leo Louis 
+			Laurens_Lawrence Leon_Leo Louis
 			Magnus Marcel Marius Marthinus_Martin Michael Morné
-			Neil Nicolaas_Nicholas 
+			Neil Nicolaas_Nicholas
 			Ockert Oscar
 			Paul Philip Piet_Peter
-			Quartus 
+			Quartus
 			Rabian Raoul Regardt Renaud Riaan_Ryan Robey_Robert Roelof Ruan Ryk_Richard Rynhardt_Reinhard
-			Schalk Skipper Stephanus_Stephen Sybrand 
-			Theo_Theodore Theuns Thinus Tjaart Troyden 
-			Wessel Wikus Willem_William Wynand 
+			Schalk Skipper Stephanus_Stephen Sybrand
+			Theo_Theodore Theuns Thinus Tjaart Troyden
+			Wessel Wikus Willem_William Wynand
 		}
-		
+
 		female_names = {
 			Adele Anika Anneline Anoeschka Antjie Antoinette
-			Behati 
-			Charlize Christine Cornelia 
-			Danila 
-			Elizabeth Elsa Esther 
-			Glynis Grazjyna 
+			Behati
+			Charlize Christine Cornelia
+			Danila
+			Elizabeth Elsa Esther
+			Glynis Grazjyna
 			Helene_Helen
-			Inez Ingrid Isabel 
+			Inez Ingrid Isabel
 			Johanna_Joan
 			Karin_Karen
-			Liezel 
-			Magdalena Margaret Marie_Maria Marike Marissa Miemsie 
+			Liezel
+			Magdalena Margaret Marie_Maria Marike Marissa Miemsie
 			Natalie
-			Rozelle 
+			Rozelle
 			Sandra_Alexandra Sarie Simoné_Simone Sonja
-			Wilna 
-			Yvonne 
-			Zelda 
+			Wilna
+			Yvonne
+			Zelda
 		}
 
 		from_dynasty_prefix = "van "
@@ -355,14 +355,14 @@ namibian = {
 
 		modifier = default_culture_modifier
 	}
-		
+
 	capeman = {
 		graphical_cultures = { englishgfx }
 
 		color = { 0.4 0.4 0.3 }
 
 		male_names = {
-			Abdullah Abubaker_Abu-Bakr Adam Alaric Albert Allan Alton Andre_Andrew Archibald Ashwin Athol 
+			Abdullah Abubaker_Abu-Bakr Adam Alaric Albert Allan Alton Andre_Andrew Archibald Ashwin Athol
 			Cedric Charles Cheslin Clayton Clyde Conrad Cornelius
 			Damian Delron Dennis_Denis Duncan
 			Edward Elton Errol
@@ -371,20 +371,20 @@ namibian = {
 			Hans Harold Hermanus_Herman Herschel
 			Ian Ignatius Ivan
 			James Jeremy_Jeremiah John Jonathan
-			Kenneth Kermit Kurt 
+			Kenneth Kermit Kurt
 			Lance Leroy Lionel
 			Marcus Moeneeb_Munib Mustafa
 			Nazeer_Nasr Neville Nikolaus_Nicholas Nizaam
-			Omar 
+			Omar
 			Percy Petrus_Peter Pius
 			Quinton
 			Reeza Reginald Richard Robert Roger Russell
-			Salman_Solomon Selwyn Stanton 
+			Salman_Solomon Selwyn Stanton
 			Tawfeeq_Tawfiq Terence Trevor Tyrone
-			Vernon 
-			Wayde Wilfred Willem_William 
+			Vernon
+			Wayde Wilfred Willem_William
 		}
-		
+
 		female_names = {
 			Amy Ashley
 			Candice
@@ -419,7 +419,7 @@ namibian = {
 	}
 	saffie = {
 		graphical_cultures = { westafricangfx englishgfx }
-		
+
 		color = { 0.55 0.5 0.3 }
 
 		male_names = {
@@ -445,7 +445,7 @@ namibian = {
 			Watkin Wilbur Wilfred William Winston Wrexley
 			Xavier Xenophon
 		}
-		
+
 		female_names = {
 			Anne Anthea
 			Barbara Bernadette
@@ -485,7 +485,7 @@ namibian = {
 	}
 	saint = {
 		graphical_cultures = { westafricangfx englishgfx }
-		
+
 		color = { 0.07 0.20 0.20 }
 
 		male_names = {
@@ -512,7 +512,7 @@ namibian = {
 			Yordie
 			Zelvyn
 		}
-		
+
 		female_names = {
 			Alicia Andrea Anita Anne Anne-Marie Asita Audrey
 			Barbara Belinda Bernadette Bernice Beverley Bonita Brenda Bronwen

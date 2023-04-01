@@ -1,11 +1,11 @@
 e_azania = {
 	color={ 200 34 94 }
 	color2={ 255 255 20 }
-	
+
 	k_namibia = {
 		color={ 0 53 148 }
 		color2={ 255 255 255 }
-						
+
 		d_erongo = {
 			color={ 0 53 205 }
 			color2={ 255 255 255 }
@@ -17,7 +17,7 @@ e_azania = {
 				afrikaner="Walvisbaai"
 				sudwester="Walfischbucht"
 				herero="Ezorongondo"
-					
+
 				b_langstrand = {}
 				b_walvis_bay = {
 					afrikaner="Walvisbaai"
@@ -36,7 +36,7 @@ e_azania = {
 			c_swakopmund = {
 				color={ 0 53 148 }
 				color2={ 255 255 255 }
-					
+
 				b_swakopmund = {}
 				b_arandis = {}
 				b_henties_bay = {
@@ -51,11 +51,11 @@ e_azania = {
 			c_brandberg = {
 				color={ 0 53 148 }
 				color2={ 255 255 255 }
-				
+
 				nama="Dâures"
 				damara="Dâures"
 				herero="Omukuruvaro"
-					
+
 				b_uis = {}
 				b_okombahe = {}
 				b_omatjette = {}
@@ -67,7 +67,7 @@ e_azania = {
 			c_omaruru = {
 				color={ 0 53 148 }
 				color2={ 255 255 255 }
-					
+
 				b_karibib = {}
 				b_omaruru = {}
 				b_usakos = {}
@@ -88,7 +88,7 @@ e_azania = {
 				sudwester="Windhuk"
 				nama="|Ai-||Gams"
 				herero="Otjomuise"
-				
+
 				b_klein_windhoek = {
 					sudwester="Kleinwindhuk"
 				}
@@ -108,7 +108,7 @@ e_azania = {
 			c_rehoboth = {
 				color={ 255 173 82 }
 				color2={ 255 255 255 }
-				
+
 				b_schlip = {}
 				b_rehoboth = {}
 				b_klein_aub = {}
@@ -120,9 +120,9 @@ e_azania = {
 			c_groot_aub = {
 				color={ 158 106 39 }
 				color2={ 255 255 255 }
-				
+
 				sudwester="Gross Aub"
-				
+
 				b_dordabis = {}
 				b_groot_aub = {
 					sudwester="Gross Aub"
@@ -136,11 +136,11 @@ e_azania = {
 			c_gobabis = {
 				color={ 183 144 93 }
 				color2={ 255 255 255 }
-				
+
 				nama="ǂKoabes"
 				damara="ǂKoabes"
 				herero="Epako"
-				
+
 				b_witvlei = {
 					nama="ǃUri ǃKhubus"
 					damara="ǃUri ǃKhubus"
@@ -164,7 +164,7 @@ e_azania = {
 			c_mariental = {
 				color={ 150 112 64 }
 				color2={ 255 255 255 }
-				
+
 				b_mariental = {}
 				b_stampriet = {}
 				b_kalkrand = {}
@@ -176,7 +176,7 @@ e_azania = {
 			c_maltahohe = {
 				color={ 191 128 61 }
 				color2={ 255 255 255 }
-				
+
 				b_duwisib = {}
 				b_maltahohe = {}
 				b_andreville = {}
@@ -188,10 +188,10 @@ e_azania = {
 			c_gibeon = {
 				color={ 191 145 43 }
 				color2={ 255 255 255 }
-				
+
 				nama="Khaxa-tsûs"
 				damara="Khaxa-tsûs"
-				
+
 				b_gibeon = {
 					nama="Khaxa-tsûs"
 					damara="Khaxa-tsûs"
@@ -207,17 +207,17 @@ e_azania = {
 		d_karas = {
 			color={ 212 125 21 }
 			color2={ 255 255 255 }
-			
+
 			nama="||Karas"
 			damara="||Karas"
 
 			c_luderitz = {
 				color={ 199 130 66 }
 				color2={ 255 255 255 }
-				
+
 				nama="ǃNamiǂNûs"
 				damara="ǃNamiǂNûs"
-				
+
 				b_kolmanskop = {}
 				b_luderitz = {
 					nama="ǃNamiǂNûs"
@@ -232,10 +232,10 @@ e_azania = {
 			c_berseba = {
 				color={ 163 120 77 }
 				color2={ 255 255 255 }
-				
+
 				nama="ǃAutsawises"
 				damara="ǃAutsawises"
-				
+
 				b_bethanie = {
 					sudwester="Bethanien"
 					nama="ǀUiǂgandes"
@@ -254,10 +254,10 @@ e_azania = {
 			c_keetmanshoop = {
 				color={ 199 155 67 }
 				color2={ 255 255 255 }
-				
+
 				nama="ǂNuǂgoaes"
 				damara="ǂNuǂgoaes"
-				
+
 				b_keetmanshoop = {
 					nama="ǂNuǂgoaes"
 					damara="ǂNuǂgoaes"
@@ -276,7 +276,7 @@ e_azania = {
 				afrikaner="Kalkfontein"
 				nama="|Nomsoros"
 				damara="|Nomsoros"
-				
+
 				b_karasburg = {
 					afrikaner="Kalkfontein"
 					nama="|Nomsoros"
@@ -292,7 +292,7 @@ e_azania = {
 			c_oranjemund = {
 				color={ 148 99 71 }
 				color2={ 255 255 255 }
-				
+
 				b_oranjemund = {}
 				b_rosh_pinah = {}
 				b_noordoewer = {}
@@ -309,7 +309,7 @@ e_azania = {
 			c_omatako = {
 				color={ 181 128 64 }
 				color2={ 255 255 255 }
-				
+
 				b_hochfeld = {}
 				b_okahandja = {}
 				b_osire = {}
@@ -321,7 +321,7 @@ e_azania = {
 			c_otjiwarongo = {
 				color={ 148 95 28 }
 				color2={ 255 255 255 }
-				
+
 				b_kalkfeld = {}
 				b_otjiwarongo = {}
 				b_okakarara = {}
@@ -333,7 +333,7 @@ e_azania = {
 			c_otavi = {
 				color={ 158 90 44 }
 				color2={ 255 255 255 }
-				
+
 				b_otavi = {}
 				b_kombat = {}
 				b_coblenz = {}
@@ -345,9 +345,9 @@ e_azania = {
 			c_grootfontein = {
 				color={ 247 140 102 }
 				color2={ 255 255 255 }
-				
+
 				herero="Otjivanda"
-				
+
 				b_grootfontein = {
 					herero="Otjivanda"
 				}
@@ -366,9 +366,9 @@ e_azania = {
 			c_tsumeb = {
 				color={ 131 93 65 }
 				color2={ 255 255 255 }
-				
+
 				herero="Okavisume"
-				
+
 				b_tsumeb = {
 					herero="Okavisume"
 				}
@@ -382,7 +382,7 @@ e_azania = {
 			c_ohangwena = {
 				color={ 179 160 67 }
 				color2={ 255 255 255 }
-				
+
 				b_eenhana = {}
 				b_helao_nafidi = {}
 				b_onandova = {}
@@ -394,7 +394,7 @@ e_azania = {
 			c_oshana = {
 				color={ 115 87 52 }
 				color2={ 255 255 255 }
-				
+
 				b_oshakati = {}
 				b_ondangwa = {}
 				b_okaukuejo = {}
@@ -406,7 +406,7 @@ e_azania = {
 			c_omuthiyagwiipundi = {
 				color={ 192 99 21 }
 				color2={ 255 255 255 }
-				
+
 				b_oniipa = {}
 				b_omuthiya = {}
 				b_iihongo = {}
@@ -423,7 +423,7 @@ e_azania = {
 			c_nkurenkuru = {
 				color={ 154 90 57 }
 				color2={ 255 255 255 }
-				
+
 				b_mpungu = {}
 				b_nkurenkuru = {}
 				b_katwitwi = {}
@@ -435,7 +435,7 @@ e_azania = {
 			c_rundu = {
 				color={ 255 147 56 }
 				color2={ 255 255 255 }
-				
+
 				b_tsumkwe = {}
 				b_rundu = {}
 				b_divundu = {}
@@ -452,7 +452,7 @@ e_azania = {
 			c_khorixas = {
 				color={ 154 111 57 }
 				color2={ 255 255 255 }
-				
+
 				b_khorixas = {}
 				b_sesfontein = {}
 				b_fransfontein = {}
@@ -464,7 +464,7 @@ e_azania = {
 			c_epupa = {
 				color={ 228 168 90 }
 				color2={ 255 255 255 }
-				
+
 				b_okongwati = {}
 				b_opuwo = {}
 				b_swartbooisdrift = {}
@@ -476,7 +476,7 @@ e_azania = {
 			c_omusati = {
 				color={ 201 158 80 }
 				color2={ 255 255 255 }
-				
+
 				b_ruacana = {}
 				b_outapi = {}
 				b_oshikuku = {}
@@ -488,7 +488,7 @@ e_azania = {
 			c_outjo = {
 				color={ 104 83 57 }
 				color2={ 255 255 255 }
-				
+
 				b_kamanjab = {}
 				b_outjo = {}
 				b_otjikondo = {}

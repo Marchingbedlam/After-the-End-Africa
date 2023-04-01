@@ -16,7 +16,7 @@ d_idomaland = {
 	capital = 127 #Accra
 
 	culture = idoma
-	
+
 	title = "Och'Idoma"
 
 	allow = {
@@ -29,9 +29,9 @@ d_tivland = {
 	capital = 127 #Accra
 
 	culture = tiv
-	
+
 	title = "Tor Tiv"
-	
+
 	fulbe = "Munchi"
 
 	allow = {
@@ -44,9 +44,9 @@ d_ebiraland = {
 	capital = 127 #Accra
 
 	culture = ebira
-	
+
 	title = "Ohinoyi"
-	
+
 	waswahili = "Kiebira"
 	yoruba = "Igbira"
 
@@ -101,9 +101,9 @@ k_dahomey = {
 	capital = 134 #Yendi
 
 	culture = fon
-	
+
 	fon = "Danhome"
-	
+
 	title = "Ahosu"
 
 	allow = {
@@ -132,7 +132,7 @@ k_edo = {
 	igbo = "Idu"
 
 	title = "Oba"
-		
+
 	allow = {
 		always = no
 	}
@@ -153,11 +153,11 @@ e_manden = {
 e_usafrica = {
 	color={ 40 50 220 }
 	color2={ 220 50 40 }
-	
+
 	capital = 6 #Monrovia
 
 	short_name = no
-	
+
 	allow = {
 		always = no # Only created through special decisions
 	}

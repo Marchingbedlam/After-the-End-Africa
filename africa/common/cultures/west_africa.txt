@@ -5,53 +5,53 @@ west_african = {
 
 	kru = {
 		color = { 0.6 0.8 0.6 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Abraham Allen
 			Boakai Bernard Beyan Borforh Boryee
 			Cadmael Charles
-			Didwho Dorley Dwe 
+			Didwho Dorley Dwe
 			Ernest
-			Forkay 
+			Forkay
 			Garmuyu Gblayee Gbwe George Gesue Gyude
 			Harris Henry
 			Jlakon Job Joshua
 			Kaboo Kanyon Konmla
-			Manneh Monon-Konmlan 
-			Nimene Nyennoh 
-			Oppong 
-			Paul Pennon 
-			Saigbe Samuel Soeh-Tehpoe 
+			Manneh Monon-Konmlan
+			Nimene Nyennoh
+			Oppong
+			Paul Pennon
+			Saigbe Samuel Soeh-Tehpoe
 			Tagbedi Teh Togar Togba
 			Wadeh Wesley William Wlateh Wuling
-			Yenseloh 
+			Yenseloh
 		}
-		
+
 		female_names = {
 			Arway
-			Donyen 
-			Ellen 
+			Donyen
+			Ellen
 			Gloria
-			Janjay Jayplo 
+			Janjay Jayplo
 			Krayonor
 			Mardea Mary Maya Monji
-			Nyonweh 
-			Poady 
+			Nyonweh
+			Poady
 			Sorntee
-			Tanyonoh Tarloh Tomah 
+			Tanyonoh Tarloh Tomah
 			Wleji Wloh Wreh
 		}
 	}
 	temne = {
 		color = { 0.6 0.7 0.7 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Abdul Ahmed Alfred Alhassan Alie_Ali Alimamy Alpha Andrew
-			Brima 
+			Brima
 			Ernest
 			Farima Foday_Fodi
 			Gibril_Gabriel
@@ -63,7 +63,7 @@ west_african = {
 			Thaimu
 			Umaru_Omar
 		}
-		
+
 		female_names = {
 			Hawa
 			Isatu Isha
@@ -72,9 +72,9 @@ west_african = {
 	}
 	dagomba = {
 		color = { 0 0.4 0 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Abdulai_Abdullah Abukari_Abu-Bakr Adam Alasani_Alhassan Alhassan Aliu_Ali Andani Asumana_Osman Awal
 			Bawa Binbien Bimbaliga Biyunkomba Bolega Bukali_Abu-Bakr Burzambo
@@ -83,19 +83,19 @@ west_african = {
 			Gariba Gbana Gbewa Gungobili
 			Hamza_Hamzah Haruna_Aaron Hudu
 			Ibrahim_Abraham Iddrisu_Idris Inusah_Jonah Imoro Issahaku_Isaac
-			Kabiun Kalim Koledgenle Kpalaga Kpugnumbo Kufogu Kulunku 
+			Kabiun Kalim Koledgenle Kpalaga Kpugnumbo Kufogu Kulunku
 			Lagfu Lareyogu Legu Lukman Luro
 			Mahamadu_Mohammed Majeed_Majid Mantambo Mohammed-Sani Mubarak Mujahid Mukarama Muntaka Musa_Moses
 			Nasalan Nguhuriba Nyagse
 			Rahaman Razak
 			Sadami Saeed_Said Salifu Sayibu Seydu_Sayyid Shagba Sheno Sidiku_Siddiq Sighle Sitogu Soalih Sulemana_Solomon Sumani Suzabe
-			Tahiru_Tahir Titugri Tohagu Tohazi Tulibi Tunti 
+			Tahiru_Tahir Titugri Tohagu Tohazi Tulibi Tunti
 			Umaru_Omar
 			Waa
 			Yahaya_John Yakubu_Jacob Yalem Yanzoe Yembageya Yidana Yiri Yusuf_Joseph
 			Zagli Zangyina Zakari_Zachary Zakpabo Ziblim Zirli Zokuli Zolgu Zongma Zulandi Zwole
 		}
-		
+
 		female_names = {
 			Adisa Amina Aramatu Awabu Ayishetu Azara
 			Balima Budaali
@@ -115,19 +115,19 @@ west_african = {
 	}
 	mossi = {
 		color = { 0.1 0.4 0.2 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Abdoul_Abdul Abdoulaye_Abdullah Abdoul-Aziz_Abdul-Aziz Ablassé Adam
 			Baongo Bénéwendé Blaise Boubacar_Abu-Bakr Boukary_Bakr
 			Coutoucou
-			Daniel Daouda_David Dawingna Djibril_Gabriel 
+			Daniel Daouda_David Dawingna Djibril_Gabriel
 			Frédéric_Frederick
 			Geda Gérard_Gerard Gigma Gilbert Gnignemdo Goabga Grumah Guiguem-Pollé Guirga
 			Hamado Hamtiuri Harouna_Aaron Henoc_Enoch Hountani
-			Ibrahim_Abraham Ismaël_Ishmael Issiaka_Isaac Issoufou 
-			Jean_John Jonathan 
+			Ibrahim_Abraham Ismaël_Ishmael Issiaka_Isaac Issoufou
+			Jean_John Jonathan
 			Kango Karfo Kimba Kom Korongo Kouda Kougri Kourita Koutou
 			Ligidi Lissoangui Louckmane_Lukman
 			Mamadou_Mohammed Maurice Michel_Michael Motiba Moussa_Moses Moustapha_Mustafa
@@ -135,43 +135,43 @@ west_african = {
 			Ouali_Wali Oubri Ouezzin Ousmane_Osman
 			Ragongo Rawa Ryallé
 			Sagha Saidou_Said Samuel Sanum Sigiri Simandari Soarba Sorgo Souleymane_Solomon Soutongo
-			Tahirou_Tahir Thomas Tigre Tokourma Tuguri 
+			Tahirou_Tahir Thomas Tigre Tokourma Tuguri
 			Waléry_Valerian Warga Wobgho
 			Yacouba_Jacob Yadega Yemde Yensongu Yentugri Youssouf_Joseph
-			Zergha Zoétré Zombré  
+			Zergha Zoétré Zombré
 		}
-		
+
 		female_names = {
-			Irène_Irene 
+			Irène_Irene
 			Koudpoko
 			Marie_Mary
 			Pokou
-			Safiatou Salimata 
+			Safiatou Salimata
 			Wamanegdo
-			Yennenga 
+			Yennenga
 		}
 
 		dukes_called_kings = yes
 	}
     	senufo = {
 		color = { 1 0.6 0.5 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Ali
-			Beh 
+			Beh
 			Denan Doh
 			Gonan
 			Kolo Kpoh
 			M'baha Mikanidjo
 			Nagnon N'golo_Ngolo Nongotiala
-			Sidiky_Siddiq Sinan 
+			Sidiky_Siddiq Sinan
 			Tando Tchima Tennina
 			Yalmassa
 			Zana Zié
 		}
-		
+
 		female_names = {
 			Bara
 			Ghiré Gnaman Gneré Gnon
@@ -182,9 +182,9 @@ west_african = {
 	}
 	ga = {
 		color = { 0.8 0.8 0.8 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Alfred Amon Arthur Azumah
 			Boris
@@ -206,7 +206,7 @@ west_african = {
 			William
 			Yacub_Jacob
 		}
-		
+
 		female_names = {
 			Ashong-Fio
 			Berla
@@ -223,9 +223,9 @@ west_african = {
 	}
 	ewe = {
 		color = { 1.0 0.8 1.0 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Abagba Adeladza Agodo Agorkoli Ahrlonko Amedor Anselmus_Anselm Anthony Anumah Atsa Augustin_Augustine Avorga Azamu
 			Bajavi Bernardo_Bernard Blihla
@@ -244,7 +244,7 @@ west_african = {
 			Semenu Senyo Sri Stephano_Stephen
 			Timothy Titriwe Todjo Tsali Tsatsu
 		}
-		
+
 		female_names = {
 			Akoshiwo Ametowofa Ameyo Annie_Anna
 			Cecilia Charity
@@ -260,56 +260,56 @@ west_african = {
 		unit_graphical_cultures = { westafricangfx africangfx }
 
 		#secondary_event_pictures = bedouin_arabic
-		
+
 		color = { 0.5 0.6 1 }
-		
+
 		male_names = {
 			Advertus Alfred Allen Amos Ansa Anthony_Anthony Arthur_Arthur Ashbury Augustus
-			Baimba Bashiel Benjamin Benoni Beverly Bhofal Bismarck Bonokai Boston Burgess Buyamah 
+			Baimba Bashiel Benjamin Benoni Beverly Bhofal Bismarck Bonokai Boston Burgess Buyamah
 			Cecil Charles_Charles Ciata Clarence Cletus
-			Daniel_Daniel Dash Didwho Dunbar 
-			Eddington Edward_Edward Edwin Elijah_Elijah Emmanuel 
-			Filibuster Ford Fulton 
-			Gabriel Garretson Gbehzohngar Gbessi Gbotoe George_George Ghankay Gyude 
+			Daniel_Daniel Dash Didwho Dunbar
+			Eddington Edward_Edward Edwin Elijah_Elijah Emmanuel
+			Filibuster Ford Fulton
+			Gabriel Garretson Gbehzohngar Gbessi Gbotoe George_George Ghankay Gyude
 			Hilary
-			Jallah James_James Jay Jenkins John_John Joseph_Joseph 
+			Jallah James_James Jay Jenkins John_John Joseph_Joseph
 			Kaijaah Kanneh Karmo Kayme Kemokai Kengbe Kermit Konowa Kpannah
-			Lafayette Lamie Lorenzo_Lawrence Lott Louis_Louis Lumah 
-			Madison Martin_Martin McArthur McKinley Melvin Momolu Monroe Moses 
-			Nathaniel 
-			Olmstead Othello 
+			Lafayette Lamie Lorenzo_Lawrence Lott Louis_Louis Lumah
+			Madison Martin_Martin McArthur McKinley Melvin Momolu Monroe Moses
+			Nathaniel
+			Olmstead Othello
 			Payne Peseh Preston
-			Quincy 
+			Quincy
 			Reginald Richard
 			Samuel_Samuel Seh Sekou Shadrach Skirving Solomon_Solomon Stephen_Stephen
-			Tarweh Thomas_Thomas 
-			Vacanarat Varney 
-			Wesley William Wilmot Winston 
-			Zacharia_Zachary Zeh Zolu	
+			Tarweh Thomas_Thomas
+			Vacanarat Varney
+			Wesley William Wilmot Winston
+			Zacharia_Zachary Zeh Zolu
 
 			Abbas Abdulaziz_Abdul-Aziz Abdullah Abu-Bakar_Abu-Bakr Ahmed Alhassan Ali Hassan_Hasan Idris Mohamed_Mohammed Murad Mustapha_Mustafa Omar Said
 		}
-		
+
 		female_names = {
-			Antoinette 
+			Antoinette
 			Bendu Betsy_Elizabeth Beverly
-			Carolina Catharine_Katherine Cianna Ciata Cyvette 
-			Dido 
+			Carolina Catharine_Katherine Cianna Ciata Cyvette
+			Dido
 			Ellen Emily Emancipata
-			Fatu Fatumatta 
-			Gbessay Gloriana 
-			Hawa Helene 
+			Fatu Fatumatta
+			Gbessay Gloriana
+			Hawa Helene
 			Jabateh Jandi Jartu Jebbeh Jenneh Jewel Julia Jumah Justice
-			Kemah Kimmie Kula Kpanna 
-			Libertas Lorpu 
-			Mabasi Maima Martha Mary Miata Miranda Musu 
+			Kemah Kimmie Kula Kpanna
+			Libertas Lorpu
+			Mabasi Maima Martha Mary Miata Miranda Musu
 			Nullabona Nyanae
-			Rebecca Respublia Rhoda Ruth 
-			Sando Siah Somah Somo 
-			Tatu Tenneh 
-			Virginia 
-			Weyatta 
-			Yassa 
+			Rebecca Respublia Rhoda Ruth
+			Sando Siah Somah Somo
+			Tatu Tenneh
+			Virginia
+			Weyatta
+			Yassa
 			Zelma Zoe
 
 			Aisha Sarah Zainab_Zaynab
@@ -333,9 +333,9 @@ west_african = {
 		unit_graphical_cultures = { westafricangfx africangfx }
 
 		#secondary_event_pictures = bedouin_arabic
-		
+
 		color = { 0.5 0.6 1 }
-		
+
 		male_names = {
 			Abiodun Abraham Adolphus_Adolf Africanus Akintola Albert Alexander Alfred Ambrose Andrew Archibald Arthur Athanasius Austin Ayodele Azariah
 			Campbell Cato Cecil Charlie_Charles Chernor Clapham Claudius Clifford Coleridge Cornelius Christian Christopher Crispin Cyril
@@ -343,7 +343,7 @@ west_african = {
 			Daniel David Desmond
 			Ebenezer Edmund Edward Egerton Eldred Elliott Emeric Emmerson Ephraim Ernest Esegragbo Etheldred Eustace
 			Farquhar Farrell Felix Franklyn_Franklin Fraser Frederick
-			Gaston George Gershon Gorham 
+			Gaston George Gershon Gorham
 			Henry Herbert Hezekiah Horace
 			Ignatius Isaac Ishmael Israel Ivan
 			Jack_John James John Josiah
@@ -358,14 +358,14 @@ west_african = {
 			Terence Theophilus Thomas
 			Victor
 			Wallace Warren Wellesley Whitfield Wilfred William Willoughby Wilmot Wilwardo Winstanley
-			
+
 			Abbas Abdulaziz_Abdul-Aziz Abdullah Abu-Bakar_Abu-Bakr Ahmed Alhassan Ali Faisal Farid Hassan_Hasan Idris Jamil Khalil Mohamed_Mohammed Murad Mustapha_Mustafa Omar Said
 		}
-		
+
 		female_names = {
 			Adelaide Admire Agnes Alice Amelia Aminata Angela Anne Anne-Marie Avril
 			Bernadette
-			Cassandra Catherine Christiana Claudia Constance 
+			Cassandra Catherine Christiana Claudia Constance
 			Daisy Daphne Doris
 			Edna Eleanor Elizabeth_Elisabeth Esther Eunice
 			Fanny-Ann Fatima Frances Frederica

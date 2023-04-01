@@ -1,25 +1,25 @@
 e_swahili_coast = {
 	color={ 34 50 200 }
 	color2={ 255 255 255 }
-	
+
 	capital = 242
-				
+
 	k_kenya = {
 		color={ 220 100 34 }
 		color2={ 255 255 255 }
-				
+
 		capital = 332
-					
+
 		d_mashariki = {
 			color={ 50 159 34 }
 			color2={ 255 255 255 }
 
 			capital = 306
-						
+
 			c_mandera = {
 				color={ 50 100 174 }
 				color2={ 255 255 255 }
-				
+
 				b_el_wak = {}
 				b_mandera = {}
 				b_rhamu = {}
@@ -31,7 +31,7 @@ e_swahili_coast = {
 			c_wajir = {
 				color={ 241 159 126 }
 				color2={ 255 255 255 }
-				
+
 				b_habaswein = {}
 				b_wajir = {}
 				b_bute = {}
@@ -43,7 +43,7 @@ e_swahili_coast = {
 			c_garissa = {
 				color={ 34 188 34 }
 				color2={ 255 255 255 }
-				
+
 				b_dadaab = {}
 				b_garissa = {}
 				b_ijara = {}
@@ -55,7 +55,7 @@ e_swahili_coast = {
 			c_meru = {
 				color={ 230 157 4 }
 				color2={ 255 255 255 }
-				
+
 				b_nkubu = {}
 				b_meru = {}
 				b_maua = {}
@@ -67,7 +67,7 @@ e_swahili_coast = {
 			c_isiolo = {
 				color={ 16 130 10 }
 				color2={ 255 255 255 }
-				
+
 				b_garba_tula = {}
 				b_isiolo = {}
 				b_merti = {}
@@ -82,11 +82,11 @@ e_swahili_coast = {
 			color2={ 255 255 255 }
 
 			capital = 306
-						
+
 			c_lamu = {
 				color={ 250 50 36 }
 				color2={ 255 255 255 }
-				
+
 				b_lamu_town = {}
 				b_mpeketoni = {}
 				b_kizingitini = {}
@@ -98,7 +98,7 @@ e_swahili_coast = {
 			c_kwale = {
 				color={ 241 159 126 }
 				color2={ 255 255 255 }
-				
+
 				b_kwale = {}
 				b_ukunda = {}
 				b_kinango = {}
@@ -110,7 +110,7 @@ e_swahili_coast = {
 			c_kilifi = {
 				color={ 34 188 34 }
 				color2={ 255 255 255 }
-				
+
 				b_kilifi = {}
 				b_malindi = {}
 				b_gede = {}
@@ -122,7 +122,7 @@ e_swahili_coast = {
 			c_tana = {
 				color={ 230 107 187 }
 				color2={ 255 255 255 }
-				
+
 				b_bura = {}
 				b_hola = {}
 				b_garsen = {}
@@ -134,7 +134,7 @@ e_swahili_coast = {
 			c_taita_taveta = {
 				color={ 36 148 137 }
 				color2={ 255 255 255 }
-				
+
 				b_wundanyi = {}
 				b_voi = {}
 				b_taveta = {}
@@ -146,7 +146,7 @@ e_swahili_coast = {
 			c_mombasa = {
 				color={ 143 168 76 }
 				color2={ 255 255 255 }
-				
+
 				b_fort_jesus = {}
 				b_mombasa = {}
 				b_old_town = {}
@@ -161,11 +161,11 @@ e_swahili_coast = {
 			color2={ 255 255 255 }
 
 			capital = 306
-						
+
 			c_kitui = {
 				color={ 8 138 161 }
 				color2={ 255 255 255 }
-				
+
 				b_mwingi = {}
 				b_kitui = {}
 				b_mutomo = {}
@@ -177,7 +177,7 @@ e_swahili_coast = {
 			c_narok = {
 				color={ 221 139 107 }
 				color2={ 255 255 255 }
-				
+
 				b_narok = {}
 				b_kilgoris = {}
 				b_lemek = {}
@@ -189,7 +189,7 @@ e_swahili_coast = {
 			c_kajiado = {
 				color={ 23 160 205 }
 				color2={ 255 255 255 }
-				
+
 				b_kajiado = {}
 				b_ngong = {}
 				b_isinya = {}
@@ -201,7 +201,7 @@ e_swahili_coast = {
 			c_nairobi = {
 				color={ 134 61 160 }
 				color2={ 255 255 255 }
-				
+
 				b_westlands = {}
 				b_nairobi = {}
 				b_thika = {}
@@ -213,7 +213,7 @@ e_swahili_coast = {
 			c_makueni = {
 				color={ 8 138 161 }
 				color2={ 255 255 255 }
-				
+
 				b_makindu = {}
 				b_wote = {}
 				b_emali = {}
@@ -225,7 +225,7 @@ e_swahili_coast = {
 			c_machakos = {
 				color={ 8 138 161 }
 				color2={ 255 255 255 }
-				
+
 				b_athi_river = {}
 				b_machakos = {}
 				b_kangundo = {}
@@ -240,11 +240,11 @@ e_swahili_coast = {
 			color2={ 255 255 255 }
 
 			capital = 306
-				
+
 			c_ilemi = {
 				color={ 31 214 31 }
 				color2={ 255 255 255 }
-				
+
 				b_lokomarinyang = {}
 				b_kokuro = {}
 				b_napak = {}
@@ -252,11 +252,11 @@ e_swahili_coast = {
 				b_lotoibok = {}
 				b_todonyang = {}
 				b_lokwor = {}
-			}		
+			}
 			c_turkana = {
 				color={ 199 111 14 }
 				color2={ 255 255 255 }
-				
+
 				b_lokichogio = {}
 				b_lodwar = {}
 				b_kakuma = {}
@@ -268,7 +268,7 @@ e_swahili_coast = {
 			c_marsabit = {
 				color={ 255 56 251 }
 				color2={ 255 255 255 }
-				
+
 				b_marsabit = {}
 				b_moyale = {}
 				b_sololo = {}
@@ -280,7 +280,7 @@ e_swahili_coast = {
 			c_samburu = {
 				color={ 154 12 139 }
 				color2={ 255 255 255 }
-				
+
 				b_baragoi = {}
 				b_maralal = {}
 				b_archers_post = {}
@@ -295,11 +295,11 @@ e_swahili_coast = {
 			color2={ 255 255 255 }
 
 			capital = 306
-						
+
 			c_laikipia = {
 				color={ 173 79 18 }
 				color2={ 255 255 255 }
-				
+
 				b_rumuruti = {}
 				b_nanyuki = {}
 				b_nyahururu = {}
@@ -311,7 +311,7 @@ e_swahili_coast = {
 			c_uasin_gishu = {
 				color={ 198 166 199 }
 				color2={ 255 255 255 }
-				
+
 				b_elgon_view = {}
 				b_eldoret = {}
 				b_mois_bridge = {}
@@ -323,7 +323,7 @@ e_swahili_coast = {
 			c_baringo = {
 				color={ 220 91 212 }
 				color2={ 255 255 255 }
-				
+
 				b_eldama_ravine = {}
 				b_kabarnet = {}
 				b_marigat = {}
@@ -335,7 +335,7 @@ e_swahili_coast = {
 			c_embu = {
 				color={ 108 107 215 }
 				color2={ 255 255 255 }
-				
+
 				b_manyatta = {}
 				b_embu = {}
 				b_runyenjes = {}
@@ -347,7 +347,7 @@ e_swahili_coast = {
 			c_nyeri = {
 				color={ 150 253 73 }
 				color2={ 255 255 255 }
-				
+
 				b_othaya = {}
 				b_nyeri = {}
 				b_karatina = {}
@@ -362,11 +362,11 @@ e_swahili_coast = {
 			color2={ 255 255 255 }
 
 			capital = 306
-						
+
 			c_bungoma = {
 				color={ 206 34 43 }
 				color2={ 255 255 255 }
-				
+
 				b_bungoma = {}
 				b_kimilili = {}
 				b_webuye = {}
@@ -378,7 +378,7 @@ e_swahili_coast = {
 			c_trans_nzoia = {
 				color={ 90 31 55 }
 				color2={ 255 255 255 }
-				
+
 				b_endebess = {}
 				b_kitale = {}
 				b_kwanza = {}
@@ -390,7 +390,7 @@ e_swahili_coast = {
 			c_west_pokot = {
 				color={ 235 132 69 }
 				color2={ 255 255 255 }
-				
+
 				b_chepareria = {}
 				b_kapenguria = {}
 				b_sigor = {}
@@ -405,11 +405,11 @@ e_swahili_coast = {
 			color2={ 255 255 255 }
 
 			capital = 306
-						
+
 			c_kisumu = {
 				color={ 16 182 3 }
 				color2={ 255 255 255 }
-				
+
 				b_ahero = {}
 				b_kisumu = {}
 				b_muhoroni = {}
@@ -421,7 +421,7 @@ e_swahili_coast = {
 			c_homabay = {
 				color={ 192 16 203 }
 				color2={ 255 255 255 }
-				
+
 				b_kendu_bay = {}
 				b_homa_bay = {}
 				b_awach_tende = {}
@@ -433,7 +433,7 @@ e_swahili_coast = {
 			c_kericho = {
 				color={ 231 181 128 }
 				color2={ 255 255 255 }
-				
+
 				b_kipkelion = {}
 				b_kericho = {}
 				b_litein = {}
@@ -445,7 +445,7 @@ e_swahili_coast = {
 			c_nakuru = {
 				color={ 120 14 65 }
 				color2={ 255 255 255 }
-				
+
 				b_naivasha = {}
 				b_nakuru = {}
 				b_molo = {}
@@ -459,7 +459,7 @@ e_swahili_coast = {
 	k_tanzania = {
 		color={ 109 105 154 }
 		color2={ 255 255 255 }
-				
+
 		capital = 242
 
 		d_zanzibar = {
@@ -467,11 +467,11 @@ e_swahili_coast = {
 			color2={ 255 255 255 }
 
 			capital = 239
-						
+
 			c_pemba = {
 				color={ 241 158 109 }
 				color2={ 255 255 255 }
-				
+
 				b_chake_chake = {}
 				b_wete = {}
 				b_mkoani = {}
@@ -483,7 +483,7 @@ e_swahili_coast = {
 			c_unguja = {
 				color={ 147 105 72 }
 				color2={ 255 255 255 }
-				
+
 				b_stone_town = {}
 				b_zanzibar_city = {}
 				b_mbweni = {}
@@ -495,7 +495,7 @@ e_swahili_coast = {
 			c_mafia = {
 				color={ 154 91 236 }
 				color2={ 255 255 255 }
-				
+
 				b_baleni = {}
 				b_kilindoni = {}
 				b_kirongwe = {}
@@ -510,11 +510,11 @@ e_swahili_coast = {
 			color2={ 255 255 255 }
 
 			capital = 242
-						
+
 			c_tanga = {
 				color={ 1 162 75 }
 				color2={ 255 255 255 }
-				
+
 				b_muheza = {}
 				b_tanga = {}
 				b_korogwe = {}
@@ -526,7 +526,7 @@ e_swahili_coast = {
 			c_handeni = {
 				color={ 146 203 2 }
 				color2={ 255 255 255 }
-				
+
 				b_pangani = {}
 				b_handeni = {}
 				b_segera = {}
@@ -538,7 +538,7 @@ e_swahili_coast = {
 			c_dar_es_salaam = {
 				color={ 119 194 15 }
 				color2={ 255 255 255 }
-				
+
 				b_ilala = {}
 				b_kinondoni = {}
 				b_kigamboni = {}
@@ -550,7 +550,7 @@ e_swahili_coast = {
 			c_rufiji = {
 				color={ 248 188 188 }
 				color2={ 255 255 255 }
-				
+
 				b_kibiti = {}
 				b_bungu = {}
 				b_utete = {}
@@ -562,7 +562,7 @@ e_swahili_coast = {
 			c_bagamoyo = {
 				color={ 253 131 19 }
 				color2={ 255 255 255 }
-				
+
 				b_kibaha = {}
 				b_bagamoyo = {}
 				b_kaole = {}
@@ -574,7 +574,7 @@ e_swahili_coast = {
 			c_mkuranga = {
 				color={ 133 136 141 }
 				color2={ 255 255 255 }
-				
+
 				b_vikindu = {}
 				b_mkuranga = {}
 				b_kisarawe = {}
@@ -589,11 +589,11 @@ e_swahili_coast = {
 			color2={ 255 255 255 }
 
 			capital = 242
-						
+
 			c_kilwa = {
 				color={ 226 238 95 }
 				color2={ 255 255 255 }
-				
+
 				b_kilwa_kivinje = {}
 				b_kilwa_masoko = {}
 				b_kilwa_kisiwani = {}
@@ -605,7 +605,7 @@ e_swahili_coast = {
 			c_mtwara = {
 				color={ 126 136 131 }
 				color2={ 255 255 255 }
-				
+
 				b_masasi = {}
 				b_mtwara = {}
 				b_tandahimba = {}
@@ -617,7 +617,7 @@ e_swahili_coast = {
 			c_lindi = {
 				color={ 96 4 108 }
 				color2={ 255 255 255 }
-				
+
 				b_ruangwa = {}
 				b_lindi = {}
 				b_nachingweya = {}
@@ -629,7 +629,7 @@ e_swahili_coast = {
 			c_liwale = {
 				color={ 66 207 141 }
 				color2={ 255 255 255 }
-				
+
 				b_kiangara = {}
 				b_liwale = {}
 				b_kibutuka = {}
@@ -644,11 +644,11 @@ e_swahili_coast = {
 			color2={ 255 255 255 }
 
 			capital = 242
-						
+
 			c_morogoro = {
 				color={ 81 213 77 }
 				color2={ 255 255 255 }
-				
+
 				b_ngerengere = {}
 				b_morogoro = {}
 				b_tawa = {}
@@ -660,7 +660,7 @@ e_swahili_coast = {
 			c_ulanga = {
 				color={ 253 170 78 }
 				color2={ 255 255 255 }
-				
+
 				b_lupiro = {}
 				b_mahenge = {}
 				b_mtimbira = {}
@@ -672,7 +672,7 @@ e_swahili_coast = {
 			c_kilombero = {
 				color={ 139 95 70 }
 				color2={ 255 255 255 }
-				
+
 				b_kidatu = {}
 				b_ifakara = {}
 				b_mlimba = {}
@@ -684,7 +684,7 @@ e_swahili_coast = {
 			c_kilosa = {
 				color={ 220 184 154 }
 				color2={ 255 255 255 }
-				
+
 				b_gairo = {}
 				b_kilosa = {}
 				b_kimamba = {}
@@ -699,11 +699,11 @@ e_swahili_coast = {
 			color2={ 255 255 255 }
 
 			capital = 242
-						
+
 			c_tunduru = {
 				color={ 252 127 82 }
 				color2={ 255 255 255 }
-				
+
 				b_matemanga = {}
 				b_tunduru = {}
 				b_nakapanya = {}
@@ -715,7 +715,7 @@ e_swahili_coast = {
 			c_songea = {
 				color={ 8 181 218 }
 				color2={ 255 255 255 }
-				
+
 				b_namtumbo = {}
 				b_songea = {}
 				b_mchomolo = {}
@@ -727,7 +727,7 @@ e_swahili_coast = {
 			c_nyasa = {
 				color={ 4 162 254 }
 				color2={ 255 255 255 }
-				
+
 				b_mbamba_bay = {}
 				b_mbinga = {}
 				b_kigonsera = {}
@@ -742,11 +742,11 @@ e_swahili_coast = {
 			color2={ 255 255 255 }
 
 			capital = 259
-						
+
 			c_iringa = {
 				color={ 125 97 137 }
 				color2={ 255 255 255 }
-				
+
 				b_isimani = {}
 				b_iringa = {}
 				b_kalenga = {}
@@ -758,7 +758,7 @@ e_swahili_coast = {
 			c_mafinga = {
 				color={ 74 138 20 }
 				color2={ 255 255 255 }
-				
+
 				b_mufindi = {}
 				b_mafinga = {}
 				b_ifunda = {}
@@ -770,7 +770,7 @@ e_swahili_coast = {
 			c_dodoma = {
 				color={ 29 146 125 }
 				color2={ 255 255 255 }
-				
+
 				b_bahi = {}
 				b_dodoma = {}
 				b_ntyuka = {}
@@ -782,7 +782,7 @@ e_swahili_coast = {
 			c_kondoa = {
 				color={ 222 195 3 }
 				color2={ 255 255 255 }
-				
+
 				b_chemba = {}
 				b_kondoa = {}
 				b_kolo = {}
@@ -794,7 +794,7 @@ e_swahili_coast = {
 			c_udzungwa = {
 				color={ 152 113 214 }
 				color2={ 255 255 255 }
-				
+
 				b_ilula = {}
 				b_kilolo = {}
 				b_mazombe = {}
@@ -806,7 +806,7 @@ e_swahili_coast = {
 			c_mpwapwa = {
 				color={ 168 33 38 }
 				color2={ 255 255 255 }
-				
+
 				b_kongwa = {}
 				b_mpwapwa = {}
 				b_chamwino = {}
@@ -821,11 +821,11 @@ e_swahili_coast = {
 			color2={ 255 255 255 }
 
 			capital = 259
-						
+
 			c_kiteto = {
 				color={ 141 9 154 }
 				color2={ 255 255 255 }
-				
+
 				b_orkesumet = {}
 				b_kibaya = {}
 				b_terrat = {}
@@ -837,7 +837,7 @@ e_swahili_coast = {
 			c_babati = {
 				color={ 179 202 211 }
 				color2={ 255 255 255 }
-				
+
 				b_mbulu = {}
 				b_babati = {}
 				b_haydom = {}
@@ -849,7 +849,7 @@ e_swahili_coast = {
 			c_arusha = {
 				color={ 53 223 169 }
 				color2={ 255 255 255 }
-				
+
 				b_usa_river = {}
 				b_arusha = {}
 				b_monduli = {}
@@ -861,7 +861,7 @@ e_swahili_coast = {
 			c_ngorongoro = {
 				color={ 169 160 228 }
 				color2={ 255 255 255 }
-				
+
 				b_loliondo = {}
 				b_karatu = {}
 				b_mto_wa_mbu = {}
@@ -873,7 +873,7 @@ e_swahili_coast = {
 			c_kilimanjaro = {
 				color={ 211 111 213 }
 				color2={ 255 255 255 }
-				
+
 				b_boma_ngombe = {}
 				b_moshi = {}
 				b_himo = {}
@@ -885,7 +885,7 @@ e_swahili_coast = {
 			c_mkomazi = {
 				color={ 92 230 238 }
 				color2={ 255 255 255 }
-				
+
 				b_same = {}
 				b_mwanga = {}
 				b_lembeni = {}
@@ -900,11 +900,11 @@ e_swahili_coast = {
 			color2={ 255 255 255 }
 
 			capital = 259
-						
+
 			c_musoma = {
 				color={ 179 78 11 }
 				color2={ 255 255 255 }
-				
+
 				b_bunda_town = {}
 				b_musoma = {}
 				b_butiama = {}
@@ -916,7 +916,7 @@ e_swahili_coast = {
 			c_serengeti = {
 				color={ 184 174 205 }
 				color2={ 255 255 255 }
-				
+
 				b_nyamongo = {}
 				b_mugumu = {}
 				b_nyamwaga = {}
@@ -928,7 +928,7 @@ e_swahili_coast = {
 			c_bariadi = {
 				color={ 243 240 107 }
 				color2={ 255 255 255 }
-				
+
 				b_lamadi = {}
 				b_bariadi = {}
 				b_nkololo = {}
@@ -940,7 +940,7 @@ e_swahili_coast = {
 			c_maswa = {
 				color={ 143 194 156 }
 				color2={ 255 255 255 }
-				
+
 				b_nyalikungu = {}
 				b_maswa = {}
 				b_malampaka = {}
@@ -954,7 +954,7 @@ e_swahili_coast = {
 	k_great_lakes = {
 		color={ 47 66 196 }
 		color2={ 255 255 255 }
-				
+
 		capital = 242
 
 		d_mbeya = {
@@ -962,11 +962,11 @@ e_swahili_coast = {
 			color2={ 255 255 255 }
 
 			capital = 259
-						
+
 			c_mbeya = {
 				color={ 19 199 47 }
 				color2={ 255 255 255 }
-				
+
 				b_kyela = {}
 				b_mbeya = {}
 				b_rungwe = {}
@@ -978,7 +978,7 @@ e_swahili_coast = {
 			c_mbarali = {
 				color={ 197 123 66 }
 				color2={ 255 255 255 }
-				
+
 				b_chunya = {}
 				b_ubaruku = {}
 				b_igurusi = {}
@@ -990,7 +990,7 @@ e_swahili_coast = {
 			c_njombe = {
 				color={ 235 29 196 }
 				color2={ 255 255 255 }
-				
+
 				b_njombe = {}
 				b_makambako = {}
 				b_wangingombe = {}
@@ -1002,7 +1002,7 @@ e_swahili_coast = {
 			c_songwe = {
 				color={ 216 62 5 }
 				color2={ 255 255 255 }
-				
+
 				b_saza = {}
 				b_mwambani = {}
 				b_isechi = {}
@@ -1017,11 +1017,11 @@ e_swahili_coast = {
 			color2={ 255 255 255 }
 
 			capital = 259
-						
+
 			c_sumbawanga = {
 				color={ 84 224 93 }
 				color2={ 255 255 255 }
-				
+
 				b_matai = {}
 				b_sumbawanga = {}
 				b_laela = {}
@@ -1033,7 +1033,7 @@ e_swahili_coast = {
 			c_nkasi = {
 				color={ 34 162 8 }
 				color2={ 255 255 255 }
-				
+
 				b_chala = {}
 				b_namanyere = {}
 				b_kiranda = {}
@@ -1045,7 +1045,7 @@ e_swahili_coast = {
 			c_mbozi = {
 				color={ 111 104 199 }
 				color2={ 255 255 255 }
-				
+
 				b_tunduma = {}
 				b_vwawa = {}
 				b_ileje = {}
@@ -1060,11 +1060,11 @@ e_swahili_coast = {
 			color2={ 255 255 255 }
 
 			capital = 259
-						
+
 			c_mlele = {
 				color={ 73 190 133 }
 				color2={ 255 255 255 }
-				
+
 				b_ugalla = {}
 				b_inyonga = {}
 				b_nsimbo = {}
@@ -1076,7 +1076,7 @@ e_swahili_coast = {
 			c_mpanda = {
 				color={ 108 203 299 }
 				color2={ 255 255 255 }
-				
+
 				b_kabungu = {}
 				b_mpanda = {}
 				b_karema = {}
@@ -1088,7 +1088,7 @@ e_swahili_coast = {
 			c_kigoma = {
 				color={ 123 126 161 }
 				color2={ 255 255 255 }
-				
+
 				b_ujiji = {}
 				b_kigoma = {}
 				b_mwandiga = {}
@@ -1100,7 +1100,7 @@ e_swahili_coast = {
 			c_kasulu = {
 				color={ 78 190 158 }
 				color2={ 255 255 255 }
-				
+
 				b_buhigwe = {}
 				b_kasulu_town = {}
 				b_manyovu = {}
@@ -1112,7 +1112,7 @@ e_swahili_coast = {
 			c_kibondo = {
 				color={ 19 53 108 }
 				color2={ 255 255 255 }
-				
+
 				b_kakonko = {}
 				b_kibondo = {}
 				b_kasanda = {}
@@ -1124,7 +1124,7 @@ e_swahili_coast = {
 			c_uvinza = {
 				color={ 146 81 217 }
 				color2={ 255 255 255 }
-				
+
 				b_masanza = {}
 				b_uvinza = {}
 				b_nguruka = {}
@@ -1139,11 +1139,11 @@ e_swahili_coast = {
 			color2={ 255 255 255 }
 
 			capital = 259
-						
+
 			c_manyoni = {
 				color={ 68 119 230 }
 				color2={ 255 255 255 }
-				
+
 				b_itigi = {}
 				b_manyoni = {}
 				b_kintinku = {}
@@ -1155,7 +1155,7 @@ e_swahili_coast = {
 			c_singida = {
 				color={ 9 252 50 }
 				color2={ 255 255 255 }
-				
+
 				b_ikungi = {}
 				b_singida = {}
 				b_kiomboi = {}
@@ -1167,7 +1167,7 @@ e_swahili_coast = {
 			c_urambo = {
 				color={ 202 192 130 }
 				color2={ 255 255 255 }
-				
+
 				b_kaliua = {}
 				b_urambo = {}
 				b_usinge = {}
@@ -1179,7 +1179,7 @@ e_swahili_coast = {
 			c_nzega = {
 				color={ 206 3 24 }
 				color2={ 255 255 255 }
-				
+
 				b_bukene = {}
 				b_nzega = {}
 				b_igunga = {}
@@ -1191,7 +1191,7 @@ e_swahili_coast = {
 			c_tabora = {
 				color={ 141 71 139 }
 				color2={ 255 255 255 }
-				
+
 				b_tumbi = {}
 				b_tabora = {}
 				b_lulanguru = {}
@@ -1203,7 +1203,7 @@ e_swahili_coast = {
 			c_uyui = {
 				color={ 138 134 29 }
 				color2={ 255 255 255 }
-				
+
 				b_ikungu = {}
 				b_goweko = {}
 				b_kigwa = {}
@@ -1215,7 +1215,7 @@ e_swahili_coast = {
 			c_sikonge = {
 				color={ 228 165 51 }
 				color2={ 255 255 255 }
-				
+
 				b_ipole = {}
 				b_sikonge = {}
 				b_kiloli = {}
@@ -1230,11 +1230,11 @@ e_swahili_coast = {
 			color2={ 255 255 255 }
 
 			capital = 259
-						
+
 			c_bukoba = {
 				color={ 231 103 149 }
 				color2={ 255 255 255 }
-				
+
 				b_muleba = {}
 				b_bukoba = {}
 				b_omurushaka = {}
@@ -1246,7 +1246,7 @@ e_swahili_coast = {
 			c_biharamulo = {
 				color={ 88 3 244 }
 				color2={ 255 255 255 }
-				
+
 				b_kabanga = {}
 				b_biharamulo = {}
 				b_muzani = {}
@@ -1258,7 +1258,7 @@ e_swahili_coast = {
 			c_mwanza = {
 				color={ 228 159 104 }
 				color2={ 255 255 255 }
-				
+
 				b_sengerama = {}
 				b_mwanza = {}
 				b_misungwi = {}
@@ -1270,7 +1270,7 @@ e_swahili_coast = {
 			c_shinyanga = {
 				color={ 137 161 232 }
 				color2={ 255 255 255 }
-				
+
 				b_kahama = {}
 				b_shinyanga = {}
 				b_isaka = {}
@@ -1282,9 +1282,9 @@ e_swahili_coast = {
 			c_geita = {
 				color={ 250 143 204 }
 				color2={ 255 255 255 }
-				
+
 				b_chato = {}
-				b_geita = {}	
+				b_geita = {}
 				b_kharumwa = {}
 				b_kasama = {}
 				b_auriole = {}
@@ -1294,7 +1294,7 @@ e_swahili_coast = {
 			c_bukombe = {
 				color={ 130 150 74 }
 				color2={ 255 255 255 }
-				
+
 				b_marongwe = {}
 				b_ushirombo = {}
 				b_mbogwe = {}
@@ -1309,11 +1309,11 @@ e_swahili_coast = {
 			color2={ 255 255 255 }
 
 			capital = 259
-						
+
 			c_kigali = {
 				color={ 147 233 129 }
 				color2={ 255 255 255 }
-				
+
 				b_kabuga = {}
 				b_kigali = {}
 				b_byumba = {}
@@ -1325,7 +1325,7 @@ e_swahili_coast = {
 			c_nyanza = {
 				color={ 147 105 155 }
 				color2={ 255 255 255 }
-				
+
 				b_nyanza = {}
 				b_butare = {}
 				b_muhanga = {}
@@ -1337,7 +1337,7 @@ e_swahili_coast = {
 			c_kibuye = {
 				color={ 62 240 163 }
 				color2={ 255 255 255 }
-				
+
 				b_kibuye = {}
 				b_gisenyi = {}
 				b_cyangugu = {}
@@ -1352,11 +1352,11 @@ e_swahili_coast = {
 			color2={ 255 255 255 }
 
 			capital = 259
-						
+
 			c_bujumbura = {
 				color={ 159 93 229 }
 				color2={ 255 255 255 }
-				
+
 				b_cibitoke = {}
 				b_bujumbura = {}
 				b_ngozi = {}
@@ -1368,7 +1368,7 @@ e_swahili_coast = {
 			c_gitega = {
 				color={ 6 173 221 }
 				color2={ 255 255 255 }
-				
+
 				b_kayanza = {}
 				b_gitega = {}
 				b_karuzi = {}
@@ -1380,7 +1380,7 @@ e_swahili_coast = {
 			c_rumonge = {
 				color={ 121 49 118 }
 				color2={ 255 255 255 }
-				
+
 				b_bururi = {}
 				b_rumonge = {}
 				b_makamba = {}
@@ -1394,7 +1394,7 @@ e_swahili_coast = {
 	k_uganda = {
 		color={ 133 66 246 }
 		color2={ 255 255 255 }
-				
+
 		capital = 242
 
 		d_jinja = {
@@ -1402,11 +1402,11 @@ e_swahili_coast = {
 			color2={ 255 255 255 }
 
 			capital = 259
-						
+
 			c_busoga = {
 				color={ 133 7 55 }
 				color2={ 255 255 255 }
-				
+
 				b_bugembe = {}
 				b_jinja = {}
 				b_iganga = {}
@@ -1418,7 +1418,7 @@ e_swahili_coast = {
 			c_teso = {
 				color={ 155 11 8 }
 				color2={ 255 255 255 }
-				
+
 				b_kumi_town = {}
 				b_soroti = {}
 				b_bukedea = {}
@@ -1430,7 +1430,7 @@ e_swahili_coast = {
 			c_bugisu = {
 				color={ 81 92 217 }
 				color2={ 255 255 255 }
-				
+
 				b_sironko = {}
 				b_mbale = {}
 				b_tororo = {}
@@ -1445,11 +1445,11 @@ e_swahili_coast = {
 			color2={ 255 255 255 }
 
 			capital = 259
-						
+
 			c_masaka = {
 				color={ 217 131 23 }
 				color2={ 255 255 255 }
-				
+
 				b_lukaya = {}
 				b_masaka = {}
 				b_kalisizo = {}
@@ -1461,7 +1461,7 @@ e_swahili_coast = {
 			c_buikwe = {
 				color={ 181 66 116 }
 				color2={ 255 255 255 }
-				
+
 				b_buikwe = {}
 				b_njeru = {}
 				b_lugazi = {}
@@ -1473,7 +1473,7 @@ e_swahili_coast = {
 			c_kampala = {
 				color={ 242 37 222 }
 				color2={ 255 255 255 }
-				
+
 				b_mengo = {}
 				b_kampala = {}
 				b_nansana = {}
@@ -1485,7 +1485,7 @@ e_swahili_coast = {
 			c_mubende = {
 				color={ 157 107 195 }
 				color2={ 255 255 255 }
-				
+
 				b_kiboga = {}
 				b_mubende = {}
 				b_nakaseke = {}
@@ -1500,11 +1500,11 @@ e_swahili_coast = {
 			color2={ 255 255 255 }
 
 			capital = 259
-						
+
 			c_moroto = {
 				color={ 111 245 250 }
 				color2={ 255 255 255 }
-				
+
 				b_nakapiripirit = {}
 				b_moroto = {}
 				b_iriri = {}
@@ -1516,7 +1516,7 @@ e_swahili_coast = {
 			c_kotido = {
 				color={ 112 209 242 }
 				color2={ 255 255 255 }
-				
+
 				b_abim = {}
 				b_kotido = {}
 				b_kaabong = {}
@@ -1531,11 +1531,11 @@ e_swahili_coast = {
 			color2={ 255 255 255 }
 
 			capital = 259
-						
+
 			c_lango = {
 				color={ 212 205 207 }
 				color2={ 255 255 255 }
-				
+
 				b_oyam = {}
 				b_lira = {}
 				b_dokolo = {}
@@ -1547,7 +1547,7 @@ e_swahili_coast = {
 			c_kitgum = {
 				color={ 114 151 9 }
 				color2={ 255 255 255 }
-				
+
 				b_pader = {}
 				b_kitgum = {}
 				b_kalango = {}
@@ -1559,7 +1559,7 @@ e_swahili_coast = {
 			c_gulu = {
 				color={ 175 215 146 }
 				color2={ 255 255 255 }
-				
+
 				b_amuru = {}
 				b_gulu = {}
 				b_palenga = {}
@@ -1571,7 +1571,7 @@ e_swahili_coast = {
 			c_west_nile = {
 				color={ 128 188 246 }
 				color2={ 255 255 255 }
-				
+
 				b_pakwach = {}
 				b_arua = {}
 				b_nebbi = {}
@@ -1586,11 +1586,11 @@ e_swahili_coast = {
 			color2={ 255 255 255 }
 
 			capital = 259
-						
+
 			c_kigezi = {
 				color={ 55 243 168 }
 				color2={ 255 255 255 }
-				
+
 				b_rukungiri = {}
 				b_kabale = {}
 				b_kanungu = {}
@@ -1602,7 +1602,7 @@ e_swahili_coast = {
 			c_ankole = {
 				color={ 233 201 46 }
 				color2={ 255 255 255 }
-				
+
 				b_bushenyi = {}
 				b_mbarara = {}
 				b_ibanda = {}
@@ -1614,7 +1614,7 @@ e_swahili_coast = {
 			c_rwenzururu = {
 				color={ 231 192 136 }
 				color2={ 255 255 255 }
-				
+
 				b_fort_portal = {}
 				b_kasese = {}
 				b_ntoroko = {}
@@ -1626,7 +1626,7 @@ e_swahili_coast = {
 			c_tooro = {
 				color={ 223 92 70 }
 				color2={ 255 255 255 }
-				
+
 				b_kamwenge = {}
 				b_kyenjojo = {}
 				b_kyegegwa = {}
@@ -1638,7 +1638,7 @@ e_swahili_coast = {
 			c_bunyoro = {
 				color={ 246 35 118 }
 				color2={ 255 255 255 }
-				
+
 				b_masindi = {}
 				b_hoima = {}
 				b_kiryandongo = {}

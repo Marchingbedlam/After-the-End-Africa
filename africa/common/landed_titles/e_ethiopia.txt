@@ -1,13 +1,13 @@
 e_ethiopia = {
 	color={ 200 34 94 }
 	color2={ 255 255 20 }
-	
+
 	k_somalia = {
 		color={ 0 53 148 }
 		color2={ 255 255 255 }
 
 		somali="Soomaaliya"
-						
+
 		d_jubaland = {
 			color={ 77 162 207 }
 			color2={ 255 255 255 }
@@ -19,7 +19,7 @@ e_ethiopia = {
 				color2={ 255 255 255 }
 
 				somali="Kismaayo"
-					
+
 				b_kismayo = {somali="Kismaayo"}
 				b_jamaame = {}
 				b_ras_kamboni = {}
@@ -31,7 +31,7 @@ e_ethiopia = {
 			c_afmadow = {
 				color={ 58 73 207 }
 				color2={ 255 255 255 }
-					
+
 				b_afmadow = {}
 				b_xagar = {}
 				b_dhobley = {}
@@ -45,7 +45,7 @@ e_ethiopia = {
 				color2={ 255 255 255 }
 
 				somali="Jubbada Dhexe"
-					
+
 				b_buaale = {}
 				b_saakow = {}
 				b_jilib = {}
@@ -62,7 +62,7 @@ e_ethiopia = {
 			c_bardhere = {
 				color={ 203 212 29 }
 				color2={ 255 255 255 }
-					
+
 				b_bardhere = {}
 				b_el_wak = {}
 				b_kurman = {}
@@ -74,7 +74,7 @@ e_ethiopia = {
 			c_garbaharey = {
 				color={ 58 73 207 }
 				color2={ 255 255 255 }
-					
+
 				b_garbaharey = {}
 				b_luuq = {}
 				b_beled_hawo = {}
@@ -91,7 +91,7 @@ e_ethiopia = {
 			c_baay = {
 				color={ 212 71 134 }
 				color2={ 255 255 255 }
-					
+
 				b_baidoa = {}
 				b_dinsoor = {}
 				b_buurhakaba = {}
@@ -103,7 +103,7 @@ e_ethiopia = {
 			c_bakool = {
 				color={ 19 31 107 }
 				color2={ 255 255 255 }
-					
+
 				b_xuddur = {}
 				b_waajid = {}
 				b_tiyeegloow = {}
@@ -122,7 +122,7 @@ e_ethiopia = {
 				color2={ 255 255 255 }
 
 				somali="Muqdisho"
-					
+
 				b_mogadishu = {somali="Muqdisho"}
 				b_afgooye = {}
 				b_lafoole = {}
@@ -136,7 +136,7 @@ e_ethiopia = {
 				color2={ 255 255 255 }
 
 				somali="Baraawe"
-					
+
 				b_barawa = {somali="Baraawe"}
 				b_buulo_mareer = {}
 				b_kurtunwarey = {}
@@ -148,9 +148,9 @@ e_ethiopia = {
 			c_merca = {
 				color={ 212 145 71 }
 				color2={ 255 255 255 }
-				
+
 				somali="Marka"
-					
+
 				b_merca = {somali="Marka"}
 				b_qoryooley = {}
 				b_janaale = {}
@@ -162,7 +162,7 @@ e_ethiopia = {
 			c_shabeellaha = {
 				color={ 206 163 3 }
 				color2={ 255 255 255 }
-					
+
 				b_jowhaar = {}
 				b_balcad = {}
 				b_adale = {}
@@ -179,7 +179,7 @@ e_ethiopia = {
 			c_buuloburde = {
 				color={ 44 16 83 }
 				color2={ 255 255 255 }
-					
+
 				b_buuloburde = {}
 				b_jalalaqsi = {}
 				b_aboorey = {}
@@ -191,7 +191,7 @@ e_ethiopia = {
 			c_beledweyne = {
 				color={ 44 16 83 }
 				color2={ 255 255 255 }
-					
+
 				b_beledweyne = {}
 				b_matabaan = {}
 				b_el_ali = {}
@@ -208,7 +208,7 @@ e_ethiopia = {
 			c_dhusamareeb = {
 				color={ 26 141 182 }
 				color2={ 255 255 255 }
-					
+
 				b_dhusamareeb = {}
 				b_adado = {}
 				b_abudwak = {}
@@ -222,7 +222,7 @@ e_ethiopia = {
 				color2={ 255 255 255 }
 
 				somali="Ceelbuur"
-					
+
 				b_el_buur = {somali="Ceelbuur"}
 				b_el_dhere = {somali="Ceeldheere"}
 				b_gal_hareeri = {}
@@ -236,7 +236,7 @@ e_ethiopia = {
 				color2={ 255 255 255 }
 
 				somali="Xaradheere"
-					
+
 				b_haradhere = {somali="Xaradheere"}
 				b_qeycad = {}
 				b_dabagalo = {}
@@ -248,7 +248,7 @@ e_ethiopia = {
 			c_hobyo = {
 				color={ 74 183 179 }
 				color2={ 255 255 255 }
-					
+
 				b_hobyo = {}
 				b_jaribaan = {}
 				b_budbud = {}
@@ -260,9 +260,9 @@ e_ethiopia = {
 			c_galkayo = {
 				color={ 236 234 160 }
 				color2={ 255 255 255 }
-				
+
 				somali="Gaalkacyo"
-					
+
 				b_galkayo = {somali="Gaalkacyo"}
 				b_galdogob = {}
 				b_galinsoor = {}
@@ -279,7 +279,7 @@ e_ethiopia = {
 			c_nugaal = {
 				color={ 74 113 183 }
 				color2={ 255 255 255 }
-					
+
 				b_garoowe = {}
 				b_eyl = {}
 				b_buurtinle = {}
@@ -291,7 +291,7 @@ e_ethiopia = {
 			c_karkaar = {
 				color={ 222 83 51 }
 				color2={ 255 255 255 }
-					
+
 				b_qardho = {}
 				b_bandar_beyla = {}
 				b_rako_raaxo = {}
@@ -305,7 +305,7 @@ e_ethiopia = {
 				color2={ 255 255 255 }
 
 				somali="Gardafuul"
-					
+
 				b_alula = {}
 				b_iskushuban = {}
 				b_xaabo = {}
@@ -319,7 +319,7 @@ e_ethiopia = {
 				color2={ 255 255 255 }
 
 				somali="Boosaaso"
-					
+
 				b_bosaso = {somali="Boosaaso"}
 				b_qandala = {}
 				b_ufeyn = {}
@@ -336,7 +336,7 @@ e_ethiopia = {
 			c_badhan = {
 				color={ 92 114 139 }
 				color2={ 255 255 255 }
-					
+
 				b_badhan = {}
 				b_heylaan = {}
 				b_las_khorey = {}
@@ -350,7 +350,7 @@ e_ethiopia = {
 				color2={ 255 255 255 }
 
 				somali="Ceerigaabo"
-					
+
 				b_erigavo = {somali="Ceerigaabo"}
 				b_el_afweyn = {}
 				b_xiis = {}
@@ -362,7 +362,7 @@ e_ethiopia = {
 			c_khaatumo = {
 				color={ 169 71 82 }
 				color2={ 255 255 255 }
-					
+
 				b_taleh = {}
 				b_xudun = {}
 				b_god_alo = {}
@@ -374,7 +374,7 @@ e_ethiopia = {
 			c_sool = {
 				color={ 198 36 54 }
 				color2={ 255 255 255 }
-					
+
 				b_las_anod = {}
 				b_aynaba = {}
 				b_saaxdheer = {}
@@ -391,7 +391,7 @@ e_ethiopia = {
 			c_buuhoodle = {
 				color={ 21 72 99 }
 				color2={ 255 255 255 }
-					
+
 				b_buuhoodle = {}
 				b_widhwidh = {}
 				b_ceegaag = {}
@@ -405,7 +405,7 @@ e_ethiopia = {
 				color2={ 255 255 255 }
 
 				somali="Burco"
-					
+
 				b_burao = {somali="Burco"}
 				b_oodweyne = {}
 				b_dhoqoshay = {}
@@ -424,7 +424,7 @@ e_ethiopia = {
 				color2={ 255 255 255 }
 
 				somali="Saaxil"
-					
+
 				b_berbera = {}
 				b_shiikh = {}
 				b_bulaxaar = {}
@@ -436,7 +436,7 @@ e_ethiopia = {
 			c_hargeysa = {
 				color={ 58 140 182 }
 				color2={ 255 255 255 }
-					
+
 				b_hargeysa = {}
 				b_gabiley = {}
 				b_baligubadle = {}
@@ -448,7 +448,7 @@ e_ethiopia = {
 			c_awdal = {
 				color={ 63 69 123 }
 				color2={ 255 255 255 }
-					
+
 				b_boorama = {}
 				b_zeila = {}
 				b_lughaya = {}
@@ -467,7 +467,7 @@ e_ethiopia = {
 				color2={ 255 255 255 }
 
 				somali="Doollo"
-					
+
 				b_warder = {}
 				b_danot = {}
 				b_bokh = {}
@@ -479,7 +479,7 @@ e_ethiopia = {
 			c_jarar = {
 				color={ 227 136 10 }
 				color2={ 255 255 255 }
-					
+
 				b_degehabur = {}
 				b_daroor = {}
 				b_awaare = {}
@@ -493,7 +493,7 @@ e_ethiopia = {
 				color2={ 255 255 255 }
 
 				somali="Faafan"
-					
+
 				b_jijiga = {}
 				b_awbare = {}
 				b_kebri_beyah = {}
@@ -507,7 +507,7 @@ e_ethiopia = {
 				color2={ 255 255 255 }
 
 				somali="Qoraxeey"
-					
+
 				b_kebri_dehar = {}
 				b_shekosh = {}
 				b_debeweyin = {}
@@ -520,7 +520,7 @@ e_ethiopia = {
 				color2={ 255 255 255 }
 
 				somali="Afdheer"
-					
+
 				b_hargelle = {}
 				b_cherti = {}
 				b_imi = {}
@@ -532,7 +532,7 @@ e_ethiopia = {
 			c_shabelle = {
 				color={ 11 186 99 }
 				color2={ 255 255 255 }
-					
+
 				b_gode = {}
 				b_kelafo = {}
 				b_mustahil = {}
@@ -544,7 +544,7 @@ e_ethiopia = {
 			c_nogob = {
 				color={ 38 204 130 }
 				color2={ 255 255 255 }
-					
+
 				b_fiq = {}
 				b_segeg = {}
 				b_hamero = {}
@@ -556,7 +556,7 @@ e_ethiopia = {
 			c_shilabo = {
 				color={ 86 89 201 }
 				color2={ 255 255 255 }
-					
+
 				b_shilabo = {}
 			}
 		}

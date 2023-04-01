@@ -1,12 +1,12 @@
 mande = {
 	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
 	graphical_cultures = { muslimgfx }
-	
+
 	soninke = {
 		graphical_cultures = { westafricangfx africangfx }
-		
+
 		color = { 0.8 0.7 0 }
-		
+
 		male_names = {
 			Abou-Bekr_Abu-Bakr Alassane_Alhassan Ali Alpha Amadou_Ahmed
 			Bamoi Bassi Boucari_Bakr
@@ -39,9 +39,9 @@ mande = {
 	}
 	susu = {
 		graphical_cultures = { westafricangfx africangfx }
-		
+
 		color = { 0.8 1 0.7 }
-		
+
 		male_names = {
 			Ahmed Arafan Awilo
 			"Bai Shebora" Birama
@@ -68,9 +68,9 @@ mande = {
 	}
 	manding = {
 		graphical_cultures = { westafricangfx africangfx }
-		
+
 		color = { 0.8 0.8 0.2 }
-		
+
 		male_names = {
 			Abdichi-Moké Abdou_Abdul Abdoulaye_Abdullah Abdou-Razack_Abdul-Razzaq Abubakari_Abu-Bakr Ahmed Alamouta Alassane_Al-Hassan Ali_Ali
 			Ballaké Benkano_Benkan Bio-Aï Bitòn Boubacar_Abu-Bakr Boucader_Abdul-Kadir Boureima Bréhima
@@ -83,7 +83,7 @@ mande = {
 			Kabiné Kafadyugu Kafougouna Kalabi Kaladian Kassa Kélétigui Kon-Maran
 			Lafiya Lahilatoul Lamine Lassana
 			Maghan Malick_Malik Mamadou_Mohammed Mamari Mansong Mari-Djata Moctar_Mukhtar Modibo Mory Moulé_Mulay Mountaga Moussa_Moses Moustapha_Mustafa
-			Nfamara Ngolo Nianta 
+			Nfamara Ngolo Nianta
 			Ouli_Wali Ouati Ouezzin Oumar_Omar Ousmane_Osman
 			Sadio Safradine Saifou Saikou Sakoura Sambou Samory Sandaki Sékou_Sheikh Sekouba Sérébandjougou Sidiki_Siddiq Sidi-Yaya Souleymane_Solomon Soumaïla Soumana Soundiata Soungalo
 			Téréba Tiéfing Tiémoko Tonmassa Toumani Touro-Koro
@@ -111,30 +111,30 @@ mande = {
 	}
 	kpelle = {
 		graphical_cultures = { westafricangfx africangfx }
-		
+
 		color = { 0.7 0.7 0 }
-		
+
 		male_names = {
 			Abraham Ansah Armah
 			Bai Baimba Boimah Boima-Konah Bonokai
 			Cammue Ciata Congbeh
-			Daniel Danoka David Dikergai Dipaika Dolo 
-			Enoch 
+			Daniel Danoka David Dikergai Dipaika Dolo
+			Enoch
 			Fallah Foday Fortunate Franklin
 			Garteh Gbakolo Gbamoquelli Gbessi Gbili Gborlmenh Gbotoe Getei Ghankay Gorpu
 			Jahmale Jahn Jallah James-Dahn Joekpele Joseph
 			Kaijah Kanneh Karmo Kayme Kemokai Kengbeh Kerkulah Kollie Konowa Kpakelah Kpangbah Kpannah Kparsi Kumenwo
 			Lamie Lumah
-			Manhtee Manlomeni Momolu 
-			Nabo Na-Gba Nahn-Lelee Nopanu Nyagoi 
-			Peseh Paye 
-			Quadir Quammeney 
-			Samuel Sando Saywo Seh Siakoh Sulongoli Sulonteh 
+			Manhtee Manlomeni Momolu
+			Nabo Na-Gba Nahn-Lelee Nopanu Nyagoi
+			Peseh Paye
+			Quadir Quammeney
+			Samuel Sando Saywo Seh Siakoh Sulongoli Sulonteh
 			Tarwo Toimu Togba Tonorfasia
 			Varfee Varney
 			Wamah Warkpeh Whenbaye
 			Yakpazuah Yarkpawolo Yalapanukor Yala-Sei
-			Zolu Zaowolo  
+			Zolu Zaowolo
 		}
 		female_names = {
 			Alayea
@@ -144,32 +144,32 @@ mande = {
 			Fahnlohnee Famatta Fatima Fofannah
 			Garmenh Gbarnia Guladia
 			Hawa
-			Isatta 
+			Isatta
 			Jabateh Jandi Jebbeh Jerelyn Jumah
-			Kanny Kehper Kermoi Konah Korlkorl Korto Kula Kumba Kwapageh 
+			Kanny Kehper Kermoi Konah Korlkorl Korto Kula Kumba Kwapageh
 			Leemu Leesai Lekpele Lurpu
 			Mabasi Maima Massa Mawen Mehnmah Menenina Miata Musu
-			Nbete Neenai Nowa Nulalee Nyamen Nyanae Nyanpue Nyenquellah 
+			Nbete Neenai Nowa Nulalee Nyamen Nyanae Nyanpue Nyenquellah
 			Pahn
 			Sianeh Somo Suah
 			Tatu Tenneh Tina Tonia
 			Weyatta Wokie
 			Yan-Gah Yassa Yattah
-			Zinnah Zoe 
+			Zinnah Zoe
 		}
 	}
 	mende = {
 		graphical_cultures = { westafricangfx africangfx }
-		
+
 		color = { 0.7 0.6 0 }
-		
+
 		male_names = {
 			Albert Albert-Joe Allieu_Ali Alpha Amidu_Ahmed Andrew Arouna_Aaron Attouga Augustine
 			Bai-John Bai-Sorie Bai-Tom Banja Batilo Boimah Brima
 			David David-John Dennis Duwalu
 			Edward Ekuma Emerson Emmanuel
 			Frederick
-			Gbenjei Gibrilla_Gabriel 
+			Gbenjei Gibrilla_Gabriel
 			Henry Hindolo Hindowa
 			Joe-Robert John John-Arouna Joseph Julius
 			Kahjay Kelfa Kemokai Khalil
@@ -192,7 +192,7 @@ mande = {
 			Jane Jebbeh
 			Komeh
 			Maima Mary
-			Nyarroh 
+			Nyarroh
 			Sarah Shirley Soma
 			Tenneh
 			Wayetu
@@ -201,27 +201,27 @@ mande = {
 	}
 	songhai = {
 		graphical_cultures = { westafricangfx africangfx }
-		
+
 		color = { 0.9 0.7 0.6 }
-		
+
 		male_names = {
 			Abdoul-Aziz_Abdul-Aziz Abi-Bakr_Abu-Bakr Adamou_Adam Akoi Alayaman Ali_Ali Ali-Bér Ali-Fay Ali-Kolon Ali-Zalil Al-Mansur Amirou_Amir Ammar Aouta Arlun Attikou
-			Badä Bakr Bakr-Kanbu Bakr-Zanku Bamari Bankanu_Benkan Bannu Bassarou Bassarou-Missi Bassi Birahim_Abraham Birama Bisi Biyu Borgo 
+			Badä Bakr Bakr-Kanbu Bakr-Zanku Bamari Bankanu_Benkan Bannu Bassarou Bassarou-Missi Bassi Birahim_Abraham Birama Bisi Biyu Borgo
 			Dankaran Daoud_David Demba Düru
-			Faga-Layé Falké Fari-Mondzo Fatta Fodi_Foday Fuluku Fädazu 
+			Faga-Layé Falké Fari-Mondzo Fatta Fodi_Foday Fuluku Fädazu
 			Gane Gao Gounabi
-			Hamani Hamidou_Hamid Hammadi Hanga Hargani Harun_Aaron 
+			Hamani Hamidou_Hamid Hammadi Hanga Hargani Harun_Aaron
 			Igoumou Ishaq_Isaac Ismail_Ishmael Issoufou
 			Kabayo Kader Kalabi Kambiné Kanafa Karbachi Karbifo Kassaly Kaya Kayna Kinkin Kisha Kodama Koïzé Koïzé-Baba Kossom Kukuray Kusoy Kyantou
 			Laouzo
 			Maammarou Mahmud_Mahmud Maidanda Majan Malla Mar-Arandan Mar-Arkana Mari-Djata Mar-Fai Mar-Kiray Maÿroumfa Missi-Izé Morobani Moumouni Muhammad_Mohammed Musa_Moses
-			Niandou Nintasanay Nuh 
-			Ouankoÿ Ouati 
-			Reidja 
-			Saïdou_Said Sakoura Salou Samsou-Béri Samsou-Keïna Sandaki Seyni Sorko-Ijé Soumaba Sulayman_Solomon 
-			Takoi Tib Tomo_Thomas Tunka 
-			Umar_Omar 
-			Yama-Karaway Yaqub_Jacob Yasiboy Yomho Yusuf_Joseph 
+			Niandou Nintasanay Nuh
+			Ouankoÿ Ouati
+			Reidja
+			Saïdou_Said Sakoura Salou Samsou-Béri Samsou-Keïna Sandaki Seyni Sorko-Ijé Soumaba Sulayman_Solomon
+			Takoi Tib Tomo_Thomas Tunka
+			Umar_Omar
+			Yama-Karaway Yaqub_Jacob Yasiboy Yomho Yusuf_Joseph
 			Zakari_Zachary Zakoi Zenku
 		}
 		female_names = {
@@ -240,9 +240,9 @@ mande = {
 	}
 	dan = {
 		graphical_cultures = { westafricangfx africangfx }
-		
+
 		color = { 0.7 0.1 0.8 }
-		
+
 		male_names = {
 			Amos
 			Bhoyah Blahsue
@@ -263,7 +263,7 @@ mande = {
 			Tarkpour Thomas
 			Wallace Wilton Wonbin
 			Yeanue Yormie
-			Zinneh Zokaya 
+			Zinneh Zokaya
 		}
 		female_names = {
 			Bendu

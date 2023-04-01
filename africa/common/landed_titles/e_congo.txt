@@ -1,20 +1,20 @@
 e_congo = {
 	color={ 100 100 100 }
 	color2={ 255 255 255 }
-	
-	
+
+
 	k_gabon = {
 		color={ 122 22 2 }
 		color2={ 255 255 255 }
-						
+
 		d_rio_muni = {
 			color={ 160 60 60 }
 			color2={ 255 255 255 }
-			
+
 			c_muni_litoral = {
 				color={ 212 72 72 }
 				color2={ 255 255 255 }
-				
+
 				b_bata_GQ = {}
 				b_kogo_GQ = {}
 				b_mbini_GQ = {}
@@ -26,7 +26,7 @@ e_congo = {
 			c_centro_sur = {
 				color={ 164 111 111 }
 				color2={ 255 255 255 }
-				
+
 				b_evinayong_GQ = {}
 				b_niefang_GQ = {}
 				b_acurenam_GQ = {}
@@ -38,7 +38,7 @@ e_congo = {
 			c_wele_nzas = {
 				color={ 118 99 99 }
 				color2={ 255 255 255 }
-				
+
 				b_oyala_GQ = {}
 				b_mongomo_GQ = {}
 				b_nsork_GQ = {}
@@ -50,7 +50,7 @@ e_congo = {
 			c_ntem = {
 				color={ 117 61 61 }
 				color2={ 255 255 255 }
-				
+
 				b_ebebiyin_GQ = {}
 				b_bitam_GA = {}
 				b_nkue_GQ = {}
@@ -63,11 +63,11 @@ e_congo = {
 		d_woleu_ntem = {
 			color={ 120 60 50 }
 			color2={ 255 255 255 }
-			
+
 			c_woleu = {
 				color={ 117 72 61 }
 				color2={ 255 255 255 }
-				
+
 				b_oyem_GA = {}
 				b_bissok_GA = {}
 				b_nkolabona_GA = {}
@@ -79,7 +79,7 @@ e_congo = {
 			c_haut_ntem = {
 				color={ 124 49 13 }
 				color2={ 255 255 255 }
-				
+
 				b_minvoul_GA = {}
 				b_momo_GA = {}
 				b_eboman_GA = {}
@@ -91,7 +91,7 @@ e_congo = {
 			c_okano = {
 				color={121 96 85 }
 				color2={ 255 255 255 }
-				
+
 				b_mitzic_GA = {}
 				b_medouneu_GA = {}
 				b_ekan_GA = {}
@@ -104,11 +104,11 @@ e_congo = {
 		d_estuaire = {
 			color={ 90 20 10}
 			color2={ 255 255 255 }
-			
+
 			c_komo = {
 				color={ 77 20 9}
 				color2={ 255 255 255 }
-				
+
 				b_kougouleu_GA = {}
 				b_kango_GA = {}
 				b_zoulameyong_GA = {}
@@ -120,7 +120,7 @@ e_congo = {
 			c_noya = {
 				color={ 93 20 6 }
 				color2={ 255 255 255 }
-				
+
 				b_cocobeach_GA = {}
 				b_milembie_GA = {}
 				b_mekina_GA = {}
@@ -132,7 +132,7 @@ e_congo = {
 			c_libreville = {
 				color={ 120 55 43}
 				color2={ 255 255 255 }
-				
+
 				b_ntoum_GA = {}
 				b_libreville_GA = {}
 				b_owendo_GA = {}
@@ -149,7 +149,7 @@ e_congo = {
 			c_bendje = {
 				color={ 154 33 5}
 				color2={ 255 255 255 }
-					
+
 				b_ntchengue_GA = {}
 				b_port_gentil_GA = {}
 				b_ozori_GA = {}
@@ -161,7 +161,7 @@ e_congo = {
 			c_etimboue = {
 				color={ 139 65 48 }
 				color2={ 255 255 255 }
-					
+
 				b_omboue_GA = {}
 				b_yeno_GA = {}
 				b_saint_anne_GA = {}
@@ -173,7 +173,7 @@ e_congo = {
 			c_ndougou = {
 				color={ 172 56 7 }
 				color2={ 255 255 255 }
-					
+
 				b_sette_cama_GA = {}
 				b_gamba_GA = {}
 				b_petit_loango_GA = {}
@@ -185,7 +185,7 @@ e_congo = {
 			c_mougoutsi = {
 				color={ 180 34 6 }
 				color2={ 255 255 255 }
-					
+
 				b_tchibanga_GA = {}
 				b_tsogni_GA = {}
 				b_milando_GA = {}
@@ -197,7 +197,7 @@ e_congo = {
 			c_banio = {
 				color={ 195 121 107 }
 				color2={ 255 255 255 }
-					
+
 				b_ndindi_GA = {}
 				b_mayumba_GA = {}
 				b_loukouala_GA = {}
@@ -310,7 +310,7 @@ e_congo = {
 				b_edabour_GA = {}
 				b_ayol_alar_GA = {}
 				b_ekarlong_GA = {}
-			}	
+			}
 		}
 		d_ivindo = {
 			color={ 200 100 50 }
@@ -851,7 +851,7 @@ e_congo = {
 				b_bokala = {}
 				b_kwamouth = {}
 				b_masia_mbio = {}
-				b_tua = {}	
+				b_tua = {}
 				b_kima = {}
 				b_nganda = {}
 			}
@@ -1178,7 +1178,7 @@ e_congo = {
 				color2={ 255 255 255 }
 
 				b_marimba = {}
-				b_mucari = {}	
+				b_mucari = {}
 				b_milando = {}
 				b_quela = {}
 				b_xandel = {}

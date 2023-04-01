@@ -4,9 +4,9 @@ sahel = {
 
 	fulbe = {
 		graphical_cultures = { westafricangfx africangfx }
-		
+
 		color = { 0.9 1 0.8 }
-		
+
 		male_names = {
 			Abbas "Abdallahi Yanka" "Abder Rahman"_Abdul-Rahman "Abdul Bokar" Abdulkadir Abdullahi_Abdullah "Abdullahi Barau" "Abdu Tukudu" Abubakar_Abu-Bakr "Abu Bakar Atiqu" Adamu_Adam Addafini "Ado Bayero" Ahmadu_Ahmed "Ahmadu Atiku" "Ahmadu Rufai" Aliyu_Ali Aliyu-Babba_Ali-Baba "Aliyu Karami" Amiru_Amir Atiku Ayuba_Job
 			"Bakon Dare" Banja Barau Bashar_Bashir Belarabe_Bilarab Biran Bukari_Bakr
@@ -25,7 +25,7 @@ sahel = {
 			Rilwanu_Rilwan Rufai
 			Sa'adu_Said Saifulayi Sandu Shehu_Sheikh Shu'aybu_Shuayb Siddiq Sulaymanu_Solomon Subande Sulu
 			Tamsir Tenguella Tidiani Tierno Tukur
-			Umaru_Omar Usman_Osman "Usman Bokari" "Usman Shehu" "Usman Yero" 
+			Umaru_Omar Usman_Osman "Usman Bokari" "Usman Shehu" "Usman Yero"
 			Yacine_Yassin Yamuza Yaqubu_Jacob Yaro Yusufu_Joseph
 			Zangi Zubayru_Zubayr
 		}
@@ -47,9 +47,9 @@ sahel = {
 	}
 	dogon = {
 		graphical_cultures = { westafricangfx africangfx }
-		
+
 		color = { 0.9 0.7 0.9 }
-		
+
 		male_names = {
 			Abdulahi_Abdullah Abdule_Abdul Abojo Ahmedu_Ahmed Alassane_Alhassan Ali Amaguime Atame
 			Bakari_Bakr Belco Boubacar_Abu-Bakr
@@ -67,45 +67,45 @@ sahel = {
 			Madina Mariam_Mary
 			Nassira
 		}
-		
 
-		
+
+
 		founder_named_dynasties = yes
 	}
 	kanuri = {
 		graphical_cultures = { westafricangfx africangfx }
-		
+
 		color = { 0.8 0.45 0.75 }
-		
+
 		male_names = {
 			"Othman Kalinuama" "'Abd al-Karim" "Birni Besse" "'Abd Allah" "Abu Sekkin" "Kade Alunu" "Abu Bakr" "'Abd al-Qadir"
-			Abbas Abdallah Abdul Abdullah Abdulraham Abubakar Adam_Adam Ahmad Ahmed Airimi al-Amin Alhaji Ali 'Ali Alooma Amin Amir Amr Arku Arsu 
-			Baba Baram Bikorom Bikoru Biri Bukar Bulu Burkomanda Buyuma 
-			Da'ud Dabbalemi Dala Dalai Dalo Daoud_David Dugu Dunama 
-			Fadl_Fadul Fadoul_Fadul Filiks_Felix Fune 
-			Gaji Gajideni Galrima Gana Garbai Gazali Gazi Ghaji Ghana 
-			Hamdan Humayy Hume Hummay 
-			Ibrahim_Abraham Idris Ishaq 
-			Kaday Kanemi Kashim Katakarmabe Katur Kharif Kharut Kiyari Kyari_Kiyari Kura Kure Kuri Kuwaana 
-			Mahamat_Mohammed Mansour_Mansur Mukhtar Mustafa Madu Mahmoud Mamane Modu Mufioma Muhammad_Mohammed Murama Musa Mustafa Mustapha 
-			Nasr Nikale 
-			Osman 
-			Rifaya 
-			Sa'id Said Salih Salmama Sanda Sani Sef Selma Sharud Shettima Shu Sulbuta Suleyman_Solomon 
-			Tandja Tindhim 
+			Abbas Abdallah Abdul Abdullah Abdulraham Abubakar Adam_Adam Ahmad Ahmed Airimi al-Amin Alhaji Ali 'Ali Alooma Amin Amir Amr Arku Arsu
+			Baba Baram Bikorom Bikoru Biri Bukar Bulu Burkomanda Buyuma
+			Da'ud Dabbalemi Dala Dalai Dalo Daoud_David Dugu Dunama
+			Fadl_Fadul Fadoul_Fadul Filiks_Felix Fune
+			Gaji Gajideni Galrima Gana Garbai Gazali Gazi Ghaji Ghana
+			Hamdan Humayy Hume Hummay
+			Ibrahim_Abraham Idris Ishaq
+			Kaday Kanemi Kashim Katakarmabe Katur Kharif Kharut Kiyari Kyari_Kiyari Kura Kure Kuri Kuwaana
+			Mahamat_Mohammed Mansour_Mansur Mukhtar Mustafa Madu Mahmoud Mamane Modu Mufioma Muhammad_Mohammed Murama Musa Mustafa Mustapha
+			Nasr Nikale
+			Osman
+			Rifaya
+			Sa'id Said Salih Salmama Sanda Sani Sef Selma Sharud Shettima Shu Sulbuta Suleyman_Solomon
+			Tandja Tindhim
 			Umar_Omar 'Umar 'Uthman
-			Wanja Waziri 
+			Wanja Waziri
 			Ya'qub_Jacob Yahya Yahya_John Yaqub_Jacob Yusuf_Joseph
 			Zannah
 		}
 		female_names = {
-			'aisha A'isha Aamina Adila Afaf Afra Aida Aisha Aissa Akilah al-Kanemi Alia Alina Aliya Aliyah Aliyya Aliyyah Almas Alya Amal Amani Amina Aminah Amira Amirah Amna Anisa Aqila Arij Arwa Ashraqat Asma Asmaa Asra Atifa Atiya Ayda Ayesha Ayishah Aziza Azra 
-			Badr Bahiga Bahija Bahiyya Bakhita Basima Basira Basma Batul Budur 
-			Cinta 
-			Dalal Dalatumi Dana Dania Daniyah Dema Dikwa Dima Djamila Dua Duha 
-			Fadia Fadila Fahima Fairuz Faiza Fajr Fakhriyya Farah Farida Fariha Farrah Fathiyya Fatima Fatima_Fatima Fatimah Fatin Fatma Fawziya Fawziyya Fayruz Fayza Fidda Fikriyya Fizza 
-			Galila Gamila Gana Gathbiyya Gauhar Gawahir Gazbiyya Ghada Ghadir Ghaliya Ghufran 
-			Habiba Hadia Hadil Hadiya Hadiyya Hadjara Hadya Hafsa Hafsah Hafza Hagir Haifa Hajar Hala Halim Halima Hamid Hamida Hana Hanaa Hanan Hania Hanif Hanifa Haniyah Haniyya Hasna Hawa Hayfa Hiba Hikmat Hind Hooda Hosni Houda Huda Husna Husni Husniya 
+			'aisha A'isha Aamina Adila Afaf Afra Aida Aisha Aissa Akilah al-Kanemi Alia Alina Aliya Aliyah Aliyya Aliyyah Almas Alya Amal Amani Amina Aminah Amira Amirah Amna Anisa Aqila Arij Arwa Ashraqat Asma Asmaa Asra Atifa Atiya Ayda Ayesha Ayishah Aziza Azra
+			Badr Bahiga Bahija Bahiyya Bakhita Basima Basira Basma Batul Budur
+			Cinta
+			Dalal Dalatumi Dana Dania Daniyah Dema Dikwa Dima Djamila Dua Duha
+			Fadia Fadila Fahima Fairuz Faiza Fajr Fakhriyya Farah Farida Fariha Farrah Fathiyya Fatima Fatima_Fatima Fatimah Fatin Fatma Fawziya Fawziyya Fayruz Fayza Fidda Fikriyya Fizza
+			Galila Gamila Gana Gathbiyya Gauhar Gawahir Gazbiyya Ghada Ghadir Ghaliya Ghufran
+			Habiba Hadia Hadil Hadiya Hadiyya Hadjara Hadya Hafsa Hafsah Hafza Hagir Haifa Hajar Hala Halim Halima Hamid Hamida Hana Hanaa Hanan Hania Hanif Hanifa Haniyah Haniyya Hasna Hawa Hayfa Hiba Hikmat Hind Hooda Hosni Houda Huda Husna Husni Husniya
 			I'tidal I'timad Ibtihaj Ibtisam Ihab Ihsan Ikraam Ikram Ilham Imam Iman In'am Inas 'ismat Isra Israa Izdihar
 			Jalila Jameela Jamila Jamillah Janan Jathbiyya Jawahir Jawdat Jinan Jumana
 			Kaltum Karam Karima Khadiga Khadija Khalida Khalila Khalilah Khatijah Khayrat Khayriyya Kili Kingibe
@@ -120,19 +120,19 @@ sahel = {
 			Wafiya Waheeda Wahida Widad
 			Ya Yasmeen Yasmin Yusra
 			Zaahira Zahia Zahida Zahira Zahra Zahrah Zaida Zaina Zainab Zakiah Zakiya Zakiyya Zaray Zayna Zaynab Zinat Zubaida Zulaykha Zulekha
-			
+
 		}
-		
+
 		male_patronym = "ibn "
 		female_patronym = "bint "
-		prefix = yes 
-		
+		prefix = yes
+
 	}
 	tuareg = {
 		graphical_cultures = { berbergfx arabicgfx muslimgfx }
-		
+
 		color = { 0.9 0.8 0 }
-		
+
 		male_names = {
 			Abdallah_Abdullah Acharif Aghaly Ahmoudou_Ahmed Akhamuk Akil Aklou Alghabass Alhassane_Alhassan Amellal Amoumene Assalat Attici Aytarel
 			Baye Bilal Boutali Brigi
@@ -164,13 +164,13 @@ sahel = {
 
 		male_patronym = "Ag "
 		female_patronym = "Walet "
-		prefix = yes 
+		prefix = yes
 	}
 	zaghawa = {
 		graphical_cultures = { westafricangfx africangfx }
-		
+
 		color = { 0.8 0.8 0.8 }
-		
+
 		male_names = {
 			Abbo Abdallah_Abdullah Abdarahman_Abdul-Rahman Abdelkérim_Abdul-Karim Abdul Adam Ahmed Ali
 			Daoud_David Dillo
@@ -195,9 +195,9 @@ sahel = {
 	}
 	toubou = {
 		graphical_cultures = { westafricangfx africangfx }
-		
+
 		color = { 0.9 0.7 0.9 }
-		
+
 		male_names = {
 			Abdallah_Abdullah Abdarahman_Abdul-Rahman Abdelkérim_Abdul-Karim Abdul Adam
 			Goukouni
@@ -216,24 +216,24 @@ sahel = {
 	}
 	sara = {
 		graphical_cultures = { westafricangfx africangfx }
-		
+
 		color = { 0.99 0.77 0.55 }
-		
+
 		male_names = {
 			Abdarahman_Abdul-Rahman Abdelkérim_Abdul-Karim Abdoulaye_Abdullah Adoumadji Alladangar Asede
 			Banhoula Barde Behoroum Borogue
 			Charles Christian
 			Dayan David Desige Djelassem Djidabay Djimra
 			Edouard_Edward
-			Félix_Felix 
+			Félix_Felix
 			Hoguina
-			Jean_John Joseph 
+			Jean_John Joseph
 			Kemtimay Kiniege Koibla Kuoliyo
 			Laige Loel Loubaheindé
 			Mahamat_Mohammed Malam Matthias_Matthew Mbadédjigué Mbakeygué Mbarague Mbasirangue Mbatoumgué Mbayargue Milarew Mogaye Moude Mougode Moujege Mouniro Moussa_Moses Moustapha_Mustafa
 			Ndikenan Ndolbai Negue Ngako Ngaral Ngariban Ngarmaba Ngarmane N'Garta N'Gartéri Nguetolabaye Niade Nodjimadji Noudjalta
-			Pascal 
-			Rimdaga Ronelngar 
+			Pascal
+			Rimdaga Ronelngar
 			Saboun Sebastian Séraphin Solengar
 			Toumge
 			Yande Yarg
@@ -248,9 +248,9 @@ sahel = {
 	}
 	bagirmi = {
 		graphical_cultures = { westafricangfx africangfx }
-		
+
 		color = { 0.1 0.8 0.2 }
-		
+
 		male_names = {
 			Abdoulaye_Abdullah Abdramane_Abdul-Rahman "Abdul Gashé" "Abdul Qadir" Ali "Ali Kaïdala" Araki
 			Balwa "Bayé Mortcho" Beïso Brahim_Abraham Burkomanda
