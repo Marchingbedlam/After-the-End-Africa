@@ -1,5 +1,5 @@
 # County Title
-title = c_gnagna 
+title = c_gnagna
 
 # Settlements
 max_settlements = 4

@@ -1,23 +1,23 @@
 e_sudan = {
 	color={ 32 150 85 }
 	color2={ 255 255 255 }
-	
+
 	culture = masri
-	
+
 	k_sudan = {
 		color={ 10 255 80 }
 		color2={ 255 255 255 }
-		
+
 		culture = sudani
 
 		d_aswan = {
 			color={ 100 219 134 }
 			color2={ 255 255 255 }
-			
+
 			c_aswan = {
 				color={ 244 84 63 }
 				color2={ 255 255 255 }
-				
+
 				b_abu_simbel = {}
 				b_aswan = {}
 				b_toshka = {}
@@ -27,7 +27,7 @@ e_sudan = {
 			c_wadi_halfa = {
 				color={ 205 67 51 }
 				color2={ 255 255 255 }
-				
+
 				b_delgo = {}
 				b_wadi_halfa = {}
 				b_abri = {}
@@ -40,7 +40,7 @@ e_sudan = {
 			c_dongola = {
 				color={ 87 36 142 }
 				color2={ 255 255 255 }
-				
+
 				b_kerma = {}
 				b_dongola = {}
 				b_tumbus = {}
@@ -52,7 +52,7 @@ e_sudan = {
 			c_al_goled = {
 				color={ 62 2 221 }
 				color2={ 255 255 255 }
-				
+
 				b_al_dabbah = {}
 				b_al_goled = {}
 				b_urbi = {}
@@ -65,11 +65,11 @@ e_sudan = {
 		d_nile = {
 			color={ 102 191 241 }
 			color2={ 255 255 255 }
-			
+
 			c_abu_hamed = {
 				color={ 218 40 148 }
 				color2={ 255 255 255 }
-				
+
 				b_abu_hamed = {}
 				b_dagash = {}
 				b_al_kanisah = {}
@@ -81,7 +81,7 @@ e_sudan = {
 			c_ad_damir = {
 				color={ 253 10 166 }
 				color2={ 255 255 255 }
-				
+
 				b_atbara = {}
 				b_ad_damir = {}
 				b_berber = {}
@@ -93,7 +93,7 @@ e_sudan = {
 			c_shendi = {
 				color={ 183 85 200 }
 				color2={ 255 255 255 }
-				
+
 				b_wad_hamid = {}
 				b_shendi = {}
 				b_keli = {}
@@ -106,11 +106,11 @@ e_sudan = {
 		d_al_mogran = {
 			color={ 102 191 241 }
 			color2={ 255 255 255 }
-			
+
 			c_omdurman = {
 				color={ 245 15 226 }
 				color2={ 255 255 255 }
-				
+
 				b_ombada = {}
 				b_omdurman = {}
 				b_karari = {}
@@ -122,7 +122,7 @@ e_sudan = {
 			c_khartoum = {
 				color={ 227 50 122 }
 				color2={ 255 255 255 }
-				
+
 				b_khartoum_bahri = {}
 				b_khartoum = {}
 				b_jabal_awliya = {}
@@ -135,12 +135,12 @@ e_sudan = {
 		d_white_nile = {
 			color={ 102 191 241 }
 			color2={ 255 255 255 }
-			
-			
+
+
 			c_ad_douiem = {
 				color={ 244 180 216 }
 				color2={ 255 255 255 }
-				
+
 				b_el_geteina = {}
 				b_ad_douiem = {}
 				b_aljammalab = {}
@@ -152,7 +152,7 @@ e_sudan = {
 			c_al_manaqil = {
 				color={ 80 164 229 }
 				color2={ 255 255 255 }
-				
+
 				b_um_hegelega = {}
 				b_al_manaqil = {}
 				b_al_azazi = {}
@@ -164,7 +164,7 @@ e_sudan = {
 			c_rabak = {
 				color={ 153 94 102 }
 				color2={ 255 255 255 }
-				
+
 				b_kosti = {}
 				b_rabak = {}
 				b_asalaya = {}
@@ -177,11 +177,11 @@ e_sudan = {
 		d_blue_nile = {
 			color={ 102 191 241 }
 			color2={ 255 255 255 }
-			
+
 			c_gezira = {
 				color={ 245 15 226 }
 				color2={ 255 255 255 }
-				
+
 				b_rufaa = {}
 				b_wad_madani = {}
 				b_al_qosairah = {}
@@ -193,7 +193,7 @@ e_sudan = {
 			c_sennar = {
 				color={ 193 12 44 }
 				color2={ 255 255 255 }
-				
+
 				b_sennar = {}
 				b_singa = {}
 				b_el_suki = {}
@@ -205,7 +205,7 @@ e_sudan = {
 			c_al_qadarif = {
 				color={ 191 106 139 }
 				color2={ 255 255 255 }
-				
+
 				b_gallabat = {}
 				b_al_qadarif = {}
 				b_doka = {}
@@ -217,7 +217,7 @@ e_sudan = {
 			c_ad_damazin = {
 				color={ 182 109 175 }
 				color2={ 255 255 255 }
-				
+
 				b_ar_roseires = {}
 				b_ad_damazin = {}
 				b_ad_dawmah = {}
@@ -230,12 +230,12 @@ e_sudan = {
 		d_red_sea = {
 			color={ 102 191 241 }
 			color2={ 255 255 255 }
-			
-			
+
+
 			c_port_sudan = {
 				color={ 61 13 118 }
 				color2={ 255 255 255 }
-				
+
 				b_suakin = {}
 				b_port_sudan = {}
 				b_sinkat = {}
@@ -247,7 +247,7 @@ e_sudan = {
 			c_tokar = {
 				color={ 153 19 145 }
 				color2={ 255 255 255 }
-				
+
 				b_tokar = {}
 				b_haya = {}
 				b_ageeg = {}
@@ -259,7 +259,7 @@ e_sudan = {
 			c_kassala = {
 				color={ 205 11 78 }
 				color2={ 255 255 255 }
-				
+
 				b_aroma = {}
 				b_kassala = {}
 				b_khashm_el_girba = {}
@@ -272,12 +272,12 @@ e_sudan = {
 		d_kordofan = {
 			color={ 102 191 241 }
 			color2={ 255 255 255 }
-			
-			
+
+
 			c_el_obeid = {
 				color={ 61 13 118 }
 				color2={ 255 255 255 }
-				
+
 				b_er_rahad = {}
 				b_el_obeid = {}
 				b_barah = {}
@@ -289,7 +289,7 @@ e_sudan = {
 			c_en_nahud = {
 				color={ 153 19 145 }
 				color2={ 255 255 255 }
-				
+
 				b_abu_zabad = {}
 				b_en_nahud = {}
 				b_ghubaysh = {}
@@ -301,7 +301,7 @@ e_sudan = {
 			c_kadugli = {
 				color={ 205 11 78 }
 				color2={ 255 255 255 }
-				
+
 				b_dilling = {}
 				b_kadugli = {}
 				b_rashad = {}
@@ -313,7 +313,7 @@ e_sudan = {
 			c_al_fulah = {
 				color={ 205 11 78 }
 				color2={ 255 255 255 }
-				
+
 				b_muglad = {}
 				b_al_fulah = {}
 				b_lagawa = {}
@@ -327,17 +327,17 @@ e_sudan = {
 	k_al_sudd = {
 		color={ 180 60 200 }
 		color2={ 255 255 255 }
-		
+
 		culture = nuba
 
 		d_upper_nile = {
 			color={ 150 60 240 }
 			color2={ 255 255 255 }
-			
+
 			c_melut = {
 				color={ 181 192 239 }
 				color2={ 255 255 255 }
-				
+
 				b_renk = {}
 				b_melut = {}
 				b_paloich = {}
@@ -349,7 +349,7 @@ e_sudan = {
 			c_malakal = {
 				color={ 194 65 9 }
 				color2={ 255 255 255 }
-				
+
 				b_kodok = {}
 				b_malakal = {}
 				b_banglai = {}
@@ -361,7 +361,7 @@ e_sudan = {
 			c_latjoor = {
 				color={ 141 63 249 }
 				color2={ 255 255 255 }
-				
+
 				b_nasir = {}
 				b_akobo = {}
 				b_waat = {}
@@ -374,11 +374,11 @@ e_sudan = {
 		d_jonglei = {
 			color={ 180 20 240 }
 			color2={ 255 255 255 }
-			
+
 			c_bor = {
 				color={ 186 76 252 }
 				color2={ 255 255 255 }
-				
+
 				b_duk_padiet = {}
 				b_bor = {}
 				b_kongor = {}
@@ -390,7 +390,7 @@ e_sudan = {
 			c_pibor = {
 				color={ 107 29 241 }
 				color2={ 255 255 255 }
-				
+
 				b_pibor = {}
 				b_pochalla = {}
 				b_gumuruk = {}
@@ -402,7 +402,7 @@ e_sudan = {
 			c_ez_zeraf = {
 				color={ 142 61 157 }
 				color2={ 255 255 255 }
-				
+
 				b_ayod = {}
 				b_fangak = {}
 				b_thukak = {}
@@ -414,7 +414,7 @@ e_sudan = {
 			c_ruweng = {
 				color={ 154 183 230 }
 				color2={ 255 255 255 }
-				
+
 				b_pariang = {}
 				b_bentiu = {}
 				b_mayom = {}
@@ -426,7 +426,7 @@ e_sudan = {
 			c_gambela = {
 				color={ 240 167 125 }
 				color2={ 255 255 255 }
-				
+
 				b_itang = {}
 				b_gambela = {}
 				b_meti = {}
@@ -439,11 +439,11 @@ e_sudan = {
 		d_equatoria = {
 			color={ 210 230 220 }
 			color2={ 255 255 255 }
-			
+
 			c_juba = {
 				color={ 218 233 224 }
 				color2={ 255 255 255 }
-				
+
 				b_gudele = {}
 				b_juba = {}
 				b_terekeka = {}
@@ -455,7 +455,7 @@ e_sudan = {
 			c_imatong = {
 				color={ 218 233 224 }
 				color2={ 255 255 255 }
-				
+
 				b_magwi = {}
 				b_torit = {}
 				b_nimule = {}
@@ -467,7 +467,7 @@ e_sudan = {
 			c_namorunyang = {
 				color={ 218 233 224 }
 				color2={ 255 255 255 }
-				
+
 				b_narus = {}
 				b_kapoeta = {}
 				b_chukudum = {}
@@ -479,7 +479,7 @@ e_sudan = {
 			c_yei = {
 				color={ 218 233 224 }
 				color2={ 255 255 255 }
-				
+
 				b_kajo_keji = {}
 				b_yei = {}
 				b_morobo = {}
@@ -491,7 +491,7 @@ e_sudan = {
 			c_yirol = {
 				color={ 24 203 39 }
 				color2={ 255 255 255 }
-				
+
 				b_abiem = {}
 				b_yirol = {}
 				b_minkamman = {}
@@ -505,17 +505,17 @@ e_sudan = {
 	k_bahr_el_ghazal = {
 		color={ 222 111 111 }
 		color2={ 255 255 255 }
-		
+
 		culture = nuba
 
 		d_al_buhayrat = {
 			color={ 200 190 150 }
 			color2={ 255 255 255 }
-			
+
 			c_ezo = {
 				color={ 170 215 216 }
 				color2={ 255 255 255 }
-				
+
 				b_tumbura = {}
 				b_ezo = {}
 				b_ri_yubu = {}
@@ -527,7 +527,7 @@ e_sudan = {
 			c_gok = {
 				color={ 250 196 233 }
 				color2={ 255 255 255 }
-				
+
 				b_cuiebet = {}
 				b_rumbek = {}
 				b_maper = {}
@@ -539,7 +539,7 @@ e_sudan = {
 			c_amadi = {
 				color={ 218 180 135 }
 				color2={ 255 255 255 }
-				
+
 				b_mundri = {}
 				b_maridi = {}
 				b_lui = {}
@@ -551,7 +551,7 @@ e_sudan = {
 			c_gbudwe = {
 				color={ 222 214 3 }
 				color2={ 255 255 255 }
-				
+
 				b_nzara = {}
 				b_yambio = {}
 				b_sakure = {}
@@ -564,11 +564,11 @@ e_sudan = {
 		d_jur = {
 			color={ 90 210 140 }
 			color2={ 255 255 255 }
-			
+
 			c_warrap = {
 				color={ 148 184 180 }
 				color2={ 255 255 255 }
-				
+
 				b_kuajok = {}
 				b_tonj = {}
 				b_gogrial = {}
@@ -580,7 +580,7 @@ e_sudan = {
 			c_wau = {
 				color={ 158 236 118 }
 				color2={ 255 255 255 }
-				
+
 				b_nyin_akok = {}
 				b_wau = {}
 				b_busserri = {}
@@ -592,7 +592,7 @@ e_sudan = {
 			c_aweil = {
 				color={ 237 221 230 }
 				color2={ 255 255 255 }
-				
+
 				b_nyamlel = {}
 				b_aweil = {}
 				b_udham = {}
@@ -604,7 +604,7 @@ e_sudan = {
 			c_lol = {
 				color={ 18 241 138 }
 				color2={ 255 255 255 }
-				
+
 				b_sopo = {}
 				b_raga = {}
 				b_guju = {}
@@ -617,12 +617,12 @@ e_sudan = {
 		d_darfur = {
 			color={ 102 191 241 }
 			color2={ 255 255 255 }
-			
-			
+
+
 			c_al_fashir = {
 				color={ 61 13 118 }
 				color2={ 255 255 255 }
-				
+
 				b_umm_keddada = {}
 				b_al_fashir = {}
 				b_ailliet = {}
@@ -634,7 +634,7 @@ e_sudan = {
 			c_kabkabiya = {
 				color={ 153 19 145 }
 				color2={ 255 255 255 }
-				
+
 				b_kutum = {}
 				b_kabkabiya = {}
 				b_tawilah = {}
@@ -646,7 +646,7 @@ e_sudan = {
 			c_al_junaynah = {
 				color={ 205 11 78 }
 				color2={ 255 255 255 }
-				
+
 				b_melmelli = {}
 				b_al_junaynah = {}
 				b_umm_dukhn = {}
@@ -658,7 +658,7 @@ e_sudan = {
 			c_el_daein = {
 				color={ 205 11 78 }
 				color2={ 255 255 255 }
-				
+
 				b_adiela = {}
 				b_el_daein = {}
 				b_siwar = {}
@@ -670,7 +670,7 @@ e_sudan = {
 			c_gereida = {
 				color={ 205 11 78 }
 				color2={ 255 255 255 }
-				
+
 				b_edd_al_fursan = {}
 				b_gereida = {}
 				b_daffaq = {}
@@ -682,7 +682,7 @@ e_sudan = {
 			c_zallingi = {
 				color={ 205 11 78 }
 				color2={ 255 255 255 }
-				
+
 				b_garsila = {}
 				b_zallingi = {}
 				b_deleig = {}
@@ -694,7 +694,7 @@ e_sudan = {
 			c_nyala = {
 				color={ 205 11 78 }
 				color2={ 255 255 255 }
-				
+
 				b_duma = {}
 				b_nyala = {}
 				b_endur = {}

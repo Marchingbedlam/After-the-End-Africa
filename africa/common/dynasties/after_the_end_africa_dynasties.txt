@@ -1,7 +1,7 @@
 ###ÄNSI
 
 1001000 = { name="Ross" culture=kwi } #Mix of Anglocized liberian groups
-1001001 = { name="Jackson" culture = kwi } 
+1001001 = { name="Jackson" culture = kwi }
 1001002 = { name="Eastman" culture = kwi }
 1001003 = { name="Tubman" culture = kwi }
 1001004 = { name="Grey" culture = kwi }
@@ -113,9 +113,9 @@
 1001110 = { name="Bryant" culture=kwi }
 
 1002000 = { name="Thorpe" culture=krio } #Sierra Leone creole
-1002001 = { name="Stronge" culture=krio } 
-1002002 = { name="Juxon-Smith" culture=krio } 
-1002003 = { name="Fyle" culture=krio } 
+1002001 = { name="Stronge" culture=krio }
+1002002 = { name="Juxon-Smith" culture=krio }
+1002003 = { name="Fyle" culture=krio }
 1002004 = { name="Conton" culture=krio }
 1002005 = { name="Pratt" culture=krio }
 1002006 = { name="Gelaga" culture=krio }
@@ -140,7 +140,7 @@
 1002025 = { name="Parkes" culture=krio }
 1002026 = { name="Barber" culture=krio }
 1002027 = { name="Hamilton" culture=krio }
-1002028 = { name="Sisay-Hayford" culture=krio } 
+1002028 = { name="Sisay-Hayford" culture=krio }
 1002029 = { name="Giggs" culture=krio }
 1002030 = { name="Jarrett" culture=krio }
 1002031 = { name="Metzger" culture=krio }
@@ -181,12 +181,12 @@
 1002066 = { name="Cox-George" culture=krio }
 1002067 = { name="Babbington" culture=krio }
 1002068 = { name="Wilkinson" culture=krio }
-1002067 = { name="Cole" culture=krio } 
-1002068 = { name="Hyde-Forster" culture=krio } 
-1002069 = { name="Peters" culture=krio } 
-1002070 = { name="Caulker" culture=krio } 
-1002071 = { name="Luke" culture=krio } 
-1002072 = { name="Tucker" culture=krio } 
+1002067 = { name="Cole" culture=krio }
+1002068 = { name="Hyde-Forster" culture=krio }
+1002069 = { name="Peters" culture=krio }
+1002070 = { name="Caulker" culture=krio }
+1002071 = { name="Luke" culture=krio }
+1002072 = { name="Tucker" culture=krio }
 1002073 = { name="Joko-Smart" culture=krio }
 1002074 = { name="Kizell" culture=krio }
 1002075 = { name="Lewis" culture=krio }
@@ -1122,7 +1122,7 @@
 1031000 = { name="Maikarfi" culture=nupe used_for_random=no }
 1031001 = { name="Waliyi" culture=nupe }
 
-1101000 = { name="Broh" culture=kru } 
+1101000 = { name="Broh" culture=kru }
 1101001 = { name="Twe" culture=kru }
 1101002 = { name="Weah" culture=kru }
 1101003 = {name ="Jebor" culture=kru }
@@ -1223,25 +1223,25 @@
 1101098 = {name ="Goe" culture=kru }
 1101099 = {name ="Hoto" culture=kru }
 
-1201000 = {name ="Sulunteh" culture=kpelle } 
+1201000 = {name ="Sulunteh" culture=kpelle }
 1201001 = {name ="Camara" culture=kpelle }
 1201002 = {name ="Suakoko" culture=kpelle }
 1201003 = {name ="Pogba" culture=kpelle }
 1201004 = {name ="Tokpa" culture=kpelle }
 1201005 = {name ="Lela" culture=kpelle }
-1201006 = {name ="Duma" culture=kpelle } 
-1201007 = {name ="Carney" culture=kpelle } 
+1201006 = {name ="Duma" culture=kpelle }
+1201007 = {name ="Carney" culture=kpelle }
 1201008 = {name ="Lapaeh" culture=kpelle }
-1201009 = {name ="Sankawulo" culture=kpelle } 
+1201009 = {name ="Sankawulo" culture=kpelle }
 1201010 = {name ="Kpomakpor" culture=kpelle }
 1201011 = {name ="Nargba" culture=kpelle }
 1201012 = {name ="Sengbeh" culture=kpelle }
-1201013 = {name ="Gbanassei" culture=kpelle } 
+1201013 = {name ="Gbanassei" culture=kpelle }
 1201014 = {name ="Womma" culture=kpelle }
 1201015 = {name ="Garlawolu" culture=kpelle }
 1201016 = {name ="Siakor" culture=kpelle }
-1201017 = {name ="George" culture=kpelle } 
-1201018 = {name ="Moniba" culture=kpelle } 
+1201017 = {name ="George" culture=kpelle }
+1201018 = {name ="Moniba" culture=kpelle }
 1201019 = {name ="Gbabye" culture=kpelle }
 1201020 = {name ="Gbowee" culture=kpelle }
 1201021 = {name ="Kollie" culture=kpelle }
@@ -1295,7 +1295,7 @@
 1201069 = {name ="Rennie" culture=kpelle }
 1201070 = {name ="Wokpeh" culture=kpelle }
 
-1202000 = {name ="Dumbuya" culture=susu } 
+1202000 = {name ="Dumbuya" culture=susu }
 1202001 = {name ="Yumkella" culture=susu }
 1202002 = {name ="Suma" culture=susu }
 1202003 = {name ="Yillah" culture=susu }
@@ -1667,7 +1667,7 @@
 1407009 = {name ="Alagala" culture=dogon }
 1407010 = {name ="Togotoy" culture=dogon }
 
-1408000 = {name ="Ngakinar" culture=sara }  
+1408000 = {name ="Ngakinar" culture=sara }
 1408001 = {name ="Odingar" culture=sara }
 1408002 = {name ="Tombalbaye" culture=sara }
 1408003 = {name ="Moungar" culture=sara }
@@ -4677,7 +4677,7 @@
 2222007 = { name="Starke" culture=sudwester }
 2222008 = { name="Tötemeyer" culture=sudwester }
 2222009 = { name="Jacobsohn" culture=sudwester }
-2222010 = { name="Yssel" culture=sudwester } 
+2222010 = { name="Yssel" culture=sudwester }
 2222011 = { name="Scholtz" culture=sudwester }
 2222012 = { name="Pupkewitz" culture=sudwester }
 2222013 = { name="Sander" culture=sudwester }
@@ -4685,19 +4685,19 @@
 2222015 = { name="Jentsch" culture=sudwester }
 2222016 = { name="von Leipzig" culture=sudwester }
 2222017 = { name="Husselman" culture=sudwester }
-2222018 = { name="von Schwerin" culture=sudwester } 
-2222019 = { name="Badenhorst" culture=sudwester } 
-2222020 = { name="von Wielligh" culture=sudwester } 
-2222021 = { name="Flegel" culture=sudwester } 
-2222022 = { name="Gromsch" culture=sudwester } 
-2222023 = { name="Faber" culture=sudwester } 
-2222024 = { name="Körner" culture=sudwester } 
-2222025 = { name="Mossolow" culture=sudwester } 
-2222026 = { name="Stoffel" culture=sudwester } 
-2222027 = { name="Troost" culture=sudwester } 
-2222028 = { name="Aschenborn" culture=sudwester } 
-2222029 = { name="Staby" culture=sudwester } 
-2222030 = { name="Zelewski" culture=sudwester } 
+2222018 = { name="von Schwerin" culture=sudwester }
+2222019 = { name="Badenhorst" culture=sudwester }
+2222020 = { name="von Wielligh" culture=sudwester }
+2222021 = { name="Flegel" culture=sudwester }
+2222022 = { name="Gromsch" culture=sudwester }
+2222023 = { name="Faber" culture=sudwester }
+2222024 = { name="Körner" culture=sudwester }
+2222025 = { name="Mossolow" culture=sudwester }
+2222026 = { name="Stoffel" culture=sudwester }
+2222027 = { name="Troost" culture=sudwester }
+2222028 = { name="Aschenborn" culture=sudwester }
+2222029 = { name="Staby" culture=sudwester }
+2222030 = { name="Zelewski" culture=sudwester }
 2222031 = { name="Greyling" culture=sudwester }
 2222032 = { name="Kiewitt" culture=sudwester }
 2222033 = { name="Wölfing" culture=sudwester }
@@ -4736,7 +4736,7 @@
 2222066 = { name="Wurm" culture=sudwester }
 2222067 = { name="Groeg" culture=sudwester }
 2222068 = { name="von Dewitz" culture=sudwester }
-2222069 = { name="Kübary" culture=sudwester } 
+2222069 = { name="Kübary" culture=sudwester }
 2222070 = { name="von Heyderbreck" culture=sudwester }
 2222071 = { name="Hoekstein" culture=sudwester }
 2222072 = { name="Loberloth" culture=sudwester }

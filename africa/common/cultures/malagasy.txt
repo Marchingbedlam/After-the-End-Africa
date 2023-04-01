@@ -4,22 +4,22 @@ malagasy_group = {
 
 	malagasy = {
 		color = { 0.4 0.8 0.4 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Malagasy
 		}
-		
+
 		female_names = {
 			Femalagasy
 		}
 	}
 	comorian = {
 		color = { 0.2 0.1 0.1 }
-		
+
 		graphical_cultures = { westafricangfx africangfx }
-			
+
 		male_names = {
 			Abbas Abdallah_Abdullah Abdoulaide Abdoulatifou Ahmed Alaoui Ali Ancoub Andriantsoly Azali
 			Benhamadi Benjaloud Benousseni Bianrifi Boinali
@@ -37,7 +37,7 @@ malagasy_group = {
 			Tadjidine Tambavou Toifilou
 			Yacine Younoussa_Jonah Youssouf_Joseph
 		}
-		
+
 		female_names = {
 			Alimah_Hamila
 			Chamsia

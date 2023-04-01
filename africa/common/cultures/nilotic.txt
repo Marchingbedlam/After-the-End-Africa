@@ -2,10 +2,10 @@
 nilotic = {
 	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
 	graphical_cultures = { muslimgfx }
-	
+
 	naath = {
 		graphical_cultures = { africangfx westafricangfx }
-		
+
 		color = { 0.21 0.12 0.11 }
 
 		male_names = {
@@ -41,14 +41,14 @@ nilotic = {
 			Wuuht
 			Yan Yiehr Yiohw "Yuan jiaan"
 		}
-		
+
 		dukes_called_kings = yes
 
 		modifier = default_culture_modifier
 	}
 	jieng = {
 		graphical_cultures = { africangfx westafricangfx }
-		
+
 		color = { 0.8 0.4 0.2 }
 
 		male_names = {
@@ -65,14 +65,14 @@ nilotic = {
 		female_names = {
 			Adut Akuol Alek Aluat Arek Ataui Awiei
 		}
-		
+
 		dukes_called_kings = yes
 
 		modifier = default_culture_modifier
 	}
 	luo = {
 		graphical_cultures = { africangfx westafricangfx }
-		
+
 		color = { 0.5 0.25 0.18 }
 
 		male_names = {
@@ -104,14 +104,14 @@ nilotic = {
 			Yvonne
 			Zeituni
 		}
-		
+
 		dukes_called_kings = yes
 
 		modifier = default_culture_modifier
 	}
 	fur = {
 		graphical_cultures = { africangfx westafricangfx }
-		
+
 		color = { 0.6 0.75 0.4 }
 
 		male_names = {
@@ -131,14 +131,14 @@ nilotic = {
 			Halima
 			Zamzam
 		}
-		
+
 		dukes_called_kings = yes
 
 		modifier = default_culture_modifier
 	}
 	beja = {
 		graphical_cultures = { africangfx westafricangfx }
-		
+
 		color = { 0.17 0.08 0.11 }
 
 		male_names = {
@@ -164,14 +164,14 @@ nilotic = {
 			Nayla
 			Zeinab
 		}
-		
+
 		dukes_called_kings = yes
 
 		modifier = default_culture_modifier
 	}
 	nuba = {
 		graphical_cultures = { africangfx westafricangfx }
-		
+
 		color = { 0.4 0.2 0.2 }
 
 		male_names = {
@@ -203,14 +203,14 @@ nilotic = {
 			Ummassar
 			Zahara
 		}
-		
+
 		dukes_called_kings = yes
 
 		modifier = default_culture_modifier
 	}
 	karo = {
 		graphical_cultures = { africangfx westafricangfx }
-		
+
 		color = { 0.5 0.6 0.5 }
 
 		male_names = {
@@ -236,14 +236,14 @@ nilotic = {
 			Jwan
 			Pita Poni
 		}
-		
+
 		dukes_called_kings = yes
 
 		modifier = default_culture_modifier
 	}
 	surmic = {
 		graphical_cultures = { africangfx westafricangfx }
-		
+
 		color = { 0.7 0.8 0.9 }
 
 		male_names = {
@@ -265,14 +265,14 @@ nilotic = {
 			Jwan
 			Pita Poni
 		}
-		
+
 		dukes_called_kings = yes
 
 		modifier = default_culture_modifier
 	}
 	otuho = {
 		graphical_cultures = { africangfx westafricangfx }
-		
+
 		color = { 0.4 0.3 0.1 }
 
 		male_names = {
@@ -297,14 +297,14 @@ nilotic = {
 			Ibala Ibasi Ihoro Ihure Ikayi Ituro
 			Mary
 		}
-		
+
 		dukes_called_kings = yes
 
 		modifier = default_culture_modifier
 	}
 	ateker = {
 		graphical_cultures = { africangfx westafricangfx }
-		
+
 		color = { 0.6 0.1 0.3 }
 
 		male_names = {
@@ -343,7 +343,7 @@ nilotic = {
 			Sarah
 			Winfred
 		}
-		
+
 		dukes_called_kings = yes
 
 		modifier = default_culture_modifier

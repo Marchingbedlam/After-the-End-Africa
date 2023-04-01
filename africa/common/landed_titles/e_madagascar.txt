@@ -1,25 +1,25 @@
 e_madagscar = {
 	color={ 40 200 90 }
 	color2={ 255 255 255 }
-	
+
 	capital = 225 #c_antananarivo
-			
+
 	k_madagascar = {
 		color={ 77 208 85 }
 		color2={ 255 255 255}
-		
+
 		capital = 225 #c_antananarivo
-		
+
 		d_antananarivo = {
 			color={ 47 226 14 }
 			color2={ 255 255 255 }
-			
+
 			capital = 225 #c_antananarivo
 
 			c_antananarivo = {
 				color={ 154 174 113 }
 				color2={ 255 255 255 }
-					
+
 				b_antananarivo = {}
 				b_talatamaty = {}
 				b_manjakandriana = {}
@@ -33,7 +33,7 @@ e_madagscar = {
 			c_vakinankaratra = {
 				color={ 131 191 154 }
 				color2={ 255 255 255 }
-					
+
 				b_antsirabe = {}
 				b_ivato = {}
 				b_ambohimasina = {}
@@ -47,7 +47,7 @@ e_madagscar = {
 			c_itasy = {
 				color={ 134 226 111 }
 				color2={ 255 255 255 }
-					
+
 				b_miarinarivo = {}
 				b_ankisabe = {}
 				b_ampefy = {}
@@ -57,11 +57,11 @@ e_madagscar = {
 				b_avironimamo = {}
 				b_imerintsiatosika = {}
 			}
-			
+
 			c_ankazobe = {
 				color={ 134 194 142 }
 				color2={ 255 255 255 }
-					
+
 				b_ankazobe = {}
 				b_ankazosary = {}
 				b_andranofeno = {}
@@ -75,7 +75,7 @@ e_madagscar = {
 			c_bongolava = {
 				color={ 113 146 142 }
 				color2={ 255 255 255 }
-					
+
 				b_tsiroanomandidy = {}
 				b_bevato = {}
 				b_kiranomena = {}
@@ -85,17 +85,17 @@ e_madagscar = {
 				b_mahasolo = {}
 			}
 		}
-		
+
 		d_menabe = {
 			color={ 152 195 151 }
 			color2={ 255 255 255 }
-			
+
 			capital = 237 #c_morondava
 
 			c_beloni_tsiribihina = {
 				color={ 156 216 144 }
 				color2={ 255 255 255 }
-					
+
 				b_belo_tsiribihina = {}
 				b_masoarivo = {}
 				b_antsoha = {}
@@ -109,7 +109,7 @@ e_madagscar = {
 			c_morondava = {
 				color={ 110 226 144 }
 				color2={ 255 255 255 }
-					
+
 				b_morondava = {}
 				b_analaiva = {}
 				b_mandabe = {}
@@ -123,7 +123,7 @@ e_madagscar = {
 			c_mahabo = {
 				color={ 78 184 112 }
 				color2={ 255 255 255 }
-					
+
 				b_malaimbandy = {}
 				b_ambatohaly = {}
 				b_tsimazava = {}
@@ -133,17 +133,17 @@ e_madagscar = {
 				b_ankilizato = {}
 			}
 		}
-		
+
 		d_atsimo_andrefana = {
 			color={ 108 202 156 }
 			color2={ 255 255 255 }
-			
+
 			capital = 213 #c_toliara
 
 			c_fotadrevo = {
 				color={ 101 210 152 }
 				color2={ 255 255 255 }
-					
+
 				b_fotadrevo = {}
 				b_lazarivo = {}
 				b_ambahita = {}
@@ -157,7 +157,7 @@ e_madagscar = {
 			c_betioky_atsimo = {
 				color={ 132 201 147 }
 				color2={ 255 255 255 }
-					
+
 				b_betioky = {}
 				b_beahiste = {}
 				b_ejeda = {}
@@ -171,7 +171,7 @@ e_madagscar = {
 			c_toliara = {
 				color={ 75 226 94 }
 				color2={ 255 255 255 }
-					
+
 				b_toliara = {}
 				b_ambohimahavelona = {}
 				b_st_augustin = {}
@@ -185,7 +185,7 @@ e_madagscar = {
 			c_morombe = {
 				color={ 139 232 131 }
 				color2={ 255 255 255 }
-					
+
 				b_morombe = {}
 				b_andavadoaka = {}
 				b_mamono = {}
@@ -196,17 +196,17 @@ e_madagscar = {
 				b_ambahikily = {}
 			}
 		}
-		
+
 		d_antsiranana = {
 			color={ 131 235 101 }
 			color2={ 255 255 255 }
-			
+
 			capital = 207 #c_antisiranana
 
 			c_antisiranana = {
 				color={ 151 199 114 }
 				color2={ 255 255 255 }
-					
+
 				b_antisiranana = {}
 				b_joffreville = {}
 				b_mangaoka = {}
@@ -215,11 +215,11 @@ e_madagscar = {
 				b_antsakoabe = {}
 				b_sadjoavato = {}
 			}
-			
+
 			c_sava = {
 				color={ 145 193 134 }
 				color2={ 255 255 255 }
-					
+
 				b_antalaha = {}
 				b_ambalabe = {}
 				b_ambodipont_sahana = {}
@@ -233,7 +233,7 @@ e_madagscar = {
 			c_sambava = {
 				color={ 99 222 72 }
 				color2={ 255 255 255 }
-					
+
 				b_sambava = {}
 				b_farahalana = {}
 				b_antindra = {}
@@ -247,7 +247,7 @@ e_madagscar = {
 			c_ambilobe = {
 				color={ 78 144 77 }
 				color2={ 255 255 255 }
-					
+
 				b_ambilobe = {}
 				b_ambanja = {}
 				b_bemaneviky = {}
@@ -262,13 +262,13 @@ e_madagscar = {
 		d_toamasina = {
 			color={ 82 202 99 }
 			color2={ 255 255 255 }
-			
+
 			capital = 212 #c_toamasina
 
 			c_toamasina = {
 				color={ 121 231 104 }
 				color2={ 255 255 255 }
-					
+
 				b_toamasina = {}
 				b_brickaville = {}
 				b_ambila_lemaitso = {}
@@ -278,11 +278,11 @@ e_madagscar = {
 				b_anjahambe = {}
 				b_fenoarivo = {}
 			}
-			
+
 			c_aloatra_mangoro = {
 				color={ 100 172 100 }
 				color2={ 255 255 255 }
-					
+
 				b_amparafaravola = {}
 				b_tanambe = {}
 				b_anony = {}
@@ -296,7 +296,7 @@ e_madagscar = {
 			c_moramanga = {
 				color={ 135 146 82 }
 				color2={ 255 255 255 }
-					
+
 				b_moramanga = {}
 				b_amboasary = {}
 				b_bembary = {}
@@ -310,7 +310,7 @@ e_madagscar = {
 			c_vatomandry = {
 				color={ 162 151 156 }
 				color2={ 255 255 255 }
-					
+
 				b_vatomandry = {}
 				b_maintinandry = {}
 				b_ilaka = {}
@@ -325,13 +325,13 @@ e_madagscar = {
 		d_analanjirofo = {
 			color={ 94 145 94 }
 			color2={ 255 255 255 }
-			
+
 			capital = 210 #c_maroantsetra
 
 			c_maroantsetra = {
 				color={ 144 182 148 }
 				color2={ 255 255 255 }
-					
+
 				b_maroantsetra = {}
 				b_ambinanitelo = {}
 				b_tampolo = {}
@@ -345,7 +345,7 @@ e_madagscar = {
 			c_soanierana_ivongo = {
 				color={ 112 231 151 }
 				color2={ 255 255 255 }
-					
+
 				b_soanierana_ivongo = {}
 				b_nosy_boraha = {}
 				b_ambodiampana = {}
@@ -360,13 +360,13 @@ e_madagscar = {
 		d_anosy = {
 			color={ 172 203 172 }
 			color2={ 255 255 255 }
-			
+
 			capital = 217 #c_taolagnaro
 
 			c_betroka = {
 				color={ 111 152 71 }
 				color2={ 255 255 255 }
-					
+
 				b_betroka = {}
 				b_vorokafitsa = {}
 				b_ivahona = {}
@@ -380,7 +380,7 @@ e_madagscar = {
 			c_taolagnaro = {
 				color={ 86 172 131 }
 				color2={ 255 255 255 }
-					
+
 				b_taolagnaro = {}
 				b_ankaramena = {}
 				b_mahatalaky = {}
@@ -394,7 +394,7 @@ e_madagscar = {
 			c_faux_cap = {
 				color={ 78 186 66 }
 				color2={ 255 255 255 }
-					
+
 				b_faux_cap = {}
 				b_ambovombe = {}
 				b_ambazoa = {}
@@ -405,17 +405,17 @@ e_madagscar = {
 				b_lavanono = {}
 			}
 		}
-		
+
 		d_boeny = {
 			color={ 86 176 110 }
 			color2={ 255 255 255 }
-			
+
 			capital = 230 #c_marovoay
 
 			c_marovoay = {
 				color={ 88 142 110 }
 				color2={ 255 255 255 }
-					
+
 				b_marovoay = {}
 				b_mahajanga = {}
 				b_berivotra = {}
@@ -429,7 +429,7 @@ e_madagscar = {
 			c_mitsinjo = {
 				color={ 56 154 94 }
 				color2={ 255 255 255 }
-					
+
 				b_mitsinjo = {}
 				b_namakia = {}
 				b_androhibe = {}
@@ -442,7 +442,7 @@ e_madagscar = {
 			c_madirovalo = {
 				color={ 102 128 122 }
 				color2={ 255 255 255 }
-					
+
 				b_madirovalo = {}
 				b_ankirihitra = {}
 				b_sitampiky = {}
@@ -456,7 +456,7 @@ e_madagscar = {
 			c_betsiboka = {
 				color={ 123 212 122 }
 				color2={ 255 255 255 }
-					
+
 				b_maevatanana = {}
 				b_madiromirafy = {}
 				b_antanimbary = {}
@@ -467,17 +467,17 @@ e_madagscar = {
 				b_betrandraka = {}
 			}
 		}
-		
+
 		d_sofia = {
 			color={ 124 169 90 }
 			color2={ 255 255 255 }
-			
+
 			capital = 234 #c_boriziny
 
 			c_bealanana = {
 				color={ 43 171 41 }
 				color2={ 255 255 255 }
-					
+
 				b_bealanana = {}
 				b_ambatosia = {}
 				b_antsamaka = {}
@@ -491,7 +491,7 @@ e_madagscar = {
 			c_analalava = {
 				color={ 89 145 77 }
 				color2={ 255 255 255 }
-					
+
 				b_ambodimandresy = {}
 				b_befotaka = {}
 				b_antsohihy = {}
@@ -505,7 +505,7 @@ e_madagscar = {
 			c_boriziny = {
 				color={ 87 199 70 }
 				color2={ 255 255 255 }
-					
+
 				b_ampombibitika = {}
 				b_tsarahasina = {}
 				b_leanja = {}
@@ -519,7 +519,7 @@ e_madagscar = {
 			c_mandritsara = {
 				color={ 95 176 55 }
 				color2={ 255 255 255 }
-					
+
 				b_mandritsara = {}
 				b_marotandrano = {}
 				b_andohajango = {}
@@ -530,17 +530,17 @@ e_madagscar = {
 				b_ankarongana = {}
 			}
 		}
-		
+
 		d_fianarantsoa = {
 			color={ 95 124 152 }
 			color2={ 255 255 255 }
-			
+
 			capital = 220 #c_fianarantsoa
 
 			c_fianarantsoa = {
 				color={ 59 199 111 }
 				color2={ 255 255 255 }
-					
+
 				b_fianarantsoa = {}
 				b_talata_ampano = {}
 				b_andranovorivato = {}
@@ -554,7 +554,7 @@ e_madagscar = {
 			c_ambatofinandrahana = {
 				color={ 101 123 87 }
 				color2={ 255 255 255 }
-					
+
 				b_ambatofinandrahana = {}
 				b_mandrosonoro = {}
 				b_amborompotsy = {}
@@ -568,7 +568,7 @@ e_madagscar = {
 			c_amoroni_mania = {
 				color={ 37 182 104 }
 				color2={ 255 255 255 }
-					
+
 				b_ambositra = {}
 				b_ivato2 = {}
 				b_fandriana = {}
@@ -581,7 +581,7 @@ e_madagscar = {
 			c_ivohibe = {
 				color={ 97 133 66 }
 				color2={ 255 255 255 }
-					
+
 				b_ivohibe = {}
 				b_andreaba = {}
 				b_ivongo = {}
@@ -595,7 +595,7 @@ e_madagscar = {
 			c_ihosy = {
 				color={ 98 166 120 }
 				color2={ 255 255 255 }
-					
+
 				b_ihosy = {}
 				b_zazafotsy = {}
 				b_ambatolahy = {}
@@ -606,17 +606,17 @@ e_madagscar = {
 				b_sahamboritra = {}
 			}
 		}
-		
+
 		d_manakara = {
 			color={ 153 242 124 }
 			color2={ 255 255 255 }
-			
+
 			capital = 387 #c_manakara
 
 			c_manakara = {
 				color={ 158 228 112 }
 				color2={ 255 255 255 }
-					
+
 				b_manakara = {}
 				b_ambila = {}
 				b_ambahatrazo = {}
@@ -630,7 +630,7 @@ e_madagscar = {
 			c_atsimo_atsinanana = {
 				color={ 100 170 111 }
 				color2={ 255 255 255 }
-					
+
 				b_farafagana = {}
 				b_anosivelo = {}
 				b_vangaindrano = {}
@@ -640,11 +640,11 @@ e_madagscar = {
 				b_ambatolava = {}
 				b_ranomena = {}
 			}
-			
+
 			c_vatovavy_fitovinany = {
 				color={ 85 199 98 }
 				color2={ 255 255 255 }
-					
+
 				b_mananjary = {}
 				b_anosimparihy = {}
 				b_vohilava = {}
@@ -665,7 +665,7 @@ e_madagscar = {
 			c_besalampy = {
 				color={ 135 224 159 }
 				color2={ 255 255 255 }
-					
+
 				b_besalampy = {}
 				b_bekodoka = {}
 				b_mahabibo = {}
@@ -679,7 +679,7 @@ e_madagscar = {
 			c_maintirano = {
 				color={ 123 195 85 }
 				color2={ 255 255 255 }
-					
+
 				b_maintirano = {}
 				b_bepea = {}
 				b_veromanga = {}
@@ -694,20 +694,20 @@ e_madagscar = {
 	k_comoros = {
 		color={ 226 148 245 }
 		color2={ 255 255 255 }
-					
+
 		capital = 200
 		culture = comorian
-					
+
 		d_comoros = {
 			color={ 200 110 100 }
 			color2={ 255 255 255 }
 
-			capital = 200 
-						
+			capital = 200
+
 			c_grande_comore = {
 				color={ 129 116 245 }
 				color2={ 255 255 255 }
-				
+
 				b_iconi = {}
 				b_moroni = {}
 				b_foumbouni = {}
@@ -719,7 +719,7 @@ e_madagscar = {
 			c_mayotte = {
 				color={ 197 148 124 }
 				color2={ 255 255 255 }
-				
+
 				b_koungou = {}
 				b_mamoudzou = {}
 				b_dzaoudzi = {}
@@ -731,7 +731,7 @@ e_madagscar = {
 			c_moheli = {
 				color={ 171 106 99 }
 				color2={ 255 255 255 }
-				
+
 				b_djoiezi = {}
 				b_fomboni = {}
 				b_ouallah = {}
@@ -743,7 +743,7 @@ e_madagscar = {
 			c_anjouan = {
 				color={ 226 103 6 }
 				color2={ 255 255 255 }
-				
+
 				b_domoni = {}
 				b_mutsamudu = {}
 				b_adda_doueni = {}
@@ -757,19 +757,19 @@ e_madagscar = {
 	k_indiania = {
 		color={ 68 176 102}
 		color2={ 255 255 255 }
-					
+
 		capital = 203
-					
+
 		d_mascarenes = {
 			color={ 223 100 150 }
 			color2={ 255 255 255 }
 
 			capital = 203
-						
+
 			c_reunion = {
 				color={ 222 173 132 }
 				color2={ 255 255 255 }
-				
+
 				b_saint_paul = {}
 				b_saint_denis = {}
 				b_saint_pierre = {}
@@ -778,11 +778,11 @@ e_madagscar = {
 				b_le_port = {}
 				b_saint_leu = {}
 			}
-				
+
 			c_mauritius = {
 				color={ 224 68 184 }
 				color2={ 255 255 255 }
-				
+
 				b_beau_bassin_rose_hill = {}
 				b_port_louis = {}
 				b_vacoas_phoenix = {}
@@ -794,7 +794,7 @@ e_madagscar = {
 			c_rodrigues = {
 				color={ 222 173 132 }
 				color2={ 255 255 255 }
-				
+
 				b_mont_lubin = {}
 				b_port_mathurin = {}
 				b_petit_gabriel = {}
@@ -809,11 +809,11 @@ e_madagscar = {
 			color2={ 255 255 255 }
 
 			capital = 380
-						
+
 			c_seychelles = {
 				color={ 186 194 162 }
 				color2={ 255 255 255 }
-				
+
 				b_anse_royale = {}
 				b_victoria = {}
 				b_bel_ombre = {}

@@ -3,12 +3,12 @@ bm_terra_nullius = {
 	name = "BM_TERRA_NULLIUS"
 	desc = "BM_TERRA_NULLIUS_DESC"
 	date = 2663.5.25
-	
+
 	era = yes
 	picture = GFX_pick_era_image_5
 	custom_start = yes
-	
+
 	selectable_character = {
-		id = 1 # 
+		id = 1 #
 	}
 }

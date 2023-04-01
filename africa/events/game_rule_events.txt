@@ -8,15 +8,15 @@ namespace = GR
 
 character_event = { # Generate 'Fake Family' for characters without any
 	id = GR.30
-	
+
 	hide_window = yes
-	
+
 	is_triggered_only = yes
-	
+
 	only_playable = yes
 	min_age = 16
 	only_men = yes
-	
+
 	trigger = {
 		OR = {
 			AND = {
@@ -29,7 +29,7 @@ character_event = { # Generate 'Fake Family' for characters without any
 			has_game_rule = {
 				name = generate_families
 				value = on
-			} 
+			}
 		}
 		is_save_game = no
 		OR = {
@@ -100,9 +100,9 @@ character_event = { # Generate 'Fake Family' for characters without any
 			}
 		}
 	}
-	
+
 	immediate = {
-		
+
 		# Generate a fitting spouse, first and foremost
 		# Rulers with really old children might still end up with no mother, but that should be rare
 		if = {
@@ -365,14 +365,14 @@ character_event = { # Generate 'Fake Family' for characters without any
 				COUNT = { prestige = 100 }
 			}
 		}
-		
+
 		# Then, generate a sort of random amount of children
 		if = {
 			limit = {
 				num_of_children < 1
 				age >= 40
 			}
-			
+
 			random_list = {
 				5 = {
 					create_character = {
@@ -1113,7 +1113,7 @@ character_event = { # Generate 'Fake Family' for characters without any
 				}
 			}
 		}
-		
+
 		# Set orphaned historical children to new mother
 		any_child = {
 			limit = {
@@ -1135,11 +1135,11 @@ character_event = { # Generate 'Fake Family' for characters without any
 			}
 			set_mother = event_target:new_mother
 		}
-		
+
 		any_child = {
 			character_event = { id = RoI.30121 } # Set religious branch to liege's branch
 		}
-		
+
 		any_child = { # Fix for children not getting any traits
 			limit = {
 				age = 16
@@ -1182,7 +1182,7 @@ character_event = { # Generate 'Fake Family' for characters without any
 				}
 			}
 		}
-		
+
 		any_child = {
 			limit = {
 				age = 10
@@ -1210,7 +1210,7 @@ character_event = { # Generate 'Fake Family' for characters without any
 				}
 			}
 		}
-		
+
 		any_child = {
 			limit = {
 				age = 6

@@ -32,7 +32,7 @@
 	trait=gardener
 	trait=shrewd
 	trait=gregarious
-	trait=trusting 
+	trait=trusting
 	trait=erudite
 
 	2633.9.12={ birth=yes }
@@ -400,7 +400,7 @@
 	add_trait=envious
 	add_trait=charitable
 	add_trait=gregarious
-	add_trait=paranoid 
+	add_trait=paranoid
 
 	2627.9.2={ birth=yes }
 	2690.5.2={ death=yes }

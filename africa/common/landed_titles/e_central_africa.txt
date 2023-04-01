@@ -1,7 +1,7 @@
 e_central_africa = {
 	color={ 200 200 200 }
 	color2={ 255 255 255 }
-			
+
 	k_bonny = {
 		color={ 6 98 65 }
 		color2={ 255 255 255}
@@ -10,11 +10,11 @@ e_central_africa = {
 			color={ 106 42 46 }
 			color2={ 255 255 255 }
 
-							
+
 			c_etula = {
 				color={ 146 48 48 }
 				color2={ 255 255 255 }
-					
+
 				b_malabo_GQ = {}
 				b_luba_GQ = {}
 				b_rebola_GQ = {}
@@ -26,7 +26,7 @@ e_central_africa = {
 			c_sao_tome_e_principe = {
 				color={ 101 42 42 }
 				color2={ 255 255 255 }
-					
+
 				b_sao_tome_ST = {}
 				b_neves_ST = {}
 				b_santana_ST = {}
@@ -109,7 +109,7 @@ e_central_africa = {
 		d_lobeke = {
 			color={ 250 230 50 }
 			color2={ 255 255 255 }
-			
+
 			c_lom_et_djerem = {
 				color={ 255 236 30 }
 				color2={ 255 255 255 }
@@ -198,7 +198,7 @@ e_central_africa = {
 		d_campo = {
 			color={ 100 200 150 }
 			color2={ 255 255 255 }
-			
+
 			c_dja_et_lobo = {
 				color={ 137 255 147 }
 				color2={ 255 255 255 }
@@ -251,7 +251,7 @@ e_central_africa = {
 		d_sanaga = {
 			color={ 255 170 50 }
 			color2={ 255 255 255 }
-			
+
 			c_mbam_et_kim = {
 				color={ 196 170 39 }
 				color2={ 255 255 255 }
@@ -286,7 +286,7 @@ e_central_africa = {
 		d_nyong = {
 			color={ 80 80 20 }
 			color2={ 255 255 255 }
-		
+
 			c_yaounde = {
 				color={ 255 212 145 }
 				color2={ 255 255 255 }
@@ -339,7 +339,7 @@ e_central_africa = {
 		d_wouri = {
 			color={ 150 80 20 }
 			color2={ 255 255 255 }
-			
+
 			c_sanaga_maritime = {
 				color={ 193 88 13 }
 				color2={ 255 255 255 }
@@ -380,7 +380,7 @@ e_central_africa = {
 		d_tsugning = {
 			color={ 100 200 188 }
 			color2={ 255 255 255 }
-			
+
 			c_nde = {
 				color={ 121 115 239 }
 				color2={ 255 255 255 }

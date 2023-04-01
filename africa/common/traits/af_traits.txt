@@ -15,7 +15,7 @@ mason = {
 	religious = yes
 	ruler_designer_cost = 0
 	ai_honor = 10
-	
+
 }
 ifa_mo = {
 	opposites = {
@@ -34,7 +34,7 @@ ifa_mo = {
 	religious = yes
 	ruler_designer_cost = 0
 	ai_honor = 10
-	
+
 }
 garveyite = {
 	opposites = {
@@ -54,7 +54,7 @@ garveyite = {
 	religious = yes
 	ruler_designer_cost = 0
 	ai_honor = 10
-	
+
 }
 
 tijaniyya = {
@@ -64,7 +64,7 @@ tijaniyya = {
 	}
 
 	opposite_opinion = -5
-	
+
 	monthly_character_piety = 0.25
 
 	potential = { religion = tarikah }
@@ -81,7 +81,7 @@ qadiriyya = {
 	}
 
 	opposite_opinion = -5
-	
+
 	stewardship = 1
 
 	potential = { religion = tarikah }
@@ -98,9 +98,9 @@ shadhiliyya = {
 	}
 
 	opposite_opinion = -5
-	
+
 	diplomacy = 1
-	
+
 
 	potential = { religion = tarikah }
 	religious_branch = tarikah

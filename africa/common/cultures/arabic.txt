@@ -4,9 +4,9 @@ arabic = {
 
 	maghrebi = {
 		graphical_cultures = { berbergfx arabicgfx muslimgfx }
-		
+
 		color = { 0.2 1.0 0.2 }
-		
+
 		male_names = {
 			Abdelatif_Abdul-Latif Abdelaziz_Abdul-Aziz Abdelhak Abdelhamid_Abdul-Hamid Abdeljelil Abdelkader_Abdul-Kadir Abdelkarim Abdellah_Abdullah Abdelmalek_Abdul-Malik Abderrahim_Abdul-Rahman Achref_Ashraf Adil Ahmed Ali Amar Anouar_Anwar Aymen_Ayman Azzedine_Azzaddin
 			Bechir_Bashir Bilel_Bilal Bouchaib
@@ -44,17 +44,17 @@ arabic = {
 			Tala Touriya
 			Zahra Zineb_Zeinab Zohra
 		}
-		
+
 
 		male_patronym = "Ben "
 		female_patronym = "Mint "
-		prefix = yes 
+		prefix = yes
 	}
 	masri = {
 		graphical_cultures = { berbergfx arabicgfx muslimgfx }
-		
+
 		color = { 0.2 1.0 0.2 }
-		
+
 		male_names = {
 			Abbas "Abbas Helmy" "Abdel Aziz"_Abdul-Aziz "Abdel Fattah"_Abdul-Fattah "Abdel Hakim"_Abdul-Hakim "Abdel Hamid"_Abdul-Hamid "Abdel Khalek" "Abdel Latif"_Abdul-Latif "Abdel Moneim"_Abdul-Munim "Abdel Rahman"_Abdul-Rahman "Abdel Zaher" Adly Ahmed "Ahmed Fuad" Aladdin Aly_Ali Amr Anwar Ashour Ashraf Atef Ayman Aybak Aziz Azzaddin
 			Baibars Baligh Barquq Bassem_Basim
@@ -65,9 +65,9 @@ arabic = {
 			Hamdeen Hamed_Hamid Hassan_Hasan "Hassan Aziz" Hatem Hazem Hesham_Hisham Hosni Hossam_Husam Hussein "Hussein Kamel"
 			Ibrahim_Abraham Ihsan Ismail_Ishmael
 			Jaqmaq
-			Kamal Karim Khairat Khairy Khaled_Khalid Khalil 
+			Kamal Karim Khairat Khairy Khaled_Khalid Khalil
 			Lotfy_Lutfi
-			Mahmud Mamdouh Mashhour Mekkawi Mohamed_Mohammed "Mohamed Ali" Mokhtar_Mukhtar Morad_Murad Mostafa_Mustafa 
+			Mahmud Mamdouh Mashhour Mekkawi Mohamed_Mohammed "Mohamed Ali" Mokhtar_Mukhtar Morad_Murad Mostafa_Mustafa
 			Nabil Naguib Nasser_Nasr Noman
 			Omar Osama_Osman "Osman Ahmed"
 			Qalawun Qansuh
@@ -94,50 +94,50 @@ arabic = {
 			Yosra
 			Zulaykha
 		}
-		
+
 
 		male_patronym = "ibn "
 		female_patronym = "bint "
-		prefix = yes 
+		prefix = yes
 	}
 	mashriqi = {
 		graphical_cultures = { berbergfx arabicgfx muslimgfx }
-		
+
 		color = { 0.3 0.9 0.2 }
-		
+
 		male_names = {
-			Abbas 
+			Abbas
 		}
 		female_names = {
 			Aisha
 		}
-		
+
 
 		male_patronym = "ibn "
 		female_patronym = "bint "
-		prefix = yes 
-		
+		prefix = yes
+
 		founder_named_dynasties = yes
 	}
 	bedouin = {
 		graphical_cultures = { berbergfx arabicgfx muslimgfx }
-		
+
 		color = { 0.1 0.7 0.1 }
-		
+
 		male_names = {
 			Abbas "Abd al-Malik"_Abdul-Malik "Abd al-Karim"_Abdul-Karim "Abd al-Latif"_Abdul-Latif "Abd al-Mu'in"_Abdul-Muin "Abd al-Muttalib" "Abd al-Razzaq"_Abdul-Razzaq "Abd al-Salam" Abdulaziz_Abdul-Aziz Abdullah Abdulrahman_Abdul-Rahman "Abu Bakr"_Abu-Bakr "Abu Numayy" "Abu Talib" Adnan "Adnan Ahmad" Ahmad_Ahmed Ali "Ali Haidar" "Ali Hatim" Amr Atiyah Awdah Awn "Awn ar-Rafiq" "Awn Shawkat" Ayman Ayyub_Job
 			Badr Barakat Bashir Bilal
 			Dawud_David Dhiyab
 			Eteiwi
-			Fahad Faisal Faraj Fayhan Fayiz 
+			Fahad Faisal Faraj Fayhan Fayiz
 			Gazi_Ghazi Ghalib Ghanim
 			Haidar Hamad Hamdan Hamzah Harun_Aaron Hasan Hashim Humayd Husayn_Hussein Hushur
 			Ibrahim_Abraham "Ibrahim Mansur" Idris Isa_Jesus Ishaq_Isaac Isma'il_Ishmael
 			Jabir Ja'far_Jafar Jamal Jammaz Jarir Jassim
 			Khalid Khalifa Khalil Khawar
-			Ma'ad Mahmud "Majid Muhammad" Maktum Mansur "Mansur Musa" Maruf Mas'ud_Masud Mu'awiya_Muawiya Mubarak Muhammad_Mohammed Muhsin Musa_Moses Mut'ib 
-			Nahyan Naif Nasr 
-			Qasim Qatadah 
+			Ma'ad Mahmud "Majid Muhammad" Maktum Mansur "Mansur Musa" Maruf Mas'ud_Masud Mu'awiya_Muawiya Mubarak Muhammad_Mohammed Muhsin Musa_Moses Mut'ib
+			Nahyan Naif Nasr
+			Qasim Qatadah
 			Ra'ad Rahmah Rajih Rashid
 			Sa'ad_Saad Sabah Sa'id_Said Saif Salim Saqr Sattam Sa'ud_Saud Shakhbut Shalal Shu'ayb Suhayl Sulayman_Solomon Sultan
 			Talal Tamim Taysir Thamir
@@ -166,24 +166,24 @@ arabic = {
 			Wadhah Wadima Watfa
 			Zahra Zaynab Zein Zubaidah
 		}
-		
+
 
 		male_patronym = "ibn "
 		female_patronym = "bint "
-		prefix = yes 
+		prefix = yes
 	}
 	sudani = {
 		graphical_cultures = { berbergfx arabicgfx muslimgfx }
-		
+
 		color = { 0.2 1.0 0.4 }
-		
+
 		male_names = {
 			Abbas Abdalla_Abdullah Abdalrahman_Abdul-Rahman Abdelaziz_Abdul-Aziz Abdel-Fatteh_Abdul-Fattah Abdelgadir_Abdul-Kadir Abdel-Karim Abdelsalam_Abdul-Salam Abdel-Wahab_Abdul-Wahab Abdul-Gasim_Abdul-Qasim Abdul-Hamid Abdul-Rahim Abdul-Wahid Adam Adlan Ahmed Ala'a-Eldin_Aladdin Al-Amin Al-Awad Al-Daw Al-Hadi Ali Al-Jazuli Al-Khatim Al-Moez Al-Nazeer Al-Numan Amin Awn-Al-Sharif
 			Babiker_Abu-Bakr Baderuddin Bahar Burai
 			El-Fadil El-Tahir Ezuddin
 			Fadlallah Faisal Farouk
 			Gaafar_Jafar Gadalla Gamal_Jamal Ghazi Gibril_Gabriel
-			Haitham Hashem_Hashim Hassan_Hasan Hussein Huzaifa 
+			Haitham Hashem_Hashim Hassan_Hasan Hussein Huzaifa
 			Ibrahim_Abraham Idris Ismail_Ishmael Ismat Issa_Jesus
 			Jabar-Allah Jabeer_Jabir
 			Kamal Khalid Khalil Khater_Khidr Khojali
@@ -214,16 +214,16 @@ arabic = {
 			Yassmin
 			Zeinab_Zaynab
 		}
-		
+
 		male_patronym = "ibn "
 		female_patronym = "bint "
-		prefix = yes 
+		prefix = yes
 	}
 	sahrawi = {
 		graphical_cultures = { berbergfx arabicgfx muslimgfx }
-		
+
 		color = { 0.7 0.2 0.2 }
-		
+
 		male_names = {
 			Abdelaziz_Abdul-Aziz Abdeljalil_Abdul-Jalil Abdelkader_Abdul-Kadir Abdellah_Abdullah Abderrahmane_Abdul-Rahman Ahmed Ali "Ali Beiba" Ayoub_Job
 			Bouchraya Brahim_Abraham
@@ -239,7 +239,7 @@ arabic = {
 			Mahayub Mahfoud Mohamed_Mohammed "Mohamed Ali" "Mohamed Cheikh" "Mohamed Fadel" "Mohamed Lamine" "Mohamed Mbarek" Moulay_Mulay Mustapha_Mustafa
 			Nayem_Najm
 			Omar Othmane_Uthman Oubi
-			Salek Salem_Salim Sarhan Sghair Sidahmed Suleiman_Solomon 
+			Salek Salem_Salim Sarhan Sghair Sidahmed Suleiman_Solomon
 			Taleb_Talib Teceber
 			Wali
 			Yassin
@@ -254,17 +254,17 @@ arabic = {
 			Mariem_Mary
 			Nouna_Nuna
 		}
-		
+
 
 		male_patronym = "Ould "
 		female_patronym = "Bent "
-		prefix = yes 
+		prefix = yes
 	}
 	haratin = {
 		graphical_cultures = { westafricangfx arabicgfx muslimgfx }
-		
+
 		color = { 0.3 0.9 0.3 }
-		
+
 		male_names = {
 			Abdoul_Abdul Abdoulahy_Abdullah Abdoulaziz_Abdul-Aziz Adama_Adam Ahmed
 			Béchir_Bashir Bilal Biram Boubacar_Abu-Bakr
@@ -294,17 +294,17 @@ arabic = {
 			Yema
 			Zeinebou_Zaynab
 		}
-		
+
 
 		male_patronym = "Ould "
 		female_patronym = "Mint "
-		prefix = yes 
+		prefix = yes
 	}
 	baggara = {
 		graphical_cultures = { westafricangfx arabicgfx muslimgfx }
-		
+
 		color = { 0.3 0.9 0.3 }
-		
+
 		male_names = {
 			Abba Aba_Abba Abdallahi_Abdullah Abdelkader_Abdul-Kadir Abdelkerim_Abdul-Karim Abdelsalam_Abdul-Salam Abdelwahid_Abdul-Wahid Abderahman_Abdul-Rahman Aboud Acheick Adoum Ahmat_Ahmed Ali
 			Daoud_David
@@ -314,7 +314,7 @@ arabic = {
 			Kyari
 			Mahamat_Mohammed Mansour_Mansur Mukhtar Mustafa
 			Nassour_Nasr Nouradine_Nuraddin
-			Oumar_Omar Outhman_Uthman 
+			Oumar_Omar Outhman_Uthman
 			Rabeh Rabih_Rabeh
 			Sadiq Saleh_Salih
 			Wadel
@@ -325,17 +325,17 @@ arabic = {
 		female_names = {
 			Hafsa Hinda
 		}
-		
+
 
 		male_patronym = "ibn "
 		female_patronym = "bint "
-		prefix = yes 
+		prefix = yes
 	}
 	berber = {
 		graphical_cultures = { westafricangfx arabicgfx muslimgfx }
-		
+
 		color = { 0.5 0.7 0.5 }
-		
+
 		male_names = {
 			Abane Abdelaziz_Abdul-Aziz Abdelhafid Abdelkader_Abdul-Kadir Abdellah_Abdullah Abdeslam_Abdul-Salam Adel Adergazuz Aderrebou Adherbal Aghecher Ahmed Aksél Ali Amirouche Antalas Az'Regh Azzedine_Azzaddin
 			Bachir_Bashir Belaïd Belkacem_Abdul-Qasim Bologhine Boumezrag Brahim_Abraham
@@ -345,7 +345,7 @@ arabic = {
 			Faouzi Fella Ferhat Fezari Firhoun Fraousen
 			Gandouz Gulussa
 			Hacène_Hassan Hemmou Hiempsal Hocine_Hussein Houari Houssameddine
-			Ierna Ighlaf Iksfensen Immeghar Ishem 
+			Ierna Ighlaf Iksfensen Immeghar Ishem
 			Kacem_Qasim Kamel_Kamal Kateb Khenchela Khichan Koutzinas Krim
 			Lacumaces Lahcen Larbi Liamine Lounès Lyès
 			Makhlouf Malek_Malik Massinissa Mastanabal Mez'yan M'Hamed_Mohammed Mikipsa Mohand Mostefa_Mustafa Mouloud Moussa_Moses
@@ -370,21 +370,21 @@ arabic = {
 			Sarah Souad
 			Taos
 		}
-		
+
 
 		male_patronym = "Ben "
 		female_patronym = "Mint "
-		prefix = yes 
+		prefix = yes
 	}
 	umani = {
 		graphical_cultures = { westafricangfx arabicgfx muslimgfx }
-		
+
 		color = { 0.3 0.9 0.3 }
-		
+
 		male_names = {
 			"Abdul Aziz"_Abdul-Aziz Abdullah "Abdullah Ali" "Abdul Latif"_Abdul-Latif "Abdul Rahman"_Abdul-Rahman Ahmad_Ahmed Alawi Ali "Ali Salim" Alkhattab Aqeel Asad Azzan
 			Bader_Badr Bandar Baqer_Bakr Barakat Barghash Basim Bilarab
-			Dadallah Darwish 
+			Dadallah Darwish
 			"Eid Mohammed"
 			Fahad Faiz Faraj Farhan Farid Fawzi Feisal_Faisal
 			Ghalib
@@ -403,12 +403,12 @@ arabic = {
 			Yahya_John Yusuf_Joseph
 			Zaher_Zahir Zaid_Zayd
 		}
-		female_names = {	
+		female_names = {
 			Adla Aisha Anisa
 			Badriyya Boran
 			Fatima
 			Haifa Hakima Hamida Hareth Hunaina
-			Ghaliya Ghanneyeh 
+			Ghaliya Ghanneyeh
 			Jokha
 			Khanfora Khawla
 			Madiha Matuka Mazoon Mishan
@@ -417,17 +417,17 @@ arabic = {
 			Safiya Saida Salma Samira Sharifa Shawana Shinoona Sindiya Sughiya
 			Zuleika
 		}
-		
+
 
 		male_patronym = "bin "
 		female_patronym = "bint "
-		prefix = yes 
+		prefix = yes
 	}
 	waswahili = {
 		graphical_cultures = { westafricangfx arabicgfx muslimgfx }
-		
+
 		color = { 0.3 0.9 0.3 }
-		
+
 		male_names = {
 			Abdalla_Abdullah Abdilatif Abdulaziz Abdulhalim Abdulkarim Abdulrahman Abdulrazak Abeid Abubakar Adam Ahmed Alamin Ally_Ali Amani Amir Atul Awadh Ayub_Job
 			Baraka Barghash Bashat Bushir
@@ -453,23 +453,23 @@ arabic = {
 			Fardosa Fatuma
 			Jokate
 			Khadija Khalila
-			Lubaina	
+			Lubaina
 			Malaika Mariam_Mary Mwana
 			Nadira
 			Saada Salha Samia Sayyida Siti
 			Zakia Zuleikha
 		}
-		
+
 
 		male_patronym = "bin "
 		female_patronym = "binti "
-		prefix = yes 
+		prefix = yes
 	}
 	afrolebanese = {
 		graphical_cultures = { arabicgfx muslimgfx }
-		
+
 		color = { 0.56 0.26 0.84 }
-		
+
 		male_names = {
 			Charbel
 			Bechara Boutros_Peter Bulus_Paul
@@ -480,10 +480,10 @@ arabic = {
 		female_names = {
 			Mariam_Mary
 		}
-		
+
 
 		male_patronym = "bin "
 		female_patronym = "bint "
-		prefix = yes 
+		prefix = yes
 	}
 }

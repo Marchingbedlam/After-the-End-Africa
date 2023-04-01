@@ -1,6 +1,6 @@
 trans_sahara_trade = { # Trans Saharan route
 	wealth = 100			# Total base wealth of silk route
-	
+
 	trade_post_display_trigger = {
 		OR = {
 			province_id = 189
@@ -25,7 +25,7 @@ trans_sahara_trade = { # Trans Saharan route
 	start = {				# Start provinces of trade route
 		189
 	}
-	
+
 	# Hoggar - Timbuktu
 	path = {
 		 189 188 187 186 95 92 93 90 89 82 81 83

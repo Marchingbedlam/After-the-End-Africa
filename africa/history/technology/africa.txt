@@ -122,9 +122,9 @@ technology = {
 		military = 0.45
 		economy = 0.3
 		culture = 0.6
-		
+
 	}
-	
+
 	1337 = {
 		military = 3.5
 		economy = 3.5

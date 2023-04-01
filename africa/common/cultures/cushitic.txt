@@ -2,10 +2,10 @@
 cushitic = {
 	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
 	graphical_cultures = { muslimgfx }
-	
+
 	somali = {
 		graphical_cultures = { africangfx westafricangfx }
-		
+
 		color = { 0.2 0.2 0.1 }
 
 		male_names = {
@@ -50,7 +50,7 @@ cushitic = {
 			Yasmiin_Yasmin Yusuur
 			Zakiya Zara
 		}
-		
+
 		dukes_called_kings = yes
 
 		modifier = default_culture_modifier

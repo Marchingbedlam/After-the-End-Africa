@@ -5,12 +5,12 @@ christian = {
 	crusade_cb = crusade
 	playable = yes
 	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
-	
+
 	ai_convert_same_group = 2 # always try to convert
 	ai_convert_other_group = 2 # always try to convert
-	
+
 	color = { 0.8 0.8 0.6 }
-	
+
 	# Names given only to Christian characters (base names)
 	male_names = {
 		Benedict Celestine Christian Christopher Constantine Emmanuel Francis Gregory Martin Nicholas Pascal Paul Peter Simon Stephen Vincent
@@ -18,7 +18,7 @@ christian = {
 	female_names = {
 		Angela Benedicta Catherine Christine Magdalena Ursula Virginia
 	}
-	
+
 	#default interface
 
 	anglican = {
@@ -32,13 +32,13 @@ christian = {
 		crusade_name = CRUSADE
 		scripture_name = THE_BIBLE
 		priest_title = PRIEST
-		
+
 		high_god_name = GOD_GOD
-		
+
 		god_names = {
 			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
 		}
-		
+
 		evil_god_names = {
 			SATAN LUCIFER THE_DEVIL
 		}
@@ -53,10 +53,10 @@ christian = {
 		can_retire_to_monastery = yes
 		priests_can_inherit = no
 		allow_rivermovement = yes
-		
+
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
-		
+
 		intermarry = catholic
 		#intermarry = anglican
 		intermarry = kimbanguism
@@ -72,13 +72,13 @@ christian = {
 		crusade_name = CRUSADE
 		scripture_name = THE_BIBLE
 		priest_title = PRIEST
-		
+
 		high_god_name = GOD_GOD
-		
+
 		god_names = {
 			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
 		}
-		
+
 		evil_god_names = {
 			SATAN LUCIFER THE_DEVIL
 		}
@@ -95,13 +95,13 @@ christian = {
 		priests_can_marry = yes
 		peace_piety_gain = 1.0 #Gains 1 extra piety per month while at peace
 		aggression = 0.5 # AI aggression factor
-		
+
 		can_retire_to_monastery = yes
 		can_demand_religious_conversion = no
 
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
-		
+
 		intermarry = catholic
 		intermarry = anglican
 		#intermarry = kimbanguism
@@ -114,23 +114,23 @@ muslim = {
 	crusade_cb = crusade
 	playable = yes
 	hostile_within_group = yes
-	
+
 	ai_convert_same_group = 2 # always try to convert
 	ai_convert_other_group = 1 # try to convert if ai_zeal is high
 	ai_fabricate_claims = no
-	
+
 	color = { 0 0.6 0 }
-	
+
 	interface_skin = { muslim_interface }
-	
+
 	# Names given only to Muslim characters (base names)
 	male_names = {
 		Abbas Abu-Bakr Abdul Abdul-Aziz Abdul-Karim Abdullah Abdul-Rahman Alhassan Bashir Ghazi Hamzah Hasan Hashim Hussein Idris Islam Jafar Jamal Khalid Khalil Mahmud Mansur Mohammed Mustafa Osman Qasim Ramadan Rashid Said Saud Sayyid Sultan Uthman Yazid Zubayr
 	}
-	
+
 	# Names given only to Muslim characters (base names)
 	female_names = {
-		Aisha Zaynab 
+		Aisha Zaynab
 	}
 
 	ashari = {
@@ -138,29 +138,29 @@ muslim = {
 
 		icon = 3
 		heresy_icon = 8
-		
+
 		color = { 0 0.6 0 }
-		
+
 		crusade_name = JIHAD
 		scripture_name = THE_KORAN
 		priest_title = IMAM_PRIEST
-		
+
 		high_god_name = GOD_ALLAH
-		
+
 		god_names = {
 			GOD_ALLAH GOD_THE_GREATEST
 		}
-		
+
 		evil_god_names = {
 			IBLIS SHAYTAN
 		}
-		
+
 		can_call_crusade = yes
 		priests_can_marry = yes
 		psc_marriage = no # Disallow uncle-nice and aunt-nephew marriages
 		max_wives = 4
 		matrilineal_marriages = no
-		
+
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
 		uses_decadence = no
@@ -177,29 +177,29 @@ muslim = {
 
 		icon = 16
 		heresy_icon = 16
-		
+
 		color = { 0.2 0.5 0 }
-		
+
 		crusade_name = JIHAD
 		scripture_name = THE_KORAN
 		priest_title = MARABOUT_PRIEST
-		
+
 		high_god_name = GOD_ALLAH
-		
+
 		god_names = {
 			AMADOU_BAMBA GOD_ALLAH GOD_THE_GREATEST IBRAHIMA_FALL SERIGNE_TOUBA
 		}
-		
+
 		evil_god_names = {
 			IBLIS SHAYTAN
 		}
-		
+
 		can_call_crusade = yes
 		priests_can_marry = yes
 		psc_marriage = no # Disallow uncle-nice and aunt-nephew marriages
 		max_wives = 4
 		matrilineal_marriages = no
-		
+
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
 		uses_decadence = no
@@ -216,29 +216,29 @@ muslim = {
 
 		icon = 3
 		heresy_icon = 8
-		
+
 		color = { 0.1 0.6 0.6 }
-		
+
 		crusade_name = JIHAD
 		scripture_name = THE_KORAN
 		priest_title = IMAM_PRIEST
-		
+
 		high_god_name = GOD_ALLAH
-		
+
 		god_names = {
 			GOD_ALLAH GOD_THE_GREATEST
 		}
-		
+
 		evil_god_names = {
 			IBLIS SHAYTAN
 		}
-		
+
 		can_call_crusade = yes
 		priests_can_marry = yes
 		psc_marriage = no # Disallow uncle-nice and aunt-nephew marriages
 		max_wives = 4
 		matrilineal_marriages = no
-		
+
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
 		uses_decadence = no
@@ -255,31 +255,31 @@ muslim = {
 
 		icon = 3
 		heresy_icon = 8
-		
+
 		color = { 0.2 0.6 0.22 }
 
 		parent = tarikah
-		
+
 		crusade_name = JIHAD
 		scripture_name = THE_KORAN
 		priest_title = MARABOUT_PRIEST
-		
+
 		high_god_name = GOD_ALLAH
-		
+
 		god_names = {
 			GOD_ALLAH GOD_THE_GREATEST
 		}
-		
+
 		evil_god_names = {
 			IBLIS SHAYTAN
 		}
-		
+
 		can_call_crusade = yes
 		priests_can_marry = yes
 		psc_marriage = no # Disallow uncle-nice and aunt-nephew marriages
 		max_wives = 4
 		matrilineal_marriages = no
-		
+
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
 		uses_decadence = no
@@ -296,32 +296,32 @@ muslim = {
 
 		icon = 4
 		heresy_icon = 9
-		
+
 		color = { 0 0.8 0 }
-		
+
 		crusade_name = JIHAD
 		scripture_name = THE_KORAN
 		priest_title = MULLAH
-		
+
 		high_god_name = GOD_ALLAH
-		
+
 		god_names = {
 			GOD_ALLAH GOD_THE_GREATEST
 		}
 		evil_god_names = {
 			IBLIS SHAYTAN
 		}
-		
+
 		can_call_crusade = yes
 		priests_can_marry = yes
 		psc_marriage = no
 		max_wives = 4
 		matrilineal_marriages = no
-		
+
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
 		uses_jizya_tax = yes
-		
+
 		intermarry = ashari
 		intermarry = mouride
 		intermarry = tarikah
@@ -334,35 +334,35 @@ pan_african = {
 	has_coa_on_barony_only = yes
 	graphical_culture = westerngfx
 	playable = yes
-	
+
 	ai_convert_same_group = 1
 	ai_convert_other_group = 2
-	
+
 	color = { 0.5 0.4 0.3 }
-	
+
 	ubuntu = {
 		graphical_culture = westernfx
 
 		icon = 13
 		heresy_icon = 14
-		
+
 		color = { 0.7 0.8 0.6 }
-		
-		
+
+
 		crusade_name = CRUSADE
 		scripture_name = THE_BIBLE
 		priest_title = PRIEST
 
 		high_god_name = GOD_JEHOVAH
-		
+
 		god_names = {
 			GOD_HOLY_SPIRIT GOD_THE_FATHER GOD_JESUS
 		}
-		
+
 		evil_god_names = {
 			LIGHTBRINGER
 		}
-		
+
 		pacifist = yes
 		can_excommunicate = yes
 		can_grant_divorce = yes
@@ -381,38 +381,38 @@ pan_african = {
 		attacking_same_religion_piety_loss = yes
 		women_can_take_consorts = yes
 		max_consorts = 3
-		
+
 		can_retire_to_monastery = yes
 		can_demand_religious_conversion = yes
        	 	character_modifier = { culture_flex = 1.00 }
 		religious_clothing_head = 2
 		religious_clothing_priest = 2
-		
-		
+
+
 	}
-	
+
 	libertarian = {
 		graphical_culture = muslimgfx
-		
+
 		icon = 13
 		heresy_icon = 14
-		
+
 		color = { 0.3 0.3 0.8 }
-		
+
 		crusade_name = LIBERATION_WAR
 		scripture_name = THE_MONROE_DOCTRINE
 		priest_title = JUDGE
 		piety_name = PATRIOTISM
-		
+
 		high_god_name = GOD_LIBERTY
-		
+
 		god_names = {
 			GOD_INDEPENDENCE GOD_PROSPERITY GOD_JUSTICE GOD_ROBERTS GOD_MONROE THE_FOUNDERS GOD_JOHN_BROWN
 		}
 		evil_god_names = {
 			THE_FIRESTONE THE_MAD_KING THE_TRAITORS THE_SLAVEMASTER
 		}
-		
+
 		autocephaly = yes
 		can_excommunicate = yes
 		can_call_crusade = no
@@ -424,37 +424,37 @@ pan_african = {
 		female_temple_holders = yes
 		attacking_same_religion_piety_loss = yes
 		feminist = yes
-		
+
 		priests_can_marry = yes
 		priests_can_inherit = no
 		psc_marriage = no # Disallow uncle-neice and aunt-nephew marriages
-		
+
 		aggression = 1.5 # MANIFEST DESTINY
-		
+
 		religious_clothing_head = 2
 		religious_clothing_priest = 2
 	}
-	
+
 }
 pirate = {
 	has_coa_on_barony_only = no
 	graphical_culture = norsegfx
 	playable = yes
 	hostile_within_group = yes
-	
+
 	color = { 0.4 0.2 0.2 }
-	
+
 	interface_skin = { pirate_interface pagan_interface }
-	
+
 	ai_convert_same_group = 2 # try to convert if ai_zeal is high
 	ai_convert_other_group = 1	# only if zealous
-	
+
 	brethren = { # pirates!
 		graphical_culture = norsegfx
 
 		icon = 10
 		heresy_icon = 10
-		
+
 		color = { 0.3 0.2 0.2 }
 
 		high_god_name = GOD_NEPTUNE
@@ -465,7 +465,7 @@ pirate = {
 		evil_god_names = {
 			THE_HANGMAN DAVY_JONES
 		}
-		
+
 		scripture_name = THE_CODE
 		priest_title = PRIEST
 		priests_can_marry = yes
@@ -480,7 +480,7 @@ pirate = {
 		defensive_attrition = yes
 		uses_jizya_tax = yes
 		aggression = 2.0 # AI aggression factor
-		
+
 		unit_home_modifier = {
 			land_morale = 0.8
 			light_infantry_defensive = 0.8
@@ -489,10 +489,10 @@ pirate = {
 			archers_defensive = 0.8
 			key = "DEF_RELIGION_HOME_TERRITORY"
 		}
-		
+
 		religious_clothing_head = 17
 		religious_clothing_priest = 17
-		
+
 	}
 }
 syncretic = {
@@ -500,12 +500,12 @@ syncretic = {
 	graphical_culture = westerngfx
 	playable = yes
 	hostile_within_group = yes
-	
+
 	color = { 0.6 0.7 0.1 }
-	
+
 	ai_convert_same_group = 2 # try to convert if ai_zeal is high
 	ai_convert_other_group = 1	# only if zealous
-	
+
 	akom = {
 		graphical_culture = westerngfx
 
@@ -517,13 +517,13 @@ syncretic = {
 		crusade_name = CRUSADE
 		scripture_name = THE_BIBLE
 		priest_title = PRIEST
-		
+
 		high_god_name = GOD_NYAME
-		
+
 		god_names = {
 			GOD_ANANSI GOD_JESUS GOD_ASASE_YA GOD_ABOSOM
 		}
-		
+
 		evil_god_names = {
 			BONSAM LUCIFER THE_DEVIL
 		}
@@ -535,10 +535,10 @@ syncretic = {
 		allow_looting = yes
 		female_temple_holders = yes
 		max_consorts = 3
-		
+
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
-		
+
 		#intermarry = akom
 		intermarry = vodun
 		intermarry = esin
@@ -554,13 +554,13 @@ syncretic = {
 		crusade_name = CRUSADE
 		scripture_name = THE_BIBLE
 		priest_title = PRIEST
-		
+
 		high_god_name = GOD_NYAME
-		
+
 		god_names = {
 			GOD_MAWU GOD_LEGBA
 		}
-		
+
 		evil_god_names = {
 			GOD_LEGBA
 		}
@@ -572,10 +572,10 @@ syncretic = {
 		allow_looting = yes
 		female_temple_holders = yes
 		max_consorts = 3
-		
+
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
-		
+
 		intermarry = akom
 		#intermarry = vodun
 		intermarry = esin
@@ -591,13 +591,13 @@ syncretic = {
 		crusade_name = CRUSADE
 		scripture_name = THE_BIBLE
 		priest_title = PRIEST
-		
+
 		high_god_name = GOD_OBATALA
-		
+
 		god_names = {
 			GOD_SHANGO GOD_ORUNMILA GOD_ESHU GOD_YEMOJA GOD_OSHUN GOD_OYA GOD_OGOUN
 		}
-		
+
 		evil_god_names = {
 			GOD_ESHUN
 		}
@@ -609,10 +609,10 @@ syncretic = {
 		allow_looting = yes
 		female_temple_holders = yes
 		max_consorts = 3
-		
+
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
-		
+
 		intermarry = akom
 		intermarry = vodun
 		#intermarry = esin
