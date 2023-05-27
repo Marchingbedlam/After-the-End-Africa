@@ -369,6 +369,8 @@ e_guinea = {
 				b_bankon_GN = {}
 				b_franwalia_GN = {}
 				b_norassoba_GN = {}
+				
+b_tombea kanssa = {}
 			}
 			c_kouroussa = { # 38
 				color={ 38 143 97 }
